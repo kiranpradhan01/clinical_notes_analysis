@@ -1,0 +1,2205 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14768,8232,,,2575-09-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2575-9-2**]     Discharge Date:  [**2575-9-10**]
+
+Date of Birth:   [**2509-7-22**]     Sex:  M
+
+Service:
+
+ADDENDUM:
+
+DISCHARGE MEDICATIONS:
+1.  CellCept 1 gram b.i.d.
+2.  Protonix 40 mg q.d.
+3.  Colace 100 mg b.i.d.
+4.  Valcyte 450 mg q.o.d.
+5.  Nystatin 5 milliliters q.i.d.
+6.  Lopressor 25 mg b.i.d.
+7.  Aspirin 81 mg q.d.
+8.  Digoxin 0.125 mg q.o.d.
+9.  Lipitor 10 mg q.d.
+10. Tums 1,000 mg t.i.d.
+11. Lasix 60 mg b.i.d.
+12. PhosLo three tablets t.i.d.
+13. Calcitriol 0.5 micrograms q.d.
+14. Neoral 350 mg b.i.d.
+15. Amiodarone 200 mg q.d.
+16. Percocet 5/325 one to two q. four hours p.r.n.
+17. Insulin as directed.
+
+DISCHARGE INSTRUCTIONS:  The patient also needs Pentamidine
+inhalation prophylaxis given his allergy to Bactrim.  This
+will be arranged as an outpatient.
+
+
+
+
+                          [**Name6 (MD) 58**] [**Name8 (MD) **], M.D.  [**MD Number 2409**]
+
+Dictated By:[**Last Name (NamePattern1) 244**]
+
+MEDQUIST36
+
+D:  [**2575-9-10**]  04:46
+T:  [**2575-9-20**]  20:11
+JOB#:  [**Job Number 11187**]
+Signed electronically by: DR. [**First Name (STitle) 58**] [**Name (STitle) **]
+ on: [**Doctor First Name 123**] [**2575-10-5**] 9:19 PM
+(End of Report)
+
+
+",,
+14768,8232,,,2575-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-9-2**] 11:35 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 12285**]
+     Reason: central line                                                
+     Admitting Diagnosis: END STAGE RENAL DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with s/p renal transplant                                       
+     REASON FOR THIS EXAMINATION:
+      central line                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     CLINICAL INDICATION: Line placement.  Status post renal transplant.
+     
+     A right internal jugular vascular catheter is in satisfactory position within
+     the superior vena cava.  No pneumohthorax is identified.  Cardiac and
+     mediastinal contours are stable allowing for supine position of the patient.
+     Pulmonary vascularity appears indistinct but is likely obscured by motion.
+     There is a minor area of pleural and parenchymal scarring at the left base.
+     
+     IMPRESSION: Satisfactory positioning of central vascular catheter with no
+     pneumothorax.
+
+",,
+14768,8232,,,2575-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-9-2**] 11:35 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 12285**]
+     Reason: central line                                                
+     Admitting Diagnosis: END STAGE RENAL DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with s/p renal transplant                                       
+     REASON FOR THIS EXAMINATION:
+      central line                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     CLINICAL INDICATION: Line placement.  Status post renal transplant.
+     
+     A right internal jugular vascular catheter is in satisfactory position within
+     the superior vena cava.  No pneumohthorax is identified.  Cardiac and
+     mediastinal contours are stable allowing for supine position of the patient.
+     Pulmonary vascularity appears indistinct but is likely obscured by motion.
+     There is a minor area of pleural and parenchymal scarring at the left base.
+     
+     IMPRESSION: Satisfactory positioning of central vascular catheter with no
+     pneumothorax.
+
+",,
+14768,8232,,,2575-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-9-2**] 4:52 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 12284**]
+     Reason: END STAGE RENAL DISEASE
+     Admitting Diagnosis: END STAGE RENAL DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with crf pre-op kidney transplant                               
+     REASON FOR THIS EXAMINATION:
+      pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Chronic renal failure. Preop for kidney transplant.
+     
+     COMPARISON: [**2574-10-12**].
+     
+     CHEST, FRONTAL AND LATERAL: The patient is post CABG. There is stable
+     cardiomegaly.  There is stable pleural thickening on the left with blunting of
+     the CP angle. There is no definite effusion. There is stable linear scarring
+     in the lingula.  The lungs are otherwise clear.  There is no CHF actively.
+     There are degenerative changes in the spine.
+     
+     IMPRESSION: No CHF or pneumonia.  Chronic CP angle blunting on the left,
+     probably due to pleural thickening.
+     
+
+",,
+14768,8232,18352,0,2575-09-02 19:19:00 EST,2575-09-02 19:30:00 EST,-1,"N",54,"Nursing/Other","Admit Note","
+Admit Note
+Pt arrived to SICU from PACU s/p renal x-plant. Adm for emergent HD via R AV fistula for elevated K+ 6.7 & abnormal cardiac rhythm/conduction. rec'd 1Amp D50 & 10u insulin in PACU. A&OX3. LSCTA 2L via n/c. -BS. ABD soft. Abd inc w/ drsg [**Name5 (PTitle) 343**] & no drainage noted. JPX1 to bulb sxn for ss drainage. 3-way foley to NS cont. irrigation @ 50cc/hr inc. to 100cc/hr @ 7p for red urine w/ sm clots present. net u/o 14-20cc/hr. TMAX 102.9 on arrival. Blood CX drawn by dialysis RN & urine CX drawn. Currently HR 70's w/ no visible P waves on EKG. Cardiology consulted. Wearing external pacing pads as a precaution. Family up to visit w/ pt. belongings returned to pt from [**Hospital Ward Name **] 6.
+",,
+14768,8232,18352,,2575-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-9-3**] 10:55 AM
+     RENAL TRANSPLANT U.S.; DUPLEX DOP ABD/PEL LIMITED               Clip # [**Clip Number (Radiology) 12286**]
+     Reason:   Please assess transplanted kidney for inflow/outflow.     
+     Admitting Diagnosis: END STAGE RENAL DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man s/p kidney transplant.                                          
+     REASON FOR THIS EXAMINATION:
+        Please assess transplanted kidney for inflow/outflow.                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  Renal transplant ultrasound.
+     
+     INDICATION:  Status post kidney transplant.  Assess for vascular
+     flow/viability.
+     
+     FINDINGS:  The transplant kidney measures 10.1 cm.  The kidney shows good
+     corticomedullary differentiation.  Resistive indices throughout the kidney are
+     mildly elevated measuring approximately .9, and there is reduced diastolic
+     arterial flow.  Color images show reduced flow to the renal cortex. No
+     peritransplant fluid collections are identified. There is no hydronephrosis.
+     
+     Attempts at localizing the bladder were unsuccessful due to limitation from
+     overlying external bandaging.
+     
+     IMPRESSION:  Mildly elevated resistive indices of .9 with decreased diastolic
+     arterial flow.  Re-evaluation is recommended.
+     
+
+",,
+14768,8232,18352,,2575-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-9-3**] 10:55 AM
+     RENAL TRANSPLANT U.S.; DUPLEX DOP ABD/PEL LIMITED               Clip # [**Clip Number (Radiology) 12286**]
+     Reason:   Please assess transplanted kidney for inflow/outflow.     
+     Admitting Diagnosis: END STAGE RENAL DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man s/p kidney transplant.                                          
+     REASON FOR THIS EXAMINATION:
+        Please assess transplanted kidney for inflow/outflow.                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  Renal transplant ultrasound.
+     
+     INDICATION:  Status post kidney transplant.  Assess for vascular
+     flow/viability.
+     
+     FINDINGS:  The transplant kidney measures 10.1 cm.  The kidney shows good
+     corticomedullary differentiation.  Resistive indices throughout the kidney are
+     mildly elevated measuring approximately .9, and there is reduced diastolic
+     arterial flow.  Color images show reduced flow to the renal cortex. No
+     peritransplant fluid collections are identified. There is no hydronephrosis.
+     
+     Attempts at localizing the bladder were unsuccessful due to limitation from
+     overlying external bandaging.
+     
+     IMPRESSION:  Mildly elevated resistive indices of .9 with decreased diastolic
+     arterial flow.  Re-evaluation is recommended.
+     
+
+",,
+14768,8232,18352,0,2575-09-03 06:38:00 EST,2575-09-03 06:50:00 EST,4004,"N",54,"Nursing/Other","Condition Update B:","
+Condition Update B:
+Please refer to careview for details.
+NEURO: Encouraged to use PCA for pain control during C&DB, moving in bed.
+CV: Tmax 100.8. Tylenol admin x1 , T99.6. Converted from junctional rythym to NSR w/ prolonged PR interval as K corrected during HD. Denied CP, palp, SOB, N/V. Generalized [**2-16**]+ pit edema. Fluid bolus x1 with good effect for MAP<65 and 0cc u/ox1h.
+RESP: BUL CTA and dim bases. Encouraged to C&DB.
+GI: BS absent. Tol ice chips and water w/ meds. Denied N/V/flatus. 
+GU: NS bladder irrigation to keep urine pink and free of clots. cc:cc NS replacement of true u/o. U/O 20-50.
+SKIN: DSG C/D/I. JP stripped q1-2h draining red serosang fluid.
+
+PLAN: Monitor labs. HD as needed. Monitor rythym. Transfer to floor when bed available.
+
+",,
+14768,,,,2575-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-9-22**] 3:06 PM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 12287**]
+     Reason: 67 y/o s/p renal transplant with rising creatinine
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with 
+     REASON FOR THIS EXAMINATION:
+      67 y/o s/p renal transplant with rising creatinine
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND GUIDED NEEDLE BIOPSY OF THE TRANSPLANT KIDNEY.
+     
+     INDICATION:  67 year-old male patient, status post renal transplant with
+     rising creatinine.
+     
+     TECHNIQUE:  Real time evaluation of the transplant kidney was performed in
+     multiple planes using [**Doctor Last Name 63**] scale and color Doppler modalities.  Representative
+     images were acquired and evaluated.
+     
+     FINDINGS AND PROCEDURE:  Evaluation of the transplant kidney, which was
+     localized at the right lower quadrant, was performed.  The transplant kidney
+     measured 10.8 cm in longitudinal diameter.  Using color Doppler, as well as,
+     spectral wave forms, the resistive index was measured at different portions of
+     the transplant kidney.  All measurements were elevated and ranging between
+     0.85 and 0.95.  These findings are consistent with graft rejection.
+     
+     A peritransplant collection was seen.  After obtaining written, informed
+     consent, and using usual sterile technique, an 18 gauge [**Last Name (un) 1867**] needle was
+     inserted into the peritransplant collection.  Approximately 10 cc of serous
+     tannish colored fluid were drained.  The fluid was sent to pathology for
+     evaluation.
+     
+     Incidental note of a big anechoic collection localized along the surgical scar
+     was observed.  These findings are consistent with a big seroma.
+     
+     At the end of the procedure, a biopsy site was identified and marked.  The
+     nephrology team performed an ultrasound guided biopsy of the transplant kidney
+     using an 18 gauge core needle.
+     
+     There were no complications during the procedure or immediately after the
+     procedure.
+     
+     Dr. [**First Name (STitle) 2742**], the staff radiologist, was present during the entire procedure and
+     directly supervised it.
+     
+     IMPRESSION:  Successful sampling of fluid from a peritransplant collection and
+     core biopsy of the transplant kidney as described above.
+     
+     There are imaging findings consistent with graft rejection.  Incidental note
+     of a large seroma along the surgical scar was also made.
+     
+                                                                 (Over)
+
+     DATE: [**2575-9-22**] 3:06 PM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 12287**]
+     Reason: 67 y/o s/p renal transplant with rising creatinine
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14768,,,,2575-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-9-22**] 7:58 PM
+     CHEST (PRE-OP AP ONLY)                                          Clip # [**Clip Number (Radiology) 12288**]
+     Reason: S/P KIDNEY TRANSPLANT
+     Admitting Diagnosis: S/P KIDNEY TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old man with crf pre-op kidney transplant                              
+       
+     REASON FOR THIS EXAMINATION:
+      pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Preop for renal transplant.
+     
+     COMPARISON: [**2575-9-2**].
+     
+     FINDINGS: There are median sternotomy wires. There has been removal of a right
+     IJ central venous line. The heart is not enlarged. Given supine positioning
+     there is no redistribution of the pulmonary vasculature. There are no focal
+     airspace consolidations. There is blunting of the left CPA laterally.
+     
+     IMPRESSION: No CHF or pneumonia.
+
+",,
+14768,,,,2575-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-9-22**] 3:06 PM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 12287**]
+     Reason: 67 y/o s/p renal transplant with rising creatinine
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with 
+     REASON FOR THIS EXAMINATION:
+      67 y/o s/p renal transplant with rising creatinine
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND GUIDED NEEDLE BIOPSY OF THE TRANSPLANT KIDNEY.
+     
+     INDICATION:  67 year-old male patient, status post renal transplant with
+     rising creatinine.
+     
+     TECHNIQUE:  Real time evaluation of the transplant kidney was performed in
+     multiple planes using [**Doctor Last Name 63**] scale and color Doppler modalities.  Representative
+     images were acquired and evaluated.
+     
+     FINDINGS AND PROCEDURE:  Evaluation of the transplant kidney, which was
+     localized at the right lower quadrant, was performed.  The transplant kidney
+     measured 10.8 cm in longitudinal diameter.  Using color Doppler, as well as,
+     spectral wave forms, the resistive index was measured at different portions of
+     the transplant kidney.  All measurements were elevated and ranging between
+     0.85 and 0.95.  These findings are consistent with graft rejection.
+     
+     A peritransplant collection was seen.  After obtaining written, informed
+     consent, and using usual sterile technique, an 18 gauge [**Last Name (un) 1867**] needle was
+     inserted into the peritransplant collection.  Approximately 10 cc of serous
+     tannish colored fluid were drained.  The fluid was sent to pathology for
+     evaluation.
+     
+     Incidental note of a big anechoic collection localized along the surgical scar
+     was observed.  These findings are consistent with a big seroma.
+     
+     At the end of the procedure, a biopsy site was identified and marked.  The
+     nephrology team performed an ultrasound guided biopsy of the transplant kidney
+     using an 18 gauge core needle.
+     
+     There were no complications during the procedure or immediately after the
+     procedure.
+     
+     Dr. [**First Name (STitle) 2742**], the staff radiologist, was present during the entire procedure and
+     directly supervised it.
+     
+     IMPRESSION:  Successful sampling of fluid from a peritransplant collection and
+     core biopsy of the transplant kidney as described above.
+     
+     There are imaging findings consistent with graft rejection.  Incidental note
+     of a large seroma along the surgical scar was also made.
+     
+                                                                 (Over)
+
+     DATE: [**2575-9-22**] 3:06 PM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 12287**]
+     Reason: 67 y/o s/p renal transplant with rising creatinine
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14768,,,,2575-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-12**] 8:44 AM
+     RENAL TRANSPLANT U.S. RIGHT                                     Clip # [**Clip Number (Radiology) 12289**]
+     Reason: hematuria , s/p recent kidney transplant, r/o kidney stone, 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with s/p kidney now with new onset hematuria
+     REASON FOR THIS EXAMINATION:
+      hematuria , s/p recent kidney transplant, r/o kidney stone, hydronephrosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hematuria.  S/P recent kidney transplant with biopsy on [**2575-9-22**].
+     
+     COMPARISON [**2575-9-22**].
+     
+     RENAL TRANSPLANT ULTRASOUND:  There is an area of high velocity turbulent
+     color flow identified in the upper pole of the transplant kidney near the site
+     of recent biopsy.  This demonstrates marked spectral broadening and very high
+     velocities on doppler interrogation.  The main renal vein demonstrates phasic
+     pulsatility.  Resistive indices obtained in the upper pole, mid-pole and lower
+     pole are all 0.85.  There is no hydronephrosis.  There is a small collection
+     of fluid medial to the lower pole which does not exert mass effect on the
+     kidney and which measures 3 x 1 cm.  There is a stable complex appearing fluid
+     collection medial and superior to the transplanted kidney with internal
+     septations.  It measures 10 x 3 cm and probably represents a resolving
+     hematoma.  There is no color flow identified within this.
+     
+     IMPRESSION:  A-V fistula in upper pole of transplanted kidney (communicated to
+     Dr. [**Last Name (STitle) 12290**]). RI's 0.85.
+     
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,,,,2575-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75736 PELVIS SEL/SUPERSEL A-GRAM    *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with chronic renal failure
+     REASON FOR THIS EXAMINATION:
+      chronic renal failure transplant kidney rlq.
+       
+      embolization of av shunt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Mr. [**Known patient lastname 12292**] is a 66 y/o man with chronic renal failure who has had coronary
+     artery bypass surgery and has been in cardiac failure on one occasion. He is
+     admitted because of an AV shunt that resulted from a biopsy of the
+     transplanted kidney in the right iliac fossa to have an intervention of
+     embolization  of the  AV fistula in upper pole of transplanted kidney.
+     Informed consent was obtained.   The right groin was prepped and draped in
+     usual sterile manner.  A needle was used to puncture the right femoral artery.
+     A guide wire and catheter were passed into the right iliac artery into the
+     aorta. The guide wire was exchanged for a flush catheter which demonstrated
+     the origin of the transplanted artery in the right external iliac artery just
+     below the hypoastric.  We were unable to be advanced into the artery.  This
+     was exchanged for a SOS Omni  catheter which easily entered the transplanted
+     artery. The SOS catheter was changed for a standard Cobra. Because of the
+     fistula in the periphery of the renal cortex a tracker catheter was used to
+     pass through the segmental arterial branches into the region of the renal
+     cortex. An injection of the contrast material localized the AV shunt. The
+     shunt was occluded with 500-700 micron sized particles followed by the
+     placement of 3, 2 mm coils into the periphery of the upper pole artery.
+     Injection following the occlusion demonstrated no flow distally into the
+     cortex with no filling of the previously decribed shunt.
+     
+     CONCLUSION:  Status post embolization of upper pole renal AV shunt. Note
+     approximately 80 ml of contrast material were used.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2575-10-18**] 7:28 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 12291**]
+     Reason: chronic renal failure transplant kidney rlq.,  , embolizatio
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+14768,7170,,,2575-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-22**] 10:33 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12293**]
+     Reason: fever, sob, evaluate for PNA                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      fever, sob, evaluate for PNA                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  66 y/o male with fever and SOB.  
+     
+     PORTABLE AP CHEST:  Comparison is made to previous films from [**2575-9-22**].
+     
+     FINDINGS:
+     There are median sternotomy wires. The heart is increased in size. There is
+     prominence of the pulmonary vasculature.  There are bilateral diffuse lung
+     opacities.  Blunting of the left costophrenic angle which is probable a small
+     pleural effusion.  The osseous and soft tissue structures are unremarkable.
+     
+     IMPRESSION:
+     Findings are consistent with CHF.
+     Underlying pneumonia cannot be excluded.
+
+",,
+14768,7170,,,2575-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-22**] 9:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12296**]
+     Reason: Acute worsening of SOB                                      
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old man s/p cadaveric renal transplant presents with two month history 
+       of cough with new onset SOB and fever.
+     REASON FOR THIS EXAMINATION:
+      Acute worsening of SOB                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post renal transplant, now with a two month history of
+     cough and shortness of breath.
+     
+     FINDINGS:  Comparison is made to an exam of approximately 12 hours earlier.
+     There is persistent cardiac enlargement.  The upper zone pulmonary vasculature
+     is prominent.  Allowing for patient motion, the bilateral diffuse
+     airspace/interstitial opacities are not significantly changed in appearance.
+     There is persistent blunting of the left costophrenic angle.  The visualized
+     soft tissues and osseous structures are stable.
+     
+     IMPRESSION:  Allowing for patient motion on the present exam, no significant
+     difference in congestive heart failure with associated pulmonary edema.
+     
+     
+
+",,
+14768,7170,,,2575-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-22**] 7:10 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 12295**]
+     Reason: Rule out DVT                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with past history of DVT presents with lower extremity swelling 
+      R >L and increased SOB.
+     REASON FOR THIS EXAMINATION:
+      Rule out DVT                                                                    
+     ______________________________________________________________________________
+     WET READ: SMLe FRI [**2575-12-22**] 7:37 PM
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  66 y/o man with history of DVT in the past with bilateral lower
+     extremity swelling, right worse than left, and increased shortness of breath.
+     
+     BILATERAL LOWER EXTREMITY VENOUS ULTRASOUND STUDY:  Both color and
+     Doppler ultrasound exam on the lower extremities was performed.  There is
+     normal compressibility of the common femoral, greater saphenous, superficial
+     femoral, and popliteal veins bilaterally.  There is normal respiratory
+     variation, augmentation and response to Valsalva of the common femoral,
+     superficial femoral, and popliteal veins bilaterally.  No DVT identified.
+     
+     IMPRESSION:  No DVT. 
+
+",,
+14768,7170,,,2575-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-22**] 6:39 PM
+     RENAL TRANSPLANT U.S.                                           Clip # [**Clip Number (Radiology) 12294**]
+     Reason: Evaluate for signs of enlargement, abnormality that could be
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with transplanted kidney on R side. Presenting with fever and 
+      cough suggestive of infection.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for signs of enlargement, abnormality that could be suggestive of 
+      infection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  66 y/o man with renal transplant with fever and cough.
+     
+     COMPARISON:  [**2575-10-12**].
+     
+     RENAL ULTRASOUND STUDY:  The transplanted kidney measures 11.5 cm in length.
+     No renal masses, stones or hydronephrosis.  The arterial and venous flow is
+     normal.  The resistive indices vary from 0.78 to 0.71, and is within normal
+     limits. No perinephric fluid collections identified.
+     
+     IMPRESSION:  No perinephric fluid collections.  No hydronephrosis or renal
+     calculi.  Normal resistive indices.
+
+",,
+14768,7170,18353,,2575-12-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-23**] 11:24 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 12297**]
+     Reason: pt. on several hepatotoxic drugs, now with increasing liver 
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with renal failure s/p cadaveric transplant admitted for PNA, 
+      CHF with evidence of elevated LFTs.
+     REASON FOR THIS EXAMINATION:
+      pt. on several hepatotoxic drugs, now with increasing liver function tests      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Renal failure, s/p cadvaric transplant.  Admitted for pneunonia, chf
+     with elevated LFT's.  On several hepatortoxic drugs.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  The liver shows no focal or textural
+     abnormalities.  There is no intra or extrahepatic biliary ductal dilatation.
+     There is no ascites.  There are atrophic kidneys bilaterally.
+     
+     IMPRESSION:  Normal liver.
+     
+     
+
+",,
+14768,7170,18353,,2575-12-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-23**] 11:33 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12298**]
+     Reason: check for focal infiltrate, resolution of CHF               
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         66 year old man s/p cadaveric renal transplant presents with two month  
+      history   of cough with new onset SOB and fever.
+     REASON FOR THIS EXAMINATION:
+      check for focal infiltrate, resolution of CHF                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM.
+     
+     History of renal transplant with cough, shortness of breath and fever.
+     
+     Status post CABG.  There is cardiomegaly.  There is flattening of the
+     diaphragms and diffuse bilateral interstitial/air-space opacities essentially
+     unchanged since the previous film of [**2575-12-22**], consistent with pulmonary
+     edema/consolidation/ARDS.  Atelectasis is present at the left lung base.  No
+     pneumothorax.
+
+",,
+14768,7170,18353,0,2575-12-23 00:19:00 EST,2575-12-23 00:29:00 EST,2301,"N",69,"Nursing/Other",,"
+
+Pt. admitted from ED @ 2200. Pt. very tachypneic on 5l np. sao2 ~92%. Lungs sounds; crackles throughout. Moist cough but non-productive. Sitting up @ 45 degrees, pcxr stat. IV ntg infusing @ 20mcq/min. Dose increased to .5mcq/kg/min due to elevated BP. HR 95-120's with bursts of rate 150-160. Peripheries cool to touch; nailbeds dusky. 
+Pt. alert and oriented and able to converse and answer questions. Family present when pt.arrived to floor and left for home shortly after. 
+",,
+14768,7170,18353,0,2575-12-23 02:49:00 EST,2575-12-23 02:58:00 EST,2301,"N",69,"Nursing/Other",,"
+
+Pt. remains tachypneic with RR ~32/ Sao2 95%. Pt. states that he is somewhat less sob. HR more controlled 80's afib. BP improved after increase in IV NTG. Pt. diuresing well after Lasix 20mg IV, that was given upon admission to unit. Plan: continue to monitor diuresis. Check electrolytes for K+ levels. Maintain current o2 therapy with hob elevated. Check BS QID & treat with SSRI prn. Check labs in the A.M. 
+Morning EKG. Cycle CK's.
+",,
+14768,7170,18353,0,2575-12-23 14:01:00 EST,2575-12-23 14:11:00 EST,1711,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+RESP--LUNGS WITH CRACKLES BILATERALLY. SAO2 ON 5L NC >98%. WILL ATTEMPT TO WEAN O2. DRY NON-PRODUCTIVE COUGH. NO SPUTUM CX OBTAINED. PT DENIES SOB ALTHOUGH HE DOES HAVE DOE WHEN HE GOT BACK TO BED.
+
+CARDIAC--NTG WEANED TO OFF. SBP <130. HR A-FIB WITH RARE PVC'S. 
+NEW PERIPHERAL #20 GAUGE ANGIO PLACED INTO L ARM WITHOUT INCIDENT. DENIES CP. MB'S ARE FLAT ALTHOUGH CPK'S 600.
+
+GI--PT HAS BEEN NPO FOR BRONCH PROCEDURE. HE HAS HAD WATER TO TAKE HIS AM PILLS. +BS. NO STOOL.
+
+GU--FOLEY CATH DRAINING >50 CC HR OF YELLOW URINE. PT RECEIVED 20 MG PO LASIX THIS AM. CR 3.5.
+
+ENDO--BS 325. GIVEN 10 U REG INSULIN SQ AT 1200. AT 1350 PT WAS VERY SOMNELENT WHEN BEING TOLD ABOUT BRONCH. STAT FS DONE AT THIS TIME AND BS 322. TO RECHECK BS AT 1600. LIVER ENZYMES ELEVATED. PT IS SCHEDULED FOR A U/S OF ABD SOMETIME TODAY.
+
+SKIN--INTACT. MULTIPLE AREAS OF ECCYMOISIS ON L ARM. 
+
+NEURO--A&O X3. OOB IN CHAIR X3.5 HRS. TOL WELL. MAE SPONT . FOLLOWS COMMANDS. NO DEFICIENCY IN NEURO STATUS.
+
+ID--AFEBRILE. ON MULTIPLE ABX.
+
+PAIN--DENIES ANY PAIN.
+
+[**Name8 (MD) 369**] RN HAS BEEN IN TOUCH WITH PT'S WIFE. SHE IS AWARE OF BRONCH PROCEDURE AND WILL BE IN LATER TODAY. BOTH PT AND WIFE ARE ILLUSTRATORS AND HAVE WORK THIS WEEKEND SO WIFE IS DOING THAT.
+
+A--STABLE PENDING BRONCH.
+
+P--CON'T TO MONITOR. ? TRANSFER TO FLOOR LATER TODAY. CHECK BS AT 1600.
+",,
+14768,7170,18353,0,2575-12-23 18:12:00 EST,2575-12-23 18:23:00 EST,2488,"N",69,"Nursing/Other",,"
+
+Nursing note 1500-1900
+   Pt's B/S at 1600 was 350 , pt was covered with 8u reg insulin, pt's bs continues to remain ^  and is slightly higher then noon  bs, spoke with the intern about ? of putting pt on an insulin drip. AT present pt to have repeat bs at 8p and  re address .
+pt also had clot sent, pt to be transfused tonight because of low hct.
+",,
+14768,7170,18353,,2575-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-24**] 6:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12299**]
+     Reason: Pulmonary edema and/or inflitrate                           
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        66 year old man s/p cadaveric renal transplant presents with two month 
+      history   of cough with new onset SOB and fever.
+     REASON FOR THIS EXAMINATION:
+      Pulmonary edema and/or inflitrate                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  History of renal transplant with cough, SOB and fever. 
+     
+     PORTABLE AP CHEST:  Status post CABG.  There is slight cardiomegaly. There are
+     persistent diffuse bilateral interstitial densities with slightly more
+     confluent opacity in the right upper lobe, unchanged since the prior study of
+     [**2575-12-23**].   Linear atelctasis is present at the left lung base. Findings are
+     consistent with pulmonary edema/consolidation/ARDS.  No pneumothorax.
+
+",,
+14768,7170,18353,0,2575-12-24 05:23:00 EST,2575-12-24 05:38:00 EST,2056,"N",69,"Nursing/Other","NPN-MICU","
+NPN-MICU
+Mr [**Known patient lastname 6481**] is about the same, sl less SOB.
+Resp: pt cont on 5l NP with RR 28-32. He says his breathing is sl labored but he still has the dry  non productive cough. He was tried on 50% CN with some relief and less WOB. He has some coarse crackles at the bases. His O2 sats cont to be >95%. He got a dose of IVP lasix in anticipation of getting blood but his hct increased at the 10pm blood chekcs so we will cont to trend his HCT.
+CV: his BP cont [**Last Name (un) **] stable at 100-120's, HR in the 70's AF, he denies any pain. 
+ID: he currently is afebrile on IVAB. 
+GI:his appetite is slow to return but he again denies any n/v or adb pain. No stool. His BS have sl decreased. LFT's are WNL
+GU:as noted above, pt rsp to lasix:u/o about 50cchr now, his I&O was 15oocc neg.
+Heme:hct back up to 28 at 10pm, so blood transfusion was held and HCT will be checked and trended in the am. His coags are WNL
+A/P:Will cont to wean O2 as tol.Cont IVAB  and await cx results of bronch. Keep pt activity level to a min till cx results are back. Note O2 sats snd follow lung exam to determine if cont diuresis is necesary
+    Support BP as needed
+    Folow hct 
+",,
+14768,7170,18353,0,2575-12-24 14:43:00 EST,2575-12-24 14:45:00 EST,1711,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-14500","
+NURSING PROGRESS NOTE 0700-14500
+ FOR NURSING PROGRESS NOTE,PLS REFER TO NURSING  NOTE IN ""NURSING TRANSFER NOTE"" SECTION OF CAREVIEW. 
+AWAITING POST TX HCT AND FOR BS TO DECREASE AFTER RECEIVING 12U REG INSULIN SQ AT 1200. THANKS.
+",,
+14768,7170,18353,0,2575-12-24 18:32:00 EST,2575-12-24 18:36:00 EST,2501,"N",69,"Nursing/Other","nursing note 1500-1900","
+nursing note 1500-1900
+c/o on hold d/t ^bs-300-400's,placed on insulin gtt at 10u/hr,pt.stable,no changes.please read transfer note.
+",,
+14768,7170,18353,,2575-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-25**] 5:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12300**]
+     Reason: any evidence of fluid overload or consolidation             
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          66 year old man s/p cadaveric renal transplant presents with two month   
+      history   of cough with new onset SOB and fever.
+     REASON FOR THIS EXAMINATION:
+      any evidence of fluid overload or consolidation                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM
+     
+     HISTORY:  Renal transplant with cough and shortness of breath, fever.
+     
+     Status-post CABG. There is cardiomegaly with upper zone redistribution. Ill-
+     defined bilateral air space opacities consistent with pulmonary edema,
+     improved since prior study of [**2575-12-24**]. Small left pleural effusion or
+     pleural thickening, unchanged. No pneumothorax.
+
+",,
+14768,7170,18353,0,2575-12-25 05:49:00 EST,2575-12-25 05:52:00 EST,2804,"N",69,"Nursing/Other",,"
+
+No further change in pt. status. pt. has remained on insulin gtt all shift and has been in the 300-400 range. insulin gtt is now at 16 units/hr and this am blood sugar is 110. otherwise refer to pt's transfer note.
+",,
+14768,7170,18353,0,2575-12-25 12:26:00 EST,2575-12-25 12:34:00 EST,2779,"N",69,"Nursing/Other",,"
+
+NURSING NOTE [**8-26**] Noon Review of Systems;
+Patient transfered to [**Hospital Ward Name **] 7 awake alert and oriented at 1300.  Transfer note done and sent to [**Hospital Ward Name **] 7 FS= 327 covered with 8 units of Regular Insulin. NPH dose increased also   Eating Lunch well.  #20 started in Left wrist .9NS infusing at 100cc/hr, Lasix D/cd.
+",,
+14768,7170,,,2575-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-27**] 2:41 PM
+     RENAL TRANSPLANT U.S. RIGHT                                     Clip # [**Clip Number (Radiology) 12301**]
+     Reason: FEVERS, ELEV CREAT
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old man with transplanted kidney on R side. Presenting with fever and  
+      cough suggestive of infection, now with increasing BUN/Creatinine.
+     REASON FOR THIS EXAMINATION:
+      see below                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Transplant kidney, fever, cough, elevated BUN creatinine.
+     
+     COMPARISON:  [**2575-12-22**].
+     
+     RENAL TRANSPLANT ULTRASOUND:  The transplant kidney is within the right lower
+     quadrant.  The kidney measures 10.9 cm.  There is no hydronephrosis.  There
+     are no perinephric collections.  The resistive indices measures .77 to .86.
+     
+     IMPRESSION:  Resistive indices measuring .77 to .86.  There is no
+     hydronephrosis or perinephric collection.
+
+",,
+14768,7170,,,2575-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-27**] 3:42 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12302**]
+     Reason: see below                                                   
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with concern for bilateral insterstitial changes concern for 
+      CHF axacerbation vs PCP or viral infection, please eval for change.
+     REASON FOR THIS EXAMINATION:
+      see below                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 66-year-old man with CHF versus PCP.
+     
+     COMMENTS: PA and lateral chest test was reviewed and compared with previous
+     study of Novemeber 10, 2003.
+     
+     The patient has prior CABG and median sternotomy. There is continued
+     cardiomegaly.
+     
+     There is increased diffuse opacities with prominent pulmonary vasculature
+     indicating slightly increased moderate degree of congestive heart failure.
+     There is associated small pleural effusion versus pleural thickening.
+     
+     Although diffuse opacity is probably due to congestive heart failure, the
+     possibility of diffuse infection cannot be totally excluded. Please obtain
+     chest radiographs after treatment for congestive heart failure.
+     
+     IMPRESSION: Diffuse opacity with increased pulmonary vasculature and
+     cardiomegaly most likely congestive heart failure. Please see comment.
+
+",,
+14768,7170,,,2575-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-29**] 11:41 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12303**]
+     Reason: see below                                                   
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old man with concern for bilateral insterstitial changes concern for  
+      CHF axacerbation vs PCP or viral infection, please eval for change after 
+      diuresis and new spikes.
+     REASON FOR THIS EXAMINATION:
+      see below                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 66-year-old man with CHF versus PCP or viral infection.
+     
+     COMMENTS: PA and lateral chest test was reviewed, and compared with the
+     previous study dated [**2575-12-27**].
+     
+     The previously identified diffuse bilateral opacity as well as prominence of
+     the pulmonary vasculature has been improving. These findings most likely
+     represent improving congestive heart failure.
+     
+     The patient has prior CABG and median sternotomy. There is continued
+     cardiomegaly. There is probably a small bilateral pleural effusion.
+     
+     IMPRESSION: Probable improving congestive heart failure.
+
+",,
+14768,7170,,,2575-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-29**] 2:00 PM
+     RENAL TRANSPLANT U.S. RIGHT                                     Clip # [**Clip Number (Radiology) 12304**]
+     Reason: PLEASE EVALUATE RT RENAL TX, AS CREATANINE LEVELS ARE IMPROVING
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        66 year old man with transplanted kidney on R side. Presenting with fever and 
+        cough suggestive of infection, now with increasing BUN/Creatinine.
+     REASON FOR THIS EXAMINATION:
+      ultrasoun guided renal transplant biopsy                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Renal transplant.
+     
+     COMPARISON:  [**2575-12-27**].
+     
+     FINDINGS:  The transplant kidney within the right pelvic fossa measures 10.7
+     cm.  There is no hydronephrosis or perinephric fliud collection.  The
+     resistive indices are slightly elevated, measuring 0.74 to 0.78.  The renal
+     vein is patent.
+     
+     IMPRESSION: Resistive indices measuring 0.74 to 0.78.  There is no
+     hydronephrosis or perinephric collection.
+     
+
+",,
+14768,7170,,,2575-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2575-12-31**] 9:26 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 12305**]
+     Reason: see below                                                   
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old man s/p renal transplant on immunosuppresive medications presents  
+      with two month history of cough. Here with worsening SOB and fever. 
+     REASON FOR THIS EXAMINATION:
+      see below                                                                       
+     CONTRAINDICATIONS for IV CONTRAST:
+      CRF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of renal transplant, on immunosuppressive medications.
+     Two-month history of cough.  Now with worsening shortness of breath and fever.
+     
+     TECHNIQUE:  Contiguous axial images were obtained through the chest without
+     intravenous contrast.
+     
+     COMPARISON:  Chest CT from [**2572-12-3**], abdominal CT from [**2575-2-9**], and multiple chest radiographs from the last several days.
+     
+     CT CHEST WITHOUT CONTRAST:  The heart size is at the upper limits of normal.
+     There are diffuse coronary artery calcifications.  Also noted are
+     calcifications of the aorta.  Multiple small lymph nodes are identified
+     throughout the mediastinum, including an 11-mm precarinal node which contains
+     a fatty notch.  There is no significant axillary lymphadenopathy.  There may
+     be a tiny left pleural effusion.
+     
+     Limited evaluation of the upper abdomen reveals evidence for a splenule. There
+     is also a high-attenuation lesion within the right adrenal gland which
+     measures 12 x 11 mm.  This has been evaluated recently by MRI.
+     
+     Lung windows demonstrate diffuse, patchy areas of ground-glass opacity
+     throughout both lungs, slightly greater on the right than on the left. There
+     are small cystic areas in the right upper lobe, with slightly more confluent
+     opacity.  There is also mild prominence of the pulmonary vasculature,
+     consistent with findings on recent chest radiographs. There is also mild
+     centrilobular emphysema, with upper lobe predominance.  The airways are patent
+     to the level of the segmental bronchi bilaterally.  There is
+     pleural/parenchymal thickening at both lung apices. Also noted is
+     atelectasis/scarring at the left lung base. There are several tiny calcified
+     lesions in both lower lobes as well as the right upper lobe. These findings
+     are consistent with prior granulomatous infection.
+     
+     Bone windows demonstrate no suspicious lytic or sclerotic abnormalities. There
+     are mild degenerative changes of the spine.  The patient is status post median
+     sternotomy and CABG.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2575-12-31**] 9:26 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 12305**]
+     Reason: see below                                                   
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Diffuse, patchy areas of ground-glass opacity, slightly greater on the
+     right than on the left.  Given the findings on recent chest radiographs, these
+     findings could be consistent with improving congestive heart failure. However,
+     a diffuse infectious process cannot be excluded and clinical correlation is
+     suggested.
+     
+     2) Mild centrilobular emphysema.
+     
+     3) Small calcified granulomas in the right upper lobe as well as both lower
+     lobes, consistent with a prior granulomatous infection.
+     
+     4) Right adrenal lesion, which has been previously evaluated by MRI.
+     
+
+",,
+14768,7170,,,2576-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-1-2**] 7:41 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 12306**]
+     Reason: PICC placement                                              
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with ESRD, s/p transplant, needs PICC for meds and blood draws, 
+      can't place on Right due to fistula site. IV eval at bedside - can't place.
+     REASON FOR THIS EXAMINATION:
+      PICC placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient s/p transplant requiring PICC line for meds and blood
+     draws. IV Team unable to place at bedside.
+     
+     PROCEDURE:  The procedure was performed by Drs.[**Last Name (STitle) 1022**] and [**Doctor Last Name 85**], with Dr.[**First Name (STitle) 85**]
+     being present and supervising throughout the procedure. The left upper arm was
+     prepped and draped in the usual sterile fashion.  As no suitable superficial
+     veins were visible, ultrasound was used for localization.  The left brachial
+     vein was entered under u/s guidance using a 21 gauge needle.  A .018 guidewire
+     was advanced through the needle into the SVC under fluoroscopic guidance.
+     Based on the markers on the guidewire, it was determined that a length of 46
+     cm would be appropriate.  The catheter was trimmed to length and advanced
+     through a 4 French sheath.  The sheath was removed and the catheter was
+     flushed.  A final chest x-ray demonstrates the tip in the superior vena cava,
+     just above the atrium.  The line is ready for use.
+     
+     A Statlock was applied and the heplocked.
+     
+     IMPRESSION:  Successful placement of a 4 French, single lumen, 46 cm total
+     length PICC line with tip in the superior vena cava, ready for use.
+     
+
+",,
+14768,7170,,,2576-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-1-2**] 7:41 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 12306**]
+     Reason: PICC placement                                              
+     Admitting Diagnosis: MYOCARDIAL INFARCTION-RENAL FAILURE-ANEMIA
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with ESRD, s/p transplant, needs PICC for meds and blood draws, 
+      can't place on Right due to fistula site. IV eval at bedside - can't place.
+     REASON FOR THIS EXAMINATION:
+      PICC placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient s/p transplant requiring PICC line for meds and blood
+     draws. IV Team unable to place at bedside.
+     
+     PROCEDURE:  The procedure was performed by Drs.[**Last Name (STitle) 1022**] and [**Doctor Last Name 85**], with Dr.[**First Name (STitle) 85**]
+     being present and supervising throughout the procedure. The left upper arm was
+     prepped and draped in the usual sterile fashion.  As no suitable superficial
+     veins were visible, ultrasound was used for localization.  The left brachial
+     vein was entered under u/s guidance using a 21 gauge needle.  A .018 guidewire
+     was advanced through the needle into the SVC under fluoroscopic guidance.
+     Based on the markers on the guidewire, it was determined that a length of 46
+     cm would be appropriate.  The catheter was trimmed to length and advanced
+     through a 4 French sheath.  The sheath was removed and the catheter was
+     flushed.  A final chest x-ray demonstrates the tip in the superior vena cava,
+     just above the atrium.  The line is ready for use.
+     
+     A Statlock was applied and the heplocked.
+     
+     IMPRESSION:  Successful placement of a 4 French, single lumen, 46 cm total
+     length PICC line with tip in the superior vena cava, ready for use.
+     
+
+",,
+14768,3702,,,2576-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-1**] 7:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12307**]
+     Reason: CENTRAL LINE PLACEMENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          66 year old man s/p cadaveric renal transplant presents with two month   
+      history   of cough with new onset SOB and fever.
+     REASON FOR THIS EXAMINATION:
+      patient in room 22-ed
+      patient with rigors and crackles right base, just placed central line, eval for
+      infiltrate and for line placement/ptx 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post renal transplant two months ago.  Shortness of
+     breath, fever, cough.  Evaluate for pneumonia and for line placement.
+     
+     AP CHEST:  Again seen are sternal wires.  The newly inserted left subclavian
+     central venous line tip is in the SVC in satisfactory position.  No
+     pneumothorax is visualized.  There is stable cardiomegaly.  The diffuse
+     bilateral parenchymal opacity is again present.  There is no significant
+     change allowing for differences in technique.  There is slight blunting of the
+     left CP angle laterally which may reflect a small effusion.  The right CP
+     angle is not covered on this study.
+     
+     IMPRESSION:  Successful line placement.  No pneumothorax.  Continued CHF.
+
+",,
+14768,3702,18354,,2576-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-2**] 10:14 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 12309**]
+     Reason: transaminitis, acute cholestatic picture without pain       
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old man with renal failure s/p cadaveric transplant admitted for PNA, 
+      CHF with evidence of elevated LFTs.
+     REASON FOR THIS EXAMINATION:
+      transaminitis, acute cholestatic picture without pain                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Renal failure.  Admitted for pneumonia CHF.  Elelevated LFT's.
+     
+     FINDINGS:  Visualized portion of the liver is normal in size, contour and
+     echogenicity.  No focal hepatic lesions are identified.  Gallbladder is not
+     completely distended due to patient's recent po intact.  There is no
+     gallbladder wall thickening, gallstones or gallbladder sludge.  There is a
+     sliver of focal edema in the gallbladder wall.  There is no sonographic
+     [**Doctor Last Name 1392**] sign, gallbladder sludge or gallstones.  No intrahepatic or
+     extrahepatic biliary ductal dilatation is visualized.  The pancreas is not
+     visualized due to overlying bowel gas.
+     
+     IMPRESSION:  Focal gallbladder edema likely due to CHF or fluid overload.
+     No sonographic evidence to suggest choelcystitis.
+
+",,
+14768,3702,18354,,2576-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-2**] 5:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12308**]
+     Reason: evaluate CHF vs infiltrates                                 
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           66 year old man s/p cadaveric renal transplant presents SOB and fever.     
+     REASON FOR THIS EXAMINATION:
+      evaluate CHF vs infiltrates                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath.
+     
+     PORTABLE FRONTAL RADIOGRAPH. Comparison [**2576-2-1**]. A left subclavian central
+     venous catheter is unchanged in position. The heart is enlarged. There has
+     been interval improvement in bilateral interstitial opacities as well as
+     slightly decreased perihilar haziness. There are small bilateral pleural
+     effusions, unchanged.
+     
+     IMPRESSION: Improving congestive heart failure. Persistent small bilateral
+     pleural effusions.
+
+",,
+14768,3702,18354,,2576-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-2**] 2:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12311**]
+     Reason: evaluate s/p rigid bronchoscopy                             
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            66 year old man s/p cadaveric renal transplant presents SOB and fever.    
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate s/p rigid bronchoscopy                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Post bronch.  Assess pneumothorax.
+     
+     PORTABLE UPRIGHT FRONTAL RADIOGRAPH:
+     
+     Comparison is made to film of 9 hours prior.
+     
+     FINDINGS:  There is no pneumothorax.  The heart and mediastinal contours are
+     stable.  A left subclavian catheter is unchanged in position.  The lung fields
+     again demonstrate mild congestive heart failure, unchanged from the prior
+     study.  There is a small left pleural effusion unchanged in the interval.
+     
+     IMPRESSION:  No pneumothorax.  No other interval change.
+
+",,
+14768,3702,18354,,2576-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-2**] 10:15 AM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 12310**]
+     Reason: PT WITH H/O DVT, NOW PRESENTING WITH RLE SWELLING, QUESTION DVT
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old man with past history of DVT presents with lower extremity 
+      swelling  R >L 
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of DVT with lower extremity swelling, right greater than
+     left.
+     
+     FINDINGS:  The right common femoral, superficial femoral, and popliteal veins
+     demonstrate normal compressibility, phasicity and augmentation with distal
+     compression. The left common femoral vein is unremarkable.
+     
+     IMPRESSION:  Negative right lower extremity duplex ultrasound.
+
+",,
+14768,3702,18354,0,2576-02-02 05:14:00 EST,2576-02-02 05:58:00 EST,2416,"N",69,"Nursing/Other",,"
+
+Nursing Note (1900-0700)
+
+Mr. [**Known patient lastname 6481**] is a 66 yr old male w/an extensive medical history who recently underwent a kidney transplant [**8-/2575**] complicated by rejection and arteriovenous fistula. Presented to EW [**2-1**] w/general malaise/SOB/chills/fever, hyperglycemia and hyperkalemia.  Pt was initiated on sepsis protocol in EW however it was soon apparent that pt did not appear to be septic and ""MUST"" guidelines were deferred.
+Mr. [**Known patient lastname 6481**] did show to have a CHF flare which responded well IV lasix. His right leg has some sl increased redness which will be workup for ?DVT/cellulitus. 
+
+Review of systems;
+Neuro: A&Ox3. Discouraged w/repeated hospitalizations which have increased in number since transplant. Quiet, minimal initiation of conversation. Wife, Faith, and daughter state that pt is ""not a complainer"" and known for ""not speaking up."" MAEW, mod strength to UEs
+
+CV: T max 10.3. WBC improved 7.5 (13.2), received po cipro/linezolid and one dose azithromycin. Awaiting ID approval for linezolid.Hct sl decreased to 27.2. K+ initially 7.7, received total of 2 bottles kayexalate w/subsequent stool x2 for large amt; 1 amp D50 with 10 u insulin.; k+ now 4.4. One ""presumed"" falsely elevated lactate of 6.2 in EW (?tube sat around); following lactates 1.7-2.5. Sepsis TLCL LSC. RLE with area of increased redness marked, no increase overnoc. DP/PT palpable BLE's.
+
+Resp: LS clear; 02 sat 90% Ra; placed 2L, sats >95%. Svo2 initially 20-30's; svo2 and c/o's SOB improved w/lasix 40 mg. Svo2  now in high 40's. Team aware.
+
+GI: Taking only water without n/v. IVF 5cc/hr. Abd soft, +BS. Large stool post kayexalate, OB neg. 
+GU: >2L post lasix. Urine cl yellow; Cr/Bun sl improved this am,59/3.7
+Fistula w/bruit/thrill to RUE. CVP initially high teens, now [**11-27**].
+
+Endo: Received NPH hs, BS 144 on arrival to micu. Cortisol level pnd, steroid stimulation deferred.
+
+Social: Wife and daughter verbalizing frustration and anger over repeated hospitlizations and ""undiagnosed"" diseases since transplant. Upon arrival, family demanding that kidney be removed and demanding an immediate diagnosis. MD s spoke w/family at length and they appeared much more appropriate after discussion. Wife states their life has been difficult w/min diversion due to pt's extensive medical history.
+
+Plan: Repeat CXR am. Monitor extent of redness RLE. IV antibx, blood/urine cx pnd. Await remainder of labs. SSI. Emotional support to pt and family. ID approval for next dose of linezolid. monitor for s/s infection.
+",,
+14768,3702,18354,0,2576-02-02 19:26:00 EST,2576-02-02 19:30:00 EST,2423,"N",69,"Nursing/Other",,"
+
+ADDENDUM TO ABOVE NOTE .
+AFTER RECEIVING APPROX HALF OF FIRST UNIT OF PRBC  PT TEMP ROSE FROM 99.8 PO TO 101 AX . DR [**First Name (STitle) **] CALLED BLOOD STOPPED DENIES CHEST TIGHTNESS OR FLUSHING WIFE STATES THAT HE HAS HAD A REACTION LIKE THIS WITH BLOOD BEFORE WHEN IT WAS GIVEN TOO FAST.  S/B DR [**First Name (STitle) **] TO HAVE BENADRYL AND TYLENOL.  THEN TO CONTINUE WITH TRANSFUSION ANDBUT TO GIVE BLOOD SLOWLY OVER 4 HOURS.
+",,
+14768,3702,,,2576-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-3**] 1:18 PM
+     RENAL TRANSPLANT U.S.                                           Clip # [**Clip Number (Radiology) 12312**]
+     Reason: FEVER, INC BUN/CREAT
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with transplanted kidney on R side. Presenting with fever and 
+      increasing BUN/Creatinine.
+     REASON FOR THIS EXAMINATION:
+      w/ resistive indices please                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  66 y/o man with renal transplant with fever and rising BUN and
+     creatinine.
+     
+     COMPARISONS: [**2575-12-29**]
+     
+     RENAL TRANSPLANT ULTRASOUND FINDINGS: The transplanted kidney was identified
+     in the right lower abdomen  and measures 11.1 cm in length. No perinephric
+     fluid collections or hydronephrosis is seen. No renal calculi identified.  The
+     resistive indices measure 0.71 in the upper pole, 0.70 in the mid pole and
+     0.79 in the lower pole, not significantly changed from prior study [**2575-12-29**].
+     The renal vein is patent.
+     
+     IMPRESSION:  Resistive indices measuring 0.70 to 0.79.  No hydronephrosis or
+     perinephric fluid collection. 
+
+",,
+14768,3702,,,2576-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-3**] 2:07 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12313**]
+     Reason: r/o occult bleed (?retroperitoneal vs peri-nephric) or any e
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66M s/p renal transplant on immunosuppresive medications presents w/ 
+      fevers/rigors, hct drop, transaminitis. 
+     REASON FOR THIS EXAMINATION:
+      r/o occult bleed (?retroperitoneal vs peri-nephric) or any evidence of 
+      colitis/abscess or liver abnormalities
+     CONTRAINDICATIONS for IV CONTRAST:
+      Cr 3.6, renal transplant
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  66 year old man status post renal transplant with fevers, rigors and
+     hematocrit drop.
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were performed
+     without IV contrast.
+     
+     COMPARISON:  [**2575-2-9**].
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  The liver, gallbladder, pancreas,
+     spleen are normal in appearance.  There is right adrenal fullness, unchanged.
+     The native kidneys are atrophic. There are coronary artery calcifications
+     again seen. The lung bases show minimal dependent changes.
+     
+     The opacified stomach, small and large bowel loops are unremarkable.
+     
+     The transplanted kidney is in the right lower quadrant.  There is a surgical
+     clip/coil present in the upper pole of the transplanted kidney.  There are a
+     few foci of air in the collecting system in the kidney.  This could be
+     consistent with emphysematous pyelitis in the right clinical setting.
+     
+     Adjacent to the right iliac vein is a 3.9-cm region of low attenuation fluid,
+     which is difficult to fully assess on this non-IV-contrast study.  This could
+     represent a lymphocele,  with post-op seroma or a retroperitoneal inclusion
+     cyst being less likely.
+     
+     There is a Foley catheter present in the bladder.
+     
+     CT OF THE PELVIS WITH ORAL CONTRAST.  The rectosigmoid colon, prostate are
+     normal in appearance.
+     
+     There is no free air or free fluid in the pelvis.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     
+     1) Foci of air in the collecting system in the transplanted kidney, which in
+                                                                 (Over)
+
+     DATE: [**2576-2-3**] 2:07 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12313**]
+     Reason: r/o occult bleed (?retroperitoneal vs peri-nephric) or any e
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the absence of a history of prior instrumentation is concerning for
+     emphysematous pyelitis.
+     2. Low- attenuation fluid collection in the right pelvis adjacent to the right
+     iliac vein, most likely a lymphocele, differential diagnosis includes seroma
+     and hematoma. 
+
+",,
+14768,3702,,,2576-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-3**] 2:07 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12313**]
+     Reason: r/o occult bleed (?retroperitoneal vs peri-nephric) or any e
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66M s/p renal transplant on immunosuppresive medications presents w/ 
+      fevers/rigors, hct drop, transaminitis. 
+     REASON FOR THIS EXAMINATION:
+      r/o occult bleed (?retroperitoneal vs peri-nephric) or any evidence of 
+      colitis/abscess or liver abnormalities
+     CONTRAINDICATIONS for IV CONTRAST:
+      Cr 3.6, renal transplant
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  66 year old man status post renal transplant with fevers, rigors and
+     hematocrit drop.
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were performed
+     without IV contrast.
+     
+     COMPARISON:  [**2575-2-9**].
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  The liver, gallbladder, pancreas,
+     spleen are normal in appearance.  There is right adrenal fullness, unchanged.
+     The native kidneys are atrophic. There are coronary artery calcifications
+     again seen. The lung bases show minimal dependent changes.
+     
+     The opacified stomach, small and large bowel loops are unremarkable.
+     
+     The transplanted kidney is in the right lower quadrant.  There is a surgical
+     clip/coil present in the upper pole of the transplanted kidney.  There are a
+     few foci of air in the collecting system in the kidney.  This could be
+     consistent with emphysematous pyelitis in the right clinical setting.
+     
+     Adjacent to the right iliac vein is a 3.9-cm region of low attenuation fluid,
+     which is difficult to fully assess on this non-IV-contrast study.  This could
+     represent a lymphocele,  with post-op seroma or a retroperitoneal inclusion
+     cyst being less likely.
+     
+     There is a Foley catheter present in the bladder.
+     
+     CT OF THE PELVIS WITH ORAL CONTRAST.  The rectosigmoid colon, prostate are
+     normal in appearance.
+     
+     There is no free air or free fluid in the pelvis.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     
+     1) Foci of air in the collecting system in the transplanted kidney, which in
+                                                                 (Over)
+
+     DATE: [**2576-2-3**] 2:07 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12313**]
+     Reason: r/o occult bleed (?retroperitoneal vs peri-nephric) or any e
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the absence of a history of prior instrumentation is concerning for
+     emphysematous pyelitis.
+     2. Low- attenuation fluid collection in the right pelvis adjacent to the right
+     iliac vein, most likely a lymphocele, differential diagnosis includes seroma
+     and hematoma. 
+
+",,
+14768,3702,,,2576-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-5**] 11:06 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN); DUPLEX DOPP ABD/PEL     Clip # [**Clip Number (Radiology) 12314**]
+     Reason: assess for vascular obstruction                             
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        66 year old man with renal failure s/p cadaveric transplant admitted for PNA, 
+       CHF with evidence of elevated LFTs.
+     REASON FOR THIS EXAMINATION:
+      assess for vascular obstruction                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  CHF with evidence of elevated LFT's.
+     
+     COMPARISON:  Examination is being compared with prior ultrasound of the
+     abdomen performed on [**2576-2-2**].
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  Real time evaluation of the abdomen was
+     performed in multiple plains using [**Doctor Last Name 63**] scale, color and post doppler imaging.
+     The left and right, as well as the main portal vein demonstrates patent
+     forward flow. The left, middle and right hepatic veins are likewise patent and
+     demonstrate normal flow.  The inferior vena cava is patent. The left and right
+     hepatic arteries demonstrate forward flow with adequate velocities and wave
+     forms.
+     
+     Again, no intrahepatic biliary ductal dilatation is seen. There are no liver
+     masses.
+     
+     A small contracted gallbladder is seen.
+     
+     IMPRESSION:  Unremarkable vascular ultrasound of the liver.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+14768,3702,,,2576-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-5**] 11:06 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN); DUPLEX DOPP ABD/PEL     Clip # [**Clip Number (Radiology) 12314**]
+     Reason: assess for vascular obstruction                             
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        66 year old man with renal failure s/p cadaveric transplant admitted for PNA, 
+       CHF with evidence of elevated LFTs.
+     REASON FOR THIS EXAMINATION:
+      assess for vascular obstruction                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  CHF with evidence of elevated LFT's.
+     
+     COMPARISON:  Examination is being compared with prior ultrasound of the
+     abdomen performed on [**2576-2-2**].
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  Real time evaluation of the abdomen was
+     performed in multiple plains using [**Doctor Last Name 63**] scale, color and post doppler imaging.
+     The left and right, as well as the main portal vein demonstrates patent
+     forward flow. The left, middle and right hepatic veins are likewise patent and
+     demonstrate normal flow.  The inferior vena cava is patent. The left and right
+     hepatic arteries demonstrate forward flow with adequate velocities and wave
+     forms.
+     
+     Again, no intrahepatic biliary ductal dilatation is seen. There are no liver
+     masses.
+     
+     A small contracted gallbladder is seen.
+     
+     IMPRESSION:  Unremarkable vascular ultrasound of the liver.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+14768,3702,,,2576-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2576-2-6**] 2:44 PM
+     FOREARM (AP & LAT) LEFT                                         Clip # [**Clip Number (Radiology) 12315**]
+     Reason: r/o osteomyelitis of l forearm                              
+     Admitting Diagnosis: SEPSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with immunosuppression from renal transplant; FUO and left 
+      wrist eschar; r/o osteo please
+     REASON FOR THIS EXAMINATION:
+      r/o osteomyelitis of l forearm                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Immunosuppression from renal transplant left wrist escar and fever of
+     unknown origin. R/O osteomyelitis of left forearm.
+     
+     FOREARM, 2 VWS
+     
+     No specific localizing history available. However, there does appear to be an
+     ulcer along the distal forearm adjacent to the distal ulna. No focal bone
+     destruction, periosteal new bone formation, soft tissue calcification or
+     radiopaque foreign body is detected. No fracture is identified. 
+
+",,
+14768,27682,18355,0,2579-05-09 03:45:00 EST,2579-05-09 04:13:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 1a-7a nrsg admit note: (please also see carevue flownotes for objective data)
+
+dx: sepsis (initial ER lactate 4.5); cellulitis LLE;
+
+69 yo ma w/ ESRD, CRT '[**75**], a-fib, recurrent celluitis, DM, CABG '[**68**];
+had PICC placed for 5 wk tx Rt big toe osteo, underwent surgical I&D [**4-21**]; also had callus removed from Left ball of foot [**4-21**];
+
+Went to Podiatry clinic [**5-7**], area on plantar left foot debrided;
+
+[**5-8**] went to ER for LLE redness; lactate found to be 4.5; pt initially afebrile, though had rigors; did soon develope T max'd at 105.0 (R); started on IV Zosyn, IVF resucitation; EF noted to be 40%; 
+   Anion Gap 24 in ER; 
+
+1 week prior to this admission, pt had fall, in which he sustained several head to toe bruises (occiput, right flank/retro-peritoneum), d/t being anti-coagulated for hx a-fib w/ failed cardioversion; head CT neg at time of fall; 
+   head CT repeated in ER [**5-8**] late pm to ensure negative for SDH, d/t mild mental status alteration as reported by daughter;
+
+Pt arrove approx 01:00; vss; again afebrile; patent foley--clear yellow urine; conversive w/ care-givers, aware of surroundings; if altered mental status, appeared to be subtle;
+
+Rt shin grey d/t PVD likely from or exacerbated by DM;
+LLE reddened, slightly swollen;
+
+Urine sent for ketones--found to be negative;
+am. labs sent at 03:00, showed anion gap down to 13 (from 24 in ER);
+
+B/P stabe, sbp in 140's;  ***left thigh b/p's***  d/t RUE fistula for HD, LUE PICC and SL/PIV, RLE osteomylitis/grey;
+
+O2 sat adequate 97% on approx 3 l nc O2;
+
+Pt w/ hx bladder CA; ? new lesion in lung per CXR--?met;
+Per MR, pt w/ Rt adrenal lesion--stable;
+Hx GIB while on heparin;
+
+Pt w/ supportive family (wife, daughter, noted in admit flow-record and face sheet);
+
+PLAN:
+1) Full Code
+2) Abx
+3) anti-rejection meds as ordered
+4) MRSA precautions
+5) Thigh cuff b/p's only (clarify which LE preferred for b/p measurements)
+6) Vanco trough due [**7-23**] a.m. 
+7) NPH and RISS insulin
+8) Rt neck IJ cares
+
+
+
+",,
+14768,27682,18355,0,2579-05-09 17:15:00 EST,2579-05-09 17:28:00 EST,511,"N",69,"Nursing/Other",,"
+
+TRANSFER NOTE WRITTEN
+RESP: BS'S CLEAR. NO O2-SATS 97-100%. 
+GI: GOOD APPETITE. + BS'S. LARGE SOFT BM TODAY. 
+RENAL: URINE CLEAR THIS AM, BUT APPEARS PINK-TINGED THIS PM. CREAT 3.6. +THRILL FROM RIGHT ARM FISTULA. NO DIALYSIS SINCE HIS TRANSPLANT.  RENAL INTO SEE PT. THIS AFTERNOON. REMAINS ON FLUID RESTRICTION. BUMEX RESTARTED.
+NEURO; ALERT AND ORIENTATED. [**Last Name (un) **]. SLEPT IN NAPS. 
+CV: HEMODYNAMICALLY STABLE. PULSES BIL BY DOPPLER. LEFT LEG U/S DONE =NO CLOTS FOUND.
+ENDOC: SSI FOR BS'S. 
+ID: CONT. ON ANTIBIOTICS. TEMP 99-99.8 AX. LEFT LEG REMAINS RED AND WARM, BUT NO PAIN UNLESS PALPATED. FOOT DRSG [**Name5 (PTitle) **]. NO DRAINAGE. AWAITING CX RESULTS. VANCO LEVEL 24.6. NO DOSE GIVEN TODAY. 
+COAGS: ON COUMADIN. 
+ACCESS: LEFT PERIPH REMOVED BY PT'S REQUEST. 
+SKIN INTEGRITY; BRUISING ON LEFT SIDE. 
+SOCIAL: DAUGHTER AND WIFE INTO VISIT. 
+PLAN: NEEDS VANCO LEVEL AT 19:30PM. PODIATRY CONSULTED. 
+MRSA AND VRE. 
+",,
+14768,27682,18355,0,2579-05-09 19:44:00 EST,2579-05-09 19:46:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn transfer brief note 20:45
+
+Report called to [**Hospital Ward Name 960**] 12 RN;
+Transfer note, Resident/team note fax'd to 12R;
+
+Floor requested pt not to be sent up until after 21:00.
+
+Pt aware of transfer to floor, valuables in safe returned to pt.
+",,

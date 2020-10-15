@@ -1,0 +1,626 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14999,17728,,,2852-07-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2852-7-5**]              Discharge Date:   [**2852-7-10**]
+ 
+Date of Birth:  [**2780-3-28**]             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 807**] 
+Chief Complaint:
+Myocardial infarction
+ 
+Major Surgical or Invasive Procedure:
+1. Placement of extracorporeal membrane oxygenation circuit and 
+cannulae in the catheterization laboratory.
+2. Emergent coronary artery bypass grafting x3 with the 
+saphenous vein grafts to the marginal artery, left anterior 
+descending artery and right coronary artery.
+3. Placement of Abiomed BVS 5000 left ventricular assist device.
+4. Bilateral groin exploration with repair of arterial and 
+venous puncture sites.
+5. Exploration, evacuation of hematoma
+6. Exploratory laparotomy, left colectomy
+
+ 
+History of Present Illness:
+This is a 72-year-old male who had a h/o coronary artery disease 
+and underwent a left anterior descending artery stent about a 
+month ago. He persisted in
+having chest pains and he was brought back to the 
+catheterization lab in an attempt to angioplasty his left 
+anterior descending artery as well as his right coronary artery. 
+During his catheterization, he developed a clot in his left main 
+and left anterior descending artery. He went into ventricular 
+tachycardia and arrested. Chest compressions were initiated. CT 
+surgery was called down to the catheterization lab where we set 
+up an ECMO circuit and reinserted a 15-French cannula in the 
+right femoral artery percutaneously followed by a 24-French 
+venous cannula up to the right femoral vein percutaneously. The 
+ECMO was initiated and we stopped chest compressions. We then 
+brought him to the
+operating room emergently for a coronary artery bypass grafting 
+and a possible left ventricular assist device placement. We had 
+discussed the risks and benefits with his daughter, who agreed 
+with us to proceed.
+ 
+Past Medical History:
+Hypercholesterolemia, HTN, CAD s/p LAD stenting [**5-21**], severe 
+COPD, pituitary disorder, carotid a. dz s/p L CEA 2003, ?h/o 
+TIA, BPH, herpes
+PSH: L CEA, orchiectomy age 16 after trauma, R arm injury, b/l 
+cataract surgery
+
+ 
+Social History:
+Patient is married with three adult children. He previously was 
+a truck driver. 
+ 
+Family History:
+No h/o CAD
+ 
+Physical Exam:
+expired
+ 
+Pertinent Results:
+[**2852-7-10**] 07:20AM BLOOD WBC-16.4* RBC-3.85* Hgb-12.2* Hct-33.3* 
+MCV-86 MCH-31.7 MCHC-36.7* RDW-15.5 Plt Ct-108*
+[**2852-7-10**] 07:20AM BLOOD PT-26.1* PTT-63.1* INR(PT)-2.7*
+[**2852-7-10**] 07:20AM BLOOD UreaN-36* Creat-4.0* Na-139 Cl-92* 
+HCO3-18*
+[**2852-7-10**] 07:20AM BLOOD ALT-819* AST-4319* AlkPhos-161* 
+TotBili-8.6*
+[**2852-7-10**] 10:52AM BLOOD Type-ART pO2-74* pCO2-43 pH-7.22* 
+calTCO2-19* Base XS--9
+[**2852-7-10**] 10:52AM BLOOD Glucose-88 Lactate-19.8* K-5.6*
+ 
+Brief Hospital Course:
+On [**2852-7-5**], Mr. [**Known patient lastname **] was admitted to the cardiac surgery service 
+under the care of Dr. [**Last Name (STitle) **] following an emergent CABG. For 
+details of the operation please see Dr.[**Doctor Last Name 11514**] operative 
+report. Post-operatively Mr. [**Known patient lastname **] had a very complicated course. 
+He was in critical condition from the start. He was cared for in 
+the CSRU with a left ventricular assist device. He underwent an 
+exploratory laparotomy on [**7-8**] with resection of his left colon 
+secondary to ischemic colitis. Mr. [**Known patient lastname 11515**] cardiovascular status 
+never recovered from the initial infarct, and required 
+defibrillation multiple times throughout the course of his ICU 
+stay. On [**2852-7-10**], after long discussion with family members, it 
+was decided to make him comfort measures only. He expired at 
+2:35 pm.
+ 
+Medications on Admission:
+ASA 325, Zocor 20, Quinine sulfate 260, Plavix 75, Minitran 
+0.2mg patch 2 patches qAM, Combivent INH prn, Spiriva INH qd, 
+Lisinopril-HCTZ 20-12.5mg qAM, Lopid 600"", HCTZ 25 q M/W/F, 
+Lasix 40prn for leg swelling, Norvasc 7.5"", Folic acid 1mg', KCL 
+20meq', Bromocriptine 2.5"", Doxazosin 2 qhs, Imdur 30, Acyclovir 
+400 prn herpes outbreaks, Centrum silver
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Myocardial infarction
+
+ 
+Discharge Condition:
+Expired
+
+ 
+Followup Instructions:
+N/A
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 809**] MD [**MD Number 810**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 650**] [**Last Name (NamePattern4) 3354**] MD [**MD Number 3355**] [**2852-7-10**] @ 1519
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: FRI [**2852-7-12**] 10:02 AM
+(End of Report)
+
+
+",,
+14999,17728,,,2852-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-5**] 6:58 PM
+     PELVIS (AP ONLY) PORT                                           Clip # [**Clip Number (Radiology) 13916**]
+     Reason: INCORRECT INSTRUMENT COUNT FROM O.R
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  72-year-old man incorrect instrument count from OR.
+     
+     AP RADIOGRAPH OF THE PELVIS:  There is no comparison.  Note is made of skin
+     staples bilaterally in lower pelvis.  Overlying tubes are noted, however, no
+     radiodense foreign body is noted otherwise.  No abnormal soft tissue
+     calcification.
+     
+     IMPRESSION:  Skin staples and overlying tubes.  No radiodense foreign body is
+     identified within the visualized portion of the pelvis.
+
+",,
+14999,17728,,,2852-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-5**] 6:40 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 13915**]
+     Reason: ptx, effusion                                               
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with s/p CABG, LVAD, Repair of Femoral Arteries                 
+     REASON FOR THIS EXAMINATION:
+      ptx, effusion                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old woman with status post CABG, repair of femoral
+     artery.
+     
+     No comparison.  Endotracheal tube is terminating approximately 3.5 cm above
+     the carina.  Swan-Ganz catheter is terminating in the main pulmonary artery.
+     Nasogastric tube is coursing down below the left hemidiaphragm.  There is two
+     mediastinal tubes and one mediastinal drain. Superior mediastinum is somewhat
+     widened, which may be due to positioning or postoperative change.  There is
+     bilateral pleural effusion.  There is increased interstitial markings
+     bilaterally.  No evidence of pneumothorax is noted.
+     
+     IMPRESSION:  Tubes and lines as expected.  Somewhat widened superior
+     mediastinum.  Bilateral pleural effusion.  Interstitial edema.  No definite
+     pneumothorax.
+
+",,
+14999,17728,18627,0,2852-07-05 16:58:00 EST,2852-07-05 16:59:00 EST,2785,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt admitted to unit from OR and placed on ventilator settings acceptable to anesthesia resident accompanying patient to unit.
+Bilateral breath sounds confirmed.
+",,
+14999,17728,18627,0,2852-07-05 18:42:00 EST,2852-07-05 18:51:00 EST,2780,"N",54,"Nursing/Other",,"
+
+Pt vt arrest in cath lab after attempted wireing of LAD [**Last Name (LF) **], [**First Name3 (LF) 17**] report pt had approx 1 hr CPR, ECMO placed and pt to OR emergent.  Pt arrived in CSRU approx 1800 s/p CX3, femoral repair post ecmo removal and cath site hematoma evacuation, and LVAD placement.  Pt arrived on levo/ins/epi/mil. Assessment is as follows:
+
+Neuro:  Pt not on any sedation meds at present in order to assess neuro status. rt pupil NR 5mm, lt pupil 4mm appears to have cataract.  No mvmt noted at present
+Cv:  Pt arrived on levo .03, mil .25, and epi .02 no changes made at present.  CO 4.8-5.2 PA 40-50's/30's, CVP 18-26.  LVAD flows 4.8-5.5, beat rate 588-60.  Oozy from ct and around dsgs, tx 2 FFP.  act 137.  Dopplerable pedal pulses. 2a 2v wires not tested. Pt arrived in nsr 80's, runs afib , amio bolus given, gtt ordered. svo2 80.
+Resp:  Arrived resp metabolic, see flowsheet for vent settings, sx blood tinged sputum.  lungs coarse, unable to  obtain sat reading, po2 wnl
+gi: ogt to  lcws, placement confirmed by auscultation, blood tinged bilious drng.  abd lg , firm and distended--unchanged per dr. [**Last Name (STitle) **] from preop
+gu:  foley patent, hematuria.  mannitol ordered per dr. [**Last Name (STitle) **]
+endo: bs rapidly dropping.  Was on insulin gtt 15u on arrival, down to 2u after 1 hr with bs 108.  
+social: family into visit (wife and daughter)  updated by dr. [**Last Name (STitle) **] and nurses.  daughter to be spokesperson
+plan: continue supportive care. titrate gtts to maintain map>60 and ci.2. continue assess cardio/resp status.  follow bs closely.  
+",,
+14999,17728,18627,,2852-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-6**] 7:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13917**]
+     Reason: interval change                                             
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with s/p CABG, LVAD, Repair of Femoral Arteries                
+       
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post CABG.
+     
+     CHEST:  Comparison is made with the prior chest x-ray of [**7-15**].  The
+     position of the various lines and tubes remains unchanged.  The endotracheal
+     tube lies 2.2 cm from the carinal angle.  Some interstitial edema is still
+     present, possibly less marked than on the prior occasion.
+     
+     IMPRESSION:  No substantial change since prior chest x-ray.
+                                                                           
+
+",,
+14999,17728,18627,,2852-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-6**] 3:03 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 13918**]
+     Reason: ? pleural congestion                                        
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        72 year old man with s/p CABG, LVAD, Repair of Femoral Arteries, 
+      re-exploration today      
+     REASON FOR THIS EXAMINATION:
+      ? pleural congestion                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post CABG, peripheral arterial disease.
+     
+     CHEST:  Compared to the prior film the position of the various lines and tubes
+     remains unaltered.  Overlying the sternum numerous irregular opacities are
+     seen probably representing dressings.  No failure is seen.  The lungs are
+     essentially clear.
+     
+     IMPRESSION:  No significant change in position of lines and tubes.
+                                                                           
+
+",,
+14999,17728,18627,,2852-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-6**] 3:03 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 13918**]
+     Reason: ? pleural congestion                                        
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        72 year old man with s/p CABG, LVAD, Repair of Femoral Arteries, 
+      re-exploration today      
+     REASON FOR THIS EXAMINATION:
+      ? pleural congestion                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post CABG, peripheral arterial disease.
+     
+     CHEST:  Compared to the prior film the position of the various lines and tubes
+     remains unaltered.  Overlying the sternum numerous irregular opacities are
+     seen probably representing dressings.  No failure is seen.  The lungs are
+     essentially clear.
+     
+     IMPRESSION:  No significant change in position of lines and tubes.
+                                                                           
+
+",,
+14999,17728,18627,0,2852-07-06 03:03:00 EST,2852-07-06 03:06:00 EST,2183,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds coarse; suct sm loose bldy sput. MDI given as per order. ABGs presently stable; able to wean FIO2. Cont mech vent support.
+",,
+14999,17728,18627,0,2852-07-06 04:43:00 EST,2852-07-06 05:02:00 EST,1946,"N",54,"Nursing/Other",,"
+
+PATIENT CONTINUES WITH FULL SUPPORT LVAD WITH FLOWS FROM 4.5/5.3, SVO2 76%DOWN TO LOW 60% THIS AM, HR SR IN THE LOW 70'S, WITH PAUSE OF LVAD FOR RECAL PATIENT WITH NIL PSE! DESPITE MULTIPLE PRODUCTS SVO2 TRENDING DOWN BOTH CCOCI/FICK CI TRENDING DOWN , 3UPRBC, 4UFFP, 500CC 25GM ALBUMIN, PATIENT WITH LOW NUMBERS, CVP TRENDING UP FROM 21 TO 31 AT 6AM. CT RESIDENT [**Doctor Last Name **] AT BEDSIDE /WITH MULTIPLE CALLS TO CT FELLOW [**Male First Name (un) **], BY 4AM FELLOW CALLED TO EVALUATE PATIENT STATUS OF LOWER LVAD FLOWS WITH INCREASED PA PSE WITH DECREASED CI. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] AS FOLLOWS NO PLAN TO CLEAN CHEST , KEEP PRESSORS AS IS, DO NOT INCREASE MILIRONE, LEVO/EPI AS IS.AMIODAONE DECERASED TO .5MG/MIG. PLAN TO GIVE VOLUME/MANNITOL 25GM, ALSO GIVEN AT 2030 AS WELL WITH MINIMAL EFFECT.PATIENT 'S CHEST BLEEDING SIDE/TOP OF CHEST , IT APPEARS THAT DSG IS SATURATED BUT NOT SWOLLEN ENOUGH TO CLEAN OUT CHEST WILL FOLLOW CLOSELY. PATIENT ALSO BLEEDING FROM LEFT GROIN. VASCULAR RESIDENT IN X3 TO EVALUATE HEMATOMA, CIRCULATION PEDAL PULSES DOPPERABLE. PATIENT WITH ACE WRAP AMD VENODYNE BOOTS [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD. RESP LOTS O=F BLOODY SECRETIONS. ABG CONSISTENTLY IMPROVING RATE WAS INCREASED TO 20. COARSE BS BILATERALLY. CTS DRAINING APPROX. 100-175CC/HR BLOODY DRAINAGE WITH AIR LEAK9 MOST LIKELY D/T OPEN CHEST). GU U/O DRIFITNG DOWN TO NIL DESPITE X2 DOSES MANNITOL, BLADDER PSE 17, THEN 20 WILL FOLLOW. URINE BLOODY INTIALLY NOW AMBER, NO SEDIMENTS, CREATININE UP TO 1.8 THIS AM. GI PATIENT ON POROTNIX/CARAFATE, NO BS ABDOMEN OBESE. I/D PATIENT ON VANCOMYCIN 500MG Q12HRS X4DOSES. NEURO PATIENT [**Last Name (un) **] LID MOVING, RARM TWITCHING AS WELL AS LEG , WITH SUNCTIONED PATIENT COUGHED, SEDATED ON 20MCG/KG/MIN PROPOFOL.PATIENT  WITHTOTAL BODY EDEMA!! PROVIDE SUPPORT TO FAMILY..
+",,
+14999,17728,18627,0,2852-07-06 05:17:00 EST,2852-07-06 05:19:00 EST,1946,"N",54,"Nursing/Other",,"
+
+ADDENUM: SVO2 RECAL AT 5AM  SVO2 DOWN TO 53% [**Doctor Last Name **] AT BEDSIDE PLAN TO GIVE PRBC, CALLING FELLOW FOR FURTHER INTERVENTIOM. BS ELEVATED CONTROLLED WITH INSULIN DRIP PER CSRU PROTOCOL.
+",,
+14999,17728,18627,0,2852-07-06 15:02:00 EST,2852-07-06 15:07:00 EST,2942,"N",54,"Nursing/Other",,"
+
+RESPIRATORY----
+Pt maintained on a/c ventilation at 60%. Vitals stable with good sats. Sx for only scant amts. Meds given. Pt to the O.R. this a.m. for washout--returned with no incidence. Last abg 7.42-47-87-32-98%. Renal fail.-no output- 50 for the night. Plan is to cont on current settings and to follow gas exchange. 
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+
+",,
+14999,17728,18627,0,2852-07-06 18:45:00 EST,2852-07-06 19:22:00 EST,2780,"N",54,"Nursing/Other",,"
+
+EVENT:  PT BACK TO OR FOR REXPLORATION OF CHEST DUE TO BLEEDING , CLOT AND PLEURAL EFFUSIONS EVACUATED. PT 2 FFP IN OR.  RETURNED TO [**Location 340**] ON SAME GTTS. ASSESSMENT IS AS FOLLOWS:
+
+NEURO: PT RECIEVED ON PROP 20MCG/  PT WITH SLIGHT COUGH WITH SX AND GRIMACING WITH STIMULATION.  PT SPONTANEOUSLY RAISED BOTH ARMS AFTER ORAL CARE.  PROPOFOL INCREASED,MSO4 GIVEN.  PT WITH NO SPONTANEOUS MVMT POST OP--NOT REVERSED.  PERRLA, SLUGGISHLY REACTIVE
+CV:  PT HR IN WHAT APPEARED TO BE JUNCTIONAL IN 60' S THIS AM, SVO2 IN HI 40'S LOW 50'S, BP 80'S, FLOWS LOW 4.  BLOOD PRODUCTS GIVEN, PT PACED WITH IMPROVEMENT IN HEMODYNAMICS.  PT CONT OOZY 100CC/HR OUT OF CT , PT TAKEN TO OR AT 1100. PT RETURNED RECEIVED ADDITIONAL 2 FFP, 1PLT AND 2 PC'S. WITH CORRECTION OF COAGULOPATHY.  CHEST TUBES DRY WITH SM INTERMITTENT LEAK.  JP DRNG APPROX 450 CC FROM1300-1900.  DOPPLERABLE PEDAL PULSES, B/L GROIN OOZE FROM CANNULATION SITES, VASCULAR FOLLOWING.  CVP PRIOR TO OR 25-30, POST OP DOWN TO 15-20.  PAD'S 25.  LVAD FLOWS POST OP FLOWS 5-5.4.  VACCUUM AT 75MM HG/ UNCHANGED.  GENERALIZED EDEMA. PT A WIRES STOPPED WORKING APPROPRIATELY AT 1800, ATTEMPTED CHANGING POLARITY WITH NO EFFECT. UNDERLYING 60'S ? IRREGULAR JUNCTIONAL OR SLOW AF ( BP AND SVO2 DOWN IN OWN RHYTHM), REBOLUSED WITH AMIO/  CONTINUES ON GTT AT 0.5, AND NOW AV PACED AT 90 WITH GOOD EFFECT. LEVO TITRATED TO MAINTAIN MAP>60, EPI/MIL DOSE UNCHANGED.  
+RESP:  CMV 500X22 PEEP INCREASED 10 POST OP. PO2'S 80.  ABG BALANCED. LUNGS COARSE, DIM BASE, BLOODY SECRETIONS.  BLOODY ORAL SECRETIONS
+GI: OGT TO LCWS INITIALLY BLOODY TINGED NOW BILIOUS.  ABD FIRM/DISTENDED, UNCHANGED.  LFT'S ELEVATED.  BILI WNL
+GU:  UOP VERY POOR, NO RESPONSE FROM 40MG LASIX, AFTER OR 100MG LASIX AND ZAROXYLN GIVEN AND GTT STARTED WITH UOP 50CC/HR.  STOPPED PER RENAL WHO RECCOMMEND STARTING CVVH TOMORROW.  CREAT 1.4->2.6  URINE PINK TINGED. 
+ENDO: SEE FLOWSHEET, INSULIN TITRATED
+SOCIAL: FAMILY UPDATED, INITIALLY UPSET THAT WERE NOT ABLE TO COME IN TO VISIT IMMEDIALTELY --EXPLAINED VISITING RULES,  EMOTIONAL SUPPORT GIVEN, FAMILY UNDERSTANDING.
+PLAN:  CONTINUE CARDIO/RESP SUPPORT. MAINTAIN FLOW 5.0 IF POSSIBLE. ? ANTICOAGULATION TONIGHT. FOLLOW UOP ? START CVVH, FOLLOW BS Q1HR WHILE ON GTT--CONTINUE CURRENT POC
+",,
+14999,17728,18627,,2852-07-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-7**] 1:15 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 13919**]
+     Reason: check dialysis line placement                               
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         72 year old man with s/p CABG, LVAD, Repair of Femoral Arteries,  
+      re-exploration today      
+     REASON FOR THIS EXAMINATION:
+      check dialysis line placement                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Renal failure status post CABG.  Check position dialysis
+     line.
+     
+     A Swan-Ganz catheter is present with the tip in the main pulmonary artery.  A
+     mediastinal tube and a drain into the mediastinum seen.  A nasogastric tube is
+     present with the tip in the stomach.  A left subclavian line is present with
+     the tip at the junction of the left innominate and SVC.
+     
+     Cardiac size is not enlarged.  No failure or infiltrate is seen.
+     
+     IMPRESSION:  No failure.  No infiltrates.  Dialysis catheter tip at junction
+     of innominate and SVC.
+                                                                           
+
+",,
+14999,17728,18627,0,2852-07-07 02:28:00 EST,2852-07-07 03:04:00 EST,2301,"N",54,"Nursing/Other",,"
+
+Neuro: Propofol increased from 30-40 mcq/kg/min when it was noted that pt. moved hands and was shaking head side to side. He did not follow commands when asked simple questions. Pt. synchronized with vent; occ. spont. resp noted prior to propofol increase. 
+
+CV: Pt. completely in av-paced rhythm No problems with [**Name2 (NI) 583**]. LVAD with flows >5 L and beat rate 55-60. PAD ~29 and CVP ~22. Occ. drifts in CO to 4l/min but resolved within several minutes. SVO2 ~62%. Requiring increase in Levophed to .1mcq/kg for SBP's 88-90. See flowsheet for other drips and doses. Anticoagulation started for LVAD with heparin infusion. Started at 600u/hr and up to 800u when ACT 160's. PTT up to 92 with morning labs but ACT 202. Heparin cutback to 600u/hr. 
+
+Pulm: Breath sounds coarse to diminished. Peep up to 15 in order to raise po2 from 74 to >80. ABG remains with a met. alkalosis. Chest tube drng minimal.
+
+GI: Tol OGT clamping for meds. Protonix IV q24. No bowel sounds; bladder pressures [**11-27**]. 
+
+GU: huo 25-40. May start CVVHD in the next couple of days.,No Lasix per renal.
+
+Integ: Chest open and draped in sterile dsg. Left fem site oozes blood.JP from ant. chest wound on intermittent sx. Right fem site stable. Pt. is Extremely edematous. Blisters on lower extr. along incisions; compression sleeves on. 
+
+Heme: Hct 28.6. Plts improving. Heparin for anticoagulation of LVAD.
+
+Plan: hemodynamic stability in order to wean VAD in the next few days. Optimize oxygenation. Renal consult for CVVHD. Monitor for infection (temp)/ WBC,  
+",,
+14999,17728,18627,0,2852-07-07 04:14:00 EST,2852-07-07 04:18:00 EST,7781,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+PT. intubated on ventilatory support. Numerous vent setting changes made to improve oxygenation and PH. ABGs reveal metabolic alkalosis. PT with minimal secretions. Alb/Atro adm to maximize airway integrity.
+",,
+14999,17728,18627,0,2852-07-07 12:42:00 EST,2852-07-07 12:50:00 EST,1586,"N",54,"Nursing/Other","neuro","
+neuro
+D: propofol turned off-
+R: pt responding to simple commands- attempting to open eyes-moves arms and legs on bed. did nod that her was in pain.
+once exam done- propofol back on at low dose--20 mg
+R: sbp >90 when propofol at low dose
+",,
+14999,17728,18627,0,2852-07-07 16:27:00 EST,2852-07-07 16:28:00 EST,5250,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt remains orally intubated on full mechanical support.  Currently on A/C ventilation w/ PIP/Pplat = 29/25.  BS diminished, no secretions suctioned.  MDIs given as ordered.  SpO2 90s.  RR dropped to 18BPM d/t respiratory alkalosis per ABG.  See resp flowsheet for specifics.
+
+Plan: maintain full support
+",,
+14999,17728,18627,0,2852-07-07 17:34:00 EST,2852-07-07 17:45:00 EST,1586,"N",54,"Nursing/Other","anticoagulation","
+anticoagulation
+D: pt on heparin 600 units- ptt elevated >90 and act within limits 180's--
+A; Spoke with [**Doctor First Name **] from abiomed--stated follow ptt
+D: Pt cont on heparin at 600 units--orinally act and ptt wnl-then act >300- checkd ptt >150..
+A: heparin to off 
+A: act rechecked 220
+R: heparin restarted at 400 units/hr once act 164 and ptt 72.6.
+plan: follow ptt and act--closely
+",,
+14999,17728,18627,0,2852-07-07 18:38:00 EST,2852-07-07 19:01:00 EST,1586,"N",54,"Nursing/Other","update","
+update
+D: pt cont with support from LVAD- flow rate 4.9-5.2, rate 57-58, co low 4.1 to 5--ci consistently >2. this am sbp dipped into 70's at times titrated levo up to 1.7 mcq and epi up to .03 mcq--pt also recieved pc and some additional fluid to ais in maintaining sbp >90/.
+weaned milrione to off and pt noted to be in junctional rhyth--unable to a pace pt- amiodarone to off.
+plan; cont to support pt with iontropes and lvad- ? close chest asap.
+neuro: pt woke -off propofol- for neuro eval- mae to command, nodded head and attempted to open eyes.responding to noxious stimuli.
+cardiac: pt originally av paced, underlying rhythm 70's junctional rhythm-unable to a pace- left pacer off- pt tol bp at that time--co>4 and ci>2-flows dipping to 4.9 at times- as noted pt recieved pc for vol and a total of 1L fluid over approx a 6hr period.
+sbp 80's- to 110/60- as noted levo 1.7 mcq, epi up to .03 mcq.
+resp; pt remains vented- peep up to 15, fio2 60%- bs dim throughout.
+pt remains alkalotic-
+gi: no bs noted, cont ppi. ogt in place draining bilious material in small amts
+gu; foley in place, bladder pressures 12-u/o picking up throughout day 15-90cc/hr. creat up to 3.6.
+skin; pt grossly edematous--no obvious skin breakdown noted--pt has not been turned fully- [**12-20**] turn to sides only.
+
+",,
+14999,17728,18627,,2852-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-8**] 7:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13920**]
+     Reason: interval change                                             
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          72 year old man with s/p CABG, LVAD, Repair of Femoral Arteries             
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 7:46 A.M. [**7-8**]
+     
+     HISTORY:  Status post CABG.
+     
+     IMPRESSION:  AP chest compared to [**7-5**] through 23:
+     
+     Tip of the ET tube less than 1 cm from the carina, is standard with the chin
+     down.  Tip of the Swan-Ganz line projects over the main pulmonary.
+     Cardiomediastinal silhouette is normal.  Upper midline pleural drains are
+     still in place.  Right basal pneumothorax has decreased in size since [**7-7**]
+     but the volume of anterior pleural air on either side of the chest is
+     difficult to assess in the supine position.  No pulmonary edema is present.
+     
+     Tissue drains and sponges project over the sternotomy.
+
+",,
+14999,17728,18627,,2852-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14999,17728,18627,0,2852-07-08 00:08:00 EST,2852-07-08 00:23:00 EST,2301,"N",54,"Nursing/Other",,"
+
+Pt. had episode of sustained v-tach ~ 2140.Had been av-paced at 90 prior to this but a- wires not captuting 100%. Pt. sBP around 85 and LVAD flows maintained at 5L. Pt. was bolused with 300mg amiodarone and shocked with 200 joules. Converted into ? junctional tach -vs- afib. rate 90's. 
+2 gm magso4 given. amiodarone drip resumed at 1mg/min. Bp 80; Levo had been titrated up and now at .4mcq/kg. CVP 24. Pitressin added in order to wean levo down. Pt. placed on 100% Fio2 during the event and Po2 was >200 on abg. vent settings back to where they had been. Fio2 60%. Sao2 wavering around 92-94% abg revealed po2 78. fio2 up to 70%. 
+Pt. started to have VEA in the form of couplets and triplets. He was given 100 mg Lidocaine ivp. Monitored closely and VEA continued. Lido 100mg repeated at 2400 and vtach ensued about 2 minutes later. Shocked with 200 joules. converted into afib/? nodal rate ~ 70's. 2 gm CAGL given. Electrolytes monitored closely. HCT 29. SVO2 60's. CO 5l/min. 
+
+",,
+14999,17728,18627,0,2852-07-08 04:18:00 EST,2852-07-08 04:21:00 EST,7781,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. remains intubated on ventilatory support. Hemodynamically unstable. ABG's reveal worsening metabolic acidosis, compensatory vent settings made as per care vue. suctioned for thick bloody secretions. 
+",,
+14999,17728,18627,0,2852-07-08 06:20:00 EST,2852-07-08 06:35:00 EST,2301,"N",54,"Nursing/Other",,"
+
+Neuro: pt. sedated with propofol; no spont. movements noted and no response to verbal stim.
+
+CV: Pt. having periodic bursts of VTach requiring cardioversion. Lido boluses x3 (100mg each) and amiodarones boluses given x3(300mg, 150mg, 150mg). Pressor requirements greater with Levo at .5mcq/kg and Pitressin at .06u/min as of 0700. Becoming progressively more acidotic. 3 amps NaHCO3 given in between abg checks. LVAD flows >5L. SVO2 60-70%. EKG rhythm nodal to afib rate in the 70's. 
+
+Pulm: minimal secretions. FiO2 up to 100% when pt. having greater episodes of Vtach. Po2 123 this morninig. AC rate up to 26 to help correct PH. Peep 15. Chest drng stable. 
+
+GI: No change; neg bowel sounds although difficult to hear in view of LVAD noise. abdomen distended and taut from excessive fluid. OGT minimal bilious. 
+
+GU: Urine amber with sediment. U/A with large amount Heme. CRRT to start this morning.
+
+Heme: HCT 27 with one prbc's transfused. PLTS stable. Heparin infusion at 400u/hr with PTT in therapeutic range.
+
+Lytes: hyperkalemia treated with 10 units reg insulin and one amp dextrose. Acidosis treated with 3 amps Nahco3. Pt. to start on CRRT. 
+PH continues to be 7.27-7.29.
+
+Plan: CrrT to start. Monitor for further arrhythmias. BP support. Treat acidosis. Monitor heparing therapy for LVAD management. 
+",,
+14999,17728,18627,0,2852-07-08 13:44:00 EST,2852-07-08 13:53:00 EST,2780,"N",54,"Nursing/Other",,"
+
+AM EVENT NOTE:
+
+PT CONTINUE SEDATION ON PROP.HR 70'S ? JUCTIONAL/AF PT WITH MULITPLE RUNS VT--SUSTAINED X3, SHOCKED /OR CARDIOVERTED 200J.  PT LOADED LIDO 100MG AND GTT STARTED AT 2GM/MIN, 2 ADDITIOANL AMIO BOLUSES GIVEN AND CONT ON GTT.  PT ACIDOTIC, TOTAL 4 AMPS BICARB GIVEN PRIOR TO 1300.  PT CVVH STARTED AT 0750, RUNNING + WITH PFR OF 100.  CONTINUE TO HAVE BP 80'S DESPITE HI DOSE LEVO (0.5) PIT ^ 4.2U/HR) AND EPI.  TEE DONE, UNCHANGED FROM PREVIOUS ECHO, NO RECOVERY NOTED OF HEART, RT SIDE STILL FUNCTIONING DESPITE CVP 20'S.  DR. [**First Name (STitle) 97**] CALLED DUE TO RISING LFT'S AND LACATATE TO 13,  BEDSIDE SCOPE DONE (ANESTH PRESENT) VIA ABDOMEN.  BOWEL AND LIVER APPEARED ISHCEMIC, TO OR AT 1300 FOR EX LAP AND ? SMALL BOWEL RESECTION.  MD AND NURSE SPOKE WITH DAUGHTER, AWARE OF GRAVE CONDITION AND GAVE CONSENT FOR PROCEDURE.  FAMILY COMING IN, SOCIAL WORK CONSULTED. 
+",,
+14999,17728,18627,0,2852-07-08 17:24:00 EST,2852-07-08 17:25:00 EST,7040,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains intubated on CMV, settings and abg's as noted on carevue. Pt went to OR for exp lap, tol well. Pt continues to have af/vt runs requiring cardioversion. Plan to continue with current tx.
+",,
+14999,17728,18627,0,2852-07-08 18:40:00 EST,2852-07-08 18:56:00 EST,2780,"N",54,"Nursing/Other",,"
+
+ EVENT NOTE:
+PT RETURNED FROM OR AT 1500 PARTIAL COLECTOMY--ABD LEFT OPEN.  PT IN AND OUT SVT/VT/VF CARDIOVERTED/DEFIBRILLATED MULTIPLE TIMES. IN OR PT 1 PC, 4 FFP, 2 PLT. LIDO/AMIO BOLUSES GIVEN.  LIDO GTT TO 4MG ( UP FROM 2MG PREOP).  FLOW ON LVAD STILL >5 DESPITE ARRYTHMIAS.
+ASSESSMENT IS AS FOLLOWS:
+
+NEURO: PT NOT WAKEN, CONTINUES ON PROPOFOL.  UNABLE TO ASSESS PUPILS DUE TO PER-ORBITAL EDEMA
+CV: AS ABOVE SHOCKED MULTIPLE TIMES.  WHEN CONVERTS ALTERNATES BETWEEN JUNCTIONAL/ IDIOVENTRICULAR AND SLOW AF 60'S.  SVO2 60'S, CO/LVAD FLOWS 5.  GENERALIZED GROSS EDEMA.  DOPPLERABLE PEDAL PULSES. PAD 20'S, CVP 20'S.  LAST SHOCK 1730, BP IMPROVING SINCE THEN.  WEANING PIT SLIGHTLY.  JP IN CHEST DRNG MOD SANG, CT MINIMAL DRNG. TX 2 UPRBC FOR HCT 23 (UP TO 27) LACTATE HIGH OF 13.8 NOW 11.7 POST OP.  CONTINUES ON GTTS AS ABOVE
+RESP: PT ACIDODIC WITH PH 7.23-7.28.  MULTIPLE AMPS BICARB GIVEN. PO2 IN 80'S ON FIO2 80%. CMV 500X26 PEEP 15.  SX BLOODY SECRETIONS.  ORAL SECRETIONS BLOODY POST TEE. LUNGS DIM THROUGHOUT.  UNABLE GET SAT PLETH.
+GI: AS ABOVE PARTIAL COLECTOMY. OGT PLACED POST OP, TO LCWS BILIOUS/BLOODY DRNG.  ABD CONT FIRM DISTENDED.  NO BS. ABD OPEN, TO DRAINS TO INTERMITTENT WALL SX PUTTING ON BLOODY DRNG.  
+GU: MINIMAL [**Last Name (LF) **], [**First Name3 (LF) **] COLORED, FOLEY PATENT. CVVHD PER FLOWSHEET ATTEMPTING TO MAKE PT 100CC NEGATIVE PER HOUR IF TOLERATES. 
+SOCIAL:  FAMILY SPOKE WITH DR. [**Last Name (STitle) **] AND SW, DO NOT WANT TO WITHDRAW SUPPORT DESPITE GRIM OUTCOME, "" I FEEL IT IS IN GOD'S HANDS""
+PLAN: CONTINUE SUPPORTIVE CARE, WEAN PRESSORS FIRST PITT TO .04 THEN BEGIN WEANING LEVO PER [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 327**], CONT CVVHD AS TOLERATED. CONTINUE CURRENT PLAN OF CARE
+ 
+",,
+14999,17728,18627,,2852-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-9**] 5:16 PM
+     CHEST FLUORO WITHOUT RADIOLOGIST                                Clip # [**Clip Number (Radiology) 13921**]
+     Reason: PACER INSERTION
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     The C-arm was used in the operating room to assist in a pacemaker lead
+     insertion.  No films were saved.  The fluoro time was 13 minutes and 12
+     seconds.
+                                                                           
+
+",,
+14999,17728,18627,,2852-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-7-9**] 7:42 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 13922**]
+     Reason: check wire placement                                        
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;HYPERTENSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           72 year old man with s/p CABG, LVAD, and temp pacing wire placement        
+     REASON FOR THIS EXAMINATION:
+      check wire placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**7-9**]:
+     
+     INDICATION:  Postop cardiac surgery.  Check wire placement.
+     
+     FINDINGS:  Compared with [**2852-7-8**], the tip of the Swan-Ganz catheter has been
+     withdrawn to the level of the right atrium.  A right subclavian central venous
+     line is now present with its tip at the mid SVC level.
+     
+     There appears to be a small right basal pneumothorax with the patient supine.
+     This appears smaller than on a prior chest x-ray from [**7-7**].  No significant
+     atelectasis of the underlying right lung.
+     
+     The CHF appears to have essentially cleared.
+     
+     On several of the patient's recent postop portable studies, there is a
+     somewhat irregular poorly defined, approximately 2 cm rounded density
+     overlying the right lung apex.  This may be related to calcification of the
+     first costochondral junction, but on the film of 7/23, it may project over the
+     first anterior interspace rather than related to the first rib.  This should
+     be compared with any available preop films, and/or formal PA/lateral views
+     should be obtained when the patient's clinical condition permits.
+     
+     IMPRESSION: Tubes and lines as above.
+     
+     Persistent but smaller pneumothorax at the right base.
+     
+     Poorly defined density at the right apex.  Please see recommendations above.
+     
+     Findings discussed with the surgical PA.
+     
+
+",,
+14999,17728,18627,0,2852-07-09 02:32:00 EST,2852-07-09 03:32:00 EST,1730,"N",54,"Nursing/Other",,"
+
+NEURO-SEDATED ON 30MCGKGMIN PROPOFOL. NO PURPOSEFUL,SPONTANEUOUS OR REFLEXIVE MOVMENT. UNABLE TO ASSESS PUPILS D/T FACIAL EDEMA.
+
+CV- JUNC RHTHYM ,RATE=72. RARE PVC. LYTES WNL.0400: RHYTYM ATTEMPTING TO BREAK INTO NSR WITH SCATTERED P WAVES &/OR 1ST DEGREEE AV-BLOCK.A-LINE LOOSES PRESSURE WITH EACH PVC.VASOPRESSIN WEANED TO 2.4 UNITS/HR,LEVO WEANED TO 0.40MCGKGMIN WITH DECREASE IN SBP BELOW 100 AND INCREASE IN ECTOPY.LEVO PUT BACK @ 0.45MKKGMIN,CONTINUES ON  EPI,ISULIN,AMIO,PROP,CA+ WITH MVO2 BETWEEN 60->57% CCO =5.0 -> 4.7
+HCT STABLE @ 29.0.LVAD #'S STABLE.
+
+RESP-REMAINED VENTED ON CMV 80% X26 X12X15PEEP. ACIDOIS RESOLVED WITH CVVHD AND MULTIPLE AMPS BICARDM PREVIOUS SHIFT.LS WITH CLEAR YUPPERS &  DIFFICULTY HEARING BASES D/T LVAD.CT WITH SCANT SEROUSSANG DRG.
+
+GI- GIANTICALLY OBESE ABD. EXTREMELY TAUT WITH INTACT IOBAN COVERING OPEN AREA.2 jJP'S DRG SCANT SEROUS BLOODY DRG.
+
+GU- ON CVVHDF.ATTEMPTING TO KEEP PT 200 - /HR. TOLERATING WELL. MARGINAL U/O  FROM PT..~ 3-10CCC/HR.  SEE CAREVUE FOR DETAILS.
+
+ENDO-INSULIN GTT STARTED ANF GTT TITRTATED TFOR GLUCOSE LEVELS. ALL LEVEL PER CSRU PROTOCO.
+
+PLAN- MONITOR HEMODYNMAICS AND WEAN GTTS AS TOL. CONTINUE CVVHDF.
+REPLETE LABS PRN. OPTIMIZE OXYGENATION..
+",,
+14999,17728,18627,0,2852-07-09 03:07:00 EST,2852-07-09 03:11:00 EST,7781,"N",54,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt. intubated on ventilatory support, no ventilator settings changes made this shift. ABG values acceptable on current settings. Pt. BS appear diminished thou difficult to accurately assess, unable to retrieve any secretions upon suctioning.
+",,
+14999,17728,18627,0,2852-07-09 15:50:00 EST,2852-07-09 16:47:00 EST,2780,"N",54,"Nursing/Other",,"
+
+NEURO:  SEDATION SWITCHED FROM PROPOFOL TO VERSED/MSO4 GTT. PT CONTINUES TO BE SEDATED. PERRLA, NO COUGH REFLEX.  
+CV: VT X3, 1ST ATTEMPT COVERTED TO JUCTIONAL AND THEN TO ASYSTOLE--ABLE TO APACE VIA EPICARDIAL WITH MA 25 IN V SIDE  A WIRE DOES NOT SENSE APPROPRIATLEY V WIRES INDUCE VT. DO NOT USE.  PT REQUIRING ESCALATING SHOCKS (200-300-360) HEMODYNAMICS NOT TOLERATING RHYTHM AS WELL. EPI INCREASED TO .06 BRIEFLY,LIDO OFF BRIEFLY AS WELL BUT RESTARTED AT 1MG/MIN WITH BOLUS 50MG. LEVO DOWN TO .45MCG. CONTINUE ON PIT 4.2 UNITS/HR AND AMIO AT 1MG/MIN.  SV02 58-63, CO 3.8-5.1. LVAD FLOWS 4.5-5.1 ( FLOWS DROP TO 2.8 WHEN IN VT) CONT EDEMATOUS, DOPPLERABLE PEDAL PULSES.  HEPARIN INCREASED TO 500U/HR BUT OFF AT 1700 DUE TO BEDSIDE PROCEDURE FOR TEMP PACING WIRE. TX 1 UPRBC FOR HCT 29, REPEAT>30.  PTL 88, /
+RESP:  PT RESP ACIDOSIS EARLIER IN AM, TREATING BY INCREASING RR 28, FIO2 STILL 80% WITH PEEP 15. MARGINAL OXYGENATION. SX MINIMAL BLOOD TINGED
+GI: OGT TO LCWS, BILIOUS , RED TINGED OUTPUT, MINIMAL AMT NO BS
+GU: MINIMAL UOP--CVVH INITALLY MAKING PT -100/HR  PFR TURNED TO 0 DURING VT NOW SLOWLY INCREASING PFR. FOLEY PATENT 
+ENDO: CONT INSULIN GTT PER PROTOCOL, SEE FLOWSHEET
+PLAN: PLACE TEMP PACER WIRE, CONTINUE CURRENT PLAN.  RESTART HEPARIN WHEN APPROPRIATE.  WEAN PRESSORS AS TOLERATED.  GOAL RUN PT PFR AT 100CC/HR. CONT ASSESS CARDIO/RESP STATUS.
+",,
+14999,,18627,0,2852-07-10 04:10:00 EST,2852-07-10 04:22:00 EST,8042,"N",54,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt received intubated sadated on CVVHD, A/C mode.See carevue for details.PAP climbing all the night.Decision made to place the Pt on PCV.Pt continued to have mixed acidosis.Ventilation increased accordingly.Vt500-570 with Min.vol 15-17L on PCV settings.Morning ABG-Met.Acidosis with acceptable oxygenation.Bedside surgery exploration,small section of colon removed.
+BS wheezy throught.MDI's Given as ordered.Sxnd for copius amt of blood tinged oral secretions.
+Plan: Family meeting,discussion of further care,possible return to OR after family meeting. 
+",,
+14999,,18627,0,2852-07-10 05:54:00 EST,2852-07-10 06:22:00 EST,2301,"N",54,"Nursing/Other",,"
+
+Neuro: Sedated with Versed/Mso4. No reflexes noted (no cough,gag). 
+
+CV: pt. continued to have runs of v-tach requiring cardioversion with 200 joules and at times proceeded to v-fib requiring defib 300/360. 
+A-wires failed to capture when in v-fib and transvenous pacer turned on with rate 90/ MA-25 until a-pacing resumed. LVAD flows as low as 3L when in v-fib. Lidocaine bolus 100mg, 50mg given with drip increased to 3mg. Electrolytes corrected and monitored.See AFS for all hemodynamic parameters.
+
+Pulm: Switched to PCV when airway pressures rose to ~48. Breath rate to 32 to compensate for met. acid. Ph 7.24-7.29 and treated with multiple amps NaHco3. 
+
+GI: Expl. lap performed at bedside in view of rising lactic acid. Partial sigmoid colon removed. 2 drains in place to LWS. Abdomen packed and covered with ioban dressing. 
+
+GU: CRRT continues. TMP rising. Replacement fluid rate decreased to continue CRRT flows.
+
+Endo: Hypoglycemia treated with amps of D50 and infusion D10 started this morning @ 50/hr. 
+
+I.D. Flagyl & Levofloxacin. WBC 16.9. Body temp falling to 36 C. 
+
+Heme: Heparin infusion for LVAD at 500u/hr. ACTS followed q2-4. 
+2 prbc's and 1 pack platelets given for volume and bedside operative procedure. 
+
+Social: Wife and daughter in and kept informed throughout the night as to pt. condition and operative procedure. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] priest in to annoint pt. at daughter's request. Daughter requesting to speak with Dr. [**Last Name (STitle) 1032**] this morning re: turning down support (pacer, LVAD) in order to see if there is any heart function prior to any further procedures (re-op in OR).  
+
+
+
+",,
+14999,,18627,0,2852-07-10 14:26:00 EST,2852-07-10 14:33:00 EST,2780,"N",54,"Nursing/Other",,"
+
+pt continued to be acidodic and unstable.   Family made decision not to go ahead with surgery and withdraw support. Wife and daughter arrived at unit at 1400, Dr. [**Last Name (STitle) **], [**Last Name (NamePattern4) **] NP at bedside. Support withdrawn per family request, pt expired at 1435.  Autopsy denied by family.  Post mortem care provided by nurse, abd and chest  closed by m. courntey, and resident at pt request.
+",,
+14999,,18627,0,2852-07-10 15:26:00 EST,2852-07-10 15:30:00 EST,2780,"N",54,"Nursing/Other",,"
+
+Addendum: ETT and OGT removed per pt request after pt expired for their comfort.  ME has accepted case
+",,

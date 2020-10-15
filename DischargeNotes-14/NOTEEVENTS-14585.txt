@@ -1,0 +1,1292 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14585,25624,,,3293-05-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3293-5-13**]              Discharge Date:   [**3293-5-20**]
+ 
+Date of Birth:  [**3252-12-21**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Didanosine / Iodine; Iodine Containing
+ 
+Attending:[**First Name3 (LF) 1979**] 
+Chief Complaint:
+diarrhea, failure to thrive
+ 
+Major Surgical or Invasive Procedure:
+PICC placement
+ 
+History of Present Illness:
+40 yoM w/ h/o AIDS (CD4 [**11-1**] 45, VL 33k) on salvage HAART 
+presents with 2 mos of diarrhea, weight loss. He returned from 
+[**Country 3137**] following a family visit and saw his PCP (Dr. 
+[**Last Name (STitle) **]/ID+Internal medicine at [**Hospital 10122**] Community Health Center)on 
+[**3293-3-4**] c/o diarrhea and bloating. Stool studies were sent, 
+notable for (+) cryptosporidium parvum oocytes. On [**3293-3-12**] he 
+was prescribed nitazoxanide (500 mg PO twice a day) along with 
+immodium. He noted no improvement in symptoms, progressive 
+lethargy, and a slow decline in weight. He saw GI [**3293-4-8**], who 
+ordered repeat stool studies (negative except for 
+cryptosporidium), TTG (negative), and planned colonoscopy and 
+EGD. On [**3293-5-6**], his PCP prescribed him [**Name9 (PRE) 10902**] (750 mg PO 
+TID), azithromycin 500 mg PO daily for a planned 6 week course 
+as an alterantive treatment for cryptosporidium. He underwent an 
+EGD and colonscopy on [**3293-5-12**]. The EGD showed white plaques in 
+the esophagus c/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], antral erythema c/w gastritis, and 
+vascualar congestion in the first and second part of the 
+duodenum; duodenal and gastric biopsies were taken. Colonoscopy 
+showed diffuse congestion of the whole colon; biopsies were 
+taken from the colon (random), and terminal ileum. Given 
+progressive weight loss (106 lbs -> 75 lbs), poor PO intake and 
+refractory hypokalemia, pt is being admitted for PICC placement 
+and initiation of TPN.  
+.  
+He reports that he has ~ 6 watery BM/day, large volume, 
+occurring after each meal and [**1-30**] overnight. No fecal 
+incontinence. (+) occasional ""specks of red,"" no melena. (+) 
+bloating, worse with food intake, but no abdominal pain. Poor PO 
+intake secondary to early satiety/bloating. (+) nausea without 
+vomiting. No fevers, chills, or night sweats.  
+.  
+ROS: (+) ""thrush"" in mouth X several weeks; (+) occasional 
+odynophagia. No headache, change in vision, stiff neck, chest 
+pain, SOB, dysuria, hematuria, increased urinary 
+frequency/urgency. No recent sick contacts (+) generalized 
+weakness, no numbness/tingling  
+ 
+Past Medical History:
+1) HIV/AIDS: diagnosed 1994  
+- currently on salvage HAART Kaletra/Trizivir/Viread; CD4 [**11-1**] 
+45; VL [**3-2**] 33k  
+2) h/o pancreatitis secondary to DDI c/b pseudocyst requiring 
+drainage  
+3) Psoriasis    
+4) anal condylomata  
+ 
+Social History:
+Indian born. Economic professor [**First Name (Titles) **] [**Last Name (Titles) 10903**]. No tobacco, alcohol, 
+or IVDU. 
+ 
+Family History:
+Grandmother with ovarian cancer 
+ 
+Physical Exam:
+Physical exam on admission
+Tc 96, pc 73, bpc 106/68, resp 18m 100% RA
+Gen: cachectic, Indian male, A&OX3, NAD
+HEENT: PERRL, EOMI, anicteric, pale conjunctiva. (+) temporal 
+wasting. Oral mucosa dry with scatterred cheesy plaques over 
+tongue. (+) shotty, non-tender anterior cervical LAD, neck 
+supple
+Cardiac: RRR, no M/R/G appreciated
+Pulm: CTA bilaterally
+Back: No tenderness to percussion over spine. No CVA tenderness
+Abd: concave, soft, (+) hyperactive bowel sounds, NT/ND, liver 
+edge 1 cm below right costal margin. No dullness to percussion 
+over spleen
+Ext: No C/C/E, warm with 2+ DP bilaterally
+Neuro: CN II-XII grossly intact and symmetric bilaterally. [**4-1**] 
+strength in upper and lower extremities bilaterally, 2+ DTR 
+throughout.
+Rectal: Normal rectal tone. Gauiac negative yellow stool.
+ 
+Pertinent Results:
+Laboratory studies on Admission:
+[**3293-5-13**] 10:45PM  
+WBC-2.5 RBC-2.82 HGB-11.0 HCT-30.6 MCV-109 RDW-17.1 PLT COUNT-58
+NEUTS-78.2 BANDS-0 LYMPHS-12.8 MONOS-9.0 EOS-0 BASOS-0
+ABS LYMPH-320 CD3-86 ABS CD3-276 CD4-5 ABS CD4-17 CD8-78 ABS 
+CD8-251 CD4/CD8-0.1 
+PT-13.0 PTT-28.4 INR(PT)-1.1
+GLUCOSE-109 UREA N-37 CREAT-1.0 SODIUM-144 POTASSIUM <1  
+CHLORIDE-120 TOTAL CO2-13
+ALBUMIN-3.1 CALCIUM-7.4 PHOSPHATE-3.2 MAGNESIUM-2.0
+LIPASE-116*
+ALT(SGPT)-50* AST(SGOT)-42 LD(LDH)-388 ALK PHOS-116 AMYLASE-89 
+TOT BILI-0.5
+
+Stool Micro:
+C. diff: [**5-12**] (-), [**4-13**] (-)
+Microsporidia [**5-12**] (-), [**4-13**] (-), [**3-6**] (-)
+Cyclospora [**5-12**] (-), [**4-13**] (-), [**3-6**] (-)
+O&P [**4-13**] (-), [**3-6**] (-)
+Giardia DFA [**4-13**] (-), [**3-6**] (-)
+cryptosporidium parvum oocysts [**4-13**] (+), [**3293-3-6**] (+), [**5-12**] (-)
+salmonella/shigella [**4-13**] (-), [**3-6**] (-)
+campylobacter [**4-13**] (-), [**3-6**] (-)
+viral cx: [**5-12**] terminal ileum/transverse colon/duodenum bx 
+pending
+[**3293-3-6**] toxo IgG (-)
+
+CXR: PORTABLE UPRIGHT FRONTAL RADIOGRAPH, TWO VIEWS. Comparison 
+is made to one day earlier. The right-sided PICC terminates in 
+the mid to distal SVC. Lung fields remain clear. No other 
+changes.
+
+Pathology
+[**5-12**] terminal ileum bx/duodenal bx: GS 1+ PMN, GPC pairs, 1+ 
+GNR; cx pending, AFB smear (-), AFB cx pending, histology 
+consistent with cryptosporidiosis with 1 cell suspicious for 
+CMV, although staining negative. Duodenal biopsy culture showed 
+Strep viridins and S. bovis. Ileum biopsy grew GNR, 
+enterococcus, bacteriodes fragilis, and strep viridans
+
+[**3293-5-20**] TTE: LVEF >55%, trivial MR, 2+ TR, borderline pulmonary 
+artery systolic hypertension, trivial/physiologic pericardial 
+effusion.
+ 
+Brief Hospital Course:
+40 yoM w/ AIDS presents with 2 months of diarrhea, persistent on 
+treatment for cryptosporidium, progressive weight loss.
+
+Brief Hospital Course:
+1) Hypokalemia: The patient's potassium has been chronically low 
+as an outpatient, believed secondary to chronic diarrhea. On 
+admission, K was <1.5 with bicarbonate 13. EKG demonstrated mild 
+QT prolongation with ST depressions in V2-V5. He had no 
+neuromuscular abnormalites noted on exam. He was placed on 
+telemetry and transferred to the medical ICU for closer 
+monitoring. There, his potassium was aggressively repleted. The 
+renal service was consulted, who, given his negative urine anion 
+gap, felt his non-anion gap metabolic acidosis and profound 
+hypokalemia were consistent with GI loss rather than RTA. Once 
+his potassium was adequately repleted, he was transferred back 
+to the general floor on [**3293-5-15**]. Following transfer, he 
+continued to require aggressive K repletion (both in IV fluids 
+and TPN). His potassium will need to continue to be closely 
+monitored as an outpatient to ensure stability.
+
+2) Chronic diarrhea: most likely related to crytposporidium, 
+which can take a long time to clear, particularly in AIDS 
+patients. He has had an extensive prior work-up, including C. 
+diff X2, Microsporidia X 3, Cyclospa X 3, O&P X 2, Giardia X 2, 
+and fecal cx, all of which were negative. He was patient was 
+continued on paromomycin and azithromycin for a planned 6 week 
+course to treat cryptosporidium. His terminal ileum/transverse 
+colon/duodenum biopsy viral cultures were negative at time of 
+discharge. His histology from ileum/duodenum biopsies from [**5-12**] 
+colonoscopy/endoscopy was consistent with cryptosporidiosis with 
+1 cell suspicious for CMV, although staining was negative. A CMV 
+viral load was obtained, which was pending at time of discharge. 
+His primary care physician/ID will follow-up this result; if 
+positive, the patient will need an ophthalmology exam. The 
+patient was continued on tincture of opium and imodium for 
+symptomatic relief.
+
+3) Malnutrition: Most likely related to combination of chronic 
+diarrhea, poor PO intake, and AIDS. Nutrition was consulted, and 
+a PICC line was placed (tip in adequate position) for TPN. The 
+patient was continued on a lactose-restricted regular diet with 
+nutrition supplementations. He will continue on TPN as an 
+outpatient until he has gained weight and is able to adequately 
+nourish himself by mouth. 
+
+4) Sinus tachycardia: The patient was noted to be in sinus 
+tachycardia, with heart rates ranging from 100-140. This was 
+felt to most likely represent volume depletion (given continued 
+large volume diarrhea). He was aggressively hydrate with some 
+improvement, however, at discharge, his heart rate remained 
+110-120. He should be boluses with saline as needed for heart 
+rates >120. A transthoracic echocardiogram was obtained on the 
+day of discharge, which showed LVEF >55%, trivial MR, 2+ TR, 
+borderline pulmonary artery systolic hypertension, and a 
+trivial/physiologic pericardial effusion.
+
+5) Abnormal thyroid function tests: The patient's TSH was 
+elevated at 4, with a mildly depressed free T4 at 0.7. Given 
+patient's ongoing diarrhea and tachycardia, thyroid replacement 
+was not initiated. He should have repeat thyroid function tests 
+obtained 6 weeks following discharge. 
+
+6) HIV/AIDS: CD4 45 [**11-1**], VL 33 [**3-2**]; [**3293-5-13**] CD4 17. 
+Initially, the patient was continued on his home HAART regimen 
+(Kaletra/Trizivir/Viread). This was discontinued on [**3293-5-17**] 
+given it was felt to be exacerbating his diarrhea and causing 
+the patient nausea/poor appetite. These will be resumed at the 
+discretion of the patient's primary care physician. [**Name10 (NameIs) **] planned 
+""med holiday"" is at least 2 weeks. The patient was maintained on 
+bactrim DS prophylaxis throughout his hospital stay. 
+
+7) Esophageal candidiasis: The patient was started on a 14 day 
+course of fluconazole 100 mg PO daily given [**5-12**] endoscopy 
+suggested esophageal candidiasis.
+
+8) Urinary tract infection: Given positive urinalysis, the 
+patient completed a 3 day course of levofloxacin for presumed 
+urinary tract infection.
+   
+9) Anemia: On [**3293-5-19**], the patient's hematocrit was Hct 23 down 
+from a baseline of 27. Iron studies were consistent with anemia 
+of chronic disease, and vitamin B12/folate was elevated. He was 
+guaiac negative without evidence of GI bleed. FDP, PT/PTT, and 
+fibrinogen were normal, not consistent with DIC (although 
+D-dimer was elevated). His haptoglobin was <20, suggesting a 
+component of hemolysis. The etiology of this is unclear, as 
+peripheral smear showed occasional schistocytes as well as 
+occasional spherocytes. His direct and indirect combs tests were 
+negative. The patient's likely has multifactorial bone marrow 
+suppression in the setting of AIDS, HAART therapy (now 
+discontinued), and malnutrition. He received 1 unit of PRBC on 
+[**3293-5-19**]. At time of discharge, his hematocrit is 24.2. His 
+hematocrit should be monitored 2-3 times a week to ensure 
+stability, with a goal hematocrit >21.
+
+10) Thrombocytopenia: The patient's platelets ranged 38-73 
+throughout his hospital course (baseline 84-152). Given normal 
+FDP/fibrinogen/PT/PTT not consistent with DIC (see above) and 
+negative HIT antibody, this was felt to most likely represent 
+myelosuppresion in the setting of malnutrition, HAART (now 
+discontinued). At time of discharge, the patient's platelet 
+count is 73. 
+
+11) Full Code
+ 
+Medications on Admission:
+1) Keletra 2 tabs twice a day
+2) Trizivir 1 tab twice a day
+3) Viread 300 mg PO daily
+4) Bactrim DS daily
+5) Tincture of opium prn
+6) Imodium prn
+7) Potassium Chloride 40 mEq PO daily
+8) Paromomycin 750 mg PO TID (unclear if pt has been taking)
+9) Azithromycin 500 mg PO daily
+ 
+Discharge Medications:
+1. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+2. Paromomycin 250 mg Capsule Sig: Three (3) Capsule PO TID (3 
+times a day): 6 week course to complete [**3293-6-16**].  
+3. Fluconazole 100 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours): 14 day course to complete [**3293-5-26**].  
+4. Azithromycin 250 mg Capsule Sig: Two (2) Capsule PO Q24H 
+(every 24 hours): 6 week course to complete [**3293-6-16**].  
+5. Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times 
+a day).  
+6. Insulin Lispro (Human) 100 unit/mL Solution Sig: sliding 
+scale  Subcutaneous qAC and qhs: If FS <150 give 0 units, if 
+151-200 give 2 units, if 201-250 give 4 units, if 251-300 give 6 
+units, if 301-350 give 8 units, if 351-400 give 10 units, if 
+>400 give 10 units and [**Name8 (MD) 55**] MD.  
+7. Opium Tincture 10 mg/mL Tincture Sig: Ten (10) Drop PO BID (2 
+times a day): give at dinner and bedtime.  
+8. Megestrol 40 mg/mL Suspension Sig: Four Hundred (400) mg PO 
+BID (2 times a day).  
+9. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2) 
+ML Intravenous  DAILY (Daily) as needed.  
+10. TPN
+1500 ml/day, amino acid 60 g/d, dextrose 300 g/d fat 45 g/d
+trace elements daily, standard adult multivitamis
+NaCl: 0, NaAc: 120, NaPO4 0, KCL 0, KAc 40, KPO4 85, MgSO4 5, 
+CaGluc 6, Heparin 6000 Insulin 15, Zinc 0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 1446**] & Rehab Center - [**Hospital1 370**]
+ 
+Discharge Diagnosis:
+Primary: malnutrition
+Secondary: Cryptosporidiosis, dehydration, sinus tachycardia, 
+AIDS, hypokalemia, anemia, urinary tract infection
+
+ 
+Discharge Condition:
+Tolerating oral intake, on TPN. Remains tachycardic 110-120, 
+however blood pressure is stable.
+
+ 
+Discharge Instructions:
+Please follow-up as indicated below. Please take all medications 
+as prescribed. Your HAART regimen is on hold for now; it will be 
+resumed at the discretion of your primary care physician. [**Name10 (NameIs) 54**] 
+will complete a 6 week course of parmomycin/azithromycin to 
+treat cryptosporidium infection and a 14 day course of 
+fluconazole to treat esophageal candidiasis.
+
+Please follow-up with your primary care physician or go to the 
+emergency room if [**Doctor First Name **] develop nausea, vomiting, abdominal pain, 
+worsening diarrhea, fever, or chills.
+ 
+Followup Instructions:
+1) Primary Care
+Please follow-up with primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] 
+([**Telephone/Fax (1) 10904**]) on [**3293-6-2**] at 12 p.m.
+- your CMV viral load is pending at the time of discharge; if 
+positive, treatment may be started at the discretion of your 
+primary care physician, [**Name10 (NameIs) **] [**Doctor First Name **] will need an ophthalmology 
+appointment.
+- direct Coomb's test is pending at time of discharge.
+- your TSH and free T4 should be checked in 6 weeks
+2) Gastroenterology Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 1774**]) [**Hospital Ward Name **] building 
+[**Last Name (LF) 275**], [**3293-6-8**] 11:45 a.m.
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 1987**] MD [**MD Number 1988**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 1918**] [**3293-5-20**] @ 1517
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: WED [**3293-5-20**] 3:36 PM
+(End of Report)
+
+
+",,
+14585,25624,,,3293-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-5-14**] 9:02 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 10791**]
+     Reason: confirm placement of new double lumen left picc             
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with HIV/AIDS admitted w/ profound hypokalemia and now w/ PICC 
+      placed
+     REASON FOR THIS EXAMINATION:
+      confirm placement of new double lumen left picc                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of the line placement.
+     
+     Right PICC line was inserted with its tip lying before the cavoatrial
+     junction.
+     
+     There is no pneumothorax or pleural effusion.
+     
+     The heart is normal.  Mediastinum has normal position, width, and shape.
+     
+     The lungs are clear.  There is no evidence of pleural effusion.
+     
+     IMPRESSION:  Normal position of the central venous line.
+                                                                           
+
+",,
+14585,25624,18127,0,3293-05-14 05:28:00 EST,3293-05-14 05:46:00 EST,1303,"N",69,"Nursing/Other","Adm note","
+Adm note
+40 yo ma HIV/AIDS pt dx in 94, adm for picc placement to start TPN.  Pt lost ~ 30 lbs over last few months from diarrhea which is being worked up.  Repeat K on floor was 1.6, after 60meq K po given.  40KCL in 500 d5w hung prior to transfer here.  Pt cachectic, weak.  States he has been having ~6 loose stools per day.  
+
+ROS:
+
+Neuro:  A&O x3.  mae.  lethargic.  No c/o pain.
+
+CV:  HR 64-69, nsr, st depression noted.  defibrillator pads placed on pt per team.  K up to 2.2 by abg at 0500.  40meq kcl given by mouth at 0540 and iv running as above.  
+
+Resp:  LS clear, sats 99-100 on RA.
+
+GI:  Abd soft, nt, +BS.  reg diet, low residue, lactose restricted.  Pt states has poor appetite and sometimes has difficulty swallowing.
+No diarrhea thus far in MICU.
+
+GU:  Voids, no urine thus far since admit.
+
+Access:  piv in R wrist.  
+
+Skin:  Dry, no breakdown.
+
+Social:  Friend [**Name (NI) 6261**] will be spokesperson.
+
+Plan:  Continue Kcl iv, give po kcl per orders.  place second piv and draw am labs.
+
+",,
+14585,25624,18127,0,3293-05-14 18:15:00 EST,3293-05-14 18:23:00 EST,7314,"N",69,"Nursing/Other","NPN 0700-1900:","
+NPN 0700-1900:
+Pt is alert, oriented x3, calm and cooperative, breathing regularly on room air, SPO2 above 95%, V/S stable, afebrile, eating regular diet well tolerated, passed BM in commode mixed with urine, so U/O couldn't be measured, given potassium with bicarbonate at 100 ml/hr then bld drawn from PIC line revealed hyperkalemia, potassium stopped and Calcium gluconate given 4G in 25o ml NS for 2 hrs. Labs repeated with a stick revealed hypokalemia 2.9, Potassium was resumed and rate increased to 150 ml/hr, Calcium stopped, started on TPN at 42 ml/hr.
+",,
+14585,25624,18127,,3293-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-5-15**] 5:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10792**]
+     Reason: eval line placement                                         
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old man with HIV/AIDS admitted w/ profound hypokalemia and now w/ PICC 
+       placed
+     REASON FOR THIS EXAMINATION:
+      eval line placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  40-year-old with HIV and hypokalemia, assess PICC position.
+     
+     PORTABLE UPRIGHT FRONTAL RADIOGRAPH, TWO VIEWS.  Comparison is made to one day
+     earlier.
+     
+     The right-sided PICC terminates in the mid to distal SVC.  Lung fields remain
+     clear.  No other changes.
+                                                                           
+
+",,
+14585,25624,18127,0,3293-05-15 03:12:00 EST,3293-05-15 03:25:00 EST,7212,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Neuro: Alert and oriented x3. MAE. Denies pain.
+
+Resp: LS clear bil. O2 sat 100%  on  RA. no cough noted. CXR ordered for AM rounds.
+
+CV:  VSS. BP 110's/70's, HR 79-93 NSR with no ectopy noted. No edema. K 2.9 last evening labs with Na 151 and CO2 11. IVF changed to D5W NaHCO3 50 meq and KCL 60 meq @ 200cc/hr for 1L. One time dose of 40 meq of PO KCL given to increase serum K level.Labs repeated at 0020 and K up to 3.6, Na 146 and CO2 13. IVF remain the same at 150cc/hr. AM labs pending.
+
+GI: Pt. with end stage AIDS. Admition wt. 35 kg. Pt. started on TPN at 42 cc/hr last evening. PO intake good. Pt. drinking and eating. Chronic diarrhea on Opium and Lomotil on time. Abd. flat soft, BS+. BS Q6 hr and covered with Humolog SS. 
+
+GU: No foley cath but Pt. voiding to commode with diarrhea. Fluid status +2.3L for LOS and +0.4L since midnight.
+
+Skin:  Intact. Pt. very thin, skin dry. No open areas noted.
+
+Social: Pt. talking on the phone this evening but no visitors. Pt. is a full code.
+
+Plan: Cont. monitor labd. Replenish lytes as needed. Possible call out if Labs remain stable.
+
+
+
+",,
+14585,25624,,,3293-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-5-18**] 4:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10793**]
+     Reason:   40 year old man with HIV/AIDS admitted w/ profound hypokal
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        hiv+                                                                          
+     REASON FOR THIS EXAMINATION:
+        40 year old man with HIV/AIDS admitted w/ profound hypokalemia and now w/ new 
+      sob
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 3:34 A.M. [**5-18**].
+     
+     HISTORY:  Hypokalemia, new shortness of breath.
+     
+     IMPRESSION:  AP chest compared to [**3293-5-14**]:
+     
+     Tip of the right PIC catheter projects over the superior cavoatrial junction. 
+     Lungs clear.  Heart size normal.  No pleural abnormality or evidence of
+     central adenopathy.
+                                                                           
+
+",,
+14585,17725,,,3293-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-7-9**] 4:38 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10794**]
+     Reason: R/o infectious or infiltrative processPt needs mask. Is on T
+     Admitting Diagnosis: THROMBOCYTOPENIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 yo M c HIV p/w progressive pancytopenia                                      
+                        
+     REASON FOR THIS EXAMINATION:
+      R/o infectious or infiltrative processPt needs mask. Is on TB precautions       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV and progressive pancytopenia, evaluate for infectious or
+     infiltrative process.
+     
+     COMPARISON:  [**3293-5-18**].
+     
+     TECHNIQUE:  PA and lateral chest.
+     
+     FINDINGS:  The right-sided PICC is in place with tip terminating in mid SVC,
+     in unchanged position.  Heart size and mediastinal contours are within normal
+     limits.  The lungs are clear.  There is no pleural effusion or pneumothorax. 
+     Osseous structures appear within normal limits.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary abnormality.
+                                                                           
+
+",,
+14585,17725,,,3293-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-7-10**] 8:38 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 10795**]
+     Reason: Pt has very high Alk Phos. Pls evaluate for abdominal proces
+     Admitting Diagnosis: THROMBOCYTOPENIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with HIV and CD4 less than 50. CMV colitis, Cryptosporidium, 
+      esoph. candidiasis, C. diff colits.
+     REASON FOR THIS EXAMINATION:
+      Pt has very high Alk Phos. Pls evaluate for abdominal process. U/S has to be 
+      done in room. Pls follow Scabies and TB precautions!!!! 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  40-year-old man with HIV, CD4 less than 50, CMV colitis,
+     cryptosporidiosis and esophageal candidiasis.  Patient now with elevated
+     alkaline phosphatase.  Evaluate.
+     
+     COMPARISON:  None.
+     
+     ABDOMINAL ULTRASOUND:  The liver parenchyma is normal in echotexture.  A few
+     scattered areas of increased echogenicity near the right liver dome likely
+     represent biliary hamartomas.  No focal nodules or masses are detected.  There
+     is no intrahepatic biliary ductal dilatation.  A moderate amount of sludge is
+     seen within a non-distended gallbladder.  The gallbladder wall is slightly
+     thickened at 3 mm.  The common bile duct dilated at 8 mm.  The right kidney
+     measures 9.3 cm.  The left kidney measures 8.9 cm.  A 10 x 6 x 8 mm cyst is
+     seen within the interpolar, lateral left kidney.  No hydronephrosis, stones,
+     masses are seen bilaterally.  The spleen is not enlarged at 9.0 cm.  The
+     pancreas and aorta are poorly visualized secondary to overlying bowel gas.
+     
+     IMPRESSION:  Minimal thickened gallbladder wall with intraluminal sludge and
+     slightly dilated common bile duct.  These constellation of findings are
+     concerning for HIV cholangiopathy.
+
+",,
+14585,17725,,,3293-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14585,17725,,,3293-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-7-12**] 12:40 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10796**]
+     Reason: please evaluate for cardiopulmon process                    
+     Admitting Diagnosis: THROMBOCYTOPENIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 YO M with advanced AIDS, crypto, pancytopenic, scabies neutropenic, with  
+      hypotension, concern for SIRS, with new productive cough
+     REASON FOR THIS EXAMINATION:
+      please evaluate for cardiopulmon process                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Advanced age, crypto-----pancytopenic, _____, neutropenic, concern
+     for SIRS with new productive cough.  Question cardiopulmonary process.
+     
+     CHEST, SINGLE AP PORTABLE VIEW.
+     
+     The heart is not enlarged.  There is triangular opacity at the right base,
+     though cardiac and diaphragmatic silhouettes are preserved.  Appearance is
+     compatible with atelectasis -- question subsegmental or segmental.  There is
+     new accentuation of interstitial markings at the left infrahilar,
+     retrocardiac, and left base regions, compared to [**3293-7-9**].  No CHF, frank
+     consolidation, or effusion is identified.  A right subclavian PICC line is
+     present, tip in region of SVC/RA junction, unchanged.  No pneumothorax is
+     detected.
+     
+     IMPRESSION:  Atelectasis at right base.  Increased interstitial markings at
+     left base, more pronounced than on [**3293-7-9**].  Question early infectious
+     infiltrate.
+
+",,
+14585,17725,18128,0,3293-07-12 18:44:00 EST,3293-07-12 18:59:00 EST,4285,"N",54,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+Neuro: Pt. alert and oriented-able to communicate needs.  Pt. verbalilzed he understands DNR/DNI.
+
+Resp: On 4L NC with sats 96-98%.  CXR shows RML pna.  Has congested cough but unalbe to cough sputum out.  Breath sounds clear bilaterally.  Was seen by ENT who obtained culture swabs.  Thought tissued looked ""healthy"" but dry.
+
+CV: Unable to wean pressors-remains on dopa 20mcg levo 0.15 with BP 80-90/60 MAP 60's.  Has had 4 L LR.  Will be switching maintenance IVF.  K 2.7, repeat 4.5 but was possibly contaminated by IVF running in.  Will repeat.  Was repleted with 40KCL and K phos and Mag.
+
+GI: Hypoactive bowel sounds.  Had 3 episodes of diarrhea-stool for c-diff sent.  TPN on hold.  
+
+GU: Foley intact.  Urine output 50-100cc/hr.
+
+Endo: insulin per ss
+
+ID: Temp increased to 95.  Bear hugger on.  On broad spectrum antibiotics and isolation precautions for WBC 0.4.  Antiretrovirals restarted.
+
+Skin: Scabies rash with some oozing of serosanquinous drainage.
+
+Social: Family in to visit most of the day.  Trying to get pt's mother here from [**Country **].
+
+Plan
+-check k
+-monitor BP wean pressors as tolerated
+-IVF as ordered
+-monitor plts and replete as needed
+-stool sample to be sent for chem.
+
+",,
+14585,17725,18128,0,3293-07-13 04:06:00 EST,3293-07-13 04:45:00 EST,7972,"N",54,"Nursing/Other","micu-west npn 1900-0700","
+micu-west npn 1900-0700
+***Code status: DNR/DNI
+
+**Allergies: Iodine
+
+*Precautions: Contact for Scabies/Droplet for ?TB 
+
+in Brief: A 40 yo male w/ PMH: 1994 HIV; [**5-2**] CD4=17. Also, significant for cryptosporidium, CMV colitis, C-Dif, esophogeal Yeast, malnutrition, Abnormal TFTs, H/o pancreatitis, scabies, anal candylomata, and panocytopenia/anemia - came to [**Hospital1 10**] initially [**3293-7-8**] f0r treatment for anemia, FTT, and Panocytopenia (PLT < 7) thought to be caused by HAART medication. On [**7-12**] pt. condition worsened becoming hypotensive while on floor, sbp 40s and tx w/ Dopamine and 3 L IVF w/ bump to sbp 60s, and this time pt. was transferred to MICU for maintenance of BP/?TB vs viral laryngitis.
+
+Neuro: Pt. is pleasant, able to follow commands,  alert and oriented to person, place, and time, pupils pearl 2mm brisk,  able to move all four extremeties on bed, gross muscle atrophy present in extremeties, pt. complains of weakness. Pt. sips H20 and swallows crushed meds. 
+
+Resp: Pt. is on 2L NC, O2 sats 98-100%, LS clear in upper lobes and diminished in lower lobes, occasional dry cough, CXR [**7-12**] shows right mid-lobe PNA, ENT consult [**7-12**]: multiple samples sent, no nodules visualized indicating doubtful of TB, although pt. remains on droplet precautions at this time. 
+
+CV: Pt. received on Dopamine @ 20mcg/kg/min and Levophed @ 0.15mcg/kg/min w/ sbp=88-94, Map=58-70 and HR 110-140s. Around 0400, pt. Dopamine decreased to 10mcg/kg.hr and Levophed increased to 0.28mcg/kg/hr. Pt. sbp 95-106 and HR 125-135 NSR, no ectopy. Pulses palpable in all four extremties, though extremeties cool and dry. Right PICC Line - double lumen currently infusing D5W 1/2NS w/ 50mEq NaHCO3 @ 100cc/hr for 1 Liter. 4gm Ca+Glu repleted today for ICa+=0.9. K+ repletion HELD for K+ of 4.5. Peripheral IV WNL. Blood Cult- growing gram neg rods/pos cocci.
+
+GU/GI: Abd soft/firm/nontender, BS hypoactive, TPN on HOLD since [**7-12**], loose green stool x 4 medium amounts, Foley drainng 50-100cc/hr yellow/sediment urine. 
+
+ID: Pt. WBC =0.4, Lactic Acid=3.4, receiving steroids, Temp 95-97.5, bair hugger applied as needed, Abx Flagyl for C.Dif/Vanco/Cefepime. 
+
+Skin: Pt. has highly contagious scabies from head to toe, tx. w/ Permetherine @ 00:00 and has patches of severe dry skin, tx w/ Eucerin @ 2000. 
+
+Endo: FSBS 130-150, follow SS
+
+Social: Dr. [**Last Name (STitle) **] met w/ pt. and pt. code status changed from Full Code to DNR/DNI tonight, cousins visited tonight, and family is coming from [**Country **], will be here in about a week. 
+
+Plan: Please obtain stool sample/C. Dif?
+      Follow-up on morning labs ie:  electrolyte repletion
+       TPN?/ address nutrition needs
+      TB? Need for Droplet precautions
+       Follow-up on sputum cultures/blood cult
+       Wean Dopamine/Levophed keeping MAPS>60.
+       Await Enfuvurtide - arriving this evening
+       Wash off premetherine this AM
+      
+        
+
+
+
+",,
+14585,17725,18128,0,3293-07-13 15:45:00 EST,3293-07-13 16:36:00 EST,3645,"N",54,"Nursing/Other","NPN MICU-7 7AM-7PM","
+NPN MICU-7 7AM-7PM
+EVENTS: PLT-9, started with lrge amts dark brown watery stool this AM, that advanced to BRB watery stool that required a recatl tube placed, and rec'd several blood products. Able to wean of Dopa Gtt but continues on Levo. Gtt. 
+
+C/V: Rec'd pt on Dopa and Levo Gtts, able to wean and d/c Dopa, but Levo continues @ 0.232 mcq/min/kq down from .280mcq. BP-86-96/60's, HR has come down from 140's ST to 98-105's with Dopa being off. K+-3.5, rec'd 40mEq KCL, and Mag+ repletion. 
+
+Respir: Remains on 2-3L NP's with O2 sats 97-100%, but with RR 30-40's, appears to be tiring. Does not have an aline. Has no cough, remains on repsir precautions.
+
+GI:HEME; PLT Ct-9, is in DIC, INR-1.9, had dark red watery stool this AM  but has advanced to BRB watery stool late morning. Rec'd 2 units PLT's, and 1 FFP, to rec PC's one unit when available from BB. No N/V noted. Rectal bag was placed but had to have a mushroom cath placed. Still having lrge amts Melena well over a 1200cc noted. Will transfuse with PC's then repeat levels. Is NPO. 
+
+GU: U/O 50-70cc/hr with Bun/CRE-46/1.0. IVF's D5W with 3 amps Bicarb @50cc/hr started this afternoon. 
+
+ID: Temps 97-95.6 PO heating Bair hugger blanket was off for some of the day, but will be replaced this evening. WBC-0.4, continues on several IV antibx's which times have needed to be re-scheduled due to IV access difficulty. Still awaiting arrival of Enfurvirtide from Pharmacy. 
+
+Skin: As [**Name8 (MD) 17**] MD's skin is improved, still on contact precautions. Applying skin cream's as ordered. Has two skin tears on buttocks, duoderms were applied. 
+
+Neuro: A&Ox3, is very pleasant and cooperative is aware of how grave is prognosis is. 
+
+IV access: Only has double lumen PICC line in place is difficult to administer all IV's, as ordered, has discussed with team the issue, but with PLT of 9 and bleeding cannot place an additional line. 
+
+A/P: Continue to attempt to wean pressors, follow u/o. Assess bleeding and monitor HCT's,PLT Ct and administer blood products as needed. Assess lytes and replete as needed. Continue with IV antibx's, monitor temps use bair hugger blanket to keep temp 97 po. 
+",,
+14585,17725,18128,0,3293-07-13 17:52:00 EST,3293-07-13 18:01:00 EST,3645,"N",54,"Nursing/Other","NPN ADDENDUM 7AM-7PM","
+NPN ADDENDUM 7AM-7PM
+S/O: SOCIAL: Code Status was disussed with pt and with HCP Vajiv and with Cousin [**Name (NI) 6262**] was questions about reverseing the DNR/DNI status but after discussing the situation with the pt and family members adn fully explaining his grave condition pt dicided to remain a DNR/DNI. Will continue full aggressive treatment and will hopefully make it until his mother and brother arrive in a few days. 
+",,
+14585,17725,18128,0,3293-07-14 04:24:00 EST,3293-07-14 04:58:00 EST,7972,"N",54,"Nursing/Other","micu west 1900-0700 npn","
+micu west 1900-0700 npn
+****Code status: dnr/dni
+***Allergy: Iodine
+** Precautions: Contact for Scabies and Droplet for question TB
+
+Significant Events: Pt. received TOTAL 3 units PRBCS for HCt=19 @ 1900, 1 unit FFP, and 1 unit Platlets for PLT=10. Also, total 60mEq of Potassium was repleted for K+=2.5. 
+
+Neuro: Pt. is alert and oriented,able to follow commands and verbalize needs, voice hoarse, and pt. tires during effort to speak, pupils 3mm brisk, able to move all four extremeties on bed, although weak w/ gross muscle wasting, cough is very weak secondary to fatigue.
+
+Resp: Pt. is on 2-3L NC, 02sats 98-100%, LS clear to diminshed in bases, cough effort is very weak/nonproductive, pt does not/is unable to  expectorate any sputum. 
+
+Cv: Pt. is currently receiving Levophed 0.235 mc/kg/hr, sbp 90-115, MAP>60, HR 90-140 NS/ST no ectopy, HR decreasing from 140 to 100 since IVF and blood products infusing, suggesting need for hydration/volume, Dopamine OFF now for 24 hrs. Pt. received 1 L of D5W w/ 50mEq BiCarb, IVF was switched, and D5W is currently infusing @ rate of 200cc/hr for 1 L. 
+
+Gu/Gi: Foley draining yellow to drk yellow sediment urine 35-100cc/hr, urine sent for PH to determine Bicarb levels, abd soft/nontender, BS present, Mushroom cath draining increasing gross bloody liquid stool.pt has been NPO for 24hrs, does not take PO meds due to gross bloody liquid stool/GU bleed, TPN needed but there is currently no designated port available as Abx and Blood products are infusing via LICC -double lumen. Access has not been obtained as of now due to decreased PLT. 
+
+Id: Temp 95.7-99.5 for shift, Bair Hugger adjusted accordingly, Vanco Dc'd, ABX: Cefepime/Flagyl/Levofloxacon/Veroconizole 
+
+Endo: FSBS covered per SS
+
+Skin: Applied Eucerin on dry areas/neck, coccyx abrasion/breakdown protected w/ duoderm, Scabies present on skin. 
+
+Social: Friends visited today/Health Care Proxy came and will visit tomorrow morning, Dr. [**First Name (STitle) 2278**] met w/ pt. and discussed code status and disease process.  
+
+Plan: **Access for TPN needed/check PLT count/consider Precautions and         pt. tenous condition before any transport
+        Monitor PLT/HCT/K+/Mg; replete blood product/electrolytes as 
+        needed
+        Monitor INR/bleeding
+        Wean Levophed, maintaining Maps>60
+        Social work consult today to discuss end of life issues
+        One more sputum needed to r/o TB
+        Permetherine (skin ointment) due Thursday
+        
+        
+        
+       
+
+
+
+
+
+",,
+14585,17725,18128,0,3293-07-14 16:21:00 EST,3293-07-14 17:25:00 EST,7381,"N",54,"Nursing/Other",,"
+
+Nursing Note:0700-1900
+
+Code Status:DNR/DNI
+Allergies:Iodine
+Precautions: Scabies and Droplet question of TB.
+
+40 yo M with a hx of AIDSon salvage HAART admitted [**3293-7-8**] for tx of anemia, FTT, pancytopenia. On [**3293-7-12**] pt's condition worsened;hypotensive, SBP:40's. Transferred to MICU. Last night
+pt. recieved 3units PRBC's bumping up HCT to 28.2 and recieved KCL repletion. Potassium 2.7.
+
+Neuro:A&Ox3, articulates well, follows commands, PERRL, labored MAE, cachectic, weak cough.
+
+Resp: LS cta dim @ bases,SpO2:97-100%,RR 30's,weak, nonproductive cough, Sputum sent for 3rd TB.
+
+CV:Pt. recieved of Norepinephrine 0.235 mcg/kg/hr weaned to 0.093 mcg/kg/hr.
+Tolerated well. D5W 200 ml/hr continuous. HR82-107 bpm, SBP:95-122,
+Temp:96-96.3, Pt requested removal of bearhugger.Potassium down to
+2.6 from 2.7/to be repleted.  
+
+ID:Temp:96-96.3,Bear hugger refused, ABX;Cipro q12h, Cefepime,Voriconazole.  Levofloxacin D/C'd.  Pt unable to swallow PO meds and cannot take HAART meds including subcut. unless all meds are administered, Dr [**First Name (STitle) **] [**Name (STitle) **] notified.
+
+GI/GU:Foley draining adequate amount of clear amber urine.  Mushroom cath draining liquid bloody stool/GI Bleed. Pt unable to take PO meds and all antiviral meds. Nutrition consult:Diet chg'd to Full Liquids; supplement, boost resource fruit beverage B/L/D. Pt continues to obsess about caloric intake/TPN/boost, he prefers the dietary chg to a more invasive procedure.
+
+Endo:Insulin SS [**First Name8 (NamePattern2) 17**] [**Last Name (un) **] protocol.
+
+Access:PICC R ac. Dressing chg'd, patent.
+
+Integ:Scabies throughout body. Cream applied to neck and underarms.
+Abrasion breakdown on coccyx area, replaced 2 Duoderms. Skin flakes off. Frequent bed changes.  
+
+Social:Discussed end of life issues. Pt. is ""at peace"" and has come to an acceptance of disease process.
+Family and friends visiting throughout the day.  Very supportive.
+Social work in to meet with pt and family.  Pt.'s mother coming from [**Country **] on Thursday.
+
+Plan:Monitor patient for internal hemorrhage/INR/PLT. Replete blood products with HCT of 21. Current HCT 28. Monitor electrolytes.
+Replete prn.Continue to wean levophed. Ivermectin due [**7-16**]. 
+Permethrin due [**7-16**].
+
+
+
+
+",,
+14585,17725,18128,0,3293-07-15 03:36:00 EST,3293-07-15 04:13:00 EST,7972,"N",54,"Nursing/Other","micu west 1900-0700 npn","
+micu west 1900-0700 npn
+****Code Status: DNR/DNI
+***Allergy: Iodine
+*Precuations: Droplet for question TB and Contact for scabies
+
+Significant Events: Pt. received (two) infusions of  60mEqKCl in 1 Liter D5W, for a K+ of 2.6 and received  150mEq Bicarb in 1 Liter D5W.
+Also, anti-retroviral medications DC'd.
+
+Neuro: Pt. is alert and oriented, pupils 3m brisk, pt. is very weak w/  gross atrophy, but able to move extremeties well on bed. Pt. cough is weak, gag reflex impaired. Pt. is able to sip water, but is NOT taking the majority of his PO medication, but is able to sip medication crushed in water. **Of note: Antiretrovirals are rendered inactive when crushed/ in addition all the anti-retrovirals must be taken for effectiveness/also, pt has not been very responsive to anti-retrovirals for some time, so Dr. [**First Name (STitle) **] and pt. agreed to D'C anti-retroviral mediction as effectiveness and absorption is in question.  Pt voice is much stronger/less hoarse than previous, and pt. appears to be less lethargic since [**7-13**] RBC/PLt/FFP transfusion.
+
+Resp: Pt. received on 2L NC, O2 sat=98-100%, around 00:00 was able to D'C the NC w/ O2 sat=94-98%. Pt. cough is increasing in productivity, last sputum to r/o TB was sent [**7-14**], but lab cancelled specimen. Pt. does not complain of SOB, RR=20-30, decreased from 40s, and becoming more regular rather than shallow. 
+
+CV: HR 75-90 NSR, Levophed has been weaned from 0.93 to 0.75 w/ sbp maintaining 90-115 MAp>65 (goal >60). Pt. received 1 Liter D5W w/ 150MEq Bicarb, and is currently receiving D5W @ 200cc/hr for maintenance fluid (continue for total 4L). In addition, pt. has received 1 L D5W w/ 60mEq K+Cl for K+=2.6 and an additional 1 L D5W w/ 60mEq K+Cl is currently infusing. Hct 28 (@2200) goal HCt>21.
+
+GU/GI: Foley draining 100-300cc/hr yellow/sedimenty urine, abd is firm, nontender, BS present, Mushroom cath draining large volumes of brown liquid stool, red tinged but significantly less frank blood than previous. Pt. is able to sip water and able to take Boost/Fruit nectar for calorie. 
+
+ID: Temp 95.7 Bair Hugger on, Levofloxacin DC'd/Cipro added/Flagl Dc'd
+Blood Culture for Psuedomonas. 
+
+Endo: FSBS covered according to [**Last Name (un) 211**] SS.
+
+Social: Friend  called tonight and informed pt/nurse that pt's mother will visit Thursday morning as well as four colleuges/friends from [**Location 6263**] where pt. received PhD. 
+
+Plan: [**7-16**] Permetherine Ointment due/Ivermectin due as well
+       cont. to monitor K+ and replete 
+       PLT=11 (trending down) Goal?
+       
+       
+
+
+",,
+14585,17725,18128,0,3293-07-15 16:12:00 EST,3293-07-15 16:33:00 EST,4302,"N",54,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+EVENTS: Levophed weaned off since 1100. MAPs>60. Pt has received total of 100mEq KCL and will get 60mEq more. Pt also received 2g Mg. Plts dropped to 8, and received 1u Plts-post plt count 53. 
+
+NEURO: Pt is A@O, very pleasant man. Pt seems to be somewhat depressed today, anxious about his mother coming tomorrow and fears about what he looks like. Emotional support provided. Social worker also spoke with pt. Pt very weak, needing help moving around in bed. Pt refusing PO meds. 
+
+CV: NSR 60s-90s. BP 80s-108/60s-70s, MAPs>60. Levophed off, as stated above.  PM lytes to be checked @ MN. 
+
+RESP: LS coarse upper, diminished @ bases. Pt has nonproductive cough. 3rd AFB pnding, 2 smears negative. Sats>96% on RA. RR 20s-30s. 
+
+GI/GU: ABD is firm, +BS. Mushroom cath draining green liquid stool, guiac +. No visual blood. Pt taking occas sips of water and boost. 1500cc stool out @ 1200. Foley draining ample urine, 140-480cc/hr. D5W maintenance @100cc/hr-on 3rd out of 4L.
+
+ENDO: BS have been 200s-300s, [**1-29**] D5W. On humalog SS. 
+
+ID: Tmax 96.3, bear-hugger on most of day. +pseudomonas in blood. Pt also has scabies.
+
+SOCIAL: Pt has had many visitors today, including relatives. Pts mother will be flying in from [**Country **] tomorrow. 
+
+PLAN: Continue to monitor BP, support as needed to maintain MAP>60. Continue skin care with creams and ointments for scabies. F/U with pm labs, replete lytes prn. Goal plts 10. Monitor for bleeding. 
+
+
+
+
+
+
+
+   
+
+
+",,
+14585,17725,18128,0,3293-07-16 04:34:00 EST,3293-07-16 05:08:00 EST,7972,"N",54,"Nursing/Other","micu west npn 1900-1077","
+micu west npn 1900-1077
+DNR/DNI
+
+allergy: Iodine
+
+Precaution: Contact for Scabies/Droplet for ?TB
+
+Events: Pt. met w/ DSr. [**Doctor Last Name **] and has decided take PO medication, including HAART meds (anti-retrovirals), Pt. repleted 60mEq K+Cl for K+=3.5 and 15mmol Phosp repleted for Phos=1.7, and 500cc FB for sbp 90 and HR 120-140s, HR decreased to 9\85-93 w/ FB.
+
+Neuro: Pt. is alert and oriented, given 2 tab Percocet for anxiety w/  good effect, pt. able to [**Doctor Last Name 8**] for remainder of the night. Pt. is bale to move all extremeties on bed, despite complaints of weakness, gross muscle atrophy present in all four extremeties. Pupils 3mm brisk, cough weak, nonproductive and gag reflex intact, pt. is able to swallow pills whole and sip boost w/ no coughing. 
+
+Resp: Pt. LS are coars to clear in upper lobes and diminshed in bases, O2 sats 97-98% RA, RR was in 40s earlier this evening, but settled to 20-30 following fluid bolus, no complaints of SOB or difficulty breathing. Sputum 3 of 3 for ACB came back negative.
+
+CV: At 2100 pt. appeared to becoming more tachycardic/tachypneic, HR 110-120, 500cc FB given and HR decreased to 80-95 and RR decreased from 40 BPM to 20-30 BPM. Currently, HR 85-100 NSR, sbp 90-100 MAP.60.. Pt. has been off Levophed since [**7-15**] @ 1100am. Pulses are palpbale in all four extremeties, 2+ edema noted in LE. K= 3.5 tx w/ 60MEqKCl in 1L D5W repletion, Phos=1.7 tx w/ 15mmol/20mEq K+Phos in 500ml D5W. 4 of 4 Liters D5W @ 100cc/hr IN @ 0600.
+
+HEME: hct 28/PLT 27 (post 1 unit PLT infusion [**7-15**]) 
+
+GU/GI: Foley draining 50-300cc/hr amber/yellow sediment urine, abd firm/slight tenderness noted on exam, mushroom cath draining approx 2L of brown to tan liquid stool, appearing tan following several sips of boost and PO medication. Pt has decided to take HAART medications as well as other PO medications, and has swallowed PO medication/Boost successfully. 
+
+Skin: Permetherine applied at midnight (dose 2 of 2).
+
+ID: t=95-97.5, bair hugger on, ABX: Cefepime/Cipro
+
+Endo: FSBS covered [**First Name8 (NamePattern2) 17**] [**Last Name (un) 211**] SS
+
+Social: Friends visited last night, will return this AM for rounds, mother to come today from [**Country **], and health care proxy may come today as well. Pt. provided emotional support this evening, as he was deciding whether or not to take HAART medication. Ultimately, pt. decided to continue w/ HAARTs. 
+
+Plan: Monitor BP, FB w/ NS for MAP>90
+      Monitor PLT (GOAL>10), currently 27. 
+      Monitor electrolytes and replete as necessary
+      ** PSYCH CONSULT for support 
+      Please START HAART medications in AM, as pt. requested taking          them @ 0800
+      Please rinse Permetherine OFF pt. skin and apply Eucerin
+      Allow friends/family visit, providing rest for pt per his              request
+      Cont. Potassium Phosphate infusion, running @ 80cc/hr
+      Maintenance fluids?
+      Please encourage BOOST/high calorie intake as tolerated by pt.
+      
+      
+
+
+",,
+14585,17725,18128,0,3293-07-16 16:39:00 EST,3293-07-16 17:34:00 EST,7381,"N",54,"Nursing/Other",,"
+
+Nursing Note:0700-1900
+
+Code Status:DNR/DNI
+Precautions:Contact and Fall
+Allergies:Iodine
+
+Neuro:Calm, Cooperative Male,A&Ox3,PERRL,Pt OOB to Chair with 
+2 assists; tolerated well. Pt. in good spirits today. MAE; pt at risk for falls, very weak. Pt. denies pain.Emotional support provided.
+
+Resp:Coarse to clear LS dim at bases, weak cough effort. RR 26-38,
+SpO2:96-99%. Respiratory Precautions D/C'd. CO2-14
+
+CV:HR:89-111 ST/NSR, SBP:100-111,Mean:73-95,
+Fluid goal 1 to 1 1/2 L positive, pedal pulses positive.
+Calcium Gluconate repletion. Ionized calcium:1.11
+Potassium 2.7, HCT 28.3, Hgb 10.2, Plt's 23, RBC's 3.27.
+Potassium to be repleted.Pending labs
+
+GI/GU:Pt has thrush and is being treated with antifungal, Vericonazole. Diet;full liquids, boost. Abd firm to palpation, bs+,
+Mushroom catheter no longer in place, sphincter muscle has lost tone,
+unable to place rectal bag d/t continue flow of stool. Pt has padding  and diaper on; chg'd q1hr. Urine specimen sent. Foley draing adequate
+amounts of clear yellow urine. Lg quantity of liquid,brown stool outputfor shift
+
+Endo:Insulin SS [**First Name8 (NamePattern2) 17**] [**Last Name (un) **] protocol.
+
+Integ:Breakdown coccyx area, duoderms replaced multiple times d/t
+continual stooling.Breakdown on neck and underarms treated with Urea cream throughout day.
+
+Social: multiple visitors and phone calls all day. very supportive family.  Mother to arrive tomorrow. pt happy to be out of bed and into a chair today for visitors. Pt cousin, [**Doctor First Name 6262**] is contact person. Please refer callers and visitors to her for information.
+
+Dispo: continue to replete lytes prn
+Monitor labs closely, Fluid goal 1 1/2 L positive,
+continue treating skin with urea cream.
+cont. to assess bp,temp. Monitor FS
+
+
+ 
+",,
+14585,17725,18128,,3293-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-7-17**] 9:26 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 10797**]
+     Reason: HIV,ELAVATED BILIRUBINE
+     Admitting Diagnosis: THROMBOCYTOPENIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old man with HIV and CD4 less than 50. CMV colitis, Cryptosporidium,  
+      esoph. candidiasis, C. diff colits, rising tbili, ap
+     REASON FOR THIS EXAMINATION:
+      RUQ ultrasound,                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  Liver and gallbladder ultrasound.
+     
+     CLINICAL HISTORY:  40-year-old man with HIV, CMV colitis, Cryptosporidium,
+     esophageal candidiasis, C. diff colitis, rising bilirubin.
+     
+     FINDINGS:  Right upper quadrant ultrasound was performed on [**3293-7-17**].
+     Comparison made to prior study dated [**3293-7-10**].
+     
+     The hepatic parenchymal echotexture is within normal limits.  No focal hepatic
+     lesions are identified.  There is no intrahepatic biliary ductal dilatation.
+     The common bile duct is dilated, measuring up to 10 mm, and tapering in the
+     pancreatic head.  No pancreatic masses are identified.  There is marked
+     gallbladder wall thickening, measuring up to 11 mm in thickness.  No
+     gallstones are identified.  Degree of gallbladder wall thickening is increased
+     compared to prior study, although this could be secondary to decreased
+     gallbladder distension.
+     
+     IMPRESSION:  Extrahepatic biliary ductal dilatation and markedly thickened
+     gallbladder wall.  The combination of findings is concerning for HIV
+     cholangiopathy, given the patient's clinical history:
+     
+
+",,
+14585,17725,18128,0,3293-07-17 04:35:00 EST,3293-07-17 05:01:00 EST,8143,"N",54,"Nursing/Other","NURSING NOTES: 1900-0700","
+NURSING NOTES: 1900-0700
+40Y/O MALE ADMITTED FOR THROMBOCYTOPENIA
+
+PMH: HIV/AIDS 1994
+     CRYPTOSPIRIDIUM, CMV COLITIS, CDIFF COLITIS
+     ESOPHAGEAL CANDIDIASIS, MALNUTRITION, ABNORMAL TFTS
+     PANCREATITIS, SCABIES, ANAL CONDYLOMATA, PANCYTOPENIA, ANEMIA
+
+DNR/DNI
+
+IODINE ALLERGY.
+
+SIGNIFICANT EVENTS: LYTES REPLETION.
+
+NEURO.  PATIENT REMAINS TO BE ALERT AND ORIENTED X3. MAE.3MM PERRLA/BSK.  DENIES ANY PAIN. NO SEIZURE ACTIVITY NOTED ON THIS SHIFT.
+
+CV.  NSR TO ST WITH HR BETWEEN 76-105 NO ECTOPY NOTED. SBP BETWEEN 102-112.  PALPABLE PULSES NOTED ON ALL EXTREMETIES. HCT 30.4 FROM 28.3.  K OF 2.7   REPLETED WITH 80 MEQS OF IV KCL AND 20MEQS PO KCL. K IN AM WAS 3.3 WILL REPLETE WITH 60MEQS MORE IV KCL.  MG 1.7 TO BE REPLETED WITH 4 GMS OF MAGNESIUM SULFATE IV.  NA 141 DOWN FROM 150 POST WATER BOLUSES. LAST PLATELET WAS 23.
+
+RESP.  ON ROOM AIR SATTING BETWEEN 98-100% WITH CLEAR BIL BREATH SOUNDS WITH SLIGHTLY DIM BS AT THE BASES.  EUPNEIC AT 26-30 NOT IN DISTRESS.
+
+GI/GU.  HYPERACTIVE BOWEL SOUNDS.  STILL DRAINING LARGE AMT OF LIQUID STOOLS. DIAPER IN PLACE.  PATIENT NOT ON PPI AS PPI INCREASE CHANCE OF THROMBOCYTOPENIA PER DR. [**First Name (STitle) **]. FOLEY CATH DRAINING TO 50-200CC/HR CLEAR YELLOW URINE.
+
+ID. TMAX 96.2 ON RETROVIRAL MEDS, CEFTRI AND CEFEPIME LAST WBC 11.3.  
+
+SKIN.  DRY/SCALY/FLAKING SKIN. STILL WITH SCABBIES.  TOPICAL OINTMENTS APPLIED.
+
+ACCESS.  RT PICC LINE WNL.
+
+PLAN.  MONITOR LYTES AND REPLETE IF NECESSARY. GOAL TO BE 1.5L POSITIVE.  PLT GOAL OF >10.  MONITOR FOR HYPOTENSION AND FLUID BOLUS IF NECESSARY.  CHECK Q1-2 HOUR AND CHANGE DIAPER AS NECESSARY.
+",,
+14585,17725,18128,0,3293-07-17 15:39:00 EST,3293-07-17 16:10:00 EST,3645,"N",54,"Nursing/Other","NPN MICU-7 7AM-7PM","
+NPN MICU-7 7AM-7PM
+41 YO MALE WITH +HIV/AIDS, WITH Cryptospiridum, CMV Colitis, C-diff Colitis, Esophageal Cnadidiasis, Anal Condylomata, Pancytopenia, Anemia, S/P Sepsis, and Scabies. 
+
+Events: Not as Alert today, and poor PO's. 
+
+Neuro: Alert but extremely tired and sleepy, but easily arousable. Appears mildly confused @times, but is aware of time.date and place. Did not want to get out of bed today. 
+
+C/V: BP stable to 98-110/60, HR 70's-80's SR with no ectopy noted. AM K+-3.3, rec'd 60mEq IV, Ca 7.5, MagS+ 1.7, was repleted. Repeat Lytes sent are PND. 
+
+HEME: HCT-stable @ 30.4, PLT-29, PT/PTT 14/30.0 INR- 1.2. No s/s bleeding, no transfusions needed. 
+
+GI: Continues having copious amts brown Liquidy stool, Flexi-seal stool bag was placed but is still leaking around the rectal area, but is better contained. Is very tired today not wanting any PO's today except for OJ this AM. T Bili-6.8. Was ordered for [**Last Name (un) **] U/S but has not been done as yet. 
+
+RESPIR: Remains on RA with O2 sats 98-100%, RR 24-28, L/S clear. 
+
+GU: U/O 60-80cc/hr, BUN/CRE 37/0.8. Rec'ing IVF- NS 125cc/hr, Na+-141, T CO2-19. 
+
+ID: Temp 96-95.6, WBC-11.3. Continues on several IV antibx's and anti-virals. 
+
+Skin: Seen by Derm. skin appears to be improving, rec'ing creme's as ordered. Has duoderm on two open areas on buttocks. Head and neck and back still with flaking off skin in lrge amts. 
+
+Social: Pt's Mother and Brother arrive from [**Country **] today, have been in/out visiting today. Dr [**Last Name (STitle) 170**] discussed issues with the family. 
+
+A/P: Continue to replete Lytes as needed, and continue IVF's as ordered. Assess GI output, and assess for re-bleeding, check HCT, and PLT's bid. Apply skin cream's, as ordered. Monitor I&O's, as replete fluids as needed. Continue IV antibx's. Update family as needed. 
+
+
+",,
+14585,17725,18128,,3293-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-7-18**] 11:01 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10798**]
+     Reason: acute bleed,                                                
+     Admitting Diagnosis: THROMBOCYTOPENIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with progressive HIV, pancytopenia, scabies, on ARVs, with 
+      change in mental status
+     REASON FOR THIS EXAMINATION:
+      acute bleed,                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of progressive HIV, pancytopenia, scabies, change in
+     mental status.  Evaluate for acute bleed.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the head were obtained without IV
+     contrast.
+     
+     FINDINGS:  There is no evidence of acute intra- or extra-axial hemorrhage. 
+     The [**Doctor Last Name 63**]-white matter differentiation appears grossly preserved.  There is
+     slight prominence of the ventricles and sulci that may be related to volume
+     loss.  The basal cisterns appear patent.  Imaged paranasal sinuses appear
+     clear.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage.
+                                                                           
+
+",,
+14585,17725,18128,0,3293-07-18 03:39:00 EST,3293-07-18 04:36:00 EST,8143,"N",54,"Nursing/Other","NURSING NOTES 1900-0700","
+NURSING NOTES 1900-0700
+39 Y/O MALE ADMITTED FOR DIAGNOSIS OF THROMBOCYTOPENIA
+
+PMH: HIV/AIDS 1994
+     CRYPTOSPIRIDIUM, CMV COLITIS
+     CDIFF COLITIS, ESOPHAGEAL CANDIDIASIS,
+     MALNUTRITION, ABNORMAL TFTS, H/O OF PANCREATITIS, SCABIES,
+     ANAL CONDYLOMATA, PANCYTOPENIA, ANEMIA.
+
+INITIAL ADMISSION CC7 [**7-8**] FOR TX OF ANEMIA, FTT AND PANCYTOPENIA (PLT DOWN TO 7), THOUGHT TO BE MYELOSUPPRESSION FROM HAART MEDS AND MALNUTRITION.  ON [**7-12**] PT. WORSENING HYPOTENSION SBPS 40'S, DOPA AND 3L OF IV FLUID ADMINISTERED WHICH BROUGHT SBP TO 60'S, HENCE ADMIT TO MICU.
+
+DNR/DNI
+
+ALLERGY: IODINE
+
+
+SIG EVENTS:  LYTES REPLACEMENT,  PATIENT SPOKE WITH MOTHER.  VERBALIZED WANTING TO TALK WITH SOCIAL SERVICES AND ETHICS COMMITTEE, ALLOWED TO [**Doctor Last Name **]  FOR 4-5HRS WITH PLANNED CARE INTERRUPTIONS.
+
+
+NEURO.  REMAINS ALERT AND ORIENTED X 3 WITH GENERAL WEAKNESS. MAE. PERRLA 3MM/BSK.  DENIES OF ANY PAIN OR DISCOMFORT. NO SEIZURE ACTIVITY NOTED.  PATIENT WAS ASSURED THAT HE HAS AN ADVOCATE THROUGH HIS NURSES IF HE EVER FEELS  ALONE.  PT OPEN TO SUGGESTION TO TALKING WITH SOCIAL SERVICES AND ETHICS COMMITTEE.
+
+
+CV.  NSR HR BETWEEN 78-97 WITH NO ECTOPY NOTED.  STRONG PALPABLE PULSES NOTED ON ALL EXTREMETIES.  SBP 97-111.  K=3.2 REPLACED TOTAL OF 100MEQS OF KCL, CO2=20 REPLACED WITH 100MEQS OF BICARB IN 1L OF D5W.  HCT STABLE AT 30.1.  LYTES RESULTS PENDING POST REPLETION.
+
+
+RESPI.  ROOM AIR SATTING BETWEEN 95-100% EUPNEIC WITH RR BETWEEN 18-30. CLEAR BIL BREATHSOUNDS NOTED ON AUSCULTATION. OCCASSIONAL COUGHING NOTED, ENCOURAGED PATIENT TO TURN MORE OFTEN, AMENABLE.  
+
+GI/GU. ON FULL LIQUID DIET.  PLS ENCOURAGE. HYPERACTIVE BOWEL SOUNDS NOTED ON AUSCULTATION.PATIENT CONTINUES TO OOZE GREENISH LIQUID STOOL VIA FLEXI SEAL BAG. SYSTEM INTACT, FLEXI SEAL BALLOON REINFORCED WITH ADDTL 15CC SALINE TOT 45CC.  TOTAL OF 1L EMPTIED IN LESS THAN 12 HOURS.  PATIENT STARTED ON OCTREOTIDE, OPIUM TINCTURE AND LOPERAMIDE BUT REFUSED LOPERAMIDE AND OPIUM TINCTURE DESPITE OF ENCOURAGEMENT.   FOLEY CATH DRAINING TO AN ORANGE [**Street Address 6264**] OF 30-100CC/HR..
+
+ENDO.  FSS COVERED BY SLIDING SCALE [**First Name8 (NamePattern2) **] [**Last Name (un) **]
+
+SKIN.  DRY FLAKY SKIN.  TOPICAL OINTMENTS ADMINISTERED. ENCOURAGED NOT TO SCRATCH. HAS NOWRWEGIAN SCABIES WHICH IS BEING TREATED WITH PERMETHRINE OINMENT ONCE EVERY 2 WEEKS.  POSITIVE SKIN BREAKDOWN IN COCCYX.
+
+ID. TMAX  95.9 BAIR HUGGER AND WARM PACKS OFFERED BUT REFUSED.  EXTRA BLANKETS PROVIDED.  WBC 14.1. PT CONTINUES TO BE ON RETROVIALS AND ANTIBIOTICS.
+
+PLAN.  MAINTAIN PLT >10,  CONT TO MONITOR LYTES AND REPLETE IF NECESSARY.  HAVE SOCIAL WORKER AND ETHICS COMMITTEE TOUCH BASE WITH PATIENT. START CALORIE COUNT. PROVIDE EMOTIONAL SUPPORT.
+",,
+14585,17725,18128,0,3293-07-18 15:49:00 EST,3293-07-18 16:06:00 EST,3995,"N",54,"Nursing/Other",,"
+
+MIcu Nursing note [**7-15**] 
+
+Neuro pt is awake and alert  following commands, this morning pt sent for head ct which was neg for a bleed, they felt his mental staus was slighly off, pt knows place sometimes is unable to state month.
+
+Cv pt hemeodymanically stable, pulses weak but palp, bilaterally, pt
+had 2 episodes where hr down in the 40's when asleep, bp stable at that time.   pt remains on d5w at 100/hr Na still ^, pt still havving large amounts of loose brown which has now turned yellow this afternoon, pt needing lyte replacment , repeat lytes this afternoon K 3.0 and cal 7.2 house staff to put in orders to replace lytes.
+
+Resp pt on Ra sats 96-100% lungs cta. pt has slight cough non productive.
+
+Gi pt started on brat diet tonight, has been given 2 doses of opium po for loose stool bsx4, flexflow  system patent, 
+
+Gu u/o low 10-20 cc hr amber urine
+Id pt hypothermic placed on bearhugger this afternoon at 1500 temp 95.6  blood culture sent of picc today
+endo bs 148-152 requiring coverage at 6 pm 2 units reg sq.
+skin neck scalp with crusty scabs, and open areas because is picking skin told nt to pick scabs because underneight is very frigile and will try to wash scaple tomorrow.
+
+social asked pt today if he still wanted full treatment he said yes , told him that we need to treat dirrehea and that, if he wanted to be treated that this issue must be addressed and stated that the opium kills his appetite told hiwe understand but that liguid still in the amounts he has must be treated. her agreed to take opium tonight.
+
+A/P opium q6, repleat lytes , uncourage po's and continue with brat diet.
+",,
+14585,17725,18128,0,3293-07-19 03:24:00 EST,3293-07-19 03:41:00 EST,7969,"N",54,"Nursing/Other",,"
+
+MICU 1900-0700 NPN
+
+Please refer to flowsheet for all objective data.
+
+Neuro: Patient A/O x3 for most of shift. At times patient seemed confused when RN would respond to call bell. However patient could be reoriented quickly. MAE's, but stregnth is weak.
+
+CV: HR has been ST with no ectopy this shift. Pedal pulses are palpable bilaterally. 60 mEq of KCL was given for a potassium of 3.4. 2 grams of calcium gluconate was given to correct for a calcium of 7.1. Morning labs still pending.
+
+Resp: Patient continues to sat at 95-100% on RA. Cough remains weak and nonproductive.
+
+GI/GU: Patient continues to have no appetite. Has requested water several times tonight. BS are present. Fecal bag remains intact and draining clear liquid stool. Foley remains intact and is draining amber colored urine.
+
+ID: Remains on contact precautions for scabbies. Tmax this shift was 98.3. Patient continues to require bear hugger at times for hypothermia.
+
+Social: Patients family was in to visit at the start of shift.
+
+Plan: Continue to monitor hemodynamic status. Continue contact precautions and topical ointments for skin. Follow lytes and replete when appropriate. ? call out to floor.
+",,
+14585,17725,18128,0,3293-07-19 16:03:00 EST,3293-07-19 16:24:00 EST,3995,"N",54,"Nursing/Other",,"
+
+micu Nursing note [**7-15**]
+
+Neuro pt awake and alert this am, at 1400 woke pt to turn was confused didn;t understand why i was turning him even after explaining it to pt took 10 min to reorient pt to what we were doing, pt follows commands but seem to have periods on confusion.
+
+Cv pt through most of the day hr 70-90 sr at 1400 pt turned hr ^ 130 st called resident Bp stable at the time pt boluses with 500 cc n/s , hr dropped back to the 80's while getting bolus then after bolus finished hr back up into 120's Ivf changed to 1/2 ns at 150 hr,  labs sent at that time ( and pending ) now
+
+Gi abd soft nontender, pt still has flexflow rectal tube system passing green lig stool 800 cc this shift pt continues on octotide and opium for loose stool, pt taking poor intake incouraged to eat and drink but still has poor po intake,
+
+Gu pt passing clear yellow urine via foley 100-200 cc hr.
+Id pt hypothermic again was in bear hugger x5 hr pt remain on iv antibiotics and antivirals hct 27, wbc 14 plt 38 this am
+Skin pt still picking at skin pulling off scabs on neck and head told that he must stop because skin below [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 6265**] and is bleeding , scalp washed andcream applied to head and body, scale covered with cap in order  to remind pt not to pick at skin,  pt remains on multi skin creams for dry skin and scabes,
+
+Social spoke with family today about pt and that he does have periods of confusion they would like to speak with hiv specialist tomorrow  to have a time line about therapy of new drug, also we need social service andcase worked to see pt about what type of care will be needed and if pt should be dischaged back to a long term care facility or a medical floor, at present pt talking a large amount of nursing time for care and would be to much care for nursing on floor, with need for lyte replacement and nutrition support and dirrehea control along with the fact pt will need a privite room, Right now is the time we need to balance the needs of the psycosocial along with medical, have the most amount of freedom and least restrictive enviornment, with the need for medical care will address this again with house staff tomorrow and also need to speak with id about long term needs, for isolation,
+
+A/p follow up with social services, care worked, Hiv and id, follow up  with labs tonight may need replacement lytes and now looks to need more iv fluids, follow mental status and would talk with hiv speicalist about mental status and what meds may be part of making pt more confused 
+",,
+14585,17725,18128,,3293-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3293-7-20**] 10:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10799**]
+     Reason: r/ PNA, pulmonary edema                                     
+     Admitting Diagnosis: THROMBOCYTOPENIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        40 YO M with advanced AIDS, crypto, pancytopenic, scabies neutropenic, with   
+      hypotension, concern for SIRS, with new productive cough
+     REASON FOR THIS EXAMINATION:
+      r/ PNA, pulmonary edema                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST  [**3293-7-20**]:
+     
+     INDICATION:  Hypertension.  Productive cough.
+     
+     COMPARISON RADIOGRAPH: [**3293-7-12**] and [**3293-7-9**].
+     
+     The heart size is normal.  There is a persistent area of opacity in the right
+     lower lobe with associated displacement of the fissure suggestive of
+     atelectasis.  There is a new area of opacity in the left retrocardiac region
+     with air bronchograms, concerning for infectious pneumonia or aspiration.
+     There is a persistent small right pleural effusion and there is a new small
+     left pleural effusion.
+     
+     IMPRESSION:
+     
+     Persistent right lower lobe opacity, most likely atelectasis.  New left
+     retrocardiac opacity, concerning for infectious pneumonia or aspiration.
+     
+     
+
+",,
+14585,17725,18128,0,3293-07-20 04:18:00 EST,3293-07-20 04:59:00 EST,7969,"N",54,"Nursing/Other",,"
+
+MICU 7 1900-0700 NPN
+
+Please see flowsheet for objective data.
+
+Neuro: Patient's mental status fluctuates. When asked yes/no questions he answers appropriately, yet when RN administer's care he presents with confusion not understanding why care is being done even though POC has been explain previously. Early and Late in shift patient was lethargic. He was able to answer questions but did not take an interest in completing his oral medications. Upper and lower extremities are very weak and was not able to help in his turns.
+
+CV: Patient continues to be ST with no ectopy. 250cc bolus given and HR recovered to NSR. 60mEq PO of KCL, and 40mEq IV of KCL were ordered for correction of a Potassium level of 2.9. However patient would only take 20mEq of the PO KCL. May need to replete remaining PO KCL via IV.
+
+Resp: Patient continues to maintian >95% O2 sats on RA. Lung sounds remain clear throughout. Increased work of breathing and RR noted late in shift. 250 cc FB given, RR decreased to low 20's with occassional jumps to high 30's. Patient cough remains weak and patient states that he is not moving secretions.
+
+GI/GU: Patient remains on soft diet. No appetite noted this shift. Bowel sounds present, and flexitube inplace and draining green liquid stool. There is some leaking at rectum around tube, placed new kurlex and pads to absorb leakage and applied double guard cream to buttocks to protect skin. Patient continues to be on opium to correct excessive output of liquid stool. Foley is intact and draining large amounts of clear yellow urine. Urine output has significantly increased in the last 24 hours from 30cc/hr to 100-200cc/hr.
+
+ID: Remains on contact precautions for scabies. Skin continues to be treated with multiple skin creams at bedside. Skin is very fragile at head and neck. Patient continues with bear hugger therapy due to low temps.
+
+Social: Family into visit at 0000 after patient placed call to family. 
+
+Plan: Continue to monitor hemodynamic status, follow electrolytes and replete when appropriate. Monitor fluid balance, team wants patient to be positive. ? mental status changes, is it r/t hemodynamic status, medications, or both. ? Long term plan for patient and plan for HIV MD consult requested by family. 
+",,
+14585,17725,18128,0,3293-07-20 05:42:00 EST,3293-07-20 05:46:00 EST,7969,"N",54,"Nursing/Other",,"
+
+MICU 7 1900-0700 Addendum
+
+0600 FS 24, Amp of D50 given. At 0630 FS was up to 189.  Very Lethargic this AM. Unable to take PO medication. D5 started at 100cc/hr. PICC port was clotted off, 1 cc of TPA was given with good effect.
+
+
+",,
+14585,17725,18128,0,3293-07-20 17:00:00 EST,3293-07-20 17:15:00 EST,3995,"N",54,"Nursing/Other",,"
+
+Micu Nursing note [**7-15**]
+
+Neuro to very lathargic this am when bp 80/50 pt fluid boluses with 1l n/s and 1 liter Bp improved over an hr pt became more responsive when sbp > 100/. pt required multi lyte replacements durring the day and still passing lg amount of lig green stool hem pos, > 2 liters of stool this shift , u/o 400-500 cc hr.  Family called in this am because  pt was doing poorly.
+This afternoon  pt asked to speak with me in reguards to his care, after 45 min dicussion where pt was very clear, he stated that he didn't want this type of care any more would like to go  home.  wanted to be cmo, 
+Call had aready been placed to Dr [**Last Name (STitle) **] his Hiv md who did come in this evening also the icu fellow was called and informed about pt decision case mannagement was called and told of pt decision, a fmily discussion with DR [**Last Name (STitle) 170**], myself the family and the icu fellow. The family's concern is  should go home with hospice or to a nursing home with hospice decause of the amount of nursing care,
+  [**Known patient firstname **] again verbalized to family his wishes for cmo, and case mannagement will work on dischage planning tomorrow,
+Plan is for pt to be transfered out to home /nh on hospice
+will provide supportive care for pt and family
+",,
+14585,17725,18128,0,3293-07-20 19:26:00 EST,3293-07-20 19:29:00 EST,4027,"N",54,"Nursing/Other","NURSING NOTE 1930","
+NURSING NOTE 1930
+PT HAD VERBALIZED CONCERNS REGARDING WILL.  PAGE TO [**Doctor First Name **] AT SOCIAL SERVICES MADE IN AN ATTEMPT TO FIND OUT PROPER CHANNELS FOR MAKING ARRANGEMENTS- ADVISED TO GET IN TOUCH WITH LEGAL COUNSEL- DISCUSSED CASE WITH [**Doctor First Name **] FROM LEGAL WHO INFORMED THIS RN THAT UNFORTUNATELY, THE HOSPITAL IS UNABLE TO REPRESENT PT IN REGARDS TO THESE MATTERS AND TO ADVISE PT TO MAKE ARRANGEMENTS WITH FAMILY AND HCP REGARDING HIRING PRIVATE COUNSEL AND AT THE LEAST- HAVING HCP WRITE DOWN WISHES AND SIGN PAPER UNTIL LEGAL PREPARATIONS HAVE BEEN MADE.  WILL DISCUSS AT LENGTH WITH THE PATIENT.
+",,
+14585,17725,18128,0,3293-07-21 03:55:00 EST,3293-07-21 04:13:00 EST,4027,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.  
+
+CODE STATUS:  CMO
+
+THIS IS A 39 Y/O M WITH , NORWEGIAN SCABIES, END STAGE AIDS, CHORNIC DIARRHEA [**1-29**] CRYPTOSPORIDIUM, C-DIFF AND CMV COLITIS, PANCYTOPENIA, ELECTROLYTE ABNORMALITIES WHO WAS ADMITTED FROM CC7 FOR HYPOTENSIVE CRISIS WITH SBP IN THE 40'S.  AFTER A LONG, DETAILED DISCUSSION WITH PT, DR. [**Last Name (STitle) **] (PRIMARY ID PHYSICIAN) AND MICU TEAM- PT HAS ADVANCED CODE STATUS TO CMO AS OF [**3293-7-20**] AT 6PM.  
+
+NEURO:  PT IS BECOMING MORE SLEEPY THROUGH THE SHIFT.  HAD BEEN ALERT AND ORIENTED X 3- LUCID AND NEUROLOGICALLY INTACT ENOUGH TO TAKE CARE OF LAST WILL AND TESTAMENT WHICH WAS WITNESSED AND NOTARIZED AT THE BEDSIDE.  PT HAS BEEN VERY ANXIOUS ABOUT HIS COMFORT NEEDS AS HE MAY BECOME MORE LETHARGIC, CONFUSED AND UNABLE TO VERBALIZE HIS PAIN MEDICATION NEEDS.  SPOKE WITH THE PATIENT AT LENGTH ASSURING HIM THAT HE IS BEING CLOSELY MONITORED AND THAT COMFORT IS OUR PRIMARY ISSUE WITH HIM.  PT HAS AN ORDER FOR PRN MORPHINE 2-10MG Q 1 HOUR AS NEEDED. AFTER LENGTHY DISCUSSION AND REASSURANCE- PT HAS BEEN VERY COMFORTABLE AND ABLE TO REST.  PT HAS VERBALIZED THAT HE ""DOES NOT WANT TO PROLONG HIS LIFE AT ALL"".  PERRLA, 3/BRISK.  AFEBRILE- PT C/O CONSTANTLY BEING COLD- CURRENTLY HAS BAIR HUGGER ON FOR COMFORT.  NO SEIZURE ACTIVITY NOTED.  SPEECH REMAINS CLEAR AND HE IS FOLLOWING COMMANDS WITHOUT ANY DIFFICULTY.
+
+RR:  PT CURRENTLY O2L NC.  BBS= ESSENTIALLY CLEAR TO BILATERAL UPPER LOBES AND DIMINISHED TO BILATERAL BASES.  PT C/O OF SOME SOB AT TIMES WHICH IS RELIEVED BY MORPHINE.  SP02 > OR = TO 95%.  BILATARAL CHEST EXPANSION NOTED.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 60-80'S WITH NO SIGNS OF ECTOPY.  SBP > OR = TO 100.  WEAKLY PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  PT IS STILL RECEIVING BICARB GTT AT 200CC/HR BUT AS PER DR. [**Last Name (STitle) 6266**]- WE ARE NOT TREATING ELECTROLYTES. 
+
+GI:  PT CONTINUES TO HAVE MASSIVE DIARRHEA- GREEN, LIQUID STOOL NOTED. PT HAS SECURE AND INTACT FECAL INCONTINENCE BAG. SOME SEEPAGE AROUND SITE- BUT FOR THE MOST PART STOOL IS CONTAINED.  PT WOULD LIKE TO KEEP BAG ON.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.  
+
+INTEG: PT KNOWN TO HAVE NORWEGIAN SCABIES.  CARE PROVIDERS AND ANY VISITORS MUST WEAR SHOE COVERS, CAP, GOWN AND GLOVES PRIOR TO ENTERING.  PT NOTED TO HAVE DRY, SCALY SKIN THROUGHOUT BODY.  
+
+SOCIAL:  LARGE AMOUNTS OF FAMILY IN TO VISIT.  PT ALSO ABLE TO TAKE PHONE CALLS.  MOM AT BEDSIDE.  ALL QUESTIONS ANSWERED.
+
+PLAN:  CMO.  D/C TO HOSPICE ASAP.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+",,
+14585,17725,18128,0,3293-07-21 15:50:00 EST,3293-07-21 16:03:00 EST,4284,"N",54,"Nursing/Other",,"
+
+Nsg Progress Note 0700-1900
+
+CV - Pt hemodynamically stable.  IVF dc'd.  HR NSR with no ectopy although it is becoming slightly irregular.
+
+Resp - No O2.  O2sats excellent on RA and no c/o SOB or difficulty breathing.  BS cl bilat.  Dry spont cough.  Pt did have 3 short episodes of nose bleed from left nares only.  Bleeding stopped spontaneously.  No episodes since 1300.
+
+GI - Pt has no interest in eating.  Abd soft with positive BS.  Mushroom cath placed for large amt green liquid stool.
+
+GU - foley cath draining mod - large amt clear yellow urine.  Urine is occasionally blood tinged but clears on its own.
+
+Neuro - Pt very awake in the morning and able to help with turns and care.  A&O x3 and very aware of surroundings.  Pt requesting more pain med and as the day progressed - he is sleeping more and takes longer to orient self to place and time.  He is still oriented and appropriate and stated that he just wants to [**Doctor Last Name 8**] and not be awake anymore.
+
+Social - Mother, brother and [**Name2 (NI) 1548**] in all day.  They have been updated on condition by attending and case manager and social worker.  They are all in agreement with patient's wishes.  They would prefer to keep patient in hospital if death looks imminent but they are also comfortable with patient being transferred to hospice if necessary.
+
+Code status - Pt remains a CMO and antibiotics and IVF's have been dc'd.  Pt receiveing MSO4 as requested to keep him comfortable.  He responds well to 5 mg IVP q 3-4 hours. 
+
+
+",,
+14585,,18128,0,3293-07-22 03:20:00 EST,3293-07-22 03:27:00 EST,4027,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM DAY SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVRIONMENT SECURED FOR SAFETY.  
+
+THIS IS A 39 Y/O MALE W/ NORWEGIAN SCABIES, END STAGE AIDS, CHRONIC DIARRHEA [**1-29**] CMV COLITIS, C-DIFF AND CRYPTOSPORIDIUM, PANCYTOPENIA AND ELECTROLYTE ABNORMALITIES THAT WAS INITIALLY ADMITTED FROM CC7 IN HYPOTENSIVE CRISIS; SBP 40-60'S.  AFTER A LONG, DETAILED DISCUSSION WITH FAMILY, PRIMARY CARE- DR. [**Last Name (STitle) **] AND MICU TEAM- PT ADVANCED HIS CODE STATUS TO CMO AS OF [**3293-7-20**].  SOCIAL SERVICES IS ACTIVELY ATTEMPTING TO ARRANGE PLCMT INTO HOSPICE NH.  
+
+PT HAS BEEN COMFORTABLE FOR MOST OF SHIFT. CURRENTLY RECEIVING IVP OF 10MG MORPHINE Q 2-3 HOURS FOR COMPLAINTS OF GENERALIZED DISCOMFORT.  REMAINS LUCID- ORIENTED X 3- LETHARGIC AT TIMES.  PROVIDING CONSTANT REASSURANCE THAT HIS DISCOMFORT WILL NOT GET OUT OF CONTROL.  MOTHER HAS BEEN SPENDING THE NIGHT AT THE BEDSIDE.  PLAN IS FOR PLCMT IN HOSPICE NH- AND MANAGING DISCOMFORT WITH MORPHINE DURING TRANSITION.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+
+",,
+14585,,18128,0,3293-07-22 15:16:00 EST,3293-07-22 15:34:00 EST,8143,"N",54,"Nursing/Other","NURSING NOTES 0700-1900","
+NURSING NOTES 0700-1900
+39 Y/O MALE PT WITH END STAGE AIDS, NORWEGIAN SCABBIES, CHRONIC DIARRHEA, CMV COLITIS, CDIFF,CRYPTOSPORIDIUM AND ELECTROLYTE ABNORMALITIES.  INITIALLY ADMITTED AT CC7 FOR ANEMIA, FTT AND PANCYTOPENIA HAD HYPOTENSIVE CRISIS WITH SBP IN THE 40'S THUS TRANSFER TO MICU.
+
+PATIENT HAS DECIDED HIMSELF TO BE ON COMFORT MEASURES LAST [**7-20**]/O6.  PATIENT IS CURRENTLY  ON MORPHINE DRIP AT 5MG/HR REQUIRING RESCUE DOSES AT TIMES FOR PAIN/GEN DISCOMFORT MOSTLY FROM HIS COCCYX.  HE IS LUCID, LETHARGIC BUT VERY MUCH ORIENTED X 3.
+
+PATIENT HAS BEEN ST WITH HR RATE IN THE 120'S WITH SBP BETWEEN  85-90'SMMHG.
+
+CONTINUES TO BE ON ROOM AIR, EUPNEIC RR IN THE 20'S SATTING BETWEEN 95-100%.
+
+OF NOTE PATIENT HAS A PHD DEGREE IN ECONOMICS AND IS VERY MUCH LOVED BY A LOT OF FRIENDS AND FAMILY.  MOTHER AND BROTHER FLEW IN FROM [**Country **]. PATIENT VALUES A LOT THAT HIS WISHES WOULD NOT BE REVERSED WHEN HE IS NOT LUCID ANYMORE AND THAT HE WOULD DIE WITH DIGNITY.
+
+PLEASE PROVIDE PATIENT AND FAMILY EMOTIONAL/SPIRITUAL SUPPORT DURING THE DYIN/GRIEVING PROCESS.
+
+
+",,
+14585,,18128,0,3293-07-22 16:29:00 EST,3293-07-22 16:33:00 EST,8143,"N",54,"Nursing/Other","NURSING NOTES ADDENDUM 0700-1900","
+NURSING NOTES ADDENDUM 0700-1900
+PT TACHY AT 140S WITH SATS AROUND THE 80'S WITH LABORED BREATHING, TALKED WITH PATIENT, REQUESTING FOR FAMILY TO BE AROUND,  WAS ABLE TO SPEAK WITH [**Doctor First Name **] (COUSIN), THEY WILL BE IN ASAP.  NURSE [**First Name (Titles) **] [**Last Name (Titles) **] WITH PATIENT.
+",,
+14585,,18128,0,3293-07-22 16:40:00 EST,3293-07-22 16:41:00 EST,3885,"N",54,"Nursing/Other",,"
+
+Transfer to the floor is on hold.
+Agonal breathing, sats in the 60's. Morphine gtt was increased to 10 mg/h at 1715.
+",,
+14585,,18128,0,3293-07-22 20:35:00 EST,3293-07-22 20:37:00 EST,6440,"N",54,"Nursing/Other",,"
+
+PT PASSES AWAY AT 1925 ON [**3293-7-22**], DR [**First Name8 (NamePattern2) **] [**Name (STitle) **] PRONOUCED. FAMILY AWARE, PT'S BELONGES SENT WITH FAMILY.
+",,

@@ -1,0 +1,53 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14182,12871,,,2987-02-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+14182,12871,,,2987-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-18**] 10:39 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7127**]
+     Reason: r/o increase hemorrhage, edema
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with right basal ganglia hemorrhage, becoming obtunded over
+      last 2hrs since previous CT at OSH
+     REASON FOR THIS EXAMINATION:
+      r/o increase hemorrhage, edema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 81 year old woman with right basal ganglia hemorrhage becoming
+     obtunded over last two hours.
+     
+     COMPARISON: Comparison is made with prior CT of the head performed at [**Location (un) 7128**]
+     [**Hospital 7129**] Hospital at 19:37 hours on [**2987-2-18**].
+     
+     TECHNIQUE: CT head without contrast.
+     
+     CT HEAD W/O CONTRAST: There has been interval increase in hemorrhage within
+     the right basal ganglia and further extension medially and superiorly.  The
+     hemorrhage now extends across the midline and into the right frontal horns of
+     the lateral ventricle.  Blood fluid levels are present within the posterior
+     horns bilaterally.  Hemorrhage appears to extend into the third ventricle. Low
+     attenuation areas are present surrounding the hemorrhage most prominently in
+     the right frontal white matter.  The ventricles do not appear significantly
+     changed in size although there is slightly more right to left shift.  There
+     does not appear to have been significant interval effacement of the sulci.
+     
+     IMPRESSION: Interval progression and extension of right basal ganglia
+     parenchymal hemorrhage.  Results discussed with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4284**], neurosurgery PA,
+     at time of study.
+     
+
+",,
+14182,12871,17628,0,2987-02-19 05:22:00 EST,2987-02-19 05:47:00 EST,3825,"N",54,"Nursing/Other","ADM","
+ADM
+DATA:
+81 YO WF ADMITTED FROM ER AT 2400. PMHX SIGNIFICANT FOR COPD, HTN AND EMPHYSEMA. SHE WAS BEING DRIVEN HOME BY SON EARLIER IN EVENING AND C/O VAGUE HA. THEN WHILE ATTEMPTING TO GET OUT OF CAR SHE HAD WEAKNESS L LEG AND L ARM WAS FLACID. HER MS [**First Name (Titles) **] [**Last Name (Titles) **] AT THIS TIME. SON CALLED 911 AND SHE WAS TAKEN TO [**Hospital **] [**Hospital **] HOSPITAL WHERE A CT SCAN SHOWED A BASAL GANGLION HEMMORRHAGE WITH MIN SHIFT. WHILE SHE WAS AT [**Location (un) **] SHE WAS GIVEN LABETOLOL TO MAINTAIN LOWERED BP. SHE ALSO HAD EPISODE OF VOMITTING WHEN SHE BECAME BRADYCARDIC TO 30'S. SHE WAS THEN TRANSFERRED TO [**Hospital1 10**] ER WHERE SHE ARRIVED MORE SOMMULENT. SHE WAS CHANGED TO NIPRIDE DRIP AND REPEAT CT SHOWED WORSENED BLEED. SHE ALSO VOMITTED AND BECAME BRADYCARDIC TO 40'S. TRANSFERRED TO NSICU FOR FURTHER MONITORING. HYPERTENSIVE TO 200'S ON ARRIVAL BUT HAS SINCE BEEN MAINTAINED 130-150 WITH NIPRIDE DRIP. LABETOLOL CONSIDERED BUT NOT USED D/T BRADYCARDIA. SHE IS AROUSABLE WITH STIMULI AND SOMETIMES JUST LOUD VOICE. SHE MOVES R SIDE SPONTANEOUSLY AND WITHDRAWS TO NAIL BED PRESSURE ON L SIDE. SHE DOES NOT OPEN EYES TO COMMAND OR STIMULI. HER PUPILS ARE EQUAL AND SLUGGISH AT 2MM AND BOTH DEVIATE IN AND DOWN. SHE FOLLOWS COMMANDS. SHE HAD ONE EPISODE OF VOMITTING BILE WHEN SHE BECAME BRADYCARDIC TO 22 AND THEN LOST HR AND BP FOR APPROX 5-10SECS. NGT WAS PLACED TO PREVENT ASPIRATION AND DR. [**First Name (STitle) **] WAS NOTIFIED. 
+
+SOON AFTER ARRIVAL TO NSICU SHE WAS MADE DNR/DNI BY HER SON AND FAMILY ACCORDING TO PT'S WISHES AS STATED IN HER PROXY WHICH THEY WILL BRING IN IN AM. THEY ALSO DECLINED TO HAVE VENTRICULAR DRAIN PLACEMENT IF ONE SHOULD BE CONSIDERED. 
+",,
+14182,12871,17628,0,2987-02-19 16:54:00 EST,2987-02-19 17:09:00 EST,3441,"N",54,"Nursing/Other","nsg transfer note","
+nsg transfer note
+81 yo female c/o ha [**2-18**] followed by left leg weakness/flacid left arm. to er at [**Hospital **] [**Hospital **] hosp. head ct found right basal ganglion bleed. transfered to [**Hospital1 **]. repeat head ct increase in bleed with small shift.pt becoming more obtunted. nipride gtt started to keep sbp <140 and transfered to nsicu. in nsicu cont on nipride gtt. family at bedside and discussed care options. pt made dnr by family. (has voiced her wishes several years ago about health care options. has health care proxy). family declining ventricular drain on admit. overnoc one episode vasovagal with hr dec. to 20's. resolved back to nsr <20-30 sec w/o intervention. ivf via piv 75/hr. foley to gravity 22-50/hr uo. family met again with neuro medicine md. decesion to not tx/no vent drain. pt to transfer to [**Hospital Ward Name 40**] 5. other pmh emphysema requiring 02 at night, htn. nka. 
+",,

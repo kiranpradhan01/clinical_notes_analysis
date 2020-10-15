@@ -1,0 +1,365 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14035,,,,3363-02-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3363-2-8**] 10:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5708**]
+     Reason: r/o asp. pneumonia                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with worsening sob.  hypoxic with 86% sat on nrb.  lungs with 
+      rhonci t/o.. r/o asp. pneumonia
+     REASON FOR THIS EXAMINATION:
+      r/o asp. pneumonia                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath.
+     
+     COMPARISON: None
+     
+     CHEST, PORTABLE: The view is apical lordotic. The heart size is normal. There
+     is increased opacity in the retrocardiac region on the left. There is
+     silhouetting of the left hemidiaphragm.  There is asymmetric prominence of the
+     interstitium in the right lung, which may be due to patient rotation. The
+     aorta is calcified and tortuous.  No pneumothorax.
+     
+     IMPRESSION: Left base consolidation.  Prominence of the vasculature on the
+     right as compared with the left is probably due to rotation. To definitively
+     exclude a symmetric edema a repeat film could be performed.
+     
+
+",,
+14035,7583,,,3363-02-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3363-2-9**]     Discharge Date:  [**3363-2-16**]
+
+Date of Birth:   [**3287-12-20**]     Sex:  M
+
+Service:  [**Doctor Last Name 623**]
+
+ADDENDUM:  Please change the date of discharge to [**3363-2-16**].
+
+
+
+
+
+
+                       DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 12-972
+
+Dictated By:[**Name8 (MD) 4730**]
+
+MEDQUIST36
+
+D:  [**3363-2-16**]  09:44
+T:  [**3363-2-16**]  10:28
+JOB#:  [**Job Number 10014**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: MON [**3363-3-14**] 5:19 PM
+(End of Report)
+
+
+",,
+14035,7583,17455,0,3363-02-09 06:00:00 EST,3363-02-09 06:17:00 EST,1951,"N",69,"Nursing/Other",,"
+
+MICU NURSING ADMIT NOTE:
+     Pt is a 75 yr old male resident of [**Hospital **] Rehab who was brought to [**Hospital1 10**] EW [**2-8**] with SOB, tachypnea, sats 70% RA, temp 102.2; presumably d/t aspiration. Pt placed on mask ventilation in eW with sats up to mid 90's. Med with Flagyl and Levo, received 1.5 L ivf and transferred to mICU for further care.
+     On arrival to micu, pt with sats 95% on 100% NRB, abg 7.45/38/74/27. Temp 102.0 rectally. Blood cx sent x 2, urine UA/C+S sent, sputum cx sent for gram stain. Pt needs nasalpharyngeal aspirate for influenza when able. Pt placed on droplet precautions until influenza ruled out. Foley placed. Pt received 500cc's ns ivb. 
+REview of systems:
+Neuro: pt Russian speaking only. Pt with baseline dimentia. Opens eyes to voice. MAe. lower extremities contracted. has several psych meds ordered that are his usual regime. pt needs to be evaluated by speech and swallow before giving po's. Team does not want ngt at this time.
+CV: troponin .15, but cpk's/mb's wnl. no further orders at this time. troponin leak likely r/t stress per team. HR 80's NSR. BP 120's-130's. EKG done in eW.
+RESP: rr 16-24. LS course at bases. sats 96% on 100% NRB.
+GI: ab soft, bs +.  no stool. pt reporting ab discomfort to palpation by MD. NPO until swallow study.
+GU: foley placed, urine amber, clear. 5cc's additional ns added to foley balloon as was leaking. 
+ID: am wbc's pending. cx pending. abx started in EW.
+Social: Pt has a wife, but granddaughter [**Name (NI) 5610**] [**Name2 (NI) 5611**] is spokesperson. Her phone # is in fhpa.
+     A/P: pt with likely aspiration pneumonia. follow cx, xray. cont abx/cpt. most likely can leave icu today.  
+",,
+14035,7583,17455,0,3363-02-09 17:45:00 EST,3363-02-09 17:57:00 EST,2393,"N",69,"Nursing/Other","NPN 7-7PM","
+NPN 7-7PM
+
+Neuro: Pt is Russian speaking, understands no English. When his family visited today he did not communicate with them, he only opened his eyes when called his name. According to grddtr this is his baseline.He has dementia at baseline. Does not move spontaneously and lower extremities are contracted. Pt is on several psych meds which are all being held to see if lethargy subsides.
+
+Resp: Currently on 40% venti mask after being weaned from 100% NRB. LS coarse. Pneumonia in LLL (presumably from aspiration). Is on levo, flagyl. Sent nasal washings for flu test, so far A+B strains are neg and viral is pending. Pt on droplet precautions.
+
+CV: VSS. SR in the 80's, no ectopy.
+
+access: 2 piv.
+
+GI/GU: Pt is NPO, including medications. Receiving only IV antibiotics. belly soft, + BS. No BM. Foley in place; it has leaked and additional saline added to balloon. Team plans to insert NGT and start TF since swallow eval canot be done until Friday. It was deferrred today b/c of lethargy.
+
+Skin: Pt arrived from rehab with Duoderms on hips and coccyx. They seem only to be prevenative. Skin is redddened, but not broken. 
+
+DISPO: DNR/DNI.
+
+Social: Grand-dtr is a RN at [**Hospital **] Rehab, she is the spokesperson. Pt wife does not speak English.
+
+Plan: Continue to wean O2, start TF.
+",,
+14035,7583,17455,,3363-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3363-2-10**] 5:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5709**]
+     Reason: please assess for pulmonary edema                           
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with worsening sob.  hypoxic with 86% sat on nrb.  lungs with  
+      rhonci t/o.. r/o asp. pneumonia
+     REASON FOR THIS EXAMINATION:
+      please assess for pulmonary edema                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Hypoxic, worsening SOB.
+     
+     CHEST:  There is a diffuse interstitial pattern in the right lung and some
+     focal interstitial alveolar opacification in the left mid-zone.  More left
+     effusion is present.  These appearances could be due to either infection or
+     possibly edema.
+     
+     IMPRESSION:  Bilateral interstitial alveolar opacifications.
+
+",,
+14035,7583,17455,0,3363-02-10 05:49:00 EST,3363-02-10 05:54:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT RUSSIAN SPEAKING, DIFFICULT TO ASSESS ORIENTATION. PT IS ALERT, OPENS EYES SPONTANEOUSLY, MOVES BIL UPPER EXTREMITIES. LS COARSE, CONGESTED NONPRODUCTIVE COUGH. PT CONT ON 40% VM. SATS 92-95%. HR 60-70 NSR, NO ECTOPY. SBP 110-150'S. AFEBRILE. IVF D51/2NS W/40KCL AT 120CC/HR. PT GIVEN 10MG IV LASIX. U/O POST LASIX ~600CC. U/O ~20CC/HR AMBER URINE. NO BM, ABD SOFT. DR.[**Last Name (STitle) **] ATTEMPTED NGT X3 WITH NO SUCCESS. PLAN IS FOR NGT PLACEMENT IN IR ON FRIDAY. PT IS NPO. 
+NO CONTACT FROM FAMILY OVERNGIHT. PT IS A DNR/DNI. PT IS CALLED OUT TO MEDICAL FLOOR, AWAITING A BED.
+",,
+14035,7583,17455,0,3363-02-10 13:33:00 EST,3363-02-10 13:56:00 EST,2393,"N",69,"Nursing/Other","NPN 7-7pm","
+NPN 7-7pm
+Pt is a DNR/[**Hospital **] transferred from [**Hospital **] Rehab with LLL pneumonia. Is on Levo, Flagyl.
+
+neuro: Pt is Russian speaking and understands no English. He is much more alert today than he has been. His eyes are open and he was able to respond to one of the physicians who speaks russian. He has demetia at baseline.
+
+resp: Continues on 100% NRB. Is on levo/flagyl for LLL pneumonia. LS coarse.
+
+cv: SR 80-90's, BP 110-150. 
+
+gi/gu: Belly soft with + BS. Pt is NPO. RN attempted to feed pt this afternoon at the request of the team.Pt not able, he pocketed the food in his cheeks. Will receive PPN tonite.
+
+Skin: Duoderm to hips and coccyx covering reddened areas that are not broken.
+
+Social: Wife and [**Name2 (NI) 3001**] (is a nurse [**First Name (Titles) **] [**Last Name (Titles) **] Rehab).
+
+Plan: PEG placed under fluoro tomm and swallow eval. Transfer to to floor.
+
+
+",,
+14035,7583,,,3363-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3363-2-11**] 8:56 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5710**]
+     Reason: ? enlargement of ventricles, history of NPH                 
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with history of NPH, [**Last Name (un) 5711**]-body dementia, admitted from NH with 
+      presumed aspiration pna and delta ms.
+     [**Name13 (STitle) **] FOR THIS EXAMINATION:
+      ? enlargement of ventricles, history of NPH                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of normal pressure hydrocephalus, now presents with
+     aspiration pneumonia and change in mental status.
+     
+     COMPARISONS: [**3360-12-25**]
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no sign of intra axial or extra axial hemorrhage. The
+     ventricles remain dilated, possibly slightly more dilated than on the prior
+     study but difficult to exactly compare given differences in slice thickness.
+     There is no shift of midline structures or mass effect. [**Doctor Last Name **]-white matter
+     differentiation is preserved. Hypodensity in the periventricular white matter
+     areas bilaterally are also unchanged.  There is no sign of fracture or bone
+     destruction. The paranasal sinuses and imaged aspects of the orbits are
+     unremarkable.
+     
+     IMPRESSION:  Persistent ventriculomegaly. No acute intracranial hemorrhage or
+     mass effect.
+
+",,
+14035,7583,,,3363-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3363-2-14**] 7:42 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5712**]
+     Reason: PICC - bedside attempted without success                    
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man needs 2 wk course of vanco.                                     
+     REASON FOR THIS EXAMINATION:
+      PICC - bedside attempted without success                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia requiring two-week course of antibiotics.  Bedside PICC
+     attempted without success.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**First Name (STitle) 1983**] and [**Name5 (PTitle) 250**] with Dr.
+     [**Last Name (STitle) 250**] supervising throughout.  The left upper arm was prepped in a sterile
+     fashion.  No suitable superficial veins were visible, therefore, ultrasound
+     was used for localization of a suitable vein.  The lateral of the paired
+     brachial veins was patent and compressible.  After local anesthesia with 2 cc
+     of 1% lidocaine, the brachial vein was entered under ultrasonographic guidance
+     with a 21-gauge needle.  A .018 guide wire was advanced under fluoroscopy into
+     the superior vena cava.  Based on the markers on the guide wire, it was
+     determined that a length of 42 cm would be suitable.  The PICC line was
+     trimmed to length and advanced through a 4-French introducer sheath under
+     fluoroscopic guidance into the superior vena cava.  The sheath was removed.
+     The catheter was flushed.  Final chest x-ray was obtained.  Film demonstrates
+     the tip to be in the superior vena cava just above the atrium.  The line is
+     ready for use.  A Stat-Lock was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 42-cm total length 4-French single
+     lumen left brachial PICC line with tip in superior vena cava, ready for use.
+
+",,
+14035,7583,,,3363-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3363-2-14**] 10:05 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 5713**]
+     Reason: ? aspiration.                                               
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with [**Last Name (un) 5711**] body dementia, new LLL pna and O2 requirment, ? 
+      aspiration pna.
+     REASON FOR THIS EXAMINATION:
+      ? aspiration.                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Last Name (un) **] body dementia, left lower lobe pneumonia and oxygen
+     requirement.  Evaluate for aspiration.
+     
+     VIDEO OROPHARYNGEAL SWALLOW: Fluoroscopic guidance was provided for the
+     speech pathologist who administered barium solids and liquids of various
+     consistencies to the patient. The patient shows a delayed oral phase with
+     poor bolus formation.  Pharyngeal motor reflexes are intact. There is only
+     very mild penetration with thin liquids but no gross aspiration.
+     
+     IMPRESSION: No evidence of aspiration.  Poor oral bolus formation and
+     delayed oral transit time.  For additional report details, please consult the
+     speech pathologist's report, which is available in the online medical
+     record section of CCC.
+     
+
+",,
+14035,7583,,,3363-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3363-2-14**] 7:42 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5712**]
+     Reason: PICC - bedside attempted without success                    
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man needs 2 wk course of vanco.                                     
+     REASON FOR THIS EXAMINATION:
+      PICC - bedside attempted without success                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia requiring two-week course of antibiotics.  Bedside PICC
+     attempted without success.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**First Name (STitle) 1983**] and [**Name5 (PTitle) 250**] with Dr.
+     [**Last Name (STitle) 250**] supervising throughout.  The left upper arm was prepped in a sterile
+     fashion.  No suitable superficial veins were visible, therefore, ultrasound
+     was used for localization of a suitable vein.  The lateral of the paired
+     brachial veins was patent and compressible.  After local anesthesia with 2 cc
+     of 1% lidocaine, the brachial vein was entered under ultrasonographic guidance
+     with a 21-gauge needle.  A .018 guide wire was advanced under fluoroscopy into
+     the superior vena cava.  Based on the markers on the guide wire, it was
+     determined that a length of 42 cm would be suitable.  The PICC line was
+     trimmed to length and advanced through a 4-French introducer sheath under
+     fluoroscopic guidance into the superior vena cava.  The sheath was removed.
+     The catheter was flushed.  Final chest x-ray was obtained.  Film demonstrates
+     the tip to be in the superior vena cava just above the atrium.  The line is
+     ready for use.  A Stat-Lock was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 42-cm total length 4-French single
+     lumen left brachial PICC line with tip in superior vena cava, ready for use.
+
+",,
+14035,7583,,,3363-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3363-2-14**] 7:42 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5712**]
+     Reason: PICC - bedside attempted without success                    
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man needs 2 wk course of vanco.                                     
+     REASON FOR THIS EXAMINATION:
+      PICC - bedside attempted without success                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia requiring two-week course of antibiotics.  Bedside PICC
+     attempted without success.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**First Name (STitle) 1983**] and [**Name5 (PTitle) 250**] with Dr.
+     [**Last Name (STitle) 250**] supervising throughout.  The left upper arm was prepped in a sterile
+     fashion.  No suitable superficial veins were visible, therefore, ultrasound
+     was used for localization of a suitable vein.  The lateral of the paired
+     brachial veins was patent and compressible.  After local anesthesia with 2 cc
+     of 1% lidocaine, the brachial vein was entered under ultrasonographic guidance
+     with a 21-gauge needle.  A .018 guide wire was advanced under fluoroscopy into
+     the superior vena cava.  Based on the markers on the guide wire, it was
+     determined that a length of 42 cm would be suitable.  The PICC line was
+     trimmed to length and advanced through a 4-French introducer sheath under
+     fluoroscopic guidance into the superior vena cava.  The sheath was removed.
+     The catheter was flushed.  Final chest x-ray was obtained.  Film demonstrates
+     the tip to be in the superior vena cava just above the atrium.  The line is
+     ready for use.  A Stat-Lock was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 42-cm total length 4-French single
+     lumen left brachial PICC line with tip in superior vena cava, ready for use.
+
+",,
+14035,7583,,,3363-02-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3363-2-15**] 10:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5714**]
+     Reason: eval for worsening PNA                                      
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man with worsening sob.  hypoxic with 88% on 5L NC.  Pt has been 
+      on aspiration precautions.
+     REASON FOR THIS EXAMINATION:
+      eval for worsening PNA                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumonia.  Hypoxic.
+     
+     COMPARISON:  [**3363-2-13**].
+     
+     FINDINGS:  The heart and medistinal contours are normal.  There has been
+     interval clearing in the left mid zone and right basal opacification.  There
+     is persistent right middle lobe infiltrate.  There is a small left basal
+     effusion.  There is a left-sided central line with the tip in the distal SVC
+     or proximal right atrium.
+     
+     IMPRESSION:  Persistent right mid zone infiltrates in keeping with known
+     infection.
+
+",,

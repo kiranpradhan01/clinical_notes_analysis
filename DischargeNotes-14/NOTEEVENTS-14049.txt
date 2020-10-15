@@ -1,0 +1,420 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14049,9516,,,2582-07-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2582-7-23**]              Discharge Date:   [**2582-7-25**]
+ 
+Date of Birth:  [**2499-12-17**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1676**] 
+Chief Complaint:
+DKA
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Pt is a 82 yo female h/o DKA three month ago, presents with 
+hyperglycemia. Over the preceeding 2-3 days, her blood sugars 
+(as done at NH) were in the 300s (her baseline being in the 200s 
+to occasional 300s). This AM, she received 6 units of lantus (as 
+part of her usual AM regimen) and 10 units of regular at 7:30 am 
+with a FS of 372. She was given 12 units of regular at 12 pm, 8 
+units of regular at 1 pm, and 6 units regular at 2 pm, each time 
+her BS were read as ""critically high"". Per the aides, her urine 
+smelled ""fruity.""  
+  
+In the ED, VS on admission were: T: 98.6; HR: 80; BP: 138/70; 
+RR: 18; O2: 94 RA. Initial labs showed a glucose of 761, gap of 
+26 with a bicarb of 16. She was given 10 units of subcutaneous 
+insulin at 5:30 pm. At 6:25 pm BS noted to be in 700s, insulin 
+gtt was started at 10 units/hr. Next two blood sugars in ED were 
+""critically high."" She also received 4 L of normal saline while 
+in the ED.  
+  
+Of note, the patient finished a 7 day [**Last Name (un) 10043**] of Bactrim DS on 
+[**2582-7-11**] for a UTI. Per her son, she was admitted three months 
+agofor DKA (admitted to [**Hospital 100**] Hospital ([**Location (un) 7585**])). She also 
+was in [**Hospital 5589**] Hospital secondary to UTI.  
+  
+The patient denies any chest pain, shortness of breath, dysuria, 
+cough, nausea, vomiting, diarrhea. She is not in pain.  
+ 
+Past Medical History:
+1. Diabetes Mellitus- Diagnosed 15 years ago. She has been in 
+DKA five times and has always been on insulin.  
+2. HTN - currently off meds  
+3. Alzheimer Dementia- At baseline: she knows name, not where 
+is. Short term memory is poor.  
+4. Anemia  
+5. Right wrist fracture  
+6. Dysphagia  
+
+ 
+Social History:
+Worked as a legal secretary. Has five sons. Nursing home 
+resident. Smoked quit 30 years ago, 1 ppd x 7 years. No EtOH. 
+ 
+Family History:
+Son: DM (? type) 
+ 
+Physical Exam:
+VS: T: 98.0; HR: 101; BP: 104/71; RR: 20; O2: 97 RA  
+Gen: Speaking in full sentences  
+HEENT: MMM; sclera anicteric; OP clear  
+Neck: No LAD.  
+CV: TAchycardic S1S2. No M/R/G  
+Lungs: CTA b/l with decreased BS at bases though poor effort  
+Abd: Soft, NT, ND. No hepatomegaly. +midline scar 
+pubis-->umbilicus. Also + scar 3 inch LLQ above inguinal line.  
+Ext: Trace edema b/l  
+Neuro: Alert. Oriented to name only. CN II-XII tested and 
+intact. Reflexes upper extremities intact.  
+ 
+Pertinent Results:
+Initial Chemistries ([**2582-7-23**]): GLUCOSE-761* UREA N-31* CREAT-1.1 
+SODIUM-130* POTASSIUM-6.3* CHLORIDE-89* TOTAL CO2-15* ANION 
+GAP-32* CALCIUM-10.1 PHOSPHATE-5.5* MAGNESIUM-2.2* freeCa-1.19
+
+Repeat: GLUCOSE-688* LACTATE-3.9* K+-4.9
+
+Cardiac Enzymes ([**2582-7-23**]): CK-MB-NotDone cTropnT-0.01
+
+Blood Gas ([**2582-7-23**]): TYPE-ART TEMP-37.0 PO2-96 PCO2-37 PH-7.29* 
+TOTAL CO2-19* BASE XS--7 COMMENTS-ROOM AIR
+
+CBC ([**2582-7-23**]): WBC-8.9 RBC-3.25* HGB-10.1* HCT-29.9* MCV-92 
+MCH-31.1 MCHC-33.7 RDW-16.6*
+
+Coags: ([**2582-7-23**]): PT-11.6 PTT-19.2* INR(PT)-1.0
+
+LFTs ([**2582-7-23**]): ALT(SGPT)-19 AST(SGOT)-25 LD(LDH)-295* 
+CK(CPK)-46 ALK PHOS-157* TOT BILI-0.8* LIPASE-24
+
+Urine ([**2582-7-23**]) BLOOD-SM  NITRITE-NEG PROTEIN-TR GLUCOSE-250 
+KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD* RBC-8* 
+WBC-23* BACTERIA-MANY YEAST-NONE EPI-0
+
+CBC on Discharge ([**2582-7-25**]): WBC-6.6 RBC-3.59* Hgb-10.7* 
+Hct-32.9* MCV-92 MCH-29.7 MCHC-32.4 RDW-16.8* Plt Ct-268* 
+Neuts-80.5* Bands-0 Lymphs-14.7* Monos-3.6 Eos-0.8 Baso-0.3
+
+Chemistries on Discharge ([**2582-7-25**]): Glucose-111* UreaN-9 
+Creat-0.4 Na-143 K-4.1 Cl-110* HCO3-24 AnGap-13
+
+Radiology:
+
+CXR ([**2582-7-23**]): 
+1. Right hilar prominence. Comparison to old chest radiographs 
+is recommended. In the absence of prior studies, CT can be 
+performed for further evaluation.
+2. Biapical pleural thickening.
+3. No evidence of pneumonia.
+ 
+Brief Hospital Course:
+82 year old female with history of history of DM, dementia and 
+recently treated UTI who presented with DKA and another UTI.  
+
+1. DKA: This was thought to be secondary to a UTI, especially 
+given her prior history of DKA from UTI.  She was initially 
+started on an insulin drip along with IVF resuccitation.  Her 
+gap closed (26 to 8) and her BS normalized.  The morning after 
+admission she was started on SC heparin (Lantus in the AM with a 
+HISS); this overlapped with her insulin drip for a couple hours. 
+ Potassium was repleted PRN; phosphate did not require any 
+repletion.  Once she began taking good PO, her IVF were 
+discontinued.
+
+2. Acidosis: The patient presented with a gap acidosis in 
+addition to a respiratory acidosis (pH was 7.29; gap of 26; 
+bicarb of 16; pCO2 of 37).  This was thought to be secondary to 
+DKA (i.e. ketones); additionally, her lactate at presentation 
+was 3.9 - this may have contributed to her gap acidosis.  The 
+etiology of her respiratory acidosis was unclear, although some 
+degree of mental status change with hypoventilation could have 
+been present.  With treatment of her DKA, her gap closed and 
+chem 7 normalized.  A repeat lacate was 1.9.  
+
+3. UTI: This was the probable cause of her DKA.  At discharge, 
+the culture had grown 10,000 to 100,000 GNR without 
+differentiation.  She was started on Cipro, 500 PO BID and will 
+continue this for a seven (7) day course.
+
+4. Agitation: Initially, the patient was quite agitated (e.g. 
+attempting to get out of bed and pulling at her lines).  This 
+was presumed to be secondary to (a) underlying dementia 
+underlying a change in environment, and (b) delerium from her 
+UTI.  She was treated with reassurance and haldol PRN.  At 
+discharge she was much improved.
+
+5. Dementia: Stable.  Abilify was restarted the morning after 
+admission.
+
+6. History of HTN: Had been off anti-hypertensives since early 
+July.  Her blood pressure was controlled of BP meds during her 
+hospital course.
+
+7. F/E/N:  
+Nutrition: Initially, the patient was kept NPO.  The morning 
+after admission, a diet was begun consistent with her diet at 
+the nursing home (pureed solids and nectar thick liquids). 
+Lytes: Potassium was repleted PRN; she did not require phosphate 
+repletion.
+IVF: Initially treated with NS (4 liters in the ED, continued in 
+the ICU); once her BS fellow below 250 D5 1/2 NS was begun.  
+Once her PO intake improved, IVF were discontinued altogether.
+
+8. Access: 2 PIVS. She had no need for central access.
+
+9. Contact: Son [**First Name8 (NamePattern2) **] [**Known patient lastname **] is HCP and guardian: 
+[**Telephone/Fax (1) 10044**], cell phone: [**Telephone/Fax (1) 10045**]. PCP: [**Name Initial (NameIs) 2508**] 
+[**Telephone/Fax (1) 1917**]  
+
+10. Prophylaxis: SC heparin. No indication for PPI. ASA per 
+outpatient.  
+
+11. Code Status: DNR/DNI; Arrived with comfort care form. Also 
+corroborated with her son, [**Doctor First Name **] who is HCP.  
+
+ 
+Medications on Admission:
+Lantus 8 units qam, Novolin SS  
+Marinal 2.5 mg bid  
+Metoprolol 25 mg bid-d/cd [**2582-7-11**]  
+MVI  
+Colace 100 mg qday  
+ASA 81 mg qday  
+Abilify 10 mg qam  
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+5. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 5 days.  
+6. Aripiprazole 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Dronabinol 2.5 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. insulin
+Lantus, 8 units QAM
+9. insulin
+Regular insulin sliding scale as attached.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) 160**] [**Hospital1 **] Nursing Home - [**Location (un) 160**]
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+Diabetic Ketoacidosis
+UTI
+Delerium
+
+Secondary Diagnosis
+Diabetes Mellitus
+Dementia
+
+ 
+Discharge Condition:
+Patient is doing well.  Her is tolerating PO well and her mental 
+status is at baseline.
+
+ 
+Discharge Instructions:
+Please call your doctor and/or go to the emergency room if [**Doctor First Name **] 
+have blood sugars that are unable to be controlled, fevers, 
+chills or for any other concerns.
+
+[**Doctor First Name 54**] must call the microbiology lab [**Telephone/Fax (1) 10046**] to follow up on 
+your urine cultures. 
+ 
+Followup Instructions:
+Please follow-up with your PCP with seven days of discharge.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1680**] MD [**MD Number 1681**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 265**] [**Last Name (NamePattern4) 266**] MD [**MD Number 267**] [**2582-7-25**] @ 1156
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SAT [**2582-7-27**] 7:15 AM
+(End of Report)
+
+
+",,
+14049,9516,17472,0,2582-07-24 04:04:00 EST,2582-07-24 04:26:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+CV: B/P HAS RANGED FROM 98/70-129/80. NSR/ST WITH HR RANGING FROM 72-108. B/P AND HR TEND TO SLOW DOWN WHEN PT DOZES OFF. PT HAS EDEMA IN THE RIGHT ARM BUT BOTH PIV SITES ARE WITH GOOD BACK FLOW. PT RECIEVED A TOTAL OF 60MEQ OF PO KCL AND NOW HAS K IN HER IVF. 
+
+NEURO: ALERT. PT HAS BEEN VERY RESTLESS/AGITATED AT TIMES AND VERY CONFUSED. DOES KNOW HER NAME AND THAT SHE IS IN [**Location (un) **] BUT UNABLE TO TELL STAFF ANY OTHER INFORMATION. ATTEMPTS AT REORIENTATION HAVE NOT BEEN SUCCESSFUL. PT UNABLE TO REMBMBER DATE OR WHERE SHE IS AT. DOES FOLLOW SIMPLE COMMANDS. YELLS OUT. ATTEMPTED TO TRY PT WITH NO WRIST RESTRAINTS AND PT QUICKLY ATTEMPTED TO PULL OUT FOLEY AND IV LINES. ALSO CONTINOUSLY ATTEMPTED TO JUMP OOB. HAS HAD A 1:1 SITTER FOR PT SAFTEY.
+
+RESP: SAO2 HAS BEEN IN THE HIGH 90'S. WHEN PT DOZES OFF SAO2 DID DROP TO 88 N/C PLACED ON AT 2L WITH SAO2'S ADEQUATE. LUNGS HAVE REMAINED CLEAR THROUGHOUT WITH NO SOB NOTED. RR 14-30.
+
+GU: FOLEY CATH PATENT DRAINING CLEAR YELLOW URINE IN ADEQUATE AMTS. UA SHOWS 23 WBC IN URINE AND TEAM WILL ORDER ANTIBIOTICS.
+
+GI: DRINKING PO KCL AND OTHER MEDS WITH NO DIFFICULTY.
+
+RESTRAINTS: ON ADM PT WAS PLACED IN A WAIST RESTRAINT AND BIL WRIST RESTRAINTS, PT STILL WAS CLIMBING OVER THE RAILS SO BOTH ANKLES PLACED IN RESTRAINTS AND PT STILL WAS VERY AGGRESSIVELY ATTEMPTING TO CLIMB OOB. PT WAS YELLING OUT IN A CONTINUAL MANNER. HALDOL 2.5 MG IV GIVEN X3. SOME HELP NOTED.
+
+ENDO: PT HAS BEEN ON AN INSULIN GTT SINCE ADM TO MICU AT 10UNITS/HR AND WAS TITRATED DOWN TO 5 AND OFF FOR 1 HOUR. FOR A BS OF 49 PT WAS GIVEN [**1-7**] AMP OF D50 AND INSULIN GTT RESTARTED AT 1 UNIT/HR. PLEASE SEE CURRENT BS. 
+
+PLAN: CONT TO CHECK HOURLY FS AND TITRATE INSULIN GTT AS NEEDED. CONT TO MONITOR VS AND LYTES AND REPLENISH AS NEEDED, UPDATE SON WITH CHANGES IN PT CONDITION
+",,
+14049,9516,17472,0,2582-07-24 14:34:00 EST,2582-07-24 15:15:00 EST,8179,"N",69,"Nursing/Other",,"
+
+Ms. [**Name13 (STitle) **] is an 84 year old dementia patient admitted for hyperglycemia/DKA. Glucose was 761, Bicarb 16, pH 7.29 upon admission. Patient was very restless, agitated, yelling at staff, attempted to pull out IV lines and foley catheter. Tried to jump out of bed. Restraints applied and with 1:1 sitter with her. Received haldol last night, started on insulin IV drip for hyperglycemia.
+
+neuro: calm and cooperative t/o this shift, oriented x1 knows her name and her birthdate, but does not know place and date. converses and follows command. denies any pain. sleeps most of the time. All restraints released this 0900, 1:1 sitter discontinued @ 1300. @ 1400 patient attempted to get out of bed x 1, waist restraints reapplied. pulling out of IV lines and foley catheter noted. transfered out of bed to chair this pm, walks to commode with 2 assist. home meds : Marinol and Abilify resumed.
+
+Respi: lung sounds clear, O2 @ 2lpm, sats 96-98%. Patient was not able to maintain O2 sat above 90% @ room air. 
+
+Cardio: NSR with occasional sinus bradycardia, SBP mid 90's-130's. 
+2 peripheral IV lines patent. with  +1 edema @ R arm 
+
+GI/GU: on  diabetic modified consistency diet. very poor appetite, ate only 25-30% of meal served. takes meds with applesauce. aspiration precaution observed. bowel sounds positive, abdomen soft non tender. + large bowel movement x 2 @ the commode.
+
+F/E: foley catheter patent, + 500 for 24 hours, denies pain upon urination. patient received K+ replecement, latest K 4.7
+
+Endo: Insulin IV drip discontinued, started on Humalog sliding scale, see latest fingerstick result at carevue. 
+
+ID: on Ciprofloxacin for UTI, afebrile.
+
+Social: son [**Name (NI) **] called up, updated patient's latest condition. 
+
+plan:
+
+monitor patient for hypo/hyperglycemia
+monitor patient's safety: high risk for fall
+plan of transfer out of MICU once with available bed
+
+",,
+14049,,17472,0,2582-07-25 01:50:00 EST,2582-07-25 01:57:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR OBJECTIVE DATA
+
+PT. HAD UNEVENTFUL SHIFT. SHE SLEPT THROUGHOUT MOST OF NIGHT. MIDNIGHT BLOOD SUGAR 68. NO INTERVENTIONS [**Name8 (MD) **] MD. PT. REMAINS CALLED OUT TO FLOOR, HOWEVER, NO BEDS AVAILABLE AT THIS TIME.
+
+NEURO: PT. ALERT AND ORIENTED X1. VERY PLEASANT AND COOPERATIVE. CONFUSED AT TIMES. PT. REMAINED UNRESTRAINED THROUGHOUT SHIFT. NO ATTEMPTS MADE AT CLIMBING OOB OR PULLING AT LINES. 
+
+RESP: PT. REMAINS ON 2L NASAL CANNULA WITH SATS >95%. BREATH SOUNDS CLEAR THROUGHOUT ALL LUNG FIELDS. NO COMPLAINTS OF SOB. NO COUGH NOTED.
+
+CV: PT. HAS REMAINED SR/SB THROUGHOUT SHIFT. NO ECTOPY NOTED. BP WNL. REMAINS HEMODYNAMICALLY STABLE. 1+ PITTING EDEMA IN R ARM. + PULSES. AFEBRILE.
+
+GI: PT. REMAINS ON DIABETIC MODIFIED CONSISTENCY DIET. ABD. SOFT. BS+. NO BM THIS SHIFT. ON ASPIRATION PRECAUTIONS.
+
+GU: FOLEY IN PLACE DRAINING CLEAR YELLOW URINE. GOOD UO.
+
+SKIN:INTACT. 2 PIVS PATENT.
+
+PLAN: PT. IS CALLED OUT TO FLOOR. AWAITING BED ASSIGNMENT. CONT. TO MONITOR PT. CLOSELY. HIGH RISK FOR FALLS. CONT. WITH Q6H BLOOD SUGAR CHECKS. NO CONTACT FROM FAMILY THIS SHIFT. AM LABS PENDING.
+",,
+14049,,,,2582-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2582-10-20**] 2:05 PM
+     HIP 1 VIEW; LOWER EXTREMITY FLUORO WITHOUT RADIOLOGIST IN O.R. RIGHTClip # [**Telephone/Fax (1) 5821**]
+     Reason: FX WITH PAIN 
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     FLUOROSCOPIC IMAGES OF RIGHT HIP DATED [**2582-10-20**]
+     
+     COMPARISON:  Preoperative radiograph of [**2582-10-19**].
+     
+     Fluoroscopic guidance was provided to Dr. [**First Name8 (NamePattern2) 1225**] [**Last Name (NamePattern1) 5822**] for open reduction and
+     internal fixation of a right hip fracture.  No radiologists were involved in
+     the procedure.  Seven fluoroscopic images from that procedure were submitted
+     for interpretation.  The initial image demonstrates a localization wire placed
+     over the intertrochanteric region of the right hip.  Subsequent radiographs
+     demonstrate open reduction and internal fixation of an intratrochanteric
+     fracture, maintained in alignment with a dynamic screw.  Known pubic rami
+     fractures are better demonstrated on the preoperative radiograph.
+     
+
+",,
+14049,,,,2583-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2583-1-7**] 10:13 AM
+     KNEE (2 VIEWS) LEFT; FEMUR (AP & LAT) LEFT                      Clip # [**Clip Number (Radiology) 5823**]
+     Reason: eval: fx                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with hip, thigh pain                                          
+     REASON FOR THIS EXAMINATION:
+      eval: fx                                                                        
+     ______________________________________________________________________________
+     WET READ: JWJ [**First Name8 (NamePattern2) 591**] [**2583-1-7**] 11:15 AM
+      Acute intertrochanteric fracture of the left proximal femur with varus
+      angulation and a displace lesser trochanter fracture fragment.  Old fractures
+      of the superior and inferior pubic rami bilaterally.  No effusion or fracture
+      about the left knee.
+      
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Left femur and knee, [**2583-1-7**].
+     
+     HISTORY:  83-year-old woman status post fall.  Evaluate for fracture.
+     
+     FINDINGS:  There is an intertrochanteric fracture of the left proximal femur
+     with varus angulation at the fracture site.  There is a separated lesser
+     trochanter fracture fragment.  Old fractures are identified of bilateral
+     superior and inferior pubic rami and there is hardware seen in the right
+     proximal femur, which is incompletely visualized.  The distal aspect of the
+     left femur and knee show no joint effusion.  No acute fractures are seen about
+     the left knee.  There is a well-corticated bony density in the medial aspect
+     of the left knee joint, likely a loose body.  There is overall
+     demineralization.
+     
+     IMPRESSION:
+     1.  Acute fracture of the left intertrochanteric region of the proximal femur
+     with varus angulation at the fracture site.
+     2.  Old fractures involving the superior and inferior pubic rami bilaterally.
+     3.  Unremarkable images of the left knee without focal fracture or joint
+     effusion.
+     
+     Findings have been posted on the emergency dashboard.
+     
+     
+     
+
+",,
+14049,,,,2583-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2583-1-8**] 4:54 PM
+     HIP UNILAT MIN 2 VIEWS LEFT IN O.R. PORT; LOWER EXTREMITY FLUORO WITHOUT RADIOLOGIST IN O.R. PORT LEFTClip # [**Telephone/Fax (1) 5824**]
+     Reason: ORIF HIP L IN OR
+     Admitting Diagnosis: LEFT HIP FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  ORIF left hip in OR.
+     
+     Fluoroscopic assistance provided to the surgeon in the OR without the
+     radiologist present.  Fluoro time not recorded on electronic requisition.  Two
+     spot views obtained.  These demonstrate a dynamic compression screw in the hip
+     (side not labeled), in nominal alignment on these views. Correlation with
+     conventional radiographs is recommended for full assessment due to limitations
+     of RF technique.
+     
+
+",,

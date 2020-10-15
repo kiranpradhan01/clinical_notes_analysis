@@ -1,0 +1,189 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14120,27728,,,2988-02-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2988-2-17**]              Discharge Date:   [**2988-2-21**]
+ 
+Date of Birth:  [**2902-5-9**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lipitor
+ 
+Attending:[**First Name3 (LF) 707**] 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+ 
+History of Present Illness:
+85yoM with h/o CAD s/p 3v CABG [**2961**] (SVG-LAD, SVG-OM, SVG-RCA), 
+last cath [**3-/2986**] (3v native disease, SVG-LAD patent, SVG-OM 
+occluded, SVG-RCA patent with distal vessel stenosis, s/p Taxus 
+[**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 10158**] to PDA), CHF EF 33% by cath [**3-/2986**], hypertension, 
+hyperlipidemia, PVD, carotid a. stenosis, presenting with chest 
+pain.  Patient has history of exertional angina and DOE, which 
+usually resolves with SLN x1.  He requires SLN about twice per 
+month.  On the day prior to admission while out to dinner, he 
+experience substernal chest pain radiating to his neck.  It was 
+not associated with SOB, diaphoresis, or nausea.  He took one 
+SLN which provided relief.  The pain recurred after two hours.  
+He again took SLN x1.  The pain returned about every two hours 
+during the night, prompting presentation to [**Hospital1 114**] ED.  He 
+denies having SOB, palpitations, orthopnea, PND.  In the 
+[**Hospital1 114**] ED, ECG 75bpm, NSR with PVCs, nml axis, nml intervals, 
+ST-elevation V1, ST-depressions, I, V5-V6, TWI V2-V6, new 
+compared to [**8-20**].  He was transferred to [**Hospital1 19**] ED on heparin 
+gtt and nitro gtt after receiving Plavix, mucomyst, aspirin, and 
+lopressor.  He is currently chest pain free.  CK at OSH 37; trop 
+0.1.
+.
+ROS:  significant for nocturia 2x/night.  denies fevers, chills, 
+sweats, headache, dizziness, palpitations, abdominal pain, 
+nausea, vomiting, diarrhea, constipation, dysuria, hematuria, 
+bloody or black stools, myalgias, arthralgias
+ 
+Past Medical History:
+CAD s/p 3v CABG [**2961**] (SVG-LAD, SVG-OM, SVG-RCA), last cath 
+[**3-/2986**] (3v native disease, SVG-LAD patent, SVG-OM occluded, 
+SVG-RCA patent with distal vessel stenosis, s/p Taxus [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 10158**] to 
+PDA)
+CHF EF 33% by cath [**3-/2986**]
+hypertension
+hyperlipidemia
+PVD
+carotid a. stenosis
+s/p left knee replacement
+ 
+Social History:
+lives alone, retired barber and outdoor maintenance worker
+denies tob, EtOH, illicit use
+ 
+Family History:
+father with CAD 70s
+son with CAD 50s
+ 
+Physical Exam:
+PE:  T  HR 61  BP 146/58  RR 16  100%2L
+GEN:  comfortable, elderly man, NAD
+HEENT:  PERRL, anicteric, MMM, OP clear, dentures
+Neck:  supple, no LAD, B carotid bruits, JVP 12cm
+CV:  PMI nondisplaced, RRR, III/VI HSM at LLSB, rg
+Resp:  CTAB
+Abd:  +BS, soft, NT, ND, no masses
+Ext:  no femoral bruits, RLE > LLE at baseline, 2+DP pulses B
+Neuro:  A&Ox3, CN II-XII intact, strength 5/5 throughout, 
+sensation intact grossly
+ 
+Pertinent Results:
+[**2988-2-17**] 10:15PM   GLUCOSE-171* UREA N-10 CREAT-0.3* SODIUM-140 
+POTASSIUM-4.3 CHLORIDE-104 TOTAL CO2-21* ANION GAP-19
+[**2988-2-17**] 10:15PM   CK(CPK)-62
+[**2988-2-17**] 10:15PM   CK-MB-NotDone
+[**2988-2-17**] 10:15PM   cTropnT-0.15*
+[**2988-2-17**] 10:15PM   CALCIUM-8.9 PHOSPHATE-3.0 MAGNESIUM-2.0
+[**2988-2-17**] 10:15PM   WBC-12.3* RBC-4.04* HGB-13.0* HCT-37.1* 
+MCV-92 MCH-32.3* MCHC-35.1* RDW-13.3
+[**2988-2-17**] 10:15PM   NEUTS-84.6* LYMPHS-9.6* MONOS-4.5 EOS-0.7 
+BASOS-0.6
+[**2988-2-17**] 10:15PM   PLT COUNT-293
+[**2988-2-17**] 10:15PM   PT-13.7* PTT-122.0* INR(PT)-1.2*
+ 
+Brief Hospital Course:
+A/P:  85yoM with h/o CAD s/p CABG, CHF (EF 33%), HTN, HL p/w 
+chest pain
+.
+1.  CAD: Pt was started on heparin gtt and nitro gtt (for relief 
+of CP) and underwent cardiac cath the morning after admission. 
+His cath showed severe 3-vessel disease with patent SVG to LAD 
+and patent SVG to RCA. There was a moderate lesion in the distal 
+SVG to PDA but it was not flow-limiting and was unchanged from 
+the prior cath. (See separate report). Pain likely from small 
+vessel (nonintervenable) disease, and pt poor surgical 
+candidate, so plan for optimization of medical management. 
+Continued aspirin, Plavix, pravastatin, carvedilol. Pt continued 
+to have intermittant CP with ECG changes, relieved with SL NTG 
+and then NTG gtt.
+.
+2. CHF: On admission pt appeared slightly volume-overloaded but 
+had no SOB. After the cardiac cath he had increasing SOB; PCWP 
+was elevated on cath, suggesting fluid overload worsened by 
+lying flat. Pt was diuresed with IV lasix with transient 
+improvement in exam and sx, but then worsening SOB requiring 
+NRB, likely from combination of serious bilateral aspiration 
+pneumonia and CHF. Multiple increasing doses of IV lasix with 
+metolazone tried with poor response. Discussed goals of care 
+multiple times with pt & family and pt did not want intubation, 
+esp given poor cardiac status and very small likelihood of quick 
+extubation and recovery. Palliative care consulted. Pt initially 
+continued on NTG gtt as tolerated by BP, however remained 
+hypoxic on NRB with dropping BP. CP much worse off NTG gtt; 
+goals of care readdressed with pt & family and NTG gtt restarted 
+at low dose with morphine gtt for comfort. He expired the next 
+morning ([**2988-2-21**]) at 10:10am. The family declined an autopsy and 
+the case was not referred to the medical examiner.
+.
+3. Aspiration pneumonia: Post-cath pt vomited and CXR showed 
+bilateral infiltrates concerning for aspiration. Started on 
+levo/flagyl. Repeat CXR showed worsening infiltrates; abx 
+changed to zosyn/vanc. Patient's status continued to worsen 
+despite IV abx and he became hypoxic, likely from combination of 
+pneumonia and CHF (see above).
+.
+4. CRI: Per PCP [**Name9 (PRE) 10159**] Cr>2 (up to 2.7 in past). 1.7 on 
+admission, rose to 2.6 day after cath. Received precath 
+hydration with bicarb/mucomyst. All medications renally-dosed.
+.
+5. HTN:  stable; continued carvidolol, Imdur, Norvasc. 
+.
+6. HL:  controlled on Zetia, prevastatin
+.
+7. Carotid artery stenosis:  asymptomatic, patient being 
+evaluated for possible stenting
+ 
+Medications on Admission:
+Aspirin 325mg daily
+Prevachol 40mg daily
+Norvasc - dose unknown
+Zetia 10mg daily
+Lasix 40mg daily
+Coreg 6.25mg BID
+Plavix 75mg daily
+Imdur 10mg BID
+SLN prn
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+CAD s/p CABG
+NSTEMI
+aspiration pneumonia
+CHF
+hypertension
+
+ 
+Discharge Condition:
+Expired
+
+ 
+Followup Instructions:
+None
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 711**] MD [**MD Number 712**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 1020**] [**Last Name (NamePattern4) 1021**] MD [**MD Number 1022**] [**2988-2-21**] @ 1132
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: [**Doctor First Name 123**] [**2988-2-21**] 4:13 PM
+(End of Report)
+
+
+",,

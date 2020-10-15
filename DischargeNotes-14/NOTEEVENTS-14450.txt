@@ -1,0 +1,269 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14450,9530,,,3430-07-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3430-7-20**]              Discharge Date:   [**3430-7-27**]
+ 
+Date of Birth:  [**3331-6-25**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Ibuprofen
+ 
+Attending:[**First Name3 (LF) 3152**] 
+Chief Complaint:
+Code sepsis
+ 
+Major Surgical or Invasive Procedure:
+central line placement
+
+ 
+History of Present Illness:
+Pt is a [**Age over 90 **] yo female with MMP, unresponsive at nursing home with 
+respiratory distress. One day prior to admissionat NH, had 
+fevers and dirty U/A. Was started on levofloxacin. Today at NH, 
+T 98.6 AX BP 116/76 HR 124 RR 22 and Os sat was 80%. Placed on 
+NRB and sats up to 89%. Pt then became increasingly lethargic 
+(acutely) and was transferred to [**Hospital1 19**] ED.  
+.  
+.  
+In the ED, she was given BP intially 194/114 with HR 136. Found 
+to have RUL infiltrate on CXR and dirty U/A. BP dropped to 91/65 
+with HR 70. Lactate was 7.0. Levofloxacin 500 mg IV x 1, 
+Ceftazidime 1 g IV x a, albuterol neb x 2, ipratropium neb x 2, 
+and acetaminophen pr 650 mg.1L of NS, Right femoral line was 
+placed and she was made a code sepsis.  
+.  
+
+ 
+Past Medical History:
+1. CHF, last echo 89- mod TR, mild MR. [**First Name (Titles) **] [**Last Name (Titles) **], LVH, EF 80%  
+2. Hypertension.  
+3. Osteoarthritis, knees, hips, shoulders bilaterally.  
+4 IgG gammopathy.  
+5. Dementia.  
+6. s/p spinal stenosis surgery  
+7. left AKA [**2-18**] for non-healing ulcer with gangrene [**2-18**] PVD  
+8. PVD  
+8. s/p left carpal tunnel release.
+ 
+Social History:
+lives at [**Hospital3 **]. Son lives locally,[**First Name4 (NamePattern1) **] [**Known patient lastname **] at ([**Telephone/Fax (1) 10667**]. Has legal guardian [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], called at ([**Telephone/Fax (1) 10668**], and gave an update on discharge.
+ 
+Family History:
+Non contributory
+ 
+Physical Exam:
+VS: T 95.4Ax BP 160/91 HR 135 RR 34 96% on 100%FiO2 by shovel 
+mask CVP 21 on fem line sitting up  
+Gen: elderly woman, in respiratory distress. using accessory 
+muscles.  
+HEENT: PERRL sclera white OP clear  
+Neck: supple. unable to assess JVP due to posittion and bruit 
+due to tachypnea.  
+CV: Tachy nl s1-s2. unable to hear murmur due to coarse bs and 
+tachycardia  
+Lungs: Coarse through out  
+Abd: Soft NT/ND BS+ paradoxical respirations  
+Back: no skin breakdown of CVA tenderness  
+Ext: PPP, no edema, cool to touch  
+Neuro: AOX3, able to answer questions. not sure why she is here. 
+sensation in tact to light touch.
+ 
+Pertinent Results:
+EKG:rapid irregular rate 133. LAD. no pwaves. nl qrs interval. 
+no q waves. no ST changes or TWI. similar to [**3426-3-9**] except 
+for rate.  
+.  
+.  
+Radiology:  
+CXR - per report large RUL infiltrate  
+.
+[**3430-7-20**] 02:39PM URINE  HOURS-RANDOM UREA N-317 CREAT-25 
+SODIUM-79 CHLORIDE-99 PHOSPHATE-14.2
+[**3430-7-20**] 02:39PM URINE  OSMOLAL-348
+[**3430-7-20**] 02:39PM URINE  EOS-NEGATIVE  
+[**3430-7-20**] 07:40AM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 302**]-1.015
+[**3430-7-20**] 07:40AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-1 PH-8.0 LEUK-MOD
+[**3430-7-20**] 07:40AM URINE  RBC-[**12-6**]* WBC-21-50* BACTERIA-MANY 
+YEAST-NONE EPI-[**12-6**]
+[**3430-7-20**] 07:40AM URINE  3PHOSPHAT-FEW
+[**3430-7-20**] 07:04AM   LACTATE-7.0*
+ 
+Brief Hospital Course:
+#. Sepsis/ respiratory distress- Likely urinary and pulmonary 
+sources. Urine grew proteus sensitive to vanco and macrobid, was 
+treated with vanco initially then transitioned to macrobid for a 
+total 2 week course to be completed at NH. Urine also grew 
+enterococcus sensitive to beta lactams, given ceftriaxone 
+initially then transitioned to cefpodoxime for 2 week course at 
+NH.
+.  
+#Tachyarrhythmia - looks like afib/flutter. unclear if this is 
+new.  
+- now on lopressor 25 bid and rate controlled.  
+- Not anticoagulating given age and other comorbidities.  
+.  
+#Positive TnT - Fast rate and renal failure. No chest pain or 
+EKG changes. Negative CK and CK-MB. Trend enzymes--TnT peaked at 
+0.13.  Rate remained controlled while an inpatient.
+.  
+#Renal failure - likely poor perfusion, dehydration, and 
+infection. BUN/Cr ratio >20/1. Encouraged pos and hypernatremia 
+resolved. Will need continued po intake encouragement at 
+[**Hospital3 306**].  
+.  
+#Code status/ethics - Discussed with Son [**Name (NI) **] at ([**Telephone/Fax (1) 10669**] 
+and patient. Son says have discussed with pt and grandson and 
+want pt to be DNR/DNI-- documented in chart. Has legal guardian 
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], called at ([**Telephone/Fax (1) 10670**] by Dr. [**First Name (STitle) **], states 
+there is neice who is opposed to DNR/I and there is some issue 
+with son being able to make this decision.  Made DNR/I by Dr. 
+[**First Name (STitle) **] in good faith with family wishes.
+.  
+F/E/N - hypernatremia, resolved with hydration and treatment of 
+sepsis. Holding lasix on d/c given dehydration.
+.  
+Access: Had femoral line breifly in FICU, antibiotics changed to 
+po.
+.  
+Contact:Son [**First Name4 (NamePattern1) **] [**Known patient lastname **] at ([**Telephone/Fax (1) 10669**], legal guardian [**First Name8 (NamePattern2) **] 
+[**Last Name (NamePattern1) **] at ([**Telephone/Fax (1) 10670**]  
+.  
+Prophylaxis: PPI, bowel meds, pneumo boots  
+.  
+Code Status: dnr/dni 
+.  
+ 
+ 
+Medications on Admission:
+Calcium
+Vitamin D
+Tylenol prn
+Plavix 75 mg daily
+Lasix 20 mg daily
+MVI
+Levofloxacin 500 mg daily (started day PTA)
+Metoprolol 12.5 mg bid
+Colace
+ 
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5,000 units 
+Injection Q8H (every 8 hours).  
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+6. Nitrofurantoin Macrocrystal 50 mg Capsule Sig: One (1) 
+Capsule PO QID (4 times a day) for 10 days.
+Disp:*40 Capsule(s)* Refills:*0*
+7. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every 
+12 hours) for 10 days.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID 
+(4 times a day) for 10 days.
+Disp:*qs 10 days* Refills:*0*
+9. CALCIUM 500+D 500-400 mg-unit Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO twice a day.  
+10. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every 6-8 hours as 
+needed for pain.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Primary: 
+Sepsis
+
+Secondary:
+Urinary Tract Infection
+Pneumonia
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Please continue your regular medications except please hold your 
+lasix as [**Doctor First Name **] have been slightly dehydrated. Please continue to 
+take plenty of fluids and food. Follow up with your PCP in one 
+week. Please follow your weights and call your PCP if [**Doctor First Name **] gain 
+more than 3 lbs.
+ 
+Followup Instructions:
+1. Please follow up with your PCP in one week. [**Doctor First Name 54**] will need to 
+decide with your PCP if your lasix should be restarted.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3155**] MD [**MD Number 3156**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3155**] MD [**MD Number 3156**] [**3430-7-27**] @ 1211
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SAT [**3430-9-11**] 3:00 PM
+(End of Report)
+
+
+",,
+14450,9530,17958,0,3430-07-20 15:06:00 EST,3430-07-20 15:32:00 EST,107,"N",69,"Nursing/Other","altered resp status","
+altered resp status
+briefly this is a 88 yo black female who has a hx of gi upset with nonsteroidal antiinflammatory drugs. pmh signifcant for htn,chf, Ig gammopathy,dementia,s/o spinal stenosis,s/p above the knee amputation to l in [**3426-2-17**],s/p carpel tunnel release. she is a resident of [**Hospital3 **] nursing home and today was found unresponsive with reported o2 sat of 85% on nrb o2. taken to [**Hospital1 **] ed where o2 sats were 95-99% on nrb. lactate level=7. sbp did drop to 90's. pt given 1 l ns ivf and rr increased and she was not tolerating lying flat. cxr revealed lg rul infiltrate. pt transfered to ficu for further monitoring .
+
+review of systems: 
+
+   neuro: pt with hx of dementia. oriented to person only and questioning why she's here. event though pt has been reoriented freq throughout the day she continues to ask why she's here and what happened to her .pleasant and able to follow simple commands. 
+
+resp: pt arrived on 100% nrb but continued to remove mask and would desat to 80%. noted to have rhonchi  with crackles 1/2 up bil on auscultation. cvp =22 and felt that pt was in chf. pt continues to c/o difficulty breathing and  not feeling well. since pt was removing o2 mask pt was changed to o2 at 4l/m nc and her o2 sats have  been > 91%. will continue to follow her resp status closely.pt now being diuresed with lasix and has receivd a total of 60 mg ivp
+
+cv: pt has been in afib since her arrival to [**Hospital1 **]. hr has  ranged form 110-130's and sbp 99-171. pt started on nitropaste 0.5 in topically q 6 hrs and will hold dose if sbp is < 90.pt  can also receive prn mso4. electyrolytes wnr and will follow as ordered and replete as needed.
+
+gi: abd soft,nontender with pos bowels sounds on auscultation. no stool output. pt tolerating clear liqs and may be able to advance diet.hct 36.5.
+
+gu: foley cath in place with bun=48 and creat=1.6. pt has been diuresed with lasix and will need to follow her resp status and fluid balance closely.pt may benefit from additional diuresis if her hemodynamics tolerate.
+
+id: afebrile and wbc =9.9 pt now started on vancomycin and piperacillin. blood cx x2 and urine sent off in ed and will await all final culture results. follow fever curve.
+
+iv access: pt has l femoral presept cath in place and site is clean and dry.
+
+social:pt was a full code. see dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] note from [**7-20**]. after discussion with dr. [**First Name (STitle) **] and pt's son decision was made that pt should be dnr/dni and that order has been written. will continue with present medical management and keep family well informed on daily basis if they are available.
+
+",,
+14450,9530,17958,0,3430-07-21 03:16:00 EST,3430-07-21 03:29:00 EST,6176,"N",69,"Nursing/Other",,"
+
+NPN 7P-7A:
+
+
+NEURO: THE PT IS A/OX2. SHE APPEARS TO BE RESTLESS. PULLING AT LEFT GROIN LINE SITE. TAKEING OF ECG LEADS, AND O2 SAT PLETH. SHE C/O RIGHT HAND PAIN, BUT ONLY WHEN THE SOFT LIMB RESTRAINT ONE. ATTEMPTS WERE MADE TO D/C RESTRAINTS, WITHOUT SUCCESS. SHE HAS A + RADIAL PULSE IN IN BILAT HANDS. MORPHINE 1 MG WAS GIVEN X2. THE LAST DOSE WAS AT 0400.
+
+RESP: HER LS ARE COURSE BILAT. NO COUGH NOTED. O2 SAT IS 95% ON RA. OVER NIGHT SHE WAS ON 2L NC WITH O2 SAT 96-98%.
+
+CV: AF HR IN THE 114/54 TO 160/70. SHE IS ON NITRO PAST Q6H. 
+
+GI/GU: WARTER WAS GIVNEIN SIPS. + BS NO BM. NS FLUID BOLUS WAS GIVEN [**2-18**] POOR URINE OUTPUT. SHE IN NOW MAKEING 40CC/HR, OF YELLOW URINE.
+
+SKIN: INTACT.
+
+POC: [**Doctor Last Name 285**] IV ABX [**2-18**] PNEUMONIA. MONITOR FOR CHF.
+",,
+14450,9530,17958,0,3430-07-21 17:06:00 EST,3430-07-21 17:13:00 EST,107,"N",69,"Nursing/Other","altered resp status","
+altered resp status
+d: pt oriented x2. has hx of dementia. is able to follow simple commands. 
+
+resp: 02 at 2l/m nc with her o2 sats> 97%. being tx'd with piperacillin for rul infiltrate. coarse bs bil on asucultaiton.
+
+cv: hemodynamically stable and pt has been restarted on lopressor 12.5 mg po bid.  k+ 3.2 this am and repleted with 40 meq kcl iv.
+
+gi: diet advanced to soft/pureed consistent diet. no stool output this shift.hct stable
+
+social"" pt is cpr not medically indicated . pt being transfered to 11 [**Hospital Ward Name **]. see transfer note for further details regarding her hospital course since yesterday.
+
+",,

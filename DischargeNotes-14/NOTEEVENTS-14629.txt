@@ -1,0 +1,1308 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14629,16002,,,2542-07-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2542-7-12**]              Discharge Date:   [**2542-7-19**]
+ 
+Date of Birth:  [**2474-1-15**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 8176**] 
+Chief Complaint:
+B/L life threatning leg ischemia
+ 
+Major Surgical or Invasive Procedure:
+[**2542-7-13**]
+
+1.  Left  axillobifemoral  bypass  graft  using 6 mm ringed
+    polytetrafluoroethylene.
+2.  Re-do/revision.
+
+[**2542-7-14**]
+
+1.  Right femoral thromboembolectomy.
+2.  Intraoperative angiogram, performance and S and I.
+
+ 
+History of Present Illness:
+The  patient  is  a 68 year old male with end stage    lung   
+cancer   who   has   undergone   a   previous axillobifemoral 
+bypass graft for lung ischemia.  He presented with  an  
+occlusion  several  months  ago  but could not have surgery  due 
+ to  his  chemotherapy regimen.  He now presents with  limb  
+threatening  ischemia of both legs, right greater than  left.    
+After  intravenous  heparin therapy and repeat angiogram,  he  
+was  taken to the Operating Room.  The family and  patient  were 
+aware of his critical medical condition as well  as  the  
+possibility  that  even with a revision of his
+bypass graft, he may still have the potential for limb loss.
+
+ 
+Past Medical History:
+Past medical history is significant for lung cancer that is
+metastatic to the neck and hilum that is being treated with
+chemotherapy and is being monitored by Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) **] from The
+Cancer Center of [**Location (un) **]. 
+
+Also past medical history is significant for pancytopenia with 
+anemia, neutropenia, and thrombocytopenia
+
+He also has a history of pericardial infusion with approximately 
+1200 cc of bloody fluid removed from the pericardial sac in 
+December without recurrence.
+
+Patient's primary care doctor is Dr. [**First Name8 (NamePattern2) 10978**] [**Last Name (NamePattern1) 4442**], who is
+part of [**Hospital6 **] Medical Associates, phone number
+is [**Telephone/Fax (1) 10979**].
+
+Past surgical history is significant for laparoscopic 
+cholecystectomy, exploratory laparotomy for cancer, and
+questionable partial colectomy for diverticulitis.
+ 
+Social History:
+pos alcohol remote
+tobacco abuse remote 
+ 
+Family History:
+non contributary
+ 
+Physical Exam:
+Physical examination upon admit revealed a well-developed and
+well-nourished, ill appearing.
+ 
+His neck was supple without evidence of jugular venous 
+distention or
+carotid bruits. 
+
+The heart was sinus tachycardia without murmer 
+without evidence of murmur. 
+
+Lungs scattered rhonchi
+
+Abdomen was soft, nontender, and nondistended
+with a well-healed midline scar. 
+
+His extremity examination revealed the right lower extremity to 
+be somewhat cool and paler from the left with decreased 
+sensation. 
+
+non - palpable femoral pulse b/l
+non - palpable [**Doctor Last Name **] puls b/l
+left le -  dopplerable signals in the dorsalis pedis and 
+posterior
+tibial arteries. 
+right le - non dopplerable dorsalis pedis and posterior tibial 
+arteries
+ 
+Pertinent Results:
+[**2542-7-18**] 
+
+WBC-3.8*# RBC-3.41* Hgb-8.9* Hct-28.6* MCV-84 MCH-26.0* 
+MCHC-31.0 RDW-18.5* Plt Ct-54*
+
+[**2542-7-18**] 
+
+Neuts-20* Bands-32* Lymphs-17* Monos-15* Eos-1 Baso-0 Atyps-7* 
+Metas-3* Myelos-0 NRBC-15* Other-5*
+
+[**2542-7-18**] 
+
+Hypochr-2+ Anisocy-2+ Poiklo-1+ Macrocy-NORMAL Microcy-2+ 
+Polychr-2+ Ovalocy-1+ Burr-1+
+[**2542-7-18**]
+ 
+
+PT-19.1* PTT-73.8* INR(PT)-2.4
+[**2542-7-18**] 
+
+Glucose-57* UreaN-28* Creat-1.3* Na-142 K-4.3 Cl-107 HCO3-12* 
+AnGap-27*
+
+[**2542-7-18**] 
+
+ALT-14 AST-22 CK(CPK)-53 AlkPhos-147* TotBili-1.6*
+
+[**2542-7-18**] 
+
+CK-MB-NotDone cTropnT-0.03*
+
+[**2542-7-18**] 
+
+Albumin-1.8* Calcium-7.5* Phos-4.6*# Mg-2.2
+
+[**2542-7-19**]
+
+echo   
+   
+PATIENT/TEST INFORMATION: 
+Indication: Pericardial effusion.  
+BP (mm Hg): 70/40 
+HR (bpm): 113 
+Status: Inpatient 
+Date/Time: [**2542-7-19**] at 03:21 
+Test: TTE(Focused views) 
+Doppler: No Doppler 
+Contrast: None 
+Tape Number: 2003W275-0:0 
+Test Location: West Echo Lab 
+Technical Quality: Suboptimal 
+
+  
+INTERPRETATION:  
+      
+Findings:  
+  
+GENERAL COMMENTS: Suboptimal image quality due to poor echo 
+windows. Emergency  study performed by the cardiology fellow on 
+call.  
+   
+Conclusions:  
+Large somewhat echo dense region around the heart (particularly 
+the apex)  
+consistent with an organized pericardial effusion/mass. The 
+right ventricle  appears compressed. No atrial collapse is seen 
+(pericardial effusion/mass smaller around the right atrium). 
+
+ 
+[**2542-7-18**] 
+ 
+INDICATION FOR CONSULT: INVESTIGATION OF TRANSFUSION REACTION 
+  
+INDICATIONS FOR CONSULT:  
+Investigation of transfusion reaction 
+  
+CLINICAL/LAB DATA: Mr. [**Known patient lastname 10980**] is a 68-year-old man, s/p left 
+axillobifemoral bypass for bilateral lower extremity ischemia. 
+He 
+developed fever and respiratory distres during the transfusion 
+of a 
+unit of RBC on [**2542-7-18**]. His temperatoure was elevated from 99.3F 
+to 
+101.0F. The transfusion was stopped after about 200 ml of RBC 
+was 
+transfused. According to the note from nurse and on-call 
+resident, 
+before tranfusion, the patient had two episodes of fever 
+(>101.4) over 
+the previous 48 hours, and a few hours before transfusion, he 
+was noted 
+to have shortness of breath and tachycardia. He was coded and 
+expired in 
+the early morning of [**2542-7-19**]. 
+  
+Laboratoy data: 
+Patient ABO/Rh: O/neg 
+Unit ABO/Rh: O/pos 
+Pre-transfusion Hct: 26.7 
+Post-transfusion Hct: 28.2 
+WBC: 12.6 K (20% bands) 
+PT/PTT/Plt: 19.1/73.8/93 
+Blood culture ([**7-17**]): Serratia Marcescens 
+Post-transfusion DAT: negative 
+Date Time Temp Pulse Resp BP 
+Started [**7-18**] 6 pm 99.3 126 28 95/52 
+Stopped [**7-18**] 6:40 pm 101.0 N/A N/A N/A 
+  
+.
+
+[**2542-7-18**] 4:03 AM
+
+CHEST (PORTABLE AP)
+
+Reason: f/u CHF 
+
+CHEST AP PORTABLE: Comparison is made to the prior study 
+obtained on [**2542-7-17**]. The heart is again noted to be mildly 
+enlarged. The Swan-Ganz catheter is again noted, with tip in the 
+right main pulmonary artery. There is no significant change in 
+overall pulmonary vasculature pattern. There is residual 
+bilateral lower lobe infiltrate/atelectasis. Again noted is a 
+bilateral pleural effusion, right greater than left.
+
+IMPRESSION:
+
+Persistent CHF, with bilateral pleural effusion, right greater 
+than left. There is no significant change from the prior study.
+
+[**2542-7-17**]\
+
+ECG Study 
+  
+Sinus tachycardia 
+Low voltage 
+Incomplete right bundle branch block pattern 
+Early precordial QRS transition with prominent R wave in lead V2 
+- consider posterior myocardial infarct of indeterminate age 
+Diffuse ST-T wave abnormalities with slight ST elevation - 
+cannot exclude in part injury/ischemia. Clinical correlation is 
+suggested 
+Since previous tracing of [**2542-7-15**]: sinus tachycardia rate has 
+increased. 
+  
+Intervals Axes 
+Rate PR QRS QT/QTc     P QRS T 
+146  0  74  [**Telephone/Fax (2) 10981**]0 58 
+
+[**2542-7-12**] 
+ 
+INTRO AORTA FEM/AXIL  
+
+Reason: assess RLE circulation 
+
+UNDERLYING MEDICAL CONDITION:
+68 year old man with cold right foot acutely 
+REASON FOR THIS EXAMINATION:
+assess RLE circulation 
+HISTORY: 68-year-old male presents with right cold foot. The 
+patient is status post right axillary-bifemoral bypass which is 
+now occluded as seen by duplex ultrasound.
+
+RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] and 
+[**Name5 (PTitle) **] [**Doctor Last Name **] d'Othee with the attending radiologist Dr. [**Last Name (STitle) **] 
+[**Name (STitle) 10982**] being present in the entire procedure.
+
+FINDINGS: The angiograms showed occlusion of the abdominal aorta 
+just below the takeoff of the inferior mesenteric artery ([**Female First Name (un) **]). 
+The celiac trunk, superior mesenteric artery and single right 
+and double left renal arteries are opacified. The [**Female First Name (un) **] is 
+prominent. There are also some lumbar arteries visualized giving 
+collateral circulation.
+
+On the right, the iliac vessels and common femoral artery are 
+not opacified. The superficial femoral artery and profunda 
+femoris are reconstituted just below their takeoff and patent. 
+The right popliteal artery is faintly opacified but appears 
+patent up to its bifurcation in the anterior tibial artery and 
+the tibioperoneal trunk, both of which are faintly opacified in 
+their proximal portions.
+
+On the left, the iliac arteries and proximal common femoral 
+artery are not opacified. The distal common femoral, profunda 
+femoris, superficial femoral and popliteal arteries are patent 
+with no severe stenosis, and their opacification appears earlier 
+than on the left side. The tibioperoneal trunk and posterior 
+tibial arteries are faintly opacified.
+
+Below the level of the knees, contrast is too diluted to allow 
+good diagnostic image quality.
+
+CONTRAST: A total of approximately 160 cc of Conray 30% were 
+given intraarterially for the angiograms.
+
+IMPRESSION:
+
+1. Occlusion of the distal abdominal aorta just below the [**Female First Name (un) **] 
+takeoff.
+
+2. The bilateral iliac arteries, the right common femoral and 
+proximal left common femoral arteries are not patent.
+
+3. No graft was visualized.
+
+4. Patency of the bilateral SFAs and popliteal arteries, with 
+slower flow in the right than the left side.
+
+ 
+Brief Hospital Course:
+pt admitted [**2542-7-12**] for acute rle ischemia
+
+Heparin started stat
+
+[**2542-7-12**]
+
+Pt underwent a: 
+
+1.  Left  axillobifemoral  bypass  graft  using 6 mm ringed 
+polytetrafluoroethylene.
+2.  Re-do/revision.
+ 
+After the procedure, the  patient  remained  in  somewhat  
+critical  condition  on
+pressors  and ventilator.  He was taken to the Intensive Care 
+Unit. His  right foot was still blue and somewhat mottled,but  
+the  grafts  were  clearly patent.  Decision was made to observe 
+ the  patient,  stabilize his blood pressure, and get him off 
+pressors. 
+
+[**2542-7-13**] 
+
+Pt remained in the SICU. He was sedated on a variety of drips 
+for blood presssure control.
+
+[**2542-7-14**]
+
+One day  after  left  axillobifemoral  bypass for bilateral 
+lower extremity ischemia, right greater than left. Mr [**Known patient lastname 10980**] 
+required a significant amount of pressors to maintain a blood  
+pressure.  Over the course of the day, his requirement of  
+pressors  diminished.   
+
+Mr [**Known patient lastname 10980**] right foot still was fairly  mottled and there was 
+concern of distal thrombus.  In addition,  there  was a clear 
+difference between the left and
+right foot, indicating potential for a unilateral problem.
+
+Because of this the  patient  was  brought semi-urgently to the 
+operating  room.   He was already sedated. This was added to by  
+the anesthesia staff during the procedure.
+
+Mr [**Known patient lastname 10980**] then underwent a second procedure for his ischemic 
+limb.
+
+1.  Right femoral thromboembolectomy.
+2.  Intraoperative angiogram, performance and S and I.
+
+During the procedure it was thought that  there was nothing 
+technically that could
+be  fixed,  this  was  either  related to spasm of the distal 
+vessels from chronic ischemia and the pressors, or related to 
+thrombus  in  the distal vessels.
+
+At  this  point, the decision was made to do nothing further, 
+since there was no bypass situation that could be expected to be 
+successful. Plan was to continue to resuscitate the patient, and 
+get the patient off pressors and hopefully this
+would solve the problem.
+
+Also  of note, since there was concern about a white platelet 
+plug, decision was  made to stop all heparin and switch the 
+patient eventually to Hirudin.
+
+After the procedue there was a strongly palpable graft pulse,  
+and  a  palpable  pulse  in  the  femoral artery. In addition, 
+the  superficial  femoral  artery  Doppler  signal sounded more 
+triphasic and not as obstructive.
+
+The  patient was taken to the Intensive Care Unit in critical 
+condition.
+
+[**2544-7-15**] - [**2544-7-16**]
+
+Pt was weaned of pressors for blood pressure control. Pt was 
+also extubated. 
+
+[**2542-7-17**] 
+
+Seemed like pt improved, remained in sicu, extubated. Pt was 
+gently diuresed with lasix.  
+
+PT HIT panel came back negative. Hirudin was dc'd. Pt medication 
+was changed back to heparin.
+
+To note, pt remained slighty tachycardic. Pt was beta blocked.
+
+At about 1230 pt experienced decrease sats, with an increase in 
+breathing. His heart rate was in the 140's, with low BP SBP 
+90's.
+
+It was thought the pt was experiencing resp distress. He was 
+given lasix. There was a low threshold for reintubation 
+([**Hospital1 2999**]). His heparin was increased to 1000 units hr. Thinking 
+that this could be a PE.
+
+[**2544-7-18**]
+
+PA catheter changed to triple lumen. Pt was transfused 1 unit 
+PRBC's for decrease BP, still was tachy (140), after blood 
+transfusion pt remained in sinus tach. with SBP 80 - 90. His 
+levo was weaned off.
+
+[**2544-7-19**]
+
+Pt spiked temperature to 102, became more tachycardic with SBP 
+in the 70's. Levophed was restarted. Also to note. pt had an 
+increase in resp to the 30's. A stat ABG was done. 7.43 / 29 / 
+71 / 120 / -3 / 95%.
+
+CXR showed r plueral effussion.
+
+Pt started on esnolol to decrease his HR. Lephofed was changed 
+to neo and titrated for a MAP of 70.
+
+Pt resp status continued to worsen. Pt intubated by anesthesia.
+
+Pt developed PEA - ACLS protocol was initiated.
+
+pt recieved several rounds of epi / bicarb / ca ( BP / HR would 
+return for short periods of time. )
+
+Right chest tube placed. two liters of transudate recoverd. F/U 
+CXR showed no effussion or pnuemothorax.
+
+Pericardial centesis performed ( 10 cc non pulsatile blood )
+
+Cardiology consulted - echo rechecked. pericardial effussion 
+with ? tamponade. Bedsidetap performed.
+
+Pt developed and maintained PEA dispite continual ACLS 
+protocols.
+
+Pt expired. Pronounced dead.
+
+ 
+Medications on Admission:
+dexamethasone 4 mg qd
+deltasone 20 mg qod
+ 
+Discharge Medications:
+Pt deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+n/a
+ 
+Discharge Condition:
+n/a
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+n/a
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6755**] MD [**MD Number 4165**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 241**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 4893**] [**MD Number 4894**] [**2544-8-18**] @ 1407
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**2544-8-31**] 6:28 PM
+(End of Report)
+
+
+",,
+14629,16002,,,2542-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-12**] 10:06 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11194**]
+     Reason: assess RLE circulation                                      
+     Admitting Diagnosis: RT LEG ISCHEMIA
+      Contrast: CONRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75716 EXT BILAT A-GRAM               C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man with cold right foot acutely                                   
+     REASON FOR THIS EXAMINATION:
+      assess RLE circulation                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 68-year-old male presents with right cold foot. The patient is status
+     post right axillary-bifemoral bypass which is now occluded as seen by duplex
+     ultrasound.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] and [**Name5 (PTitle) 262**] [**Doctor Last Name 263**]
+     d'Othee with the attending radiologist Dr. [**Last Name (STitle) 263**] [**Name (STitle) 264**] being present in the
+     entire procedure.
+     
+     PROCEDURE: The risks and benefits were explained to the patient and informed
+     consent was obtained. The patient was placed supine on the angiographic table
+     and his left arm was prepped and draped in sterile fashion.
+     Under local anesthesia using 1% lidocaine, the left brachial artery at the
+     level of elbow joint was accessed using a 19 gauge needle and an 0.035 [**Last Name (un) 528**]
+     wire was placed into the left subclavian artery under fluoroscopy.
+     The needle was exchanged for a 4 French sheath with its sidearm connected to a
+     continuous heparinized saline irrigation. A 4 French Omniflush catheter was
+     placed over the wire and advanced into the abdominal aorta. Angiograms were
+     performed when the tip of the catheter was at the level of L1 and just above
+     the aortic bifurcation respectively. This was followed by a bilateral leg
+     runoff arteriograms. At the end of the procedure the catheter and sheath were
+     removed and local hemostasis was achieved by manual compresssion. The patient
+     tolerated the procedure well with no complications.
+     
+     FINDINGS: The angiograms showed occlusion of the abdominal aorta just below
+     the takeoff of the inferior mesenteric artery ([**Female First Name (un) **]). The celiac trunk,
+     superior mesenteric artery and single right and double left renal arteries are
+     opacified. The [**Female First Name (un) **] is prominent. There are also some lumbar arteries
+     visualized giving collateral circulation.
+     
+     On the right, the iliac vessels and common femoral artery are not opacified.
+     The superficial femoral artery and profunda femoris are reconstituted just
+     below their takeoff and patent. The right popliteal artery is faintly
+     opacified but appears patent up to its bifurcation in the anterior tibial
+     artery and the tibioperoneal trunk, both of which are faintly opacified in
+     their proximal portions.
+     
+     On the left, the iliac arteries and proximal common femoral artery are not
+                                                                 (Over)
+
+     DATE: [**2542-7-12**] 10:06 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11194**]
+     Reason: assess RLE circulation                                      
+     Admitting Diagnosis: RT LEG ISCHEMIA
+      Contrast: CONRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified. The distal common femoral, profunda femoris, superficial femoral
+     and popliteal arteries are patent with no severe stenosis, and their
+     opacification appears earlier than on the left side. The tibioperoneal trunk
+     and posterior tibial arteries are faintly opacified.
+     
+     Below the level of the knees, contrast is too diluted to allow good diagnostic
+     image quality.
+     
+     CONTRAST: A total of approximately 160 cc of Conray 30% were given
+     intraarterially for the angiograms.
+     
+     IMPRESSION:
+     
+     1. Occlusion of the distal abdominal aorta just below the [**Female First Name (un) **] takeoff.
+     
+     2. The bilateral iliac arteries, the right common femoral and proximal left
+     common femoral arteries are not patent.
+     
+     3. No graft was visualized.
+     
+     4. Patency of the bilateral SFAs and popliteal arteries, with slower flow in
+     the right than the left side.
+
+",,
+14629,16002,,,2542-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-12**] 10:06 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11194**]
+     Reason: assess RLE circulation                                      
+     Admitting Diagnosis: RT LEG ISCHEMIA
+      Contrast: CONRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75716 EXT BILAT A-GRAM               C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man with cold right foot acutely                                   
+     REASON FOR THIS EXAMINATION:
+      assess RLE circulation                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 68-year-old male presents with right cold foot. The patient is status
+     post right axillary-bifemoral bypass which is now occluded as seen by duplex
+     ultrasound.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] and [**Name5 (PTitle) 262**] [**Doctor Last Name 263**]
+     d'Othee with the attending radiologist Dr. [**Last Name (STitle) 263**] [**Name (STitle) 264**] being present in the
+     entire procedure.
+     
+     PROCEDURE: The risks and benefits were explained to the patient and informed
+     consent was obtained. The patient was placed supine on the angiographic table
+     and his left arm was prepped and draped in sterile fashion.
+     Under local anesthesia using 1% lidocaine, the left brachial artery at the
+     level of elbow joint was accessed using a 19 gauge needle and an 0.035 [**Last Name (un) 528**]
+     wire was placed into the left subclavian artery under fluoroscopy.
+     The needle was exchanged for a 4 French sheath with its sidearm connected to a
+     continuous heparinized saline irrigation. A 4 French Omniflush catheter was
+     placed over the wire and advanced into the abdominal aorta. Angiograms were
+     performed when the tip of the catheter was at the level of L1 and just above
+     the aortic bifurcation respectively. This was followed by a bilateral leg
+     runoff arteriograms. At the end of the procedure the catheter and sheath were
+     removed and local hemostasis was achieved by manual compresssion. The patient
+     tolerated the procedure well with no complications.
+     
+     FINDINGS: The angiograms showed occlusion of the abdominal aorta just below
+     the takeoff of the inferior mesenteric artery ([**Female First Name (un) **]). The celiac trunk,
+     superior mesenteric artery and single right and double left renal arteries are
+     opacified. The [**Female First Name (un) **] is prominent. There are also some lumbar arteries
+     visualized giving collateral circulation.
+     
+     On the right, the iliac vessels and common femoral artery are not opacified.
+     The superficial femoral artery and profunda femoris are reconstituted just
+     below their takeoff and patent. The right popliteal artery is faintly
+     opacified but appears patent up to its bifurcation in the anterior tibial
+     artery and the tibioperoneal trunk, both of which are faintly opacified in
+     their proximal portions.
+     
+     On the left, the iliac arteries and proximal common femoral artery are not
+                                                                 (Over)
+
+     DATE: [**2542-7-12**] 10:06 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11194**]
+     Reason: assess RLE circulation                                      
+     Admitting Diagnosis: RT LEG ISCHEMIA
+      Contrast: CONRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified. The distal common femoral, profunda femoris, superficial femoral
+     and popliteal arteries are patent with no severe stenosis, and their
+     opacification appears earlier than on the left side. The tibioperoneal trunk
+     and posterior tibial arteries are faintly opacified.
+     
+     Below the level of the knees, contrast is too diluted to allow good diagnostic
+     image quality.
+     
+     CONTRAST: A total of approximately 160 cc of Conray 30% were given
+     intraarterially for the angiograms.
+     
+     IMPRESSION:
+     
+     1. Occlusion of the distal abdominal aorta just below the [**Female First Name (un) **] takeoff.
+     
+     2. The bilateral iliac arteries, the right common femoral and proximal left
+     common femoral arteries are not patent.
+     
+     3. No graft was visualized.
+     
+     4. Patency of the bilateral SFAs and popliteal arteries, with slower flow in
+     the right than the left side.
+
+",,
+14629,16002,,,2542-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-12**] 10:06 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11194**]
+     Reason: assess RLE circulation                                      
+     Admitting Diagnosis: RT LEG ISCHEMIA
+      Contrast: CONRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75716 EXT BILAT A-GRAM               C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man with cold right foot acutely                                   
+     REASON FOR THIS EXAMINATION:
+      assess RLE circulation                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 68-year-old male presents with right cold foot. The patient is status
+     post right axillary-bifemoral bypass which is now occluded as seen by duplex
+     ultrasound.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] and [**Name5 (PTitle) 262**] [**Doctor Last Name 263**]
+     d'Othee with the attending radiologist Dr. [**Last Name (STitle) 263**] [**Name (STitle) 264**] being present in the
+     entire procedure.
+     
+     PROCEDURE: The risks and benefits were explained to the patient and informed
+     consent was obtained. The patient was placed supine on the angiographic table
+     and his left arm was prepped and draped in sterile fashion.
+     Under local anesthesia using 1% lidocaine, the left brachial artery at the
+     level of elbow joint was accessed using a 19 gauge needle and an 0.035 [**Last Name (un) 528**]
+     wire was placed into the left subclavian artery under fluoroscopy.
+     The needle was exchanged for a 4 French sheath with its sidearm connected to a
+     continuous heparinized saline irrigation. A 4 French Omniflush catheter was
+     placed over the wire and advanced into the abdominal aorta. Angiograms were
+     performed when the tip of the catheter was at the level of L1 and just above
+     the aortic bifurcation respectively. This was followed by a bilateral leg
+     runoff arteriograms. At the end of the procedure the catheter and sheath were
+     removed and local hemostasis was achieved by manual compresssion. The patient
+     tolerated the procedure well with no complications.
+     
+     FINDINGS: The angiograms showed occlusion of the abdominal aorta just below
+     the takeoff of the inferior mesenteric artery ([**Female First Name (un) **]). The celiac trunk,
+     superior mesenteric artery and single right and double left renal arteries are
+     opacified. The [**Female First Name (un) **] is prominent. There are also some lumbar arteries
+     visualized giving collateral circulation.
+     
+     On the right, the iliac vessels and common femoral artery are not opacified.
+     The superficial femoral artery and profunda femoris are reconstituted just
+     below their takeoff and patent. The right popliteal artery is faintly
+     opacified but appears patent up to its bifurcation in the anterior tibial
+     artery and the tibioperoneal trunk, both of which are faintly opacified in
+     their proximal portions.
+     
+     On the left, the iliac arteries and proximal common femoral artery are not
+                                                                 (Over)
+
+     DATE: [**2542-7-12**] 10:06 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11194**]
+     Reason: assess RLE circulation                                      
+     Admitting Diagnosis: RT LEG ISCHEMIA
+      Contrast: CONRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified. The distal common femoral, profunda femoris, superficial femoral
+     and popliteal arteries are patent with no severe stenosis, and their
+     opacification appears earlier than on the left side. The tibioperoneal trunk
+     and posterior tibial arteries are faintly opacified.
+     
+     Below the level of the knees, contrast is too diluted to allow good diagnostic
+     image quality.
+     
+     CONTRAST: A total of approximately 160 cc of Conray 30% were given
+     intraarterially for the angiograms.
+     
+     IMPRESSION:
+     
+     1. Occlusion of the distal abdominal aorta just below the [**Female First Name (un) **] takeoff.
+     
+     2. The bilateral iliac arteries, the right common femoral and proximal left
+     common femoral arteries are not patent.
+     
+     3. No graft was visualized.
+     
+     4. Patency of the bilateral SFAs and popliteal arteries, with slower flow in
+     the right than the left side.
+
+",,
+14629,16002,,,2542-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-12**] 10:06 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11194**]
+     Reason: assess RLE circulation                                      
+     Admitting Diagnosis: RT LEG ISCHEMIA
+      Contrast: CONRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75716 EXT BILAT A-GRAM               C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man with cold right foot acutely                                   
+     REASON FOR THIS EXAMINATION:
+      assess RLE circulation                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 68-year-old male presents with right cold foot. The patient is status
+     post right axillary-bifemoral bypass which is now occluded as seen by duplex
+     ultrasound.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] and [**Name5 (PTitle) 262**] [**Doctor Last Name 263**]
+     d'Othee with the attending radiologist Dr. [**Last Name (STitle) 263**] [**Name (STitle) 264**] being present in the
+     entire procedure.
+     
+     PROCEDURE: The risks and benefits were explained to the patient and informed
+     consent was obtained. The patient was placed supine on the angiographic table
+     and his left arm was prepped and draped in sterile fashion.
+     Under local anesthesia using 1% lidocaine, the left brachial artery at the
+     level of elbow joint was accessed using a 19 gauge needle and an 0.035 [**Last Name (un) 528**]
+     wire was placed into the left subclavian artery under fluoroscopy.
+     The needle was exchanged for a 4 French sheath with its sidearm connected to a
+     continuous heparinized saline irrigation. A 4 French Omniflush catheter was
+     placed over the wire and advanced into the abdominal aorta. Angiograms were
+     performed when the tip of the catheter was at the level of L1 and just above
+     the aortic bifurcation respectively. This was followed by a bilateral leg
+     runoff arteriograms. At the end of the procedure the catheter and sheath were
+     removed and local hemostasis was achieved by manual compresssion. The patient
+     tolerated the procedure well with no complications.
+     
+     FINDINGS: The angiograms showed occlusion of the abdominal aorta just below
+     the takeoff of the inferior mesenteric artery ([**Female First Name (un) **]). The celiac trunk,
+     superior mesenteric artery and single right and double left renal arteries are
+     opacified. The [**Female First Name (un) **] is prominent. There are also some lumbar arteries
+     visualized giving collateral circulation.
+     
+     On the right, the iliac vessels and common femoral artery are not opacified.
+     The superficial femoral artery and profunda femoris are reconstituted just
+     below their takeoff and patent. The right popliteal artery is faintly
+     opacified but appears patent up to its bifurcation in the anterior tibial
+     artery and the tibioperoneal trunk, both of which are faintly opacified in
+     their proximal portions.
+     
+     On the left, the iliac arteries and proximal common femoral artery are not
+                                                                 (Over)
+
+     DATE: [**2542-7-12**] 10:06 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11194**]
+     Reason: assess RLE circulation                                      
+     Admitting Diagnosis: RT LEG ISCHEMIA
+      Contrast: CONRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified. The distal common femoral, profunda femoris, superficial femoral
+     and popliteal arteries are patent with no severe stenosis, and their
+     opacification appears earlier than on the left side. The tibioperoneal trunk
+     and posterior tibial arteries are faintly opacified.
+     
+     Below the level of the knees, contrast is too diluted to allow good diagnostic
+     image quality.
+     
+     CONTRAST: A total of approximately 160 cc of Conray 30% were given
+     intraarterially for the angiograms.
+     
+     IMPRESSION:
+     
+     1. Occlusion of the distal abdominal aorta just below the [**Female First Name (un) **] takeoff.
+     
+     2. The bilateral iliac arteries, the right common femoral and proximal left
+     common femoral arteries are not patent.
+     
+     3. No graft was visualized.
+     
+     4. Patency of the bilateral SFAs and popliteal arteries, with slower flow in
+     the right than the left side.
+
+",,
+14629,16002,,,2542-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-12**] 8:45 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 11193**]
+     Reason: RT LEG ISCHEMIA
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with h/o lung CA                                                
+     REASON FOR THIS EXAMINATION:
+      evaluate for effusion/infiltrate                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  H/o lung cancer, now with right leg ischemia.  Preop evaluation.
+     
+     COMPARISON:  [**2541-4-8**].
+     
+     PA AND LATERAL CHEST:  There is severe cardiomegaly.  The aorta is slightly
+     tortuous.  The hilar contours are unremarkable.  There is slight upper zone
+     redistribution of the pulmonary vascularity.  Patchy opacities at bilateral
+     lung bases are suggestive of atelectasis.  There is a moderate right-sided
+     pleural effusion.  Metal clips in the right upper quadrant of the abdomen are
+     suggestive of s/p cholecystectomy.  Metal clips are also seen superior to the
+     right lung apex.  The osseous structures are unremarkable.
+     
+     IMPRESSION:  1)  Severe cardiomegaly with mild CHF.
+     2)  Moderate right-sided pleural effusion.
+     3)  S/P cholecystectomy and right supraclavicular surgery.
+     4)  Bibasilar atelectasis.  Limited evaluation of the lung parenchyma makes
+     the presence of recurrent lung tumor difficult to assess.
+
+",,
+14629,16002,,,2542-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-13**] 8:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11195**]
+     Reason: check line position, check for bilat PTX                    
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with s/p L ax bifem                                             
+     REASON FOR THIS EXAMINATION:
+      check line position, check for bilat PTX                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Line placement rule out pneumothorax.
+     
+     COMMENT: Portable AP radiograph of the chest is reviewed, and compared to the
+     previous study of yesterday.
+     
+     The tip of endotracheal tube is identified at the thoracic inlet. The right
+     jugular Swan-Ganz catheter terminates in the right ventricular outflow tract.
+     
+     There is increased mild congestive heart failure with cardiomegaly and
+     bilateral small pleural effusion. Patchy atelectasis is seen in both lower
+     lobes.
+     
+     Note is made of subcutaneous emphysema in the left chest wall, although no
+     apparent pneumthorax is identified. Please follow with chest xray.
+     
+     The patient had prior cholecystectomy.
+
+",,
+14629,16002,,,2542-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-14**] 4:06 PM
+     OR VASCULAR A-GRAM                                              Clip # [**Clip Number (Radiology) 11196**]
+     Reason: ANGIOGRAM TO VISUALIZE ISCHEMIC RT LEG VESSELS, MOTTLING S/P AXILLOBIFEMORAL BYPASS
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ********************************* CPT Codes ********************************
+     * 75710 ANGIOGRAPHY, EXTREMITY                                             *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Please see operative report in CareWeb Clinical Lookup.
+
+",,
+14629,16002,18186,0,2542-07-14 05:18:00 EST,2542-07-14 05:37:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PATIENT ARRIVED FROM [**Location **] AT 0400 S/P AXILLA-FEM-FEM-BYPASS GRAFT. SEDATED ON PROPOFOL GTT AND NEO GTT INFUSING TO MAINTAIN SBP>100. RIGHT LE PULSES ABSENT -VASCULAR SERVICE AWARE PER DR. [**First Name (STitle) **] AND DR. [**Last Name (STitle) **]. LLE DP FAINT WITH DOPPLER, TP DOPPLERABLE. GRAFT PULSES PRESENT WITH DOPPLER. BILAT GROIN DRSG WITH [**Name5 (PTitle) **] [**Name5 (PTitle) 6334**].
+  PA LINE PRESENT-UNABLE TO WEDGE [**Name6 (MD) **] [**Name8 (MD) **] RN. CO NUMBERS ACCEPTABLE CI>2. SBP 90-100, HR 105-115 H.O. AWARE OF TACHYCARDIA. NEO CURRENTLY AT 3 MCG/KG/MIN. CVP 12 PRODUCING APPROX 100CC/HR URINE-SEE FLOWSHEET FOR DETAILS. 
+  BREATHING NONLABORED ON SIMV PEEP5 PS 5 TIDAL VOLUMES 700, RATE 10, FIO2 70. SUCTIONED FOR THICK TAN SECRETIONS. RR 18. NO RSBI DONE DUE TO FIO2 >60.
+PLAN:
+  TITRATE NEO TO MAINTAIN SBP.100.
+  WEAN OFF PROPOFOL
+  FREQUENT PULSE CHECKS
+  NO BP IN LEFT ARM
+  NOTIFY H.O. WITH ANY CHANGES
+",,
+14629,16002,18186,0,2542-07-14 05:57:00 EST,2542-07-14 05:59:00 EST,-1,"N",54,"Nursing/Other","Addendum","
+Addendum
+Due to drop in BP in OR cycling CK's. #2 drawn at 0500 results pending. EKG post-op with no changes per Dr. [**First Name (STitle) **].
+",,
+14629,16002,18186,0,2542-07-14 16:20:00 EST,2542-07-14 16:30:00 EST,3495,"N",54,"Nursing/Other","condition update","
+condition update
+d: pt seen by dr [**Last Name (STitle) 537**] this am, right foot cold without pulses, on neo gtt at 3mcg. started on heparin gtt at 400 units at 0930. pt taken back to or at 1400- right femerol thrombectomy with intraop arteriogram done. pt given 50 mcg fentanyl and 2 mg midaz. transfused with 1 unit pc intraop. neo gtt at 1-4mcq/kg/min.
+post-op:
+cv: t max 37.0 cent. continues to be tachycardic to 120's with rare pvc. cuff bp approx 20 pts higher than aline- presently on 1mcq/kg/min of neo. see carevue for pa numbers. right foot remains cold and mottled post-op without pulses. right popliteal pulse present by doppler but very weak. left pulses present by doppler. 
+resp: continues on fio2 70%. bs diminished in right lower lobe otherwise clear. no vent changes
+gi: abd soft and non-tender, bs absent, oral-gastric tube placed and draining bilious
+gu; clear yellow via foley
+neuro: arousable to stimuli, moves all extremities on bed
+a: hemodynamics monitored, pulses checked q1-2hrs, no heparin per dr [**Last Name (STitle) 537**]
+r: stable post-op, continue to wean neo as tolerated maintaining sbp>100
+",,
+14629,16002,18186,0,2542-07-14 16:55:00 EST,2542-07-14 17:02:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt remains intubated & ventilated; details in Carevue flowsheet.  No changes made to ventilator.  Pt transported to OR & when returned to unit placed on previous ventilatory settings.  Suctioned sm amt of bld-tgd yellow t/o day.  ETT retaped & secured.  Plan to continue ventilatory support. 
+
+",,
+14629,16002,18186,,2542-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-15**] 3:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11197**]
+     Reason: evaluate for congestion/CHF                                 
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man with s/p L ax bifem intubated with acute distress on CPAP and 
+      frothy sputum. 
+     REASON FOR THIS EXAMINATION:
+      evaluate for congestion/CHF                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Congestive heart failure.
+     
+     COMMENT:  Portable AP radiograph of the chest is reviewed and compared with
+     previous study of [**2542-7-13**].
+     
+     The tip of the ET tube is identified 4 cm above the carina.  A NG tube courses
+     to the stomach.  The right jugular central venous catheter terminates in the
+     main PA.  No pneumothorax is identified.
+     
+     There is continued mild CHF with cardiomegaly and small right pleural
+     effusion, right greater than left.  Patchy atelectasis is seen in both lower
+     lobes.
+     
+     The previously identified subcutaneous emphysema in the left chest wall has
+     improved.  Multiple surgical staples are seen overlying both shoulders.
+
+",,
+14629,16002,18186,0,2542-07-15 02:54:00 EST,2542-07-15 02:59:00 EST,3806,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+ABG's were borderline hypoxemia, on 70% FIO2>>increased peep to 8cmH20, and weaned FIO2 to 60%>>ABG's now well oxygenated with a very slight repiratory alkalosis (uncompensated).  RSBI done with peep=0, PS=0, ATC=100% (8L minute volume, spont. RR=24>>average VT's 333cc), RSBI=72 (Pt. became very anxious during the trial).  Will continue support as needed.
+",,
+14629,16002,18186,0,2542-07-15 15:59:00 EST,2542-07-15 16:02:00 EST,3964,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt trialed on PSV for extubation eval, changed to CPAP no PS, ABG's showed Resp acidosis, pt extremely anxious, changed back to SIMV to rest for the night, sedation given. 
+",,
+14629,16002,18186,0,2542-07-15 17:36:00 EST,2542-07-15 17:51:00 EST,3062,"N",54,"Nursing/Other",,"
+
+ NUERO: PT OPEN HIS EYES WHEN [**Doctor First Name **] CALL HIS NAME. PT DOES FOLLOW COMMANDS. THIS AFTERNOON PT BECAME ANXIOUS, TRYING TO PULL OUT E-TUBE RECIEVED TOTAL OF 2MG OF IV ATIVAN AND 2MG OF IV MORPHINE, DR. [**Last Name (STitle) **] AWARE.
+
+PULM: EARLIER IN DAY, PT ON CPAP DOWN TO 5 PEEP WHICH HE WAS TOLERATING. PLEASE SEE FLOW SHEET FOR ABG'S AND 02SATS. THIS AFTERNOON, AFTER TURNING PT, PT BECAME ANXIOUS, PT TRYING TO SIT UP AND BED, TRYING TO PULL OUT ET-TUBE, ABG DONE 7.17/61/81/23 -7 DR. [**Last Name (STitle) **], DR. [**Last Name (STitle) 248**] AWARE. CXR DONE.  SUCTIONING PT FOR WHITE FROTHY WHITE SPUTUM. PT PUT BACK ON SIMV PEEP 8 PS 5, MOST RECENT ABG 7.41/34/103/22. DR. [**Last Name (STitle) 2946**], DR. [**First Name (STitle) **] AWARE.
+
+CARDS: PT REMAINS IN SR TO ST. PLEASE SEE FLOW SHEET IV LEVOPHED PRESENTLY AT 0.127 MCG/KG/MIN, TO KEEP MAP GREATER THAN 70. PLEASE SEE FLOW SHEET FOR HEMODYNAMICS. LAST CO 2.82, CI 1.62, SVR 1560. DR. [**First Name (STitle) **] AWARE, DR. [**Last Name (STitle) 2946**] AWARE. PT RECIEVED 500CC NS BOLUS X1. LEPIRUDIN REMAINS AT 0.045 MG/KG/HR. LAST PT 14.3,PTT 49.2, INR 1.4 DR. [**Last Name (STitle) 2946**] AWARE.
+
+GI: NG TUBE TO LWS DRAINING BILOUS DRAIANGE. PT REMIANS NPO.
+
+GU: U/O DROPPED TO 15-20CC/HR, DR. [**Last Name (STitle) 2946**] AWARE. 
+
+EXTREMTIES: RIGHT FOOT REMAINS COLD TO TOUCH, UNABLE TO DOPPLER PULSES. LEFT FOOT WARM TO TOUCH, PALE IN COLOR, PT HAS DOPPLER DP/PT PULSES. 
+
+PLAN: CONTINUES TO MONITOR, ATTEMPT TO WEAN LEVOPHED ONCE PT MORE AWARE. CONTINUES TO MONITOR RESP. STATUS, CARDIAC STATUS. 
+",,
+14629,16002,18186,,2542-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-16**] 5:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11198**]
+     Reason: Evaluate for CHF                                            
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p L ax bifem in ICU still requiring ventilation.              
+     REASON FOR THIS EXAMINATION:
+      Evaluate for CHF                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post left axillary bifemoral bypass still requiring
+     ventillation, evaluate for CHF.
+     
+     COMPARISON: [**2542-7-15**].
+     
+     CHEST, AP PORTABLE: There is stable mild cardiomegaly. The mediastinal
+     contours are stable in appearance. There is pulmonary vasculature
+     redistribution and bilateral perihilar haziness and interstitial edema,
+     increased since the previous study. There is a large right pleural effusion
+     which is layering posteriorly and smaller left pleural effusion. The osseous
+     structures are grossly unremarkable. Surgical clips are noted overlying the
+     upper mid- abdomen and subclavicular regions.
+     The endotracheal tube has been removed.  The swan ganz catheter tip is in the
+     right pulmonary artery.
+     IMPRESSION: Worsening CHF with bilateral pleural effusions. 
+
+",,
+14629,16002,18186,0,2542-07-16 17:10:00 EST,2542-07-16 17:25:00 EST,3790,"N",54,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  AFEBRILE
+
+NEURO:  A+OX3!  MAE'S.  DENIES PAIN, NO PAIN MED GIVEN THIS SHIFT.  AT TIMES PT IS AGITATATED, CLEARS WITH REPOSITIONING AND REASSURANCE.  NO HALDOL OR SEDATION GIVEN THIS SHIFT.
+
+CV:  HR 110-120 TACHY WITH PAC'S.  LOPRESSOR ON HOLD AND CONFIRMED BY SICU AND VASCULAR TEAMS.  WEANING PARAMETERS FOR LEVOPHED CHANGED TO SBP > 90, MAP > 65.  LEVO NOW OFF.  PT SBP DIPS TO 80'S AND THEN RETURNS TO 90'S.  CVP ~ 10.  PA 20'S-30'S/[**1-5**]'S.  CO 3.76, CI 2.16.  PLEASE SEE CAREVIEW FOR ALL HEMODYNAMICS. FLUID BOLUS 500CC'S NS X1 GIVEN WITH POOR EFFECT : U/O UNCHANGED, MORE TACHY TO 120'S, CRACKLES.  CHEST X-RAY DONE, RESULTS PENDING.  FLUID BALANCE MN-1800 + 3 LITERS. VASCULAR ASSESSMENT UNCHANGED.  RIGHT FOOT REMAINS COOL, DUSKY, PT MOVES WELL AND HAS + SENSATION, NO PULSES DOPPLERABLE.  LEFT FOOT + DOPPLER PULSES.  FEM SITES DRAINING LARGE AMOUNTS OF SERO-SANG DRG, DSD'S CHANGED OFTEN.  LEFT UPPER CHEST DSG C,D+I. WAFFLE BOOTS APPLIED TO FEET.  HIT PANEL PENDING. NO S+S OF ACTIVE BLEEDING.
+
+RESP:  PT EXTUBATED THIS AM. POST EXTUBATION ABG: 7.42, 36, 85, 24, 0 ON 50% HUMIDIFIED FACE MASK.  PT HOURLY C+DB, EXPECTORATING WHITE/TAN THICK SPUTUM.  O2 SATS 92-97%.  
+
+GI: OGT D/C'D WITH ETT.  TO LEAVE NGT/OGT OUT PER DR. [**Last Name (STitle) 1357**] AND SICU TEAM DUE TO LOW PLATLETS AND + BS.  NO NAUSEA.  + HYPO BS.
+
+GU:  FOLEY-BSD WITH 9-40 CC U/O HOURLY.
+
+SX:  PT'S WIFE CALLED.
+
+R:  PT REAMINS TACHY, HYPOTENSIVE WITH SBP > 90 AS PER PARAMETER.  AFEBRILE.  VASCULAR ASSESSMENT UNCHANGED.
+
+P:  FOLLOW UP ON CHEST X-RAY RESULTS, ? LASIX.  CONTINUE TO MONITOR HEMODYNAMICS CLOSELY, ONCE CHEST XRAY RESULTS KNOWN TREAT HEART RATE ACCORDINGLY ( ? LOPRESSOR ). CLOSELY MONITOR ABP WITH GOAL SBP > 90 MAP > 65.  CONTINUE PULMONARY TOILET AND ENCOURAGING PT TO C+DB.  PT AND FAMILY SUPPORT.
+",,
+14629,16002,18186,,2542-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-17**] 12:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11199**]
+     Reason: Evaluate for CHF                                            
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p L ax bifem in ICU still requiring ventilation, worsening O2 
+      sats, increased work of breathing.     
+     REASON FOR THIS EXAMINATION:
+      Evaluate for CHF                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Worsening 02 saturation. Evaluate for CHF.
+     
+     CHEST, AP PORTABLE:  Comparison is made to prior portable study of [**2542-7-16**].
+     The heart is mildly enlarged. Again noted is placement of a swan ganz
+     catheter, with tip in the right main pulmonary artery.  There is significant
+     improvement of pulmonary vasculature.  There is residual bilateral lower lobe
+     infiltrate/atelectasis.  Again noted is a right sided pleural effusion with
+     possible left sided pleural effusion.
+     
+     IMPRESSION:
+     
+     1. There is interval improvement of CHF.
+     2. There is bilateral residual lower lobe infiltrate/atelectasis.
+     3. Bilateral pleural effusion, right greater than left. Follow up is
+     recommended.
+
+",,
+14629,16002,18186,0,2542-07-17 04:07:00 EST,2542-07-17 04:20:00 EST,-1,"N",54,"Nursing/Other",,"
+
+CV: HR TO 130'S ST MANY PAC'S LOPRESSOR 2.5 MG W SOME EFFECT LOPRESSOR DOSE RESUMES 2.5 MG IV Q 6 HOURS.ADDITIONAL DOSES GIVEN-SEES MAR. HR DECREASED TI 102-108 ST WITH OCCASIONAL PAC'S. BP STABLE WITH LOPRESSOR
+RESP:SATS IMPROVED WITH DIURESIS,LASIX 20 MG IV AT 7:15 PM;AND AGAIN AT 0200-EXCELLENT DIURESIS SATS TO P7 % ON 50 % FACE MASK(COOL)
+GU: FOLEY DRAINING CLEAR YELLOW URINE.
+GI: BOWEL SOUNDS HYPOACTIVE
+INTEGUMENTARY: BILATERAL GROIN INCISIONS DRAINING SEROSANGUINOUS LARGE AMOUNTS,DRESSINGS CHANGED Q 3-4 HOURS FOR LARGE AMOUNTS SEROSANG
+NEURO: CALM AND COOPERATIVE,ANXIOUS INITIALLY WITH C/O SOB. NO C/O SOB AT THIS TIME.
+CIRC: NO PEDAL OR PT ON R, DOPPLERABLE [**Doctor Last Name **] ON R.LEFT PED AND PT AND [**Doctor Last Name **] DOPPLERABLE. GRAFT PULSE DOPPLERABLE
+",,
+14629,16002,18186,0,2542-07-17 05:47:00 EST,2542-07-17 05:48:00 EST,-1,"N",54,"Nursing/Other",,"
+
+D: SCROUM AND PENIS EDEMATOUS. SCROTUM AND PENIS ELEVATED TO REDUCE EDEMA. 
+",,
+14629,16002,18186,0,2542-07-17 14:47:00 EST,2542-07-17 14:48:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt's respiratory status worsening, placed on BIPAP, improving ABG""s and ventilatory status. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] RRT
+",,
+14629,16002,18186,0,2542-07-17 17:19:00 EST,2542-07-17 17:52:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: NO PULSES RT FOOT FOOT MOTTLED COOL TO TOUCH..ORIENTED X3 FOLLOWS COMMANDS..K+,ICA,MAG LEVELS DOWN
+A: K+/MAG/CA REPLETED..OOZING LGE AMTS SEROUS FROM BOTH GROIN INCISIONS..SCROTUM ECCYMOTIC SWOLLEN..LEPIRUDIN GTT RESTARTED THAN DC'D & HEPARIN GTT RESTARTED.. C/O SOB RESP RATE 30'S SAT'S DOWN 90%,PULSE 130'S BP 170/'S GIVEN 5MGM LASIX WITHOUT EFFECT..ABG'S POOR..CHEST X-RAY & EKG DONE.. 10MGM LASIX X2 GIVEN WITH GOOD DIURESIS..PLACED ON [**Hospital1 **] WITH IMPROVED PUL STATUS SAT'S >93% LESS CONGESTED..DROPPING BP 80/'S STARTED ON LEVO GTT INCREASED TO .1MGM WITH SBP 90/'S..IMPROVED PLACED BACK ON FM @ 100%
+R: PT PROB CHF
+P: CONTINUE TO MONITOR VS..PULM STATUS CLOSELY PLACE BACK ON [**Hospital1 **] IF NEED FOR NOC..MONITOR LABS CLOSELY
+",,
+14629,16002,18186,,2542-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-18**] 4:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11200**]
+     Reason: f/u CHF                                                     
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man s/p L ax bifem in ICU s/p diuresis for CHF                     
+     REASON FOR THIS EXAMINATION:
+      f/u CHF                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  68 y/o man with CHF.
+     
+     CHEST AP PORTABLE:  Comparison is made to the prior study obtained on
+     [**2542-7-17**].  The heart is again noted to be mildly enlarged.  The Swan-Ganz
+     catheter is again noted, with tip in the right main pulmonary artery.  There
+     is no significant change in overall pulmonary vasculature pattern.  There is
+     residual bilateral lower lobe infiltrate/atelectasis.  Again noted is a
+     bilateral pleural effusion, right greater than left.
+     
+     IMPRESSION:
+     
+     Persistent CHF, with bilateral pleural effusion, right greater than left.
+     There is no significant change from the prior study.
+     
+
+",,
+14629,16002,18186,,2542-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-18**] 10:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11203**]
+     Reason: eval ET tube placement.                                     
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man s/p L ax bifem in ICU with respiratory failure now intubated.  
+     REASON FOR THIS EXAMINATION:
+      eval ET tube placement.                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Shortness of breath.
+     
+     CHEST AP PORTABLE:  Comparison is made to the prior study obtained 1 hour
+     earlier.  There is interval placement of ET tube, which is about 5 cm above
+     the carina.  Again noted is right IJ central venous catheter, unchanged in
+     position.  The overall pulmonary pattern remains unchanged, with bilateral
+     pleural effusions noted, right greater than left.  There is no evidence of
+     pneumothorax.
+     
+     IMPRESSION:  Interval placement of ET tube, with the tip about 5 cm above the
+     carina.  No evidence of pneumothorax.  Otherwise no significant change from
+     the prior study obtained 1 hour prior.
+
+",,
+14629,16002,18186,,2542-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-18**] 8:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11202**]
+     Reason: SOB
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p L ax bifem in ICU with SOB and concerning blood gas values  
+     REASON FOR THIS EXAMINATION:
+      Evaluate for CHF                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 68 y/o man s/p surgery with shortness of breath.
+     
+     CHEST AP PORTABLE: Comparison is made to the prior study obtained 4 hours
+     prior. Again noted is a right IJ central venous line, terminating in the
+     distal SVC. Surgical clips are noted overlying both axilla. There is no
+     evidence of pneumothorax. Again noted is perihilar opacities bilaterally, not
+     significantly changed from the prior exam. There is persistent bilateral
+     pleural effusion, right greater than left. There is no new areas of focal
+     consolidations. Again noted is left lower lobe collapse/consolidation.
+     
+     IMPRESSION: Persistent CHF with bilateral pleural effusions. Not significantly
+     changed from the prior exam that is performed 4 hours prior.
+
+",,
+14629,16002,18186,,2542-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-18**] 11:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11204**]
+     Reason: EVALUATE FOR ACUTE CARDIOPULMONARY PROCESS                  
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p L ax bifem in ICU with respiratory failure now intubated, 
+      BRIEFLY PULSELESS
+     REASON FOR THIS EXAMINATION:
+      EVALUATE FOR ACUTE CARDIOPULMONARY PROCESS                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 68-year-old man with respiratory failure.
+     
+     CHEST, AP PORTABLE:  Comparison is made to the prior study obtained on [**2542-7-18**].
+      The patient is slightly rotated to the right.  There is interval placement of
+     a chest tube on the right, as well as an ET tube, both of which appear to be
+     satisfactory position.  There is interval decrease in the right pleural
+     effusion.  There is no evidence of pneumothorax.  Again noted is perihilar air
+     space opacity with air bronchograms noted, consistent with persistent
+     pulmonary edema.  There is no new area of focal consolidation.
+     
+     IMPRESSION:
+     1.  Interval placement of ET tube and right-sided chest tube, both of which
+     appear to be satisfactory position.
+     2.  There is an interval decrease in right-sided pleural effusion.
+     3.  Persistent CHF, not significantly changed from the prior study.
+
+",,
+14629,16002,18186,,2542-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2542-7-18**] 4:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11201**]
+     Reason: s/p central line change over wire, confirm placement and r/o
+     Admitting Diagnosis: RT LEG ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        68 year old man s/p L ax bifem in ICU s/p diuresis for CHF                    
+       
+     REASON FOR THIS EXAMINATION:
+      s/p central line change over wire, confirm placement and r/o PTX                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Central line change over a wire.
+     
+     Comparison is made to a study of 13 hours previously.
+     
+     FINDINGS: There has been removal of a PA catheter. A right IJ central venous
+     line terminates in the lower SVC. Surgical clips overlie both axilla. There is
+     no pneumothorax. There is continued perihilar air space opacity with air
+     bronchograms, slightly improved from the prior study. Bilateral pleural
+     effusions are also slightly decreased. There are no new areas of focal
+     consolidation but there remain retrocardiac opacities.
+     
+     IMPRESSION:
+     1. Change of central venous line without pneumothorax.
+     2. Continued but slightly improved CHF.
+
+",,
+14629,16002,18186,0,2542-07-18 04:59:00 EST,2542-07-18 05:23:00 EST,4004,"N",54,"Nursing/Other","Condition UpdateB:","
+Condition UpdateB:
+Please refer to flowsheet for details.
+NEURO: WNL. Denies c/o pain.
+CV: Tmax 100.1. HR ^120 ST w/ rare/occ PAC's. Titrating Levo gtt to keep NBP S>90 and MAP >65. PA pressures as low as 19/9 at 0520. NS bolus infused over 30 minutes with fair effect (23/9). CVP 5-13. Heparin gtt titrated and PTT checked q6h for goal 40-50. PT/Dp and graft pulses check with doppler q2h. Generalized 3+ pit edema. PAN cx d/t WBC ^17 at 2030. 
+RESP: LS CTA w/ dim bases. Improved ABG this morning. Pt coughing and raising yellow/tan tenacious sputum. Mod to max cues for C7DB. Sputum cx sent. 
+GI/GU: NPO. BS hypoactive. No stool. Denies N/V. U/O 16cc at 2200, Lasix 10mg IV x1 admin with good effect. BUN and Cr up this morning.
+ENDO: No insulin required for BS this shift.
+SKIN: Bilat femeral dsgs changed x2. (R) fem with large amount red serosanguinous fluid. (L) fem with mod amount pink serosanguinous fluid. (R) anticub weeping straw colored fluid from old PIV site. DSG changed x2. (L) shoulder inc C/D/I with DSD. 
+
+PLAN: Cont to titrate Levo off keeping SNBP >90 and MAP >65. Monitor PA pressures, CVP, u/o for hypo/hypervolemia. Assist w/ pulmonary tiolet, IS, C&DB. Monitor ABG's. Cont with current ICU care.
+",,
+14629,16002,18186,0,2542-07-18 14:52:00 EST,2542-07-18 15:07:00 EST,-1,"N",54,"Nursing/Other","NPN 7A-4P","
+NPN 7A-4P
+Neuro: lethargic but Ox3. 
+Resp: Attempted to wean down FIO2, dropped sats to 92% on 50% FIO2. Currently sats 99-100% on 70% via face mask. LS w/ exp wheezes on L side tx'd effectively w/ albuterol nebs. R-side diminished in base upper clear. using IS w/ assistance. prod cough for thick yellow sputum. sputum cx pnd. 
+CV: Tmax 101.7 reduced w/ frequent DB,IS & 650mg tylenol elixir. Hypotensive down to 70SBP & tachycardic 115-125 throughout shift. Transiently improved w/ NS fluid bolus 250cc X2. Albumin level low & Hct 26. Sent type & cross for 1u PRBC to be x-fused when avail from blood bank.  Hep gtt held @ 1pm awaiting change of PA-catheter over wire to multi-lumen central line. Blood Cx results pnd. Cont. w/ absent pulses to distal RLE, but doppler R popliteal pulse. R foot cyanotic & cool to touch. wrapped in warm blankets to improve blood flow. 
+GI/GU: u/o marginal. fluid boluses given for low u/o. please see carevue for times & amts. tol clear liquid diet. +BS. Abd soft. ND no flatus.
+Endo: no insulin required per sliding scale
+Integ: +3 edema. extremities elevated w/ some reduction of swelling noted. Inc sites w/ mod ss drainage drsgs changed approx q4.
+Plan: monitor I/O, v/s & check post x-fusion Hct. f/u w/ team re cardiology consult.  monitor tol of diet & monitor for resp distress.
+",,
+14629,16002,18186,0,2542-07-18 15:31:00 EST,2542-07-18 15:35:00 EST,-1,"N",54,"Nursing/Other","Resp Care Note:","
+Resp Care Note:
+Pt being seen for alb nebs Q6.  BS are coarse bilat with fairly good aeration.  Pt has strong productive cough for yellow thick secretions.  O2 currently at 70% aerosol, SpO2 99%.  Attempted to wean to 50% but dropped SpO2 to 92%.  Continue to monitor resp. status.
+",,
+14629,16002,18186,0,2542-07-18 18:56:00 EST,2542-07-18 19:13:00 EST,-1,"N",54,"Nursing/Other","NPN ADDENDUM","
+NPN ADDENDUM
+5P-7P: APPROX 5PM PT APPEARED TO BE IN MILD RESP DISTRESS W/ LABORED BREATHING AT A RATE OF 34-36. LS COARSE CONT W/ PROD COUGH. SATS DROPPING DOWN TO 80'S. INC. FIO2 TO 100% & PLACED ON NRB MASK. SATS INC TO 96% ABG'S SLIGHTLY IMPROVED PAO2 INC TO 85 FROM 64. RR DECREASED TO 24-28. DURING THIS EPISODE OF TACHYPNEA PT'S HR INC UP TO 150 W/ SBP . 5MG LOPRESSOR GIVEN W/ DEC HR TO 135 & DROP IN SBP TO 88. PT DENIES CP, DENIES DIFFICULTY W/ BREATHING AT THIS TIME. SICU RESIDENT AWARE & CARDIOLOGY CONSULT DISCUSSED W/ SICU RESIDENT. EKG ORDERED. REPORT GIVEN TO NIGHT RN TO MONITOR RESP STATUS & HEMODYNAMICS.
+",,
+14629,,18186,0,2542-07-19 02:18:00 EST,2542-07-19 02:25:00 EST,3508,"N",54,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient was intubated with a 7.5 ETT taped and secured at 24cm. Patient placed on mechanical ventilation. CXR obtained, end tital co2 checked with easy cap. Please see respiratory section of carevue for further data. Patient coded and was manually vented throughout the code. Patient expired.
+",,
+14629,,18186,0,2542-07-19 02:43:00 EST,2542-07-19 02:56:00 EST,4004,"N",54,"Nursing/Other","NSG Note B:","
+NSG Note B:
+Please refer to careview and CPR record for fine details.
+NEURO: PT alert and oriented times 3. Denied c/o pain. 
+CV: Pan cx after pt spiked temp to 102.0 ax, and PRBC transfusion stopped. Tylenol and Benedryl po amdin. Levo resumed d/t SBP 60's. HR ^ 150's. Attempted to control HR w/ Lopressor (poor effect) to improve BP and perfusion. Esmolol gtt started. Attempted to raise BP, Neo gtt started in addition to Levo. Heparin gtt stopped prior to insertion of cordis for Swan.
+RESP: Pt tachypneic, labored breathing, using acessory muscles at start of shift wearing non-rebreather. Pt unable to tol [**Hospital1 **]. Pt intubated at 2240. Precedex started for agitation.
+GU: urine output low. Lasix 10mg IVP admin w/ poor effect.
+
+Pt expired at 0128. Family notified by Dr. [**Last Name (STitle) **].
+",,

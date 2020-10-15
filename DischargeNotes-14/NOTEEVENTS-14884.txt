@@ -1,0 +1,535 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14884,10,,,3015-08-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3015-8-28**]              Discharge Date:   [**3015-9-5**]
+ 
+Date of Birth:  [**2950-8-20**]             Sex:   F
+ 
+Service: [**Doctor First Name 389**]
+ 
+Allergies: 
+Adhesive Tape / Metal Can/Brush Top Applicat
+ 
+Attending:[**First Name3 (LF) 301**] 
+Chief Complaint:
+Recurrent Crohn's disease near terminal ileum
+ 
+Major Surgical or Invasive Procedure:
+Ileocolectomy for Crohn's/anastamotic stricture
+ 
+History of Present Illness:
+This patient has Crohn's disease with terminal ileal involvement 
+causing bowel obstruction. She has had prior ileocolectomy and 
+has an incisional hernia as well.
+ 
+Past Medical History:
+Crohn's disease with small bowel obstruction
+Atrial fibrillation, rate controlled
+Hypertension
+Chronic lower back pain
+Osteoporosis
+Hypothyroidism
+Incisional hernia
+Diverticular disease
+ 
+Social History:
+The patient has a 20 pack year history of tobacco, quit 20 years 
+ago. Denies alcohol, drugs.
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+This patient is a pleasant female in no acute distress. Pupils 
+are equal, round, reactive to light. Extraocular movements are 
+inact. Mucous membranes are moist. Neck is supplie without JVD. 
+Lungs are clear to auscultation bilaterally. Heart is 
+irregularly irregular. No murmurs. Abdomen is soft, tender to 
+palpation in the right lower quadrant and around incisional 
+hernia, with normal active bowel sounds. The extermities show no 
+clubbing, cyanosis or edema.
+ 
+Pertinent Results:
+[**3015-8-28**] 02:03PM BLOOD WBC-23.2* RBC-4.25 Hgb-12.7 Hct-38.9 
+MCV-92 MCH-29.9 MCHC-32.6 RDW-14.3 Plt Ct-263
+[**3015-8-29**] 07:15AM BLOOD WBC-16.1* RBC-3.47* Hgb-10.6* Hct-32.9* 
+MCV-95 MCH-30.4 MCHC-32.1 RDW-14.5 Plt Ct-187
+[**3015-8-30**] 06:40AM BLOOD WBC-12.4* RBC-2.57*# Hgb-8.1* Hct-24.1*# 
+MCV-94 MCH-31.3 MCHC-33.5 RDW-14.7 Plt Ct-156
+[**3015-8-30**] 05:54PM BLOOD Hct-31.6*#
+[**3015-8-30**] 07:39PM BLOOD Hct-18.2*#
+[**3015-8-31**] 03:15PM BLOOD WBC-12.7* RBC-2.96* Hgb-9.1* Hct-26.5*# 
+MCV-90 MCH-30.8 MCHC-34.4 RDW-14.8 Plt Ct-147*
+[**3015-9-1**] 12:52AM BLOOD Hct-23.4*
+[**3015-9-1**] 04:30AM BLOOD WBC-8.0 RBC-2.54* Hgb-7.8* Hct-22.9* 
+MCV-90 MCH-30.9 MCHC-34.2 RDW-15.4 Plt Ct-144*
+[**3015-9-1**] 06:46PM BLOOD Hct-29.9*#
+[**3015-9-2**] 03:07AM BLOOD WBC-9.9 RBC-2.53* Hgb-7.8* Hct-22.3*# 
+MCV-88 MCH-30.8 MCHC-34.8 RDW-16.3* Plt Ct-145*
+[**3015-9-2**] 02:05PM BLOOD Hct-27.4*
+[**3015-9-2**] 07:20PM BLOOD Hct-27.0*
+[**3015-9-3**] 01:12AM BLOOD Hct-27.9*
+[**3015-9-3**] 07:16AM BLOOD WBC-16.0*# RBC-4.63# Hgb-14.0# Hct-39.7# 
+MCV-86 MCH-30.2 MCHC-35.2* RDW-15.9* Plt Ct-141*
+[**3015-9-3**] 08:58AM BLOOD Hct-35.9*
+[**3015-9-3**] 03:18PM BLOOD Hct-33.4*
+[**3015-9-4**] 02:53AM BLOOD WBC-10.6 RBC-3.75* Hgb-11.4* Hct-32.3* 
+MCV-86 MCH-30.3 MCHC-35.2* RDW-15.9* Plt Ct-104*
+[**3015-9-4**] 12:23PM BLOOD Hct-32.7*
+[**3015-9-5**] 05:15AM BLOOD WBC-7.8 RBC-4.15* Hgb-12.7 Hct-36.8 
+MCV-89 MCH-30.6 MCHC-34.6 RDW-15.3 Plt Ct-164#
+ 
+Brief Hospital Course:
+The patient was taken to the operating room and underwent an 
+exploratory laparotomy, lysis of adhesions (extensive), 
+resection of former ileocolonic anastomosis, re-do ileocolonic 
+anastomosis and repair of recurrent ventral hernia. She 
+tolerated this procedure well. Postoperatively, the patient was 
+held in the PACU overnight due to low urine output, for which 
+she received several fluid boluses. Pain was well-controlled 
+with epidural anesthesia. On POD#2, the patient began to move 
+bowels, and was given a house diet. On POD#3, following a 
+diaphoretic episode coupled with bloody bowel movements, mild 
+hypotension and tachycardia, the patient was found to have a 
+hematocrit of 23. The patient was transfused 2 units of PRBC's, 
+and a post-transfusion hematocrit was 30. From POD#4 to POD#6, 
+the patient continued to experience bloody bowel movements and 
+was again found to have a hematocrit of 22. She was transfused a 
+total of 8 units of PRBC's and 4 units of FFP. On POD#6, the 
+patient became acutely short of breath with an episode of rapid 
+atrial fibrillation andhypotension. The patient responded well 
+to lasix, oxygen and IV beta-blocker. The patient was 
+transferred to the SICU for appropriate montioring. On POD#7, 
+the patient had stabilized and was transferred back to the 
+floor. The patient's hematocrit and vital signs remained stable 
+throughout the remainder of her hospital stay and the patient 
+was discharged home on POD#9 in stable condition
+ 
+Medications on Admission:
+Prednisone 10mg BID
+Pentasa 1g QID
+Percocet 5/325mg 1-2 tabs Q6hours
+Protonix 40mg QDaily
+Synthroid 50mcg QDaily
+Coumadin 3mg QDaily
+Cyclobenzprine 10mg BID
+Paroxetine 40mg QDaily
+Propoxyphene 65mg BID
+Metoprolol 50mg Bid
+ 
+Discharge Medications:
+1. Prednisone 20 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Dilaudid 2 mg Tablet Sig: One (1) Tablet PO every four (4) 
+hours as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Crohn's disease 
+Atrial fibrillation 
+Hypertension 
+Osteoporosis 
+Hypothyroidism 
+Diverticulitis 
+Lower back pain 
+
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+Please return to hospital if [**Doctor First Name **] experience chills or fever 
+greater than 101.5 degrees F. Please return if [**Doctor First Name **] notice 
+excessive redness or tenderness of your wound, or if your wound 
+begins to ooze pus or foul-smelling fluid.
+Pt may resume all home medications except she should not 
+continue her pentasa, propoxyphene, and she will be sent with a 
+new prescription dose for her prednisone and should not take her 
+home dose
+Pt may resume her coumadin, she is being sent with a requisition 
+for an INR level on Friday to be called into PCP
+ 
+Followup Instructions:
+Please call Dr.[**Doctor Last Name 308**] office for an appointment. Please 
+follow up in 2 weeks.
+ 
+Pt should make an appointment with her pcp within the next week 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 315**] MD [**MD Number 316**]
+ 
+Completed by: [**Name6 (MD) 2130**] [**Last Name (NamePattern4) 2131**] MD [**MD Number 2132**] [**3015-9-22**] @ 1045
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: FRI [**3015-9-22**] 12:04 PM
+(End of Report)
+
+
+",,
+14884,10,,,3015-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-31**] 9:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13188**]
+     Reason: please place double lumen picc in pt who needs blood transfu
+     Admitting Diagnosis: CROHN'S DISEASE/SDA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman s/p ileocolectomy                                             
+     REASON FOR THIS EXAMINATION:
+      please place double lumen picc in pt who needs blood transfusions for leaking 
+      anastomosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 65-year-old woman with Crohn's disease, status post ileocolectomy.
+     Needs blood transfusion and long-term intravenous access.
+     
+     PROCEDURE: The procedure was performed by Drs. [**Last Name (STitle) 214**], [**Name5 (PTitle) 249**] and
+     [**Name5 (PTitle) 603**]. Dr. [**Last Name (STitle) 603**], the attending radiologist, was present and supervising.
+     
+     The right upper arm was prepped and draped in standard sterile fashion. Since
+     a suitable superficial vein was not visible, ultrasound was used for
+     localization. The right bracheal vein was identified, patent and compressible.
+     After local anesthesia with approximately 5 cc of 1% lidocaine, the right
+     brachial vein was entered under ultrasonographic guidance with a 21 gauge
+     puncture needle. A .018 guide wire was then advanced under fluorscopic
+     guidance into the superior vena cava. Based on the markers on the guide wire,
+     it was determined that a total length of 38 cm would be suitable. The
+     micropuncture needle was then removed. A 4 Fr sheath with inner dilator was
+     inserted into the vein. The inner dilator was removed and the PICC line was
+     advanced over a wire to lie within the SVC. The sheath was removed. The
+     catheter was flushed. A final chest x-ray was obtained. The film demonstrated
+     the tip to be within the superior vena cava, just above the atrium. A StatLock
+     was applied and the line was heplocked.
+     
+     CONTRAST/MEDICATIONS: ___ cc of 1% lidocaine for local anesthesia. 5 cc of
+     nonionic Optiray contrast was injected into and near the vein for
+     localization.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of a dual-lumen 4 Fr 38 cm in total length
+     PICC via the right brachial vein with tip within the distal SVC. The line is
+     ready for immediate use.
+
+",,
+14884,10,,,3015-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-31**] 10:25 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13189**]
+     Reason: please eval for evidence of pneumonia or CHF                
+     Admitting Diagnosis: CROHN'S DISEASE/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman s/p ileocolectomy                                             
+     REASON FOR THIS EXAMINATION:
+      please eval for evidence of pneumonia or CHF                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post ileocecectomy. Evaluate for CHF or pneumonia.
+     
+     PA AND LATERAL CHEST: No prior studies are available for comparison. Cardiac
+     size is within normal limits. The aorta is unfolded, tortuous, and slightly
+     dilated. There is no CHF or focal consolidation. There is no pleural effusion.
+     No free air is seen under the hemidiaphragm. No pneumothorax. Osseous
+     structures are unremarkable.
+     
+     IMPRESSION: No acute cardiopulmonary abnormality.
+     
+
+",,
+14884,10,,,3015-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-31**] 9:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13188**]
+     Reason: please place double lumen picc in pt who needs blood transfu
+     Admitting Diagnosis: CROHN'S DISEASE/SDA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman s/p ileocolectomy                                             
+     REASON FOR THIS EXAMINATION:
+      please place double lumen picc in pt who needs blood transfusions for leaking 
+      anastomosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 65-year-old woman with Crohn's disease, status post ileocolectomy.
+     Needs blood transfusion and long-term intravenous access.
+     
+     PROCEDURE: The procedure was performed by Drs. [**Last Name (STitle) 214**], [**Name5 (PTitle) 249**] and
+     [**Name5 (PTitle) 603**]. Dr. [**Last Name (STitle) 603**], the attending radiologist, was present and supervising.
+     
+     The right upper arm was prepped and draped in standard sterile fashion. Since
+     a suitable superficial vein was not visible, ultrasound was used for
+     localization. The right bracheal vein was identified, patent and compressible.
+     After local anesthesia with approximately 5 cc of 1% lidocaine, the right
+     brachial vein was entered under ultrasonographic guidance with a 21 gauge
+     puncture needle. A .018 guide wire was then advanced under fluorscopic
+     guidance into the superior vena cava. Based on the markers on the guide wire,
+     it was determined that a total length of 38 cm would be suitable. The
+     micropuncture needle was then removed. A 4 Fr sheath with inner dilator was
+     inserted into the vein. The inner dilator was removed and the PICC line was
+     advanced over a wire to lie within the SVC. The sheath was removed. The
+     catheter was flushed. A final chest x-ray was obtained. The film demonstrated
+     the tip to be within the superior vena cava, just above the atrium. A StatLock
+     was applied and the line was heplocked.
+     
+     CONTRAST/MEDICATIONS: ___ cc of 1% lidocaine for local anesthesia. 5 cc of
+     nonionic Optiray contrast was injected into and near the vein for
+     localization.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of a dual-lumen 4 Fr 38 cm in total length
+     PICC via the right brachial vein with tip within the distal SVC. The line is
+     ready for immediate use.
+
+",,
+14884,10,,,3015-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-31**] 9:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13188**]
+     Reason: please place double lumen picc in pt who needs blood transfu
+     Admitting Diagnosis: CROHN'S DISEASE/SDA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman s/p ileocolectomy                                             
+     REASON FOR THIS EXAMINATION:
+      please place double lumen picc in pt who needs blood transfusions for leaking 
+      anastomosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 65-year-old woman with Crohn's disease, status post ileocolectomy.
+     Needs blood transfusion and long-term intravenous access.
+     
+     PROCEDURE: The procedure was performed by Drs. [**Last Name (STitle) 214**], [**Name5 (PTitle) 249**] and
+     [**Name5 (PTitle) 603**]. Dr. [**Last Name (STitle) 603**], the attending radiologist, was present and supervising.
+     
+     The right upper arm was prepped and draped in standard sterile fashion. Since
+     a suitable superficial vein was not visible, ultrasound was used for
+     localization. The right bracheal vein was identified, patent and compressible.
+     After local anesthesia with approximately 5 cc of 1% lidocaine, the right
+     brachial vein was entered under ultrasonographic guidance with a 21 gauge
+     puncture needle. A .018 guide wire was then advanced under fluorscopic
+     guidance into the superior vena cava. Based on the markers on the guide wire,
+     it was determined that a total length of 38 cm would be suitable. The
+     micropuncture needle was then removed. A 4 Fr sheath with inner dilator was
+     inserted into the vein. The inner dilator was removed and the PICC line was
+     advanced over a wire to lie within the SVC. The sheath was removed. The
+     catheter was flushed. A final chest x-ray was obtained. The film demonstrated
+     the tip to be within the superior vena cava, just above the atrium. A StatLock
+     was applied and the line was heplocked.
+     
+     CONTRAST/MEDICATIONS: ___ cc of 1% lidocaine for local anesthesia. 5 cc of
+     nonionic Optiray contrast was injected into and near the vein for
+     localization.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of a dual-lumen 4 Fr 38 cm in total length
+     PICC via the right brachial vein with tip within the distal SVC. The line is
+     ready for immediate use.
+
+",,
+14884,10,,,3015-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-31**] 9:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13188**]
+     Reason: please place double lumen picc in pt who needs blood transfu
+     Admitting Diagnosis: CROHN'S DISEASE/SDA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman s/p ileocolectomy                                             
+     REASON FOR THIS EXAMINATION:
+      please place double lumen picc in pt who needs blood transfusions for leaking 
+      anastomosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 65-year-old woman with Crohn's disease, status post ileocolectomy.
+     Needs blood transfusion and long-term intravenous access.
+     
+     PROCEDURE: The procedure was performed by Drs. [**Last Name (STitle) 214**], [**Name5 (PTitle) 249**] and
+     [**Name5 (PTitle) 603**]. Dr. [**Last Name (STitle) 603**], the attending radiologist, was present and supervising.
+     
+     The right upper arm was prepped and draped in standard sterile fashion. Since
+     a suitable superficial vein was not visible, ultrasound was used for
+     localization. The right bracheal vein was identified, patent and compressible.
+     After local anesthesia with approximately 5 cc of 1% lidocaine, the right
+     brachial vein was entered under ultrasonographic guidance with a 21 gauge
+     puncture needle. A .018 guide wire was then advanced under fluorscopic
+     guidance into the superior vena cava. Based on the markers on the guide wire,
+     it was determined that a total length of 38 cm would be suitable. The
+     micropuncture needle was then removed. A 4 Fr sheath with inner dilator was
+     inserted into the vein. The inner dilator was removed and the PICC line was
+     advanced over a wire to lie within the SVC. The sheath was removed. The
+     catheter was flushed. A final chest x-ray was obtained. The film demonstrated
+     the tip to be within the superior vena cava, just above the atrium. A StatLock
+     was applied and the line was heplocked.
+     
+     CONTRAST/MEDICATIONS: ___ cc of 1% lidocaine for local anesthesia. 5 cc of
+     nonionic Optiray contrast was injected into and near the vein for
+     localization.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of a dual-lumen 4 Fr 38 cm in total length
+     PICC via the right brachial vein with tip within the distal SVC. The line is
+     ready for immediate use.
+
+",,
+14884,10,,,3015-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-9-2**] 8:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13190**]
+     Reason: r/o CHF; stat upright CXR please                            
+     Admitting Diagnosis: CROHN'S DISEASE/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      r/o CHF; stat upright CXR please                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared with [**8-31**].
+     
+     CLINICAL INDICATION:  PICC line placement.
+     
+     A right PICC line terminates at the superior vena cava/right atrial junction.
+     There has been interval development of congestive heart failure with vascular
+     engorgement, perihilar haziness and numerous septal lines.
+     
+     IMPRESSION:
+     1.  PICC line terminates at junction of the super vena cava and right atrium.
+     2.  Congestive heart failure with interstitial edema.
+
+",,
+14884,10,,,3015-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-9-3**] 2:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13191**]
+     Reason: s/p CVL placement, ? pneumothorax and position CVL          
+     Admitting Diagnosis: CROHN'S DISEASE/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman s/p ileo-colonic resection now with new onset A-fib          
+                                                    
+     REASON FOR THIS EXAMINATION:
+      s/p CVL placement, ? pneumothorax and position CVL                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Line placement. 
+     
+     Compared to previous study of one day earlier.
+     
+     A right internal jugular vascular catheter has been placed, terminating in the
+     superior vena cava.  A PICC line is unchanged in position.  Cardiac and
+     mediastinal contours are stable.  There remains evidence of congestive heart
+     failure with interstitial edema.  This is slightly improved in the interval.
+     
+     IMPRESSION:  Slight improvement in interstitial edema.
+     
+     Right internal jugular vascular catheter in satisfactory position with no
+     pneumothorax.
+
+",,
+14884,10,18494,0,3015-09-03 16:50:00 EST,3015-09-03 17:14:00 EST,730,"N",1,"Nursing/Other","Nursing Note:","
+Nursing Note:
+
+ADMISSION NOTE:  REVIEW OF SYSTEMS:
+
+65 year old female admitted from [**Hospital Ward Name **] 10, s/p ileocolectomy, repair incisional hernia on [**8-28**].  Developed rectal bleeding over past 24 hours requiring PRBC, rapid atrial fib, hypertension.  Admitted to sicu for line placement and hemodynamic monitoring.
+
+CV:  A. fib. rate=90-118, lopressor 5 mg given upon admission and q 6 hours with slight decrease in rate.  BP= 159/97-181/118, difficult to control bp despite lopressor.  NTG started and increased to 4-6 mcg/kg/min with pt. c/o of h/a, ntg d/c, nipride started and titrated to 1.0 mcg/kg/min with bp= 149/90, hr=98, cvp=[**3-13**].  Ext. cool, +dp bil. Several episodes of left lower arm pain accompanied with increased hr, hypertension, sweating, sob.  Relieved with fentanyl 25-50 mcg.  EKG done. Hypokalemic, 80 meq/kcl infused as per order, phos, and mag. repleted.  Cardiac enzymes neg, r/o protocol continues.  
+Hct= 33.4.  
+
+RESP:  Maintained on 2 l np, with sat=100%, crackles upon admission, with episodes of arm pain, c/o of sob with unchanged sats.
+
+GI:  Abd. soft, hypoactive BS, one small dark marroon stool, abd. soft, non-tender.  Denies abd. pain.  NPO, denies nausea
+
+GU:  Foley to gravity, u/o= 100-400cc/hr, no lasix given
+
+SKIN:  Intact, mild erythema left antecubital, ecchymotic area medial aspect of right upper arm (Picc).  
+
+ENDO:  Sl. scale, no insulin required
+
+ID:  Afebrile
+
+MENTATION:  Alert and oriented, moves all ext. continues to c/o of episodic lower left arm pain, relieved with fentanyl, becomes very anxious during episodes, grimmacing and turning onto side.  c/o of H/A after ntg started, continues to c/o of h/a since ntg d/c.  Ativan 1 mg given x 1 with minimal relief.
+
+SOCIAL:  Brother and sister in to visit, pt. did not have any c/o of arm pain with family members present.  Siblings informed of status.
+
+PLAN:  Continue to replete lytes as ordered, continue with r/o protocol, provide sedation as per order, continue with sl. scale as per order, monitor hct.  Provide support to family.  
+",,
+14884,10,18494,0,3015-09-04 06:02:00 EST,3015-09-04 06:15:00 EST,5246,"N",1,"Nursing/Other",,"
+
+Nursing Progress Note:
+Please see CareVue and transfer note.
+
+Pt for transfer to floor today.
+Weaned off nipride infusion overnight.
+
+On exam,
+
+Neuro:
+Pt sleeping intermittantly, wakes easily, confused but quickly reorients self.  Fentanyl for pain.  Obeying and appropriate.
+
+Resp:
+Chest essentially clear.  Albuterol neb x1 to promote coughing and deep breathing.  Pt needs encouragement with same.  02 2-3 L via prongs when pt compliant.
+
+Hemodynamics:
+A-Fib with rate 80s to 1-teens.  Multiple antihypertensives given around the clock.  Weaned nipride off with liberalized limits.  PICC and central line in use.
+
+Electrolytes/fluids:
+LR increased overnight to 125/hr by Dr [**Last Name (STitle) 1033**] due to negative fluid balance.  Dr [**Last Name (STitle) **] preferring to stop IV fluids this am.  
+K and magnesium repleted.  PO4 low, to be addressed.
+
+GI:
+NPO, stool x2 overnight, old blood stained, small amounts.
+To start clear diet today.
+
+ID:
+Afebrile, no issues at this time.
+
+Endocrine:
+Normoglycemic.
+
+Skin:
+Yeast-like rash under breasts and groin.  Antifungal cream applied.  Abd incision is clean and dry with staples intact.
+
+Renal:
+Some diuresis remaining from lasix given yesterday.
+
+Social:
+No visitors overnight.
+
+Plan:
+Transfer out.
+
+",,

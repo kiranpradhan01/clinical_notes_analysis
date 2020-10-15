@@ -1,0 +1,227 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14102,3871,,,3292-09-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3292-9-30**]     Discharge Date:  [**3292-10-1**]
+
+Date of Birth:   [**3248-2-18**]     Sex:  F
+
+Service:
+
+CHIEF COMPLAINT:  Transfer from [**Hospital3 3090**] status
+post VF arrest.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 44 year-old
+female with a past medical history of type 1 diabetes status
+post renal and pancreatic explant and peripheral vascular
+disease who presents to [**Hospital3 3090**] at 2:00 a.m. on
+[**9-30**] with abdominal pain.  Hours later she was found to be
+agitated and suddenly arrested.  The patient was shocked at
+200 J and was found to be in complete heart block and was
+given epinephrine times two, rhythm consistent with V tach
+and was shocked at 300 jewels, transitioned into sinus
+tachycardia.  She was loaded on Amiodarone, which
+precipitated hypotension and was started on Dopamine and
+Levophed.  The patient was intubated.  Arterial blood gas on
+intubation 7.11/20/79.  The patient was ventilated at AC
+500/12, FIO2 1.00.  Electrocardiogram at that time showed [**Street Address 4568**] elevations in the anterior lateral leads.  The patient
+was stabilized and transferred to [**Hospital1 1205**] for catheterization.  Echocardiogram prior to
+transfer showed an EF of 25 to 30% with akinesis of the
+anteroseptal and lateral walls.  At catheterization the
+patient had a 70% occlusion of the proximal left anterior
+descending coronary artery with cardiac output 3.13, cardiac
+index of 2.12, PCW 33, PA pressures 58/30.  IABI was placed.
+The patient was transferred to the Coronary Care Unit for
+continued care.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Type 1 diabetes.
+3.  Status post renal cadaveric and pancreatic explant in
+10/93.
+4.  Peripheral vascular disease status post fem [**Doctor Last Name **] bypass
+with a bilateral below the knee amputation.
+5.  Fourth digit amputation of her left hand secondary to
+osteo with coag negative staph and [**Female First Name (un) 929**].
+6.  Status post myocardial infarction in [**3279**].
+7.  Status post total abdominal hysterectomy.
+8.  Sarcoidosis.
+9.  Severe depression.
+10.  Hypothyroidism.
+
+ALLERGIES:  Cipro, Reglan, Erythromycin, Calcitonin.
+
+MEDICATIONS ON TRANSFER:
+1.  Heparin.
+2.  Dopamine.
+3.  Levophed.
+4.  ASA.
+5.  Hydrocort 100 q 8.
+6.  Prevacid.
+7.  CellCept.
+8.  CSA.
+9.  Florinef.
+10.  Amiodarone.
+
+PHYSICAL EXAMINATION:  General, critical ill patient on
+ventilator.  HEENT E tube in correct position with mouth
+block. Drainage from nasogastric tube.  Cardiovascular S1 and
+S2.  Normal, tachycardic.  Respirations coarse breath sounds
+bilaterally, decreased at bases.  Abdomen positive bowel
+sounds, soft.  Extremities status post bilateral below the
+knee amputation, [**Doctor First Name **] distally cool.  No palpable popliteal
+pulses appreciated.  Neurological unresponsive, very sedated.
+
+LABORATORIES FROM OUTSIDE HOSPITAL:  White blood cell count
+16.3, diff segments 79, lymphocytes 13, hematocrit 39,
+platelets 174.  Arterial blood gas on transfer 7.18/35/81, on
+AC 500/5, FIO2 01.0.  K 3.4, glucose 172.  Electrocardiogram
+sinus bradycardia at 55 beats per minute with normal axis and
+intervals, Q waves in 2, 3, [**Street Address 2802**] elevations in V1 and V2.
+Repeat electrocardiogram sinus tach at [**Street Address 10134**] elevations
+4 to 6 mm in AVL and lead 1, V2 through V3.  Tombstone ST
+elevations with a reciprocal inferolateral ST depressions.
+
+The patient became hypotensive times two and was transitioned
+to Dopamine and Levophed requiring 2 amps of epinephrine and
+one amp of bicarb with IABP.  Continued to require aggressive
+pressure support and appropriate monitoring.  The patient
+began having 250 cc output bright red blood per nasogastric
+tube anticoagulation was held on account of likely
+gastrointestinal bleed.  The patient during hypotensive
+episodes required CPR with adequate resuscitation of blood
+pressure and rate.  Subsequent electrocardiograms revealed
+attenuated voltage throughout precordial leads and limb leads
+consistent with severe myocardial injury.  The family was
+called at bedside and informed of guarded prognosis regarding
+the patient's acute myocardial infarction.  Per wishes of
+family supportive care was to be withdrawn with intentions of
+possible tissue donation per organ bank.  The patient
+remained unresponsive to voice, painful stimuli, noxious
+stimuli, pupils fixed without corneal reflexes.  On hospital
+day one IABP was stopped and vent switched to room air.  The
+patient expired on [**3292-10-1**].
+
+CAUSE OF DEATH:
+1.  Acute myocardial infarction.
+2.  Coronary artery disease.
+3.  Type 1 diabetes.
+
+The patient was pronounced dead without evidence of
+spontaneous breathing, absent heart sounds, unreactive
+pupils, organ bank was contacted for possible tissue donation
+post autopsy.
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1645**]
+
+Dictated By:[**Location (un) 10135**]
+
+MEDQUIST36
+
+D:  [**3292-10-2**]  01:16
+T:  [**3292-10-3**]  07:07
+JOB#:  [**Job Number 10136**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**3292-11-19**] 3:00 PM
+(End of Report)
+
+
+",,
+14102,3871,,,3292-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3292-9-30**] 6:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6353**]
+     Reason: eval ETT placement and balloon pump placement               
+     Admitting Diagnosis: ACUTE MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old woman s/p VF arrest and LAD stent                                   
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement and balloon pump placement                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION: S/P VF arrest and placement of LAD stent. Check positions of ETT
+     and intra-aortic balloon pump.
+     
+     FINDINGS: A single AP semi-upright view. Prior comparison studies are not
+     available for comparison due to a PACS difficulty. The ETT tip is at the level
+     of the thoracic inlet, approximately 5 cm above the carina. The intra-aortic
+     balloon pump tip is satisfactorily positioned at the level of the [**4-15**] rib
+     interspace. A transfemoral Swan-Ganz catheter is noted with its tip in the
+     pulmonary artery trunk adjacent to the right pulmonary orifice. An NG tube is
+     noted with its tip just through the esophagogastric junction in the fundus. It
+     could be advanced. There is evidence of moderate left ventricular enlargement,
+     associated with marked upper zone redistribution and bilateral pulmonary
+     interstitial infiltrates mainly in the perihilar regions and upper zones.
+     These findings are consistent with moderate left ventricular failure and
+     pulmonary edema. The costophrenic angles are sharp but subpulmonary effusions
+     cannot be excluded.
+     
+     IMPRESSION: Satisfactory placement of ETT, aortic balloon pump and Swan
+     catheter. The NG tube should be advanced further into the stomach. The
+     findings indicate significant left heart failure.
+
+",,
+14102,,17535,0,3292-10-01 02:36:00 EST,3292-10-01 03:13:00 EST,104,"N",1,"Nursing/Other","CCU progress note 7p-7a","
+CCU progress note 7p-7a
+See Admit/FHP note. 
+EVENTS: Pt arrived on unit ~6pm last evening - hemodynamically unstable on IABP/LEVO/DOPA - requiring 2 amps epi, 1amp Bicarb and 10mg Vit K s/c x1. 
+Integrillin shut off at 7pm d/t bright red blood coming from NGT. No Heparin gtt ordered d/t bleeding. 
+Overnite pt slowly weaned down on Levo + Dopa. IABP 1:1.
+ 
+CODE STATUS: Sister + Parents in to visit last evening - Sister is PROXY - discussed w/ fellow and team that pt would not have wanted to be cathed + vented and on pressors with a IABP - proxy made pt a DNR - no CPR/SHOCKs/or increase in pressors. Decision will probably be made tomorrow by sister/Proxy regarding [**Name2 (NI) 376**] measures/withdrawl of care if deemed appropriate to proxy + family.
+
+NEURO: pt unresponsive. On PROPOFOL @ 30mcg/k/min. pt posturing. no gag noted. does cough when suctioned. impaired corneals. 
+
+ID: TMAX 101.7. Pan cultured. no abx ordered as yet. WBC 28.6
+
+RESP: LS coarse. sx small amts thick bloody secretions. CMV 550x20 100% 10 peep. 7.34/31/78. unable to obtain sats. sat off abg 93%. ETT retaped 23cm @ lip # 7.5mm ETT. 
+
+CARDIAC: ST 130-140s. MAPS 70s on LEVO 0.25mcg/k/min (was 5mcg at 7pm)+ DOPA  16mcg/k/min (was 20mcg at 7pm) - currently weaning down doses. R fem PA line. PAD 20s. CO 3.4 CI 2.04. PA sat 60%. L fem IABP 1:1 good waveform, fair augmentation. INR 2.0 (given Vit K 10mg S/C). HCT 44.1. 
+
+ACCESS: REJ IV patent. 2 PIV R lwr arm. R radial Aline positional. R fem PA line. R fem Aline. L fem IABP. 
+
+GI/GU: foley patent. poor u/o <10cc/hr. HO aware. UA + Cx sent. BUN 40 CR 1.6 Abd soft distended. hypo BS. OGT patent - was draining BRB earlier this evening, con't on LIS w/ coffee ground emesis currently. guiac pos. No stool. NPO. 
+
+ENDO: FS QID. RISS ordered. on stress dose steroids (hyrdocortison) for immunosupressant therapy for transplant - chronic prednisone @ home. 
+
+
+PLAN: DNR status. con't IABP + Pressors. monitor hemodynamics. no other pressors to be added to care. keep pt comfortable. need multi-lumen central-venous access today! monitor HCTs. ?start Heparin sometime today if HCT stable + INR down? con't weaning pressors as tolerated.   
+",,
+14102,,17535,0,3292-10-01 04:27:00 EST,3292-10-01 04:30:00 EST,894,"N",1,"Nursing/Other",,"
+
+RESP CARE: Pt intubated, sedated, on vent. PEEP increased to 10 at start of shift with no change in Pa02. Lungs coarse bilat. No other vent changes at this time.
+",,
+14102,,17535,0,3292-10-01 14:16:00 EST,3292-10-01 14:28:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV-CMO","
+CCU NSG NOTE: ALT IN CV-CMO
+O: For complete VS see CCU flow sheet. 
+STATUS: Pt family in and given pt prior stated wishes to be CMO and pt poor prognosis it has been decided to make pt CMO and withdraw vent and pressures. Parents and sister, who is health care proxy are with pt and when ready with stay with pt when extubated. MSO4 drip has begun and pt will get bolus of versed prn. NE organ bank consulted and pt was not candidate for any donations.
+ID: Temp 103.2R. Tylenol given X 2.
+CV: Pt remains marginally stable on dopamine 8mic/kilo adn levo .15mic/kilo. Last CO/CI 2.7/1.6. PAPs 50/30s.
+RESP: Pt on AC 550 X 18 100% and 10 PEEP with some overbreathing. [**Last Name (un) **] BS. Last gs 7.37/25/ 84/ 15.
+GI: PT conts to have small amts frank blood from stomach. Nothing given per OG tube.
+RENAL: U/O minimal. Pt 1500cc pos.
+NEURO: Pt non responsive to noxious stimuli. Her pupils are sluggishly reactive and she does cough. 
+A: CMO
+P: Support pt and family and ensure pt comfortable.
+
+",,
+14102,,17535,0,3292-10-01 16:04:00 EST,3292-10-01 16:10:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s/o: after family meeting decision made to withdraw life support. sister and parent present. dc'd pressors, iabp decreased to 1:8. pt on mso4 gtt to 10mg w boluses for comfort as well as bolus of versed 5mg.
+pt extubated at 4pm. exp shortly after w family present.
+md pronounced. family declined autopsy.
+contacted cath lab to check on belongings and according to rn present when pt arrived no belongings were with pt. family aware and may contact [**Hospital3 **].
+a/p: pt expired. family aware.
+",,
+14102,,,,3292-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

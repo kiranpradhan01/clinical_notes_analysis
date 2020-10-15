@@ -1,0 +1,975 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14250,,,,2855-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-10-14**] 3:57 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 7885**]
+     Reason: EVAL FOR CHOLANGITIS
+     Admitting Diagnosis: AML-FEVER-NEUTROPENIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with mds and thallesemia.  acute right upper quadrant pain. hx 
+      of gall stones. 
+     REASON FOR THIS EXAMINATION:
+      r/o cholangitis                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old man with myelodysplastic syndrome and thalassemia,
+     now with acute right upper quadrant pain.
+     
+     COMPARISONS:  None.
+     
+     FINDINGS:  The liver shows no focal or textural abnormalities.  No focal
+     masses are identified within the liver.  There is a tiny rounded hypoechoic
+     area seen in the right liver consistent with simple cyst.  A small hyperechoic
+     focus is seen within the gallbladder consistent with stone.  Some sludge is
+     also seen within the gallbladder and there is a tiny amount of gallbladder
+     wall edema with some distention of the gallbladder.  The common duct appears
+     within normal range for patient's age.  The right kidney measures 10.7 cm. The
+     left kidney measures 10.4 cm.  There is no hydronephrosis or stones.  The
+     spleen appears enlarged, measuring approximately 20 cm.  The tail of pancreas
+     is not well visualized, however, the head of the pancreas appears
+     unremarkable. Where visualized, the aorta appears of normal caliber.
+     
+     IMPRESSION:
+     1.  Gallstone and some sludge seen within the gallbladder, along with a
+     minimal amount of wall edema.  These findings may be seen in a number of
+     conditions including conditions that cause third spacing of fluid or possibly
+     cholecystitis.  Clinical correlation is suggested.
+     
+     2.  Splenomegaly.
+     
+     3.  Simple liver cyst.
+     
+     
+
+",,
+14250,,,,2855-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-10-15**] 8:24 AM
+     MRCP (MR ABD W&W/OC); MR CONTRAST GADOLIN                       Clip # [**Clip Number (Radiology) 7886**]
+     MR RECONSTRUCTION IMAGING
+     Reason: r/o choledocholithiasis                                     
+     Admitting Diagnosis: AML-FEVER-NEUTROPENIA
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with RUQ pain, elevated bilirubin, and known MDS.               
+     REASON FOR THIS EXAMINATION:
+      r/o choledocholithiasis                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper quadrant pain and elevated bilirubin in patient with
+     myelodysplastic syndrome.
+     
+     TECHNIQUE:  Multiplanar HASTE, axial T1 in- and out-of-phase, axial STIR, 2D
+     time-of-flight, slab T2 cholangiogram imaging, as well as 3D fat sat T1-
+     weighted imaging without and with intravenous contrast.
+     
+     Comparison is made to a prior ultrasound performed on [**2855-10-14**].
+     
+     FINDINGS:  There is diffuse low signal intensity within the liver and spleen
+     that is consistent with iron deposition from prior blood transfusions
+     (hemosiderosis).  A 5 millimeter hemangioma is identified within the inferior
+     right lobe of the liver.  No other liver lesions or intra or extrahepatic
+     biliary ductal dilatation is seen.  No filling defects are identified within
+     the common duct.  The spleen is enlarged.  A small amount of intra-abdominal
+     ascites is seen.  The visualized portions of both kidneys, the adrenal glands,
+     the pancreas, and the visualized portions of bowel are within normal limits.
+     
+     There is diffuse gallbladder wall edema with several small gallstones
+     measuring less than 5 mm in greatest dimension.  There is no evidence of
+     hyperemia within the hepatic parenchyma of the adjacent gallbladder fossa(a
+     specific sign of acute cholecystitis). Some increased enhancement is seen
+     within the gallbladder wall with no evidence of necrosis.
+     
+     IMPRESSION:
+     
+     1.  Cholelithiasis with gallbladder wall edema and gallbladder distention.
+     These findings are nonspecific and could be seen with acute cholecystitis or
+     as a sequela of the patient's known hypoalbuminemia, liver dysfunction, or
+     hypervolemia.
+     2.  Hemosiderosis.
+     3.  Splenomegaly.
+     4.  Trace amount of intra-abdominal ascites.
+     
+                                                                 (Over)
+
+     DATE: [**2855-10-15**] 8:24 AM
+     MRCP (MR ABD W&W/OC); MR CONTRAST GADOLIN                       Clip # [**Clip Number (Radiology) 7886**]
+     MR RECONSTRUCTION IMAGING
+     Reason: r/o choledocholithiasis                                     
+     Admitting Diagnosis: AML-FEVER-NEUTROPENIA
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14250,,,,2855-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-10-15**] 8:24 AM
+     MRCP (MR ABD W&W/OC); MR CONTRAST GADOLIN                       Clip # [**Clip Number (Radiology) 7886**]
+     MR RECONSTRUCTION IMAGING
+     Reason: r/o choledocholithiasis                                     
+     Admitting Diagnosis: AML-FEVER-NEUTROPENIA
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with RUQ pain, elevated bilirubin, and known MDS.               
+     REASON FOR THIS EXAMINATION:
+      r/o choledocholithiasis                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper quadrant pain and elevated bilirubin in patient with
+     myelodysplastic syndrome.
+     
+     TECHNIQUE:  Multiplanar HASTE, axial T1 in- and out-of-phase, axial STIR, 2D
+     time-of-flight, slab T2 cholangiogram imaging, as well as 3D fat sat T1-
+     weighted imaging without and with intravenous contrast.
+     
+     Comparison is made to a prior ultrasound performed on [**2855-10-14**].
+     
+     FINDINGS:  There is diffuse low signal intensity within the liver and spleen
+     that is consistent with iron deposition from prior blood transfusions
+     (hemosiderosis).  A 5 millimeter hemangioma is identified within the inferior
+     right lobe of the liver.  No other liver lesions or intra or extrahepatic
+     biliary ductal dilatation is seen.  No filling defects are identified within
+     the common duct.  The spleen is enlarged.  A small amount of intra-abdominal
+     ascites is seen.  The visualized portions of both kidneys, the adrenal glands,
+     the pancreas, and the visualized portions of bowel are within normal limits.
+     
+     There is diffuse gallbladder wall edema with several small gallstones
+     measuring less than 5 mm in greatest dimension.  There is no evidence of
+     hyperemia within the hepatic parenchyma of the adjacent gallbladder fossa(a
+     specific sign of acute cholecystitis). Some increased enhancement is seen
+     within the gallbladder wall with no evidence of necrosis.
+     
+     IMPRESSION:
+     
+     1.  Cholelithiasis with gallbladder wall edema and gallbladder distention.
+     These findings are nonspecific and could be seen with acute cholecystitis or
+     as a sequela of the patient's known hypoalbuminemia, liver dysfunction, or
+     hypervolemia.
+     2.  Hemosiderosis.
+     3.  Splenomegaly.
+     4.  Trace amount of intra-abdominal ascites.
+     
+                                                                 (Over)
+
+     DATE: [**2855-10-15**] 8:24 AM
+     MRCP (MR ABD W&W/OC); MR CONTRAST GADOLIN                       Clip # [**Clip Number (Radiology) 7886**]
+     MR RECONSTRUCTION IMAGING
+     Reason: r/o choledocholithiasis                                     
+     Admitting Diagnosis: AML-FEVER-NEUTROPENIA
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14250,,,,2855-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-10-15**] 8:24 AM
+     MRCP (MR ABD W&W/OC); MR CONTRAST GADOLIN                       Clip # [**Clip Number (Radiology) 7886**]
+     MR RECONSTRUCTION IMAGING
+     Reason: r/o choledocholithiasis                                     
+     Admitting Diagnosis: AML-FEVER-NEUTROPENIA
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with RUQ pain, elevated bilirubin, and known MDS.               
+     REASON FOR THIS EXAMINATION:
+      r/o choledocholithiasis                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper quadrant pain and elevated bilirubin in patient with
+     myelodysplastic syndrome.
+     
+     TECHNIQUE:  Multiplanar HASTE, axial T1 in- and out-of-phase, axial STIR, 2D
+     time-of-flight, slab T2 cholangiogram imaging, as well as 3D fat sat T1-
+     weighted imaging without and with intravenous contrast.
+     
+     Comparison is made to a prior ultrasound performed on [**2855-10-14**].
+     
+     FINDINGS:  There is diffuse low signal intensity within the liver and spleen
+     that is consistent with iron deposition from prior blood transfusions
+     (hemosiderosis).  A 5 millimeter hemangioma is identified within the inferior
+     right lobe of the liver.  No other liver lesions or intra or extrahepatic
+     biliary ductal dilatation is seen.  No filling defects are identified within
+     the common duct.  The spleen is enlarged.  A small amount of intra-abdominal
+     ascites is seen.  The visualized portions of both kidneys, the adrenal glands,
+     the pancreas, and the visualized portions of bowel are within normal limits.
+     
+     There is diffuse gallbladder wall edema with several small gallstones
+     measuring less than 5 mm in greatest dimension.  There is no evidence of
+     hyperemia within the hepatic parenchyma of the adjacent gallbladder fossa(a
+     specific sign of acute cholecystitis). Some increased enhancement is seen
+     within the gallbladder wall with no evidence of necrosis.
+     
+     IMPRESSION:
+     
+     1.  Cholelithiasis with gallbladder wall edema and gallbladder distention.
+     These findings are nonspecific and could be seen with acute cholecystitis or
+     as a sequela of the patient's known hypoalbuminemia, liver dysfunction, or
+     hypervolemia.
+     2.  Hemosiderosis.
+     3.  Splenomegaly.
+     4.  Trace amount of intra-abdominal ascites.
+     
+                                                                 (Over)
+
+     DATE: [**2855-10-15**] 8:24 AM
+     MRCP (MR ABD W&W/OC); MR CONTRAST GADOLIN                       Clip # [**Clip Number (Radiology) 7886**]
+     MR RECONSTRUCTION IMAGING
+     Reason: r/o choledocholithiasis                                     
+     Admitting Diagnosis: AML-FEVER-NEUTROPENIA
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14250,,,,2855-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-10-16**] 4:40 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7887**]
+     Reason: ? infection                                                 
+     Admitting Diagnosis: AML-FEVER-NEUTROPENIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with MDS, presented with RUQ abdominal pain, fever, which 
+      resolved, now febrile again on antibiotics.
+     REASON FOR THIS EXAMINATION:
+      ? infection                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Febrile, question infection.
+     
+     CHEST, TWO VIEWS.
+     
+     The heart is not enlarged.  The lungs are hyperinflated and there is
+     distortion of the parenchyma, consistent with COPD.  There is patchy opacity
+     at left greater than right bases, with a background reticular nodular pattern.
+     No frank consolidation, CHF or effusion is identified.  A 10-mm nodular
+     density overlies the right lung base, new or better appreciated on today's
+     exam.  Tiny density in the right upper zone peripherally is less well
+     appreciated on today's study. Mild prominence of hila is noted.
+     Although the mdiastinum is not enlarged, the [**2855-2-9**] CT scan described some
+     mediastinal lymphadenopathy.
+     
+     IMPRESSIONl
+     
+     1) Patchy opacities - differential diagnosis includes scarring or early
+     infiltrate.  Possibility of an atypical infectious [**Doctor Last Name 116**] should be considered.
+     Recommend followup imaging to confirm resolution.
+     
+     2) CT may be helpful to further assess the nodular density at the right base.
+
+",,
+14250,27759,,,2855-11-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2855-11-3**]              Discharge Date:   [**2855-11-30**]
+ 
+Date of Birth:  [**2788-8-18**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Hayfever / Platelet Concentrate Infusion
+ 
+Attending:[**First Name3 (LF) 2446**] 
+Chief Complaint:
+fever and neutropenia
+ 
+Major Surgical or Invasive Procedure:
+bronchoscopy
+ 
+History of Present Illness:
+67 y/o M with acquired thalassemia MDS who is s/p a single cycle 
+of 5-azacytidine with neutropenia who was in USOH until this 
+evening when he noted temp to 102.8. He notes a nonproductive 
+cough for several wks unchanged from usual ""asthma"" during cold 
+weather. No SOB or DOE or chest pain. No abd 
+pain/diarrhea/n/v/rectal pain. No dysuria/urgency/frequency. 
+Mild  intermittent headaches - no neck stiffness/pain, 
+photophobia, or confusion.  
+
+Of note, he was recently admitted in 10/05 for acute 
+cholecystitis with possible choledocholithiasis based on 
+persistently elevated alk phos and transient obstructive biliary 
+pattern representing past stone. Treated medically, and surgery 
+deferred by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] based on low plt and WBC. His 
+presenting symptoms at that time was acute onset RUQ pain and 
+rigors.  
+
+ROS: scraped head on door while packing to come to hospital. 
+Bleeding slowed down but still oozing. Denies significant impact 
+to head and no confusion, weakness, or numbness, n/v since 
+injury. 
+ 
+Past Medical History:
+Onc Hx: He was diagnosed with AT-MDS in [**2854-4-18**]. Presented with 
+anemia, low MCV.  Diagnosed with acquired alpha-thalassemia MDS, 
+has required chronic biweekly, now weekly transfusions.  In 
+[**2855-8-19**] the patient was started on 5-azacytadine. 
+
+1. AT-MDS diagnosed [**2854-3-19**]. Increased blast forms in the 
+bone marrow likely evolved from a prior MPD/ MDS. 
+2. Acquired Alpha Thalessemia (Hemoglobin H) 
+3. Nocturia, chronic problem. 
+4. Urinary frequency, chronic problem. 
+5. Steroid induced Psychosis
+
+ 
+Social History:
+Patient worked in a foundry.  He is married.Denies alcohol or 
+tobacco use.
+
+ 
+Family History:
+No history of heme malignancies.
+ 
+Physical Exam:
+vs: Tm 100.5 Tc 99.5, 127/69, p99 (99-102), rr 12-16, 96% RA  
+gen: nontoxic, well  
+skin: no rash; multiple ecchymoses  
+heent: abrasion over top of scalp; still oozing but slow; clot 
+attached; no erytema, minimal tenderness. eomi, perrla, 
+oropharynx without erythema, no mucocitis, neck supple  
+lungs: bibasilar crackles with focal crackles left middle lung 
+zone, occasional wheeze diffuse.  
+cv: hyperdynamic, s1/s2, tachycardic, systolic ejection murmur 
+loudest over LSB, no rubs or gallop.  
+abd: round, nabs, soft, nttp, (+)splenomegaly, no rebound, no 
+hernia  
+rectum: rectal not performed. no perianal tenderness on external 
+palpation. no fistula.   
+ext: no c/c/e, dp 2+, warm and dry  
+neuro: cn2-12 intact, motor [**4-22**] UMN, sensation intact light 
+touch  
+
+ 
+Pertinent Results:
+CT head [**11-3**]: No acute intracranial hemorrhage.
+.
+CXR [**11-3**]: IMPRESSION: Possible new small area of consolidation 
+in region of lingula at site of chronic change in this location. 
+Correlate clinically and with follow up after therapy if there 
+is clinical suggestion of new pneumonia. 
+.
+CXR [**11-5**]: IMPRESSION: Worsening multifocal opacity indicating 
+invasive aspergillosis. Mild volume overload or pulmonary edema.
+.
+CT chest [**11-5**]: IMPRESSION: Multifocal confluent opacities 
+bilaterally, with an appearance consistent with a multifocal 
+bronchopneumonia. There are associated small bilateral pleural 
+effusions and multiple prominent mediastinal lymph[**MD Number 285**].
+
+[**2855-11-3**] 02:20AM BLOOD WBC-0.4* RBC-3.15* Hgb-9.4* Hct-25.6* 
+MCV-81* MCH-29.7 MCHC-36.5*# RDW-14.8 Plt Ct-8*#
+[**2855-11-30**] 12:00AM BLOOD WBC-0.1* RBC-2.86* Hgb-8.3* Hct-25.7* 
+MCV-90 MCH-29.1 MCHC-32.4 RDW-14.0 Plt Ct-11*#
+[**2855-11-9**] 07:40AM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**2855-11-9**] 07:40AM BLOOD Neuts-0* Bands-0 Lymphs-85* Monos-0 Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Plasma-15*
+[**2855-11-24**] 12:00AM BLOOD Fibrino-393#
+[**2855-11-4**] 05:50AM BLOOD [**Last Name (un) **] Ct-20*
+[**2855-11-30**] 12:00AM BLOOD [**Last Name (un) **] Ct-10*
+[**2855-11-3**] 02:20AM BLOOD Glucose-122* UreaN-20 Creat-0.7 Na-131* 
+K-4.5 Cl-97 HCO3-23 AnGap-16
+[**2855-11-30**] 12:00AM BLOOD Glucose-161* UreaN-31* Creat-0.7 Na-137 
+K-4.3 Cl-101 HCO3-31 AnGap-9
+[**2855-11-5**] 06:38AM BLOOD ALT-56* AST-43* LD(LDH)-120 AlkPhos-70 
+TotBili-0.8
+[**2855-11-24**] 12:00AM BLOOD ALT-17 AST-17 LD(LDH)-99 AlkPhos-141* 
+TotBili-0.6
+[**2855-11-4**] 05:50AM BLOOD Albumin-2.9* Calcium-7.9* Phos-4.1 Mg-2.0
+[**2855-11-24**] 12:00AM BLOOD Albumin-2.1* Calcium-7.4* Phos-3.7 
+Mg-1.5*
+[**2855-11-20**] 12:15AM BLOOD Osmolal-274*
+[**2855-11-12**] 05:15PM BLOOD TSH-2.7
+[**2855-11-5**] 06:38AM BLOOD IgG-1363 IgA-435* IgM-114
+ 
+Brief Hospital Course:
+# Fever and neutropenia - pt presented with fever to 102's, 
+associated with cough, which patient attributes to seasonal 
+asthma exacerbation. Initial CXR showed an early LLL infiltrate 
+suspicious for pneumonia.  He was started on cefepime and 
+azithromycin.  He continued to be febrile and vancomycin was 
+added.  After patient continued to be febrile for 2 days, a 
+repeat CXR was performed showing progression of the LLL process 
+as well as a new infiltrate in the RUL, concerning for a fungal 
+process.  Pt was started on Ambisome after several sputums were 
+sent as well as serum antigens for histoplasma, galactomannan, 
+and aspergillus.  In addition, pulmonary consult was obtained 
+and patient was scheduled for bronchoscopy.  Broncoscopy did not 
+provide definitive diagnosis, and pt's multifocal pneumonia 
+continued to progress (by CXR and CT).  The pneumonia was then 
+thought to be secondary to invasive aspergillosis by its 
+appearance on CT.  A previously sent galacomannin then came back 
+positive, and the pt was started on double coverage for fungal 
+infection with ambisome and voriconazole.  The dose of the 
+voriconazole was titrated upward per infectious disease 
+recommendations.  Pt had been on meropenem for febrile 
+neutropenia, however this was d/c'd, as it was not providing 
+clear benefit.  Pt was continued on levofloxacin and 
+prophylactic doses of bactrim.  His lung disease progressed, and 
+the pt had increasing episodes of hemoptysis for which he 
+received frequent platelet transfusions.  In the days prior to 
+his death, he had 2 blood culture bottle growing 
+corynebacterium, and vancomycin was started until sensitivities 
+returned.  He continued to have temperature elevations to 102 
+without any other sources identified on blood/urine cultures or 
+on imaging.  
+.
+# ATMDS - continued on low dose prednisone and support of blood 
+counts with transfusions for Hct <25 and plt <50 (for active 
+hemoptysis).  Initially this was increased to 5mg PO TID for the 
+worsening pulmonary status, however this was reduced to 5mg 
+daily after he complained of hallucinations and an ""expanded 
+mind."" These symptoms resolved after 0.5 mg of zyprexa daily for 
+3 days.  In addition, we continued his maintenance dose of 
+allopurinol.  Pt's ANC did not recover, and he remained 
+neutropenic during the admission, spiking frequent fevers.  He 
+was given doses of GCSF and GM-CSF, without improvement.  
+.
+# Hypoxia - had acute exacerbation from invasive aspergillosis 
+infxn. Required IV steroids and had improved initially - given 
+for a little more than 24hrs.  Then switched to PO prednisone 
+60mg qd and planned to taper over 2 weeks.  However, w/ decrease 
+to 40mg over 3 days, had worsening respiratory function.  He 
+required a higher dose of predisone, ATC nebs and IV lasix to 
+keep his O2 sat >90%.  In the day prior to his death, his O2 sat 
+dropped from 95% on 3L NC to 97% on NRB.  
+.
+# confusion - Pt had multiple instances when he was thought to 
+be confused by his family and nursing staff.  Pt denied being 
+confused or having any difficulty w/ speaking.  On exam, he had 
+no neurologic deficits and feels well.  Stroke was unlikely as 
+he has no risk factors (htn, diabetes, hyperlipidemia) except 
+for his age; in addition, he had no residual deficits.  He was 
+noted, however, to be hyponatremic at 131.  He had a few low 
+values during this admission, but mostly was in normal ranges.  
+Urine Osm >100 and urine Na >40 which suggests euvolemic 
+hyponatremia from SIADH.  Both sodium level and mental status 
+improved w/ free fluid restriction.
+.
+# elevated INR:  Pt's INR persistently ranged from 1.3 - 1.7 
+despite multiple doses of vit K in oral/SC/IV forms.  Possible 
+that his liver was not utilizing vitamin K to produce 
+coagulation factors.
+.
+# Scalp abrasion - pt scraped his head on the way to the 
+hospital.  He denied any pain, although did have some ongoing 
+oozing.  Given his thrombocytopenia, a head CT was done, which 
+was negative for any head bleeds.  He received platelets and the 
+bleeding stopped.
+.
+--FEN - neutropenic diet, repleted lytes as needed
+.
+--PPX - ambulate, bactrim
+.  
+--Code: DNR/DNI - pt died after having increasing oxygen 
+requirement, pain, decreasing blood pressure, and he became 
+unarousable.  Morphine drip was started w/ consent from HCP, 
+wife [**First Name8 (NamePattern2) 10362**] [**Known patient lastname 10363**], and he died within several hours.
+
+ 
+Medications on Admission:
+5-azacytidine  
+allopurinol 150mg qd  
+prednisone 5mg po tid  
+levaquin 500mg po qd  
+bactrim DS TIW  
+albuterol inhaler  
+
+ 
+Discharge Medications:
+deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+acquired thalassemia
+myelodysplastic syndrome
+aspergillosis
+asthma
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+deceased
+ 
+Followup Instructions:
+deceased
+ 
+                             [**First Name11 (Name Pattern1) 1168**] [**Last Name (NamePattern4) 2447**] MD [**MD Number 2448**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number 6006**] [**2855-12-5**] @ 1526
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 1168**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: [**First Name8 (NamePattern2) 1125**] [**2856-1-18**] 9:53 AM
+(End of Report)
+
+
+",,
+14250,27759,,,2855-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-3**] 3:29 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7888**]
+     Reason: please eval for infiltrate                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old man with MDS, presented with neutropenic fever, cough              
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old man with myelodysplastic syndrome presenting with
+     neutropenic fever, cough.  Evaluate.
+     
+     COMPARISON:  PA and lateral chest x-ray dated [**2855-10-16**].
+     
+     PA AND LATERAL CHEST X-RAY:  The cardiac silhouette, mediastinal and hilar
+     contours are stable. The pulmonary vasculature is normal. Patchy opacity is
+     seen  the left lower zone probably in the lingula, present on prior studies
+     but appears slightly prominent than on prior exam. No nodules or masses are
+     detected. There are no effusions bilaterally. The surrounding soft tissue and
+     osseous structures are stable.
+     
+     IMPRESSION: Possible new small area of consolidation in region of lingula at
+     site of chronic change in this location. Correlate clinically and with follow
+     up after therapy if there is clinical suggestion of new pneumoniA. 
+
+",,
+14250,27759,,,2855-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-3**] 2:45 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7889**]
+     Reason: rule out intracranial bleed/SAH                             
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with thrombocytopenia (Plt 8) s/p head trauma + headache        
+     REASON FOR THIS EXAMINATION:
+      rule out intracranial bleed/SAH                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old with thrombocytopenia, post-fall, assess for
+     intracranial hemorrhage.
+     
+     COMPARISON:  [**2854-9-4**].
+     
+     TECHNIQUE:  CT of the brain without IV contrast.
+     
+     FINDINGS:  There is no acute intracranial hemorrhage, shift of normally
+     midline structures, or hydrocephalus.  [**Doctor Last Name **]-white matter differentiation is
+     preserved.
+     Osseous structures and soft tissues are unremarkable.  There is
+     circumferential mucosal thickening seen within the left maxillary sinus as
+     well as within the left ethmoidal air cells, which is increased compared to
+     the prior examination.
+     
+     IMPRESSION:
+     
+     No acute intracranial hemorrhage.
+                                                                           DFDgf
+
+",,
+14250,27759,,,2855-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-5**] 10:42 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7890**]
+     Reason: please evaluate progression of lingular pneumonia           
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old man with MDS, with neutropenic fever, early pneumonia on previous 
+      x-ray, continues to be febrile.
+     REASON FOR THIS EXAMINATION:
+      please evaluate progression of lingular pneumonia                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS
+     
+     INDICATION:  67-year-old man with MDS, neutropenic fever, pneumonia.
+     
+     COMMENTS:  PA and lateral radiographs of the chest are reviewed, and compared
+     with the previous study dated [**2855-11-3**].
+     
+     There is increase in multifocal opacities involving the right upper lobe and
+     left lower lobe indicating worsening invasive aspergillosis in this patient
+     with neutropenia.
+     
+     There is prominence of the pulmonary vasculature indicating volume overload or
+     mild congestive heart failure.  No evidence of pneumothorax is identified.
+     
+     IMPRESSION:  Worsening multifocal opacity indicating invasive aspergillosis. 
+     Mild volume overload or pulmonary edema.
+                                                                           
+
+",,
+14250,27759,,,2855-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-5**] 6:17 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 7891**]
+     Reason: FEBRILE NEUTROPENIA
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with febrile neutropenia, mutiple infiltrates on CXR.           
+     REASON FOR THIS EXAMINATION:
+      ? fungal pneumonia                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of febrile neutropenia with multiple infiltrates on chest
+     x-ray, evaluate for pneumonia.
+     
+     COMPARISON:  [**2855-11-9**] and [**2854-9-1**].
+     
+     TECHNIQUE:  MDCT-acquired contiguous axial images were obtained from the
+     thoracic inlet through the pubic symphysis.
+     
+     CONTRAST:  100 cc of IV Optiray contrast was administered due to the rapid
+     rate of bolus injection required for this study.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  Soft tissue window images demonstrate
+     multiple mediastinal lymph nodes, in the right peritracheal, paraortic,
+     pretracheal, subcarinal, and paraesophageal positions.  Additionally, there
+     are lymph nodes present in the perihilar areas.  Several of these are enlarged
+     by CT criteria.  The largest of these is in the subcarinal position, measuring
+     3.6 x 1.6 cm.  Bilateral small pleural effusions are noted.  The great vessels
+     in the heart are normal in appearance.  Lung window images demonstrate
+     multiple areas of confluent opacities bilaterally, in the upper and lower
+     lobes.  Additionally, chronic changes within the left lingula are again seen.
+     There are several areas of tree-in-[**Male First Name (un) 793**] opacity noted in the right upper lobe
+     as well.
+     
+     There are limited images of the superior abdominal structures.  There are
+     several hypodensities within the liver, and a single hypodensity within the
+     spleen which are too small to characterize, both were present on the prior
+     study of [**2854-9-1**] and are unchanged.  The limited portions of the adrenal
+     glands, kidneys, pancreas, and gallbladder that are visualized are
+     unremarkable.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     Degenerative changes are seen within the thoracic spine.
+     
+     IMPRESSION:  Multifocal confluent opacities bilaterally, with an appearance
+     consistent with a multifocal bronchopneumonia.  There are associated small
+     bilateral pleural effusions and multiple prominent mediastinal lymph nodes.
+                                                                 (Over)
+
+     DATE: [**2855-11-5**] 6:17 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 7891**]
+     Reason: FEBRILE NEUTROPENIA
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14250,27759,,,2855-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-5**] 6:17 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 7891**]
+     Reason: FEBRILE NEUTROPENIA
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with febrile neutropenia, mutiple infiltrates on CXR.           
+     REASON FOR THIS EXAMINATION:
+      ? fungal pneumonia                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of febrile neutropenia with multiple infiltrates on chest
+     x-ray, evaluate for pneumonia.
+     
+     COMPARISON:  [**2855-11-9**] and [**2854-9-1**].
+     
+     TECHNIQUE:  MDCT-acquired contiguous axial images were obtained from the
+     thoracic inlet through the pubic symphysis.
+     
+     CONTRAST:  100 cc of IV Optiray contrast was administered due to the rapid
+     rate of bolus injection required for this study.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  Soft tissue window images demonstrate
+     multiple mediastinal lymph nodes, in the right peritracheal, paraortic,
+     pretracheal, subcarinal, and paraesophageal positions.  Additionally, there
+     are lymph nodes present in the perihilar areas.  Several of these are enlarged
+     by CT criteria.  The largest of these is in the subcarinal position, measuring
+     3.6 x 1.6 cm.  Bilateral small pleural effusions are noted.  The great vessels
+     in the heart are normal in appearance.  Lung window images demonstrate
+     multiple areas of confluent opacities bilaterally, in the upper and lower
+     lobes.  Additionally, chronic changes within the left lingula are again seen.
+     There are several areas of tree-in-[**Male First Name (un) 793**] opacity noted in the right upper lobe
+     as well.
+     
+     There are limited images of the superior abdominal structures.  There are
+     several hypodensities within the liver, and a single hypodensity within the
+     spleen which are too small to characterize, both were present on the prior
+     study of [**2854-9-1**] and are unchanged.  The limited portions of the adrenal
+     glands, kidneys, pancreas, and gallbladder that are visualized are
+     unremarkable.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     Degenerative changes are seen within the thoracic spine.
+     
+     IMPRESSION:  Multifocal confluent opacities bilaterally, with an appearance
+     consistent with a multifocal bronchopneumonia.  There are associated small
+     bilateral pleural effusions and multiple prominent mediastinal lymph nodes.
+                                                                 (Over)
+
+     DATE: [**2855-11-5**] 6:17 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 7891**]
+     Reason: FEBRILE NEUTROPENIA
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14250,27759,,,2855-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-6**] 10:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7892**]
+     Reason: eval for change in PNA, PTX                                 
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with MDS, neutropenia, now with chest pain                      
+     REASON FOR THIS EXAMINATION:
+      eval for change in PNA, PTX                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  Neutropenia, now with chest pain.
+     
+     Chest portable AP upright chest film at 11:10 p.m. is compared to previous
+     examination of [**2855-11-5**].  There is increased left lingular and right
+     upper lobe consolidation with new focal consolidation in right midlung.
+     There are bilateral small pleural effusions.
+     
+     IMPRESSION:  Progression of multifocal pneumonia since the previous
+     examination of [**2855-11-5**].
+
+             DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+",,
+14250,27759,,,2855-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-10**] 1:24 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7893**]
+     Reason: evaluate for prorgession of pneumonia.                      
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         67 year old man with MDS, with neutropenic fever, pneumonia on previous 
+      x-rays, continues to be febrile.
+     REASON FOR THIS EXAMINATION:
+      evaluate for prorgession of pneumonia.                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Left lower lobe pneumonia, evaluate for change.  Continues
+     to be febrile.
+     
+     CHEST  AP: Today's film is somewhat better penetrated. Patchy infiltrates are
+     present in all areas of the chest essentially unchanged in size and
+     distribution since the prior chest x-ray.  A right pleural effusion is now
+     present which was not seen on the prior ultrasound.  This could be due to the
+     pneumonia but a degree of failure may also be present.
+     
+     IMPRESSION:  Persistent infiltrates in both lungs.  New onset right pleural
+     effusion.
+                                                                           
+
+",,
+14250,27759,,,2855-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-12**] 4:22 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7894**]
+     Reason: evaluate infiltrates                                        
+     Admitting Diagnosis: FEVER
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old man with febrile neutropenia, mutiple infiltrates.  Evaluate for 
+      progression of pneumonia.
+     REASON FOR THIS EXAMINATION:
+      evaluate infiltrates                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE CHEST WITHOUT CONTRAST:
+     
+     INDICATION:  67-year-old man with fever and neutropenia.
+     
+     COMMENTS:  Unenhanced CT scan of the chest was performed without the
+     administration of contrast media.  Spiral CT scan was performed encompassing
+     both lungs.
+     
+     Comparison was made with the previous CT scan dated [**2855-11-5**].
+     
+     The previously identified bilateral multifocal consolidation has progressed.
+     Bilateral multifocal opacities involving the left lower lobe, left upper lobe,
+     right upper lobe, right middle lobe and right lower lobe have increased. There
+     is increased bilateral pleural effusion.  In this patient with neutropenia,
+     these findings most likely indicate invasive aspergillosis, which has
+     progressed.
+     
+     There is small pericardial effusion.  There are multiple scattered lymph nodes
+     throughout the mediastinum, which were present in the previous study.  The
+     bilateral pleural effusion appears somewhat loculated.
+     
+     Again, note is made of mild coronary artery calcification.
+     
+     Again, note is made of marked splenomegaly, which is there due to the
+     patient's underlying disorder.
+     
+     No apparent osseous abnormality is identified.
+     
+     IMPRESSION:
+     
+     1.  Progression of bilateral multifocal pneumonia, probably invasive
+     aspergillosis in this patient with neutropenia.  Increased bilateral pleural
+     effusion, which is somewhat loculated.
+     
+     The information was communicated with Dr. [**Last Name (STitle) 7895**].
+     
+     ADDENDUM:  Again, note is made of a small low density area within the right
+     lobe of the liver, which is not changed.  There are several small gallstones
+     within the gallbladder.
+                                                                 (Over)
+
+     DATE: [**2855-11-12**] 4:22 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7894**]
+     Reason: evaluate infiltrates                                        
+     Admitting Diagnosis: FEVER
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14250,27759,,,2855-11-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-16**] 11:03 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 7896**]
+     Reason: confirm PICC placement.                                     
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old man with MDS, neutropenia, s/p PICC placement.                     
+     REASON FOR THIS EXAMINATION:
+      confirm PICC placement.                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 11:04 A.M. [**11-16**].
+     
+     HISTORY:  Neutropenia.  Line placement.
+     
+     IMPRESSION:  AP chest compared to [**11-10**]:
+     
+     New left PICC line, tip in the SVC.
+     
+     Much more severe consolidation has developed in both the lingula and right
+     upper lobe obscuring previous small discrete linear and nodular opacities.
+     Small bilateral pleural effusions are stable on the right and increased on the
+     left and there is new perihilar opacification seen in the left upper lung
+     which may represent moderate pulmonary edema rather than additional foci of
+     infection.  Cardiac silhouette is no larger than it was previously, either
+     normal or mildly enlarged.  Dr. [**Last Name (STitle) 7897**] and I discussed these findings, at
+     the time of dictation.
+
+",,
+14250,27759,,,2855-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-20**] 2:37 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7898**]
+     Reason: eval for effusions, worsening edema.                        
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old man with MDS, neutropenia, s/p PICC placement.   now with 
+      hypoxia.                  
+     REASON FOR THIS EXAMINATION:
+      eval for effusions, worsening edema.                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**2855-11-20**] AT 03:58.
+     
+     INDICATION:  PICC placement and hypoxia.
+     
+     COMPARISON:  [**2855-11-16**].
+     
+     FINDINGS:
+     Extensive airspace disease unchanged in left lung and there is slight improved
+     aeration in the right upper lung.  No new areas of involvement are identified.
+     The left PICC line remains appropriately placed with tip in SVC.  No PTX.
+     
+     IMPRESSION:
+     Slight increased aeration in the right upper lobe - otherwise no significant
+     change.
+                                                                           
+
+",,
+14250,27759,,,2855-11-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-11-24**] 10:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7899**]
+     Reason: Please eval for acute cardiopulmonary process               
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         67 year old man with MDS, neutropenia, s/p PICC placement.   now with  
+      hypoxia.                  
+     REASON FOR THIS EXAMINATION:
+      Please eval for acute cardiopulmonary process                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, ONE VIEW, PORTABLE
+     
+     INDICATION:  67-year-old man with MDS and neutropenia.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the previous study of [**11-20**]. 2005.
+     
+     The tip of the left-sided PICC line is identified in the superior vena cava. 
+     No pneumothorax is identified.
+     
+     There is slight increase in mild congestive heart failure with cardiomegaly
+     and small bilateral pleural effusion.  There is continued bilateral multifocal
+     opacity involving the left lower lobe, right upper lobe, and right lower lobe
+     indicating invasive aspergillosis in this patient with neutropenia.
+                                                                           
+
+",,

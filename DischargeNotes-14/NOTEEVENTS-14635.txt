@@ -1,0 +1,170 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14635,25685,,,3078-07-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3078-7-26**]              Discharge Date:   [**3078-7-28**]
+ 
+Date of Birth:  [**3001-7-18**]             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2656**] 
+Chief Complaint:
+turp
+ 
+Major Surgical or Invasive Procedure:
+turp
+ 
+History of Present Illness:
+Admitted for TURP.  Uneventful surgery, spinal anesthetic.  
+Taken to PACU where he had 2 episodes of hypotension and 
+bradycardia.  He require .4 mg atropine for a brief pulseless 
+episode postop.  Symptoms resolved when foley was taken out of 
+traction.  He had a second similar episode but did not require 
+atropine the second time.  Serial ekgs were normal and his 
+cardiac enzymes were negative X 3.  Cardiology was consulted and 
+they felt that he had a vasovagal reaction to the foley catheter 
+and bladder irrigation.  He was observed in the FICU overnight 
+with no events.  He urine cleared with CBI.  The foley was 
+removed on POD 2 hand he voided.  He was treated with 
+perioperative abx and will go home on 5 days of levofloxacin.  
+His HCT was stable around 28 postop; he had some hematuria which 
+cleared.
+ 
+Past Medical History:
+None
+ 
+Physical Exam:
+alert and oriented
+rrr no mrg
+cta bilateral
+soft, nt, nd
+foley with clear urine
+
+ 
+Pertinent Results:
+[**3078-7-26**] 09:22AM   PLT COUNT-165
+[**3078-7-26**] 09:22AM   WBC-5.0 RBC-4.15* HGB-11.3* HCT-34.8* MCV-84 
+MCH-27.3 MCHC-32.5 RDW-13.7
+[**3078-7-26**] 09:22AM   MAGNESIUM-1.6
+[**3078-7-26**] 09:22AM   GLUCOSE-172* UREA N-23* CREAT-0.8 SODIUM-140 
+POTASSIUM-4.5 CHLORIDE-107 TOTAL CO2-26 ANION GAP-12
+[**3078-7-26**] 12:33PM   PLT COUNT-146*
+[**3078-7-26**] 12:33PM   WBC-6.4 RBC-3.56* HGB-9.6* HCT-29.9* MCV-84 
+MCH-27.0 MCHC-32.1 RDW-13.8
+[**3078-7-26**] 12:33PM   cTropnT-<0.01
+[**3078-7-26**] 12:33PM   CK(CPK)-66
+[**3078-7-26**] 12:33PM   GLUCOSE-212* UREA N-21* CREAT-0.8 SODIUM-141 
+POTASSIUM-3.5 CHLORIDE-109* TOTAL CO2-24 ANION GAP-12
+[**3078-7-26**] 08:39PM   PLT COUNT-139*
+[**3078-7-26**] 08:39PM   WBC-7.1 RBC-3.60* HGB-9.6* HCT-30.0* MCV-83 
+MCH-26.6* MCHC-32.0 RDW-14.5
+[**3078-7-26**] 08:39PM   CK-MB-3 cTropnT-<0.01
+[**3078-7-26**] 08:39PM   CK(CPK)-58
+[**3078-7-26**] 08:39PM   SODIUM-141 POTASSIUM-4.3
+ 
+Brief Hospital Course:
+Admitted for TURP.  Uneventful surgery, spinal anesthetic.  
+Taken to PACU where he had 2 episodes of hypotension and 
+bradycardia.  He require .4 mg atropine for a brief pulseless 
+episode postop.  Symptoms resolved when foley was taken out of 
+traction.  He had a second similar episode but did not require 
+atropine the second time.  Serial ekgs were normal and his 
+cardiac enzymes were negative X 3.  Cardiology was consulted and 
+they felt that he had a vasovagal reaction to the foley catheter 
+and bladder irrigation.  He was observed in the FICU overnight 
+with no events.  He urine cleared with CBI.  The foley was 
+removed on POD 2 hand he voided.  He was treated with 
+perioperative abx and will go home on 5 days of levofloxacin.  
+His HCT was stable around 28 postop; he had some hematuria which 
+cleared.
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+Tylenol #23 1 tab po q4 hours prn
+Levofloxacin 500 mg po qd X 5 days
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+TURP, vasovagal hypotension
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+1.  Call Dr.[**Last Name (STitle) 10991**] office for follow up
+2.  Call PCP office for follow up re: hypotension/vasovagal 
+episode
+3.  Resume preop medications
+4.  No motrin, aspirin, or similar NSAID medications
+5.  Regular diet
+6.  No strenuous activity X 2 weeks
+7.  May have some mild hematuria
+8.  [**Name8 (MD) **] MD if severe hematuria, fevers, chills, back pain, 
+inability or difficulty voiding
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 2658**] MD [**MD Number 2659**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 8530**] [**3078-7-27**] @ 2221
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: FRI [**3078-8-2**] 1:50 PM
+(End of Report)
+
+
+",,
+14635,25685,18193,0,3078-07-26 18:01:00 EST,3078-07-26 18:23:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 17:00-19:00","
+micu/sicu nsg note: 17:00-19:00
+this is a 77 y.o. man adm [**3078-7-26**] with bph, bladder stones and underwent a turp this am. he was stable intraop and had underwent the procedure under spinal anesthesia. he was transferred to the pacu with his spinal wearing down to his calves but then at 12pm hr down to 29 and developed asystole with bp 69/42and was given atropine with hr right up to 70 and sbp up to 117/73 after atropine. remained stable until 3pm when hr down to 40, bp down to 60/35 and c/o blurry vision, diaphoretic. was given ivf, trendelenberg with hr up to 70s, sbp up to 100s. pt was transferred up to ficu for close monitoring. 
+
+neuro: a&ox3, primarily italian speaking but speaks some english and understands english very well with no interpreter needed. family at bedside until 6:15pm. perrla 3mm brisk.
+
+cv: hr initially in the 60s sr and dropped down to low 40s sb around 6pm with sbp in the 60s, + diaphoresis. ns infusing wide open at this time and pt placed in trendelenberg. dr. [**Last Name (STitle) **] notified and examined pt. after receiving 100cc ns, sbp up to 90s and hr up to 60s. pt was given 250cc ns bolus and bp now up to low 100s. ivf changed to d5 [**1-13**] at 125cc/hr. atropine at the bedside. +pp, +csm. currently not diaphoretic.
+
+resp: lungs cta, on 3lnc, rr 16-17, sp02 ranging 96-98%. denies sob.
+
+gi/gu: abd soft, nt, +bs, 3 way cbi patent. new 3000ml ns bladder irrigation bag hung at 6pm with prior u.o. from previous bag 325cc (true urine). penile area with +bright red blood on 4x4s on arrival to ficu, removed with new 4x4s with no further drainage. 
+
+skin: intact.
+
+comfort: denies pain at this time. had c/o + discomfort at iv site while 10 meq iv kcl mixed in 100cc ns was infusing over 1hour in #18g piv in l hand. iv kcl was stopped. 
+
+lines: l hand #18g, l antecub #20g- both patent. 
+
+social: wife and dtr visited with pt and witnessed hypotensive and bradycardic episode and would like to be called with any change in pt's condition. their phone #s are on pt's bedside board.
+
+plan: monitor bp and hr closely with atropine at bedside at all times. give atropine if hr < 30 x1 per dr.[**Last Name (STitle) **] and notify md, cont. ivf d5 1/2 ns at 125cc/hr x 1 liter. start clear liquids and advance diet to regular, f/u with team to change k order to 40 po kcl. start po levoflox. continue cbi and monitor true u.o. monitor penile area for bleeding.  
+",,
+14635,25685,18193,0,3078-07-27 00:58:00 EST,3078-07-27 01:29:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 1900-0700","
+Nursing Assessment Note 1900-0700
+NEURO: Pt is A&O x3, pleasant and cooperative but has slight flat affect, pt moves all extremities well without deficit, PERL, pt has denies dizziness, lightheadedness or blurry vision at this time
+
+CV:  Pt's vss, afebrile, pt denies pain or bladder spasms at this time, pt has D5 1/2 NS @ 125 cc/hour and ns @ kvo infusing well without problems, pt has #18 in left hand, and #20 in left A/C, both are patent and intact, skin is pink/tan, warm, and dry, pp + & =, with trace edema, Pt in nsr without ectopy, pt had 40 meq KCL IV ordered, but pt c/o burning with infusion despite starting new IV and running at a slow rate, pt was switched to po potassium, pt has had no further episodes of bradycardia on my shift at this time
+
+RESP: Pt's lung sounds are clear, pt denies sob or cough at this time, pt on O2 @ 3 L. v/NC, with sats 100%, 
+
+GI:  Pt tol po intake well without N/V, Pt's bowel sounds are positive, with soft abd, pt tol po potassium well without nausea
+
+GU:  Pt has 3-way foley with CBI, pt's urine is rose colored, without sediment or clots, pt denies bladder spasms at this time
+",,
+14635,25685,18193,0,3078-07-27 15:00:00 EST,3078-07-27 15:06:00 EST,218,"N",69,"Nursing/Other","MICU/SICU NSG 7A-7PM","
+MICU/SICU NSG 7A-7PM
+RESP--PT WEANED TO RA WITH SATS WNL. LUNGS CTA BILAT, DENIES SOB.
+
+CV--REMAINS IN SR 70-90'S WITHOUT ECTOPY NOTED.  BP STABLE. NO PERIPHERAL EDEMA NOTED. K WNL NO FURTHER REPLETION NEEDED. PT CALLED OUT TO FLOOR, AWAITING FOR OPEN BED.
+
+GI--ADVANCED TO HOUSE DIET AND TOL WELL. ABD BENIGN. PASSING FLATUS, BUT NO BM THIS SHIFT. 
+
+NEURO--PT OOB TO CHAIR AND AMB ON CARD MONITOR IN [**Doctor Last Name 99**] WITH MIN ASSIST. 
+
+GU--CONTS ON STERILE WATER CBI. TURNED OFF BY UROLOGY RESIDENT FOR 30 MIN, WITH INC DARKENING OF URINE, SO CBI TURNED BACK ON.  URINE YELLOW TO PINK TINGED WITH CBI ON. 15CC REMOVED FROM FOLEY BALOON AT REQUEST OF UROLOGY RESIDENT. 
+
+SOCIAL--PT WIFE AND DAUGHTER HERE THROUGHOUT DAY.  AWARE OF PLANS TO TRANSFER PT OUT OF ICU.
+",,

@@ -1,0 +1,1345 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14908,,,,2618-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-2**] 4:44 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13329**]
+     Reason: s/p cp r/o worsinging llung collapse/pnx                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with known pnx, lll collapse and trach                          
+     REASON FOR THIS EXAMINATION:
+      s/p cp r/o worsinging llung collapse/pnx                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  63-year-old male with known pneumothorax, and a left lower
+     lobe collapse.  Evaluate for interval change.
+     
+     TECHNIQUE:  Portable upright chest.
+     
+     COMPARISON:  None available.
+     
+     FINDINGS:  There is complete white-out of the left hemithorax in association
+     with leftward shift of the heart and mediastinal structures.  In addition, at
+     least five (5) contiguous left-sided rib fractures are identified. These
+     findings have been confirmed at an outside institution, and the Emergency Room
+     staff is aware.  Discoid atelectatic changes are present within the right mid
+     lung zone.  A right approach PICC catheter terminates within the mid SVC.
+     
+     IMPRESSION:  Dense opacification of the entire left hemithorax in association
+     with at least five contiguous left-sided rib fractures and right-to-left
+     mediastinal shift.  These findings are known from an outside institution, as
+     confirmed by Dr. [**Last Name (STitle) 13330**].
+     
+
+",,
+14908,,,,2618-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-2**] 2:43 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13328**]
+     Reason: NEEDS PICC FOR IV TPN
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Infection, needs iv antibiotic treatment.  Please place dual-lumen
+     PICC line.
+     
+     PROCEDURE:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr. [**First Name8 (NamePattern2) 553**]
+     [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising the
+     entire procedure.  After the risks and benefits of the procedure were
+     discussed with the patient and history sister and informed consent was
+     obtained, the patient was placed supine on the angiography table. History
+     right upper extremity was prepped and draped in the standard sterile fashion.
+     Since no suitable superficial vein was visible, ultrasound was used for
+     localization of an appropriate vein.  The right brachial vein was patent and
+     compressible.  The skin and subcutaneous tissues were anesthetized with 5 cc
+     of 1% Lidocaine.  Using ultrasound guidance, the right brachial vein was
+     accessed using a 21-gauge micropuncture needle.  Hard copies of ultrasound
+     images were obtained before and after establishing an access.  A .018
+     guidewire was advanced through the access needle into the superior vena cava
+     under fluoroscopic guidance.    The skin entry site was incised with a #11
+     blade scalpel.  The access needle was exchanged for a 5-French micropuncture
+     sheath with inner dilator.  The inner dilator was removed.  Based on the
+     markers on the guidewire, it was determined that a length of 40 cm would be
+     appropriate. The PICC line was then trimmed to length and advanced over the
+     guidewire through the peel away sheath into the superior vena cava.  The
+     guidewire and peel away sheath were removed.  The catheter was flushed,
+     capped, and heplocked.  It was secured to the skin using a stat lock device.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% Lidocaine.
+     
+     FINDINGS:  A final AP chest x-ray was obtained, demonstrating the tip of the
+     catheter to be present in the superior vena cava just above the right atrium.
+     
+     IMPRESSION:  Successful placement of a 40 cm 5-French dual-lumen PICC line via
+     the right brachial vein.  The tip of the catheter is present in the superior
+     vena cava.  The line is ready for immediate use.
+     
+     
+
+",,
+14908,,,,2618-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-2**] 2:43 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13328**]
+     Reason: NEEDS PICC FOR IV TPN
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Infection, needs iv antibiotic treatment.  Please place dual-lumen
+     PICC line.
+     
+     PROCEDURE:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr. [**First Name8 (NamePattern2) 553**]
+     [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising the
+     entire procedure.  After the risks and benefits of the procedure were
+     discussed with the patient and history sister and informed consent was
+     obtained, the patient was placed supine on the angiography table. History
+     right upper extremity was prepped and draped in the standard sterile fashion.
+     Since no suitable superficial vein was visible, ultrasound was used for
+     localization of an appropriate vein.  The right brachial vein was patent and
+     compressible.  The skin and subcutaneous tissues were anesthetized with 5 cc
+     of 1% Lidocaine.  Using ultrasound guidance, the right brachial vein was
+     accessed using a 21-gauge micropuncture needle.  Hard copies of ultrasound
+     images were obtained before and after establishing an access.  A .018
+     guidewire was advanced through the access needle into the superior vena cava
+     under fluoroscopic guidance.    The skin entry site was incised with a #11
+     blade scalpel.  The access needle was exchanged for a 5-French micropuncture
+     sheath with inner dilator.  The inner dilator was removed.  Based on the
+     markers on the guidewire, it was determined that a length of 40 cm would be
+     appropriate. The PICC line was then trimmed to length and advanced over the
+     guidewire through the peel away sheath into the superior vena cava.  The
+     guidewire and peel away sheath were removed.  The catheter was flushed,
+     capped, and heplocked.  It was secured to the skin using a stat lock device.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% Lidocaine.
+     
+     FINDINGS:  A final AP chest x-ray was obtained, demonstrating the tip of the
+     catheter to be present in the superior vena cava just above the right atrium.
+     
+     IMPRESSION:  Successful placement of a 40 cm 5-French dual-lumen PICC line via
+     the right brachial vein.  The tip of the catheter is present in the superior
+     vena cava.  The line is ready for immediate use.
+     
+     
+
+",,
+14908,,,,2618-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-2**] 2:43 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13328**]
+     Reason: NEEDS PICC FOR IV TPN
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Infection, needs iv antibiotic treatment.  Please place dual-lumen
+     PICC line.
+     
+     PROCEDURE:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr. [**First Name8 (NamePattern2) 553**]
+     [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising the
+     entire procedure.  After the risks and benefits of the procedure were
+     discussed with the patient and history sister and informed consent was
+     obtained, the patient was placed supine on the angiography table. History
+     right upper extremity was prepped and draped in the standard sterile fashion.
+     Since no suitable superficial vein was visible, ultrasound was used for
+     localization of an appropriate vein.  The right brachial vein was patent and
+     compressible.  The skin and subcutaneous tissues were anesthetized with 5 cc
+     of 1% Lidocaine.  Using ultrasound guidance, the right brachial vein was
+     accessed using a 21-gauge micropuncture needle.  Hard copies of ultrasound
+     images were obtained before and after establishing an access.  A .018
+     guidewire was advanced through the access needle into the superior vena cava
+     under fluoroscopic guidance.    The skin entry site was incised with a #11
+     blade scalpel.  The access needle was exchanged for a 5-French micropuncture
+     sheath with inner dilator.  The inner dilator was removed.  Based on the
+     markers on the guidewire, it was determined that a length of 40 cm would be
+     appropriate. The PICC line was then trimmed to length and advanced over the
+     guidewire through the peel away sheath into the superior vena cava.  The
+     guidewire and peel away sheath were removed.  The catheter was flushed,
+     capped, and heplocked.  It was secured to the skin using a stat lock device.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% Lidocaine.
+     
+     FINDINGS:  A final AP chest x-ray was obtained, demonstrating the tip of the
+     catheter to be present in the superior vena cava just above the right atrium.
+     
+     IMPRESSION:  Successful placement of a 40 cm 5-French dual-lumen PICC line via
+     the right brachial vein.  The tip of the catheter is present in the superior
+     vena cava.  The line is ready for immediate use.
+     
+     
+
+",,
+14908,,,,2618-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-2**] 2:43 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13328**]
+     Reason: NEEDS PICC FOR IV TPN
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Infection, needs iv antibiotic treatment.  Please place dual-lumen
+     PICC line.
+     
+     PROCEDURE:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr. [**First Name8 (NamePattern2) 553**]
+     [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising the
+     entire procedure.  After the risks and benefits of the procedure were
+     discussed with the patient and history sister and informed consent was
+     obtained, the patient was placed supine on the angiography table. History
+     right upper extremity was prepped and draped in the standard sterile fashion.
+     Since no suitable superficial vein was visible, ultrasound was used for
+     localization of an appropriate vein.  The right brachial vein was patent and
+     compressible.  The skin and subcutaneous tissues were anesthetized with 5 cc
+     of 1% Lidocaine.  Using ultrasound guidance, the right brachial vein was
+     accessed using a 21-gauge micropuncture needle.  Hard copies of ultrasound
+     images were obtained before and after establishing an access.  A .018
+     guidewire was advanced through the access needle into the superior vena cava
+     under fluoroscopic guidance.    The skin entry site was incised with a #11
+     blade scalpel.  The access needle was exchanged for a 5-French micropuncture
+     sheath with inner dilator.  The inner dilator was removed.  Based on the
+     markers on the guidewire, it was determined that a length of 40 cm would be
+     appropriate. The PICC line was then trimmed to length and advanced over the
+     guidewire through the peel away sheath into the superior vena cava.  The
+     guidewire and peel away sheath were removed.  The catheter was flushed,
+     capped, and heplocked.  It was secured to the skin using a stat lock device.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% Lidocaine.
+     
+     FINDINGS:  A final AP chest x-ray was obtained, demonstrating the tip of the
+     catheter to be present in the superior vena cava just above the right atrium.
+     
+     IMPRESSION:  Successful placement of a 40 cm 5-French dual-lumen PICC line via
+     the right brachial vein.  The tip of the catheter is present in the superior
+     vena cava.  The line is ready for immediate use.
+     
+     
+
+",,
+14908,17947,,,2618-10-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2618-10-3**]              Discharge Date:   [**2618-10-8**]
+ 
+Date of Birth:  [**2555-4-7**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Penicillins / Morphine / Demerol
+ 
+Attending:[**First Name3 (LF) 1676**] 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+bronchoscopy
+ 
+History of Present Illness:
+63 y/o man with PMH significant for traumatic brain injury 
+following fall in [**2610**]; trach in 03/04 and Peg [**6-19**] secondary 
+to failure to thrive; siezure disorder admitted from OSH for 
+PICC placement and further eval of the above. Pt was in his 
+usual state of health at his nursing home until [**2618-9-28**] at 
+which time he developed a temperature of 102.7 and oxygen 
+saturation of 79 percent on room air. He was sent to the [**Hospital1 19**] 
+[**Location (un) 671**] for futher care. There, a CXR showed left lower lobe 
+infiltrate and 5 posterior left sided rib fracutres. By report, 
+pt had recently fallen backward twice at the nursing home. In 
+addition, he was being treated with clindamycin (since [**2618-9-18**]) 
+and levofloxacin ([**2618-9-23**]) for a question of pneumonia. 
+
+At [**Hospital1 19**] [**Location (un) 671**], pt was admitted for treatment of his pneumonia 
+and hypernatremia. Initial vital signs included temperature of 
+102.2, blood pressure 100/68, oxygen saturation 98% on 
+nonrebreather, and respiratory rate of 36. Labs were significant 
+for a WBC count of 14.9 and a sodium of 160. ECG is reported as 
+Sinus tachycardia with no ST or T wave abnormalities. Pt was 
+started on vancomycin and ceftazidime for his pneumonia. Sputum 
+cultures from [**2618-10-1**] grew MRSA and pan resisitent pseudomonas. 
+On [**2618-10-1**], the pt lost IV access and attempts to replace it 
+were unsuccesful. Therefore, his antibiotics were changed to 
+linezolid and ciprofloxacin(wanted to cover gram negatives). By 
+[**2618-10-1**], the patient had also developed complete collapse of 
+the left lung. Pulmonary service was consulted at that time but 
+could not bronch the pt as he had no IV access. Pt often became 
+tachypnic at the outside hospital and required frequent 
+suctioning. Hypernatremia resolved with treatment with free 
+water. On [**2618-10-2**], the pt was sent to [**Hospital1 19**] to have a PICC 
+placed.
+
+During PICC placement in IR, the pt developed nausea and CP at 
+approximately 3:30 PM. He was sent to the [**Hospital1 19**] ED for futher 
+evaluation. In the ED, pt's VS were initially 98.2, 70, 101/53, 
+18, and 98% on 70% face tent. Pt received vancomycin 1 gm IV and 
+1 L of NS. ECG in the ED showed mildly [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 11379**] at 470-480 and T 
+wave inversion in V1-V4. Pt was evaluated by cardiology and plan 
+was made for medical management. He was placed on a heparin drip 
+for pain control. The first set of cardiac enzymes were 
+negative.
+
+ 
+Past Medical History:
+1. Traumatic brain injury s/p fall in [**2610**]
+2. Peg tube placement in 06/04
+3. Trach placed in 03/04 for post-intubation subglottic tracheal 
+stenosis per [**Hospital1 2124**] records.  Currently has T-tube.
+4. HIstory of DVT on coumadin with IVC filter
+5. Multiple aspiration pneumonia
+6. S/P multiple abdominal surgeries for hernia repair
+7. Past seizure disorder
+8. Anemia
+9. History of fungemia
+ 
+Social History:
+Married.  Polish immigrant (speaks some English).  Used to be a 
+heavy smoker.  Has been a nursing home resident for many years 
+since his TBI.  Has several children who are closely involved, 
+one daughter is a CCU nurse at [**Hospital3 **].
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+T: 96.6  BP: 127/50  P: 54  RR: 24, O2 sat 95% on 50% TC (pt 
+does not desaturate with nasal cannula, but just prefers not to 
+wear it)
+Gen: awake, alert, sitting up in chair
+Skin: warm and dry
+HEENT: + copious secretions from tracheostomy
+Heart: bradycardic, regular rhythm, no murmurs, rubs, or gallops
+Lungs: coarse throughout, moving air much better on the left
+Abd: soft, nontender, nondistended.  Ventral hernia nontender, 
+easily reducible.  +bs.
+Ext: no edema, 2+ distal pulses bilaterally.
+
+ 
+Pertinent Results:
+[**2618-10-7**] 04:04AM BLOOD WBC-5.3 RBC-2.93* Hgb-8.4* Hct-25.7* 
+MCV-88 MCH-28.7 MCHC-32.7 RDW-17.3* Plt Ct-382
+[**2618-10-6**] 04:00AM BLOOD WBC-7.3 RBC-2.92* Hgb-8.4* Hct-25.9* 
+MCV-89 MCH-28.9 MCHC-32.6 RDW-16.4* Plt Ct-358
+[**2618-10-5**] 07:35AM BLOOD WBC-5.6 RBC-3.07*# Hgb-8.7*# Hct-26.9* 
+MCV-88# MCH-28.4 MCHC-32.4 RDW-16.6* Plt Ct-381
+[**2618-10-5**] 04:51AM BLOOD WBC-4.7 RBC-2.31* Hgb-6.6* Hct-22.1* 
+MCV-96# MCH-28.6 MCHC-29.9*# RDW-16.0* Plt Ct-312
+[**2618-10-4**] 03:50AM BLOOD WBC-7.6 RBC-2.97* Hgb-8.8* Hct-25.8* 
+MCV-87 MCH-29.8 MCHC-34.3# RDW-16.8* Plt Ct-397
+[**2618-10-3**] 05:30PM BLOOD Hct-25.0*
+[**2618-10-3**] 06:03AM BLOOD WBC-8.3 RBC-3.10* Hgb-8.6* Hct-27.7* 
+MCV-89 MCH-27.8 MCHC-31.1 RDW-16.2* Plt Ct-397
+[**2618-10-2**] 04:25PM BLOOD WBC-7.0 RBC-2.97* Hgb-8.5* Hct-26.0* 
+MCV-88 MCH-28.5 MCHC-32.5 RDW-15.9* Plt Ct-319
+[**2618-10-6**] 04:00AM BLOOD Neuts-71.0* Lymphs-23.2 Monos-4.0 Eos-1.6 
+Baso-0.2
+[**2618-10-7**] 04:04AM BLOOD Plt Ct-382
+[**2618-10-7**] 04:04AM BLOOD PT-13.7* PTT-32.5 INR(PT)-1.2
+[**2618-10-6**] 04:00AM BLOOD PT-15.6* PTT-36.5* INR(PT)-1.5
+[**2618-10-5**] 07:35AM BLOOD PT-16.9* PTT-37.6* INR(PT)-1.8
+[**2618-10-5**] 04:51AM BLOOD PT-17.4* PTT-41.8* INR(PT)-1.9
+[**2618-10-4**] 03:50AM BLOOD PT-15.2* PTT-35.3* INR(PT)-1.5
+[**2618-10-3**] 06:03AM BLOOD PT-14.2* PTT-53.1* INR(PT)-1.3
+[**2618-10-2**] 10:14PM BLOOD PT-14.7* PTT-119.1* INR(PT)-1.4
+[**2618-10-2**] 04:25PM BLOOD PT-13.1 PTT-30.2 INR(PT)-1.1
+[**2618-10-6**] 04:00AM BLOOD Glucose-109* UreaN-14 Creat-1.1 Na-146* 
+K-3.6 Cl-111* HCO3-27 AnGap-12
+[**2618-10-5**] 07:35AM BLOOD Glucose-86 UreaN-15 Creat-1.0 Na-149* 
+K-3.5 Cl-114* HCO3-28 AnGap-11
+[**2618-10-5**] 04:51AM BLOOD Glucose-732* UreaN-13 Creat-0.9 Na-137 
+K-3.0* Cl-107 HCO3-25 AnGap-8
+[**2618-10-3**] 08:30PM BLOOD K-4.1
+[**2618-10-3**] 06:03AM BLOOD Glucose-101 UreaN-28* Creat-1.1 Na-148* 
+K-3.3 Cl-110* HCO3-28 AnGap-13
+[**2618-10-2**] 10:14PM BLOOD Glucose-437* UreaN-30* Creat-1.1 Na-145 
+K-3.4 Cl-108 HCO3-28 AnGap-12
+[**2618-10-2**] 04:25PM BLOOD Glucose-69* UreaN-32* Creat-1.2 Na-150* 
+K-4.0 Cl-111* HCO3-30* AnGap-13
+[**2618-10-3**] 06:03AM BLOOD ALT-73* AST-32 CK(CPK)-97 AlkPhos-66 
+TotBili-0.2
+[**2618-10-2**] 10:14PM BLOOD CK(CPK)-91
+[**2618-10-2**] 04:25PM BLOOD ALT-93* AST-40 LD(LDH)-211 CK(CPK)-113 
+AlkPhos-65 Amylase-30 TotBili-0.3
+[**2618-10-3**] 06:03AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2618-10-2**] 10:14PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2618-10-2**] 04:25PM BLOOD CK-MB-1 cTropnT-<0.01
+[**2618-10-2**] 04:25PM BLOOD Lipase-14
+[**2618-10-7**] 04:04AM BLOOD Calcium-7.4* Phos-3.7 Mg-2.0
+[**2618-10-6**] 04:00AM BLOOD Calcium-7.3* Phos-3.7 Mg-1.8
+[**2618-10-5**] 07:35AM BLOOD Calcium-7.3* Phos-3.7 Mg-2.0
+[**2618-10-5**] 04:51AM BLOOD Calcium-6.0* Phos-3.0 Mg-1.7
+[**2618-10-4**] 03:50AM BLOOD Calcium-7.2* Phos-2.4* Mg-2.1
+[**2618-10-3**] 06:03AM BLOOD Calcium-7.9* Phos-2.6* Mg-1.9
+[**2618-10-2**] 10:14PM BLOOD Calcium-6.9* Phos-2.9 Mg-1.9
+[**2618-10-2**] 04:25PM BLOOD Albumin-2.3* Calcium-8.0* Phos-3.3 Mg-2.1
+[**2618-10-7**] 04:04AM BLOOD Valproa-38*
+[**2618-10-5**] 07:35AM BLOOD Valproa-5*
+[**2618-10-4**] 03:50AM BLOOD Valproa-4*
+[**2618-10-2**] 04:25PM BLOOD Valproa-20*
+[**2618-10-8**] 04:33PM BLOOD Hct-28.8*
+ 
+Brief Hospital Course:
+1. Respiratory:  Mr. [**Known patient lastname 11380**] presented to the OSH with a 
+pneumonia which grew 3 different bacteria: MRSA and 2 strains of 
+pseudomonas.  One strain of pseudomonas was pan-resistant, and 
+the other one was resistant to everything except ceftazidime and 
+pipercillin.  While here, the pt remained afebrile and his blood 
+pressure was stable.  His oxygen requirement remained the same.  
+He had copious secretions and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2438**]-out left lung on CXR, and 
+so underwent bronchoscopy on [**10-5**].  It revealed quite a bit of 
+secretions in his upper airways, as well as a 95% dynamic 
+collapse of his trachea distal to the t-tube.  In this area 
+there was also what appeared to extrinsic compression of his 
+trachea, and the pulmonary attending recommended a CT scan to 
+evaluate this in the future.  After the bronch, he did well with 
+aggressive chest PT, positioning, and guafenesin.  He had a 
+vibrating vest placed on his chest which helped break up 
+secretions, but the pt did not tolerate this.  He also had 
+scheduled nebs while he was here, as he was wheezing on exam 
+initially.  His CXR looked better on discharge although he still 
+has some degree of collapse on his left side.  For his 
+pneumonia, given his hx of MRSA and pseudomonas (one of which 
+was sensitive to ceftaz), he was treated with vancomycin and 
+ceftazidime, discharged to finish a 10-day course, 1st day = 
+[**2618-10-2**].  He also had a chest CT done to evaluate the 
+possibility of his trachea being extrinsically compressed, which 
+showed:
+1) Narrowed intrathoracic trachea and narrowed right and left 
+main bronchi consistent with tracheomalacia, 2) Enlarged thyroid 
+with slight heterogeneous attenuation of the right thyroid lobe, 
+3) Bilateral moderate-sized pleural effusions, 4) Right lower 
+lobe atelectasis, 5) Left upper lobe and left lower lobe 
+opacities. There is likely a combination of atelectasis and 
+pneumonia, 6) Left posterior 9th and 10th rib fractures, likely 
+acute, 7) Emphysema. 
+
+2. Cardiovascular:  On [**10-2**], during placement of a PICC line by 
+interventional radiology the pt developed chest pain.  He had an 
+EKG done at that time which showed T wave inversions in V1-V4 
+but no ST-T changes (none available for comparison).  He was 
+begun on a heparin gtt, and his pain resolved.  He had negative 
+cardiac enzymes x3 sets.  He was begun on an ASA and a statin.  
+His heparin gtt was discontinued the next morning.  We attempted 
+to start a beta blocker on him, but his pulse was often in the 
+40s-50s (sinus bradycardia) and so he did not tolerate it.  He 
+was evaluated by cardiology who felt that he could have an echo 
+or ETT as an outpatient to evaluate EF and wall motion 
+abnormalities.  It was felt that his chest pain was likely [**2-16**] 
+his 5 broken ribs sustained in a fall 2 weeks ago at the nursing 
+home.  For this reason, his ASA, statin, and beta-blocker were 
+all discontinued as we have no evidence that he actually has any 
+coronary artery disease.
+In terms of his hx of DVT, he takes coumadin 10 mg qd at the 
+nursing home.  Coumadin was not one of his medications listed on 
+transfer from [**Hospital1 **]-[**Location (un) 671**].  In our ED, he was begun on a heparin 
+gtt [**2-16**] his chest pain.  His coumadin was restarted on [**2618-10-6**] 
+at his home dose.  
+
+3. GI: Pt was begun on tube feeds, which were cycled at night 
+per his NH protocol.  He tolerated these well and they were 
+quickly advanced to goal without complication.  His abd pain 
+that he had in IR had resolved by the time he was admitted to 
+the FICU.
+
+4. Hematology:  Pt was anemic on admission at 26.  He carries a 
+diagnosis of chronic anemia, and his crit was stable throughout 
+his stay.  He received one unit of PRBCs the evening of 
+admission (given the possibility of CAD), but basically hovered 
+in the 25-27 range throughout his stay.  He had no signs of 
+active bleeding, and it's recommended that this be followed up 
+as an outpt.  His hematocrit was 24.6 at its lowest point, and 
+was 28 on discharge.
+
+5. Neuro:  He has been on Depakote for a hx of seizure disorder, 
+and when he came in his level was 20 (goal 50-100).  He was 
+placed on his home dosing of depakote (bid) but apparently it 
+was only given in the AM, and so his level dropped to 5.  This 
+was corrected, and his level should be followed up as an outpt.  
+His level prior to discharge was 35.  He had no seizure activity 
+while he was here.  
+
+6. Musculoskeletal:  He has 5 left-sided posterior rib fractures 
+sustained in a fall at the nursing home 2 weeks ago.  For this, 
+his pain was controlled with subcutaneous dilaudid.
+
+ 
+Medications on Admission:
+Linezolid 600 mg bid
+Ciprofloxacin 500 mg bid
+Zoloft 100 mg po qd
+Albuterol nebs q4h prn
+Dilaudid prn
+Prilosec 20 mg qd
+Valproic acid (250 mg in 5 ml syrup) 15 cc qAM, 20 cc qpm
+ 
+Discharge Medications:
+1. Valproate Sodium (Bulk) 250 mg/5 mL Syrup Sig: Twenty (20) cc 
+PO QPM (once a day (in the evening)).  
+2. Valproate Sodium (Bulk) 250 mg/5 mL Syrup Sig: Twenty (20) cc 
+PO QAM (once a day (in the morning)).  
+3. Acetaminophen 650 mg Suppository Sig: One (1) Suppository 
+Rectal Q4-6H (every 4 to 6 hours) as needed for fever, pain.  
+4. Sertraline HCl 50 mg Tablet Sig: Two (2) Tablet PO QD (once a 
+day).  
+5. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours) as needed for shortness of breath 
+or wheezing. neb 
+6. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours) as needed for wheezing, sob.  
+7. Hydromorphone HCl 2 mg/mL Syringe Sig: 0.5-1 mg Injection Q6H 
+(every 6 hours) as needed.  
+8. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 
+hours) as needed.  
+9. Warfarin Sodium 5 mg Tablet Sig: Two (2) Tablet PO QD (once a 
+day).  
+10. Vancomycin HCl 1,000 mg Recon Soln Sig: One (1) gram 
+Intravenous  every twelve (12) hours for 4 days: Last dose 9/26 
+for a total 10 days treatment.  
+11. Ceftazidime 1 g Recon Soln Sig: One (1) gram Intravenous  
+every eight (8) hours for 4 days: Last dose on [**10-11**], for a total 
+10 days treatment.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 1187**] Hospital - [**Location (un) 1188**]
+ 
+Discharge Diagnosis:
+Pneumonia with left lung collapse
+
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+Please take your medications as directed.  Please use aggressive 
+chest physical therapy (pt tolerates, despite broken ribs), 
+suctioning, and expectorants (i.e. guaifenesin or humibid).
+ 
+Followup Instructions:
+please be evaluated by your PCP upon arrival at the NH.  Please 
+have your valproic acid level checked 2-3x/wk.  Please have your 
+INR checked at the same time, as we have restarted your 
+coumadin.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1680**] MD [**MD Number 1681**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 187**] [**Last Name (NamePattern1) 188**] MD [**MD Number 189**] [**2618-10-8**] @ 1720
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**2618-10-8**] 7:13 PM
+(End of Report)
+
+
+",,
+14908,17947,,,2618-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-3**] 2:37 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13331**]
+     CT RECONSTRUCTION
+     Reason: not sure if i need IV contrast for this; need to r/o abdomin
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with abdminal pain; has history of feeding tube placement and 
+      multiple hernia repairs.
+     REASON FOR THIS EXAMINATION:
+      not sure if i need IV contrast for this; need to r/o abdominal abscess, gut 
+      ischemia, bowel obstruction
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm SAT [**2618-10-3**] 5:22 AM
+      Anterior abdominal wall hernia. No obstruction. Bilateral basalar
+      consolidations.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICAATION: Abdominal pain.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis.  Multiplanar reconstructions were
+     obtained for further evaluation of the anatomy and pathology.
+     
+     CONTRAST: Only oral contrast was given.  IV contrast was not administered.
+     
+     CT ABDOMEN W/O IV CONTRAST:  Emphysematous changes seen at the right lung
+     base. There are large areas of atelectasis/consolidation at both bases with
+     moderate pleural effusions.
+     
+     Post pyloric tube is visualized.  The liver, gallbladder, spleen, pancreas,
+     adrenals, kidneys appear unremarkable.  There is calcification of the
+     abdominal aorta.  An IVC filter is visualized.  There is an umblical hernia
+     with loops of transverse colon herniating through the wall defect.
+      There is no evidence of bowel obstruction.  There is no free air or free
+     fluid.  There is no retroperitoneal or mesenteric lymphadenopathy.
+     
+     CT PELVIS W/O IV CONTRAST: The urinary bladder, prostate, seminal vesicles,
+     pelvic loops of small and large bowel appear unremarkable.  There is no free
+     air or free fluid.  There is no pelvic or inguinal lymphadenopathy.
+     
+     There are no suspicious lytic or blastic lesions in the osseous structures.
+     Degenerative changes are seen in the lumbosacral spine. Acute fractures of the
+     eleventh rib posteriorly and 8, 9 and 10th rib laterally are seen on the left
+     side. There are few small well corticated bony fragments seen adjacent to the
+     left ischial tuberosity, likely from old trauma.
+     
+     CT RECONSTRUCTIONS; Multiplanar reconstructions confirm the presence of an
+     anterior abdominal wall hernia without evidence of bowel obstruction.
+     
+     IMPRESSION:
+     1) Moderate sized umblical hernia with loops of large bowel within the hernia
+     without evidence of bowel obstruction.
+                                                                 (Over)
+
+     DATE: [**2618-10-3**] 2:37 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13331**]
+     CT RECONSTRUCTION
+     Reason: not sure if i need IV contrast for this; need to r/o abdomin
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     2) Bilateral atelectasis/consolidations in both lungs. Pneumonia cannot be
+     excluded. Moderate sized bilateral pleural effusions are also present.
+     
+     3) Post pyloric tube in place.
+     
+     4) Multiple left sided acute rib fractures.
+     
+     
+
+",,
+14908,17947,,,2618-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-3**] 2:37 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13331**]
+     CT RECONSTRUCTION
+     Reason: not sure if i need IV contrast for this; need to r/o abdomin
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with abdminal pain; has history of feeding tube placement and 
+      multiple hernia repairs.
+     REASON FOR THIS EXAMINATION:
+      not sure if i need IV contrast for this; need to r/o abdominal abscess, gut 
+      ischemia, bowel obstruction
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm SAT [**2618-10-3**] 5:22 AM
+      Anterior abdominal wall hernia. No obstruction. Bilateral basalar
+      consolidations.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICAATION: Abdominal pain.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis.  Multiplanar reconstructions were
+     obtained for further evaluation of the anatomy and pathology.
+     
+     CONTRAST: Only oral contrast was given.  IV contrast was not administered.
+     
+     CT ABDOMEN W/O IV CONTRAST:  Emphysematous changes seen at the right lung
+     base. There are large areas of atelectasis/consolidation at both bases with
+     moderate pleural effusions.
+     
+     Post pyloric tube is visualized.  The liver, gallbladder, spleen, pancreas,
+     adrenals, kidneys appear unremarkable.  There is calcification of the
+     abdominal aorta.  An IVC filter is visualized.  There is an umblical hernia
+     with loops of transverse colon herniating through the wall defect.
+      There is no evidence of bowel obstruction.  There is no free air or free
+     fluid.  There is no retroperitoneal or mesenteric lymphadenopathy.
+     
+     CT PELVIS W/O IV CONTRAST: The urinary bladder, prostate, seminal vesicles,
+     pelvic loops of small and large bowel appear unremarkable.  There is no free
+     air or free fluid.  There is no pelvic or inguinal lymphadenopathy.
+     
+     There are no suspicious lytic or blastic lesions in the osseous structures.
+     Degenerative changes are seen in the lumbosacral spine. Acute fractures of the
+     eleventh rib posteriorly and 8, 9 and 10th rib laterally are seen on the left
+     side. There are few small well corticated bony fragments seen adjacent to the
+     left ischial tuberosity, likely from old trauma.
+     
+     CT RECONSTRUCTIONS; Multiplanar reconstructions confirm the presence of an
+     anterior abdominal wall hernia without evidence of bowel obstruction.
+     
+     IMPRESSION:
+     1) Moderate sized umblical hernia with loops of large bowel within the hernia
+     without evidence of bowel obstruction.
+                                                                 (Over)
+
+     DATE: [**2618-10-3**] 2:37 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13331**]
+     CT RECONSTRUCTION
+     Reason: not sure if i need IV contrast for this; need to r/o abdomin
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     2) Bilateral atelectasis/consolidations in both lungs. Pneumonia cannot be
+     excluded. Moderate sized bilateral pleural effusions are also present.
+     
+     3) Post pyloric tube in place.
+     
+     4) Multiple left sided acute rib fractures.
+     
+     
+
+",,
+14908,17947,,,2618-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-3**] 2:37 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13331**]
+     CT RECONSTRUCTION
+     Reason: not sure if i need IV contrast for this; need to r/o abdomin
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with abdminal pain; has history of feeding tube placement and 
+      multiple hernia repairs.
+     REASON FOR THIS EXAMINATION:
+      not sure if i need IV contrast for this; need to r/o abdominal abscess, gut 
+      ischemia, bowel obstruction
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm SAT [**2618-10-3**] 5:22 AM
+      Anterior abdominal wall hernia. No obstruction. Bilateral basalar
+      consolidations.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICAATION: Abdominal pain.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis.  Multiplanar reconstructions were
+     obtained for further evaluation of the anatomy and pathology.
+     
+     CONTRAST: Only oral contrast was given.  IV contrast was not administered.
+     
+     CT ABDOMEN W/O IV CONTRAST:  Emphysematous changes seen at the right lung
+     base. There are large areas of atelectasis/consolidation at both bases with
+     moderate pleural effusions.
+     
+     Post pyloric tube is visualized.  The liver, gallbladder, spleen, pancreas,
+     adrenals, kidneys appear unremarkable.  There is calcification of the
+     abdominal aorta.  An IVC filter is visualized.  There is an umblical hernia
+     with loops of transverse colon herniating through the wall defect.
+      There is no evidence of bowel obstruction.  There is no free air or free
+     fluid.  There is no retroperitoneal or mesenteric lymphadenopathy.
+     
+     CT PELVIS W/O IV CONTRAST: The urinary bladder, prostate, seminal vesicles,
+     pelvic loops of small and large bowel appear unremarkable.  There is no free
+     air or free fluid.  There is no pelvic or inguinal lymphadenopathy.
+     
+     There are no suspicious lytic or blastic lesions in the osseous structures.
+     Degenerative changes are seen in the lumbosacral spine. Acute fractures of the
+     eleventh rib posteriorly and 8, 9 and 10th rib laterally are seen on the left
+     side. There are few small well corticated bony fragments seen adjacent to the
+     left ischial tuberosity, likely from old trauma.
+     
+     CT RECONSTRUCTIONS; Multiplanar reconstructions confirm the presence of an
+     anterior abdominal wall hernia without evidence of bowel obstruction.
+     
+     IMPRESSION:
+     1) Moderate sized umblical hernia with loops of large bowel within the hernia
+     without evidence of bowel obstruction.
+                                                                 (Over)
+
+     DATE: [**2618-10-3**] 2:37 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13331**]
+     CT RECONSTRUCTION
+     Reason: not sure if i need IV contrast for this; need to r/o abdomin
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     2) Bilateral atelectasis/consolidations in both lungs. Pneumonia cannot be
+     excluded. Moderate sized bilateral pleural effusions are also present.
+     
+     3) Post pyloric tube in place.
+     
+     4) Multiple left sided acute rib fractures.
+     
+     
+
+",,
+14908,17947,,,2618-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-3**] 8:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13332**]
+     Reason: Evaluate for change in infiltrates                          
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with known pnx, lll collapse and trach.                         
+       
+     REASON FOR THIS EXAMINATION:
+      Evaluate for change in infiltrates                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 63 year old man with known pneumonia.
+     
+     CHEST PORTABLE AP VIEW: Comparison was done with the chest x-ray of [**10-2**], 2004. The left sided atelectasis has significantly improved with some
+     residual left lower lobe atelectasis. Multiple left sided rib fractures are
+     seen with a small loculated left pleural effusion.
+     Multiple segments of rib fracture are seen and a rare possibility of flail
+     chest should be considered.
+     The right lung appears clear there is no evidence of pneumothorax. The cardiac
+     size is within normal limits. The PICC line tip is seen in the SVC.
+     
+     IMPRESSION: Significant improvement in the left sided atelectasis with some
+     residual left lower lobe atelectasis.The left sided atelactasis has improved
+     compared to her prior xray of [**2618-10-2**]
+     
+     2. Multiple left sided rib fractures, a rare possibility of flail chest should
+     be considered.
+     
+     
+
+",,
+14908,17947,18525,0,2618-10-03 05:36:00 EST,2618-10-03 05:37:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PLEASE SEE FHPA AND FLOW SHEET FOR PMHX, HPI AND ASSESSMENT.
+
+",,
+14908,17947,18525,0,2618-10-03 16:11:00 EST,2618-10-03 16:20:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+
+Non verbal d/t trach. Follows some commands but shakes head yes to every question even when they are in direct contrast to each other. ?language barrier. Restless all day. Picking at what he can reach. DC'd condom cath x5 despite wrist restraints and mitts. MAEs. Non combative. Will need sitter when he leaves the ICU. 
+
+Bruised area noted over L rib region. Does not grimace when moved. 5 rib [**Name6 (MD) 6614**] [**Name8 (MD) 17**] MD.
+
+NPO. Meds via PEG.
+
+FiO2 weaned to 40%. Suctioned for mod amts thick white sputum.
+
+Plan to transfuse 1uPRBCs but they are not available yet. Repeat Hct pnd.
+",,
+14908,17947,18525,,2618-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-4**] 1:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13333**]
+     Reason: reexpanded left lung                                        
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old man with known pnx, lll collapse and trach.                        
+         
+     REASON FOR THIS EXAMINATION:
+      reexpanded left lung                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  63 y/o male with known pneumothorax.  Expanding left lung. 
+     
+     PORTABLE AP CHEST:  Comparison is made to the prior study from yesterday.
+     
+     There is increased opacity of the left lung indicating worsening atelectasis.
+     There is continued small loculated left pleural effusion.  There is increase
+     in CHF, compared with the previous study. The right sided PICC Line and
+     tracheostomy tube are in place. Drainage catheter is seen overlying the left
+     upper quadrant of the abdomen.
+     
+     Again noted are multiple fractures of the left ribs.  Again multiple
+     segmental fractures could indicate the possibility of ___ chest. Please
+     correlate clinically.
+     
+     IMPRESSION: Worsening atelectasis of the left lung.
+     
+     Increased CHF. Continued loculated small left pleural effusion. No
+     pneumothorax. 
+
+",,
+14908,17947,18525,0,2618-10-04 05:06:00 EST,2618-10-04 05:10:00 EST,6152,"N",69,"Nursing/Other",,"
+
+PT CONTINUES TO BE INCONT OF URINE.  PT OOB TO CHAIR AT 6AM WITH 2 ASSIST.  CONTINUE TO BE VERY FIGIDITY. HE FOLLOWS COMMANDS BUT APPEARS TO GET FRUSTRATED AT TIMES. RESTRAINTS OFF, MITTEN PLACED ON RIGHT HAND BY PATIENT. UNABLE TO KEEP SAT PROBE ON PT. CHECKING PRN AND RECORDING.
+",,
+14908,17947,18525,0,2618-10-04 15:52:00 EST,2618-10-04 15:54:00 EST,1428,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt given albuterol/atrovent nebs q6h as ordered.  Breath sounds are clear.  Pt has a strong, prod cough.  Recommend changing neb order to prn.
+",,
+14908,17947,18525,0,2618-10-04 16:04:00 EST,2618-10-04 16:10:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+
+More alert and cooperative today.. Much less restless. Received pt sitting in chair. ~1000 asking to go to bed. Noted to be diaphoretic and pointed to ribs when asked if he was having pain. Given 1mg sc Dilaudid with excellent relief. Napping most of afternoon when undisturbed. Inc of lg amts urine. Skin intact. IVFs at 100cc/hr. Unrestrained. Not attempting to pull at anything or get out of bed. CN at 50% w/O2sats lower this pm to low 90s. Suct for lg amts thick white sputum. Trach care done. Plan for IP to consult tomorrow for possible bronch. Pt's wife and son visited. [**Name2 (NI) **] called.
+",,
+14908,17947,18525,0,2618-10-04 20:52:00 EST,2618-10-04 20:55:00 EST,6152,"N",69,"Nursing/Other",,"
+
+PT LETHARGIC, SINUS BRADY, SUCTIONED FOR THICK WHITE, MODERATE AMTS, D5 1/2 NS CHANGED TO 75CC Q HR. RESTRAINTS OFF. LUNGS DIM AND RHONCHI CLEARS WITH SUCTIONING. CONTINUE TO MONITOR.
+",,
+14908,17947,18525,,2618-10-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-5**] 11:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13334**]
+     Reason: ?interval change                                            
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old man with known pnx, lll collapse and trach.  pseudomonal pna.     
+                          
+     REASON FOR THIS EXAMINATION:
+      ?interval change                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pseudomonas pneumonia.
+     
+     PORTABLE AP CHEST:  Comparison is made to the study from [**2618-10-4**].
+     Again seen is a right PICC with the tip in the SVC.  There is now complete
+     collapse/consolidation of the left lung, with multifocal opacities in the
+     right lung which are unchanged.  There is stable superimposed pulmonary edema,
+     likely from CHF.  Tubing in the upper abdomen is unchanged.
+     
+     IMPRESSION:  Complete collapse/consolidation of the left lung.
+
+",,
+14908,17947,18525,0,2618-10-05 04:06:00 EST,2618-10-05 04:09:00 EST,6152,"N",69,"Nursing/Other",,"
+
+PT HAS BEEN SINUS BRADY THIS SHIFT.  WHEN HE IS AWAKE AND MOVING AROUND IN BED HIS HR GOES UP TO 70-80'S. HE HAS HAD COPIOUS WHITE, CREAMY, THICK SECRETIONS FROM HIS TRACH. HE HAS A STRONG PRODUCTIVE COUGH AND COUGHS UP COPIOUS SECRETIONS. HE IS INCONTINENT OF URINE AND DIAPER HAS BEEN CHANGED PRN. PT COOPERATIVE AND FOLLOWS ALL COMMANDS.
+",,
+14908,17947,18525,0,2618-10-05 16:09:00 EST,2618-10-05 16:21:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN FOR 7A-7P:    DNR  ALLERGIC TO DEMORAL, MORPHINE, PCN
+
+                      SEE FLOWSHEET FOR MORE DETAILS
+
+NEURO: ALERT.  PERLA. FOLLOWS COMMANDS.  ASSISTS WITH TURNING/REPOSITIONING.  RESPONDS APPROPRIATELY AND ABLE TO COMMUNICATE NEEDS EFFECTIVELY. DENIES ANY PAIN/DISCOMFORT AT THIS TIME.  NO PAIN MEDS GIVEN TODAY.
+
+RESP:  TRACHED WITH COLLAR IN PLACE SET AT 70%.  ADEQUATE SATS MAINTAINED. LUNG SOUNDS WITH RHONCHI IN UPPER LOBES AND DIMINISHED IN THE BASES. SUCTIONED Q2-3 HRS FOR COPIOUS AMOUNT OF THICK WHITISH SECRETION VIA TRACH. BRONCHOSCOPY DONE BY DR. [**Last Name (STitle) 191**] WHICH SHOWED COPIOUS SECRETIONS.  CLEARED AND MAY NEED AN ADDITIONAL BRONCH  ON TUES.  NEEDS AGGRESSIVE PULMONARY TOILETING INCLUDING CPT AS TOLERATED.  PORTABLE CHEST X-RAY SHOWS FIVE FRACTURED RIBS FROM RECENT FALL.   
+
+CV:  SB-SR WITH HR 40-80'S. BP STABLE.  NO ECTOPY NOTED. AFEBRILE. PALP. DISTAL PULSES.  DEPENDENT EDEMA X 4.
+
+GI:  + HYPOACTIVE BS NOTED.  NO BM.  ABD IS SOFT, NON-DISTENDED, NON-TENDER.  PEG IN PLACE WITH TF'S SCHEDULED TO BE STARTED THIS AFTERNOON.
+
+GU:  INCONT. OF URINE THROUGHOUT THE DAY.  DIAPER IN PLACE AND ESTIMATING VOIDS.
+
+SOCIAL:  NO VISITS OR CALLS TODAY.
+
+PLAN:  CONT. WITH CURRENT PLAN OF CARE.  MONITOR PER PROTOCOL. CONT. WITH AGGRESIVE PULMONARY TOILETING. START TF'S, REPLETE ELECTROLYTES AS NEEDED. 
+
+
+",,
+14908,17947,18525,0,2618-10-05 16:32:00 EST,2618-10-05 16:34:00 EST,102,"N",69,"Nursing/Other",,"
+
+resp care
+pt has [**Location (un) **] t-tube in place. suctioned fairly frequently t/out shift for white in mod to copious amts. strong cough effort. admin albuterol/atrovent nebs q6h. bs with low pitched wheezing, bronched and noted to have collapsible airways and compressed left bronchus. c/w nebs,sxning, would suggest postural drainage with left side up d/t left sided whiteout,rib fx's. 
+",,
+14908,17947,18525,,2618-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-6**] 9:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13335**]
+     Reason: lll collapse                                                
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         63 year old man with known pnx, lll collapse and trach.  pseudomonal pna.    
+                            
+     REASON FOR THIS EXAMINATION:
+      lll collapse                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Complete left lung collapse on prior chest radiography.
+     Pseudomonal pneumonia. 
+     
+     PORTABLE AP CHEST:   Comparison is made to the prior study from [**2618-10-5**]. Again
+     seen is right PICC line with the tip in the SVC.  There has been partial re-
+     expansion of the left upper lobe. There is a moderately large left pleural
+     effusion. The appearance of multifocal opacities in the right lung and CHF are
+     unchanged.
+     
+     IMPRESSION: Partial re-expansion of left upper lobe. Moderately large left
+     effusion.
+
+",,
+14908,17947,18525,0,2618-10-06 03:06:00 EST,2618-10-06 03:42:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 19:00-7:00","
+micu/sicu nsg note: 19:00-7:00
+events: pt required q1-2 hr suctioning for thick white secretions. he seemed to clear secretions better after turned side to side. placed on vest therapy for cpt per micu team also with good effect. desated once while requiring extensive nsg intervention with bath to clean up urine incontinence. responded well with inc. 02 to 100%, sx'd for lg amt copious white thick sputum and then rest. tolerating tf inc. to 50cc/hr. 
+
+neuro: alert, follows commands,mae with equal strengths, assists with turns but requires a boost,nodding/shaking head to questions appropriately, appears to understand what's said to him with plan of care, nsg interventions, perrla 2mm brisk. valproic acid level 5 on [**10-5**] in am. pm valproic acid dose given at 2:00am 9/21 per micu team as pt had not received the last 2 doses. 
+
+cv: hr ranging 56-66 sb/sr. bp ranging 108-129/52-75. pm lopressor dose held per parameters. +pp, +csm, trace pedal edema.
+
+resp: lungs coarse in upper fields, diminished at bases. sp02 ranging 92-100% on 70% cool mist via trach collar mask. requiring aggressive pulm. toilet-sx'd q1-2 hrs for thick copious to moderate amts white sputum. also given frequent mouth care. desated x1 with extensive nsg intervention (see events above) but relieved with inc. 02,sx'ing, rest. vest therapy started q4hrs along with frequent repositioning q2hrs to assist to mobilize the secretions better. turned on r side alt with supine position (collapsed l lung with white out per team). 
+
+gi/gu: abd soft, nt,nd, + 8x10cm abd hernia below umbilicus (unchanged from admission assessment). receiving tf promote now at 50cc/hr via peg. tf to continue until 8am and resume tonight at 8pm with tf inc. q4h in 10cc intervals if residual <100cc. 0 residuals this shift. peg also flushed with 30cc water. inc. x several. pt switched to condom cath to avoid numerous times of being inc. voiding adequate amts clear yellow urine. stable fs not requiring ss reg insulin.
+
+skin: cwdi. bruising noted on arms, and back and l rib area. no breakdown noted.
+
+id: t max 97.8 po. continues on contact precautions for mrsa/pseudomonas in sputum. being tx'd on iv vanco, iv ceftazidime for pna. 
+
+lines: r dl picc site wnl. dsg changed. blue port with sluggish flush and blood return but infusing d 5 1/2 ns at 75cc/hr without difficulty. not able to flush or get a blood return from red port even after trying heparin. per micu team, 1cc tpa instilled in picc line for 1hr and withdrawn with some difficulty but with excellent bld return and flushing after tpa withdrawn. 
+
+social: no contact/visits from family this shift. 
+
+plan: continue aggressive pulm toilet with vest therapy and frequent repositioning, oob as tolerated repeat cxr in am, possible repeat bronch today, cont. iv abx, monitor temp, stop tf at 8am and restart at 8pm per protocol(inc. tf in increments of 10cc q4h if residuals <100cc), flush gt with 30cc water q 12hrs, check fs q6hr/cover with ss reg. insulin. 
+
+",,
+14908,17947,18525,0,2618-10-06 04:52:00 EST,2618-10-06 04:57:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: addendum- 19:00-7:00","
+micu/sicu nsg note: addendum- 19:00-7:00
+am k=3.6, mg=1.8. presently being repleted. am hct= 25.9, micu intern aware and no prbc needed at this time per micu intern. am na= 146,( was 149 on [**10-5**]). receiving d5 [**1-16**] at 75cc/hr. continue to monitor lytes, hct. active clot in blood bank-expires [**10-6**] at 11:59 pm.
+",,
+14908,17947,18525,0,2618-10-06 15:45:00 EST,2618-10-06 16:05:00 EST,6176,"N",69,"Nursing/Other",,"
+
+NEURO: PT CONTINUES ON FENTANYL 150MCG/HR AND MIDAZOLAN 3MG. EYE OPENING  NOTED WITH STIMULUS. NO MOVEMENT OF ARMS OR LEGS. TWITCHING MOVEMENT NOTED IN SHOULDERS AT TIMES.
+PULM: REMAINS INTUBATED ON CPAP NOW. 40% FIO2. O2 SAT 98%-100%. SUCTIONED X3 FOR MOD AMOUNT OF SPUTUM WHITE IN COLOR.SPUTUM CULTURE OBTAINED. LC DIMINSHED,COURSE.
+CV:NSR HR 90-119 SBP 99-150.
+GU: FOLEY WITH DARK YELLOW/BROWN URINE 10-30CC/HR.
+GI: MEDIUN BLACK SOFT FORMED STOOL X1.
+ENDO: PT REMAINS ON INSULIN GTT @ 1U/HR. FINGER STICKS 114-129. 
+SKIN: RLE OPEN BLISTERS WITH COPIOUS SSEROUS FLUID.TISSUE GREEN, NECROTIC. NECROTIC AREA JUST BELOW THE KNEE. LLL ULCERATION GREEN, IN 
+COLOR. WOUND ON LEFT ANKLE PINK IN COLOR. BUE WITH BLISTERS & ABRASIOND. LARGE AMOUNTS OF DRAINAGE NOTED. DRESSINGS CHANGED TODAY
+SAFITY MAINTAINED, ALARMS CHECKED.
+",,
+14908,17947,18525,0,2618-10-06 16:19:00 EST,2618-10-06 16:20:00 EST,6176,"N",69,"Nursing/Other",,"
+
+dc above note
+",,
+14908,17947,18525,0,2618-10-06 16:47:00 EST,2618-10-06 16:54:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing progress note:","
+[**Hospital Ward Name **] 4 ICU nursing progress note:
+ Respiratory: Decreased secretions today..suctioned q4hrs for initially thick white sputum needing ns lavage..by late morning looser..still with large amts..poor cough. Sats in high 90's..decreased fio2 to 50% cn. Seen by pt..oob to chair..pt trached plugged and 6l nc on. Sats 94-97%. rr 20's. Able to talk with family.
+Pt encouraged to talk..cough and deep breath. Per ho..CXR..slightly improved.
+ Cardiac: HR 50-60sb..bp 130/70..decreased metoprolol to 12.5..still not being given d/t bradycardia..
+ GI: Evaluated by nutrition..current goal of promote with fiber is 70cc/hr x24hrs..then [**E-mail address 6615**] stool
+ GU: Condom cath on most of day..making good amts of urine.
+ Neuro: Follows commands..initially refused to get oob to chair..with daughter in room..pt complied. Able to stand easily..needs much assistance to turn..pt to work with pt.
+Has not required restraints..pt very cooperative and per family..understands current situation.
+ Dispo: Case management involved..pt to be screened by rehab..family aware.
+",,
+14908,17947,18525,0,2618-10-06 17:02:00 EST,2618-10-06 17:04:00 EST,102,"N",69,"Nursing/Other",,"
+
+resp care
+pt followed for nebs q6h and vest as indicated. bs with sc rhonchi, decr but present t/out left. admin albuterol/atrovent via neb. T-tube is open and suctioned for thick yellow to foamy white. instilled with saline. applied vest in a.m. pt appeared visibly distressed/uncomfortable within a few minutes. ?pain from ribs although pt denies this. mobilizing secretions well without the vest. c/w nebs/sxning/postioning.
+",,
+14908,17947,18525,,2618-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-7**] 8:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13336**]
+     Reason: eval lll collapse                                           
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          63 year old man with known pnx, lll collapse and trach.  pseudomonal pna.   
+                              
+     REASON FOR THIS EXAMINATION:
+      eval lll collapse                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  63 year old man with known pneumonia, lower lobe collapse and
+     tachycardia.
+     
+     TECHNIQUE:  Portable AP chest radiograph.  Comparison is made with the
+     previous chest radiograph dated [**2618-10-6**].
+     
+     FINDINGS:  The patient is rotated.
+     
+     Right-sided PICC line is identified terminating in SVC.
+     
+     There is a continued left lower lobe consolidation, obscuring the left heart
+     border, with increased aeration in the left upper lobe.  Again note is made of
+     multiple fractures of the left-sided ribs, with somewhat loculated effusion.
+     There is a small right-sided effusion as well.  Again note is made of plate-
+     like atelectasis in the right lung.
+     
+     IMPRESSION:  Left lower lobe consolidation, somewhat improved with increased
+     aeration of the left upper lobe.  Multiple fractures of the left ribs, with
+     somewhat loculated left pleural effusion, raising the possibility of frail
+     chest, which needs clinical correlation.  Continued small right-sided effusion
+     and plate-like atelectasis in the right lung.
+     
+
+",,
+14908,17947,18525,,2618-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-7**] 4:47 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 13337**]
+     Reason: assess LAD, extrinsic compression                           
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with CAD, permanent trach, tracheomalacia, pna, white out of 
+      left lung on xray thought to be due to mucuous plugging. Extrinsic, proximal 
+      compression noted on bronchoscopy. Please assess for lymphadenopathy, mass 
+      effect. 
+     REASON FOR THIS EXAMINATION:
+      assess LAD, extrinsic compression                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Coronary artery disease, permanent tracheostomy, tracheomalacia,
+     pneumonia, with white out on chest x-ray.
+     
+     TECHNIQUE:  Helical axial images of the chest were obtained with IV contrast.
+     100 cc Optiray contrast were administered.  Nonionic contrast was used
+     secondary to patient's debility.
+     
+     COMPARISON:  None.
+     
+     CHEST CT WITH IV CONTRAST:  There is no axillary lymphadenopathy.  The patient
+     has a tracheostomy.  There is narrowing of the trachea and right and left main
+     bronchi consistent with given history of tracheomalacia.  There are scattered
+     small mediastinal lymph nodes.  The largest measures 1.5 X 2.0 cm.  The heart
+     and great vessels are normally opacified.  There are moderate-sized bilateral
+     pleural effusions.  Bilateral lower lobe collapse is present.  There is
+     apparent consolidation in the left lower lobe and left upper lobe as well.
+     Moderate emphysematous changes are present.
+     
+     There are posterior rib fractures of the left 9th and 10th ribs.  These appear
+     acute.  No suspicious lytic or sclerotic lesions are present.
+     
+     There is enlargement of the thyroid gland.  The right lobe of the thyroid
+     appears slightly heterogeneous and has several punctate calcifications.  A
+     gastrostomy tube is present.  The visualized upper abdominal organs are
+     otherwise unremarkable.
+     
+     IMPRESSION:
+     
+     1)  Narrowed intrathoracic trachea and narrowed right and left main bronchi
+     consistent with tracheomalacia.
+     
+     2)  Enlarged thyroid with slight heterogeneous attenuation of the right
+     thyroid lobe.
+     
+     3)  Bilateral moderate-sized pleural effusions.
+     
+     4)  Right lower lobe atelectasis.
+                                                                 (Over)
+
+     DATE: [**2618-10-7**] 4:47 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 13337**]
+     Reason: assess LAD, extrinsic compression                           
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     5)  Left upper lobe and left lower lobe opacities.  These likely represent a
+     combination of atelectasis and pneumonia.
+     
+     6)  Left posterior 9th and 10th rib fractures, likely acute.
+     
+     7)  Emphysema.
+
+",,
+14908,17947,18525,,2618-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-7**] 4:47 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 13337**]
+     Reason: assess LAD, extrinsic compression                           
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with CAD, permanent trach, tracheomalacia, pna, white out of 
+      left lung on xray thought to be due to mucuous plugging. Extrinsic, proximal 
+      compression noted on bronchoscopy. Please assess for lymphadenopathy, mass 
+      effect. 
+     REASON FOR THIS EXAMINATION:
+      assess LAD, extrinsic compression                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Coronary artery disease, permanent tracheostomy, tracheomalacia,
+     pneumonia, with white out on chest x-ray.
+     
+     TECHNIQUE:  Helical axial images of the chest were obtained with IV contrast.
+     100 cc Optiray contrast were administered.  Nonionic contrast was used
+     secondary to patient's debility.
+     
+     COMPARISON:  None.
+     
+     CHEST CT WITH IV CONTRAST:  There is no axillary lymphadenopathy.  The patient
+     has a tracheostomy.  There is narrowing of the trachea and right and left main
+     bronchi consistent with given history of tracheomalacia.  There are scattered
+     small mediastinal lymph nodes.  The largest measures 1.5 X 2.0 cm.  The heart
+     and great vessels are normally opacified.  There are moderate-sized bilateral
+     pleural effusions.  Bilateral lower lobe collapse is present.  There is
+     apparent consolidation in the left lower lobe and left upper lobe as well.
+     Moderate emphysematous changes are present.
+     
+     There are posterior rib fractures of the left 9th and 10th ribs.  These appear
+     acute.  No suspicious lytic or sclerotic lesions are present.
+     
+     There is enlargement of the thyroid gland.  The right lobe of the thyroid
+     appears slightly heterogeneous and has several punctate calcifications.  A
+     gastrostomy tube is present.  The visualized upper abdominal organs are
+     otherwise unremarkable.
+     
+     IMPRESSION:
+     
+     1)  Narrowed intrathoracic trachea and narrowed right and left main bronchi
+     consistent with tracheomalacia.
+     
+     2)  Enlarged thyroid with slight heterogeneous attenuation of the right
+     thyroid lobe.
+     
+     3)  Bilateral moderate-sized pleural effusions.
+     
+     4)  Right lower lobe atelectasis.
+                                                                 (Over)
+
+     DATE: [**2618-10-7**] 4:47 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 13337**]
+     Reason: assess LAD, extrinsic compression                           
+     Admitting Diagnosis: ACUTE CORONARY SYNDROME
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     5)  Left upper lobe and left lower lobe opacities.  These likely represent a
+     combination of atelectasis and pneumonia.
+     
+     6)  Left posterior 9th and 10th rib fractures, likely acute.
+     
+     7)  Emphysema.
+
+",,
+14908,17947,18525,0,2618-10-07 01:11:00 EST,2618-10-07 01:16:00 EST,6152,"N",69,"Nursing/Other",,"
+
+ACCEPTED PATIENT IN CHAIR AND PLEASANT AND COOPERATIVE.  RETURNED PT TO BED AT 2230, 2 PERSON ASSIST.  PT DID NOT HAVE FULL WEIGHT BEARING AT TIME OF TRANSFER. HE HAD PULLED OFF THE TUBE FEEDING AND WAS CLEANED UP.  AT 0130 HE PULLED OFF THE CONDUM CATHETER AND IT WAS REPLACED.  HIS TUBE FEEDING HAVE REACHED GOAL OF 80CC Q HR WITH NO REDISUAL.  VSS STABLE. HE CONTINUES TO BE COOPERATIVE. PICC LINE IS INTACT AND HE CONTINUES TO RECEIVED ANTIBIOTICS. HE IS SUCTIONED EVERY 1-2 HRS FOR THICK WHITE MODERATE SECRETIONS. SKIN IS INTACT. LUNGS HAVE EXP WHEEZES. HE RECEIVES RESP TREATMENTS. HE WAS RECEIVED ON 5L NC AND THEN PLACED ON 50% TRACH COLLAR WHEN RETURNED TO BED PER PT REQUEST. 
+",,
+14908,17947,18525,0,2618-10-07 05:54:00 EST,2618-10-07 05:56:00 EST,6152,"N",69,"Nursing/Other",,"
+
+pt had a bath at 6am and wa splace in the chair after the bath. Bedding changed, suctioned for moderate thick white. Able to weight bear better this am than last eve when putting him back to bed. He refused the nasal canula and only wanted the trach collar.  Cooperative except for bath....
+",,
+14908,17947,18525,0,2618-10-07 16:47:00 EST,2618-10-07 16:55:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing progress note:","
+[**Hospital Ward Name **] 4 ICU nursing progress note:
+ Respiratory: Continues on cn trach mask..50%..suctioned q1-2hrs for mod amts thick..sticky sputum. Needing ns lavage. Has better cough today. rr 16-22. Wearing 6l nc..sats 97%. Had chest ct to evaluate left lung.
+ GI: Met goal of TF..starting this eve..to run promote with fiber at 120hr x14hr. Incontinent of large loose brown bm
+ GU: Most of day..kept condom cath on..off x1..good output..giving water boluses thru peg.
+ Neuro: Cooperative and [**Last Name (un) 214**]..at times refusing to comply with care..ie..getting oob to chair..having temp taken...
+ Social: Daughter not in..spoke with case management 
+ Dispo: Evaluated by several rehabs..planning for ?DC to [**Hospital **] rehab in am..Daughter aware.
+",,
+14908,,18525,0,2618-10-08 04:56:00 EST,2618-10-08 04:58:00 EST,6152,"N",69,"Nursing/Other",,"
+
+pt placed back on trach collar overnite for humidification and suctioning. He rested well overnite. Lungs cleared with suctioning, insp and exp. wheezing after suctioning. Rec water boluses as ordered. Tube feeds to be turned off at o8oo. Alert and follows orders. Bath done this am.
+",,
+14908,,18525,0,2618-10-08 16:39:00 EST,2618-10-08 16:52:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN/DISCHARGE NOTE FOR 7A-6P:   ALLERGIC TO DEMEROL, MORPHINE, PCN
+
+
+                    SEE FLOWSHEET FOR MORE DETAILS
+
+NEURO:  AAOX2, PERLA.  SPEAKS AND UNDERSTANDS SOME ENGLISH. NATIVE LANGUAGE IS POLISH. ABLE TO COMMUNICATE NEEDS EFFECTIVELY.  ASSISTS WITH TURNING/REPOSITIONING.  OOB CHAIR X 5 HRS TODAY.  NEEDS MAX AX2 BACK TO BED. ABLE TO STAND FOR SHORT PERIODS. C/O PAIN 2 TIMES TODAY AND REC'ED HYDROMORPHINE 1MG SC X 2.  RESTING IN BED IN NO APPARENT DISTRESS AT THIS TIME.
+
+RESP:  4L NC IN PLACE WITH ADEQUATE SATS.  [**Location (un) **] TUBE (TRACH) IN PLACE WITH Q2-3HR SUCTION OF THICK WHITISH SECRETIONS. LUNG SOUNDS COARSE THROUGHOUT AND DIMINISHED IN THE BASES L>R.    SOME SOB WITH EXCERTION NOTED.  HAS A STRONG, PRODUCTIVE COUGH.  CONT. WITH AGGRESSIVE PULMONARY REHAB.
+
+CV:  SB-SR WITH HR 50-80'S.  BP STABLE. PALP. PERIPHERIAL PULSES X 4. AFEBRILE. GENERALIZED DEPENDENT EDEMA.  PICC LINE TO RAC IN PLACE.
+
+GI:  + BS NOTED.  HIATAL HERNIA NOTED.   PEG TUBE CLAMPED AND IS SCHEDULED TO HAVE TF'INGS UP AT 22:00 TONIGHT AT REHAB.  ABD IS SOFT, NON-TENDER, SLIGHTLY DISTENDED.  INCONT. OF LARGE AMOUNT OF LOOSE BROWN HEM NEGATIVE STOOL WHILE IN CHAIR TODAY. REC'ED FREE H2O BOLUSES OF 150CC Q6HRS.
+
+GU:  CONDOM CATH PULLED OFF BY PATIENT X 2 TODAY.  PLACED DIAPER TO AREA AND PATIENT CONTS. TO BE INCONT. OF LARGE AMOUNT OF URINE THROUGHOUT THE DAY.  PERICARE DONE X 2 FOR MY SHIFT.
+
+SOCIAL:  CALLED SISTER AND MADE HER AWARE OF PENDING TRANSFER TO REHAB. TODAY.
+
+PLAN:  CONT. WITH AGGRESSIVE PULMONARY TOILETING.  CONT. WITH CURRENT PLAN OF CARE. SCHEDULED TO BE TRANSFERRED TO NORTHEAST SPECIALITY HOSPITAL IN [**Hospital1 1773**] MASS. AT 1800 TODAY. 
+
+",,
+14908,,,,2618-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-10**] 6:17 PM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 13338**]
+     Reason: placement into stomach                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with s/p PEG replacement                                        
+     REASON FOR THIS EXAMINATION:
+      placement into stomach                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  PEG placement.
+     
+     ABDOMEN, SUPINE:  A G-tube is visualized in the left upper quadrant at the
+     level of the L2-3.  Its correct position cannot be ascertained without
+     administration of contrast.  Multiple rib fractures are visualized in the left
+     lower ribs laterally.
+     
+     
+
+",,
+14908,,,,2618-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-10**] 6:49 PM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 13339**]
+     Reason: check placement of g tube                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old man with s/p PEG replacement    now with barium infused            
+                              
+     REASON FOR THIS EXAMINATION:
+      check placement of g tube                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status-post G-tube placement; evaluate for position.
+     
+     ABDOMEN, SUPINE:  There is a G-tube visualized in the left upper quadrant at
+     the level of the L2-L3.  There is no evidence of contrast to fully evaluate
+     the correct position of the tube.  There are multiple rib fractures on the
+     left side laterally.  There is atelectasis at the left lower lobe with some
+     left-sided pleural effusion.  An SVC filter is visualized.
+     
+     IMPRESSION:  G-tube in the left upper quadrant.  Precise anatomic location
+     requires contrast administration.
+     
+
+",,
+14908,,,,2618-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-10-11**] 3:46 PM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 13340**]
+     Reason: g-tube placement w/contrast                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old man with s/p PEG replacement                                      
+     REASON FOR THIS EXAMINATION:
+      g-tube placement w/contrast                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  G-tube placement check.
+     
+     ABDOMEN, SINGLE VIEW:  A catheter is seen in the mid abdomen, entering from
+     the left and extending across the spine.  Contrast has been injected, and
+     there is opacification of multiple loops of small bowel.  An SVC filter is
+     visualized.  There is evidence of a left rib fracture seen at the upper-most
+     portion of the radiograph.
+     
+     IMPRESSION:  Catheter within the small bowel.
+     
+     These findings were discussed with the team caring for the patient at the time
+     of the study.
+     
+     
+
+",,

@@ -1,0 +1,170 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14612,16639,,,2640-09-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2640-9-14**]     Discharge Date:  [**2640-9-25**]
+
+Date of Birth:   [**2552-12-25**]     Sex:  F
+
+Service:  CMED
+
+HOSPITAL COURSE:
+1. Congestive heart failure:  The patient was continued on
+nesiritide drip until the day of discharge.  In addition, she
+was treated with daily IV Lasix and started on five days of
+Diamox therapy.  She continued to have negative fluid balance
+daily and was comfortable on low flow oxygen on the day of
+discharge with oxygen saturations in the mid 90s.  She should
+continue to have her daily Lasix, and she should complete
+four more days of Diamox therapy.  Please check her weights
+daily and follow her potassium as Lasix may cause
+hypokalemia.  Please continue her daily digoxin at 0.125 and
+check her digoxin level in one week.
+
+2. Fall:  The patient fell on [**9-23**], while trying to
+wipe herself on the commode.  She hit her head on the floor
+and had a 3 cm in diameter superficial hematoma on her left
+parietal scalp.  She had a nonfocal neurological examination.
+Head CT scan, C spine films, and hips and pelvis x-rays
+showed no acute trauma.  The patient is weak after her
+extended hospital stay, and will need Physical Therapy in
+rehab.  She continues to have a nonfocal examination and is
+cleared for discharge.
+
+3. Bilateral pleural effusions:  The patient has had chronic
+bilateral pleural effusions that were being treated with
+aggressive diuresis.  The right effusion has improved during
+her hospital, however, the left side has had an interval
+increase in size.  The patient refused an inpatient
+thoracentesis despite having all of the benefits explained to
+her.  She should be asked again as an outpatient and should
+call the Interventional Pulmonary Department at [**Hospital1 392**] to schedule an outpatient
+thoracentesis if she changes her mind.
+
+4. Swallowing:  The patient passed her swallowing study, but
+should have her medications crushed in apple sauce as she
+refuses to take them if they are not prepared in that way.
+
+5. Depression:  The patient was seen by Psychiatry during
+this admission as she was refusing po medications.  She was
+seen and it was determined that she was not clinically
+depressed at this time.  She responds well to attention and
+should be engaged in conversation and group activities, and
+rehab as much as possible.
+
+6. Atrial fibrillation:  She should continue to take her
+daily Coumadin and have her INR checked every 2-3 days
+initially.  Her goal INR is 2.0-3.0.  She should continue to
+take 400 mg po of amiodarone daily for the next four weeks.
+At that time, her dose should be adjusted to 200 mg daily.
+Please check LFTs every 2-3 months.
+
+7. Code status:  The patient has clearly expressed her wishes
+to be DNR/DNI.  The family members were present, were in
+agreement.
+
+DISCHARGE MEDICATIONS:
+1. Lipitor 10 mg po daily.
+2. Carvedilol 6.25 mg bid.
+3. Captopril 6.25 mg tid.
+4. Lasix 20 mg IV once daily.
+5. Acetazolamide 250 mg one tablet po q day.
+6. Digoxin 125 mcg po daily.
+7. Amiodarone 400 mg po daily for 28 days, and then decrease
+the dose to 200 mg po daily.
+8. Aspirin 81 mg po daily.
+9. Warfarin 3 mg daily, please check the patient's INR three
+days after discharge and adjust the Coumadin dose to have a
+goal INR of 2.0-3.0.
+
+
+
+                          [**Doctor First Name 280**] [**Name8 (MD) 281**], M.D.  [**MD Number 282**]
+
+Dictated By:[**Last Name (NamePattern1) 2100**]
+
+MEDQUIST36
+
+D:  [**2640-9-25**]  18:35
+T:  [**2640-9-28**]  10:52
+JOB#:  [**Job Number 10940**]
+Signed electronically by: DR. [**First Name (STitle) 280**] [**Doctor Last Name **]
+ on: MON [**2640-12-28**] 2:19 PM
+(End of Report)
+
+
+",,
+14612,16639,18166,0,2640-09-15 18:18:00 EST,2640-09-15 18:37:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Admit Note:
+
+Pt is a 87y/o female whom was admitted to [**Hospital3 2475**] [**9-2**] with AMI, Afib, RVR 150's, CHF, pleural effusions and hypotension.  Pt was intubated and placed on pressors.  Pacermaker placement on L failed at OSH due to L sided SVC per report.  Pt discharged to [**Hospital3 6304**] [**9-13**] and was then consulted for a pacer due to pt having >3sec pauses.  Pt consented and was transfered to [**Hospital1 10**] for pacer placement.  Pt underwent pacer placement this am with success.  VVI pacer placed on right.  Pt arrived back to [**Hospital Ward Name **] 3 unresponsive with sat 67% and BP 80's.  ? secondary to fentanyl rec'd in EP lab or 48hr last lasix.  pt placed on face mask and transfered to CCU for observation.
+
+Neuro: Alert and oriented x3.  Pt lethargic this evening per family pt has not slept in weeks.  Pt on bedrest x 24hrs post pacer placement.  Pt living at home independently prior to admission to OSH.  Pt's niece lives nearby.  
+
+CV: Afib to SR HR 57-114.  VVI pacer low rate set at 50. EP to interrogate pacer in am.  Pt denies CP.  BP 95-109/44-59.  No edema. Palpable pulses.  CK sent 37.  Post pacer echo revealed EF 15% from 30%.  Extremities warm and dry.  Rec'd all meds on floor this am.
+
+PULM/GU: LS dimiinshed bibasilary.  Sats 96% on 2lNC.  Pt denies SOB.  No cough noted.  Pt rec'd lasix 20mg IV with no response 20cc concentrated yellow urine.  Pt rec'd additonal 40mg lasix IV following placement of foley cath with 60cc repsonse.  Team aware and will continue to follow.  BUN 34 Cr .7.
+
+GI: NPO. Pt was swallowing water and noted to have difficulty.  Team notified and ordered for a swallowing study [**9-16**].  Pt receives all meds crushed.  Pt incontinent of soft brown OB- stool.
+
+ID: WBC 14.2 BC sent x 1 and urine was sent.  Unable to obtain second sent of BC due to poor peripheral access, team aware.  t max 99.8 R.  pt rec'd vanco 500mg IV x 1 post pacer placement.  
+
+SKIN: Pt with duoderm on back.  Per report pt with stage 2 breakdown.
+
+LINES: 1 PIV.
+
+SOCIAL: Pt's niece and nephew visited this evening and updated on pt's condition.  
+Pt refusing placement at [**Hospital3 6304**] upon d/c per family.  Per family case manager on floor has begun rehab screening, please follow up in am with case management.
+
+A/P: Follow temp curve, hemodynamics and u/o.  Await culture results.  Maintain bedrest s/p pacer placement. Aspiration Precautions.  Swallowing study [**9-16**].    Screening for rehab placement.
+",,
+14612,16639,18166,,2640-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2640-9-16**] 8:21 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 11026**]
+     Reason: check lead placement                                        
+     Admitting Diagnosis: SICK SINUS SYNDROME\PACEMAKER INSERTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 year old woman with CHF, recent MI, CAD, afib, new pacemaker via persistent 
+      left sided SVC
+     REASON FOR THIS EXAMINATION:
+      check lead placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CHF, recent MI.  New pace maker.
+     
+     AP CHEST:  Biapical pleural calcification is present.  There is no
+     pneumothorax.  A single chamber right sided pace maker has a lead terminating
+     in the right ventricle.  Moderate bilateral layering pleural effusions are
+     unchanged in appearance from prior study of [**2640-9-15**].  Persistent patchy
+     perihilar opacities are consistent with mild continued heart failure.
+     
+     IMPRESSION:  Persistent mild CHF.  No pneumothorax.
+     
+
+",,
+14612,16639,18166,0,2640-09-16 04:47:00 EST,2640-09-16 04:58:00 EST,342,"N",1,"Nursing/Other","S/P PACEMAKER INSERTION","
+S/P PACEMAKER INSERTION
+NEURO: A&O X3. SLEEPY BUT EASILY AROUSABLE. MAE. R. ARM IN SPLINT X24
+       HRS POST-PACEMAKER.
+RESP: O2->2L NP. O2 SATS 96-100%. RR 19-26. BS CLEAR BUT DIMINISHED AT
+      BASES. DENIES SOB.
+CARDIAC: HR 103-130 AF. RARELY IN SB/SR R50-60'S. BP 90-114/36-68.
+         PACEMAKER DSG D&I. +BPPP. MINIMAL RESPONSE WITH IV LASIX.
+         NATRECOR ADDED @.01MCG/KG, THEN INCREASED TO .015MCG/KG WITH
+         IMPROVED U/O.
+GI: ABD. SOFT. INC. SOFT BROWN STOOL X2. G-. C/O DIFF. SWALLOWING ?
+    D/T PRIOR INTUBATION. TO HAVE SWALLOWING STUDY TODAY.
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. MINIMAL RESPONSE
+    TO IV LASIX THEN U/O DECREASED TO 8-10CC/HR. NATRECOR ADDED WITH
+    INCREASE IN U/O. 2nd DOSE IV LASIX GIVEN->U/O 20-165CC/HR.
+ID: T 99.8(R). CONT. ON IV VANCO & LEVOFLOX.
+AM LABS PENDING.
+   
+",,
+14612,16639,18166,0,2640-09-16 16:52:00 EST,2640-09-16 16:53:00 EST,96,"N",1,"Nursing/Other",,"
+
+see transfer note for today's note.
+",,

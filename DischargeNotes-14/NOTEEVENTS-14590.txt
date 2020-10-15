@@ -1,0 +1,2652 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14590,17099,,,2770-06-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2770-6-9**]     Discharge Date:  [**2770-8-20**]
+
+Date of Birth:   [**2687-12-5**]     Sex:  M
+
+Service:  Medicine
+
+Addendum:
+
+The patient went to surgery on [**8-6**], having an
+ileocolectomy secondary to a colonic mass.  There were no
+intraoperative complications.  The patient went to the floor
+and started developing increased oxygen requirement, as well
+as elevated white count.  He was hypoxemic.  He was admitted,
+over the course of a few days worsened, entered an acute
+hypoxemic respiratory failure state thought to be secondary
+to aspiration pneumonitis.  As it worsened, he was put on
+antibiotics and admitted to the Medical Intensive Care Unit.
+There, he was intubated, diuresed aggressively.  There were
+bilateral pleural effusions on chest x-ray.  This was
+complicated by pneumothorax.  A chest tube was placed.  Once
+the pneumothorax resolved, the chest tube was pulled on the
+26th.
+
+The patient, at this time, was having increasing white cell
+count and on [**8-17**], had a new infiltrate on chest x-ray
+and this was believed to be a persistent aspiration
+pneumonia.  At this point, the family decided to not add
+anymore care, to not further work up.  When the patient was
+on the floor on the 27th, the family decided to remove
+[**First Name9 (NamePattern2) 10909**] [**Last Name (un) 644**] medication, antibiotics, lines and to stop
+any work up for the pneumonia as well as anything invasive.
+Therefore, on the 28th, the respiratory rate dropped to 6 per
+minute.
+
+There will be an addendum to possibly change the discharge
+date.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1557**], M.D.  [**MD Number 1558**]
+
+Dictated By:[**Last Name (NamePattern1) 10910**]
+
+MEDQUIST36
+
+D:  [**2770-8-19**]  15:45
+T:  [**2770-8-21**]  09:44
+JOB#:  [**Job Number 10911**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: FRI [**2770-8-28**] 5:09 PM
+(End of Report)
+
+
+",,
+14590,17099,,,2770-06-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-9**] 8:56 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10845**]
+     Reason: Hx of CHF and Myasthenia [**Last Name (un) **] with weakness and SOB.  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above.  
+     REASON FOR THIS EXAMINATION:
+      Hx of CHF and Myasthenia [**Last Name (un) **] with weakness and SOB.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Myasthenia [**Last Name (un) 247**] with weakness and shortness of breath.  History
+     of CHF.
+     
+     COMPARISON:  None.
+     
+     FRONTAL AND LATERAL CHEST:  There is a small left effusion.  There is
+     elevation of the right hemidiaphragm with right basilar atelectasis. A more
+     focal ovoid opacity just above the right hemidiaphragm laterally may represent
+     focal fluid inthe fissure, however a nodule is not excluded and attention to
+     this area on follow exams is recommended. There is left lower lobe
+     consolidation and collapse. Heart size cannot be assessed. The superior
+     mediastinal contour is prominent but likely related to low lung volumes and AP
+     technique.  There is minimal if any upper zone redistribution.
+     
+     IMPRESSION:  Low lung volumes with bibasilar atelectasis/consolidation and
+     small left sided effusion.
+     
+
+",,
+14590,17099,,,2770-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-11**] 9:52 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 10846**]
+     Reason: oropharyngeal dysfunction                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with MG and dysphagia                                           
+     REASON FOR THIS EXAMINATION:
+      oropharyngeal dysfunction                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Dysphagia in patient with myasthenia [**Last Name (un) 247**].
+     
+     VIDEO OROPHARYNGEAL SWALLOW was performed with the speech pathologist.
+     Contrast material of multiple consistencies was given.  There is mild
+     vallecular residue with puree, pudding and solid contrast material.  The
+     vallecular residue was nearly cleared with additonal swallows.  The patient
+     aspirated on administration of liquid thickened to a honey consistency. A
+     cough immediately followed aspiration.
+     
+     IMPRESSION:  Aspiration of honey-thickened liquid.
+     
+
+",,
+14590,17099,,,2770-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-12**] 9:11 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 10847**]
+     CT RECONSTRUCTION
+     Reason: R/O PE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  ? pulmonary embolism in patient with h/o weakness and sob in the
+     setting of myasthenia [**Last Name (un) 247**].
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     thoracic inlet to lung bases after the administration of 100 cc of Optiray,
+     used secondary to pulmonary CTA fast bolus protocol.  Multiplanar reformations
+     were subsequently obtained and reviewed.
+     
+     No prior studies available for comparison:
+     
+     CT CHEST W/CONTRAST (PULMONARY CTA):  There is adequate opacification of the
+     pulmonary arterial vessels and there are no filling defects or paucity of
+     distal vessels to suggest the presence of pulmonary embolism.  A few scattered
+     calcifications are noted in the thoracic aorta.  The heart is normal in size.
+     A trace pericardial effusion is noted.  A few small lymph nodes are noted in
+     the prevascular, aorto-pulmonary, pretracheal and subcarinal regions of the
+     mediastinum, none reaching CT criteria for pathologic enlargement.  There is a
+     densely heterogeneously calcified region of the mediastinum inferior and
+     medial to the branch point of the right main stem pulmonary bronchus.
+     
+     The lungs are notable for right lower lobe collapse and associated
+     hyperexpansion of the right upper and right middle lobes.  There is associated
+     right hemidiaphragm elevation.  There is a moderate amount of atelectasis in
+     the left lower lobe dependently and a small left pleural effusion.  No nodules
+     or focal consolidations are present.
+     
+     There is incomplete visualization of the organs of the upper abdomen.  Limited
+     views of the liver, spleen, and pancreas are unremarkable.  Patient is s/p
+     cholecystectomy.  Small bowel loops are noted to be opacified, likely
+     secondary to residual barium from video swallow study.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     
+     2)  Right lower lobe is partially collapsed with associated hyperexpansion of
+     the right upper and right middle lobes and elevation of the right
+     hemidiaphragm.  There is also mild atelectasis in the left lower lobe with
+     associated small left pleural effusion.
+     
+     3)  Densely  calcified lymph nodes posterior and inferior to the right main
+     stem bronchus, likely post-infectious in nature.
+     
+                                                                 (Over)
+
+     DATE: [**2770-6-12**] 9:11 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 10847**]
+     CT RECONSTRUCTION
+     Reason: R/O PE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14590,17099,,,2770-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-12**] 9:11 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 10847**]
+     CT RECONSTRUCTION
+     Reason: R/O PE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  ? pulmonary embolism in patient with h/o weakness and sob in the
+     setting of myasthenia [**Last Name (un) 247**].
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     thoracic inlet to lung bases after the administration of 100 cc of Optiray,
+     used secondary to pulmonary CTA fast bolus protocol.  Multiplanar reformations
+     were subsequently obtained and reviewed.
+     
+     No prior studies available for comparison:
+     
+     CT CHEST W/CONTRAST (PULMONARY CTA):  There is adequate opacification of the
+     pulmonary arterial vessels and there are no filling defects or paucity of
+     distal vessels to suggest the presence of pulmonary embolism.  A few scattered
+     calcifications are noted in the thoracic aorta.  The heart is normal in size.
+     A trace pericardial effusion is noted.  A few small lymph nodes are noted in
+     the prevascular, aorto-pulmonary, pretracheal and subcarinal regions of the
+     mediastinum, none reaching CT criteria for pathologic enlargement.  There is a
+     densely heterogeneously calcified region of the mediastinum inferior and
+     medial to the branch point of the right main stem pulmonary bronchus.
+     
+     The lungs are notable for right lower lobe collapse and associated
+     hyperexpansion of the right upper and right middle lobes.  There is associated
+     right hemidiaphragm elevation.  There is a moderate amount of atelectasis in
+     the left lower lobe dependently and a small left pleural effusion.  No nodules
+     or focal consolidations are present.
+     
+     There is incomplete visualization of the organs of the upper abdomen.  Limited
+     views of the liver, spleen, and pancreas are unremarkable.  Patient is s/p
+     cholecystectomy.  Small bowel loops are noted to be opacified, likely
+     secondary to residual barium from video swallow study.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     
+     2)  Right lower lobe is partially collapsed with associated hyperexpansion of
+     the right upper and right middle lobes and elevation of the right
+     hemidiaphragm.  There is also mild atelectasis in the left lower lobe with
+     associated small left pleural effusion.
+     
+     3)  Densely  calcified lymph nodes posterior and inferior to the right main
+     stem bronchus, likely post-infectious in nature.
+     
+                                                                 (Over)
+
+     DATE: [**2770-6-12**] 9:11 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 10847**]
+     CT RECONSTRUCTION
+     Reason: R/O PE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14590,17099,,,2770-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-12**] 9:11 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 10847**]
+     CT RECONSTRUCTION
+     Reason: R/O PE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  ? pulmonary embolism in patient with h/o weakness and sob in the
+     setting of myasthenia [**Last Name (un) 247**].
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     thoracic inlet to lung bases after the administration of 100 cc of Optiray,
+     used secondary to pulmonary CTA fast bolus protocol.  Multiplanar reformations
+     were subsequently obtained and reviewed.
+     
+     No prior studies available for comparison:
+     
+     CT CHEST W/CONTRAST (PULMONARY CTA):  There is adequate opacification of the
+     pulmonary arterial vessels and there are no filling defects or paucity of
+     distal vessels to suggest the presence of pulmonary embolism.  A few scattered
+     calcifications are noted in the thoracic aorta.  The heart is normal in size.
+     A trace pericardial effusion is noted.  A few small lymph nodes are noted in
+     the prevascular, aorto-pulmonary, pretracheal and subcarinal regions of the
+     mediastinum, none reaching CT criteria for pathologic enlargement.  There is a
+     densely heterogeneously calcified region of the mediastinum inferior and
+     medial to the branch point of the right main stem pulmonary bronchus.
+     
+     The lungs are notable for right lower lobe collapse and associated
+     hyperexpansion of the right upper and right middle lobes.  There is associated
+     right hemidiaphragm elevation.  There is a moderate amount of atelectasis in
+     the left lower lobe dependently and a small left pleural effusion.  No nodules
+     or focal consolidations are present.
+     
+     There is incomplete visualization of the organs of the upper abdomen.  Limited
+     views of the liver, spleen, and pancreas are unremarkable.  Patient is s/p
+     cholecystectomy.  Small bowel loops are noted to be opacified, likely
+     secondary to residual barium from video swallow study.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     
+     2)  Right lower lobe is partially collapsed with associated hyperexpansion of
+     the right upper and right middle lobes and elevation of the right
+     hemidiaphragm.  There is also mild atelectasis in the left lower lobe with
+     associated small left pleural effusion.
+     
+     3)  Densely  calcified lymph nodes posterior and inferior to the right main
+     stem bronchus, likely post-infectious in nature.
+     
+                                                                 (Over)
+
+     DATE: [**2770-6-12**] 9:11 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 10847**]
+     CT RECONSTRUCTION
+     Reason: R/O PE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14590,17099,,,2770-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-14**] 1:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10849**]
+     Reason: 82 y.o. man intubated, please evaluate tube and OGT placemen
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF.                               
+     REASON FOR THIS EXAMINATION:
+      82 y.o. man intubated, please evaluate tube and OGT placement.                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY: Myasthenia [**Last Name (un) 247**] with intubation and orogastric tube placement.
+     
+     ETT is 4 cm above carina. Right jugular CV line is in mid SVC. NG tube extends
+     below diaphragm. No pneumothorax. There is elevation of the right
+     hemidiaphragm and bibasilar opacities consistent with atelectases and possible
+     consolidation in the left lower lobe. The left CPA region is not included on
+     the film. No pneumothorax. Cannot rule out small pleural effusions on this
+     single view.
+     
+     IMPRESSION: No significant change since prior study of same date. No
+     pneumothorax. Bibasilar atelectases/consolidation at left base with possible
+     small effusion.
+
+",,
+14590,17099,,,2770-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-14**] 5:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10848**]
+     Reason: TUBE PLACEMENT AND LINE PLACEMENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST SINGLE AP FILM:
+     
+     HISTORY:  Intubation.  To evaluate ET tube.
+     
+     Endotracheal tube is 5 cm above carina.  Right jugular CV line is in the
+     distal SVC.  No pneumothorax.  There is elevation of the right hemidiaphragm
+     with bibasilar atelectases and small bilateral pleural effusions.
+
+",,
+14590,17099,18133,0,2770-06-14 15:13:00 EST,2770-06-14 15:34:00 EST,-1,"N",1,"Nursing/Other","Admission Note","
+Admission Note
+On [**Hospital Ward Name **] 5 found at 0400 dusky,bradycardic 20's, hypotensive 70's/40, pulse present. Neo gtt started, 1L NS bolus given,intubated. Tx to PACU for further nursing management. Upon arrival pt remains intubatedw/#8 24lip. AC-14 TV700 60% peep 5.LS course. Dim to bases. Sxn scant amts white/thin secretions.Sedated on ativan. Neo gtt con't at 100mcg/min. A-line to Rt.radial and TL to Rt. SC. SABP 100-115/45-65. A.tachy in/out of a.fib. Abd.soft BS hypo. OG clamped.FS QID. G-tube placement held until stable. F/C present.UOP concentrated.Skin intact.
+",,
+14590,17099,18133,1,2770-06-14 17:31:00 EST,2770-06-14 18:15:00 EST,-1,"Y",1,"Nursing/Other","Admit-7p Nursing Note","
+Admit-7p Nursing Note
+Neo decreased to 20mcg/min@1900.SABP 115-120's/60's. 5mg lopressor given IV.
+",,
+14590,17099,18133,0,2770-06-14 17:31:00 EST,2770-06-14 17:54:00 EST,-1,"N",1,"Nursing/Other","Admit-7p Nursing Note","
+Admit-7p Nursing Note
+SEE CAREVUE FOR VS AND OBJECTIVE DATA
+FULL CODE
+
+NEURO:PT DC'd from propofol to assess resp drive. Eyes open spont. Follows commands. Grips weak/=. Spont. movement.
+
+CV:A.tachy/in-out afib. HR 120-145. Neo gtt con't at 40mcg/min. SABP 110-120/60-70. Attempting to wean Neo to keep MAPs>65.Started on lopressor for HR.
+
+Pulm:Attempting to wean. Current vent settings CPAP+PS10.Peep 5.TV700 40%. RR22-30. Spont.TV300-500. O2 Sats >/=88%.ABG due at 1900. Sxn scant thin clear secretions. LS to upper lobes and diminished 2/3 up.
+
+GI:ABD soft. BS+ FS QID. No coverage required. F/C patent with c/y uop. 40mg lasix given prior to IVIG. No BM.
+Labs:Mg+ and Phos low.Replacement ordered.
+Access:TL to Rt.SC, Aline to rt. radial,PIVX2 to Rt.hand/arm.
+
+Skin:intact
+
+ID:Tmax 101.0. Bld cx sent.
+Pt receieved 800cc IVIG for myasthenia [**Last Name (un) 1410**].
+Plan:Monitor labs, wean off neo,con't to assess resp drive.
+",,
+14590,17099,18133,,2770-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-15**] 8:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10851**]
+     Reason: please assess ET tube                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF.                             
+         
+     REASON FOR THIS EXAMINATION:
+      please assess ET tube                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**First Name9 (NamePattern2) 10852**] [**Last Name (un) 247**] and CHF. Assess endotracheal tube.
+     
+     COMPARISONS: [**2770-6-14**].
+     
+     SINGLE VIEW CHEST:  There are low lung volumes. The cardiac and mediastinal
+     contours are stable. The ET tube and right internal jugular catheter remain in
+     appropriate position.  There is no evidence of pneumothorax.  Bibasilar
+     collapse/consolidation is again noted and there is a probable left pleural
+     effusion.  No evidence for failure.
+
+",,
+14590,17099,18133,0,2770-06-15 04:36:00 EST,2770-06-15 05:05:00 EST,342,"N",1,"Nursing/Other",,"
+
+NEURO: OFF SEDATION, AWAKE & ALERT. FOLLOWS SIMPLE COMMANDS. MAE.
+       SEDATED WITH PROPOFOL 20MCG/KG. RESPONDS TO VERBAL STIMULI.
+       CONT. TO MAE, THOUGH NOT AS MUCH.
+RESP: ON VENT: .40/10 IPS/ 5 PEEP(ATTEMPTING TO EXTUBATE). O2 SATS 92-
+      93%. RR 22-30. ABG 7.40/56/70/36 95% SAT. VC 850, IF -10. SX
+      FOR MOD. AMTS. THICK YELLOW SECRETIONS. DECISION MADE TO REST
+      OVERNOC & ATTEMPT EXTUBATION IN AM. RESTING SETTINGS: .40X700+
+      IMV 10 & 7.5 PEEP/ IPS 10. RR 10/10. O2 SAT 96-100%. ABG 7.48/
+      47/80/36 O2 SAT 97%. BS COURSE->CLEAR AFTER SUCTIONING WITH
+      DIMINISHED BS AT BASES.
+CARDIAC: HR 79-123 SR WITH PAC'S/PVC'S. BP 111-150/61-80 OFF PROPOFOL
+         & NEO. WITH DECISION TO REST PT. OVERNOC, PROPOFOL RESTARTED
+         20MCG/KG. SBP70'S. NEO RESTARTED AT 80MCG/MIN & SLOWLY WEANED
+         TO 20MCG. BP 100-130/52-62(GOAL IS TO KEEP MAP >65.)
+GI: OGT IN PLACE FOR MEDS. ABD. SOFT. BS+. NPO. NO STOOL.
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. U/O 70-75CC/HR.
+    U/O DECREASED TO 15-25CC/HR. GIVEN 1X DOSE LASIX 40MG IV. 
+    DIURESED 1500CC.
+ID: T(MAX) 100.8(PO).
+ENDO: BS 114->101. NO TREATMENT AT THIS TIME.
+AM LABS PENDING.
+PLAN: WEAN OFF SEDATION->WEAN TO EXTUBATE.
+ 
+",,
+14590,17099,18133,0,2770-06-15 15:22:00 EST,2770-06-15 15:47:00 EST,187,"N",1,"Nursing/Other",,"
+
+7AM PROPOFOL DC  PT ALERT,FOLLOWING COMMANDS ,WRITING NOTES .PS TRIAL [**4-26**] ATTEMPTED BUT BECAME TACHYCARDIC TO 180 ,CO OF NOT GETTING ENOUGH AIR .RESEDATED AND NOW ON SIMV [**10-1**] .
+
+TACHY/BRADY IRREGULAR RHYTHM  50 TO 180. BP STABLE TILL PT RESEDATED ,NEO GTT RE  STARTED AT 30 MIC PER KG ,BP 110 SYS .1V LORESSER GIVEN FOR TACHYCARDIA DURING WEANING TRIAL,CONTINUES ON PO DOSE .
+
+SIMV 1O/10 700 TV ,40%, P5.SX THICK GREEN ,SPEC SENT, PT DEASATS TO 87 CORRECTED BY SX ,USUALLY 97.BS COARSE.
+
+ABD SOFT POS BS ,OG MIN ,TO BE STARTED ON TF .
+
+FOLEY DISLODGED ,14 PLACED BY UROLOGY , UO LOW, PINK TINGED
+
+PT RESPONDING TO DISCOMFORT WHILE SEDATED ,ALERT AND ORIENTED WHEN PROPOFOL OFF.IMMUNOGLOBULIN S INCIDENT .
+
+WIFE VISITED ,SPOKE C HO.
+
+STABLIZING 
+
+PUL TOILET
+ADVANCE TF AS TOL 
+WEAN NEO IF POSSIBLE 
+PUL TOILET 
+",,
+14590,17099,18133,,2770-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-16**] 10:32 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10853**]
+     Reason: ett placement                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF.                            
+           
+     REASON FOR THIS EXAMINATION:
+      ett placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Assess endotracheal tube placement.
+     
+     COMPARISON: [**2770-6-15**].
+     
+     SINGLE VIEW CHEST: The endotracheal tube is approximately 3.8 cm above the
+     carina. There are probable bilateral pleural effusions. No new focal areas of
+     consolidation are appreciated. No definite congestive heart failure. The right
+     internal jugular catheter terminates in the SVC.
+
+",,
+14590,17099,18133,0,2770-06-16 04:26:00 EST,2770-06-16 05:05:00 EST,104,"N",1,"Nursing/Other","CCU progress note 7p-7a","
+CCU progress note 7p-7a
+events overnite: 0345am: 61 beat run VT, symptomatic ABP 60s, pre-cordial thump delivered w/ return of irregular brady/tachy rhythm 50-140s. ekg done. lytes checked.  given lopressor 5mg IVP.
+
+CARDIAC: brady/tachy rhythm 50-140s. KCL + MgSO4 + KPhos replaced overnite. Aline R radial SBP 100-140s, weaned off Neo overnite. Maintenance fluids of .45NS@75cc/hr. ?restart po lopressor in am. R IJ TLC patent. peripheral lines. 
+
+NEURO: pt sedated on Propofol @ 20mcg/k/min. given prn Ativan 1mg and MSO4 1mg x2 overnite.  some purposeful movement of hands, shaking head no when mouth care given this morning. doesn't open eyes to command.
+
+RESP: PLUGGED/Desatted x 2 overnite to 60-70s - minimal LS. Required instillation of NS + ambu-bagging w/ suctioning. suctioning mod amts thick yellow secretions. spec sent for culture and gramstain. LS remain coarse. Pulmonary toliet overnite. 
+
+GI/GU: foley patent. clear yellow urine. good amt. abd soft. TF @ 20cc/hr. blue dye for aspiration precautions.  
+",,
+14590,17099,18133,0,2770-06-16 05:55:00 EST,2770-06-16 05:59:00 EST,104,"N",1,"Nursing/Other","addendum","
+addendum
+GI/GU: +BS. no stool overnite. on colace. ?more laxitives needed H/O constipation.
+
+PLAN: restart po lopressor this morning. monitor BP. keep pt comfortable- admin ativan/mso4 IVP as needed in addition to propofol gtt. monitor lytes. monitor for further runs VT.
+",,
+14590,17099,18133,0,2770-06-16 17:18:00 EST,2770-06-16 17:56:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note (MICU boarder)","
+CCU Nursing Progress Note (MICU boarder)
+S-Shakes head yes to being uncomfortable and constipated.
+O-Neuro propofol d/c'd for neurology evaluation. Pt cooperative and following commands easily. Picking arms off bed and holding for 10 seconds and bending knees etc. Had received ativan 1mg IVB/MSO4 2mg IVB for rotating ETT and aggressive sx/CPT in am. MSO4 2mg at 6pm for general pain/discomfort with relief. Otherwise remains on propofol 20mg/kg/hr and appears comfortable. Does not like the wrist restraints and did remove them  while having bath but reapplied when out of room.
+CV- VSS s/p bradycardic arrest, remains in WAP/MAT tachy up to 110's with some PAF. Restarted low dose lopressor 12.5mg BID with good effect rate 60-70 MAT this evening. One short run VT x6 beats (in chart). EP consult into evaluate for possible treatment and for now no perm pacer or starting amioderone. K 3.4 replaced with 80meq KCL IV and ionized Ca 1.08 received 2amps cal gluconate IV. Neo on briefly after bolus of propofol during sx this but VSS, SBP 98-150. Serial CPK negative 110, 85 s/p VT-thump during night.
+Resp- Orally intubated for problable asp pneumonia on vent 40% 700x10AC PEEP 5 rr 10-20. ABG's still showing met alkolosis  7.50/43/101/35/9 lasix d/c'd. LS coarse.
+Epsisode of desating this am to 83% responding to aggressive lavage/sx and some CPT with moderate amt of yellow creamy secretions. O2 sats 97-99% rest of day. Vent changed over to heated system to help with plugging. Vent changed at 1900 decreased VT 650.
+ID afebrile temp 99po WBC 8.0 No abx as yet.
+GU- foley draining 20-30cc amber urine sent for urine lytes pnd report. BUN/CR 24/1.0 no lasix given today.
+GI- OGT in place, receiving promote with fiber tolerating 40cc/hr withi minimal residuals, changed over to respolar 30cc/hr at 6pm.
+Nutrition to reconsult in am. Received ducolax supp with small results loose golden stool OB- and started on senecot QD for h/o constipation.
+PEG on hold.
+Endo- FS under good control <170
+Skin- rash on buttocks.
+Social- wife visited with neice. Alittle confused with different MD speaking to her regarding POC. Neurology   told her to wait for 3 weeks and medicine gave a different outlook. So spoke with wife at length about what pt wishes were and now will speak to duaghters about how to proceed. Goal to have everyone on the same page regarding POC.
+Have social worker consult if not already.
+Pt remains a full code.
+A/P-asp pneumonia, myesthenia crisis, tachy/brady 
+Follow electrolytes closely keep K+ >4.0
+Recheck lytes at 2000
+CPT q shift ambu q4hrs as needed
+MOnitor HR/rhythm
+",,
+14590,17099,18133,0,2770-06-17 03:33:00 EST,2770-06-17 03:35:00 EST,660,"N",1,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds coarse suct mod th pale yellow sput. Pt in NARD at present . No changes made overnoc. Cont mech vent support.
+",,
+14590,17099,18133,0,2770-06-17 04:34:00 EST,2770-06-17 04:59:00 EST,-1,"N",1,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE 1900-0700
+
+NEURO: Pt. remains sedated on Propofol at 20mcg/kg/min. Does not open eyes to verbal or tactile stimuli. Intermittently follows simple commands, wiggles toes. Denies pain when asked, shakes head no. At times purposeful movement of arms noted when unrestrained, tremulous. Care and procedures explained to pt, re-orientation provided.
+
+RESP: Remains intubated, AC rate 10, TV 650, +5 peep, 40% FIO2. ABG done at beginning of shift, Dr. [**Last Name (STitle) 6276**] aware no vent changes made throughout shift. ABG to be done this am.  Lungs coarse in upper lobes, diminished in lower lobes bilaterally. Suctioned for creamy white-yellow thick secretions. At times requires bag and suction with NS lavage. O2 sats >95%. No resp. distress noted.
+
+CV: Throughout shift has remained in WAP with rate 60-70s, occ PVC noted. No tachycardia noted, tolerating doses of Lopressor with SBP>90 via left radial a-line. Re-check of lytes done at 2000, K=WNL, replaced ionized calcium with 2gms Calcium Gluconate as ordered. No episodes of VT noted. EP consult in progress. Palpable peripheral pulses noted. No edema noted. Low-grade temp, max 99.6. IV fluids of .45 NS continue at 75ml/hr via right IJ triple-lumen.
+
+GI: Tolerating respolar TFs via oral [**Hospital1 16**], currently at 50cc/hr, goal 60cc/hr. Minimal residuals noted. Abdomen soft, +BS noted. Smear light brown stool noted. Blood sugars WNL,see carevue.
+
+GU: Marginal urine output 30cc/hr via foley catheter.
+
+SKIN: No skin breakdown on back or buttocks. Red rash on coccyx/buttocks, no open areas noted. Slightly pink groin, myconazole powder applied.
+
+SOCIAL: Wife called in at beginning of shift. Update given.
+
+PLAN: Wife faxed copy of living will earlier in shift. Wife also spoke with Dr. [**Last Name (STitle) 6276**] over phone, pt is now DNR. Continue to monitor heart rhythm, replace electrolytes as ordered. Continue with CPT and frequent suctioning. Continue to update pt. and family on plan of care. 
+
+
+",,
+14590,17099,18133,0,2770-06-17 14:24:00 EST,2770-06-17 14:39:00 EST,187,"N",1,"Nursing/Other",,"
+
+WAP C PVCS AND PAC NO RUNS.BP STABLE OFF NEO.LPORESSER DOSE INCREASED TO 25 MG.K REPLETED.GAMMAGLOBULIN 800C S INCIDENT.
+
+AC 650/40/10/5 AM ABG 7.44/42/116/29/98. SX LG AMT THICK YELLOW .STARTED ON ANTIBX .BS COARSE. CPT DONE .NIF 20,VC 800
+
+TOL TF .SM AMT SOFT STOOL P DULCOLAX .ABD SOFT POS BS
+
+HUO 20 TO 30 CC,POS 3L.
+
+
+PROPOFOL DC FOR NEURO EXAM,AWAKE WRITING,APPROPRIATE .ALSO AWAKE FOR WIFES VISIT. WIFE TEARFUL DISCUSSING PROGNOSIS AND RX OPTIONS .REASSURED HE WOULD BE KEPT COMFORTABLE AND HIS WISHES WOULD BE RESPECTED. CASE MANAGER TRIED TO SEE PT TODAY ,WILL SEE HER TOMORROW .
+
+NOT READY TO WEAN
+
+KEEP SEDATION AS LIGHT AS POSSIBLE BUT PT COMFORTABLE 
+KEEP WIFE INFORMED 
+PULMONARY TOILET
+",,
+14590,17099,18133,0,2770-06-17 17:35:00 EST,2770-06-17 17:50:00 EST,-1,"N",1,"Nursing/Other","7a-7p Nursing Note","
+7a-7p Nursing Note
+'
+",,
+14590,17099,18133,0,2770-06-18 04:50:00 EST,2770-06-18 05:07:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Note 1900-0700: Weakness, SOB","
+CCU Nursing Note 1900-0700: Weakness, SOB
+S-Sedated and intubated
+
+O-MS:Propofol increased to 40mcg/kg/min for comfort and sedation. Pt able to open eyes to voice, obeys and follow simple commands. Lethargic in movement. Moving UEs and LEs to command. Pt appearing comfortable and nodding head ""no"" in response to questions of pain.
+
+CV: HR 50s to 70s,WAP with occasional to frequent PACs. SBP 110s to 150s. Lopressor given w/o incident. 
+
+RESP: LS course and dim at bases. No vent changes overnoc. AM ABG 7.39/49/130/31. Suctioned for copious amounts secretions. Better effect with ambu and lavage. Secretion pale yellow and thick. CPT times one with moderate effect. O2Sat breifly dropping into the mid 80s. Once bag and lavaged rebounding into the mid to high 90s.
+
+GU/GI: Foley draining adequate amounts of CYU. U/O 60-80cc/hr. Pt grossly positive. About 7L for LOS. Abd soft with positive BSs. Passing flatus and small amounts of brown loose stool. PM Colace held. 
+TF continue at goal of 60cc/hr.
+
+ENDO: FS WNL. Continue QID checks.
+
+ID: Afebrile overnoc. Continue IV Abx.
+
+FAMILY: No calls or visitors overnight.
+
+A: Myasthenia [**Last Name (un) 1410**] c/b respiratory distress.
+
+P:Wean sedation as tolerated
+Wean to PS as tolerated 
+Continue to make pt comfortable
+ 
+",,
+14590,17099,18133,0,2770-06-18 16:59:00 EST,2770-06-18 17:06:00 EST,187,"N",1,"Nursing/Other",,"
+
+SR TO WAP RATE 50 TO 70 .BP STABLE .LOPRESSER AT 25 MG.
+
+TOL CPAP PS 12/TV 500/SAT 95 .STILL SX FOR THICK SPUTUM. 
+
+TOL TF 50CC RESPALAR C PROMOD. MOD STOOL P SUPP,ENEMA
+
+HUO 70 T0 20
+
+
+PROPOFOL DC FOR WEAN .ALERT,WRITING TO WIFE AND DR . STRENGHT INCREASED .
+
+WIFE DISCUSSED CONDITION C MICU ATTENDING ,ENCOURAGED BY IMPROVEMENT,REMAINS DNR .
+
+REST PT OVERNIGHT P TRIAL 
+MAY NEED LASIX
+",,
+14590,17099,18133,,2770-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-19**] 9:14 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 10854**]
+     Reason: Is the OG tube placed properly?                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF, possible PNA.            
+                             
+     REASON FOR THIS EXAMINATION:
+      Is the OG tube placed properly?                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check OJ tube position.
+     
+     Abdominal radiograph was obtained, although a CXR was ordered in the
+     requisition.  A tube is seen projecting over the spine and terminating in the
+     right upper quadrant, presumably representing the OJ tube terminating in the
+     expected portion of the distal stomach. The proximal portion of this tube is
+     not seen.
+     
+     The radiograph is suboptimal in technique due to underpenetration.
+
+",,
+14590,17099,18133,,2770-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-19**] 11:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10855**]
+     Reason: Would like confirmation of placement of OG tube in addition 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF, possible PNA.           
+                               
+     REASON FOR THIS EXAMINATION:
+      Would like confirmation of placement of OG tube in addition to interval change. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Line placement.
+     
+     Comparison is made to [**2770-6-16**].
+     
+     PORTABLE CHEST RADIOGRAPH:  The endotracheal tube is located 7 cm above the
+     carina.  A right sided IJ is seen with tip terminating in the lower SVC.  An
+     OG tube is seen coursing beneath the diaphragm and terminating within the
+     antrum of the stomach.
+     
+     There is persistent loss of the left cardiophrenic angle.  There are likely
+     unchanged bilateral pleural effusions.  There is no pneumothorax.
+     
+     IMPRESSION:
+     
+     1)  OG tube in right IJ in place.  No other interval change.
+     
+
+",,
+14590,17099,18133,0,2770-06-19 00:13:00 EST,2770-06-19 00:56:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Note 1900-0700: Myasthenia gravis","
+CCU Nursing Note 1900-0700: Myasthenia [**Last Name (un) 1410**]
+S-Sedate and intubated
+
+O-MS: Sedated. Propofol at 30mcgs/kg/min as high as 40mcgs/kg/min. Prior to sedation pt able to follow and obey commands. Writing down needs and concerns on paper. Writing, very ""scared"", ""hungry"" and constantly mouthing about the tube(ETT) being uncomfortable. On sedation. Very lethargic in movement. Grimacing to commands but not opening eyes. MAE's sluggishly on bed. Hand restrained for safety.
+
+CV: HR 60s to 80s. In and out of NSR to WAP with frequent PACs. Experience 10 beat run of VT around MN. SBP 110s to 150s. Prior to sedation pt moderately hypertensive sustaining in the 150s. HO aware. Plans to start ACE but rather hold off till AM. In regards to VT, question of starting Amio but again rather hold off till AM unless becomes re-current issue. Continue on Lopressor BID for tachy-brady syndrome.
+
+RESP: LS course throughout. Place back on AC once Propofol restarted. 
+Current vent settings at 650/10/.40/5 PEEP. Prior to on CPAP 12/5 and tolerating well. Spont TVs 400-600. MVs [**9-1**]. Occasional tachypenia with suctioning but RR 12-18. ABG on PS 7.48/35/160. Amount of secretion greatly decreased from previous night. Suctioning for small to moderate amounts of white to pale yellow secretion. CPT x 3 with good result. O2Sats mid to high 90s.
+
+GU/GI: Foley catheter draining clear yellow urine. Urine output fair, 25-50cc/hr. TF's off at 10PM due pt pulling out OGT. No apiration noted. OGT re-inserted. In place per auscultation. Needing CXR confirmation prior to use. CXR scheduled for this AM.  Abs soft with normoactive BSs. Passing loose brown stool. G(+).
+
+ID: Afebrile. Continues on Ceftriaxone IV for suspect pna.
+
+ENDO: FS QID. 12AM 112 and 6AM pending. Continues on Prednisone QD for 
+myasthenia [**Last Name (un) 1410**] crisis. 
+
+SKIN: Inact. Rash on coccyx area improving. In addition slighty raised area on upper back, appearing to rash. Washed with soap and H2O and OTA.
+
+ACCESS: RIJ triple lume and Aline
+
+SOCIAL: Wife and daughter speaking at length with case manager and doctors [**Name5 (PTitle) 1771**]. Although pt [**First Name9 (NamePattern2) 1415**] [**Last Name (un) 1410**] crisis improving pt still remains DNR/DNI. Wife and daughter are very ""pessimistic"" about pt returning to his baseline and want no plan of care discussed directly with pt. Want to protect pt.
+
+A: Myasthenia [**Last Name (un) 1410**] crisis, with possible PNA precipatant
+
+P:
+Continue agressive pulmonary toileting
+Continue to wean sedation and vent at tolerated
+Continue much needed encouragement to pt and family
+? of starting ACE and Amio.
+Pt remains DNI/DNR. Chemicals okay.  
+
+ 
+",,
+14590,17099,18133,0,2770-06-19 13:41:00 EST,2770-06-19 13:51:00 EST,40,"N",1,"Nursing/Other","MICU NPN","
+MICU NPN
+s: intubated
+O: See carevue for all objective data.
+CV: hr 70-90 wap w/ apc's, rate ^ 120's while on 5ps/5peep, bp 110-140/60-70 ^ 165/90 while weaning. k 3.3 this am, repleted w/ total 80meq kcl. no runs vt today.
+Resp: Vent changed to 5ps/5peep w/ abg7.38/49/111/30. pt initially comfortable, then c/o ""not getting enough air"", hr and bp ^, ps ^ to 10 w/ abg-> 7.43/39/94. Lung sounds coarse, Copious amts of oral secretions, lg amt thick white secretions from ett. 
+Gu: given lasix 40 mg iv at 10:30 w/ very good response. foley draining cl yel urine
+GI: x ray for ogt placement unconclusive, waiting for repeat x ray. TF off. sm  brn soft stool.
+id: afebrile, cont abx
+ms: on propofol 10 mcg/kg/min, pt awake alert, writing notes, able to make needs known.
+social: wife and daughter in to visit. They are currently meeeting w/ MD re: decsion to extubate and wheteher ett should be replaced if needed.
+A: tolerating wean, afebrile, no vt this shift
+P: ? extubate, follow i/o, follow lytes.
+
+
+",,
+14590,17099,18133,0,2770-06-19 21:12:00 EST,2770-06-19 22:10:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE 3P-11P","
+CCU NURSING PROGRESS NOTE 3P-11P
+S. NO COMPLAINTS, DENIES SOB
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+RESP:  PT W/CONTINUOUS CUFF LEAK NOTED AT ~ 4PM, EXTUBATED TO 50% FACE TENT AT 4:05PM, ABG ON 50% 7.35/59/150, O2 WEANED TO 2L N/C W/LAST ABG 7.44/43/68, INITIALLY COUGHING ALMOST CONSTANTLY POST-EXTUBATION, VERY LOOSE COUGH, EXPECTORATING W/DIFFICULTY, CPT BILAT W/O SIGNIFICANT EFFECT, NT SUX FOR SM AMT LOOSE CLEAR, THIN SECRETIONS W/O CHANGE IN COUGH, O2 SATS REMAINED STABLE 94-98% DESPITE CONGESTION, PT EVENTUALLY COUGHING LESS, MORE EASILY PRODUCTIVE, RR 26-30
+LUNGS COARSE
+
+CV:  HR 73-102 WAP W/FREQUENT ATRIAL ECTOPY, RARE SHORT RUNS VT, K+/MG+ REPLACED; BP 130-162/68-90; LOPRESSOR CHANGED TO 5MG IV Q6H;
+UNABLE TO RECEIVE OTHER PO MEDS
+
+ID:  AFEB, REMAINS ON CEFTRIAXONE 
+
+GI: C/O HUNGER, KEPT NPO SEC TO COUGH, DIFFICULTY CLEARING SECRETIONS
+    SM SOFT BROWN STOOL X1, OGT OUT W/ETT; DID NOT RECEIVE ANY PO MEDS, MOST CHANGED TO IV, REQUESTED ORDER FOR IV GI PROPHYLAXIS
+
+ENDOCRINE:  FS 85 - NO COVERAGE
+
+GU:  FOLEY DRAINING CLEAR YELLOW URINE, NEGATIVE 1600CC TODAY, REMAINS UP 5500 FOR LOS
+
+SKIN:  COCCYX REDDENED, USING DONUT IN BED
+
+MS:  AWAKE, ALERT, AND ORIENTED, WATCHING TV, BRUSHED TEETH, DIFFICULTY SPEAKING STILL POST-EXTUBATION, WRITING AND ASKING APPROPRIATE QUESTIONS
+
+SOCIAL:  WIFE, DAUGHTER IN TO VISIT THIS AFTERNOON, PT REMAINS DNR BUT WILL BE RE-INTUBATED AFTER DISCUSSION W/TEAM MD'S, SPOKE W/WIFE ON PHONE X2 THIS EVENING
+
+A:  TOLERATING EXTUBATION WELL
+    CONTINUES TO HAVE LOTS OF SECRETIONS
+
+P:  MONITOR ABG'S, O2 SATS, ENCOURAGE C+DB, CPT, REASSESS SWALLOWING ABILITY IN AM BEFORE GIVING PO'S, FOLLOW HR, RHYTHM, REPLACE LYTES
+AS NEEDED, EMOTIONAL SUPPORT FOR PT/FAMILY.
+
+
+",,
+14590,17099,18133,0,2770-06-20 05:51:00 EST,2770-06-20 06:01:00 EST,105,"N",69,"Nursing/Other",,"
+
+NPN
+CCU
+11 PM - 7 AM
+S/P EXTUBATION ...
+82 YR OLD MALE WHO WAS SUCCESSFULLY EXTUBATED ON [**6-19**]..AT 4 PM...ORAL SECRETIONS CONTINUE TO BE LOOSE ...WITH GREAT EFFORT PT ABLE TO USE YANKAUER INDEP ...SECRETIONS LOOSE CLEAR/YELLOW ..LUNGS COARSE 02 97%  ON 3L NP
+PT HAS BEEN NPO ..? SWALLOWING  ABILITY.....? SWALLOW STUDY..
+GU URINE OUTPUT 40-80 CC Q2 
+A HEMODYN STABLE 
+P PT IS DNR ..BUT WOULD BE RE-INTUBATED ..TRANSFERED TO MICU EAST 
+
+
+",,
+14590,17099,18133,0,2770-06-20 17:51:00 EST,2770-06-20 18:29:00 EST,228,"N",69,"Nursing/Other","PMICU NURSING ADMISSION AND PROGRESS NOTE","
+PMICU NURSING ADMISSION AND PROGRESS NOTE
+ALSO PLEASE SEE NURSING CAREVUE HISTORY
+
+82 YEAR OLD MAN THAT WAS ADMITTED ON [**6-9**] WITH PROGRESSIVE WEAKNESS AND SHORTNESS OF BREATH FOR A COUPLE OF MONTHS--ALSO WAS HAVING HALLUCINATIONS, SEEING PEOPLE.
+
+PMH:  PROSTATE CA S/P XRT, CHF, BELLS PALSY RIGHT FACE, MYESTHENIA [**Last Name (un) **], RT HIP SURGERY IN [**2769-11-22**], STRESS INC, AND CONSTIPATION
+
+ALL:  NKDA
+
+SYSTEMS REVIEW:
+
+CARDIAC:  ON [**6-14**] PT WAS FOUND TO BE VERY BRADYCARDIC TO A RATE OF 20 (ARREST CALLED) AND APNEIC.  PT WAS INTUBATED AND SENT TO THE CCU.  EP CONSULTS AND AT PRESENT PACER IS ON HOLD.  PT HAS HAD RUNS OF V-TACH AND CONTINUES TO HAVE RUNS OF V-TACH---TODAY HAD A RUN OF V-TACH (APPROX 19 BEATS), BUT BROKE WHEN PT COUGHED.  OTHERWISE, PT HAS HAD A RATE OF 72-86 WITH A WAP AND FREQUENT PACS AND SOME PVCS.  K+ 4.5.  ON D5NS AT 125CC/HR.  ARTERIAL BP IS 167-172/74-93---NBP BP WAS APPROX 20-40 POINTS LOWER THEN THE ARTERIAL BP. PT IS NOW AGAIN A FULL CODE.  
+
+RESP:  INTUBATED AND ON PROPOFOL UNTIL YESTERDAY.  ON 2L NASAL PRONGS WITH AN O2 SAT OF 96-97% AND A RESP RATE OF 22-28.  WEAK, BUT EFFECTIVE COUGH---RAISING LARGE AMTS OF THICK YELLOW SPUTUM AND OBTAINING BY SELF WITH A YANKAUR CATHETHER.  LUNG SOUNDS DEMINISHED AT THE BASES.  LLL PNEUMONIA --CXR TODAY.  PT DOES HAVE LABORED BREATHING WITH ANY ACTIVITY. 
+
+ID:  AFEBRILE.  WBC WAS 8.8.  ON CEFTRIAXONE.
+
+GI:  ABDOMIN SOFT, POSITIVE BOWEL SOUNDS.  KEPT NPO---HAS DIFFICULTY SWALLOWING.  NO OGT OR NG TUBE SO MEDS CHANG'D FROM PO TO IV.  PT WANTED TO GET UP TO THE COMMODE SO HE COULD ""DISIMPACT"" HIMSELF, AS HE DOES AT HOME----REC'D A TOTAL OF TWO FLEETS ENEMAS AND A SOAP SUDS ENEMA, WITH MODERATE RESULTS OF SOFT BROWN STOOL.  
+
+GU:  URINE IS VERY CLOUDY WITH A LARGE AMT OF SEDIMENT.  URINE 60-80CC/HR.  BUN 31 CREAT .8.
+
+ENDO: FS AT 9A WAS 68---GIVEN [**12-24**] AMP OF D50.  REPEAT WAS 97.  AGAIN AT 11:30A FS WAS 53 AND GIVEN OTHER [**12-24**] OF D50.  
+",,
+14590,17099,18133,0,2770-06-21 05:29:00 EST,2770-06-21 05:49:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+NEURO: Pt. alert and confused. Received 25mg of Benadryl for [**Doctor Last Name 8**] with increased confusion noted. Pt. reoriented frequently. Follows simple commands.
+CV: Tmax: 98.3po, HR 76-143 WAP with frequent PAC's. ABP 157-177/78-103. Potassium 2.9 - repleated with 40mEq KCL, Phos 2.7 - will repleat with KPHOS 15mmol x1. continues on Lopressor Q6 hrs.
+RESP: LS coarse, diminished @ bases, weak, productive cough. POX >95% on 3LNC, denies SOB. 
+GI: abdomen soft and non-distended, +BS, remains NPO.
+GU: Foley draining adeq. amt's of amber urine.
+
+
+",,
+14590,17099,18133,0,2770-06-21 18:10:00 EST,2770-06-21 18:32:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+cardiac:  bp 160-184/80-103, pulse of 80-124 wap---frequent ectopy of pvcs and pacs.   pt rec'd 40 meq of kcl and 15mmol of k+ phos.  able to take po medications in apple sauce without difficulty.  lopressor being weaned--receiving 12.5mg po bid and diltiazam was started. routine ekg was taken. iv of d5ns infusing at 125cc/hr. 
+small amt of swelling and hematoma noted around insertion site of arterial line, but hand warm, good pulse, and no pain to pt.
+
+resp:  on 2l nasal prongs with resp rate of 28-38, with o2 sats of 96-97%.  lung sounds are coarse upper and deminished in the lower.  at times becoming bronchospastic--not coughing up as much as yesterday, but when he does productively cough he swallows it.  neuro would like a pumonary function test.
+
+id:  temp 97.7-98.4 po.  wbc was 9.7.  on ceftriaxone 
+
+gi:  abdomin soft, no stool today!!! able to tolerate small amts of thick apple sauce with pills without aspirating, although had difficulty with water this morning.  pt has frequent ""burping"", but also states he has this at home
+
+gu:  foley in place.  urinary output approx 40cc/hr.  
+
+neuro:  at times it seems pt's mental status waxes and wanes---at times seems very coherent and at other times appears slightly confused.  pt's cantankerous personality can be difficult at times.
+",,
+14590,17099,18133,,2770-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-22**] 2:23 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10856**]
+     Reason: eval for infiltrate; thick yellow secretions
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above.  
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate; thick yellow secretions
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old male with thick yellow secretions.  Evaluate for
+     infiltrate.
+     
+     AP/LATERAL VIEWS OF CHEST:  Comparison is made to a previous exam of [**2770-6-19**].
+     There has been interval removal of an endotracheal tube.  A right-sided
+     central venous catheter remains in satisfactory position.  The cardiac
+     silhouette and mediastinal/hilar contours, allowing for differences in
+     technique, are not significantly changed.  There are bilateral pleural
+     effusions, right side greater than left.  There is associated atelectasis of
+     the right lower lobe.  There is also a persistent left lower lobe
+     collapse/consolidation which obscures the entire left hemidiaphragm.  There
+     are no additional focal consolidations.  There is no evidence of
+     pneumothoraces.  The soft tissues and osseous structures are stable.
+     
+     IMPRESSION:
+     1)  Bilateral pleural effusions, right side greater than left, with associated
+     right lower lobe atelectasis and elevation of the right hemidiaphragm.
+     
+     2)  Persistent consolidation versus collapse of the left lower lobe.  An
+     infectious etiology in this region cannot be excluded and correlation with the
+     patient's clinical exam is recommended.
+     
+     3)  S/P removal of endotracheal and nasogastric tubes.
+     
+
+",,
+14590,17099,18133,0,2770-06-22 03:37:00 EST,2770-06-22 04:07:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+
+NEURO: pt. Alert and confused at times, reoriented frequently. Follows simple commands appropriately.
+CV: afebrile, HR 88-137 WAP with frequent PVC's/PAC's, K+ 3.3 - repleated with 40mEq KCL po. ABP 163-199/81-115, (highest BP was when pt. was having BM). Weaning po Lopressor and started on Diltiazem po. 
+RESP: LS coarse, diminished @ bases, POX >95% t/o noc, denies SOB, 3LNC. Weak, productive cough.
+GI: abdomen soft and non-distended, hypo BS, small BM over noc, guiac neg. Pt states that ""I have been constipated for weeks"", pt. reminded that he had 3 enemas yesterday and a BM for the last 4 day's. Remains NPO, although is able to take po meds with thickened liquids.
+GU: Foley draining adequate amt's of amber urine, 40-80cc/hr. 
+pt. started on po Medistinon for myasthenia [**Last Name (un) 1410**] (which he was on @ home), continues on pyridostigmine IV Q4hrs.
+Pt. to be transfered to the neuro service in the am.
+",,
+14590,17099,18133,0,2770-06-23 05:40:00 EST,2770-06-23 05:42:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT HAS HAD A RAPID, IRREGULAR HR ALL NIGHT.  EKG DONE (IN GREEN CHART) THERE ARE P WAVES, HO SAW.  WE ARE CALLING IT MAT, NO NEED FOR ANTICOAGULATION FOR NOW.  OTHERWISE NIGHT UNEVENTFUL, SEE FLOW SHEET FOR ASSESSMENT DETAILS.  
+",,
+14590,17099,18133,0,2770-06-23 17:12:00 EST,2770-06-23 17:27:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NPN HD #10","
+MICU/SICU NPN HD #10
+S: ""I need a respiratory doctor""
+
+O:
+
+Neuro: pt is A&Ox3, occaisionally confused, agitated, halucinating, pt denies pain, pt OOB to chair with 2 min assist, seen by PT this PM
+
+Resp: SpO2 93-100% on 35% CN, SpO2 97% on RA, LS coarse throughout, weak cough, expectorating sm amts sputum into Yankauer suction catheter
+
+CV: VSS, alternating between MAT and WAP, Lopressor increased, started IV Lasix today with good response, please see flowsheet for details
+
+Skin: C/W/D/I
+
+GI/GU: abd soft, NT/ND, BS present, tolerating clear liquids without difficulty, advancing to soft solids, Foley patent for clear yellow urine in adequate amounts
+
+Lines: right  SC TLCL
+
+A:
+
+high risk for injury r/t generalized weakness
+high risk for infection r/t invasive line
+altered nutrition, LBR r/t poor PO intake
+
+P:
+
+continue to monitor hemodynamic stability, continue to advance activity as tolerated, push PO's, transfer to floor when bed available
+",,
+14590,17099,18133,0,2770-06-24 01:29:00 EST,2770-06-24 01:34:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO:  A+OX3.  SPONTANEOUS MOVEMMENT OF EXTREMITIES X4 NOTED.  NO EPISODES OF HALLUCINATIONS NOTED.
+CV:  MONITOR SHOWS MAT WITH PVC'S AND A FEW RUNS OF NONSUSTAINED VT.  LOPRESSOR INCREASED TO 37.5MG TID AND LASIX TID.  
+RESP:  LS DIMINSHED BIBASILAR.  NO SOB OR RESP DISTRESS NOTED.
+GI:  ABD SOFT AND NONTENDER.  +BS NOTED.  TOL PO'S WELL.
+GU:  FOLEY PATENT DRAINING YELLOW URINE WITHOUT SEDIMENTATION NOTED.  
+SKIN:  D+I WITH NO OPEN AREAS NOTED.
+ENDO:  REMAINS ON FINGERSTICKS Q6HR WITH NO RISS COVERAGE REQUIRED.
+I-D:  AFEBRILE.  REMAINS ON CEFTRIAXOME.
+PSY-SOC:  PT ASKING APPROPRIATE QUESTIONS ABOUT PLAN OF CARE AND PLAN TO TRANSFER TO FLOOR ONCE BED BECOMES AVAILABLE.
+",,
+14590,17099,18133,0,2770-06-24 16:09:00 EST,2770-06-24 16:24:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Narrative Nursing Note 7a-7p:
+
+Has been called out and still awaiting room on west campus. Transfer sheet is complete and needs only latest status.
+
+Neuro: Alert and orientX3. Up to chair for 3hours today and tolerated w/walker and assistance. Unsteady gait. PEARL. No HA,dizziness. Able to swallow thick liquids and in aspiration precautions.  No hallucinations noted and positive gag and cough reflex.
+
+Cardio: Afib/MAT w/HR 100-140 and PVC's. Am K+3.6 no replacement. Denies CP. NS at TKO and generalized edema noted. Lopressor increased to 50mg QID and next dose at 1800. Receiving 10mg IV lasix TID w/ low UOP. Afebrile.
+
+Pulm: On 3L NC and sats 99-100%. Lungs clear Ulopes and diminished Llopes. Thick white secretions orally and yankeur at bedside. No SOB noted and explained procedure on DB&C and demonstrated back to nurse.
+
+GI: No N/V. Eating 50-60% of meals-soft w/thick liquids w/o difficulty. One large soft stool today.
+
+GU: Foley and yellow,clear w/minimal UOP.
+
+Placed duoderm to heels bilaterally. Heels w/reddening no drainage and no other skin breakdown noted. No family at bedside nor no phone calls today. Patient has phone at bedside and has talked w/family via phone. 
+
+
+",,
+14590,17099,,,2770-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-25**] 12:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10857**]
+     Reason: 80 yom with MG, CHF, f/u study in respiratorly compromised p
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF, possible PNA.          
+     REASON FOR THIS EXAMINATION:
+      80 yom with MG, CHF, f/u study in respiratorly compromised pt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     INDICATION:  Difficulty breathing.
+     
+     Comparison film from three days earlier.  The tip of the right IJ catheter
+     remains in the SVC.  The cardiac and mediastinal contours are grossly
+     unchanged.  There is elevation of the right hemidiaphragm without change.
+     Minimal streaky increased density persists in the right base medially without
+     change. There may be slight interval worsening of aeration in the left base
+     where a large area of homogeneously increase in density persists.  Remaining
+     portions of the lungs are clear.
+     
+     IMPRESSION: Largely no change. There is slight interval worsening of aeration
+     at the left base in the interval.
+
+",,
+14590,17099,,,2770-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-26**] 11:21 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 10858**]
+     Reason: f/u to eval for aspiration.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with MG and dysphagia, h/o aspiration of honey thick liquids on
+      [**6-11**] video swallow, now s/p therapy for myasthenia exacerbation,  would like
+      f/u eval on video swallow. 
+     REASON FOR THIS EXAMINATION:
+      f/u to eval for aspiration.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  [**First Name9 (NamePattern2) 248**] [**Last Name (un) 247**] with dysphasia, aspiration.
+     
+     VIDEO OROPHARYNGEAL SWALLOW STUDY:  This was performed with barium of variuous
+     consistencies. There is delayed oropharyngeal transit with all consistencies.
+     Additionally there was residue with all consistencies.  Laryngeal penetration
+     was seen with honey, nectar, and thin consistencies.  Pureed consistency
+     barium was able to cleared with double swallow technique.  Additionally a
+     small amount of honey thick barium was able to be cleared without laryngeal
+     penetration with a chin tuck maneuver.
+     
+     IMPRESSION:   Laryngeal penentration with multiple consistencies with delayed
+     oropharyngeal transit.
+
+",,
+14590,17099,,,2770-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-26**] 5:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10860**]
+     Reason: Correct placement of NG tube.                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF, possible PNA.  Ng tube 
+      placed to avoid aspiration.        
+     REASON FOR THIS EXAMINATION:
+      Correct placement of NG tube.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to previous study the same date.
+     
+     CLINICAL INDICATION: Nasogastric tube placement.
+     
+     Images of the chest and abdomen are submitted for interpretation for
+     assessment of nasogastric tube placement. A nasogastric tube is present,
+     terminating in the region of the gastroduodenal junction.
+     
+     In the imaged portion of the chest, note is made of persistent bilateral
+     pleural effusions and bilateral retrocardiac opacities. In the imaged portion
+     of the upper abdomen, note is made of residual contrast material within the
+     small and large bowel. No significantly dilated loops of bowel are identified.
+     
+     IMPRESSION: Nasogastric tube terminates in region of gastroduodenal junction.
+     
+
+",,
+14590,17099,,,2770-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-26**] 3:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10859**]
+     Reason: pt with worsening vital capacity, previous aspiration pneumo
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old man with above.                                                    
+     REASON FOR THIS EXAMINATION:
+      pt with worsening vital capacity, previous aspiration pneumonia, yesterday with 
+      worsening atelectasis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with worsening ----pacity, aspiration pneumonia.
+     
+     COMPARISON:  [**2770-6-25**].
+     
+     CHEST SINGLE VIEW:  The heart is enlarged but stable in appearance.  There is
+     bibasilar consolidation/atelectasis of the majority of both lower lobes.
+     Small bilateral pleural effusions are seen.  The pulmonary vascularity is not
+     engorged.
+     
+     IMPRESSION:
+     1)  Cardiomegaly without overt failure.
+     2)  Small bilateral pleural effusions with collapse/consolidation of the
+     majority of both lower lobes.
+     
+
+",,
+14590,17099,,,2770-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-6-28**] 4:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10861**]
+     Reason: correct placement of NG tube?                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF, possible PNA.  Ng 
+      tube  placed to avoid aspiration.        
+     REASON FOR THIS EXAMINATION:
+      correct placement of NG tube?                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to previous study of 2 days earlier.
+     
+     CLINICAL INDICATION:  NG tube placement.
+     
+     A nasogastric tube is present, terminating in the right upper quadrant of the
+     abdomen in the expected location of the gastroduodenal junction.
+     
+     There remains bilateral pleural effusions and bibasilar lung opacities, not
+     significantly changed.  Residual contrast is seen within the colon, but a
+     significant amount of contrast has been evacuated since the prior study.
+     
+     IMPRESSION:  Nasogastric tube terminates in the region of gastroduodenal
+     junction.  Persistent bilateral pleural effusions.
+     
+
+",,
+14590,17099,,,2770-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-2**] 1:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10862**]
+     Reason: L arm picc line for long term IV's.  Please page [**Pager number 1918**] with 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF, possible PNA.  Ng  
+      tube  placed to avoid aspiration.        
+     REASON FOR THIS EXAMINATION:
+      L arm picc line for long term IV's.  Please page [**Pager number 1918**] with wet read as soon as 
+      available. Thank [**Doctor First Name 1041**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST RADIOGRAPH FROM [**2770-7-2**] AT 1332:
+     
+     INDICATION:  PICC placement.
+     
+     Comparison is made to [**2770-6-26**] at 1545.
+     
+     PORTABLE CHEST RADIOGRAPH:  The left-sided PICC is seen to terminate in the
+     SVC.  A right-sided IJ central venous catheter also terminates in the SVC. The
+     patient is rotated to the right.  There is still collapse within the left
+     lower lobe and likely residual collapse/consolidation of the right lower lobe.
+     There are bilateral layering pleural effusions.  The pulmonary vasculature is
+     within normal limits.
+     
+     IMPRESSION:
+     1)  Post left PICC placement.
+     2)  Bilateral pleural effusions.
+     3)  Cardiomegaly without overt CHF.
+
+",,
+14590,17099,18134,0,2770-07-08 21:37:00 EST,2770-07-08 21:51:00 EST,-1,"N",53,"Nursing/Other",,"
+
+T-SICU Nursing Acceptance note-
+Refer to ICU admission note/Chart for PMHX and course.
+
+At present
+Neuro--signs q2h, MAE, push/grasp =, pupils 3mmbilat and brisk, A&Ox3.
+REsp- RR 24-28 w/ good effort on 3l NP, Sat 95-97. nif -38 in SICU (was -28 on [**Hospital Ward Name **] 5 today).BS clear.
+CV- 110-96/50-70; HR initially ST, converted to Afiv @2000. Pt asymptomatic and has hx of same.  Ho aware.
+Cardiac meds given via PEG;  qpm lasix 20mg given IVP; good u/o.
+Pre-procedure for Pacemaker placement in am. 
+GI-Respalor @65cc/hr tol well. D/c'd @2200 in prep for pacemaker placement in am.
+Social- pt spoke w/ wife this evening.  She is aware of tx to SICU.
+",,
+14590,17099,18134,,2770-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-9**] 10:32 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10863**]
+     Reason: is there a pneumonia?                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF, possible PNA.  Ng   
+      tube  placed to avoid aspiration.        
+     REASON FOR THIS EXAMINATION:
+      is there a pneumonia?                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  82 y/o male with myasthenia [**Last Name (un) 247**] and CHF. R/O pneumonia.
+     
+     AP PORTABLE CHEST:  Comparison is made to previous films from  [**2770-6-26**].
+     
+     FINDINGS:  The cardiac and mediastinal contours are stable.  Calcified
+     lymph nodes are seen adjacent to the right hilum, indicative of prior
+     granulomous infection. Again noted are bilateral pleural effusions, right
+     greater than left. There is an associated haziness adjacent to these effusions
+     which likely represents overlay of fluid. There are no focal areas of
+     opacification seen to suggest pneumonia. However, the presence of the
+     effusions limits our ability to adequately assess the lower lobes.  A PA and
+     lateral chest radiograph is recommended to better evaluate the patient when
+     clinically stable.  
+     
+     IMPRESSION:
+     
+     1.  Stable bilateral pleural effusions, right greater than left.
+     2.  No evidence of pneumonia in this limited study.
+
+",,
+14590,17099,18134,0,2770-07-09 06:03:00 EST,2770-07-09 06:14:00 EST,3325,"N",53,"Nursing/Other","T-SICU NURSING PROGRESS NOTE","
+T-SICU NURSING PROGRESS NOTE
+NEURO:  ALERT AND ORIENTED X 3, SLIGHTLY CONFUSED WHEN INITIALLY WAKES UP BUT EASILY REORIENTED.  STRENGTH EQUAL IN ALL EXT'S.  PUPILS EQUAL AND REACTIVE.  
+
+CV:  HR IN 100S AT START OF SHIFT, AFIB, AT 2A HR SUSTAINED IN 130S-140S.  RECEIVED TOTAL OF 10MG IV LOPRESSOR WITH IMPROVEMENT IN HR TO 90S-110S.  BP STABLE THROUGHOUT.  AT 4:30AM, HR AGAIN SUSTAINED IN 130S, RECEIVED 5MG LOPRESSOR WITH IMPROVEMENT IN HR TO 100S-110S.  OCCAS PVC, RECEIVED 2GMS MG S04, OTHER LYTES WNL.  SKIN WARM, DRY, TRACE PEDAL EDEMA, EASILY PALPABLE PULSES.  SEE CAREVUE FOR DETAILS OF HEMODYNAMICS
+
+RESP:  BREATH SOUNDS CLEAR THROUGHOUT, FAIR COUGH, NON-PRODUCTIVE.  SATS 93-98% ON 4LNC.  NIF 38 THIS SHIFT, VITAL CAPACITY 1.2-1.3L
+
+RENAL:  FAIR U/O 30-60CC/HR
+
+GI:  ABD SOFT, (+)BOWEL SOUNDS.  PT C/O GAS PAINS AND INABILITY TO MOVE BOWELS.  RECEIVED FLEETS ENEMA WITH MODERATE RESULTS.  REMAINS NPO X MEDS
+
+HEME:  HCT STABLE, COAGS WNL
+
+ID:  AFEBRILE, WBC 7.0.
+
+SKIN:  NO ISSUES
+
+SOCIAL:  NO CALLS FROM FAMILY OVERNOC
+
+ENDO:  NO INSULIN COVERAGE REQUIRED
+
+A:  NEUROLOGICALLY INTACT, RESP STATUS STABLE, INCREASE IN HR REQUIRING LOPRESSOR IV
+
+P:  CONTINUE WITH CURRENT PLAN, NPO FOR PACER PLACEMENT, ? TRANSFER BACK TO FLOOR
+",,
+14590,17099,18134,0,2770-07-09 14:56:00 EST,2770-07-09 15:16:00 EST,3420,"N",53,"Nursing/Other","7a-3p update","
+7a-3p update
+cv: hr afib(rate 83-116), sbp 93-109, on po dilt., dig. & lopressor, no cardiac gtts
+
+resp: bs+ all lobes & clear, diminished to bases, coughing produtively into tonsil tip sux, loose white sputum, rr 16-30, sats 92-97, on q 2 hr nif & vc, nifs
+30-38, vc 1.2-1.4l/min, no resp distress noted
+
+gi: npo for perm pacer today, procedure cancelled until tomorrow, npo after mn for pacer insertion, to check with resident about resuming tf until mn, iv fluids running @ 75cc/hr, colace started today, simethicone given x 1 for gas
+
+gu: foley cath patent, urine clear, diuresed well with daily lasix dose
+
+neuro: intact, moving all extremities
+
+social: wife & pt aware of pacer insertion cancelled until tomorrow secondary to morning dose of lovenox given
+
+plan: continue to monitor in icu overnoc, nif/vc q 2 hr, to have perm pacer inserted tomorrow followed by plasma pheresis, to have cl cath inserted by resident prior to pheresis, lovenox on hold  
+  
+",,
+14590,17099,18134,0,2770-07-09 15:52:00 EST,2770-07-09 15:55:00 EST,3672,"N",53,"Nursing/Other","Respiratory note:","
+Respiratory note:
+Pt is getting mechanics Q2H vc ~ 1.44L and NIF ~ 35. Lungs clear, coughing white sec using yank sx independently. O2 4l/m via n/c.
+",,
+14590,17099,18134,0,2770-07-10 06:04:00 EST,2770-07-10 06:15:00 EST,3144,"N",53,"Nursing/Other","MYESTHEMIA GRAVIS/AF-T/SICU NPN 11P-7A","
+[**First Name9 (NamePattern2) 6277**] [**Last Name (un) **]/AF-T/SICU NPN 11P-7A
+S-""WHAT TIME ARE THEY DOING THIS THING TODAY?""
+O-NEURO-INTACT
+CV-AF HR 90'S-120,SBP 90'S-100'S.
+RESP-LS CTA DECREASED BASES,SEE RESP FLOWSHEET FOR FOR NIFS + VC'S,O2 SATS 94-96%,ON 4L NC,PT COUGH STRONG PROD.
+GI/GI-PT ABD SOFT +BS,PT INCONT X 4 W/ SM-LARGE LIQ->LOOSE BROWN STOOL.U/O 50-80CC/2HR OVER NOC 500 CCNS BOLUS X2 FOR LOW U/O.URINE CLEAR YELLOW VIA FOLEY.NPO AFTER MN FOR PACER PLACEMENT TODAY.
+SKIN-PT PERINEUM RED TENDER D/T STOOL BARRIER CREAM APPLIED.SKIN OTHERWISE GROSSLY INTACT,1ST STEP MAINT'D.
+SOC-NO FAMILY CONTACT OVER NOC.
+ID- T MAX 96.3 PO.
+A-RESP STATUS IMPROVING
+P-CONT TO MONITOR NEURO STATUS/ORDERS.PULM FUNCTION/ORDERS,O2 /ORDERS,MONITOR RESP STATUS PRN,I+O,MONITOR SKIN INTEGRITY QS AND PRN,MAINT 1ST STEP/ORDERS.
+",,
+14590,17099,18134,,2770-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-11**] 8:37 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 10864**]
+     Reason: assess lead placement                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old man s/p pacemaker placement                                       
+     REASON FOR THIS EXAMINATION:
+      assess lead placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**2770-7-11**]
+     
+     Comparison study dated two days earlier.
+     
+     INDICATION:  Pacemaker placement.
+     
+     Portable supine radiographs of the chest demonstrate a permanent pacemaker,
+     with leads terminating in the expected locations of the right atrium and right
+     ventricle.  The cardiac and mediastinal contours are stable. There remains
+     bilateral pleural effusions and there is persistent elevation of the right
+     hemidiaphragm.
+     
+     No pneumothorax is evident on the supine study.
+     
+     IMPRESSION:
+     1. Pacing leads in expected locations of right atrium and right ventricle.
+     Confirmatory lateral view may be helpful when patient's condition permits.
+     No pneumothorax.
+     2. Persistent bilateral pleural effusions.
+
+",,
+14590,17099,,,2770-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-13**] 6:57 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10865**]
+     Reason: r/o infiltrate, effusion, or edema                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**] and CHF, possible PNA.  Ng  
+        tube  placed to avoid aspiration.        
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate, effusion, or edema                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY:  For placement of NG tube in patient with [**First Name9 (NamePattern2) 10866**] [**Last Name (un) 247**].  No NG
+     tube is identified on this film.  There is a dual chamber left sided pace
+     maker with atrial ventricular leads in situ.  Heart size is borderline to
+     slightly enlarged for technique.  There are bilateral pleural effusions.
+     Cannot rule out CHF.  No pneumothorax.
+     
+
+",,
+14590,17099,,,2770-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-14**] 11:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10867**]
+     Reason: In setting of decreased respiratory function tests, please e
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties.              
+     REASON FOR THIS EXAMINATION:
+      In setting of decreased respiratory function tests, please evaluate for any 
+      changes since yesterday's X-ray.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2770-7-14**]:  Compared to one day earlier.
+     
+     CLINICAL INDICATION:  Decreased respiratory function.
+     
+     A permanent pacemaker remains in place with leads in the right atrium and
+     right ventricle.  The cardiac and mediastinal contours are stable.  There
+     remain bilateral pleural effusions and adjacent basilar lung opacities.
+     
+     IMPRESSION:  No significant interval change in bilateral pleural effusions.
+
+",,
+14590,17099,,,2770-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-17**] 7:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10868**]
+     Reason: pulmonary edema?                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties.             
+       
+     REASON FOR THIS EXAMINATION:
+      pulmonary edema?                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Difficulty swallowing in patient with myasthenia [**Last Name (un) 247**]. Evaluate
+     for pulmonary edema.
+     
+     FINDINGS:  Comparison is made to study dated [**2770-6-9**].
+     
+     A permanent pacemaker has been inserted with hardware overlying the left
+     hemithorax.  There are right atrial and ventricular leads appearing in good
+     position.  The heart is enlarged, and there is mild pulmonary edema.  There is
+     a small left pleural effusion.  There is progressive atelectasis or
+     consolidation involving the right middle and lower lobes and, to a lesser
+     degree, the left lower lobe.
+     
+     IMPRESSION:
+     
+     1.  Mild CHF and small left pleural effusion.
+     
+     2.  Probable right middle and lower lobe atelectasis.  Pneumonia cannot be
+     excluded.
+     
+     3.  Left basilar atelectasis.
+     
+
+",,
+14590,17099,18135,0,2770-07-17 17:44:00 EST,2770-07-17 18:35:00 EST,-1,"N",69,"Nursing/Other","ADMISSION NOTE:","
+ADMISSION NOTE:
+Pt is a 82yr old admitted from [**Hospital Ward Name **] 5. Pt was admitted in the hosp [**6-9**] with exacerbation of myasthenia [**Last Name (un) 1410**] which was resolving but pt was still unable to walk, pt recieved [**2-24**] rx of plasma pheresis, quinton cath pulled tis am, pt was febrile tmax 102, +bandemia, tachpneic with rr rate in the 30s - 40s, his vital capacity has decreased to 900cc, decrease bs on the r side, cxray showed white out on the RLL and RML. PMH - CHF with LV dysfunction, HTN, gout, s/p cardiac arrest on [**6-16**], hx of afib  had a pacer placed on [**7-10**]. He admitted today here to monitor resp status.
+Pt arrived alert and oriented x3, talking in full sentences, on O2 4l np, sats high 90s, rr 30.
+
+Review of system: N- He is alert, responded appropriately, answer all question, denies sob, when asked why he was transferred to the unit he stated""I don't know, I liked it where I was"". move upper ext without difficulty,weakness persist in lower ext. Denies pain.
+
+CV- hr 80s v-pace, no ectopy, denies cp. bp 107/48. peripheral hl x1 to l antecub.
+
+Resp- Sats in the high 90s, no cough, bil upper airway clear diminished at r base. He is on O2 4l np, rr 20s - 33.
+
+GI- +bs, abd soft [**Last Name (LF) 6278**], [**First Name3 (LF) 706**] in placed, pt on tubefeeds. asp prec sec to swallowing difficulty.
+
+GU- Foley in place draining cl yellow urine, some bloody drainage around meatus from trauma 2 days ago.
+
+Skin- Warm and dry.
+
+Dispo- Pt is a full code, family notified of pt transfer. Plan is to monitor resp status over night.
+",,
+14590,17099,18135,0,2770-07-18 05:09:00 EST,2770-07-18 05:24:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN 7p-7a
+
+Pt had stable night.  O2 sats >95% with 4 L O2.  pt slept most of noc. Continued to bleed around meatus.  Small amount of clots noted in urine.  UO remains good 
+
+Resp:  Denies sob, O2 sats 95-99% on 4L via NC.  NIF 40-42 and vital capacity 1.100 l.
+
+CV:  HR 80, V-paced.  SBP 98-119/41-49.
+
+GI:  abdomen soft, non-tender.  Remains NPO.  
+
+GU:  bleeding around meatus secondary to recent trauma.  Some clots noted in urine.  Good uo during night
+
+ID:   tmax 99.  remains afebrile.  on antibx
+
+Dispo:  remains in mICU/Sicu.  Full Code
+",,
+14590,17099,,,2770-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-21**] 9:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10869**]
+     Reason: Bilateral pleural effusions.Comparison with previous chest x
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and 
+      bilateral pleural effusions.               
+     REASON FOR THIS EXAMINATION:
+      Bilateral pleural effusions.Comparison with previous chest x-rays. 
+      Consolidation?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate for progression of bilateral pleural effusions.
+     
+     FINDINGS: An AP semiupright chest radiograph of [**2770-7-21**] is compared to a
+     prior AP upright chest radiograph of [**2770-7-17**].  There is pacemaker
+     overlying the left hemithorax with its lead in the right atrium and right
+     ventricle.  The heart size is enlarged.  There is continued CHF, and bilateral
+     pleural effusions.  There is also atelectasis of the right lower lobe.
+     
+     IMPRESSION:  Continued CHF with bilateral pleural effusions and right lower
+     lobe atelectasis.
+
+",,
+14590,17099,,,2770-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-24**] 9:27 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 10870**]
+     Reason: TRAUMATIC FOLEY /?BLEED
+     Field of view: 48
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Myasthenia [**Last Name (un) **] - peg tube related to difficulty swallowing. hz of traumatic 
+      foley.
+     REASON FOR THIS EXAMINATION:
+      possible bleed?                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Traumatic Foley placement, evaluate for hemorrhage.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained without VI
+     contrast.
+     
+     There are no prior studies for comparison.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There are bilateral pleural effusions
+     left greater than right.  There is a posterior left lower lobe consolidation.
+     There is ascites best seen in the perihepatic, perisplenic, right pericolic
+     gutter and pelvic regions.  There are no focal liver lesions.  There are clips
+     in the gallbladder fossa.  There are artifacts from a dual chamber pacemaker.
+     There is a peg tube in satisfactory position.  The pancreas, spleen, splenule,
+     both adrenals and loops of small bowel and large bowel are normal.  The aorta
+     and major branches are calcified.  There are no enlarged mesenteric or
+     retroperitoneal lymph nodes.  There are bilateral areas of low attenuation in
+     the kidneys.  Also noted are small areas of high attenuation.  The findings
+     are suggestive of simple cysts as well as hemorrhagic cysts.  There is no
+     hydronephrosis.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The bladder is decompressed.  The
+     prostate is unremarkable.  There is fluid within the rectum.  There are
+     artifacts from a right hip prosthesis.  There is a small amount of
+     subcutaneous edema.  There are extensive degenerative changes throughout the
+     spine.
+     
+     IMPRESSION:  1)  No evidence of retroperitoneal or intra-abdominal hemorrhage.
+     2)  Ascites, bilateral pleural effusions and left inferior lobe consolidation.
+     3)  Bilateral renal cysts some of which appear hemorrhagic.
+     
+     
+
+",,
+14590,17099,,,2770-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-24**] 10:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10871**]
+     Reason: S/P R IJ catheter placement, Verify placement and R/O PTX   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and  
+      bilateral pleural effusions.               
+     REASON FOR THIS EXAMINATION:
+      S/P R IJ catheter placement, Verify placement and R/O PTX                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Status post IJ catheter placement to verify placement.
+     
+     AP upright portable chest radiograph is compared to a previous study dated
+     [**2770-7-21**].
+     
+     There is a dual-lead left-sided pacemaker, which is appropriately positioned.
+     The patient is rotated to the left limiting the evaluation of the
+     cardiomediastinal contours. The right IJ line is appropriately positioned with
+     the tip in the SVC/right atrial junction. There is no pneumothorax. There is
+     bilateral hazy opacity suggesting pleural effusion. There is also atelectasis,
+     as well.
+     
+     IMPRESSION:
+     Appropriately positioned right IJ line. No pneumothorax.
+     
+     Bilateral basilar opacity consistent with pleural effusion and atelectasis.
+
+",,
+14590,17099,,,2770-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-24**] 9:27 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 10870**]
+     Reason: TRAUMATIC FOLEY /?BLEED
+     Field of view: 48
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Myasthenia [**Last Name (un) **] - peg tube related to difficulty swallowing. hz of traumatic 
+      foley.
+     REASON FOR THIS EXAMINATION:
+      possible bleed?                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Traumatic Foley placement, evaluate for hemorrhage.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained without VI
+     contrast.
+     
+     There are no prior studies for comparison.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There are bilateral pleural effusions
+     left greater than right.  There is a posterior left lower lobe consolidation.
+     There is ascites best seen in the perihepatic, perisplenic, right pericolic
+     gutter and pelvic regions.  There are no focal liver lesions.  There are clips
+     in the gallbladder fossa.  There are artifacts from a dual chamber pacemaker.
+     There is a peg tube in satisfactory position.  The pancreas, spleen, splenule,
+     both adrenals and loops of small bowel and large bowel are normal.  The aorta
+     and major branches are calcified.  There are no enlarged mesenteric or
+     retroperitoneal lymph nodes.  There are bilateral areas of low attenuation in
+     the kidneys.  Also noted are small areas of high attenuation.  The findings
+     are suggestive of simple cysts as well as hemorrhagic cysts.  There is no
+     hydronephrosis.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The bladder is decompressed.  The
+     prostate is unremarkable.  There is fluid within the rectum.  There are
+     artifacts from a right hip prosthesis.  There is a small amount of
+     subcutaneous edema.  There are extensive degenerative changes throughout the
+     spine.
+     
+     IMPRESSION:  1)  No evidence of retroperitoneal or intra-abdominal hemorrhage.
+     2)  Ascites, bilateral pleural effusions and left inferior lobe consolidation.
+     3)  Bilateral renal cysts some of which appear hemorrhagic.
+     
+     
+
+",,
+14590,17099,,,2770-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-27**] 10:37 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 10872**]
+     Reason: evaluate swallowing.                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with MG and dysphagia, h/o aspiration of honey thick liquids on 
+      [**6-11**] video swallow, now s/p therapy for myasthenia exacerbation,  would like 
+      f/u eval on video swallow. 
+     REASON FOR THIS EXAMINATION:
+      evaluate swallowing.                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of myasthenia [**Last Name (un) 247**] and dysphagia.  Aspiration of thick
+     liquids on prior video swallow.  Now status post therapy for myasthenia
+     [**Last Name (un) 247**].  Re-evaluation of aspiration.
+     
+     COMPARISON:  [**2770-6-26**].
+     
+     VIDEO OROPHARYNGEAL SWALLOW:  Patient exhibited mild decrease in laryngeal
+     elevation.  Premature spill into valleculae was seen with thick liquid and
+     base. One episode of aspiration occurred with thick liquids prior to
+     initiation of swallow.  Aspirated material cleared with cough.  No additional
+     aspiration events occurred with paste, thin liquid, thick liquid or solid.  No
+     significant oropharyngeal residue was identified with all consistencies.
+     Transition of barium pill was delayed at the level of the vallecula, which
+     resolved following effort swallow.
+     
+     IMPRESSION:  Premature spill with thick liquid and paste.  Nonreproducible
+     single aspiration event with thick liquid, which cleared with coughing.  No
+     additional aspiration or significant residue with all consistencies.
+     
+
+",,
+14590,17099,,,2770-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-29**] 1:36 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10873**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Check for metastasis                                        
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with hz of mass at hepatic flexure.                             
+     REASON FOR THIS EXAMINATION:
+      Check for metastasis                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82 year old with history of hepatic flexure mass.  ? metastatic
+     disease.
+     
+     Helically acquired contiguous axial images of the abdomen and pelvis with oral
+     and intravenous contrast.
+     
+     CONTRAST:  Oral contrast and 150 cc Optiray IV due to patient debility.
+     
+     FINDINGS:
+     
+     ABDOMINAL CT WITHOUT AND WITH IV CONTRAST:  There are moderate bilateral
+     pleural effusions, left greater than right.  There is passive bibasilar
+     atelectasis.  There is ascites.  No focal liver lesions are identified.
+     Specifically, there is no evidence of metastatic disease.  The patient is
+     status post cholecystectomy.  There is a PEG tube.  The pancreas, spleen,
+     splenial, and adrenal glands are unremarkable.  There is vascular
+     calcification.  There are no pathologically enlarged mesenteric or
+     retroperitoneal lymph nodes.  Evaluation of the hepatic flexure is limited as
+     there is barium contrast with streak artifact.  In addition, there is
+     underdistention of the cecum with lack of filling of barium. Bilateral low
+     attenuation lesions are again identified in the kidneys, consistent with
+     cysts.  There are small regions of high attenuation which may represent
+     hemorrhagic cyst.  This is unchanged from the prior study.
+     
+     CT PELVIS WITH IV CONTRAST:  There is ascites.  The bladder is underdistended.
+     The sigmoid colon is unremarkable.
+     
+     CONCLUSION:
+     
+     1.  Ascites.  Bilateral pleural effusion.
+     
+     2.  No evidence of liver metastases.  No pathologically enlarged
+     retroperitoneal or peritoneal lymph nodes.
+     
+     3.  Evaluation of the colon is limited as described above.
+
+",,
+14590,17099,,,2770-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-29**] 1:36 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10873**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Check for metastasis                                        
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with hz of mass at hepatic flexure.                             
+     REASON FOR THIS EXAMINATION:
+      Check for metastasis                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82 year old with history of hepatic flexure mass.  ? metastatic
+     disease.
+     
+     Helically acquired contiguous axial images of the abdomen and pelvis with oral
+     and intravenous contrast.
+     
+     CONTRAST:  Oral contrast and 150 cc Optiray IV due to patient debility.
+     
+     FINDINGS:
+     
+     ABDOMINAL CT WITHOUT AND WITH IV CONTRAST:  There are moderate bilateral
+     pleural effusions, left greater than right.  There is passive bibasilar
+     atelectasis.  There is ascites.  No focal liver lesions are identified.
+     Specifically, there is no evidence of metastatic disease.  The patient is
+     status post cholecystectomy.  There is a PEG tube.  The pancreas, spleen,
+     splenial, and adrenal glands are unremarkable.  There is vascular
+     calcification.  There are no pathologically enlarged mesenteric or
+     retroperitoneal lymph nodes.  Evaluation of the hepatic flexure is limited as
+     there is barium contrast with streak artifact.  In addition, there is
+     underdistention of the cecum with lack of filling of barium. Bilateral low
+     attenuation lesions are again identified in the kidneys, consistent with
+     cysts.  There are small regions of high attenuation which may represent
+     hemorrhagic cyst.  This is unchanged from the prior study.
+     
+     CT PELVIS WITH IV CONTRAST:  There is ascites.  The bladder is underdistended.
+     The sigmoid colon is unremarkable.
+     
+     CONCLUSION:
+     
+     1.  Ascites.  Bilateral pleural effusion.
+     
+     2.  No evidence of liver metastases.  No pathologically enlarged
+     retroperitoneal or peritoneal lymph nodes.
+     
+     3.  Evaluation of the colon is limited as described above.
+
+",,
+14590,17099,,,2770-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-29**] 1:36 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10873**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Check for metastasis                                        
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with hz of mass at hepatic flexure.                             
+     REASON FOR THIS EXAMINATION:
+      Check for metastasis                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82 year old with history of hepatic flexure mass.  ? metastatic
+     disease.
+     
+     Helically acquired contiguous axial images of the abdomen and pelvis with oral
+     and intravenous contrast.
+     
+     CONTRAST:  Oral contrast and 150 cc Optiray IV due to patient debility.
+     
+     FINDINGS:
+     
+     ABDOMINAL CT WITHOUT AND WITH IV CONTRAST:  There are moderate bilateral
+     pleural effusions, left greater than right.  There is passive bibasilar
+     atelectasis.  There is ascites.  No focal liver lesions are identified.
+     Specifically, there is no evidence of metastatic disease.  The patient is
+     status post cholecystectomy.  There is a PEG tube.  The pancreas, spleen,
+     splenial, and adrenal glands are unremarkable.  There is vascular
+     calcification.  There are no pathologically enlarged mesenteric or
+     retroperitoneal lymph nodes.  Evaluation of the hepatic flexure is limited as
+     there is barium contrast with streak artifact.  In addition, there is
+     underdistention of the cecum with lack of filling of barium. Bilateral low
+     attenuation lesions are again identified in the kidneys, consistent with
+     cysts.  There are small regions of high attenuation which may represent
+     hemorrhagic cyst.  This is unchanged from the prior study.
+     
+     CT PELVIS WITH IV CONTRAST:  There is ascites.  The bladder is underdistended.
+     The sigmoid colon is unremarkable.
+     
+     CONCLUSION:
+     
+     1.  Ascites.  Bilateral pleural effusion.
+     
+     2.  No evidence of liver metastases.  No pathologically enlarged
+     retroperitoneal or peritoneal lymph nodes.
+     
+     3.  Evaluation of the colon is limited as described above.
+
+",,
+14590,17099,,,2770-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-30**] 10:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10874**]
+     Reason: possible CHF, status of effusions                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and   
+      bilateral pleural effusions.               
+     REASON FOR THIS EXAMINATION:
+      possible CHF, status of effusions                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Swallowing difficulties in a patient with myasthenia [**Last Name (un) 247**]. 
+     
+     PORTABLE CHEST:  Comparison is made to previous films from  [**2770-7-24**].
+     
+     There is a dual lead left sided pacemaker, the leads are appropriately
+     positioned. There is a right IJ line with the tip in the SCC right atrial
+     junction. There is enlargement of the heart and increased bronchopulmonary
+     markings suggestive CHF. There is bilateral hazy opacity at both bases
+     consistent with pleural effusion and probably associated atelectatic changes.
+     
+     IMPRESSION:
+     
+     Worsening CHF.
+     
+     Increased bilateral pleural effusions  and probably associated atelectatic
+     changes.
+
+",,
+14590,17099,,,2770-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-31**] 11:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10875**]
+     Reason: chf status?                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and    
+      bilateral pleural effusions.               
+     REASON FOR THIS EXAMINATION:
+      chf status?                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     Compared to previous study of 1 day earlier.
+     
+     INDICATION: Myasthenia [**Last Name (un) 247**]. Clinical suspicion for congestive heart
+     failure.
+     
+     A permanent pacemaker and right internal jugular vascular catheter remain in
+     place. The cardiac and mediastinal contours are stable in size. There is
+     slight engorgement of the pulmonary vascularity with associated perihilar
+     haziness. Bilateral pleural effusions persist.
+     
+     IMPRESSION: Mild congestive heart failure and bilateral pleural effusions.
+
+",,
+14590,17099,,,2770-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-7-31**] 8:51 PM
+     UNILAT UP EXT VEINS US                                          Clip # [**Clip Number (Radiology) 10876**]
+     Reason: R/O DVT                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with myasthenia and multi-system disorders including likely 
+      colon CA who has new onset, asymmetric swollen left arm.
+     REASON FOR THIS EXAMINATION:
+      R/O DVT                                                                         
+     ______________________________________________________________________________
+     WET READ: JMBu FRI [**2770-7-31**] 9:17 PM
+      NO DVT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Myasthenia and multisystem disorders including likely colon cancer
+     with new onset of asymmetric swollen left arm.
+     
+     COMPARISON: None.
+     
+     LEFT UPPER EXTREMITY VENOUS ULTRASOUND: Normal color flow and waveforms are
+     demonstrated in the left jugular vein, left subclavian vein, left axillary
+     vein, and left basilic vein.  Normal compressibility is demonstrated in the
+     peripheral vein and jugular vein. There is no clot identified. The arteries
+     were not interrogated.
+     
+     IMPRESSION: No upper extremity DVT.
+
+",,
+14590,17099,,,2770-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-5**] 1:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10877**]
+     Reason: preop for palliative colon ca removal                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and 
+      bilateral pleural effusions.               
+     REASON FOR THIS EXAMINATION:
+      preop for palliative colon ca removal                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Preop for colon cancer removal.
+     
+     SINGLE CHEST: Comparison is made to previous films from  [**2770-7-31**].
+     
+     There is enlargement of the heart. There is dual lead left sided pacemaker.
+     There is bilateral hazy opacity consistent with pleural effusions and
+     atelectasis. There is mild congestive failure.
+     
+     IMPRESSION:  Mild CHF with bilateral pleural effusion and atelectasis.
+     
+
+",,
+14590,17099,,,2770-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-7**] 4:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10878**]
+     Reason: Eval pulm status post op                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and  
+      bilateral pleural effusions.               
+     REASON FOR THIS EXAMINATION:
+      Eval pulm status post op                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest AP portable single view.
+     
+     INDICATION:  Myasthenia [**Last Name (un) 247**], difficulties to swallow, evaluate for
+     pulmonary abnormalities.
+     
+     FINDINGS:  AP single view of the chest demonstrates cardiac enlargement of
+     similar magnitude as on the next-preceding examination of 8/14.  The position
+     of a permanent pacer with dual electrode system is unchanged and appropriate.
+     
+     Bilateral basal densities are consistent with pleural effusions, clearly noted
+     on the right base.  Observe that the left base is not completely included in
+     the image field.  There is no evidence of new parenchymal infiltrates which
+     however cannot be complete excluded on the bases because of the pleural
+     effusions.  No pneumothorax present.  A right internal jugular vein approach
+     central venous line is noted and seen to terminate overlying the SVC
+     approximately 3 cm above the carina.  Thus, the position is unchanged.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+14590,17099,18136,0,2770-08-07 14:27:00 EST,2770-08-07 14:36:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN NEURO/ALT IN GI","
+CCU NSG NOTE: ALT IN NEURO/ALT IN GI
+S: ""When can I eat?""
+O: For complete VS see CCU flow sheet.
+ID: Pt afebrile. Completing post op ABX.
+CV: HR 80- V-paced. No ectopy. BP stable in 100-120/50-60s.
+GI: Incision dry and in tact. Very diminished bowel sounds. Pt not passing gas. He remains NPO except for meds.
+RESP: Pt sating 92-100% on 50% neb and 6L NP. Gas is 7.45/ 50/ 122/ 36/9. Lung sounds decreased.
+RENAL: urine output poor. Urine lytes sent. Pt receiveng Ringers lactate at 80cc/hr.
+Comfort: pt pain free on Dilaudid at 6mg/hr.
+NEURO: Pt has no change in symptoms. Continues to have baseline leg numbness. 
+MS: Pt oriented times three. Very pleasant.
+A: Stable post-op
+P: Monitor for change.
+
+
+",,
+14590,17099,18136,0,2770-08-08 03:33:00 EST,2770-08-08 03:47:00 EST,526,"N",1,"Nursing/Other","ccu npn for border of SICU team","
+ccu npn for border of SICU team
+S:""I doing well tonight.""
+
+O: Please see carevue for VS and objective data. 
+
+ID: afebrile
+
+CVS: Hemodynamically stable. HR 80's vpaced 100%, rare PVC noted. BP ranges 116-130/50-60. CVP via RIJ 13-18. Ca gluconate x2 amps repleted for Ionized Ca 1.01. 
+
+Resp: Sats good on 6 L n/c. Serial abgs as per flow. Last 102/59/7.39/37/7. Lungs with bronchial BS on right base, diminished on left. U/O remained low despite previous shift IV Lasix, given 20mg at 0330 as per orders, diuresising at present. RR 13-21. 
+
+GI:GU: Remains NPO. LR with 20meq IV KCL at 80cc/hour. PEG intact, clamped with meds. BS hypoactive, no stool. Pt. states he passed flatus. Abdomen incision D/I. U/O 30-40cc/hour via foley, lasix as above. 
+
+Neuro: Pt. A/A/Ox3, pleasant and cooperative. Denies pain on Epidural Dilaudid with Bupivicaine at 6cc/hour. No bolus' given. Pt. c/o itching on head and neck, no rash noted. Given 25mg IV Benadryl with good effect. Slept well after 10mg Serax. 
+
+Access: RIJ patent and intact. Left radial aline with good waveform. 
+
+A: stable 
+
+P: Cont to monitor hemodynamics, assess Pt.'s response to IV lasix. Monitor GI;GU status closely. Assess Pt's tolerance to pain, meds as ordered. Follow up with am labs. Comfort and emotional support to Pt. and family
+",,
+14590,17099,18136,0,2770-08-08 17:55:00 EST,2770-08-08 18:03:00 EST,104,"N",1,"Nursing/Other","CCU progress note (NSICU border)","
+CCU progress note (NSICU border)
+NEURO: alert and oriented x 3. pleasant. slept in naps all morning/early afternoon. awake all evening, family visited earlier. no c/o pain or discomfort. epidural: dilaudid w/ bipivucaine @ 6cc/hr - site intact. 
+
+CARDIAC: VPACED 100% @80 . SBP stable. lopressor 2.5mg q6h. L radial aline. RIJ TLC. cvp 13-15
+
+RESP: LS clear, dim. congested non-productive cough - self suctioning tan sputum. sats >97%. O2 6L n/c.  85/50/7.44. repeat ABG tonite and in am. 
+
+GI/GU: foley patent. given lasix 20mg IVP - started BID. abd soft, +BS. +flatus. stooled small amt golden loose stool this morning w/ flatus. taking Ice chips. ?start clear liquids tomorrow?
+
+PLAN: repeat ABG tonite. monitor U/O + VS. ?call out in am.keep pt comfortable. con't epidural
+
+
+",,
+14590,17099,18136,0,2770-08-09 03:35:00 EST,2770-08-09 03:59:00 EST,526,"N",1,"Nursing/Other","ccu npn Nsicu border","
+ccu npn Nsicu border
+S:""I've been watching the Patriots.""
+
+O: Please see carevue for VS and objective data. 
+
+ID: abebrile, oral temp ranges 96. 
+
+CVS: Hemodynamically stable. HR 80's 100% vpaced, rare vea. Lytes repleted as per flow. BP ranges 114-120/60's. CVP ranges via RIJ TLC [**10-3**]. 
+
+Resp; sats 93-98% on 6L n/c. P02 down to 69, briefly added face tent 40%, encouraged TCDB, sats improved and last abg 96/58/7.38/36/6 97%. Given 20mg IV Lasix at 2100 as ordered BID. I/O remains positive with U/O 20-100cc/hour. 
+
+GI:GU: Remains NPO, conts on LR with 20meq IV KCL at 80cc/hour. PEG intact and functioning well. BS active, passing flattus and small smear of brown stool. quaic neg. 
+
+Neuro: Pt. A/A/Ox3, pleasant and cooperative. Conversing easily with staff. Denies pain or discomfort. Remains on Epidural Dilaudid with Bupivicaine at 6cc/hour. Site intact. MAE. 
+
+A: stable post op 
+
+P: Cont to assess resp and hemodynamics. Follow up with am labs. Comfort and emotional support to Pt. and family
+",,
+14590,17099,18136,0,2770-08-09 13:15:00 EST,2770-08-09 13:18:00 EST,104,"N",1,"Nursing/Other","ccu progress note 7a-2p","
+ccu progress note 7a-2p
+See nursing Transfer note post in chart.
+
++flatus, +BS, passing small amt golden loose stool. remains NPO, PEG clamped except for meds. ?start TF in am. taking minimal amts ice chips to wet mouth and suctioning w/ yankhaur, mouth swabs. 
+VSS. alert and oriented. pleasant. abd dsg D+I. D5.45NS@80cc/hr. 
+
+Transfer to [**Hospital Ward Name **] 5
+",,
+14590,17099,,,2770-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-11**] 1:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10879**]
+     Reason: ? CHF, acute cardiopulmonary process                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and 
+      bilateral pleural effusions now with difficulty breathing.     
+     REASON FOR THIS EXAMINATION:
+      ? CHF, acute cardiopulmonary process                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Myasthenia [**Last Name (un) 247**] with swallowing difficulty and bilateral
+     pleural effusion.
+     
+     PORTABLE AP CHEST:  Comparison is made to previous films from  [**2770-8-7**].
+     
+     The right IJ line is within the SVC. There is a dual lead left sided pacer
+     which is not significantly changed. The cardiamediastinal contours are
+     difficult to adequately assess because of patient rotation.  There is ill
+     defined hazy opacity at both bases suggesting pleural effusion and associated
+     atelectasis. There is a focal consolidation in the left hilar region which
+     may represent asymmetric pulmonary edema or a infectious process. No
+     pneumothorax is identified.  There is increasing congestive failure.
+     
+     IMPRESSION:
+     
+     1.  Bilateral pleural effusion and atelectasis.
+     
+     
+     2.  Worsening congestive heart failure. There is a focal consolidation in the
+     left mid lung zone, which may represent asymmetric pulmonary edema although
+     infection cannot be entirely excluded.
+     
+     
+     
+
+",,
+14590,17099,18137,0,2770-08-11 17:47:00 EST,2770-08-11 18:02:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS ADMISSION NOTE.","
+FOCUS; NURSING PROGRESS ADMISSION NOTE.
+RFA- ADMITTED TO MICU WITH DECREASING RESP STATUS ON 100% NRB.
+ALLERGIES- NKA
+HPI- PATIENT IS AN 82 YEAR OLD MALE WITH A HX OF [**First Name9 (NamePattern2) 6279**] [**Last Name (un) **]. HE HAS PROBLEMS WITH WORSENING SOB,DYSPHAGIA AND DIFFICULTY AMBULATING SINCE HE HAD RIGHT HIP SURGERY IN 12/01. HE HAS BEEN IN THE HOSPITAL SINCE [**6-9**] WITH COURSE COMPLICATED BY ASPIRATION PNEUMONIA WITH FAILED SWOLLOWING STUDY/PEG INSERTION. HYPOXIC RESP BRADY ARREST INTUBATED [**2696-6-13**].DECREASED NIFS TREATED WITH IGG AND PLASMOPHERESIS, UTI'S, TACHYBRADY SYNDROME S/P AV ABLATION AND DDI PACER INSERTION [**7-10**], HE HAD A GI BLEED AND  WAS FOUND TO HAVE A COLONIC MASS BY COLONSOCOPY THAT WAS POS FOR ADENO CA. [**8-6**] HE HAD AN ILEOCECECTOMY AND EPIDURAL PLACEMENT. HE WAS MONITORED IN THE CCU POST OP DUE TO ELEVATED CO2 TO THE 50'S. HE WAS TRANSFERRED TO THE FLOOR ON [**8-9**]. TODAY HE HAD DECREASED RESP STATUS ON THE FLOOR REQUIRING 100% NRB WITH RESP UP TO 40. HE WAS DIURESED WITH 80MG LASIX WITH SMALL DIURESIS AND RESP DOWN TO 30'S. ABG 7.40 /55/58/35.  HE WAS EVALUATED BY THE MICU TEAM. TRANSFERRED TO THE MICU FOR CLOSER OBSERVATION.
+REVIEW OF SYSTEMS-
+NEURO- HE IS ALERT AND ORIENTED X3. SPEECH IS HARD TO UNDERSTAND AT TIMES. UNABLE TO MOVE LEGS. MOVES UPPER EXTREMITIES. 
+RESP- ON 100% NRB SATS 92-95%. RESP HIGH 20'S TO LOW 30'S.
+BS CLEAR DIMINISHED AT THE BASES. 
+CARDIAC- VPACED AT RATE OF 80. SBP 120'S.
+GI- ABD SOFT DISTENDED WITH POS BS. HAS PEG TUBE THAT IS TO GRAVITY. HAD NG TUBE THAT WAS PLACED ON THE FLOOR THIS AFTERNOON THAT HE PULLED OUT ON THE TRANSFER TO THE MICU. HE IS NPO.
+GU- FOLEY DRAINING CLEAR YELLOW URINE. QS. 
+SKIN- SKIN PINK ON BACKSIDE WITH EDEMA IN LEGS HANDS AND BACK. HAS BRUISING ON LEFT LOWER ABD. ? FROM HEPARIN SHOTS. HE HAS AN ABD INCIEION ON HIS RIGHT UPPER ABD THAT IS DRAINING SEROUS DRAINAGE. DSD APPLIED. HE HAS STERISTIPS OVER HIS LEFT SHOULDER PACER SITE. 
+SOCIAL- PER REPORT HE HAS A WIFE. 
+DISPO- IN MICU A FULL CODE FOR CLOSE OBSERVATION OF RESP STATUS.   
+",,
+14590,17099,18137,,2770-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-12**] 5:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10881**]
+     Reason: ETT tube placement - new intubation.                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and   
+       bilateral pleural effusions now with difficulty breathing.   
+     REASON FOR THIS EXAMINATION:
+      ETT tube placement - new intubation.                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Myasthenia [**Last Name (un) 247**], swallowing difficulties and bilateral pleural
+     effusions.  Now with shortness of breath.  S/P intubation.
+     
+     COMPARISONS:  [**2770-8-12**] at 09:17 hours
+     SUPINE AP CHEST:  The patient is rotated.  New ETT has tip at 4.0 cm above the
+     carina.  Right IJ CVL has tip in lower SVC.  Atrial and ventricular leads from
+     presumed left-sided ICD appear unchanged.  The cardiac, mediastinal and hilar
+     contours appear stable.  Patchy opacities over bilateral lung fields appear
+     unchanged, suggestive of pulmonary edema.  Left CP angle is not included.
+     There are bilateral pleural effusions with posterior layering to the level of
+     the apices.  Soft tissues and osseous structures are unchanged.
+     
+     IMPRESSION: New ETT in appropiate position.  No other changes.
+
+",,
+14590,17099,18137,,2770-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-12**] 8:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10880**]
+     Reason: 82 yo male with below.                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           82 year old man with [**First Name9 (NamePattern2) 10850**] [**Last Name (un) 247**], swallowing difficulties, and  
+      bilateral pleural effusions now with difficulty breathing.   
+     REASON FOR THIS EXAMINATION:
+      82 yo male with below.                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Difficulty breathing with myasthenia [**Last Name (un) 247**].
+     
+     Single view of the chest is compared to a previous study dated [**2770-8-11**].
+     
+     The right IJ line and dual-lead left-sided pacer are unchanged.  The
+     cardiomediastinal contour is difficult to evaluate because of the bilateral
+     perihilar alveolar opacities, which have increased compared to the previous
+     study.  There is blunting of both costophrenic angles consistent with pleural
+     effusion.  No pneumothorax is identified.
+     
+     IMPRESSION:
+     
+     Bilateral consolidations with air bronchograms, which may represent
+     aspiration.  There is moderate bilateral pleural effusion.
+     
+
+",,
+14590,17099,18137,0,2770-08-12 05:32:00 EST,2770-08-12 05:40:00 EST,1775,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT HAS NOT HAD A VERY GOOD NIGHT.  RR'S ARE IN THE TEENS TO 32/MIN, AT TIMES HE REPORTS FEELING SOB.  LATEST ABG:  55/52/7.47/39 ON 100% CN, IS CURRENTLY RECEIVING RESP RX.  TEAM THINKS HE HAS ASP PNX VS. CHF, BUT HE IS AFEBRILE AND HAS NO COUGH OR SPUTUM.  LASIX 100 MG'S IV GIVEN ~ 10 PM AND PT HAD AN EXCELLENT RESPONSE.  IS NOW RUNNING ~ 700 CC'S -.  CVP'S 7- 9 RANGE.  HR'S 80, V-PACED, BUT HAS HAD A LOT OF PVC'S SINCE ~ 2AM.  LATEST K+ = 2.7 FOR WHICH HE RECEIVED 100 MEQ'S OF IV KCL, AM K+ PND.  BP'S VERY STABLE.  THE PT IS ORIENTED, BUT ADMITTEDLY VERY ANXIOUS FOR WHICH HE RECEIVED ATIVAN 1 MG X 1 W/ LITTLE AFEECT.  IN ADDITION I HAVE HEARD HIM SELF DIALOGING FOR MOST OF THE NIGHT.  C/O INCISIONAL PAIN ~ 4AM AND  GOT 2 PERCOCET TUBS W/ GOOD RELIEF.  REMAINS NPO EXCEPT MEDS. PEG TO GRAVITY.  IV D51/2 W/ 20 KCL CONT AT 40 CC'S/HR.  
+",,
+14590,17099,18137,0,2770-08-12 14:13:00 EST,2770-08-12 14:43:00 EST,2244,"N",69,"Nursing/Other","P-MICU Nursing Note","
+P-MICU Nursing Note
+S-""Get that man out of my room?"" ""Why can't I be put in the ICU?""
+O-Please see carevue for all objective data.
+  Lungs with decreased breath sounds at bases-rhonchi throughout. On 100% NRB with rr in the 20's to 40's-using accessory muscles.  Dropping O2sat into the high 80's-started on [**Hospital1 **]-gave pt MSO4 for comfort. ABG sent. Checking NIF's when pt will assist.  Coughing up sputum but swallowing it. Pt will not expectorate it in a container.  
+  Denies c/o Chest pain. R'd/o. Started hydralazine.
+  NPO. Felt to have apirated. Gave meds only. No aspirates from PEG. No BM today. Abd distended-has BS-passing flatus.
+  Fluid overloaded. CVp-only-[**5-30**].  Receiving Lasix X1. K peleted and repeat K-2.8, Po4-2.5. MD to order repletion now.
+  Afebrile but on steroids.  WBC up to 17.9 today.  On ceftriax and Levo-may switch antibiotics coverage with ID approval.
+  Alert-oriented to self and [**Hospital1 10**]. Not aware of date/time. Having hallucinations. Seeing other people behind me-and in the room. Pulling off oxygen-tugging at foley. Meds for MG continue.
+  Wife in to visit. Crying,asking how could this have happened. Answered all questions. Offered emotional support.  Social service consulted obtained for support for wife.
+A-Impaired gas exchange
+  Aspiration pnx.
+  Alt in fluid/lytes
+  Alt in mental status.
+  Coping
+P-Closely follow O2 sats-rr-ABG's. NIF's when able.
+  Monitor Temp, WBC. f/up on antibiotics.
+  Replete K and PO4. Recheck.
+  Reorient prn Keep in a safe environment.
+  Support wife.
+
+
+",,
+14590,17099,18137,0,2770-08-12 17:18:00 EST,2770-08-12 17:24:00 EST,1698,"N",69,"Nursing/Other",,"
+
+RESPIRATORYCARE:
+PT. WAS VENTED WITH NIPPV FOR ABOUT 4 HOURS OR SO BUT IT BECAME OBVIOUS WE WERE NOT ABLE TO DECREASE THE CO2 AND INCREASE THE O2
+BECAUSE OF HIS FIGHTING THE VENT. WE INTUBATED HIM WITH A # 8.0 OET AT ABOUT 17:30.  THE TUBE SI TAPED AT 26CMS AT THE LIP. 
+SETTINGS: 600 X 12 100% %PEEP AND 5 PS. SEE CAREVUE FOR MOREINFO...
+",,
+14590,17099,18137,0,2770-08-12 18:36:00 EST,2770-08-12 18:56:00 EST,2147,"N",69,"Nursing/Other","NPN P-MICU-B 4-7PM","
+NPN P-MICU-B 4-7PM
+S/O: Respir: Required intubation for respir distress, was not tolerating Bipap. Placed on A/C 100%/12/600 Peep-5, suctioned times two for lrge amts of bloody sputum, spec sent for C&S. L/S course bilat. O2 sats 97-100% s/p intubation, ABG PND. CXR obtained and Central line was pulled out, new line placed in R groin. A-line also placed in R rad. 
+
+C/V: Became hypotensive with BP down to 60's/40 s/p intubation had rec'd Propofol 100mg for intubation required Levo Gtt titrated to maintain SBP> 90, @ present Gtt is off. Also rec'd 250cc IVB. HR remains 80 AV paced with occ PVC's. 
+
+Neuro: Required Ativan Gtt @ 1mg hr with good response. Fentanyl Gtt was ordered but was not started. 
+
+
+
+
+",,
+14590,17099,18137,,2770-08-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-13**] 3:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10882**]
+     Reason: S/p RIJ placement, assess for position; please eval for inte
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man s/p aspiration event                                            
+     REASON FOR THIS EXAMINATION:
+      S/p RIJ placement, assess for position; please eval for interval change in 
+      parenchymal infiltrates
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  CV line placement, to evaluate position and r/o ptx.
+     
+     A right jugular CV line is in proximal SVC.  ET tube is 5 cm above carina.
+     Dual chamber left-sided pacemaker with atrial and ventricular leads in situ.
+     No pneumothorax.  There are bilateral pleural effusions and diffuse bilateral
+     air-space opacities, consistent with pulmonary edema.
+     
+
+",,
+14590,17099,18137,,2770-08-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-13**] 5:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10883**]
+     Reason: 82 yo male s/p pleural tap lt lung.                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old man s/p aspiration event                                           
+       
+     REASON FOR THIS EXAMINATION:
+      82 yo male s/p pleural tap lt lung.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post pleural tap and status post aspiration event.
+     
+     COMPARISON: [**2770-8-13**] approximately 21/2 hours prior to the present study.
+     
+     AP CHEST (TWO VIEWS): Stable appearance of endotracheal tube, dual chamber
+     pacemaker wires, and right IJ central line. A new coiled wire is noted
+     overlying the left upper lung. The cardiac silhouette and mediastinal and
+     hilar contours are unchanged. Stable appearance of blunting of the right
+     costophrenic angle and increased opacification of the right lung relative to
+     the left consistent with layering effusion. Linear atelectasis is noted at the
+     right base. Patchy air space opacifications are also noted in the right mid
+     and lower lung and less notably in the left mid and lower lung. There is no
+     left effusion.
+     
+     IMPRESSION: 1. Stable appearance of tubes and lines.
+     
+     2. No interval change in right pleural effusion and associated atelectasis.
+     
+     3. Bilateral air space opacifications predominantly in the middle and lower
+     lungs, right greater than left which is consistent with pulmonary edema.
+
+",,
+14590,17099,18137,0,2770-08-13 05:07:00 EST,2770-08-13 05:15:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO PT SEDATED ON ATIVAN 1MG/HR RESPONDING TO TACTILE STIMULATION GRIMACES WITH MOUTH CARE.  PT AFEBRILE TONIGHT.  
+CARD  PT AV PACED DDD PACER.  HR 80'S PT WITH INFREQUENT ECTOPY.  PT RECEIVED KCL AND PO4 THROUGHOUT NIGHT K STILL 3.4 THIS AM.  PT IS ALKALOTIC HCO3 33.  PT ALSO WITH DRAMATIC DROP IN HCT 34 TO 28.  MD PAGED.  CA 8.0. PT ON LEVOPHED AFTER INTUBATION WEANED OFF QUICKLY.  PT BP 90-100/50'S MAP 60'S.  HYDRALAZINE AND LASIX HELD D/T BP. 
+RR  PT ON AC 50% TV 600 RR12 PEEP 5 PT OWN RR 15-16.  TV 600'S.  ABG THIS AM 7.49/47/69/37  PT WITH COPD.  ETT PLACEMENT OK VIA CXR IN EVENING. 
+GI  PT BS OK EVEN WITH STEROID DOSES.  PEG IN PLACE.  STOOL X1 THROUGHOUT NIGHT MELANOUS AND HEME +.  
+GU PT WITH AMBER URINE LASIX HELD R/T LOW BP.
+SKIN ABD SUTURES HEALING SEROUS DRAINAGE.  
+SOCIAL FAMILY AT BS DURING EVENING.  
+",,
+14590,17099,18137,0,2770-08-13 05:39:00 EST,2770-08-13 05:42:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respir. Care
+Patient remains intubated and ventilated overnight with no remarkable changes.  ABGs are adequate on a/c 600 x 12 40% 5 of peep, taking few spontaneous breaths.
+",,
+14590,17099,18137,0,2770-08-13 17:50:00 EST,2770-08-13 18:31:00 EST,2147,"N",69,"Nursing/Other","NPN P-MICU-B 7AM-7PM","
+NPN P-MICU-B 7AM-7PM
+S/O: SEVERAL  procedures done today: 
+  Respir: CXR showed increased in bilat effusions requiring left sided effusion to be tapped for 1300cc fluid, right sided one to be tapped this evening. Remains vented adjusting vent settings for Metobolic alkolosis,  present vent settings A/C 50/500/10 Peep-5, last ABG 7.49/46/120/11/36. L/S course bilat. 
+
+C/V: Remains off of Levo,BP 90-120.60, HR 80 AV paced with occ PVC's, K+-3.4 rec'd 40mEq IV repeat K+ PND. 
+
+ID: Afebrile, WBC 10.2, blood cultures grew out  GM+'s in pairs and clusters, started on Vanco. 
+
+Heme: HCT- 28.2, rec'd 2 units PC's, stool small amt brown OB+ stool. Repeat HCT to be drawn @ 10PM. PEG was Lavaged for clear  fluid no blood noted. NPO except for meds. 
+
+
+GU: u/o 40-75cchr, I&O's 350cc positive, bid Lasix dose d/c'd. 
+
+Neuro: Ativan Gtt increased to 2mg/hr due to the several procedures that were performed. 
+
+A/P: Prepare for pleural tap this evening, check ABG's adjust vent as needed. Check lytes and HCT this evening, repalce as needed. Monitor temps.
+",,
+14590,17099,18137,,2770-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-14**] 4:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10885**]
+     Reason: 82 yo male s/p pleural tap rt lung, question of rt pneumotho
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         82 year old man s/p aspiration event                                         
+           
+     REASON FOR THIS EXAMINATION:
+      82 yo male s/p pleural tap rt lung, question of rt pneumothorax.                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     AP PORTABLE CHEST:
+     
+     INDICATION:  S/P aspiration event.  S/P pleural tap right lung, ? right ptx.
+     
+     The study is compared with prior exam of same day at 1034 hours.
+     
+     FINDINGS;  An ET tube is seen 6 cm above the carina.  A right IJ central
+     venous line is seen with its tip in the SVC.  A cardiac pacemaker is again
+     seen with leads in the right atrium and right ventricle.  A right chest tube
+     is now seen in the upper right hemithorax.  There is no evidence of
+     pneumothorax. There is marked improvement of diffuse haziness on the right
+     side, likely secondary to improvement of a right layering pleural effusion,
+     s/p patient's right pleural tap.  Bilateral perivascular haze remains.  What
+     is seen of the left lung field demonstrates continued patchy alveolar
+     opacities.  The left lower lung field and left CP sulcus is not included on
+     the exam.  The cardiomediastinal borders are unchanged.
+     
+     IMPRESSION: Improvement in right-sided pleural effusions, s/p tap. Continued
+     evidence of pulmonary edema, left greater than right.  No evidence of
+     pneumothorax.
+     
+
+",,
+14590,17099,18137,,2770-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-14**] 10:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10884**]
+     Reason: 82 yo male with below.                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old man s/p aspiration event                                          
+         
+     REASON FOR THIS EXAMINATION:
+      82 yo male with below.                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest dated [**2770-8-14**] compared to previous study of one day earlier.
+     
+     INDICATION:  Aspiration event.
+     
+     An endotracheal tube, central venous catheter, and permanent pacemaker remain
+     in place.  The cardiac and mediastinal contours are stable in the interval.
+     There is persistent vascular engorgement and perihilar haziness.  There is a
+     bilateral alveolar pattern which has progressed in the interval in the left
+     lung.  Bilateral pleural effusions are noted.  Please note that the right
+     lower lung has been incompletely imaged on this study.
+     
+     IMPRESSION:  Worsening bilateral alveolar pattern.  Although possibly due to
+     pulmonary edema, a superimposed aspiration event is possible given the
+     provided clinical history.
+     
+     Bilateral pleural effusions.
+
+",,
+14590,17099,18137,0,2770-08-14 04:53:00 EST,2770-08-14 04:56:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient remained intubated and ventilated overnight with no remarkable changes. Currently on simv 500 x 10 50% 5 of peep, occasional spontaneous breaaths. Given alb/ atrovent q4-6hours. ABGS/SAts within nrmal limits.
+",,
+14590,17099,18137,0,2770-08-14 05:12:00 EST,2770-08-14 05:20:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Neuro  Pt sedated on 2mg ativan /hr gtt.  Pt opens eyes and pulls at restraints with tactile stimulation.  Pt will intermittently follow simple commands.  Pt afebrile.  
+Card.  Pt AV paced DDD pacer.  Pt with infrequent ventricular ectopy.  Pt K continuously low 3.3 this am after given 20kcl in night.  Pt also Mg 1.8 given 2g in night 2.1 this am.  BP stable 100-120/50-60.  Hydralazine held d/t low BP  ?d/c in am.  R fem line removed after quad IJ line [**Name6 (MD) 6280**] via MD.  Tip sent for cx elastoplast dressing in place no s/s of hematoma.  
+RR  Pt changed to simv 50% peep 5 RR 10 TV 500.  Pt tolerating well RR 10-16 at times yet mostly rr with vent.  SX scant tan.  ETT tape changed s/s of breakdown.  Pleural tap site intact.  Did not tap pt's other side during night.  
+GI  Pt BS stable.  PT STILL IN NEED OF NUTRITION!  Peg tube in place.hypoactive bs 1 heme + dark brown stool.
+GU  Pt 360+_ this am.  Amber urine. 
+SKIN  Abd suture site in tact R side with serous drainage.  Peg site sl pink at bottom.  
+Social.  Wife called.  Wife given update along with emotional support may visit today.  
+",,
+14590,17099,18137,0,2770-08-14 16:53:00 EST,2770-08-14 17:28:00 EST,2147,"N",69,"Nursing/Other","NPN P-MICU-B 7AM-7PM","
+NPN P-MICU-B 7AM-7PM
+S/O: RESPIR: Remains vented on IMV-10/500/50% with PS-10, with last ABG 7.49/47/124/11/37. Has occ spon RR-0-10 with spon VT's 150-250. L/S course with occ ex wheezess noted. AM CXR showed lrge Pleural effusion on R side requiring tap, Left sided pleural effusion was tapped yesterday for 1300cc. During R sided tap today developed a Pneumothorax, and required a Chest tube to be placed. Was tapped for 1100cc bloody drainge and CT drained 75cc so far. Has + air leak. O2 sats dropped to 89% during tap, now back uo to 96-99%. Repeat ABG to be obtained. CXR s/p tap and CT placement shows no Pneumo. and no effusion. 
+
+C/V: BP 90-120/50-60, HR 80 paced with occ PVC's. K+ this AM 3.4 rec'd 40mEq, repeat K+ 3.9, rec'd 20Meq IV. 
+
+GU: u/o down to 10-15cc/hr rec'ing 250 IVB @ present, will assess response. BUN/CRE 31/0.8, no Lasix given today, continues with total body edema 2+-3+, increased from yesterday. CVP- [**4-27**]. 
+
+GI: Remains NPO, HCT stable @ 32, small amts of brown OB+ stool times three today. Started on TPN. [**Last Name (un) **] wounds sites D&I. 
+
+ID: Temp 96-96.4 AX WBC down to 9.0. Remains on IV Vanco and Ceftazidime. 
+
+Neuro: Remains on Ativan Gtt 2mg/hr, responded to voice by shaking head and to painful stimuli. Started on Fentanyl Gtt 50mcq/hr s/p CT insertion. 
+
+Social: Wife and neice in to visit before the
+ Tap was performed, talked to MICU team about his condition and prognosis was decided to continue full care, but when called to tell about the Chest tube being inserted Mrs. [**Known patient lastname **] told the Intern that she wanted to made him a DNR but will continue with full treatment for
+ now. 
+
+A/P: Continue to monitor respir status, assess ABG's, and O2 sats, pulmon toilet as needed. Assess CT drainage. Monitor I&O's,and CVP's administer NS IVB's or Lasix as needed. Replete lytes as needed. 
+
+
+",,
+14590,17099,18137,,2770-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-15**] 12:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10886**]
+     Reason: f/u of aspiration pna and pneumothorax                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          82 year old man s/p aspiration event.                                       
+             
+     REASON FOR THIS EXAMINATION:
+      f/u of aspiration pna and pneumothorax                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumothorax/pneumonia follow-up.
+     
+     PORTABLE CHEST:  Comparison is made to prior films from one day earlier.  The
+     endotracheal tube, central venous catheter and right chest tube remain in
+     satisfactory position.  The midline structures are grossly unchanged.  There
+     is no evidence of pneumothorax.  There is persistent patchy increased density
+     at the right lung base with more extensive parenchymal abnormality in the left
+     perihilar region/left retrocardiac area, probably not significantly changed
+     from the two films of yesterday.
+     
+     IMPRESSION:
+     1.  No change in tubes and catheters.
+     2.  No evidence of right pneumothorax.
+     3.  No definite change in multifocal parenchymal opacities, left greater than
+     right.
+     
+
+",,
+14590,17099,18137,0,2770-08-15 04:04:00 EST,2770-08-15 04:26:00 EST,-1,"N",69,"Nursing/Other","nsg progress notes","
+nsg progress notes
+neuro: ativan drip decreased to 1mg/hr, fent. maintained at 50mcg/hr
+at times pt wakes up spont. and becomes restless; tries to communicate by gesturing using his hands and mouthing words. most of night pt slept, is easily arousable to voice; opens eyes only does not  sqeeze hands or move feet. perl. seems to understand when spoken to.
+
+resp; simv decreased  from 10 to 8 successfully as pt is assisting vent. more with a decrease in  paco2 and ph. maintaining good o2 sat and pao2 on fio2 of 40%. breath sounds clear post suctioning of m/a of yellow plug-like secretions. plan is to continue to wean as tolerated.
+
+c/v: av-paced with ventricular rate at 80; no ectopy seen. has maintained a bps of 110 all night. pt is afebrile. generalized edema 3+
+
+gi/gu: abdomen soft. faint bowel sounds. peg remains clamped due to high risks of aspiration. tpn in progress at 41.7cc's/hr.
+boarderline  u.o.; lasix 40mg given at 0300;good response.
+
+resp: rt chest tube bubbles loudly is on 20cm h2o suction; leak is present and known. c.t. drained 300cc's of serosang. overnight.
+chest tube drsg. is dry and intact.
+
+skin: intact to heels and cooccyx as well as iv sites.
+
+social: pt is a dnr. 
+
+",,
+14590,17099,18137,0,2770-08-15 04:28:00 EST,2770-08-15 04:32:00 EST,1819,"N",69,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with simv 500x8/fio2 down to .4/+5 peep/10 psv with persistent alkalotic abg, good oxygenation, spont Vt 2-400 ml; BS coarse, sxn thick yell pluggy secretions with lavage, rx with mdi albuterol as ordered, see carevue for details.
+",,
+14590,17099,18137,0,2770-08-15 16:48:00 EST,2770-08-15 17:05:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p: 
+RESP: Weaned to CPAP 5/PS 5 approximately 1200 & tolerates well with godd ABG to follow. Extubated to 40% cool nebulizer mask @ 1640 & tolerates well. Sats 98% with good productive cough thick yelow tenacious secretions. Breath sound clear anteriorly with faint scattered rhonchi noted throughout. Resp. unlabored RR 15-20. hob @ 45 degrees.  Right lateral CT to 20 cm suction. Dressing dry & intact. No crepitus. Drains seousanguinous fluid small amount. Large air leak continues with bubbling in chamber noted.
+Neuro: Received lightly sedate on Ativan & Fentanyl drips. Anxious At times nods head & moaning. Denies pain. Ativan & Fentanyl off prior to extubation. Fentanyl resumed for comfort/moaning @ 1715 with good effect. Speech is slightly hoarse, understandable confused to place & year. Knows name, calls out at times. Denies complaints.  
+CV: Monitor 100% AV Pacing rate 80. No ectopy. K & MG low this am & replaced. WNL according to 1630 labs. Recieved Lasix 40 mg @ 1200 with good effect. Right radial arterial line out. Pressure to hemostasis. Pressure dressing applied. Site with small ecchymoses. TPN & Fentanyl currently infyse via RIJ central line. Site clear. BP stable. 3+ edema remains. Extremeties elevated on pillows. Recives prophylactic SQ Heparin. SCD's intact. 
+ENDO: SS insulin coverage. Blood sugars per flow sheet.
+ID: Afebrile. Vanco, Ceftaz d/c'd per order. Levaquin started. 
+GI: PEG tube intact. NPO Receives meds via PEG. Dressing dry & intact.
+GU: Foley with adequate urine output noted. Good response following IV Lasix. 
+INTEG: Staples intact left abdomen OTA no redness or drainage noted.
+ Skin otherwise intact. No open areas noted. 
+PLAN: Continue current treatment. Wife updated via phone & also spoke in great detail with attending MD. DNR/DNI. Wife expresses to continue current treatment with proper pain control & to ensure comfort. IV Fentanyl continues per order & may titrate to comfort. Continues on TPN, NPO. Possibly start feedings in am. Repeat CXR & labs in am. 
+",,
+14590,17099,18137,,2770-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-16**] 3:16 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10887**]
+     Reason: PNX resolution                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           82 year old man s/p aspiration event.                                      
+               
+     REASON FOR THIS EXAMINATION:
+      PNX resolution                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aspiration pneumonia follow-up.
+     
+     PORTABLE CHEST:  Comparison is made to study of 2 days earlier.  The ET tube
+     has been removed.  The right IJ central venous catheter and right chest tube
+     are unchanged.  Midline structures are not well evaluated due to AP technique
+     and significant rotation.  Of note, there is interval worsening of aeration,
+     most particularly in the lower half of the right hemithorax and in the left
+     mid and lower lung zones.  Findings may reflect worsening of congestive change
+     and/or pneumonia.
+     
+     IMPRESSION:
+     1)  ET tube removed; no change in central venous catheter and right chest
+     tube.
+     2)  Worsened aeration in both lungs, most particularly on the left as
+     described.
+     
+
+",,
+14590,17099,18137,0,2770-08-16 04:27:00 EST,2770-08-16 04:34:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT REMAINS EXTUBATED, MAINTAINING GOOD O2SAT'S IN THE HIGH 90'S. PT ABLE TO COUGH AND RAISE HIS SECRETIONS WITH ENCOURAGEMENT. LUNG SOUNDS ARE COARSE AND WHEEZY AT TIMES. 
+VITAL SIGNS STABLE. CONT TO BE AV PACED AT RATE OF 80 WITH OCC PVC'S. BP STABLE SEE FLOWSHEET FOR DATA.  
+PT CONT ON FENTANYL DRIP. 
+NEURO: PT ALERT AND COOPERATIVE, BUT CONFUSED. DOES KNOW WHAT HOSPITAL HE'S IN. 
+FOLEY PATENT DRAINING VERY SMALL AMT'S OF URINE. CVP IN LOW RANGE. 
+CHEST TUBE CONT TO DRAIN MOD AMT'S OF SEROSANG FLUID. POS FOR AIR LEAK AS WELL. 
+NO STOOL. HYPOACTIVE BOWEL SOUNDS. 
+TPN CONT. BLD SUG CHECKED NO INSULIN NEEDED.
+PT DNR. 
+",,
+14590,17099,18137,0,2770-08-16 15:58:00 EST,2770-08-16 16:14:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p:
+
+RESP: Remains extubated. O2 weaned to 35 % cool nebulizer. Good cough. Expectorating small amt. thick yellow white sputum. Breath sounds clear anteriorly diminished bases. Right lateral CT placed to water seal. Continues to drain moderate serosanguinous. CXR repeated this afternoon. No distress. Sats 95-97%
+
+NEURO: Pleasantly confused. Converses easily & appropriate. Weak movement noted all extremeties. Knows name & place. 
+
+CV: Monitor AV paced occasional PVC noted. Received Lasix 40 mg x1 with good diureses & 40 meq KCL x2 per NG. Repeat Lytes @ 1700. 3+ edema remains. Plan is to keep pt negative 500-1000cc q day. SCD's intact. RIJ central line intact. Site clear. CVP 9-11. Fentanyl drip weaned to off. Denies pain or discomfort. NS @ KVO & TPN infusing as ordered. 
+
+GI: TF Criticare HN started at 1250 @ 10 cc/hr via G tube. Tolerates well. Hypoactive BS. No BM. Advance q 8 hrs by 10 cc to goal 60 cc. Reassess @ 2000 for advancement. HOB up. 
+
+GU: Foley cath to gravity drain with good urine output following IV Lasix.  See carevue for I&O. 
+
+INTEG: Right abdominal staples intact & open to air. No redness no drainage. PEG intact with dressing dry & intact.  Right lateral CT dressing intact.
+
+ID: Afebrile. Placed in Contact Isolation for Oxacillin coag negative staph. Vancomycin started. 
+
+ENDO: q 6 hr. fingersticks stable.
+
+PSYCH/SOC: Wife & daughter visit. Supportive. 
+
+PLAN: Repeat lytes @ 1700 & replace as ordered. DNR/DNI. Maintain current treatment & ensure comfort. Possible transfer out in am. 
+
+",,
+14590,17099,18137,,2770-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-17**] 2:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10889**]
+     Reason: s/p ct removal, r/o pneumo                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             82 year old man s/p aspiration event.                                    
+                   
+     REASON FOR THIS EXAMINATION:
+      s/p ct removal, r/o pneumo                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Removal of CT tube.
+     
+     PORTABLE CHEST:  Comparison is made to previous films from  [**2770-8-17**] at 9:19
+     a.m.
+     
+     There is interval removal of the right sided chest tube.   There is a dual
+     lead left sided pacemaker and a right IJ line.  The radiograph is technically
+     limited due to patient positioning and radiographic technique. No
+     pneumothorax is identified. There is subcutaneous emphysema.
+     
+     There is bilateral alveolar opacity with focal increased consolidation in the
+     left lower lobe.
+     
+     IMPRESSION:
+     
+     Increasing bilateral alveolar opacity especially at the left base which may
+     indicate underlying pulmonary edema with superimposed aspiration.
+     
+     No evidence of pneumothorax.
+
+",,
+14590,17099,18137,,2770-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-17**] 6:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10888**]
+     Reason: chest tube clamped overnight looking for pneumothorax       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            82 year old man s/p aspiration event.                                     
+                 
+     REASON FOR THIS EXAMINATION:
+      chest tube clamped overnight looking for pneumothorax                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2770-8-17**], COMPARED TO ONE DAY EARLIER.
+     
+     CLINICAL INDIcation: Clamping of chest tube overnight. Evaluation for
+     pneumothorax.
+     
+     A right-sided chest tube remains in place. No pneumothorax is identified. Some
+     subcutaneous emphysema is noted adjacent to the chest tube.
+     
+     A permanent pacemaker and central venous catheter remain in place, in
+     satisfactory position. Cardiac and mediastinal contours are stable. A
+     bilateral asymmetric alveolar pattern shows some interval improvement, which
+     remains worse on the left than the right. There are bilateral pleural
+     effusions present, left greater than right, also improved.
+     
+     IMPRESSION:
+     1. No evidence of pneumothorax.
+     2. Improving asymmetric alveolar pattern, affect the left lung to a greater
+     degree than the right.
+     3. Bilateral pleural effusions.
+
+",,
+14590,17099,18137,0,2770-08-17 03:35:00 EST,2770-08-17 04:08:00 EST,-1,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+REPORT RECEIVED AT 1900, AT THAT TIME PT'S ENVIRONMENT SECURED FOR SAFETY, ALL ALARMS ON MONITOR FUNCTIONING. 
+
+NEURO:  PT. REMAINS CONFUSED.  VERY PLEASANT, WILL CONVERSE.  ALERT AND ORIENTED TO PERSON AND PLACE.  OBEYS COMMANDS.  MAE X 4= EQUAL STRENGTH TO BILATERAL UPPER AND LOWER EXTREMETIES.  PT IS VERY WEAK TO THE LOWER EXTREMETIES AND COMPLAINS OF BEING TENDER WHEN ASSISTED IN MOVING LE.  PERLA.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  BBS= ESSENTIALLY CLEAR TO BILATERAL UPPER LOBES AND CLEAR AND DIMINISHED TO BILATERAL LOWER LOBES.  BILATERAL CHEST EXPANSION NOTED. CHEST TUBE TO RIGHT SIDE NOTED TO HAVE SEROSANGUINOUS DRAINAGE.  CLAMPED AS PER ORDER OF DR. [**Last Name (STitle) 6281**].  CHEST TUBE IS SECURE AND PATENT.  OCCLUSIVE BANDAGE IS DRY, CLEAN AND INTACT.  PT. CURRENTLY ON 4 LITERS NC AND TOLERATING THIS WELL.  SPO2 ARE > OR = 90%.  PT. HAS NO COMPLAINTS OF SOB.  PRODUCTIVE COUGH FOR THICK, YELLOW, SMALL SECRETIONS.  RR HAVE BEEN 20-30 WITH NO SIGNS OF LABORED BREATHING.    
+
+CV:  PT. IS AV PACED HAS MAINTAINED A RATE OF 80-85 WITH NO SIGNS OF ECTOPY.  K AND MAG REPLETED FOR A TOTAL OF 40MEQ OF K IV AND ANOTHER 40MEQ OF K PO.  ALSO GIVEN 2 GM OF MAG IV.  S1 AND S2 AS PER AUSCULTATION.  NO COMPLAINTS OF CHEST PAIN.  SBP > OR = TO 120 WITH NO SYMPTOMATIC HYPER OR HYPOTENSIVE CRISIS. 
+
+GI:  PEG TUBE IS SECURE AND PATENT.  PT TOLERATED PEG SITE CARE WITHOUT DIFFICULTIES.  PT IS CURRENTLY ON TF- TOLERATING 10CC INCREASES WITH NO RESIDUALS- WILL CONTINUE TO ADVANCE TO GOAL RATE OF 60CC/HR.  BS X 4 QUADRANTS.  ABDOMEN IS SOFT, NON-DISTENDED, TENDER TO PALPATION AT SITE OF SURGERY- WELL CONTROLLED WITH 5ML OF ROXICET GIVEN AT PT'S REQUEST.  PT HAS NOT HAD A BM THIS SHIFT BUT IS PASSING FLATUS.  
+
+GU:  PT. HAS INDWELLING FOLEY CATHETER WITH CLEAR, YELLOW URINE NOTED.  PT HAS ADEQUATE UOP > OR = TO 40CC AN HOUR.  PT. HAS NO COMPLAINTS OF DISCOMFORT ASSOCIATED WITH VOIDING.  
+
+INTEG:  PT NOTED TO HAVE STAPLES TO RIGHT LOWER QUADRANT OF ABDOMEN- CLEAN, DRY, AND INTACT, OPEN TO AIR- NO REDNESS OR DRAINAGE NOTED FORM THE SITE. HEELS ARE REDDENED AND IN DANGER OF HAVING BREAKDOWN- HEELS ELEVATED ON PILLOWS TO PREVENT INCREASED PRESSURE.  BRUISING NOTED TO ABDOMEN.  STERI STRIPS TO PACEMAKER SITE TO LEFT CLAVICLE.  SECURE, PATENT AND WITH NO REDNESS OR DRAINAGE NOTED.  PITTING EDEMA NOTED TO BILATERAL UPPER AND LOWER EXTREMETIES.  PT. HAS BEEN TURNED Q 2 FOR PREVENTATIVE MEASURES.
+
+ENDO:  BLOOD SUGARS MONITORE QID.
+
+PLAN:  POSSIBLE TRANSFER TODAY AND DC OF RIGHT CHEST TUBE.  WILL CONTINUE TO MONITOR AND TREAT AS NEEDED.  PLEASE SEE FLOW SHEET FOR ADDITIONAL INFORMATION AS NEEDED.  
+",,
+14590,17099,18137,0,2770-08-17 05:49:00 EST,2770-08-17 05:50:00 EST,-1,"N",69,"Nursing/Other","ADDENDUM","
+ADDENDUM
+0645 SURGICAL TEAM AT BEDSIDE- INSTRUCTED TO DC TUBE FEEDS AND TO CONTACT SURGICAL TEAM REGARDING ADVANCING DIET OR RESTARTING FEEDS.
+",,
+14590,17099,18137,0,2770-08-17 17:36:00 EST,2770-08-17 17:45:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7A-7P NPN
+
+DNR/DNI  CONTACT PRECAUTIONS
+
+NEURO:  REMAINS CONFUSED, MOSTLY PLEASANT.  AT TIMES ORIENTED X2, OTHER TIMES ONLY TO NAME.  PT STATED TODAY HE WAS ON A TRAIN AND A BUS, REPEATEDLY CALLED OUT FOR WIFE.  REORIENTATION GIVEN.  PT FOLLOWS COMMANDS. EXTREMELY WEAK IN X4 EXTREMITIES.
+
+RESP: REMAINS ON 4L NC, SPO2 HIGH 90'S.  LUNGS COARSE TO DIMINIISHED,SOME IMPROVENMENT AFTER IV LASIX.  CT TO R SIDE REMOVED BY MD. DSG D/I.  PT TOL WELL.
+
+CV:  AV PACED RATE 80'S.  OCC PVC'S NOTED, BUT TOL BY PT BP ETC.  BP STABLE TODAY 110'S-120'S SYSTOLIC. 
+
+GI/GU:  RESTARTED ON TF TODAY, CHANGED TO RESPALOR.  CURRENTLY AT 25 CC/HOUR.  TO ADVANCE SLOWLY, SEE MD ORDERS.  NO RESIDUAL NOTED AFTER FIRST 4 HOURS.  PEG TUBE DSG INTACT.  FOLEY PATENT.  40MG IV LASIX GIVEN WITH GOOD RESULTS, ORDERED FOR BID.
+
+ENDO:  BS ELEVATED X2 THIS SHIFT, COVERED WITH SSRI.  
+
+ID: BLOOD CX DRAWN TODAY FROM CL AND PERIPHERAL VEIN.  REMAINS ON CONTACT ISOLATION FOR G + STAPH?
+
+INTEG:  STAPLES TO LLQ ABD INTACT, WOUND EDGES WELL APPROXIMATED.  STERI STRIPS TO L CLAVICLE INTACT AS WELL.
+
+COMFORT:  C/O PAIN X3 THIS SHIFT, MEDICATED WITH PRN ROXICET WITH GOOD RESULTS. 
+
+PLAN: PT HAS BEEN CALLED OUT, TRANSFER NOT PRINTED NOT FAXED.  TRANSFER ORDERS WRITTEN, AWAITING BED ON [**Hospital Ward Name **] 5.
+",,
+14590,17099,18137,,2770-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-8-18**] 11:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10890**]
+     Reason: is there worsening pneumonia or chf                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              82 year old man s/p aspiration event.                                   
+                     
+     REASON FOR THIS EXAMINATION:
+      is there worsening pneumonia or chf                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post aspiration event. Check for pneumonia or CHF.
+     
+     FINDINGS: A single AP semi-upright chest image is provided. Comparison study
+     dated one day earlier. There is again evidence of extensive patchy ill-defined
+     pulmonary infiltrates in both lungs, most severe in the left mid and lower
+     zones. These findings are consistent with aspiration pneumonitis. The
+     appearances have not changed significantly since the previous study. Note is
+     made of fairly marked cardiac enlargement, predominantly left ventricular.
+     Dual pacemaker electrodes are noted, satisfactorily positioned in the right
+     atrium and right ventricle. A right IJ central line is also noted with its tip
+     in the mid SVC. The pulmonary vessels are obscured by the infiltrates. It is
+     not possible to exclude some upper zone redistribution which could indicate
+     left heart failure.
+     
+     IMPRESSION: Findings consistent with aspiration pneumonitis, probably
+     complicated by left heart failure.
+
+",,
+14590,17099,18137,0,2770-08-18 04:23:00 EST,2770-08-18 04:42:00 EST,-1,"N",69,"Nursing/Other",,"
+
+1900-0700 MICU NPN
+
+Code status: DNR/DNI
+
+Contact Isolation: ?MRSA in Sputum
+
+Neuro: Alert, Oriented x person only, confused, calling out ""SOS call 911 and [**Doctor Last Name 1631**]"", requires frequent reorientation, mae weakly, follows commands.  BUE soft wrist restraints to protect lines and feeding tube.  Haldol 5mg x1  given for agitation  but only 1-2hrs of calm behavior.   Roxicet given for incisional abd pain prn.
+
+CV: Hr 80-84 AV Paced with frequent PVCs. BP stable.  R IJ Multi-lumen patent, drsg [**Name5 (PTitle) 343**]. TPN infusing @ 83cc/hr. Palpable pedal pulses. [**1-25**]+ generalized edema.  HCT stable @ 36.5.  K 3.3 - 40meq KCL given PT.
+
+Pulm: O2 4L NC, spo2 > 93%. Lungs clear in upper lobes, diminished in bases.  Productive cough with thick tan/blood tinged secretions.  Resps even and unlabored; no acute respiratory distress noted.
+
+GI:  Peg tube patent, drsg [**Name5 (PTitle) 343**].  Respalor TF increased to 45CC/hr. No residuals noted.   Large round, soft abdomen, + BS.  Incontinent of small loose dk brown stool (guiac +).  NO active signs of bleeding.
+
+Gu: foley patent, draining clear light yellow urine.  Lasix 40mg IV given @ 0300.  Pt current -300; goal is -500 for 24hrs
+
+Id: afebrile, Tmax 98.8.  Continues on Levofloxacin and bactrim
+
+Skin: LLQ staples CDI, no drainage, L CW s. strips CDI, no drainage.  No breakdown noted on back or buttocks; pt turned q2-3 hrs.
+
+Plan:  Pt called out; awaiting bed on [**Hospital Ward Name **] 5.  Continue to montior hemodynamics, labs, resp  and neurological status.  Increased TF to 65Cc/hr as tol.  Provide emotional support to pt/family.  
+",,

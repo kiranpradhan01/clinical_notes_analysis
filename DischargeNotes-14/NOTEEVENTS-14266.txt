@@ -1,0 +1,826 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14266,27938,,,2770-01-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2770-1-7**]              Discharge Date:   [**2770-1-15**]
+ 
+Date of Birth:  [**2696-2-27**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lidocaine / Morphine / Ambien
+ 
+Attending:[**First Name3 (LF) 6704**] 
+Chief Complaint:
+transfered from OSH for medical management of AMI and other 
+multiple medical problems. 
+ 
+Major Surgical or Invasive Procedure:
+right knee incision and drainage (bursa washout)
+ 
+History of Present Illness:
+Patient is a poor historian. The following history is taken from 
+the notes and from the patient.  
+.  
+Mr. [**Known patient lastname 526**] is a 73 yo M who is transferred from an OSH s/p fall 
+at home. He was brought by EMS to the OSH. He was found awake 
+and alert but on the ground complaining of weakness and fatigue. 
+Per patient, he just couldn't get up. No LOC or hitting his 
+head. No loss of bowel or bladder function. He was brought to 
+the OSH and was found to have an elevated WBC, Cr 4.8, and 
+slightly elevated troponin I on admission. Subsequent troponins 
+continued to rise with a max of 4.7 and he was started on a 
+heparin gtt. He was also found to be fluid overloaded and with 
+ascities. He received a paracentesis with removal of 5L and 
+dialysis (per his home schedule on T, TH, Sa). During the course 
+of his hospitalization, he developed what was thought to be a 
+gout flare in his right knee. He has received most of his 
+medical care at [**Hospital1 19**] in the past and was transferred here for 
+further medical management.  
+.  
+On ROS he denies current SOB, CP, n/v, f/c, diarrhea. He makes 
+very little urine on his own. He describes pain in his right 
+knee which has improved slightly from yesterday. He denies any 
+current lightheadedness, HA, changes in vision, cough, 
+palpitations, or abdominal pain.  
+
+ 
+Past Medical History:
+1. Coronary artery disease status post coronary artery bypass 
+graft in [**2747**]  
+2. Right ventricular dysplasia with atrial and ventricular 
+tachycardia, status post ablation  
+3. Multiple arrhythmias status post ablation  
+4. DDD pacemaker secondary to sick sinus syndrome with 
+paroxysmal atrial fibrillation (h/o 4 pacemakers)  
+5. Congestive heart failure requiring multiple hospital 
+admissions  
+6. ESRD, now hemodialysis dependent, recent placement of 
+AV-Fistula ([**2768-7-23**]). Removal of 3L three times a week.  
+7. Passive liver congestion syndrome requiring 2x week 
+paracentesis for volumes of 4-5 L.  
+7. Type II diabetes mellitus  
+8. Gout s/p left great toe amputation  
+9. Degenerative joint disease of knees and back  
+10. Obstructive [**Doctor Last Name 292**] apnea  
+11. Allergic rhinitis  
+12. History of peripheral vascular disease, right greater than 
+left. Status post right lower extremity angiography with three 
+stents with maximum diameter of 8 mm and now status post 
+angiography and atherectomy to the left lower extremity in March 
+of 2004  
+13. Cardiomyopathy EF>55% with TR and hypokinesis of the R V per 
+echo in [**2767**]  
+14. Obstructive [**Doctor Last Name 292**] apnea  
+15. Appendectomy  
+16. h/o GI Bleed from AVMs with chronic need for iron 
+replacement.  
+17. hypothyroidsm  
+18. hyperparathyroidism of renal disease  
+
+ 
+Social History:
+Patient lives in [**Location **], MA, with wife. Has 2 children.  
+Patient is a retired printer.  
+-No alcohol history  
+-Quit smoking in [**2747**] after 2 ppd x 20 year smoking history  
+(40pack-year)  
+- Denies illicit drug use  
+
+ 
+Family History:
+Cardiac disease, DM, Prostate ca, cirrhosis. Son also has RV 
+dysplasia .  
+
+ 
+Physical Exam:
+T 96.0, BP 104/60, HR 60, RR 22, O2sat 95% on 3L, FS 216  
+General: Pleasant obese male lying in bed in NAD  
+Skin: several open sores on arms with dirty fingernails. PVD 
+skin changes with bilateral lower extremities  
+HEENT: NCAT, anicteral sclera, injected conjunctiva bilaterally, 
+left pupil reactive to light. Right pupil less reactive- pt says 
+he had recent cataract surgery in that eye. Could not assess JVD 
+given body habitus, no cervical LAD appreciated.  
+CV: distant heart sounds, but RRR with 2/6 systolic murmur heard 
+best at LUSB without radiation.  
+Lungs: bibasilar crackles; distant breath sounds at the right 
+base. No wheezes, rales, or rhonchi  
+Abdomen: distended but still soft. +BS, non-tender to palpation. 
++ascities.  
+Extremities: very trace edema on left lower extremity. 
+peripheral vascular disease skin changes with erythema 
+bilaterally. Right knee with suprapatellar 3+ edema and beefy 
+red erythema extending past patella. Warm and mildly tender to 
+touch. ROM not fully tested secondary to discomfort.  
+
+ 
+Pertinent Results:
+Labs on transfer from OSH: WBC 6.9 with 93.5%PMNs, 22% bands, 
+6%metamyelocytes, 1 nucleated RBC, Hgb 12.7, Plts 101, PTT 67 on 
+heparin gtt of 600 units, sodium 134, potassium 4, chloride 99, 
+CO2 18. BUN 38, Cr. 4.7, BS 117. Ammonia level elevated at 61, 
+BNP 1242, vanco level [**2770-1-7**] was 5  
+.  
+Trends: CK CK MB Trop I  
+94 6.4 0.71  
+133 14.2 2.96  
+144 13.5 3.61  
+-- --- 4.7  
+.  
+Studies from OSH:  
+[**2770-1-5**]: CXR 2 views: no pneumonia. Cardiomegaly. Pacemaker 
+inplace. no evidence of CHF. Small pleural effusion on lateral 
+view.  
+.  
+[**2770-1-6**]: U/S guided paracentesis: removal of 5100 mL fluid with 
+270 WBC, with 14%PMNs, 24% L, 60% monocytes, 10,000 RBC  
+.  
+[**2770-1-6**] VQ scan: low probability of PE  
+.  
+ECHO (per d/c summary from OSH- no actually report with transfer 
+papers) showed poor LV function with an EF of 30-35%.  
+
+Labs from [**Hospital1 19**]:
+
+Micro:  staph aurea from prepatellar bursa x3
+ 
+Brief Hospital Course:
+70 yo M with multiple medical problems including RV dysplasia 
+leading to right heart failure and chronic hepatic congestion, 
+ESRD requiring dialysis, DM2 and an AMI.  
+.  
+#AMI: patient was asymptomatic but was found to have largely 
+elevated troponins at the OSH.  He does have ESRD which 
+obviously affects the troponin clearence in the blood.  He was 
+continued on a heparin gtt originially on admission.  This is 
+was stopped secondary to bleeding.  Unsure about appropriate 
+medical regimen given his extensive history and RV dysplasia. 
+Has tried BB in past but had symptomatic hypotension from it. 
+Likely no statin given his liver function. Not on an ACEI 
+currently. Has h/o GI bleed- so careful with anticoagulation. 
+Probably reason he is not on ASA. While in the hospital an ASA 
+was started. 
+.  
+#h/o multiple arrhythmias: s/p multiple ablations. pacer in 
+place. EP consult in AM to evaluate pacer and found it to be 
+functioning well.
+.  
+#PAF: Continued his home amiodarone and was monitored on 
+telemetry.  The issue of anticoagulation is discussed above.   
+.  
+#DM2: patient not on medications on transfer. Will start with 
+humalog sliding scale and add standing insulin based on 24 hour 
+usage.  His fingersticks were monitored and found to always be 
+within the 100-150 range qAC.  He was placed on an insulin SS 
+with humalog but did not require any use of insulin. 
+.  
+#ESRD: requires dialysis T, TH, SA.  The renal fellow was 
+notified and made recommendations regarding his nephrocaps and 
+phoslo and calcitriol.  He underwent dialysis as schedule.  
+.  
+#Chronic hepatic congestion: requires paracentesis twice a week. 
+ He was monitored closely and a therapeutic paracentesis was 
+performed on [**2770-1-12**].
+.  
+#Right-sided and left-sided heart failure: from RV dysplasia.  
+He was placed on a 1L fluid restriction and a CXR on admission 
+showed no evidence of fluid overload.  As above, he was 
+monitored for ascites build up. 
+.  
+#erythematous right knee: considered gout flare at OSH given 
+this is a recurrent site for him. Given WBC and diff with bands 
+and metamyl, concern for cellulitis. Patient received vancomycin 
+at OSH. Continued allopurinol and stopped colchicine secondary 
+renal insufficiency.  Rheumatology was consulted and tapped his 
+pre-patellar bursa three times to remove fluid.  It grew out 
+Staph aureas which was MSSA.  Vancomycin was changed to 
+nafcillin.  Ortho was consulted for concern over a septic joint. 
+ Despite pain in his knee, the patient was able to ambulate on 
+the joint and it was believed the infection was not in the joint 
+itself.  Ortho did decided to take him to surgery for a wash out 
+procedure.  During the procedure he developed hypotension which 
+continued in the PACU.  He was transferred to the CCU. He never 
+recovered from the procedure and expired in the CCU. His family 
+wanted an autopsy performed.
+.  
+#hypothyroidism: continue levothyroxine.  TFTs were WNL. 
+.  
+#Code status: Full code
+
+ 
+Medications on Admission:
+Meds on transfer:  
+heparin gtt  
+aminodarone 200mg daily  
+allopurinol 100mg BID  
+lovxyl 0.175mg daily  
+calcitrol 0.25mg daily  
+atarax 10mg TID  
+zoloft 100mg daily  
+nephrocaps PO TID  
+phoslo 2tabs QAC  
+lovenox SC 40mg qAM  
+protonix 40mg daily---had not received  
+procrit 1300mg ----had not received  
+digoxin 0.25mg BID given on [**1-5**]  
+colchicine 0.5mg IV q6 x2 on [**1-6**]  
+vancomycin 1g IV given [**1-6**] and [**1-7**]  
+NTG 0.4mg SL prn  
+acetaminophen 650mg PO/PR q4 prn  
+dulcolax PR qAM prn  
+reglan 10mg PO/IV q6 prn  
+vicodin 1 tab q3-4hrs prn  
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+primary diagonsis: 
+cardiopulmonary arrest leading to death
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+none
+ 
+                             [**First Name11 (Name Pattern1) 280**] [**Last Name (NamePattern1) 6706**] MD, [**MD Number 6707**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9830**] MD [**MD Number 9831**] [**2770-2-18**] @ 1723
+Signed electronically by: DR. [**First Name (STitle) 280**] [**Doctor Last Name **]
+ on: [**Doctor First Name 123**] [**2770-4-16**] 2:22 PM
+(End of Report)
+
+
+",,
+14266,27938,,,2770-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-7**] 10:03 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8029**]
+     Reason: Please evaluate for CHF flare, infiltrate                   
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with ESRD, CHF, ascities, pacemaker                             
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for CHF flare, infiltrate                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Shortness of breath.
+     
+     The heart size is markedly enlarged but unchanged comparing to [**2769-5-27**].
+     
+     The patient has had CABG.  The sternal wires are intact.  The right-sided
+     pacemaker is inserted with its three leads terminating in the right ventricle
+     and in the coronary sinus in the left ventricle epicardial location.  There is
+     no evidence of congestive heart failure or consolidation.  There is no
+     sizeable pleural effusion.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary process.
+                                                                           
+
+",,
+14266,27938,,,2770-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-10**] 5:03 PM
+     KNEE (AP, LAT & OBLIQUE) RIGHT                                  Clip # [**Clip Number (Radiology) 8030**]
+     Reason: SEPSIS
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with septic arthritis of the right knee along with gout.        
+     REASON FOR THIS EXAMINATION:
+      Please do a portable STAT film per [**Hospital Unit Name **] recs.                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT KNEE, [**1-10**]
+     
+     HISTORY:  Septic arthritis along the right knee.
+     
+     IMPRESSION:  Three views of the right knee show generalized osteopenia and a
+     large soft tissue swelling, abscess, or mass anterior to an intact patella.
+     Lateral view shows no evidence of a joint effusion. Vascular graft material is
+     noted in the lower thigh.  The joint spaces are well maintained and there is
+     no subluxation.
+
+",,
+14266,27938,,,2770-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-13**] 3:10 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8035**]
+     Reason: new line with swan heading up to head--pulled back--pls eval
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old man with ESRD, CHF, ascities, pacemaker                           
+         
+     REASON FOR THIS EXAMINATION:
+      new line with swan heading up to head--pulled back--pls eval                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     The left subclavian Cordis catheter/SG remains within the left jugular vein.
+     Suggest withdrawal for approximately 7 cm.  No pneumothorax.  Status post CABG
+     with cardiomegaly as previously noted.  There is some new discoid atelectasis
+     in the right lower zone.  Left-sided pacer and ICD with atrial and two
+     ventricular leads in situ.
+
+",,
+14266,27938,,,2770-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-13**] 5:11 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8031**]
+     Reason: FALL,
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man right knee septic bursitis, s/p fall                            
+     REASON FOR THIS EXAMINATION:
+      ? subdural hematoma                                                             
+     CONTRAINDICATIONS for IV CONTRAST:
+      CRI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old male with right knee septic bursitis, status post
+     fall.
+     
+     HEAD CT WITHOUT CONTRAST:  There is no comparison.  Evaluation is somewhat
+     limited due to motion artifact, especially at the upper most area of frontal
+     lobes.  There is no acute intracranial hemorrhage.  There is no mass effect. 
+     No shift of normally midline structure is noted.  Ventricles are not dilated. 
+     [**Doctor Last Name **]-white differentiation is preserved.  There is no fracture.  The
+     visualized portion of paranasal sinuses, nasopharynx, and mastoid air cells
+     are clear.
+     
+     IMPRESSION:  Limited study due to motion.  No acute intracranial hemorrhage.
+                                                                           
+
+",,
+14266,27938,,,2770-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-13**] 7:15 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8037**]
+     Reason: assess re-placement of cordis and swan                      
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          73 year old man with ESRD, CHF, ascities, pacemaker , s/P L SC cordis  
+      placement   with swan                           
+     REASON FOR THIS EXAMINATION:
+      assess re-placement of cordis and swan                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage renal disease, congestive heart failure, status post
+     replacement of left subclavian Cordis and Swan-Ganz catheter.
+     
+     Portable AP chest dated [**2770-1-13**] at 19:34 is compared to the same examination
+     from three hours earlier.  There is a left-sided dual-lead biventricular
+     ICD-pacemaker with the leads terminating in the right atrium and right
+     ventricle in unchanged position.  The patient is status post median
+     sternotomy.  Overlying the region of the left subclavian vein, the prior
+     Cordis sheath has been removed.  In its place is another line which is also
+     directed upwards in the left jugular vein.  There is right mid lung zone
+     linear atelectasis but no evidence for pleural effusion.
+     
+     IMPRESSION:  Left subclavian Cordis has been removed and replaced with another
+     line, also projecting upwards towards the left jugular vein.  Otherwise, there
+     has been no significant change in the appearance of the chest.  This finding
+     was discussed through the telephone with the physician caring for the patient,
+     Dr. [**First Name4 (NamePattern1) 3402**] [**Last Name (NamePattern1) 8038**] at 11 p.m. on [**2770-1-13**].
+                                                                           
+
+",,
+14266,27938,,,2770-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-13**] 7:15 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8037**]
+     Reason: assess re-placement of cordis and swan                      
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          73 year old man with ESRD, CHF, ascities, pacemaker , s/P L SC cordis  
+      placement   with swan                           
+     REASON FOR THIS EXAMINATION:
+      assess re-placement of cordis and swan                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage renal disease, congestive heart failure, status post
+     replacement of left subclavian Cordis and Swan-Ganz catheter.
+     
+     Portable AP chest dated [**2770-1-13**] at 19:34 is compared to the same examination
+     from three hours earlier.  There is a left-sided dual-lead biventricular
+     ICD-pacemaker with the leads terminating in the right atrium and right
+     ventricle in unchanged position.  The patient is status post median
+     sternotomy.  Overlying the region of the left subclavian vein, the prior
+     Cordis sheath has been removed.  In its place is another line which is also
+     directed upwards in the left jugular vein.  There is right mid lung zone
+     linear atelectasis but no evidence for pleural effusion.
+     
+     IMPRESSION:  Left subclavian Cordis has been removed and replaced with another
+     line, also projecting upwards towards the left jugular vein.  Otherwise, there
+     has been no significant change in the appearance of the chest.  This finding
+     was discussed through the telephone with the physician caring for the patient,
+     Dr. [**First Name4 (NamePattern1) 3402**] [**Last Name (NamePattern1) 8038**] at 11 p.m. on [**2770-1-13**].
+                                                                           
+
+",,
+14266,27938,,,2770-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-13**] 2:21 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 8032**]
+     Reason: confirm line placement                                      
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old man with ESRD, CHF, ascities, pacemaker                            
+       
+     REASON FOR THIS EXAMINATION:
+      confirm line placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, AP PORTABLE SINGLE VIEW
+     
+     INDICATION:  End-stage renal disease, CHF, ascites, and pacemaker, confirm
+     line placement.
+     
+     FINDINGS:  AP single view of the chest has been obtained with patient in
+     supine position.  Analysis is performed in direct comparison with a previous
+     chest examination ([**2770-1-7**] AP view with patient in upright
+     position).
+     
+     Comparison indicates marked cardiac enlargement status post sternotomy
+     presumably related to previous bypass surgery.  A permanent pacer is seen in
+     right anterior axillary position.  Total of three intracavitary electrodes are
+     identified, one of which with the two enforcements indicating an ICD.  The
+     other wires terminate in position of the right atrial appendage and the apical
+     portion of the right ventricle correspondingly.  There is no pulmonary
+     vascular congestion, nor is there any evidence of pneumothorax or acute
+     infiltrates.  Observed is the presence of a catheter sheath combination
+     located in the left upper area above the pulmonary apex.  It is possible that
+     this relates to a subclavian placed line which under such circumstances is
+     directed in cranial rather than mediastinal direction.  Effort is made to
+     reach referring physician, [**Last Name (NamePattern4) 527**]. [**First Name8 (NamePattern2) 8033**] [**Last Name (NamePattern1) 8034**].
+                                                                           
+
+",,
+14266,27938,,,2770-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-13**] 4:15 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8036**]
+     Reason: please eval position of L sided cordis                      
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         73 year old man with ESRD, CHF, ascities, pacemaker , s/P L SC cordis 
+      placement                              
+     REASON FOR THIS EXAMINATION:
+      please eval position of L sided cordis                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  End-stage renal disease, CHF, ascites and pacemaker.  Now status
+     post left subclavian approach Cordis catheter placement, evaluate position.
+     
+     FINDINGS:  AP single view of the chest obtained with patient in supine
+     position is analyzed in direct comparison with a similar preceding study
+     obtained one and a half hour earlier.  Indications on the film show certain
+     degree of Trendelenburg position.  Chest findings with pacer electrodes and
+     status post bypass surgery are unchanged.  It is now recognized that the
+     left-sided apical line consist of a sheath directed in retrograde direction in
+     the left jugular vein.  Observe that the sheath is kinked in its mid portion. 
+     No complication such as hematoma or pneumothorax has occurred.
+                                                                           
+
+",,
+14266,27938,,,2770-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-13**] 4:15 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8036**]
+     Reason: please eval position of L sided cordis                      
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         73 year old man with ESRD, CHF, ascities, pacemaker , s/P L SC cordis 
+      placement                              
+     REASON FOR THIS EXAMINATION:
+      please eval position of L sided cordis                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  End-stage renal disease, CHF, ascites and pacemaker.  Now status
+     post left subclavian approach Cordis catheter placement, evaluate position.
+     
+     FINDINGS:  AP single view of the chest obtained with patient in supine
+     position is analyzed in direct comparison with a similar preceding study
+     obtained one and a half hour earlier.  Indications on the film show certain
+     degree of Trendelenburg position.  Chest findings with pacer electrodes and
+     status post bypass surgery are unchanged.  It is now recognized that the
+     left-sided apical line consist of a sheath directed in retrograde direction in
+     the left jugular vein.  Observe that the sheath is kinked in its mid portion. 
+     No complication such as hematoma or pneumothorax has occurred.
+                                                                           
+
+",,
+14266,27938,,,2770-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-13**] 3:10 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8035**]
+     Reason: new line with swan heading up to head--pulled back--pls eval
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old man with ESRD, CHF, ascities, pacemaker                           
+         
+     REASON FOR THIS EXAMINATION:
+      new line with swan heading up to head--pulled back--pls eval                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     The left subclavian Cordis catheter/SG remains within the left jugular vein.
+     Suggest withdrawal for approximately 7 cm.  No pneumothorax.  Status post CABG
+     with cardiomegaly as previously noted.  There is some new discoid atelectasis
+     in the right lower zone.  Left-sided pacer and ICD with atrial and two
+     ventricular leads in situ.
+
+",,
+14266,27938,39306,0,2770-01-13 18:33:00 EST,2770-01-13 18:56:00 EST,7859,"N",1,"Nursing/Other",,"
+
+NPN 1530--1900
+
+s: ""I 'm in the hospital""
+
+o: please see careview for vitals and other objective data
+
+PT came here from OR, I and D of infected right knee ( pus present per OR) pt became Hypotensive during case, also hyperkalemic,( 6.0) pt is dialysis pt. Here at CCU dopamine titrated up to 20 Ug kg/min, levophed added as well and titrated up to 30 UG, fluid bolus 500 cc x 2, cal gluconate given upon arrival was given insulin in PACU.
+BP in the 70's responded to measures, up to 90-100, and CVVHDF was started for hyperkalemia. Pt came here with a PA catheter on the left, malposition [**Name6 (MD) 17**] CXR, md here to restart line, renal fellow and cardiology fellow also placed quinton line in left femoral area.New introducer placed on left subclavian, repeat XRAY also showed malposition, line not able to be utilized. Cardiology team her to place new cordis. 
+
+Neuro: arousable, knows he is in the hospital, moves all extrem to commands, pupild dilated, pt does turn head to voice and looks at nurse.
+
+Respiratory: We followed abg, o2 was down to 7o, co2 39 and we placed him on 100 percent non rebreather.  continue to follow ABG, o2 sats are dificult to obtain as pt is clamped down on max dopamine.
+
+CV- pt is paced, wide QRS, however this has not changed in relation to lower [**Name8 (MD) 5914**], md's aware. pt on CVVH for hyperkalemai, follow K.
+Hypotensive, on max dopamine and now levophed added, epi drip off around 1600.  Pt has a left av fistular on left upper arm, I palpated a pulse but not a strong bruit, ? clotted or decreased blood flow secondary to hypotension, no bp cuff on left arm. 
+
+ID: pt is presumed septic and given vanco and nafcillin this afternoon.
+
+access- We were using the quinton for fluids, and pressors, MD are currently placing a new cordis for access. CVVHDF running and all infusions pressors in return line, and antibiotics via right ac PIV.
+aline right radial. 
+
+GU/ renal- likely anuric, on CVVHDF, 2 k bath/ 32 HCO3- 500 cc hour. replacement also 2k /32 hco3 at 1500 cc per hour. no heparin, no UF.
+
+A: septic pt, hypotensive requires pressors, fluids, and lines for access.
+p: follow cv, resp status closely, cvvhdf, no fluid removal,continue antibiotics, follow Labs, lytes Q 6 hours or less,keep pt family updated on POC as discussed in CCU rounds
+",,
+14266,27938,39306,,2770-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-14**] 9:25 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 8041**]
+     Reason: assess cbd, rule out cholangitis, duct blockage.            
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with right knee bursitis and right ventricular dysplasia with 
+      sepsis-like picture and rising lfts, specifically conjugated bilirubin.
+     REASON FOR THIS EXAMINATION:
+      assess cbd, rule out cholangitis, duct blockage.                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE GALLBLADDER ULTRASOUND
+     
+     INDICATION:  Rule out cholangitis.
+     
+     Limited focused portable ultrasound of the gallbladder and liver were
+     performed. Note is made of significant ascites.  No focal liver lesions. The
+     gallbladder is visualized and is relatively unremarkable.  An area of
+     increased echogenicity is identified on the anterior wall.  This does not
+     appear to move with positioning.  However the appearances are most likely
+     consistent with cholelithiasis.  The common bile duct measures 0.6 cm, which
+     is within normal limits for the patient's age.  No evidence of any gallbladder
+     wall thickening.
+     The kidneys are within normal imits for the patient's age.
+     
+     IMPRESSION:
+     1. Cholelithiasis with no evidence of cholecystitis.
+     2. Ascites.
+
+",,
+14266,27938,39306,,2770-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-14**] 7:40 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8039**]
+     Reason: r/o infiltrate, assess for effusions, vascular congestion.  
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with ESRD, CHF, ascities, pacemaker with hypotension following 
+      OR I/D of right knee bursitis.   With low MAPs, receiving fluid boluses.        
+                   
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate, assess for effusions, vascular congestion.                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST AT 11:00 A.M., [**1-14**]
+     
+     HISTORY:  End-stage renal disease and CHF.  Hypotension.
+     
+     IMPRESSION:  AP chest compared to [**1-13**]:
+     
+     Very mild interstitial edema which developed on [**1-13**] is unchanged. 
+     Severe cardiomegaly is longstanding.  There is no pneumothorax or pleural
+     effusion.  Mediastinal venous engorgement suggests elevated central venous
+     pressure.  Transvenous right atrial and right ventricular pacer leads and
+     right ventricular pacer defibrillator lead are unchanged in their positions;
+     the proximal electrode of the defibrillator traverses the SVC and upper right
+     atrium, and the tip projects superiorly over the right ventricular apex.
+     
+     The left subclavian sheath still heads cephalad presumably into the internal
+     jugular vein and is sharply kinked at the right angle turn.  Clinical
+     attention to this is advised and Dr. [**First Name (STitle) 8040**] was paged to report these
+     findings, at the time of dictation.
+                                                                           
+
+",,
+14266,27938,39306,,2770-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-14**] 8:12 PM
+     CHEST FLUORO WITHOUT RADIOLOGIST PORT; -77 BY DIFFERENT PHYSICIANClip # [**Telephone/Fax (1) 8043**]
+     Reason: need to reposition central line in CCU                      
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with ESRD, septic arthitis, ARVD, septic shock with subclav 
+      line in LIJ
+     REASON FOR THIS EXAMINATION:
+      need to reposition central line in CCU                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST FLUOROSCOPY WITHOUT RADIOLOGIST PORTABLE.
+     
+     A chest fluoroscopy was performed portably in the CCU to assist with a
+     repositioning of a central line.  15 minutes and 12 seconds of fluoro time was
+     used.  No images were saved.
+                                                                           
+
+",,
+14266,27938,39306,,2770-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-14**] 8:12 PM
+     CHEST FLUORO WITHOUT RADIOLOGIST PORT; -77 BY DIFFERENT PHYSICIANClip # [**Telephone/Fax (1) 8043**]
+     Reason: need to reposition central line in CCU                      
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with ESRD, septic arthitis, ARVD, septic shock with subclav 
+      line in LIJ
+     REASON FOR THIS EXAMINATION:
+      need to reposition central line in CCU                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST FLUOROSCOPY WITHOUT RADIOLOGIST PORTABLE.
+     
+     A chest fluoroscopy was performed portably in the CCU to assist with a
+     repositioning of a central line.  15 minutes and 12 seconds of fluoro time was
+     used.  No images were saved.
+                                                                           
+
+",,
+14266,27938,39306,,2770-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-14**] 5:10 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8042**]
+     Reason: please eval position of L SC triple lumen                   
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old man with ESRD, CHF, ascities, s/p L SC line replacement            
+     REASON FOR THIS EXAMINATION:
+      please eval position of L SC triple lumen                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  73-year-old man with end-stage renal disease, CHF, status post
+     line placement.
+     
+     CHEST, AP SUPINE PORTABLE:  The patient is status post sternotomy.
+     Discontinuity in the uppermost sternal wire is unchanged.  There is a three-
+     lead pacemaker in a similar position.  The heart is markedly enlarged, as
+     before.
+     
+     There is a new left subclavian central venous catheter terminating near the
+     cavoatrial junction.  There is no pneumothorax.
+     
+     IMPRESSION:  New central venous catheter terminating in the superior vena
+     cava.
+
+",,
+14266,27938,39306,,2770-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-1-14**] 5:10 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8042**]
+     Reason: please eval position of L SC triple lumen                   
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old man with ESRD, CHF, ascities, s/p L SC line replacement            
+     REASON FOR THIS EXAMINATION:
+      please eval position of L SC triple lumen                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  73-year-old man with end-stage renal disease, CHF, status post
+     line placement.
+     
+     CHEST, AP SUPINE PORTABLE:  The patient is status post sternotomy.
+     Discontinuity in the uppermost sternal wire is unchanged.  There is a three-
+     lead pacemaker in a similar position.  The heart is markedly enlarged, as
+     before.
+     
+     There is a new left subclavian central venous catheter terminating near the
+     cavoatrial junction.  There is no pneumothorax.
+     
+     IMPRESSION:  New central venous catheter terminating in the superior vena
+     cava.
+
+",,
+14266,27938,39306,0,2770-01-14 05:01:00 EST,2770-01-14 05:40:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: ""Call me [**Male First Name (un) 5915**]...""
+O: please see carevue for complete objective/assessment data
+This is a 73yo man initially admitted s/p fall @ home [**1-5**], OSH found pt w/ ^WBC/Cr and CtnI, volume overloaded->HD and paracentesis for 5L, R knee bursitis v. gout. tx'd to [**Hospital1 10**] ([**Wardname **]) for management of AMI and R knee process. On floor remained CV/resp stable while cont w/ HD and paracentesis per home regimen, R knee s/p tap x 2, fluid growing S.Aureus. [**1-13**] pt went to OR for R knee I&D/wash out/bursectomy, during case pt became hypotensive to 70s->epi w/ little effect->dopa. Extubated w/o difficulty in PACU and tx'd to CCU for further management of hypotension. Levophed was added for BP management, also recieved 2nd L NS w/ effect, MAP maintained >60. L fem line placed for CRRT initiation, cont abx for suspected sepsis. ONOC pt has required max dose dopa/levo and sm amt fluid to maintain MAP >55, Resp sts stable, weaning O2 as tolerated. 
+ROS: 
+NEURO: Somnolent/lethargic but arouses to vocal stim, A&OX3, follows commands. MAE, C/o pain in R knee rx'd w/ fent IVP prn (unable to tol po's at this time d/t dysphagia ?r/t ETT/dry mucous membranes). pupils ~6mm and slugish bilat.
+
+CV: HR A-paced/V-sensed (rare AV/V pacing noted on tele) MHR 75. Initially able to wean levophed, however later in shift (~0100) pt becoming hypotensive w/ MAP 50 req gtts back ^ dopa @ 18 and levophed @ .3. Additional 250cc NS given w/ little effect and BFR decreased to 80 on CRRT. MAPs maintained 55-60, additional 500cc NS currently infusing, results pending. All extremities are purple/mottled, distal pulses by dop, color and temp improving sl. t/o shift. Denies CP/SOB, lactate improving, CKs bumped this am. Hct stable and lytes repleted per CRRT guidelines. LSC cordis is to be used for slow fluid admin ONLY per CXR. 
+
+RESP: LSCTA, diminished @ bases bilaterally w/ rare rales. O2 weaned from NRB to 35% cool mist face tent, SpO2 >96% (added mist d/t dry mucous membranes). Denies dyspnea, most recent ABG revealing compensated metabolic acidosis w/ marginal oxygenation. 
+
+GI: Abd soft, distended/ascites, RLQ area of ecchymosis d/t recurrent taps. Abd intermittently tender to palpation RUQ. Pt has remained NPO after coughing w/ attempts at sips of water. BS are hypoactive and no BM. LFTs cont elevated/rising. 
+
+GU: incont sm amt urine. Cont CVVHDF w/ goal PFR 0. BUN/Cr improving w/ cont treatment. K/Ca gluc gtts titrated per CRRT guidelines. All pressures wnl. 
+
+ENDO: type 2 DM, BG wnl w/ no RISS coverage required. 
+
+ID: hypothermic initially->bair hugger applied, now temp 96.8 po. WBC down slightly this am, cont vanco and nafcillin for presumed sepsis. BCs sent x 2 (aline and CRRT).
+
+SKIN: RLE w/ ace-wrap dsg in place, oozing min amt s/s drainage. No orders to change, CCU resident aware, surgery to eval this am. Multiple areas of ecchymosis, skin tears. RAC 20G PIV patent and w/ good blood return, oozing slightly when fast flushed. RRadial aline patent and intact. LSC introducer w/ KVO, no
+",,
+14266,27938,39306,0,2770-01-14 05:02:00 EST,2770-01-14 05:40:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+(Continued)
+t to be used for meds or fluid bolusing as tip is curved up into RIJ. L fem quentin line w/ all meds/fluid/CRRT running, patent and intact. 
+
+SOC: spoke w/ pts wife re: pt condition and POC. 
+
+A: 73y/o w/ multiple medical problems s/p R knee washout c/b hypotension req max pressors x 2/fluid and CRRT for management of lyte disturbances/uremia, remains CV stable but tenuous on current therapy, ? sepsis/hypovolemia v. peri-op MI.
+P: cont present ICU management. pressors for MAP >55-60, f/u outcome of fluid bolus. Cont CRRT per protocol. Monitor resp sts given pt 4l +.  Cont support to pt/family.
+",,
+14266,27938,39306,0,2770-01-14 18:38:00 EST,2770-01-14 19:24:00 EST,2029,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/SEPSIS/RENAL","
+CCU NSG NOTE: ALT IN CV/SEPSIS/RENAL
+O: For complete VS see CCu flow sheet.
+CODE STATUS: after consultation with physicians pts wife, the HCP made pt DNR/DNI. Treatment will continue, but no resusitative efforts made.
+ID: Pt remains afebrile with temp ~97 po. No longer on barehugger. WBCs decreased to 11.3 (13.1). He is receiving flagyl and ceftriaxone and vanco by level.
+CV: Pt started the day with maps in the mid 50s despite maxed out dopamine 20mic/kilo and levo at .3mic/kilo. Vasopressin was started at 0945 at 1.2u/hr. He was increased to 2.4u at 11:15 and has tolerated it well. At the same time pacer was reprogramed to vvi with  rate of 50 to prevent pacing. Both of these changes have improved maps to 60s and levophed has been decreased to .09mic/kilo and can probably come off. Dopamine is to remain at 20 mic/kilo for now. A venous sat was drawn off the subclavian line that was known to be going retrograde. It gave a CO of 6.0/2.8 with SVR 453. At 1600, after receiving 1 U FFP, another attempt at line placement, now under fluro was done. A swan was floated, but it was not possible to advance it beyond RA, most likely due to lg RV. At a result the PA port is RA, the RA port is in the cortis and blood cannot be drawn from it, the RA infusion port is likewise not useable. THe RV infusion port is usable as is the cortis. His pressures have been moved from his dialysis line to the sideport of the swan with new tubing.The site is eccymotic, but there is no oozing. All pulses are dopplerable. Feet and all extremities are only slightly cool. 
+RENAL: Pt remained on CCVHD, tolerating dialysis well, but have no fluid removal. The filter clotted at 1800, just as line was in. RRT has been temporarily stopped until new filter can be primed. He is 4.5 liters pos for the day and 7.2 liters LOS. 
+RESP: Pts sats unreliable due to periferal vasoconstriction. Last GAs on 35% neb was 7.31/41/75/23. Breath sound decreased. Pt has fairly strong cough.
+GI: Pt kept NPO as he is unsafe swallowing. He has ultrasound of acites and later was tapped for sample to send to lab.
+SKIN: Dsg on R lower leg changed by ortho. Area very bloody, and open, but appears clean. He has lg eccymotic area on R abdomen, perhaps from recent paricentesis which he has 2 X week. Some skin tears noted on R anticub, but otherwise skin has no breakdown at this point.
+MS: Pt intially very somnulent and barely responsive. Speak was incomprehensible, and he followed no commands. With improved hemodynamics he is able to say his name and follow some simple commands. He responds to his family who visited most of the day. He does not seem to be in pain when left alone. He had significant pain with dsg change. He receives fentanyl 12.5-25 IV for pain. 
+A: Improved hemodynamics on vasopressin/weaning levo/dnr/dni
+P: continue weaning levo as tolerated. Restart CVVHD when possible. Monitor I & O. Cont with ABX. Due for labs at 10pm. Monitor for pain.
+",,
+14266,,39306,0,2770-01-15 05:18:00 EST,2770-01-15 05:31:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:attempted cvvhd wo success-hypotension-requiring increased dose of pressors-levophed, dopa, & vasopressin. septic w decrease svr, elevated lactic acid, & decreacing ph. medical team & family made aware of severity of condition. decission made to dc cvvhd, increase pressors & fl bolus till family present. wife, son & daughter present-discussion re:care goals--decision made to stop fl/ pressors & provide adeq comfort measures to pt. catholic priest in to see pt. family present.
+
+a:sever sepsis.
+
+p:adeq comfort support to pt. support family as indicated. 
+",,

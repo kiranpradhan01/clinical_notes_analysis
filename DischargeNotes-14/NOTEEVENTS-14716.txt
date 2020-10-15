@@ -1,0 +1,1486 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14716,,,,3074-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-1-12**] 9:53 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 11942**]
+     Reason: This gentleman has features of restrictive lung disease.  Pl
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with cirrhosis, and restrictive lung disease.
+     REASON FOR THIS EXAMINATION:
+      This gentleman has features of restrictive lung disease.  Please perform high
+      resolution CT of chest to see if there is interstitial pneumonitis/fibrosinf
+      alveolitis.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Cirrhosis, restrictive lung disease. Please perform high
+     resolution CT to see if there is interstitial pneumonitis or fibrosis.
+     
+     No comparisons.
+     
+     TECHNIQUE: CT images of 2.5 mm collimation were obtained of the chest with no
+     IV contrast. High resolution images of 1.25 mm collimation were also obtained
+     during inspiration and expiration.
+     
+     CT CHEST AND HIGH RESOLUTION CT CHEST WITH NO IV CONTRAST: Soft tissue windows
+     reveal no significant mediastinal, hilar or axillary lymph node enlargement.
+     Coronary artery calcifications are noted. There is layering small-to-moderate
+     sized left pleural effusion. Incidental note is made of an aberrant right
+     subclavian artery.
+     
+     Lung windows reveal no evidence of significant interstitial abnormality. A
+     focal area of opacity is demonstrated in the left lower lobe, likely
+     representing atelectasis associated with the effusion. A small calcified
+     granuloma is  demonstrated within this area of opacified lung parenchyma.
+     Minimal cylindrical bronchiectasis with bronchial wall thickening is
+     demonstrated in the right lower lobe. Minimal linear opacities are also
+     demonstrated in the apices, likely representing scarring. Bilateral airways
+     are patent to the level of the segmental bronchi.
+     
+     A small hiatal hernia is demonstrated. In the imaged portion of the upper
+     abdomen, a nodular appearance of the liver is demonstrated, consistent with
+     the patient's known cirrhosis. There is moderate-to-large amount of ascites
+     and associated mesenteric stranding. Extensive intra-abdominal varices are
+     noted. There appears to be a small ventral hernia containing fat and varices.
+     
+     Bone windows reveal no significant abnormality.
+     
+     The expiration images demonstrated no significant air-trapping.
+     
+     IMPRESSION:
+     1. No evidence of significant interstitial lung disease.
+     2. Left lower lobe opacity, most likely due to passive atelectasis associated
+     with a small- to- moderate left pleural effusion. Pneumonia cannot be
+     completely excluded in the appropriate clinical setting.
+     3. Minimal cylindrical bronchiectasis in the right lower lobe.
+                                                                 (Over)
+
+     DATE: [**3074-1-12**] 9:53 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 11942**]
+     Reason: This gentleman has features of restrictive lung disease.  Pl
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     4. Cirrhosis with asictes and varices.
+     
+
+",,
+14716,,,,3074-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-1-20**] 9:31 AM
+     PARACENTESIS DIAG. OR THERAPEUTIC; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 11945**]
+     Reason: ASCITES, PLEASE PERFORM DX PARACENTESIS AND SEND FOR CELL COUNT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with PSC, cirrhosis presents w/ hepatic encephalopathy.         
+     REASON FOR THIS EXAMINATION:
+      Please perform dx paracentesis and send for cell count w/ diff, albumin, total 
+      protein, amylase, LDH, glucose and fluid culture w/ g. stain
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 59 y/o man with PSC cirrhosis presents with hepatic encephalopathy.
+     Please perform paracentesis.
+     
+     Comparison made to ultrasound dated the same day.
+     
+     Informed consent was obtained from the patient and risks of the procedure
+     explained including bleeding, infection and visceral injury.
+     
+     ULTRASOUND GUIDED PARACENTESIS: Using sterile technique, ultrasound guidance,
+     a 19 gauge [**Last Name (un) 2233**] needle, a paracentesis was performed for diagnostic purposes.
+     Approximately 80 cc of blood tinged fluid were freely aspirated. The fluid was
+     located predominantly surrounding the liver.
+     
+     No complications were encountered. 1% Xylocaine was used as local anesthesia
+     with no systemic analgesic administration. Dr. [**First Name (STitle) 2742**], attending radiologist,
+     was present for the entire procedure.
+     
+     Sample was sent at the request of the referring clinicians for total protein,
+     glucose, LDH, amylase, cell count with differential, albumin as well as fluid
+     culture and gram stain.
+     
+     IMPRESSION: Successful ultrasound guided paracentesis.
+
+",,
+14716,,,,3074-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-1-20**] 12:16 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11943**]
+     Reason: r/o consolidation                                           
+     ______________________________________________________________________________
+     CLINICAL INFORMATION & QUESTIONS TO BE ANSWERED:
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PA AND LATERAL:
+     
+     HISTORY: Primary sclerosing cholangitis and delta MS.
+     
+     There is a small left pleural effusion with associated atelectasis at the left
+     base unchanged since the prior study of [**3073-12-23**].  No new lung lesions.
+     
+     IMPRESSION:  Small left pleural effusion and left basilar atelectasis,
+     unchanged.  Linear atelectasis right lung base.
+     
+
+",,
+14716,,,,3074-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-1-20**] 9:31 AM
+     PARACENTESIS DIAG. OR THERAPEUTIC; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 11945**]
+     Reason: ASCITES, PLEASE PERFORM DX PARACENTESIS AND SEND FOR CELL COUNT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with PSC, cirrhosis presents w/ hepatic encephalopathy.         
+     REASON FOR THIS EXAMINATION:
+      Please perform dx paracentesis and send for cell count w/ diff, albumin, total 
+      protein, amylase, LDH, glucose and fluid culture w/ g. stain
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 59 y/o man with PSC cirrhosis presents with hepatic encephalopathy.
+     Please perform paracentesis.
+     
+     Comparison made to ultrasound dated the same day.
+     
+     Informed consent was obtained from the patient and risks of the procedure
+     explained including bleeding, infection and visceral injury.
+     
+     ULTRASOUND GUIDED PARACENTESIS: Using sterile technique, ultrasound guidance,
+     a 19 gauge [**Last Name (un) 2233**] needle, a paracentesis was performed for diagnostic purposes.
+     Approximately 80 cc of blood tinged fluid were freely aspirated. The fluid was
+     located predominantly surrounding the liver.
+     
+     No complications were encountered. 1% Xylocaine was used as local anesthesia
+     with no systemic analgesic administration. Dr. [**First Name (STitle) 2742**], attending radiologist,
+     was present for the entire procedure.
+     
+     Sample was sent at the request of the referring clinicians for total protein,
+     glucose, LDH, amylase, cell count with differential, albumin as well as fluid
+     culture and gram stain.
+     
+     IMPRESSION: Successful ultrasound guided paracentesis.
+
+",,
+14716,,,,3074-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-1-20**] 8:23 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 11944**]
+     Reason: 59 YEAR OLD WITH PSC, CIRRHOSIS, ASCITES, EVALUATE ABDOMEN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 yo man w/ above.                                                             
+     REASON FOR THIS EXAMINATION:
+      59 yo man w/ PSC, cirrhosis, ascites. Please evaluate abdominal organs/ascitic 
+      fluid. Please mark for paracentesis.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 59 y/o man with PSC, cirrhosis and ascites. Please evaluate for
+     ascitic fluid.
+     
+     Comparison made to MRI of the abdomen dated [**3073-12-25**].
+     
+     FINDINGS: The liver is coarse, nodular and atrophic in appearance consistent
+     with cirrhosis. No dominant nodules are seen. There is no evidence of intra or
+     extrahepatic biliary dilatation. No focal biliary strictures are noted.
+     Hepatopetal flow is seen in the main portal vein. The gallbladder is not
+     visualized.
+     
+     A small amount of ascites is seen surrounding the liver. The spleen is
+     enlarged and measures 14.5 cm in size.
+     
+     Targeted ultrasound was then performed in an attempt to identify the tiny
+     nodule seen in segment 2 on MRI. No discrete lesion was identified.
+     
+     IMPRESSION: 1) Nodular, atrophic liver consistent with cirrhosis.
+     
+     2) Small amount of ascites surrounding the liver.
+     
+     3) Splenomegaly.
+
+",,
+14716,14401,,,3074-02-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3074-2-5**]     Discharge Date:  [**3074-2-13**]
+
+Date of Birth:   [**3014-8-25**]     Sex:  M
+
+Service:  [**Location (un) 2089**] MEDICINE
+
+HISTORY OF PRESENT ILLNESS:  A 59-year-old male with
+end-stage liver disease secondary to primary sclerosing
+cholangitis with associated ulcerative colitis and a history
+of ascites and hepatic encephalopathy, with a recent
+admission for hepatic encephalopathy [**1-19**] to 19th,
+who was transferred yesterday from an outside hospital with
+change in mental status and found unresponsive by his family.
+The patient was admitted to the SICU, given lactulose with
+improved mental status.
+
+REVIEW OF SYSTEMS:  Negative for obvious cause of worsening
+encephalopathy.  Urinalysis at outside hospital with few
+white blood cells.  Chest x-ray shows a right effusion and
+question of a retrocardiac density.  Today the patient feels
+improved.  Denies focal symptoms.  No abdominal pain, but
+increased abdominal distention.
+
+PAST MEDICAL HISTORY:
+1. Primary sclerosing cholangitis.
+2. Cirrhosis on transplant with ascites and encephalopathy.
+3. Ulcerative colitis.
+4. Cholecystectomy.
+5. Hepatic encephalopathy.
+6. Hepatitis C antibody positive, RNA of 0.
+7. Duodenal ulcer.
+8. History of Gram-negative sepsis.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS AT HOME:
+1. Aldactone 150 q day.
+2. Nadolol 20 q day.
+3. Ursodiol 900 bid.
+4. Multivitamin.
+5. Calcium carbonate.
+6. Iron sulfate.
+7. Pentasa 1,000 tid.
+8. Protonix 40 q day.
+
+SOCIAL HISTORY:  No smoking, one drip of alcohol per week.
+Lives alone.
+
+FAMILY HISTORY:  Coronary artery disease and breast cancer.
+No colon cancer of inflammatory bowel disease.
+
+EXAMINATION ON ADMISSION:  Temperature 96.1, blood pressure
+124/72, pulse 73, and 97% on room air.  General:  Tired,
+easily arousable.  HEENT:  Pupils are equal, round, and
+reactive to light and accommodation.  Extraocular movements
+are intact.  Mucous membranes are moist.  Pulmonary:
+Decreased breath sounds at the right base, rales at the left
+base.  Cardiac:  Regular, rate, and rhythm, no murmurs, rubs,
+or gallops.  Abdomen:  Positive bowel sounds, distended,
+tympanitic, and no tenderness.  Extremities:  No edema, warm.
+Neurologic:  No focal deficits.
+
+DATA:  White blood cell count 7.2, hematocrit 37, platelets
+166, MCV 91.  Differential is 78 polys, no bands, 8%
+lymphocytes, INR 2.1.  Sodium 139, potassium 3.7, chloride
+112, bicarbonate 17, BUN 12, creatinine 0.7, 137 glucose,
+albumin 2.4, calcium 7.9, phosphorus 2.8, magnesium 2.1, ALT
+48, AST 44, total bilirubin 3.0, alkaline phosphatase 220,
+amylase 61, lipase 110.
+
+Urinalysis:  No nitrates, moderate blood, and no leukocyte
+esterase, [**12-24**] reds, 0-2 whites, few bacteria, and no
+squamous epi's.
+
+Chest x-ray showed retrocardiac density.  Abdominal
+ultrasound showed small ascites.
+
+HOSPITAL COURSE:  A 59-year-old male with end-stage liver
+disease secondary to primary sclerosing cholangitis admitted
+with worsening hepatic encephalopathy and left lower lobe
+pneumonia.
+
+1. Encephalopathy:  The patient was given lactulose [**3-9**] bowel
+movements a day and was started on Flagyl 500 mg po bid for
+decontamination.  He improved on this regimen, and was clear
+in his mental status upon discharge.
+
+2. ID:  The patient did have no fever and a normal white
+blood cell count, but did have some evidence of pneumonia on
+examination and on his chest x-ray with a left lower lobe
+infiltrate.  He was initially given ceftriaxone 1 gram po q
+day and was switched over to po Levaquin to complete a 10 day
+course of antibiotics for his pneumonia.
+
+A diagnostic and mildly therapeutic tap of his ascites was
+done that did not show any evidence of SBP.  One liter was
+removed from his abdomen.
+
+3. End-stage liver disease:  The patient was continued on his
+nadolol, ursodiol.  He initially had his spironolactone held
+for lower blood pressures in the 90s, but this was restarted
+at 100 mg po q day.  He was also continued on his Protonix 40
+mg po q day.
+
+4. Abdominal distention:  Patient had a level of abdominal
+distention that was greater than what would be if he just had
+ascites.  He had a KUB that did show increased intraluminal
+bowel gas that was likely secondary to increased gas
+production from his lactulose.  He was started on Flagyl for
+decontamination to also try to decrease the gas.  One liter
+of ascites was taken off this hospitalization by
+paracentesis.
+
+5. Ulcerative colitis:  The patient had no symptoms referable
+to this, and was continued on Pentasa 1,000 mg tid.
+
+6. Nutrition:  Mr. [**Known patient lastname 11102**] was not taking adequate nutrition
+by a calorie count that estimated him around 400-500 calories
+per day with a goal of 2,000 calories per day in the
+hospital.  He had a post-pyloric tube placed two times during
+this hospitalization, but of which the tube was accidentally
+pulled out by Mr. [**Known patient lastname 11102**].  It was decided that for
+disposition, that he would be followed as an outpatient
+Nutrition, Ms. [**Last Name (Titles) 5703**], and the liver service for calorie
+count while he was on home food that he preferred more.
+He will follow up in the Liver Center for outpatient
+nutrition.
+
+He was continued on his multivitamins and given Boost
+supplementation.
+
+The patient was discharged home after his encephalopathy
+resolved after treatment with lactulose and Flagyl and
+treatment of his pneumonia with ceftriaxone.
+
+He will have VNA services at home.  He will actually stay
+with his sister.
+
+He will follow up with Dr. [**Last Name (STitle) **] within a week.
+
+DISCHARGE MEDICATIONS:
+1. Spironolactone 100 mg po q day.
+2. Flagyl 500 mg po bid.
+3. Nadolol 20 mg po q day.
+4. Ursodiol 900 mg po bid.
+5. Pentasa 1,000 mg tid.
+6. Protonix 40 mg po q day.
+7. Iron sulfate.
+8. Calcium carbonate.
+9. Multivitamin.
+10. Lactulose 15 mL titrated to three bowel movements a day.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 26**], M.D.  [**MD Number 11103**]
+
+Dictated By:[**Last Name (NamePattern1) 2334**]
+
+MEDQUIST36
+
+D:  [**3074-2-16**]  15:40
+T:  [**3074-2-19**]  11:16
+JOB#:  [**Job Number 11104**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**3074-4-16**] 4:31 PM
+(End of Report)
+
+
+",,
+14716,14401,,,3074-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-4**] 7:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11946**]
+     Reason: R/O signs of infedtion                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with ESLD with acute hepatic encephalopathy                     
+     REASON FOR THIS EXAMINATION:
+      R/O signs of infedtion                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage liver disease.
+     
+     PORTABLE CHEST:  Comparison is made to prior study dated [**3074-1-20**].
+     
+     Cardiac and mediastinal contours are stable. The right hemithorax is clear.
+     There is hazy increased density in the left base with silhouetting of the left
+     hemidiaphragm and left lower costophrenic angle, consistent with left pleural
+     effusion, increased from the prior study.  There is also increased density in
+     the left retrocardiac area, which probably reflects associated atelectasis,
+     although the possibility of pneumonia cannot be excluded.
+     
+     IMPRESSION: 1. Worsened aeration left base, consistent with increased left
+     pleural effusion.
+     
+     2. There is likely associated atelectasis; superimposed pneumonia at the left
+     base cannot be excluded.
+     
+     
+     
+
+",,
+14716,14401,,,3074-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-4**] 7:59 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 11947**]
+     Reason: need ultrasound to diagnose need for paracentesis, concerned
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with PSC, cirrhosis presents w/ hepatic encephalopathy.        
+       
+     REASON FOR THIS EXAMINATION:
+      need ultrasound to diagnose need for paracentesis, concerned about SBP          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Primary sclerosing cholangitis and cirrhosis presenting with
+     hepatic encephalopathy.  Please evaluate need for paracentesis, concerned
+     about spontaneous bacterial peritonitis.
+     
+     A limited ultrasound was performed of all four quadrants which demonstrates a
+     small amount of ascites.  The largest area of fluid is in the right upper
+     quadrant above the dome of the liver.  There is a smaller pocket in the right
+     lower quadrant.  After targeted scanning by the radiologist, it was deemed
+     there is no safe spot for a blind paracentesis.
+     
+     IMPRESSION:  Small amount of ascites.
+     
+
+",,
+14716,14401,18288,0,3074-02-04 18:43:00 EST,3074-02-04 18:50:00 EST,-1,"N",54,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+PT ADMITTED FROM [**Doctor Last Name **] COUNTY HOSPITAL VIA AMBULANCE. PT ORIENTED TO PLACE AND PERSON ONLY. MAE AND FOLLOWS COMMANDS. NO C/O PAIN. SKIN WARM AND DRY. VSS. NSR WITH NO ECTOPY NOTED. O2 SATS >95% WITH RA. LUNGS CLEAR. ABD FIRM AND DISTENDED. BS PRESENT. ADMISSION NOTE DONE AND FAMILY AT BEDSIDE.
+",,
+14716,14401,18288,,3074-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-5**] 2:56 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 11948**]
+     Reason: EVAL for bowel distension, fecal impaction.                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with ESLD, hx of ascites but none on [**2-4**] u/s, now with 
+      increasing abdom distension
+     REASON FOR THIS EXAMINATION:
+      EVAL for bowel distension, fecal impaction.                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Evaluate for left-sided retrocardiac density noted on chest AP view [**2-4**].
+     
+     FINDINGS: There is a left-sided pleural density which blunts the lateral sinus
+     and conceals partially the cardiac contour. Significant cardiac enlargement is
+     unlikely. The thoracic aorta is mild widened but otherwise unremarkable. On
+     the right side there exists a mild degree of blunting of the lateral sinus. On
+     the lateral view a density occupying the entire posterior pleural sinus
+     confirms the diagnosis of left-sided pleural effusion. On the AP view we can
+     however identify a concavely delineated density occupying the left-sided
+     aortodiaphragmatic angle indicative of an atelectatic posterior segment of the
+     left lower lobe probably with some parenchymal infiltrate as a spontaneous
+     bronchogram can be identified. There is no evidence of CHF and the right-sided
+     lung is completely free.
+     
+     Comparison is made with the previous portable examination and it confirms the
+     recommended diagnosis of left lower lobe posterior atelectasis plus
+     infiltrate.
+     
+     Observe that this study is registered on an inappropriate clip number. It has
+     been mixed up with the simultaneously obtained plain abdominal examination.
+
+",,
+14716,14401,18288,,3074-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-5**] 2:56 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 11949**]
+     Reason: evaluate left retrocardiac density seen on AP [**2-4**].          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        59 year old man with primary sclerosing cholangitis and delta MS              
+         
+     REASON FOR THIS EXAMINATION:
+      evaluate left retrocardiac density seen on AP [**2-4**].                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient with a history of primary sclerosing cholangitis and
+     change in mental status.
+     
+     ABDOMEN, TWO VIEWS: Findings demonstrate multiple air fluid levels on upright
+     imaging.  Small bowel loops are not dilated.  Air is seen through the colon
+     into the proximal sigmoid colon. No suspicious calcifications are identified.
+     Otherwise visceral contours and outlines are unremarkable.
+     
+     IMPRESSION: Multiple air levels without distention of bowel. The pattern is
+     suggestive of an ileus.
+     
+
+",,
+14716,14401,18288,0,3074-02-05 05:10:00 EST,3074-02-05 05:19:00 EST,-1,"N",54,"Nursing/Other","NPN","
+NPN
+PT A&OX2 (PLACE & PERSON). LETHARGIC BUT EASILY AROUSABLE.  FOLLOWS COMMANDS EASILY. GENERALIZED WEAKNESS NOTED, BUT MAE'S W/OUT DIFFICULTY.  LSCTA. DENIES SOB OR DYSPNES. O2 SATS 97-99% ON RA. RR 12-18.  NSR 80-90'S NO ECTOPY NOTED.  ARTERIAL LINE PLACED IN LEFT RADIAL FOR CLOSER BP MONITORING & FREQ. LAB DRAWS. PT OTHERWISE HAS POOR VENOUS ACCESS.  EKG COMPLETED & REVIEWED BY DR.[**Doctor Last Name 3099**]. K+ 3.0 W/ 8PM LAB DRAWS. REPLETED W/ D5NS 40K X 1L & 40MEQ K+ PO. LABS REDRAWN @0400 RESULTS PND.  HEPATIC/ABD US DONE & REVIEWED BY DR. [**Last Name (STitle) **]. NO INTERVENTION REQUIRED AT THIS TIME.  ABD +ASCITES, FIRM & DISTENDED +FLATUS & LG LIQUID BROWN STOOL OVERNOC.  GUIAC NEG.  FOLEY DRAINING AMBER URINE W/ NS IVF BOLUS GIVEN FOR U/O OF 20/HR X 2HR. THEN IVF MAINT. INC FROM 100CC/HR TO 200CC/HR TO MAKE U/O OF 25CC/HR.  PLAN IS TO MONITOR LABS & REPLETE ELECTROLYTES AS ORDERED. MONITOR FOR PAIN OR DISCOMFORT W/ BREATHING. ADV DIET IN AM AS PT TOL. AS ORDERED BY DR.[**Doctor Last Name 3099**]. X-FER TO FLOOR WHEN BED AVAIL.
+",,
+14716,14401,,,3074-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-6**] 11:07 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 11950**]
+     Reason: ?obstruction. KUB ordered yesterday, only PA/Lat done. thank
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with ESLD, no ascites on [**2-4**] u/s, increasing abdom distention. 
+      thanks, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 11951**] 95645
+     REASON FOR THIS EXAMINATION:
+      ?obstruction. KUB ordered yesterday, only PA/Lat done. thanks.                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Evaluate for obstruction in patient with increasing abdomnal
+     distention.
+     
+     Supine and erect views reveal air throughout the colon which is non-specific
+     finding. No air fluid levels are noted. No free air is identified.
+     
+     IMPRESSION: Air throughout colon with no obvious obstruction noted.
+
+",,
+14716,14401,,,3074-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-9**] 8:21 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 11952**]
+     Reason: evaluate for ascites; if large area, please mark for tap.   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 yo man w/ PSC, cirrhosis, abdominal distention.                             
+                                  
+     REASON FOR THIS EXAMINATION:
+      evaluate for ascites; if large area, please mark for tap.                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Please evaluate for ascites and mark for tap. Patient
+     with cirrhosis and abdominal distention.
+     
+     Survey scans from the upper and lower abdomens, flanks and pelvis demonstrate
+     ascites in all these regions, some of which appears to be loculated. The
+     largest pocket was seen in the left flank/left lower quadrant and a suitable
+     site for paracentesis was marked on the surface of the abdomen with indelible
+     pen.
+     
+     CONCLUSION: Extensive but somewhat loculated ascites.
+
+",,
+14716,14401,,,3074-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-10**] 3:01 PM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 11953**]
+     Reason: placement of postpyloric Dauboff please                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with ESLD with insufficient PO intake                           
+     REASON FOR THIS EXAMINATION:
+      placement of postpyloric Dauboff please                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY: Insufficient PO intake.
+     
+     Using real-time fluoroscopic guidance a 8 French,  120 cm, [**First Name8 (NamePattern2) 1111**] [**Last Name (NamePattern1) 925**]
+     feeding tube was positioned into the distal duodenum. Placement was confirmed
+     using 5 cc of Gastrograffin enteric contrast injected through the tube.
+
+",,
+14716,14401,,,3074-02-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-12**] 10:26 AM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 11954**]
+     Reason: Please re-place Post-pyloric NGT for tube feeds             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with ESLD and decreased PO's                                    
+     REASON FOR THIS EXAMINATION:
+      Please re-place Post-pyloric NGT for tube feeds                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Post pyloric tube ""fell out"".  Patient requires tubes for
+     feedings prior to liver transplant.
+     
+     Under real time fluoroscopy, an 8 French 120 cm [**First Name8 (NamePattern2) 1111**] [**Last Name (NamePattern1) 925**] feeding tube
+     was placed through the left nostril with its tip terminating in the distal
+     duodenum.  1-5 cc of Gastrograffin enteric contrast were used to confirm tube
+     placement.
+
+",,
+14716,,,,3074-02-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-16**] 5:51 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 11955**]
+     Reason: Please eval abdomen with dopplers for evid ascites, HCC, por
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        59 yo man w/ PSC, cirrhosis, abdominal distention, and mental status change.  
+                                                              
+     REASON FOR THIS EXAMINATION:
+      Please eval abdomen with dopplers for evid ascites, HCC, portal or hepatic vein 
+      thrombosis.  Please mark spot for paracentesis or tap (1-2L) if [**Doctor First Name 1041**] feel it 
+      will be difficult on floor.  If tap performed in radiology, we can give albumin 
+      when he arrives back on floor.  Pls page with q's [**Pager number 11956**].                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMINAL ULTRASOUND FROM [**3074-2-16**] AT 18:32.
+     
+     INDICATION:  59 year old man with primary sclerosing cholangitis and cirrhosis
+     with mental status change and abdominal distention.
+     
+     Comparison is made to studies from [**3074-1-20**] and [**3074-2-4**].
+     
+     FINDINGS:  The liver is small with a nodular contour.  The main, left, right
+     anterior, and right posterior portal vein are patent and have appropriate
+     hepatopetal flow.  The middle and right hepatic veins are imaged and have
+     appropriate color flow.  The common duct measures 4-5 mm.  There is no
+     intraheptic ductal dilatation.  The gallbladder was not imaged.  A small
+     amount of ascites is seen around the dome of the liver and also within the
+     right lower quadrant.
+     
+     IMPRESSION:
+     
+     1) Patent portal vein with appropriate flow direction.
+     
+     2) Small amount of ascites.  There is not enough ascites to mark a spot for a
+     blind tap.  If there is continued clinical need for peritoneal fluid analysis,
+     an ultrasound-guided paracentesis can be performed.
+
+",,
+14716,,,,3074-02-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-16**] 5:52 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11957**]
+     Reason: Please eval for infiltrates, effusions, edema, or atelectasi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         59 year old man with primary sclerosing cholangitis and delta MS who also 
+      has decreased bs at left base.                 
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrates, effusions, edema, or atelectasis.                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, 2 VIEWS, AP AND LATERAL:
+     
+     History of sclerosing cholangitis with decreased breath sounds at left lung
+     base.
+     
+     There is a left pleural effusion with associated atelectasis in the left lower
+     lobe as previously demonstrated.  The remainder of the lungs are clear and the
+     heart size is normal.  No evidence for CHF.
+     
+     IMPRESSION:  Persistent left pleural effusion and atelectasis left lower lobe.
+
+",,
+14716,,,,3074-02-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14716,,,,3074-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-18**] 1:42 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11959**]
+     Reason: r/o pneumothorax. Assess pleural effusion                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          59 year old man with primary sclerosing cholangitis and delta MS who s/p 
+      thoracentesis                
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax. Assess pleural effusion                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Primary sclerosing cholangitis and change in mental status.
+     
+     FINDINGS: Two views chest. Comparison with [**3074-2-16**] . There is a feeding tube
+     present with tip likely in the region of ligament of Treitz. There are low
+     lung volumes with a small left pleural effusion, which is slightly decreased
+     in size from the prior study. There is no congestive heart failure. No dense
+     consolidations or pneumothoraces are seen.
+     
+     IMPRESSION:
+     1. Decrease in size of left-sided pleural effusion.
+     2. No evidence of consolidation.
+
+",,
+14716,,,,3074-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-2-18**] 1:02 PM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 11958**]
+     Reason: place tube per Liver Team's request                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 yo M with UC, PSC, and cirrhosis                                             
+     REASON FOR THIS EXAMINATION:
+      place tube per Liver Team's request                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Ulcerative colitis and primary sclerosing cholangitis with
+     cirrhosis post pyloric tube placement for feeding.
+     
+     A nasojejunal feeding tube was placed under fluoroscopy past the pylorus and
+     ligament of Treitz. 5 cc of contrast was injected to confirm tip placement.
+
+",,
+14716,,,,3074-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-4**] 10:22 AM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 11960**]
+     Reason: PT NEEDS POST PYLORIC FEEDING TUBE PALCED FOR NUTIRTIONAL [**Doctor First Name **]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 yo M with UC, PSC, and cirrhosis                                             
+     REASON FOR THIS EXAMINATION:
+      PT NEEDS POST PYLORIC FEEDING TUBE PALCED FOR NUTIRTIONAL SUPPORT 
+      WHILE WAITING FOR LIVER TRANSPLANT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of cirrhosis and UC.
+     
+     G-TUBE PLACEMENT:  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1111**] [**Last Name (NamePattern1) 925**] feeding tube was placed under
+     fluoroscopic guidance. The tip is advanced into the duodenum. 20 cc Conray was
+     injected through the feeding tube and contrast is noted to be within the
+     duodenum. The patient tolerated the procedure without complications.
+     
+     IMPRESSION: Successful post pyloric tube placement.
+
+",,
+14716,,,,3074-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-11**] 5:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11961**]
+     Reason: evaluate NGT placement                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with ESLD with acute hepatic encephalopathy admitted with FTT, 
+      diarrhea.                     
+     REASON FOR THIS EXAMINATION:
+      evaluate NGT placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 59 y/o man with acute hepatic encephalopathy with failure to thrive.
+     Evaluate NG tube placement.
+     
+     COMPARISON: [**3074-2-18**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH: The NG tube is in satisfactory position with its
+     tip in the body of the stomach. Again seen are low lung volumes. Given
+     technique, the heart size is within normal limits and the pulmonary
+     vascularity is within normal limits with no evidence of failure. There is some
+     discoid atelectasis at the left base. Compared to the prior study, there has
+     been interval improvement in the left pleural effusion.
+     
+     IMPRESSION:
+     1) Satisfactory position of the NG tube. 2) Improving left pleural effusion.
+
+",,
+14716,,,,3074-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-12**] 1:22 PM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 11962**]
+     Reason: pt with poor po intake, needs NJ tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 yo M with UC, PSC, and cirrhosis                                            
+     REASON FOR THIS EXAMINATION:
+      pt with poor po intake, needs NJ tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ulcerative colitis, primary sclerosing cholangitis, and
+     cirrhosis. Poor PO intake needs post pyloric feeding tube.
+     
+     Under fluoroscopic guidance, an 8 FR dobbhof feeding tube was advanced into
+     the proximal jejunum. Position was verified following injection of 10 cc of
+     water soluble contrast via the feeding tube.
+     
+     IMPRESSION:  Technically successful placement of a nasal jejunal tube.
+
+",,
+14716,,,,3074-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-17**] 1:51 PM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 11963**]
+     Reason: 59 y.o. M with cirrhosis [**3-8**] PSC, awaiting OLT, needs NJT pl
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 yo M with UC, PSC, and cirrhosis                                            
+     REASON FOR THIS EXAMINATION:
+      59 y.o. M with cirrhosis [**3-8**] PSC, awaiting OLT, needs NJT placed under fluoro
+      for supp feeds.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     FLUOROSCOPICALLY GUIDED NGT PLACEMENT, [**3074-3-17**]:
+     
+     CLINICAL HISTORY:  Cirrhotic patient awaiting liver transplant, needing NG and
+     J tube for supplemental feeds.
+     
+     A nasojejunal tube was passed through the left narre and under fluoroscopic
+     guidance was advanced through the stomach, past the pylorus, and the tip
+     ultimately reached the Ligament of Treitz.  10 cc of Gastrografin was
+     administered via the N-J tube to confirm position.  There were no
+     complications.
+
+",,
+14716,4386,,,3074-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-22**] 6:21 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 11965**]
+     Reason: CIRRHOSIS, ABD DISTENTION, ASSESS FOR ASCITES AND PERFORM PARA IF POSSIBLE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        59 year old man with PSC, cirrhosis presents w/ hematemesis and abdominal 
+      distention  
+     REASON FOR THIS EXAMINATION:
+      please perform diagnostic AND therapeutic thoracentesis and send for cultures, 
+      cell count and diff, chemistries
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:   Primary biliary cirrhosis.  Abdominal distention.  Evaluate for
+     paracentesis.
+     
+     LIMITED ABDOMEN:  Small pockets of ascitic fluid was seen in the left lower
+     quadrant, interspersed among multiple bowel loops.  In addition, there was a
+     small amount of fluid seen around the liver, high up in the right upper
+     quadrant, only seen when scanned intercostally.
+     
+     These findings were discussed with the ICU house staff, and paracentesis was
+     not performed at this time due to the small volume of fluid present.
+     
+
+",,
+14716,4386,,,3074-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-22**] 12:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11964**]
+     Reason: eval infiltrates
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with ESLD with acute hepatic encephalopathy admitted with
+      hematemesis and abdominal distention, bandemia.
+     REASON FOR THIS EXAMINATION:
+      eval infiltrates
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  End-stage liver disease with acute hepatic encephalopathy.
+     Admitted with hematemesis and abdominal distension.  Evaluate for infiltrates.
+     
+     SINGLE VIEW CHEST:  Comparison is made to prior study from [**3073-3-11**].
+     
+     The NG tube has been removed in the interval and a feeding tube has been
+     placed which enters the duodenum and extends off the inferior portion of the
+     film.  There are low lung volumes.  The heart size and mediastinal contours
+     are stable.  There are no focal infiltrates or pleural effusions.  The
+     pulmonary vasculature appears normal.
+     
+     IMPRESSION:  No evidence for pneumonia.
+     
+     
+
+",,
+14716,4386,18289,0,3074-03-22 05:23:00 EST,3074-03-22 05:41:00 EST,-1,"N",69,"Nursing/Other","7p-7a Nursing Note:","
+7p-7a Nursing Note:
+Pt admitted to MICU @ 0200 for upper and lower GI bleed. Endoscopy done upon arrival to unit. Four esophogeal  varicies stenosed. Pt NPO. On IV Octreotide at 50mcg/hr. 
+
+Neuro: Pt A/O x3. MAE. Obeys and follows commands. 
+
+Resp: Pt maintained on 3L NC. LS clear, dim bases. SPO2 98-100%. RR teens-20's. Productive cough, raising yellow secreations.  No resp distress noted. 
+
+CV: Tele: ST-SR. HR 90's. ST during endoscopy. NBP 120-130's/60-70's. Pt hemodynamcially stable. Pt transfused with 2units PRBC's. Serial HH Q6hrs.  PIV x3. 
+
+GI/GU: Pt NPO. Pt asking for OJ and ice chips. Abd-->ascities, BS present. Lg black, soft stool x1. Foley in place, draining orange color urine. 
+
+Plan:
+cont with supportive care
+Monitor am labs
+Serial HH Q6hrs and coags
+Comfort measures
+Monitor for evidence of upper GI bleed.  
+
+
+",,
+14716,4386,18289,0,3074-03-22 14:04:00 EST,3074-03-22 14:23:00 EST,2058,"N",69,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE SEE CAREVIEW FOR DETAILS.
+
+NEURO:AWAKE,ALERT,ORIENTED X3.SPEECH CLEAR AND APPROPRIATE.FOLLOWS COMMANDS AND MOVES ALL EXTREMITES WITH EQUAL STRENGHT.ASKS APPROPRIATE QUESTIONS.
+
+CV:REMAINS IN NSR WITHOUT ECTOPY,BP STABLE.SKIN WARM AND DRY COLOR GOOD.BOTH FEET WARM WITH PALPABLE DP AND PT PULSES PRESENT.VENODYNES ON BIL.HR 90 TO 100,SYSTOLIC BP 110 TO 120.
+
+RESP:RESP RATE 11 TO 15,SP02 99 % TO 100% ON 2LNP.BREATH SOUNDS CLEAR BUT DIMINISHED BIBASILAR.INSTRUCTED IN USE OF INCENTIVE SPIROMETER.HAS DRY COUGH WITHOUT PRODUCTION.
+
+GU:FOLEY TO CD DRAINING GOOD AMOUNTS OF ORANGE URINE WITHOUT SEDIMENT.
+
+GU:REMAINS NPO EXCEPT FOR SMALL AMOUNT OF ICE CHIPS PO.SANDOSTATIN REMAINS AT 50MCG/HR.FAMOTIDINE GTT REMAINS AT 2MG/HR.HAD LACTULOSE ENEMA WITH ABOUT 600CC RESULTS OF OLD DARK LIQUID STOOL WITH SOME MAROON.THE ENTIRE ENEMA OF 1000CC WAS HELD FOR ABOUT 30 MINS.ABD LARGE WITH POSITIVE BOWEL SOUNDS PRESENT.DENIES ANY NAUSEA,NO VOMITING.
+
+SKIN:HAS OLD PINK AREA ON COCCYX WHICH IS HAS OLD ABRASION ,DUODERM WAS PLACED.
+
+ACCESS:HAS 2 PERIPHERALS AND RIGHT NECK EJ IN PLACE.
+
+SOCIAL:SPOKE WITH BROTHER IN LAW,MD ALSO SPOKE WITH HIM.PTS SISTER AND BROTHER IN LAW WILL VISIT TODAY.
+
+PLAN:MONITOR HCT,TO HAVE PARACENTESIS DONE UNDER ULTRASOUND TODAY.
+",,
+14716,4386,18289,0,3074-03-22 16:38:00 EST,3074-03-22 16:40:00 EST,2058,"N",69,"Nursing/Other",,"
+
+update:pt will have 2 units of ffp to be given before usg-guided paracentesis per radiology.pt was visited by family.
+",,
+14716,4386,18289,0,3074-03-23 05:59:00 EST,3074-03-23 06:11:00 EST,-1,"N",69,"Nursing/Other","7p-7a Nursing Note:","
+7p-7a Nursing Note:
+Please see carevue for objective data:
+
+Neuro: Pt A/O x3. MAE. Obeys and follows all commands. Neuro intact.
+
+Resp: Maintained on 2L NC. LS clear, dim bases. SPO2 95-100%. RR teen's. No cough noted. 
+
+CV: Tele: NSR without ectopy. HR 80-90's. NBP 90-110's/40-50's. PIV x2, R EJ- patent for sandostatin 50mcg/hr and famotidine 2mg/hr. NS @ KVO. Pt transfused with 1unit PRBC's for HCT 27.6. Pt typed and crossed for 2more unit of packed cells. Since hosp admission, pt has received total of 4units PRBC's and 4 units FFP. 
+
+GI/GU: Pt NPO. May receive ice chips Q2-3hrs. Pt aware. Abd--> ascities, +BS. Lg liq black BMx1. NO C/O N/V. Foley in place draining orange color urine. Coccyx pink, open to air.
+
+Plan:
+serial HH and coags Q6hrs.
+cont with supportive care...
+",,
+14716,4386,18289,0,3074-03-23 15:47:00 EST,3074-03-23 15:59:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing note for 0700-1600
+
+Neuro: pt awake and a/o x3 pearl 3mm and brisk. MAE. No c/o voiced
+
+CV: hr in the 70's-80's. nsr no ectopy noted. bp in the 80-113. pt was given a bolus 250 ns for a low bp x one and to increase bp for sedation for endoscopy.
+
+Resp: bs are clear and diminished bil. 02 at 2 liters via nc sat at 95%, no sob no resp distress noted.
+
+Gi/gu: had mod bloody bm this shift. remains on famotidine 2 mg/hr and octreotide. foley to cd, orange colored urine. huo 50-100cc per hr. was scoped this am and was banded x3. crits q6hrs. 
+
+ID: on levo prophlaxis afebrile.
+
+Plan: to monitor crits q 6hrs.
+
+
+",,
+14716,4386,18289,,3074-03-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-24**] 10:08 AM
+     PARACENTESIS DIAG. OR THERAPEUTIC; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 11966**]
+     Reason: 59 YEAR OLD MAN WITH PSC/UC/CIRRHOSIS, R/O SBP
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with PSC/UC/cirrhosis                                           
+     REASON FOR THIS EXAMINATION:
+      r/o SBP                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND GUIDANCE FOR PARACENTESIS WHICH IS DIAGNOSTIC AND THERAPEUTIC:
+     
+     INDICATION:  Patient with ulcerative colitis and primary sclerosing
+     cholangitis.
+     
+     FINDINGS:  Stool was noted in the cecum.  There is also an area of
+     reverberation which is located in the wall of either in the tip of the cecum
+     or in the terminal ileum.  This finding is worrisome for air inside the wall
+     of the bowel.
+     
+     A pocket of free fluid was noted near the tip of the liver.
+     
+     Informed consent was obtained from the patient.  The skin was prepped and
+     draped in sterile fashion and it was numbed with 10 cc of 1% Lidocaine.
+     Additional analgesia was given by the radiology nurse.
+     
+     Under the guidance of ultrasound, one pass with a 19 gauge [**Last Name (un) 2233**] catheter was
+     performed and 600 cc of fluid were evacuated.  Fluid was sent to bacteriology,
+     for culture and gram stain, chemistry and cell count.
+     
+     No immediate complications were observed.  Dr. [**First Name (STitle) 2742**], the attending, was
+     present in the room for the entire procedure.
+     
+     IMPRESSION:
+     1)  Successful tapping and evacuation of ascites.  Fluid was sent to
+     bacteriology for culture, chemistry and cell count.
+     2)  A zone which is worrisome for air in the wall of the cecum or the terminal
+     ileum.  Those findings were discussed in detail with the patient's doctor.
+     
+     
+
+",,
+14716,4386,18289,,3074-03-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-24**] 10:08 AM
+     PARACENTESIS DIAG. OR THERAPEUTIC; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 11966**]
+     Reason: 59 YEAR OLD MAN WITH PSC/UC/CIRRHOSIS, R/O SBP
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with PSC/UC/cirrhosis                                           
+     REASON FOR THIS EXAMINATION:
+      r/o SBP                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND GUIDANCE FOR PARACENTESIS WHICH IS DIAGNOSTIC AND THERAPEUTIC:
+     
+     INDICATION:  Patient with ulcerative colitis and primary sclerosing
+     cholangitis.
+     
+     FINDINGS:  Stool was noted in the cecum.  There is also an area of
+     reverberation which is located in the wall of either in the tip of the cecum
+     or in the terminal ileum.  This finding is worrisome for air inside the wall
+     of the bowel.
+     
+     A pocket of free fluid was noted near the tip of the liver.
+     
+     Informed consent was obtained from the patient.  The skin was prepped and
+     draped in sterile fashion and it was numbed with 10 cc of 1% Lidocaine.
+     Additional analgesia was given by the radiology nurse.
+     
+     Under the guidance of ultrasound, one pass with a 19 gauge [**Last Name (un) 2233**] catheter was
+     performed and 600 cc of fluid were evacuated.  Fluid was sent to bacteriology,
+     for culture and gram stain, chemistry and cell count.
+     
+     No immediate complications were observed.  Dr. [**First Name (STitle) 2742**], the attending, was
+     present in the room for the entire procedure.
+     
+     IMPRESSION:
+     1)  Successful tapping and evacuation of ascites.  Fluid was sent to
+     bacteriology for culture, chemistry and cell count.
+     2)  A zone which is worrisome for air in the wall of the cecum or the terminal
+     ileum.  Those findings were discussed in detail with the patient's doctor.
+     
+     
+
+",,
+14716,4386,18289,0,3074-03-24 04:45:00 EST,3074-03-24 04:54:00 EST,-1,"N",69,"Nursing/Other",,"
+
+3p to 7a Micu Progress Note
+
+Neuro - pt remains alert and oriented x 3. MAE. Easily arousable. Follows commands.
+
+Resp - LS clear, diminished at bases. RR 11-16. 02 sats > 94% on 2lnc. 
+
+C-V - HR 73-85 SR, no ectopy noted. BP 90-106/49-56. + palp peripheral pulses.
+
+GI - Abd + ascites. Hyperactive BS. Passed 50 ccs [**Last Name (un) 1097**] ob+ liquid stool. Total of 3 stools yest. NPO except for ice chips. Sandostain inufusing at 50mcgs/hr and famotidine at 2mg/hr. Hct checked q 6 hrs. Hct this am 26.6. PT 14.7 PTT 34.2. INR 1.4.
+
+GU - Voiding approx 30ccs/hr of clear orange urine via foley cath. BUN 20 Cr .6. K 4.0.
+
+ID - Afeb. WBC 5.4. Receiving levoflox iv q 24hrs for SBP prophylaxis. 
+
+A+P - Continue to monitor for GIB. Check hcts q 6hrs. ? call-out to floor. Nsg transfer note initiated.
+
+
+",,
+14716,4386,18289,0,3074-03-24 15:09:00 EST,3074-03-24 15:16:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN 7am-3pm
+
+PT called out to [**Hospital Ward Name **] 6.  Awaiting transfer.
+
+Pt underwent ultrasound guided paracentesis today.  They were able to drain ~600cc of fluid from abdomen.  Cultures sent. 
+
+Neuro:  AA&Ox3.  Pleasant and cooperative.
+  
+Resp:  o2 sats 94-97% on RA
+
+CV:  Hemodynamically stable.  BP 95-122/46-61.  NSR 72-86.  no ectopy noted.
+
+GI:  Diet advanced to clear liquids.  Pt tolerating well.  Pt continues to have liquid maroon stool x3 this shift.  Can start on po lactulose if needed per Dr. [**First Name (STitle) 408**]. 
+
+GU:  Foley in draining 20-40cc/hr orange urine.  Pt requesting foley to be d/ced.
+
+ID:  Afebrile.  Remains on levofloxacin prophalaxis.
+
+DISPO:  Called out to [**Hospital Ward Name **] 6.  Full Code 
+",,
+14716,4386,,,3074-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-3-30**] 9:46 AM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 11967**]
+     Reason: NJT placement under fluoroscopy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with HCV, cirrhosis, ascites, grade 3 esoph varices with UGIB 
+      [**3-21**] s/p banding [**3-23**], needs NGT for nutrition prior to transplant. 
+     REASON FOR THIS EXAMINATION:
+      NJT placement under fluoroscopy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hepatitis C, cirrhosis, ascites, esophageal varices with upper GI
+     bleed on [**3074-3-21**].  Needs NG tube for nutrition prior to transplant.
+     
+     Under direct fluoroscopic guidance an NG tube was placed with tip overlying
+     the region of the ligament of Treitz.  Approximately 10 cc of Conray was
+     administered to confirm placement.
+     
+     
+
+",,
+14716,,,,3074-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-4-27**] 4:34 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 11969**]
+     Reason: END STAGE LIVER DISEASE, PORTAL HYPERTENSION, ASCITES, PRESENTS WITH MS CHANGES. NEED DIAGNOSTIC PARACENTESIS UNDER U/S GUIDANCE PER ATTG REQUEST FOR CELL COUNT, CULTURE, ALBUMIN, LDH.  WILL ENCLOSE SLIPS.  R/O SBP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: End stage liver disease, portal hypertension, query ascites.
+     
+     DIAGNOSTIC & THERAPEUTIC PARACENTESIS: Evaluation of the abdomen demonstrated
+     no significant ascitic fluid. Diagnostic or therapeutic paracentesis was not
+     attempted.
+
+",,
+14716,,,,3074-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-4-27**] 12:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11968**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with ESLD, ascites, p/w confusion
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ascites and confusion.  Evaluate for infiltrate.
+     
+     Comparison is made to the chest radiographs from [**3074-3-22**].
+     
+     AP CHEST RADIOGRAPH:  The feeding tube has been removed.  The heart size,
+     mediastinal contours and pulmonary vasculature are unchanged in appearance.
+     The lung volumes are slightly small, but stable in appearance.  There is a
+     patchy area of opacity at the left lung base which likely represents
+     atelectasis.  No pleural effusions are present.  No pneumonic consolidations
+     are seen.  The osseous structures are unchanged.
+     
+     IMPRESSION:  No radiographic evidence of pneumonia.
+
+",,
+14716,,,,3074-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-5-6**] 3:31 PM
+     US ABD LIMIT, SINGLE ORGAN; DUPLEX DOPP ABD/PEL                 Clip # [**Clip Number (Radiology) 11970**]
+     Reason: assess for ascites;if significant amount present, please mar
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with end stage liver disease, primary sclerosing cholangitis, 
+      hepatitis C presents with ms changes.  Assess for presence of ascites, and if a 
+      significant amount is present, please mark spot for diagnostic paracentesis. 
+     REASON FOR THIS EXAMINATION:
+      assess for ascites;if significant amount present, please mark spot for 
+      diagnostic paracentesis. Also assess hepatic artery and venous flows.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Evaluation for ascites in a patient with end-stage liver disease.
+     
+     Abdominal ultrasound was performed. There is no evidence of ascites around the
+     liver or in the pelvis. The liver does not show intra- or extrahepatic bile
+     duct dilatation. There is no evidence of liver masses. The main hepatic artery
+     and portal vein are patent. The flow within the portal vein is hepatopetal.
+     
+     IMPRESSION: No evidence of ascites.
+
+",,
+14716,,,,3074-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-5-6**] 3:31 PM
+     US ABD LIMIT, SINGLE ORGAN; DUPLEX DOPP ABD/PEL                 Clip # [**Clip Number (Radiology) 11970**]
+     Reason: assess for ascites;if significant amount present, please mar
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with end stage liver disease, primary sclerosing cholangitis, 
+      hepatitis C presents with ms changes.  Assess for presence of ascites, and if a 
+      significant amount is present, please mark spot for diagnostic paracentesis. 
+     REASON FOR THIS EXAMINATION:
+      assess for ascites;if significant amount present, please mark spot for 
+      diagnostic paracentesis. Also assess hepatic artery and venous flows.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Evaluation for ascites in a patient with end-stage liver disease.
+     
+     Abdominal ultrasound was performed. There is no evidence of ascites around the
+     liver or in the pelvis. The liver does not show intra- or extrahepatic bile
+     duct dilatation. There is no evidence of liver masses. The main hepatic artery
+     and portal vein are patent. The flow within the portal vein is hepatopetal.
+     
+     IMPRESSION: No evidence of ascites.
+
+",,
+14716,,,,3074-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-5-6**] 5:54 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11971**]
+     Reason: CHANGE IN MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with end stage liver disease s/p fall now with mental status 
+      changes
+     REASON FOR THIS EXAMINATION:
+      assess for subdural hemorrhage/intracranial bleed                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT of the head without contrast.
+     
+     INDICATION:  End-stage liver disease status post fall, now with mental status
+     change.  Rule out bleed.
+     
+     There is no prior for comparison.
+     
+     TECHNIQUE:  Non-contrast images of the head were obtained.
+     
+     FINDINGS:  There is no intra- or extraaxial hemorrhage.  No mass effect or
+     shift of the normally midline structures.  [**Doctor Last Name **] and white matter
+     differentiation is preserved.  The ventricles and sulci are normal in size and
+     appearance, and are symmetrical.  No minor or major vascular territorial
+     infarctions.
+     
+     Bone windows demonstrate no osseous abnormalities.  There is near-total
+     opacification with probable fluid level in the larger left-sided sphenoid air
+     cell.  The rest of the imaged paranasal sinuses is clear.  The mastoids are
+     well aerated.
+     
+     IMPRESSION:  No intracranial hemorrhage or mass effect.
+     
+     Shpenoid sinusitis.
+
+",,
+14716,,,,3074-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-5-8**] 8:36 AM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 11972**]
+     Reason: Please place post pyloric tube.  Patient has mult occurrence
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with HCV, cirrhosis, ascites, grade 3 esoph varices with UGIB  
+      [**3-21**] s/p banding [**3-23**], needs NGT for nutrition prior to transplant. 
+     REASON FOR THIS EXAMINATION:
+      Please place post pyloric tube.  Patient has mult occurrence of tubes ""falling 
+      out"" in past, please secure tube very well.  Thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hepatitis, esophageal varices, post-pyloric tube for nutrition
+     prior to transplant.
+     
+     Under fluoroscopic guidance, an 8-French [**Location (un) 1111**]-[**Doctor First Name 925**] feeding tube was
+     advanced through the stomach, terminating at the third portion of the
+     duodenum.  Injection of 10 cc of Conray confirms this positioning.
+     
+     IMPRESSION:  Successful positioning of post-pyloric tube.
+
+",,
+14716,,,,3074-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-6-1**] 12:45 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11973**]
+     Reason: 59 yr old presents to ER after fall this AM, now with confus
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with end stage liver disease s/p fall now with mental status 
+      changes
+     REASON FOR THIS EXAMINATION:
+      59 yr old presents to ER after fall this AM, now with confusion.  Abrasion
+      noted over RT temple.  Pt Hep C + and on liver transplant list.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     NONCONTRAST HEAD CT SCAN:
+     
+     HISTORY:  End stage liver disease, s/p fall, assess for intracranial
+     hemorrhage.
+     
+     TECHNIQUE:  Noncontrast head CT scan.
+     
+     FINDINGS:  There is no definite interval change compared to the previous
+     study, performed for the same reasons, on [**3074-5-6**].  No new area of
+     intracranial hemorrhage or mass effect is appreciated.  Once again, there is
+     moderate peripheral cerebral atrophy, likely related to the patient's systemic
+     disease.
+     
+     The surrounding osseous and soft tissue structures show no interval changes
+     aside from better demonstration of what is likely a left maxillary antral
+     mucous retention cyst, partially seen at this time, as well as redemonstration
+     of extensive fluid, possibly with associated mucosal thickening nearly
+     completely opacifying the dominant left sphenoid air cell.  This latter
+     abnormality could represent an allergic or some other type of inflammatory
+     process.
+     
+     CONCLUSION:  No intracranial hemorrhage; sinus abnormalities as noted above.
+     
+     
+     
+     
+
+",,
+14716,,,,3074-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-7-21**] 1:49 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 11974**]
+     Reason: DISTENDED ABDOMEN ,EVAL FOR ASCITES  AND TAP  VIA US GUIDANCE
+     Admitting Diagnosis: ENCEPHALOPATHY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with hepatic encepalopathy and ESLD.  Please do diagnostic tap  
+     REASON FOR THIS EXAMINATION:
+      please tap via u/s guidance                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hepatic encephalopathy and end-stage liver disease.  Evaluate for
+     ascites.
+     
+     LIMITED ABDOMINAL ULTRASOUND:  A very small amount of fluid is seen in the
+     right lower quadrant.  The quantity of fluid is not sufficient to safely tap.
+     
+     IMPRESSION:  Trace amount of ascites.
+
+",,
+14716,,,,3074-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-11-25**] 11:38 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 11975**]
+     Reason: HX OF CIRRHOSIS, ASSESS PORTAL VEIN PATENCY AND ASSESS FOR ANY LIVER LESIONS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with ESLD from cholangitis-active on liver tx list
+     REASON FOR THIS EXAMINATION:
+      Asess portal vein patency and assess for any liver lesions
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage liver disease.
+     
+     FINDINGS:  Prior studies are unavailable for comparison, only prior reports
+     are available.  Currently the liver is markedly heterogeneous in echotexture,
+     however, there are no focal mass lesions or dilated intrahepatic biliary
+     radicles.  The portal vein is patent and demonstrates normal hepatopetal flow.
+     No definite periportal adenopathy is seen.  The patient is status post
+     cholecystectomy.  There is no ascites.  The spleen shows focal calcifications
+     indicative of prior granulomatous disease and shows enlargement, measuring an
+     maximum of 16 cm in the craniocaudal dimension.
+     
+     IMPRESSION:  Markedly heterogeneous liver in this patient with end-stage liver
+     disease.  No focal masses, hepatopetal portal venous flow, splenomegaly, no
+     ascites.
+
+",,
+14716,28969,18290,0,3077-02-20 16:40:00 EST,3077-02-20 17:05:00 EST,3913,"N",54,"Nursing/Other",,"
+
+Nursing Note (0930-1900)
+
+Pt is a 62yr old male originally adm [**2-14**] from a MD appt at the clinic for a checkup; MD found pt to be FTT/?PNA and to have ascites. Adm for workup.  Pt found to have a large left pleural effusion and moderate to opacity to right lung; started on flagyl and ceftriaxone for prob PNA. Paracentesis for ascites x2 [**Date range (1) 6426**]; pleural effusion tapped [**2-16**]. NGT placed [**2-19**] in the evening and placement confirmed; TF begun.  Shortly after, pt found to be having resp distress/desaturating; fairly responsive to nebs/deep suctioning/oxygen initially with ABG 7.46/46/115.  Pt continued to desat/decompensate, repeat ABG with NRB 7.39/53/59.  Decision made to transfer pt to MICU for closer observation/pulm toilet. Did receive 40mg lasix IVP with Vit K pta to micu; responded with 300cc urine over next two hours.
+
+PMhx: UC, E.Coli-sepsis, duodenal ulcers, variceal [**Location (un) 6427**], thrombocytopenia, PNA, cirrhosis d/t sclerosing cholangitis, asthma, hepatic encephalopathy, ESLD, Hepatitis C, anemia, cholecysetomy, hyponatremia. 
+
+Allergies: +HIT, heparin antigen-----PICC to be flushed with NS only.
+
+Events: Received pt from F10 about 930am via bed with NRB, 02 sat 100%. Lethargic alternating with agitation/restlessness at times. Freq position changes/suctioning/weaning of oxygen thru course of day. Lasix/lactulose; triple antibx. DNR.DNI
+
+Review of systems:
+Neuro: Waxes/wanes; A&OX3 however becomes agitated with reminders of NPO status and aspiration risk. Follows commands well; moves with difficulty in bed prob d/t ascites and deconditioned. To continue receiving lactulose; rifaximin d/c'd --unable to crush.
+
+CV: Tachy to 120-130s initially; decreased to 110's by afternoon. BP stable, sl hypertensive to 140's at times. Hct stable, 33.2; Received 2 units FFP. K 3.3--will f/u. Sm wound to mid back, covered with duoderm. Skin dry, receiving cholestyramine powder po. Perineum/coccyx with several sm skin tears; barrier cream applied. Patent sutured COOK picc to right antecub, sl. Fingertips cool, sl discolored. Pboots/teds.
+
+Resp: LS severly diminished to right side; left upper course. Weaned to 70% FM, humidified; o2 sats 98%. Suctioned x2 nasotrach for sm-mod amt thick yellow sputum; deep yankeur suctioning as well for thick clear spputum. Vanco, ceftriaxone, flagyl. Pleural effusion tapping  did not improve resp status in past.
+
+Gi/GU; Hold all meds except lactulose for tonight d/t high asp risk despite sitting upright with  NGT. U/O decreasing, repeat lasix at 1600 hrs--see carevue. Abd with ascites, hold on tap. Urine amber. small stool today. C-diff neg [**2-17**]
+
+ID: Aebrile; triple antibx. WBC climbing.
+Social: Brother [**Name (NI) 49**] called x2; updated on status.
+
+Plan: Cont with pulm toileting. IV antibx. Labs am. F/U with lasix/K+; NPo except lactulose overnoc. Wean o2 prn. DNR/DNI
+",,
+14716,28969,18290,0,3077-02-21 03:17:00 EST,3077-02-21 03:43:00 EST,5919,"N",54,"Nursing/Other","npn 7p-7a","
+npn 7p-7a
+**DNR/DNI**
+**Heparin allergy- HIT + 
+Please see carevue and FHP for additional details.
+
+Neuro: Thus far Pt is AOx3. follows commands, no c/o pain. However, appears uncomfortable at times, thus prn Morphine order obtained.  Continually requesting gingerale despite NPO explainations. Restraint order obtained [**3-8**] intermittently pulling off O2. 
+Resp: Episode of desaturation this shift(down to 84%), relieved with NTS and oral sxning, as well as increase O2. Received on cool neb 15L, 70%, placed on HI flow O2 15L 95%. Sats 84-97%. RR 26-32. Strong cough, however, swallows most of secretions, frank blood. NTS sxned Q3--4/hrs for small amounts of bloody secretions. abg last night indicative of metabolic alkalosis, thought to be [**3-8**] dehydration as per Dr. [**Last Name (STitle) 3933**]. 
+CV: ST 115-121, no ectopy noted. sbp 132-147. Received 2 FFP for increased INR and bleeding from nose. Received 250cc NS bolus in attempt to resolve tachycardia, no significant effect noted. Prior to receiving NS bolus received 40 mg iv Lasix, with good effect. +pp. AM lab pending. 
+GI/GU: NGT clamped, NPO [**3-8**] aspiration. Lactulose enema ordered, spoke with team will readdress in morning enema vs. PO Lactulose as ??ability to lay down and tolerate enema. (MS okay at this time.) One small liquid stool. abd firm, distended, hypoactive BS.  Foley patent draining adequate to marginal amounts of amber urine. 
+Skin: Douderm intact to mid back. 
+ID: low grade temp. On Ceftriax. Flagyl, and Vanco. 
+No contact from family overnight. 
+A/P: Tenous resp status, cont. with pul. toilet. NPO [**3-8**] aspiration even w/ NGT. f/u with am labs. ?? more fluid vs. diuresis. F/U with Lactulose PO vs. PR. cont to monitor neuro status. cont. providing supportive care. 
+",,
+14716,28969,18290,0,3077-02-21 17:51:00 EST,3077-02-21 18:12:00 EST,6497,"N",54,"Nursing/Other","MiCU West Nursing 0700-1900","
+MiCU West Nursing 0700-1900
+Neuro: Pt. a+0x3; following commands; MAEs with equal strength; OOB to chair, tolerated it well; PEERL; + gag; cough impaired; pt. denies pain; pt. requesting a beverage throughout shift; NPO d/t risk of aspiration.
+
+Cardio: ST 120s-130s; no ectopy noted; NIBP 140s-160 systolic; HCT stable.
+
+Resp: pt. remains on HI flow 15L; sats >95% but pt. desats to the 80s when he pulls mask off; pt. unable to manage secretions; nasotracheal and oral sxn for mod/large amts. of thick tan/ blood tinged secretions;Lung sounds coarse/crackles throughout. RR labored 20s-30.
+
+GI/GU: abd. soft distended; hypoactive bowel sounds;ogt d/cd; pt. wriiten for Lactulose but is NPO;no bm this shift; Foley cath in place draining 20-30cc/hr of amber urine.
+
+ID: Tmax 98.9; pt. cont. on IVAB.
+
+Access: L PICC wnl
+
+Social: brother in law in today and was updated by house staff.
+
+Plan: ?TPN; ?double lumen PICC insertion; continue aggressive pulm. toileting; monitor resp.status.
+",,
+14716,28969,18290,0,3077-02-22 04:49:00 EST,3077-02-22 05:25:00 EST,5919,"N",54,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+**DNR**
+Please see Carevue and FHP for additional data**
+**Allergy to Heparin-HIT + **
+
+>>Probable IR trip for PICC placement, will need designated port for TPN.
+Neuro:> PT intermittently restless over coarse of shift, responded well to 2mg iv Morphine prn. Continues to request water, however, easily redirected. follows commands. mae. Restrained [**3-8**] to oxygen interference, and trying to get oob, bed alarm also on. Able to turn in bed on own. 
+Resp:> Remains on Hi flow O2 at 15L and 85%. Sats 93-98%. LS crackles to coarse.  NTS Sxned for moderate amounts of tan, thick secretions, also noted to have a moderate amount of oral secretions. 
+CV:>  ST 108-114. no ectopy noted. sbp 103-150's. +pp. HCT stable(28-30). Lytes wnl this am. INR 2.9- on daily vita K, May consider implementing FFP immediately prior to line placement in IR. IVF: D5 1/2 NS at 100cc/hr for hydration, for 1500cc
+GI/GU:> NPO [**3-8**] aspiration. After long discussion with Pt and hcp plan is to maintain NPO status and implement TPN in attempt to give PT adequate chance to recover from PNA and then reeval. swallow study. abd soft, distended, +BS. Small, dark brown stool, guiac (-). Foley patent small amounts of amber, cloudy, urine draining. 
+Skin: Small 2/2cm abrasion noted to middle of back, cleansed with soap and water, douderm applied. Left knee with small abrasion, 3/3cm, pink, cleansed with soap and water, dsd applied. Perineum excoriated, cleansed with soap and water, aloe vesta applied. 
+ID: afeb. wbc slightly decreased today. On Flagyl and Ceftriax. for pna.      
+A/P: Cont with PRN Morphine for comfort. Plan for PICC in IR- May consider implementing FFP immediately prior to PICC placement for increased INR. OF note current line is Midline- NOT PICC. Cont. with sxning prn, and close monitoring of resp status. May consider family meeting in near future to discuss goals of care. cont. providing supportive care. 
+
+",,
+14716,28969,18290,0,3077-02-22 17:28:00 EST,3077-02-22 17:53:00 EST,6497,"N",54,"Nursing/Other","MICU West Nursing 0700-1900","
+MICU West Nursing 0700-1900
+Pt. went to IR, midline was exchanged for a PICC for TPN use; Just prior to going to IR pt. became hypertensive 180s systolic; pt. received 1mg morphine and 5mg Lopressor with desired effect; line was placed without incident.
+
+Neuro: Pt. noted to be more lethargic than previous day; dozing most of the day;not wanting to cooperate with PT; ? worsening encephalopathy vs. morphine administered on nights for discomfort/pain; opens eyes to verbal stimuli; able to follow commands; turns in bed on own; uneffective cough, +gag.
+
+Resp: Lung sounds crackles to coarse throughout; pt. remains on hi flow 15L 80%; O2sat >95%; RR labored; less secretions than previous day noted.
+
+Cardio: HR 96-111, ST no ectopy noted; NIBP 119-151/47-72; +pp bilaterally; INR 2.9, daily VitK sc.
+
+GI/GU: abd. soft distended; +bs; no bm this shift; pt. NPO [**3-8**] high risk of aspiration r/t to inability to manage secretions; pt. is to start TPN; foley patent with scant amts. of amber urine.
+
+ID: afebrile; on flagyl, vanco and ceftriaxone
+
+Social: brother and sister were in today.
+
+Plan: ?c/o; start TPN, close monitoring of respiratory status;
+pt. is DNR/DNI
+
+
+",,
+14716,28969,18290,0,3077-02-23 04:57:00 EST,3077-02-23 05:25:00 EST,4306,"N",54,"Nursing/Other","Nursing Note: 1900-0700","
+Nursing Note: 1900-0700
+Events: NS 500cc bolus for increased HR and decreased U/O.
+
+NEURO: Alert/oriented X 3. Denies pain. MAE. Bilat, soft wrist restraints to prevent removal of O2 mask. 
+
+RESP: Continues on HiFlow O2 15L/80% maintaining sats mid 90s. LS coarse throughout. NTS frequently for mod amt thick, yellow sputum. 
+Ineffective cough. RR teens - 20s.
+
+C/V: HR gradually increasing throughout shift: 90s-110s, ST, no ectopy. NBP 130s-140s/50s-60s. Received 500cc NS bolus with minimal effect. Hct unchanged @ 27.7. INR 3.2. 
+
+ID: Afebrile. Receiving Flagyl, Ceftriaxone, Vanco.
+
+GI/GU: All PO meds held secondary to high aspiration risk. Awaiting Speech/Swallow eval. Receiving TPN. Abdomen soft, distended, hypoactive sounds. No BM this shift. Foley patent for icteric urine - output largely unaffected by fluid bolus 10-35cc/hr. 
+
+DISPO: DNR; micu orange; called out to floor when bed available.
+",,

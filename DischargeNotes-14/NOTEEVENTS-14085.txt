@@ -1,0 +1,2026 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14085,,,,2661-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-9-20**] 12:36 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 6188**]
+     Reason: compare for interval change                                 
+     Field of view: 32 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with mediastinal tumor, likely thymic carcinoma vs. NSCLC, 
+      s/p 2 cycles chemo
+     REASON FOR THIS EXAMINATION:
+      compare for interval change                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mediastinal tumor, thymic carcinoma versus non-squamous cell lung
+     cancer.  Status post two cycles of chemoradiation.
+     
+     COMPARISONS:  FDG PET/CT [**2661-7-29**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained through the lungs after the
+     administration of 100 cc of non-ionic Optiray contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  The anterior mediastinal mass measures
+     approximately 3.7 x 5.7 cm and does not appear significantly changed in size
+     when compared to the previous PET/CT; however, the technique used between the
+     two studies (PET/CT is a non-contrast non-breathhold study) is slightly
+     different, which makes exact comparison difficult.  The mass partially
+     surrounds the aorta and main pulmonary artery.  There are enlarged adjacent
+     left-sided hilar and prevascular nodes.  There is an 8-mm right-sided upper
+     paratracheal node and smaller lower right-sided paratracheal nodes.  No
+     extension into the chest wall is identified.  There is a moderate- to large-
+     sized pericardial effusion, which appears increased in size. There are no
+     pleural effusions bilaterally. Note is made of a prominent arterial collateral
+     arising from the celiac axis, likely the inferior phrenic artery, which
+     extends up the anterior left chest wall to supply the region of the tumor. The
+     pulmonary artery appears partially compressed by the tumor but widely patent
+     without evidence of pulmonary emboli. There are tiny, noncalcified nodules
+     within the right lower lobe (series 3, image 22) and the left lower lobe
+     (series 3, image 27). There is atelectasis within the right middle lobe and
+     lingula. Limited views of the upper abdomen are unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1.  Anterior mediastinal mass which partially surrounding the aorta and
+     pulmonary artery with enlarged left hilar lymph nodes appears stable.  No
+     chest wall invasion is identified.
+     2.  Moderate- to large-sized pericardial effusion, which has increased in size
+     when compared to the previous exam.
+
+",,
+14085,,,,2661-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-9-20**] 12:36 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 6188**]
+     Reason: compare for interval change                                 
+     Field of view: 32 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with mediastinal tumor, likely thymic carcinoma vs. NSCLC, 
+      s/p 2 cycles chemo
+     REASON FOR THIS EXAMINATION:
+      compare for interval change                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mediastinal tumor, thymic carcinoma versus non-squamous cell lung
+     cancer.  Status post two cycles of chemoradiation.
+     
+     COMPARISONS:  FDG PET/CT [**2661-7-29**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained through the lungs after the
+     administration of 100 cc of non-ionic Optiray contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  The anterior mediastinal mass measures
+     approximately 3.7 x 5.7 cm and does not appear significantly changed in size
+     when compared to the previous PET/CT; however, the technique used between the
+     two studies (PET/CT is a non-contrast non-breathhold study) is slightly
+     different, which makes exact comparison difficult.  The mass partially
+     surrounds the aorta and main pulmonary artery.  There are enlarged adjacent
+     left-sided hilar and prevascular nodes.  There is an 8-mm right-sided upper
+     paratracheal node and smaller lower right-sided paratracheal nodes.  No
+     extension into the chest wall is identified.  There is a moderate- to large-
+     sized pericardial effusion, which appears increased in size. There are no
+     pleural effusions bilaterally. Note is made of a prominent arterial collateral
+     arising from the celiac axis, likely the inferior phrenic artery, which
+     extends up the anterior left chest wall to supply the region of the tumor. The
+     pulmonary artery appears partially compressed by the tumor but widely patent
+     without evidence of pulmonary emboli. There are tiny, noncalcified nodules
+     within the right lower lobe (series 3, image 22) and the left lower lobe
+     (series 3, image 27). There is atelectasis within the right middle lobe and
+     lingula. Limited views of the upper abdomen are unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1.  Anterior mediastinal mass which partially surrounding the aorta and
+     pulmonary artery with enlarged left hilar lymph nodes appears stable.  No
+     chest wall invasion is identified.
+     2.  Moderate- to large-sized pericardial effusion, which has increased in size
+     when compared to the previous exam.
+
+",,
+14085,20667,,,2661-09-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2661-9-25**]              Discharge Date:   [**2661-9-27**]
+ 
+Date of Birth:  [**2592-7-23**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine / Morphine
+ 
+Attending:[**First Name3 (LF) 9269**] 
+Chief Complaint:
+admission after pericardial centesis.
+ 
+Major Surgical or Invasive Procedure:
+pericardiocentesis and drain placement.
+ 
+History of Present Illness:
+Pt is a 69 yof with PMH of locally advanced mediastinal 
+carcinoma (?thymic CA vs NSCLCA) on treatment with 
+Cisplatin/etopside, and XRT.  Pt udernwent CT for evaluation of 
+mass recently which demonstrated mod-large pericardial effusion 
+ant. mediastinal mass surrounding aorta, pulm artery and hilar 
+LAD.
+Echo confirmed presence of pericardial effusion, ?RV 
+deformation.  Admitted for pericardiocentisis.
+.
+Pericardiocentesis - 400cc cerosanguinous drainage from 
+pericardial sac uncomplicated procedure. now transferred to CCU 
+for further care.
+.
+On admission to CCU pt only complained of mild chest discomfort 
+surrounding the procedure site.  Denied any chest pain or 
+difficulty breathing.
+
+ 
+Past Medical History:
+h/o Mediastinal mass
+ 
+Social History:
+40 pack year history.
+ 
+Family History:
+NC
+ 
+Physical Exam:
+Vitals 98.9, 111/58, 113, 23, 95%RA
+.
+Gen:  Elderly female lying in bed in no apparent distress
+HEENT:  MMM. PERRL, JVP not assessed as pt s/p cath and lying 
+flat
+Chest:  CTAB anteriorly and laterally.  Pericardial drain in 
+place wound site without drainage.
+CVR:  RRR, nl s1, s2.  No r/m/g
+Abdomen:  Soft, NT, non distended.
+Groin:  R groin site inspected.  No hematoma or gross oozing 
+appreciated.  2+ distal pulses.
+Neuro:  CNII-XII grossly intact.
+ 
+Pertinent Results:
+[**2661-9-25**] 02:15PM OTHER BODY FLUID  TOT PROT-4.8 GLUCOSE-104 
+LD(LDH)-711 AMYLASE-31 ALBUMIN-2.9
+[**2661-9-25**] 02:15PM OTHER BODY FLUID  WBC-367* RBC-174500* POLYS-8* 
+BANDS-2* LYMPHS-35* MONOS-0 METAS-1* MACROPHAG-54*
+[**2661-9-25**] 12:31PM   K+-4.3
+[**2661-9-25**] 12:30PM   INR(PT)-0.9
+[**2661-9-24**] 01:04PM   UREA N-26* CREAT-0.7
+.
+
+CT [**2661-9-20**]. IMPRESSION: 
+1.  Anterior mediastinal mass which partially surrounding the 
+aorta and pulmonary artery with enlarged left hilar lymph[**MD Number 285**] 
+appears stable.  No 
+chest wall invasion is identified. 
+2.  Moderate- to large-sized pericardial effusion, which has 
+increased in size when compared to the previous exam. 
+.
+--------Pre proc----post intevention
+Pa sat ----52--------62
+CO---------3.2-------4.3
+CI---------2.1-------2.8
+
+PCW mean 13 A wave 16 V wave 13
+RA mean  8  A wave 9  V wave 11
+PA 24/16(18)
+RV 31/4(11)
+
+Echo [**9-24**]
+Conclusions:  
+1. Left ventricular wall thickness, cavity size, and systolic 
+function are normal (LVEF>55%). Regional left ventricular wall 
+motion is normal.  
+2. There is a large, circumferential pericardial effusion with 
+fibrin deposits  on the surface of the heart. There is sustained 
+right and left atrial invagination, consistent with low filling 
+pressures or early tamponade. There is significant, accentuated 
+respiratory variation in mitral valve inflow, consistent with 
+impaired ventricular filling.  
+3. Compared with the findings of the prior report (tape 
+unavailable for review) of [**2657-1-26**], the pericarial effusion and 
+tamponade are new.
+. 
+Cath [**9-25**]
+Resting preprocedure hemodynamics revealed equalization of 
+pressures 
+between the RA (RA mean pressure 11mmHG) and the pericardium 
+(12mmHg) 
+consistent with tamponade physiology. The Cardiac output was 
+3.24L/min with an index of 2.12L/min/m2. 
+2. Successful drainage of 400cc serosanguinous fluid from 
+pericardial 
+space. 
+3. Post intervention RA pressure was 8mmHg and pericardial 
+pressure was 2mmHg. Post procedure cardiac output was 4.36L/min 
+with an index of 2.84L/min/m2. 
+.
+Echo [**9-25**] post procedure
+1. Overall left ventricular systolic function is severely 
+depressed with  paradoxical septal motion.  
+2.There is a trivial/physiologic pericardial effusion.  
+
+PERICARDIAL FLUID
+Other Body Fluid Chemistry:
+TotProt: 4.8 
+Glucose: 104 
+LD(LDH): 711 
+Amylase: 31 
+Albumin: 2.9
+
+PERICARDIAL FLUID
+Other Body Fluid Hematology:
+WBC: 367 
+RBC: 174500 
+Polys: 8 
+Bands: 2 
+Lymphs: 35 
+Monos: 0 
+Metas: 1 
+Macro: 54
+.
+Echo [**2661-9-27**]
+Conclusions:  
+Left ventricular wall thicknesses and cavity size are normal. 
+Resting regional  wall motion abnormalities include hypokinesis 
+of the anterior septum and anterior walls. The remaining 
+segments are mildly hypokinetic (?related to tachycardia). Right 
+ventricular chamber size and free wall motion are normal. There 
+is a 1.2cm echogenic space seen anterior to the right 
+ventricular free wall in the subcostal view - c/w organized 
+effusion, hematomya, or tumor.  There is no evidence for RV 
+diastolic collapse/tamponade physiology.    
+Compared with the prior study of [**2661-9-26**], the anterior 
+echogenic space is  more prominent/larger - but the views are 
+not directly comparable and may be related to technical factors. 
+ 
+
+ 
+Brief Hospital Course:
+A&P:  69 yof with mediastinal mass ?thymic ca vs nscla with 
+malignant pericardial effusion now s/p pericardial drainage 
+transfer to CCU for mgmt.
+.
+[]Cardiac: 
+Ischemia - no history of CAD, not on any meds outpt aside from 
+lipitor, continued lipitor inhouse.
+
+Pump - Patient with significant cardial effusion with 
+equalization in pressures consistent with temponade now s/p 
+pericardial effusion removal 400cc.  Cardiac ouput increased 
+~30% post procedure.  However per post cath echo pt with 
+continued depressed EF.  Repeat echo the following day revealed 
+that pt continued to have mild hypokinesis however not clear if 
+this due to the views vs. pt being tachycardic.  Patient should 
+have repeat echo in 1 week time to evaulate this further.
+.
+Rhythm - Sinus.  Tachy at times upto 120s.
+.
+[] Pericardial Effusion - Drain in place post procedure and 
+monitored on tele.  DDx for pleural effusion is wide however 
+given the cell count with numerous RBC, this is likely 
+hemorrhagic pericardial effusion.  Potential etiologies for 
+hemorrhagic effusions include Malignancy ��� 26%, Percutaneous 
+interventional procedures ��� 18%, Postpericardiotomy syndrome ��� 
+13%, Complications of myocardial infarction (free wall rupture, 
+thrombolysis) ��� 11%, Idiopathic ��� 10% Uremic ��� 7%, Aortic 
+dissection ��� 4%, Trauma ��� 3%, and Other ��� 8 percent according to 
+the latest study in Chest 1999 Dec;116(6):1564-9.
+.
+In conjunction with the history the most likely etiology in this 
+patient was thought to be malignancy vs. other causes especially 
+s/p mediastinal radiation.
+- f/u cytology to evaluate for possible malignancy.  Pt will 
+follow up with oncologist Dr. [**Last Name (STitle) 10103**] and Dr. [**Last Name (STitle) **].  
+- Repeat Echo in 1 week to see progression of the effusion.
+.
+[] Heme/Onc - mediastinal mass, ?thymic vs. NSCLC.
+s/p 2 cycles of cisplatin/etoposide with concomitant radiation 
+therapy.
+- XRT per heme/onc after discharge.
+- f/u fluid cytology.
+- pt will f/u with Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 10103**].  
+ 
+Medications on Admission:
+Lipitor 10
+MVI
+Prilosec
+Ibuprofen prn
+Fosamax 70 qwk
+CA, Megace 400qd, Vit D and mag Suppl.
+ 
+Discharge Medications:
+1. Ibuprofen 400 mg Tablet Sig: 0.5 Tablet PO Q8H (every 8 
+hours) as needed.  
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+4. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+5. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+6. FOSAMAX 70 mg Tablet Sig: One (1) Tablet PO every seventy-two 
+(72) hours.  
+7. Calcium + D 600-200 mg-unit Tablet Sig: One (1) Tablet PO 
+twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+cardiac tamponade
+pericardial effusion
+tachycardia
+mediastinal mass
+anemia
+
+ 
+Discharge Condition:
+good
+
+ 
+Discharge Instructions:
+[**Doctor First Name 54**] were admitted for fluid around [**Doctor First Name **] heart. The cause of this 
+is not know at this time but lab tests on the fluid are pending 
+and [**Doctor First Name **] should talk with your doctors about the results. 
+.
+We did see that your heart does not seem to pump blood optimally 
+on the echocardiogram [**Doctor First Name **] had performed. This is likely due to 
+the limitations of the testing mode and the fact that your heart 
+was beating quickly at the time of the test. We do NOT feel [**Doctor First Name **] 
+are at risk for heart failure at this time. 
+Talk with your oncologist if [**Doctor First Name **] have any further questions and 
+feel free to ask him to set [**Doctor First Name **] up with a cardiologist if [**Doctor First Name **] 
+prefer.  
+[**Doctor First Name 54**] will need to have another echocardiogram in one week to 
+reassess your heart.  Please call for an appointment: ([**Telephone/Fax (1) 10104**]
+ 
+Followup Instructions:
+Feel free to call for an appointment with a cardiologist, Dr. 
+[**Last Name (STitle) 3771**], whom cared for [**Doctor First Name **] during this admission. 
+[**Telephone/Fax (1) 2910**].
+
+Call your primary care physician [**Telephone/Fax (1) 66**] for a follow up 
+appointment as needed. 
+
+Provider: [**Name10 (NameIs) **],[**First Name3 (LF) 934**] MULTI-SPECIALTY MULTI-SPECIALTY 
+THORACIC UNIT-CC9 Date/Time:[**2661-10-1**] 1:00
+
+Provider: [**Name10 (NameIs) **],HEM/ONC HEMATOLOGY/ONCOLOGY-CC9 
+Date/Time:[**2661-10-1**] 1:00
+
+Will need f/u echo in one week.
+
+ 
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**Doctor First Name 9271**]
+ 
+Completed by: [**First Name8 (NamePattern2) 5499**] [**Name8 (MD) **] MD [**MD Number 5500**] [**2661-9-28**] @ 0812
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: FRI [**2661-11-1**] 5:44 PM
+(End of Report)
+
+
+",,
+14085,20667,17512,0,2661-09-25 17:44:00 EST,2661-09-25 18:02:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Admit Note 4-7pm","
+CCU Nursing Admit Note 4-7pm
+S:  I don't understand all of this because I'm going home tomorrow.
+
+O:  Rec'd 69yof with hx thymic vs non-small cell CA s/p pericardialcentesis with pericardial drain intact.   Pt has hx of CA as above and is currently recieving radiation tx.  Pt has been experiencing +nausea and today had some SOB while doing her pilates.  Emergent echo shows +effusion and she was sent to the cath lab, where 370cc pericardial fluid was drained.  Drain was left in place and pt admitted to CCU.
+
+Upon admit to CCU, pulses paradox 8 points bilaterally and BP 120-138/60-70.  HR ST 110-120 with no vea.  Pericardial drain to gravity and is draining scant amts s/s drainage.  Flushed with 4cc 1unit/ml Heparinized NSS.  Flushes easily.  Able to withdraw approx 1cc post flushing.  c/o pain at drain insertion site, and was medicated with 200mg Ibuprofen.  R groin cath site is d/i with ds transparent dsg.  Pulses +3/+[**1-1**] bilaterally.  Pt is flat in bed with knee immobilizer on r leg.
+
+Resp - LS are clear on RA with sats 96-100%
+
+Gi - Appetite good for dinner. Abd is flat with +bs.
+
+Gu - Foley draining clear yellow urine.
+
+MS/social - Pt awake, alert and oriented x3, very pleasant and cooperative.  Family present off/on through evening.  
+
+A:  69yof admitted s/p pericardial drain placement
+
+P:  cont monitor hemodynamics, flush drain q4hr and prn per protocol, monitor site and change dsg prn, Ibuprofen prn for pain, may sit up in bed after 7pm, keep pt and family informed of POC
+
+
+",,
+14085,20667,17512,,2661-09-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-9-26**] 7:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6189**]
+     Reason: evaluate lung pathology, heart size, drain position         
+     Admitting Diagnosis: PERICARDIAL EFFUSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with pericardial effusion (malignant), anterior mediasteinal 
+      mass s/p pericardial drain
+     REASON FOR THIS EXAMINATION:
+      evaluate lung pathology, heart size, drain position                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  69-year-old woman with malignant pericardial effusion, anterior
+     mediastinal mass, now status post pericardial drainage.  Please assess drain
+     position and heart size.
+     
+     TECHNIQUE:  A single AP portable chest radiograph in the upright position was
+     obtained.
+     
+     COMPARISON:  CT of the chest [**2661-9-20**].
+     
+     FINDINGS:  There is a drainage tube with tip projecting over the left heart.
+     Compared to prior chest CT [**2661-9-20**], the heart size has now decreased
+     reflecting pericardial drainage.  There is prominence of the left hilum and
+     aorticopulmonary window consistent with the patient's known anterior
+     mediastinal mass and left hilar lymphadenopathy.  No pneumothorax or pleural
+     effusion is found.  The lungs are grossly clear.
+     
+     IMPRESSION:
+     1. Pericardial drainage tube overlying left heart. For definitive
+     localization full PA and lateral radiograph series suggested.
+     2. Prominence of left hilum and AP window consistent with mediastinal mass and
+     lymphadenopathy seen on recent chest CT.
+
+",,
+14085,20667,17512,0,2661-09-26 05:10:00 EST,2661-09-26 05:13:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:pericardial drain intact-wo further drainage. tachycardic throughout night >100 w stable bp. wo co sob/dyspnea. radiation rx for cancer to be held today.
+
+a:stable s/p pericardial drain insertion.
+
+p:echo. ?dc pericardial drain. ?dc home-patients hope. contin present management. support as indicated. 
+",,
+14085,20667,17512,0,2661-09-26 14:03:00 EST,2661-09-26 14:16:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S: ""When can I go home.""
+
+O: Please see flow sheet for objective data. Tele sinus tach 110's - 120's. No treatment at this time. Echo done and pericardial drain dc'd by card fellow. Pt received 4gms of Mg for Mg of 1.6.
+
+Resp: Lungs clear with occ exp wheezing. Pt denies shortness of breath. O2 sats 94-96%.
+
+GU/GI: Pt tolerating diet well. Abd is soft with bowel sounds present. Foley remains in place. Pt would like foley dc'd once she can use the bathroom.
+
+Neuro: Pt is alert and oriented. Pt is very anxious to go home. Both she and her husband have spoken with cardiology and oncology teams and are aware that she will be staying in the hospital until tomorrow and repeat echo.
+
+A&P: Pt stable after removal of pericardial drain. Cont to monitor hemodynamics. Repeat echo [**Doctor First Name **]. Cont with POC. Transfer to [**Hospital Ward Name **] 6.
+",,
+14085,20667,,,2661-09-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-9-27**] 6:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6190**]
+     Reason: eval fluid status and heart size                            
+     Admitting Diagnosis: PERICARDIAL EFFUSION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old woman with pericardial effusion (malignant), anterior mediasteinal 
+       mass s/p pericardial drain
+     REASON FOR THIS EXAMINATION:
+      eval fluid status and heart size                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Anterior mediastinal mass and malignant pericardial effusion.
+     
+     PORTABLE AP CHEST:  As compared to [**9-26**], there has been no interval
+     change in the appearance of the known left hilar mass.  Pericardial catheter
+     has been removed.  Heart size is normal.  Lungs are otherwise clear.  There is
+     no pneumothorax.
+     
+     IMPRESSION:  No significant interval change following pericardial drain
+     removal.
+
+",,
+14085,,,,2661-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-10-10**] 2:52 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6191**]
+     Reason: eval for ?pna                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old woman with mediastinal mass s/p chemo + XRT, with SOB               
+     REASON FOR THIS EXAMINATION:
+      eval for ?pna                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS, PA AND LATERAL
+     
+     History of mediastinal mass with shortness of breath.
+     
+     There has been no change in heart size since the prior study of [**2661-9-27**].  Similarly, the mediastinal and left hilar density are unchanged, and
+     there are no new lung lesions or pleural effusions.
+     
+     IMPRESSION:  No change since prior film of [**2661-9-27**].  Specifically, no
+     evidence for new pneumonia, pleural effusions, or mediastinal tumor extension.
+                                                                           
+
+",,
+14085,,,,2661-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 6192**]
+     Reason: LUNG CA RESTAGING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: LUNG CA RESTAGING   
+       
+     METHODS: Approximately 1 hour after intravenous administration of F-18   
+     fluorodeoxyglucose (FDG), noncontrast CT images were obtained for attenuation
+     correction and for fusion with emission PET images. [The noncontrast CT images
+     are not used to diagnose disease independently of the PET images.]  A series of
+     overlapping emission PET images was then obtained. The fasting blood glucose
+     level, measured by glucometer before injection of FDG, was 78  
+     milligram/deciliter. The area imaged spanned the region from the skull base   to
+     the mid-thighs.  
+        
+     Computed tomography (CT) images were co-registered and fused with emission PET
+     images to assist with the anatomic localization of tracer uptake.  The
+     determination of the site of tracer uptake seen on PET data can have important
+     implications regarding the significance of that uptake.   
+       
+     INTERPRETATION:  
+     On today's study, the previously seen anterior mediastinal mass appears
+     decreased in size and FDG-avidity. There are focal areas of the previously noted
+     mass and mediastinal lymph nodes which are FDG-avid with maximum SUV 4.5.  
+       
+     There is symmetric, mild increased tracer uptake is seen in the parotid glands,
+     most likely related to inflammation.  
+       
+     There is FDG-avidity in the rectum and anal canal, unchanged from prior study.  
+       
+     Physiologic uptake is seen in the heart, gastrointestinal and genitourinary
+     tracts.  
+        
+     IMPRESSION: 1. Interval improvement of the FDG-avid disease in the anterior
+     mediastinal mass and mediastinal lymph nodes. There is residual FDG-avid disease
+     in a portion of the mass and anterior mediastinal lymphnodes.  
+                                                                           
+
+             [**Name6 (MD) 6193**] [**Doctor Last Name 6194**], M.D.
+             [**First Name8 (NamePattern2) 129**] [**Last Name (NamePattern1) 130**], M.D.         Approved: TUE [**2661-10-22**] 2:59 PM
+
+
+             Date Mailed: [**2661-10-23**]                     West [**Medical Record Number 6195**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+14085,,,,2661-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-10-23**] 12:51 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 6196**]
+     Reason: follow up anterior mediastinal mass s/p chemo/xrt. Please co
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with mediastinal tumor, likely thymic carcinoma vs. NSCLC, 
+     REASON FOR THIS EXAMINATION:
+      follow up anterior mediastinal mass s/p chemo/xrt. Please compare to prior
+      scans performed [**2661-9-20**] and scan done on [**2661-7-18**] at DGH # 225449
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mediastinal tumor status post chemoradiation.
+     
+     TECHNIQUE:  Multidetector CT images of the chest were obtained with
+     intravenous contrast.  100 cc of Optiray contrast were administered.
+     
+     COMPARISON:  [**2661-9-20**] chest CT.
+     
+     CHEST CT WITH IV CONTRAST:  There is a large heterogeneous anterior
+     mediastinal mass, which is closely apposed to the great vessels.  There is
+     also soft tissue density extending through the chest wall consistent with
+     invasion.  The mass has decreased in size in the interval.  This now measures
+     3.1 x 5.3 cm.  On the prior study, this measured 3.7 x 5.7 cm at the same
+     location.  A small pericardial effusion is present, which has decreased in
+     size in comparison to the prior study.  Multiple small mediastinal lymph nodes
+     are present and unchanged.  The largest is in the precarinal region and
+     measures 1 cm in short axis dimension.
+     
+     [**Hospital1 **]-apical pleural scarring is present and unchanged.  There are multiple tiny
+     pulmonary nodules, which are all stable from the prior study.  Several of
+     these are ground-glass in attenuation.  There is focal bronchiectasis and
+     patchy ground glass-opacity in the right middle lobe inferiorly.  This is
+     unchanged from the prior study and likely due to a chronic inflammatory or
+     postinfectious etiology.  No new lesions are present.
+     
+     The osseous structures are unremarkable.  Visualization of the upper abdominal
+     organs reveals no abnormalities.
+     
+     IMPRESSION:
+     
+     Interval improvement with decreasing size of anterior mediastinal mass and
+     decreased pericardial fluid.
+                                                                           
+
+",,
+14085,,,,2661-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-10-23**] 12:51 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 6196**]
+     Reason: follow up anterior mediastinal mass s/p chemo/xrt. Please co
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with mediastinal tumor, likely thymic carcinoma vs. NSCLC, 
+     REASON FOR THIS EXAMINATION:
+      follow up anterior mediastinal mass s/p chemo/xrt. Please compare to prior
+      scans performed [**2661-9-20**] and scan done on [**2661-7-18**] at DGH # 225449
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mediastinal tumor status post chemoradiation.
+     
+     TECHNIQUE:  Multidetector CT images of the chest were obtained with
+     intravenous contrast.  100 cc of Optiray contrast were administered.
+     
+     COMPARISON:  [**2661-9-20**] chest CT.
+     
+     CHEST CT WITH IV CONTRAST:  There is a large heterogeneous anterior
+     mediastinal mass, which is closely apposed to the great vessels.  There is
+     also soft tissue density extending through the chest wall consistent with
+     invasion.  The mass has decreased in size in the interval.  This now measures
+     3.1 x 5.3 cm.  On the prior study, this measured 3.7 x 5.7 cm at the same
+     location.  A small pericardial effusion is present, which has decreased in
+     size in comparison to the prior study.  Multiple small mediastinal lymph nodes
+     are present and unchanged.  The largest is in the precarinal region and
+     measures 1 cm in short axis dimension.
+     
+     [**Hospital1 **]-apical pleural scarring is present and unchanged.  There are multiple tiny
+     pulmonary nodules, which are all stable from the prior study.  Several of
+     these are ground-glass in attenuation.  There is focal bronchiectasis and
+     patchy ground glass-opacity in the right middle lobe inferiorly.  This is
+     unchanged from the prior study and likely due to a chronic inflammatory or
+     postinfectious etiology.  No new lesions are present.
+     
+     The osseous structures are unremarkable.  Visualization of the upper abdominal
+     organs reveals no abnormalities.
+     
+     IMPRESSION:
+     
+     Interval improvement with decreasing size of anterior mediastinal mass and
+     decreased pericardial fluid.
+                                                                           
+
+",,
+14085,,,,2661-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-10-30**] 9:50 AM
+     MRI CHEST/MEDIASTINUM W/O & W/CONTRAST; MR [**First Name (Titles) 6197**] [**Last Name (Titles) 6198**] # [**Telephone/Fax (1) 6199**]
+     MR CONTRAST GADOLIN
+     Reason: evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with anterior [**Hospital Unit Name 335**] mass
+     REASON FOR THIS EXAMINATION:
+      evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR CHEST .
+     
+     There is comparison CT from [**2661-10-23**].
+     
+     CLINICAL HISTORY:  Thymic carcinoma versus nonsmall cell lung cancer in
+     anterior mediastinum, evaluate.
+     
+     TECHNIQUE:  Multiplanar T1, T2, and dynamic post-gadolinium T1-weighted images
+     were obtained.  Reformatted images were generated at a separate dedicated
+     workstation and were valuable in helping to delineate the thoracic anatomy.
+     
+     FINDINGS:  An enhancing mass is present in the anterior mediastinum extending
+     from the aortic arch caudally to the level of the main pulmonary artery.  At
+     its greatest dimension, at the level of the manubrium, this enhancing mass
+     measures 2.9 x 5.5 cm in the transverse and AP dimensions.  There is invasion
+     into the anterior left thoracic wall.  There is abnormal enhancement of the
+     pericardium.  There is abnormal enhancement of a subcarinal lymph node,
+     although the subcarinal lymph node does not meet imaging criteria for
+     pathologic enlargement.  There is no contour abnormality involving the aorta
+     to suggest vascular invasion, however, there is no fat plane between the aorta
+     and the abnormal soft tissue mass.
+     
+     Coronal images demonstrate a simple cyst in the upper pole of the right
+     kidney.  Sagittal T2-weighted images demonstrate an abnormal increased signal
+     intensity in the pedicle of an upper lumbar vertebra, it is incompletely
+     evaluated on this study.  There is a hiatal hernia present.
+     
+     IMPRESSION:  
+     1.  Soft tissue mass in the anterior mediastinum invading into the anterior
+     left thoracic wall and abutting the aorta without intervening fat plane.  The
+     appearance of this mass is not significantly changed since the CT examination
+     from [**2661-10-23**]. These findings can see be seen in both thymic carcinoma and
+     nonsmall cell lung cancer.  
+     2.  Abnormal signal in a pedicle of an upper lumbar vertebra, best seen on
+     series 9, image 13.  Further evaluation with a dedicated spine study is
+     recommended.
+                                                                 (Over)
+
+     DATE: [**2661-10-30**] 9:50 AM
+     MRI CHEST/MEDIASTINUM W/O & W/CONTRAST; MR [**First Name (Titles) 6197**] [**Last Name (Titles) 6198**] # [**Telephone/Fax (1) 6199**]
+     MR CONTRAST GADOLIN
+     Reason: evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14085,,,,2661-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-10-30**] 9:50 AM
+     MRI CHEST/MEDIASTINUM W/O & W/CONTRAST; MR [**First Name (Titles) 6197**] [**Last Name (Titles) 6198**] # [**Telephone/Fax (1) 6199**]
+     MR CONTRAST GADOLIN
+     Reason: evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with anterior [**Hospital Unit Name 335**] mass
+     REASON FOR THIS EXAMINATION:
+      evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR CHEST .
+     
+     There is comparison CT from [**2661-10-23**].
+     
+     CLINICAL HISTORY:  Thymic carcinoma versus nonsmall cell lung cancer in
+     anterior mediastinum, evaluate.
+     
+     TECHNIQUE:  Multiplanar T1, T2, and dynamic post-gadolinium T1-weighted images
+     were obtained.  Reformatted images were generated at a separate dedicated
+     workstation and were valuable in helping to delineate the thoracic anatomy.
+     
+     FINDINGS:  An enhancing mass is present in the anterior mediastinum extending
+     from the aortic arch caudally to the level of the main pulmonary artery.  At
+     its greatest dimension, at the level of the manubrium, this enhancing mass
+     measures 2.9 x 5.5 cm in the transverse and AP dimensions.  There is invasion
+     into the anterior left thoracic wall.  There is abnormal enhancement of the
+     pericardium.  There is abnormal enhancement of a subcarinal lymph node,
+     although the subcarinal lymph node does not meet imaging criteria for
+     pathologic enlargement.  There is no contour abnormality involving the aorta
+     to suggest vascular invasion, however, there is no fat plane between the aorta
+     and the abnormal soft tissue mass.
+     
+     Coronal images demonstrate a simple cyst in the upper pole of the right
+     kidney.  Sagittal T2-weighted images demonstrate an abnormal increased signal
+     intensity in the pedicle of an upper lumbar vertebra, it is incompletely
+     evaluated on this study.  There is a hiatal hernia present.
+     
+     IMPRESSION:  
+     1.  Soft tissue mass in the anterior mediastinum invading into the anterior
+     left thoracic wall and abutting the aorta without intervening fat plane.  The
+     appearance of this mass is not significantly changed since the CT examination
+     from [**2661-10-23**]. These findings can see be seen in both thymic carcinoma and
+     nonsmall cell lung cancer.  
+     2.  Abnormal signal in a pedicle of an upper lumbar vertebra, best seen on
+     series 9, image 13.  Further evaluation with a dedicated spine study is
+     recommended.
+                                                                 (Over)
+
+     DATE: [**2661-10-30**] 9:50 AM
+     MRI CHEST/MEDIASTINUM W/O & W/CONTRAST; MR [**First Name (Titles) 6197**] [**Last Name (Titles) 6198**] # [**Telephone/Fax (1) 6199**]
+     MR CONTRAST GADOLIN
+     Reason: evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14085,,,,2661-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-10-30**] 9:50 AM
+     MRI CHEST/MEDIASTINUM W/O & W/CONTRAST; MR [**First Name (Titles) 6197**] [**Last Name (Titles) 6198**] # [**Telephone/Fax (1) 6199**]
+     MR CONTRAST GADOLIN
+     Reason: evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with anterior [**Hospital Unit Name 335**] mass
+     REASON FOR THIS EXAMINATION:
+      evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR CHEST .
+     
+     There is comparison CT from [**2661-10-23**].
+     
+     CLINICAL HISTORY:  Thymic carcinoma versus nonsmall cell lung cancer in
+     anterior mediastinum, evaluate.
+     
+     TECHNIQUE:  Multiplanar T1, T2, and dynamic post-gadolinium T1-weighted images
+     were obtained.  Reformatted images were generated at a separate dedicated
+     workstation and were valuable in helping to delineate the thoracic anatomy.
+     
+     FINDINGS:  An enhancing mass is present in the anterior mediastinum extending
+     from the aortic arch caudally to the level of the main pulmonary artery.  At
+     its greatest dimension, at the level of the manubrium, this enhancing mass
+     measures 2.9 x 5.5 cm in the transverse and AP dimensions.  There is invasion
+     into the anterior left thoracic wall.  There is abnormal enhancement of the
+     pericardium.  There is abnormal enhancement of a subcarinal lymph node,
+     although the subcarinal lymph node does not meet imaging criteria for
+     pathologic enlargement.  There is no contour abnormality involving the aorta
+     to suggest vascular invasion, however, there is no fat plane between the aorta
+     and the abnormal soft tissue mass.
+     
+     Coronal images demonstrate a simple cyst in the upper pole of the right
+     kidney.  Sagittal T2-weighted images demonstrate an abnormal increased signal
+     intensity in the pedicle of an upper lumbar vertebra, it is incompletely
+     evaluated on this study.  There is a hiatal hernia present.
+     
+     IMPRESSION:  
+     1.  Soft tissue mass in the anterior mediastinum invading into the anterior
+     left thoracic wall and abutting the aorta without intervening fat plane.  The
+     appearance of this mass is not significantly changed since the CT examination
+     from [**2661-10-23**]. These findings can see be seen in both thymic carcinoma and
+     nonsmall cell lung cancer.  
+     2.  Abnormal signal in a pedicle of an upper lumbar vertebra, best seen on
+     series 9, image 13.  Further evaluation with a dedicated spine study is
+     recommended.
+                                                                 (Over)
+
+     DATE: [**2661-10-30**] 9:50 AM
+     MRI CHEST/MEDIASTINUM W/O & W/CONTRAST; MR [**First Name (Titles) 6197**] [**Last Name (Titles) 6198**] # [**Telephone/Fax (1) 6199**]
+     MR CONTRAST GADOLIN
+     Reason: evaluate anterior [**Hospital Unit Name 335**] mass and [**Hospital Unit Name 335**] [**Doctor First Name **]
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14085,,,,2661-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-10-31**] 1:39 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 6200**]
+     Reason: proc:bronch/media/median sternotomy, w/ radical resection me
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with 
+      allergies:codeine
+     REASON FOR THIS EXAMINATION:
+      proc:bronch/media/median sternotomy
+      w/ radical resection media sternal
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest PA and lateral.
+     
+     INDICATION:  History of allergies, broncho-mediastinitis and sternotomy.  Now
+     scheduled for radical resection of medial sternum on [**2661-11-5**].  Preoperative
+     chest examination.
+     
+     FINDINGS:  PA and lateral chest views are analyzed in direct comparison with
+     the next previous chest examination of [**2661-10-10**].  Heart size is
+     unchanged and within normal limits.  No typical configuration abnormality is
+     noted.  There is some blunting of the contours in the pulmonary artery
+     segment, a finding which was noted on the previous examination.  The contour
+     of the thoracic aorta, however, is unremarkable and unchanged.  Pulmonary
+     vasculature is normal.  No new acute parenchymal infiltrates are present and
+     the lateral and posterior pleural sinuses remain free.
+     
+     IMPRESSION:  No interval change in chest findings since [**2661-10-10**]. 
+     For detail of mediastinal abnormalities, see corresponding MRI, CT and FDG
+     imaging that have occurred during the interval.
+                                                                           
+
+",,
+14085,25563,,,2661-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-5**] 4:18 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 6201**]
+     Reason: assess chest tube placement, CVL placement                  
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman s/p resection mediastinal mass                              
+     REASON FOR THIS EXAMINATION:
+      assess chest tube placement, CVL placement                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  69-year-old woman status post resection of mediastinal mass.
+     
+     CHEST, SINGLE AP VIEW:  Comparison is made to the preoperative study from
+     [**2661-10-31**].  The patient is intubated.  The tip of the endotracheal tube
+     lies at the thoracic inlet.  A nasogastric tube enters the stomach, and its
+     distal-most course is not visualized on this film.  There are two chest tubes
+     in the left hemithorax, as well as a chest tube at the right lung base.  A
+     third drain overlying the midline may represent a mediastinal drain.  There
+     are new sternotomy wires, and surgical clips in the mediastinum, as well as
+     staples overlying the left upper chest.  A right internal jugular central
+     venous catheter terminates in the superior vena cava.
+     
+     Allowing for differences in technique, the heart size is probably unchanged.
+     There is perhaps slight mediastinal shift towards the left side, but this view
+     is also significantly rotated. There is no definite pneumothorax or pleural
+     effusion. There are bilateral hilar opacities, which may represent mild edema
+     or postoperative changes, associated with mild mediastinal widening. Fullness
+     in the left hilar region in the aortopulmonary window is also noted.
+     
+     IMPRESSION: Postoperative appearance of the chest, with lines, tubes, and
+     drains as described. Continued follow-up is recommended to follow for
+     resolution of likely post-operative changes, including mediastinal widening.
+
+",,
+14085,25563,17513,0,2661-11-05 17:26:00 EST,2661-11-05 17:28:00 EST,6692,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received from OR intubated and placed on SIMV as noted. BS are clear and equal. Plan to remain sedated and intubated overnight, then wean toward extubation in the am.
+",,
+14085,25563,17513,0,2661-11-05 21:11:00 EST,2661-11-05 21:23:00 EST,2782,"N",54,"Nursing/Other",,"
+
+ADMITTED TO CSRU @ 1600 S/P THYMECTOMY W/ BILAT UPPER LOBE WEDGE RESECTIONS & GORTEX CHEST WALL RECONSTRUCTION. ARRIVED INTUBATED. ON PROPOFOL @ 30 MCG/KG/MIN. WEANING PROPOFOL. STARTED ON PRECEDEX AND FENTANYL GTTS. VERSED 2 MG IV X1. BILAT [**Doctor Last Name 1210**] DRAINS TO 20 CM SX-> MOD AMTS OF SS DRAINAGE. DSGS D&I. LR X 3L FOR HYPOTENSION. LEFT ARM SL EDEMATOUS ELEVATED ON PILLOWS. TO REMAIN INTUBATED AND SEDATED THROUGHOUT THE NIGHT.
+",,
+14085,25563,17513,,2661-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-6**] 6:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6202**]
+     Reason: Please assess for pleural effusion/pneumothorax             
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman s/p resection mediastinal mass POD#1                          
+     REASON FOR THIS EXAMINATION:
+      Please assess for pleural effusion/pneumothorax                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE
+     
+     INDICATION:  69-year-old woman status post resection of mediastinal mass.
+     
+     COMMENTS:  Portable supine AP radiograph of the chest is reviewed, and
+     compared with the previous study of yesterday.
+     
+     The patient is status post resection of the mediastinal mass previously
+     identified.  The tip of the endotracheal tube is identified at the thoracic
+     inlet.  The right jugular IV catheter terminates in the SVC.  Bilateral chest
+     tubes and mediastinal drain remain in place.  A nasogastric tube courses
+     towards the stomach.  There are continued postsurgical changes within the
+     mediastinum as well as left lower lobe atelectasis.  There is a small left
+     pleural effusion.  No evidence of pneumothorax is identified.
+                                                                           
+
+",,
+14085,25563,17513,0,2661-11-06 05:00:00 EST,2661-11-06 05:04:00 EST,2536,"N",54,"Nursing/Other",,"
+
+Resp: Rec;d pt on simv 16/450/+5/40%. Ett #7.0, retaped and secured x2 @ 22 lip. Bs are coarse bilaterally. Suctioned for small amounts of bloody secretions. Attempted to wean to PSV 10/5+/40 and pt tolerated for 1-1/2 hrs, then placed back on simv settings (see carview) Pt having BP issues. No resp due to same. Will continue full vent support. 
+",,
+14085,25563,17513,0,2661-11-06 07:33:00 EST,2661-11-06 07:50:00 EST,2436,"N",54,"Nursing/Other","RN shift note","
+RN shift note
+neuro: arouses to verbal on precedex, fentanyl gtts.  Follows commands, MAE. No focal deficits.  Fentanyl weaned from 50 to 30 mcg R/T hypotension. Pt becomes anxious about ETT, nearly panic stricken, requiring versed 1mg x 2 doses.
+
+CV: ST, NSR, no ectopy. Pulse palp throughout.  Fluid bolus, PRBC x 2units, T-[**Doctor Last Name **] briefly for hypotension to 70's/MAP 50's.
+
+Pulm: A/C @40% 5/5 most of noc. Brief trail @ CPAP failed with increased RR, anxiety, falling sats. Recovered quickly on brief run PEEP 10.  Wet course BS throughout; frothy pink secretions. ABG's stable on AC 40%.  CT'x x 4 w/o air leak, draining s/s fluid.  + cuff leak when balloon down.
+
+GI: abd soft, silent. OGT clear bile
+
+GU: clear amber urine, 20-40cc/hr.
+
+skeletal: sjin intact. Dsgs D/I. Cordi RIJ, cordis Rgroin wnl.  Pt has become increasingly edematous of neck, occiput, left hand.
+
+Heme: Hct drop to 25 this am, 2 units PRBC tx.
+
+
+P: pending CXR, wean and extubate. Maintain Hct>29, urine O/P 20cc/hr.
+Monitor for laryngal edema. Adequate analgesia, anxiolytic
+ 
+
+
+
+",,
+14085,25563,17513,0,2661-11-06 16:02:00 EST,2661-11-06 16:08:00 EST,6692,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on SIMV + PS as noted. Pt weaned to PSV - ABG within acceptable limits. BS expiratory wheezes throughout. Pt given MDI in line with vent with increased aeration and lessening of wheezes. Pt extubated to cool aerosol. Pt c/o difficulty breathing. BS coarse throughout and in upper airway. Pt given unit dose Albuterol neb with improved aeration. Pt also, given .5cc of 2.25% Racemic Epinephrine in 4cc NS secondary to stridor. BS clear with increased aeration. 
+",,
+14085,25563,17513,0,2661-11-06 18:34:00 EST,2661-11-06 18:55:00 EST,1742,"N",54,"Nursing/Other",,"
+
+CSRU NPN
+
+Neuro:  Alert and oriented upon extubation.  MAE with equal strength. PERRL.  Becomes anxious w/ SOB and pain.  Responds fairly well to verbal reassurance.  Did receive ativan x 1-> SBP down to high 70's after ativan.  SBP would increase immediately up to 90's w/ stimulation.  Pt easily arousable to voice w/ ativan dose.
+
+CV:  Increasing HR during course of day->lopressor started and increased to q 4 hrs.  Short duration of effect w/ lopressor.  BP 90-120's/60's when comfortable.  SBP up to 140's when feeling SOB.  Post hct ~40->repeat pnd.  Generalized edema.  Facial edema improved w/ HOB elevated.  Left arm w/ firm edema, cool to touch, and noted to be slightly mottled this afternoon.  Has been elevated on 2 pillows much of day.  + radial pulse.  Pt w/ intact sensation and strength in hand. MD aware and evaluated.
+
+Resp:  Weaned to CPAP 5/5, RR lower 30's, tachycardic, anxious. ABG acceptable->pt extubated.  Cont'd w/ tachypnea and pt c/o feeling like she was ""suffocating"" and that she couldn't breathe. Very diaphoretic at this time. O2 sats drifting down to low 90's w/ 100% face tent.  BS w/ expiratory wheezes throughout, stridor also noted.  Initially given albuterol neb d/t HR 120's NST.  Minimal effect.  Racemic epi given with improved O2 sat and decrease in wheezes and stridor. Decadron x 1 given for any potential laryngeal edema. Has continued to have episodes of tachypnea, diaphoresis, and increased BP w/ c/o difficulty breathing.  Requiring albuterol nebs q 2 hrs. Able to wean to 4l np w/ O2 sats 93% or greater. CT #1 w/ mod to large amts serousang dng.
+
+GI:  Abd softly distended.  + BS.
+
+Gu:  IV lasix started for resp distress.  Good u/o.  Lytes repleted.
+
+ID:  Afebrile.  IVAB cont.
+
+Endo: SSRI per orders.
+
+Comfort:  Initially w/ minimal c/o pain on fentanyl.  Episode of increased pain this afternoon.  Spoke w/ thoracic team->okay to increase fentanyl for comfort as long as patient not becoming too sedated.  Increased fentanyl w/ good effect.
+
+Skin:  Intact to back/buttocks.  CT dsg w/ small serousang dng.
+
+Social:  Spoke w/ husband several times and updated him on pt's progress and plan of care.
+
+A:  Tachycardia.  Extubated->requiring close attention to pulmonary status.
+
+P:  Titrate fentanyl accordingly.  Monitor mental status w/ pain med. Pulmonary hygiene.  Albuterol nebs q 2 hrs.  Monitor edema. Monitor diuresis.  Emotional support.
+",,
+14085,25563,17513,,2661-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14085,25563,17513,,2661-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-7**] 7:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6203**]
+     Reason: ?interval change                                            
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old woman s/p resection mediastinal mass POD#1                         
+       
+     REASON FOR THIS EXAMINATION:
+      ?interval change                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 8:48 A.M. ON [**11-7**]
+     
+     HISTORY:  Status post resection of mediastinal mass.
+     
+     IMPRESSION:  AP chest made available for review on [**11-11**] and compared to
+     [**11-5**] and 7:
+     
+     The left mediastinal contour is inseparable from opacity that extends all the
+     way to the left lateral chest wall.  This is probably a combination of
+     mediastinal fluid collection, pleural fluid and atelectasis in the left lung,
+     worsened appreciably over the past 24 hours.  Right lung is hyperinflated and
+     clear.  There is no pneumothorax.  Right heart border is displaced to the left
+     indicating a significant component of atelectasis.
+     
+     Right jugular sheath tip projects over the junction of the brachiocephalic
+     veins.  Bilateral pleural and midline drains are in place.  Endotracheal tube
+     has been removed and no nasogastric tube is seen, explaining significant
+     gaseous and fluid distention of the stomach.
+                                                                           
+
+",,
+14085,25563,17513,,2661-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-7**] 6:02 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6204**]
+     Reason: r/o ptx, interval change                                    
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman s/p resection mediastinal mass POD#2, 2 medistinal CT 
+      removed, R/ L lateral CT remain                          
+     REASON FOR THIS EXAMINATION:
+      r/o ptx, interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  69-year-old woman status post resection of mediastinal mass.  She is
+     postop day two and two mediastinal tubes have been removed.
+     
+     COMPARISON:  [**2661-11-6**].
+     
+     PORTABLE CHEST:  The ETT, NGT, and mediastinal tubes have been removed.  The
+     right IJ introducer has been exchanged for a triple lumen catheter with the
+     tip in the proximal right atrium.  The right and left chest tubes remain in
+     position.  There is a moderate left pleural effusion as well as a retrocardiac
+     consolidation.  Small lucency in the left lower thorax likely represents air
+     in the stomach. There is a small right pneumothorax which was not present on
+     prior exam.  There is continued mild pulmonary vasculature congestion and
+     increased interstitial markings consistent with mild pulmonary edema. Osseous
+     and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  Small right pneumothorax, new from prior exam.  Moderate-to-left
+     pleural effusion, increased compared to prior exam.  Retrocardiac
+     consolidation which may represent compressive atelectasis.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 726**] at 9:45pm [**2661-11-7**].
+
+",,
+14085,25563,17513,,2661-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-7**] 6:02 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6204**]
+     Reason: r/o ptx, interval change                                    
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman s/p resection mediastinal mass POD#2, 2 medistinal CT 
+      removed, R/ L lateral CT remain                          
+     REASON FOR THIS EXAMINATION:
+      r/o ptx, interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  69-year-old woman status post resection of mediastinal mass.  She is
+     postop day two and two mediastinal tubes have been removed.
+     
+     COMPARISON:  [**2661-11-6**].
+     
+     PORTABLE CHEST:  The ETT, NGT, and mediastinal tubes have been removed.  The
+     right IJ introducer has been exchanged for a triple lumen catheter with the
+     tip in the proximal right atrium.  The right and left chest tubes remain in
+     position.  There is a moderate left pleural effusion as well as a retrocardiac
+     consolidation.  Small lucency in the left lower thorax likely represents air
+     in the stomach. There is a small right pneumothorax which was not present on
+     prior exam.  There is continued mild pulmonary vasculature congestion and
+     increased interstitial markings consistent with mild pulmonary edema. Osseous
+     and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  Small right pneumothorax, new from prior exam.  Moderate-to-left
+     pleural effusion, increased compared to prior exam.  Retrocardiac
+     consolidation which may represent compressive atelectasis.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 726**] at 9:45pm [**2661-11-7**].
+
+",,
+14085,25563,17513,0,2661-11-07 04:41:00 EST,2661-11-07 04:50:00 EST,7318,"N",54,"Nursing/Other","CSRU NPN","
+CSRU NPN
+NEURO: A/OX3, PLEASANT & COOPERATIVE. AFEBRILE. NO NEURAL DEFICITS APPRECIATED. ON FENTANYL GTT FOR PAIN MANAGEMENT WITH GOOD CONTROL AT THIS TIME. APPEARS COMFORTABLE AND DENIES NEED FOR INCREASE IN PAIN MEDICATION.
+
+CV: SEE CAREVUE. ST 110S-120S, ON IV LOPRESSOR WITH DECREASE IN RATE TO LOW 100S. DID REQUIRE EXTRA DOSE OF LOPRESSOR FOR ^ HR. B/P STABLE. PULSES EASILY PALPATED.
+
+RESP: TACHYPNEIC AT TIMES, EVEN AT REST. ACTIVITY TOLERANCE POOR - ^HR 120S, ^RR 30S-40S. TX WITH ALBUTEROL NEBS WITH SOME RELIEF. L/S WHEEZY AT TIMES. 4 [**Doctor Last Name 1210**] TUBES WITH MINIMAL SEROSANG DRAINAGE TO PLEUROVACS.
+
+GI: STRICT NPO - DUE TO HAVE SWALLOW EVAL LATER TODAY. HYPO BS.
+
+GU: FOLEY CATH. HUO QS.
+
+SKIN: STERNAL/CT DSGS CHANGED - EDGES WELL APPROXIMATED. MOD AMOUNT SEROSANG DRAINAGE ON OLD DRESSING. OTHERWISE SKIN INTACT.
+
+ENDO: INSULIN PER THORACIC.
+
+ID: ON CEFAZOLIN, AFEBRILE.
+
+SOCIAL: MULTIPLE CALLS FROM HUSBAND. VERY SUPPORTIVE. UPDATED ACCORDINGLY.
+
+PLAN: SWALLOW EVAL. REPLEAT LYTES AS INDICATED. MONITOR INCISIONS/CT FOR DRAINAGE. NEBS PRN ^ WOB. TITRATE FENTANYL GTT AS NEEDED.
+",,
+14085,25563,17513,0,2661-11-07 16:02:00 EST,2661-11-07 16:18:00 EST,1903,"N",54,"Nursing/Other","Update","
+Update
+O: See carevue flowsheet for specifics.
+Neuro: aaoriented, very pleasant lady asking approp questions of team re: prognosis, poc-> on fent gtt at 45mcg/hr w min to severe pain(episodic) dependent upon activity. Attempted video swallow study today aborted d/t pt severe level of pain after moving to xray chair in speech/swallow lab.Bolused w fent 25mcg at time of pt movemnt insufficient to control pain well enough to cont w studies.
+
+Cv: [**Last Name (un) **] no ectpy,lopressor ^ 7.5mg q4h tol well w sbp 120-'s to 140 range . Slt imprvment in hr after lopressor.Distal pulses palp.Hands cool radial pulses palp.Ct's x 4 to suct w no air leak and sm to mod amts thin serous drng. Rt fem cordis dc'd w/o incident.
+
+Resp: O2 nasal 4lpm. Coarse ^ lobes diminsh lower lobes. Alb nebs q4h today, much less dependent upon nebs subsequent to lasix 40mg iv this am.
+
+Gi: attempted bedside sp/swallow unsuccessful-> some coughing w thin liqs. As noted above, attempted video swallow aborted d/t pain.Endo:glucoses wnl not req rx per insulin ss.
+
+Gu: lasix 40 iv this am w gd diuresis.I/O 1liter neg at this time.
+
+Heme/ID: hct stable. Afebrile. Receiving kefzol for antibx coverage.
+PsychoSocial/Family: husband,son and [**Name2 (NI) **] in to visit today. Husband updated.
+A/P: ? toradol for additional pain management. oob to chair later this evening if pain under better control w mvment.
+Speech/swallow ? tomorrow. Rij cordis to be changed to tlc by CT- Thoracic team.? ^ lopressor for tachycardia if bp tolerates.
+",,
+14085,25563,17513,0,2661-11-07 19:39:00 EST,2661-11-07 19:46:00 EST,2780,"N",54,"Nursing/Other",,"
+
+3p-7p
+Neuro: pt with hallucinations on fentanyl.  Dose decreased and ultimately off for line change.  Pt aware hallucinations and not real. mae.
+CV: ST 110-135, Bp 120-150.  Lopressor IV ordered dose given.  Cordis changed over a wire to triple lumen by Dr. [**Last Name (STitle) **].  Post CXR confirmed placement.  CT # 2 and 3 dc'd.  Serosang drng from around sites, lt arm cool and mottled (pt baseline).  Leaking around aline
+Resp: coarse upperlobes, dim base. ABG WNL on 4l. sats >96%. no wheezes.  On swallow study cords visulaized lt cord paralyzed. 
+GI/GU: seallow study via scope at bedside, pt tolereated well and passed.  Order for clear liqs with HOB up.  UOP adequate foley patent
+Plan: Continue to assess cardio/resp status. oob in am. ? d/c aline. ? advance meds to po. 
+",,
+14085,25563,17513,,2661-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-8**] 7:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6205**]
+     Reason: Please assess for pneumothorax                              
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman s/p resection mediastinal mass POD#3 w/Right and Left lateral 
+      chest tubes
+     REASON FOR THIS EXAMINATION:
+      Please assess for pneumothorax                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2661-11-8**]
+     
+     COMPARISON:  [**2661-11-7**].
+     
+     INDICATION:  Pneumothorax.
+     
+     A chest tube remains in place in the right hemithorax.  There is a small right
+     apical pneumothorax, which has slightly decreased in size compared to the
+     previous study.  Within the left hemithorax, there is a moderate left pleural
+     effusion, slightly decreased in size in the interval, with persistent adjacent
+     opacity in the lingula and left lower lobe.  There is an increasing area of
+     confluent opacity in the right lower lobe centrally, which contains air
+     bronchograms, and note is also made of perihilar haziness and a subtle
+     interstitial pattern, new in the interval.
+     
+     IMPRESSION:
+     1.  Slight decrease in size of right apical pneumothorax.
+     2.  Slight improvement in moderate left pleural effusion.
+     3.  Right infrahilar airspace opacity, which may reflect an area of
+     asymmetrical pulmonary edema or developing pneumonia.
+
+",,
+14085,25563,17513,,2661-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-8**] 5:53 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6206**]
+     Reason: eval Left lung expansion                                    
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old woman s/p resection mediastinal mass POD#3 w/Right and Left 
+      lateral  chest tubes
+     REASON FOR THIS EXAMINATION:
+      eval Left lung expansion                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left lung resection, evaluate for reexpansion.
+     
+     CHEST, ONE VIEW:  Comparison with [**2661-11-8**] at 9:00 a.m.  The right
+     central venous catheter is unchanged terminating in the distal SVC.  Surgical
+     clips and median sternotomy wires are also present.  There are bilateral chest
+     tubes.  There is a stable right apical pneumothorax, allowing for differences
+     in position.  There is a new left apical pneumothorax.  There is slight
+     clearing of the left lower lobe, with some persistent opacity. There is right
+     lower lobe patchy opacity, which could represent atelectasis.
+     
+     These findings were discussed with Dr. [**First Name (STitle) 6207**] at 9:15 p.m. on [**2661-11-8**].
+
+",,
+14085,25563,17513,,2661-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-8**] 5:53 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6206**]
+     Reason: eval Left lung expansion                                    
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old woman s/p resection mediastinal mass POD#3 w/Right and Left 
+      lateral  chest tubes
+     REASON FOR THIS EXAMINATION:
+      eval Left lung expansion                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left lung resection, evaluate for reexpansion.
+     
+     CHEST, ONE VIEW:  Comparison with [**2661-11-8**] at 9:00 a.m.  The right
+     central venous catheter is unchanged terminating in the distal SVC.  Surgical
+     clips and median sternotomy wires are also present.  There are bilateral chest
+     tubes.  There is a stable right apical pneumothorax, allowing for differences
+     in position.  There is a new left apical pneumothorax.  There is slight
+     clearing of the left lower lobe, with some persistent opacity. There is right
+     lower lobe patchy opacity, which could represent atelectasis.
+     
+     These findings were discussed with Dr. [**First Name (STitle) 6207**] at 9:15 p.m. on [**2661-11-8**].
+
+",,
+14085,25563,17513,0,2661-11-08 05:03:00 EST,2661-11-08 05:18:00 EST,7541,"N",54,"Nursing/Other",,"
+
+please see carevue for all objective data and trends
+
+Neuro: a&ox3, pleasant .Fentanyl gtt @ 15mcg/hr d/c'd secondary to low rr. Only c/o pain with turn. No need for additional pain medication emotional support given. has pillow @ bedside to spint abdomen.
+
+CV: SR-ST 94-120. 7.5mg metoprolol given Q4 hrs as ordered additional 5 mg given @ 1930 and effective. sbp 100-184 at which time metoprolol  ordered dose given and reduced sbp to 130's. pulses palpable x4. R arm edetamous and R hand cool,ruddy in color + sensation gross and fine motor.
+
+Pulm: on 4L nc sats 96-99% One episode of sob neb tx given and effective.pt also became sob with activity though reassurance given and subsided. sats remained 96-99%. Lung sounds Rhoncus and decreased in the bases. Nonproductive wet cough. IS to 750.
+
+GI: Hypoactive bowel sounds, abd soft distended. no flatus no bm. RISS. 2gm mag sulfate given for low mag.
+
+GU: uop >40cc/hr lasix given with good response.
+
+Skin: sternal incision with steristrips, small incision R midchest with staples ota no drain, ct x4 #3#4 dc'd [**11-7**] with serosang drain needing drsg change and [**Name5 (PTitle) 5689**].
+
+Plan: transfer to floor, encourage cdb,is and oob to chair.dc aline, advance to po meds, prn neb tx
+
+",,
+14085,25563,17513,0,2661-11-08 11:23:00 EST,2661-11-08 11:31:00 EST,1946,"N",54,"Nursing/Other",,"
+
+PATIENT DOING WELL , PRACTICALLY ON HER OWN OOB TO CHAIR, SBP TO 95 HR REMAINS IN 110'S , NP [**Doctor Last Name 1172**] AWARE. FAIR DUIRESIS WITH LASIX, 20 MEQ KCL GIVEN D/T K 4.1, PLAN TO CHECK K/BS AT NOON. RESP ON 5LNP WITH SATS 100% PLAN TO WEAN AS TOLERATED, CXR REVEALED ELVATED LDIAPHRAGM PLAN TO GET US  DRAIN IF NEEDED, IP TO BE THIS PM.. PATIENT C/O PAIN WHEN COUGHING, TORADOL 15MG GIVEN WITH 2MG DILAUDID WITH GOOD RESULTS, COUGHING LOOSE SECRETIONS BUT NOT RAISED YET. PLAN TO WALK THIS PM. PATIENT'S DIET ADVANCED TO FULL LIQUIDS !!!!HUSBAND AND [**Name2 (NI) 2155**] INTO VISIT THIS AM..ENT BY ,VOCAL CORD CUT ,PATIENT AWARE WILL EVALUATE AT LATER DATE FOR SURGICAL REPAIR...
+",,
+14085,25563,17513,0,2661-11-08 17:32:00 EST,2661-11-08 17:35:00 EST,2450,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt bronched desated to mid 80's placed on 15l abg drawn and pending.
+",,
+14085,25563,17513,0,2661-11-08 19:02:00 EST,2661-11-08 19:14:00 EST,6870,"N",54,"Nursing/Other",,"
+
+Cardiac: pt in ST all shift, NPO for bronch, HR into the upper 120's, notified [**First Name8 (NamePattern2) 1513**] [**Last Name (NamePattern1) **] APN, order for lopressor 7.5mg IVP, gave 5mg D/T drop in BP, repeated K+ with 10 meq KCL IVPB
+Neuro: A&O X3, denies pain or discomfort, MAE, contact guard transfer chair to bed
+Resp: see flow sheet
+GI/GU: + BS, no BM, foley to gravity, UO borderline
+Social: husband called twice, updated by this writer and MD, no visitors
+Bronch: gave versed 0.5 mg X3 before and during bronch, gave versed sparingly D/T allergies, pt's HR went into upper 120's for a short period along with a B/P in the 140's, RR >30 and SPO2 <90%, EKG showed sl increase in ST elevation, Dr. [**Last Name (STitle) 4607**] aware, procedure stopped, ventilated pt with bag mouth at 100% for 5 minutes, SPO2 >95%, placed on 100% NRB then to NC with good results, pt was lethargic during this episode, currently A&O X3, no SOB noted, pt wants to eat, called and spoke with Dr. [**Last Name (STitle) 4607**] and [**First Name8 (NamePattern2) 1513**] [**Last Name (NamePattern1) **] APN about eating with one paralyzed vocal cord, OK to eat full liquid diet after lidocaine wears off in approximately 2 hours, OK to eat around 8 PM, ABG drawn, Dr [**Last Name (STitle) 4607**] aware no new orders
+",,
+14085,25563,17513,,2661-11-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-9**] 5:53 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6208**]
+     Reason: assess pneumothorax                                         
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman s/p resection mediastinal mass POD#3 w/Right and Left  
+      lateral  chest tubes
+     REASON FOR THIS EXAMINATION:
+      assess pneumothorax                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  Status post resection of mediastinal mass, assess pneumothorax.
+     
+     CHEST:  A single portable AP view of the chest is compared to previous
+     examination of [**2661-11-8**].  The size of the left apical pneumothorax
+     remains stable.  The right apical pneumothorax is slightly smaller.  The
+     position of the right basilar chest tube is unchanged.  There is a layering
+     left pleural effusion with probable subsegmental atelectasis in the left lung
+     base.  The right paracardiac patchy opacity shows no significant change, which
+     may represent pneumonia.  The patient is status post median sternotomy.  There
+     are surgical clips overlying the mediastinum.
+     
+     IMPRESSION:  Biapical pneumothoraces, slightly larger on the left.  No
+     significant change since the previous examination of [**2661-11-8**].  Left
+     pleural effusion with left basilar atelectasis.
+     
+     Right paracardiac parenchymal opacity likely represents pneumonia, no
+     significant change since the previous exam a day ago.
+     
+     There is a right IJ central venous catheter with the tip in SVC.
+                                                                           
+
+             DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+",,
+14085,25563,17513,,2661-11-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-9**] 6:11 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6209**]
+     Reason: s/p ct to bulb sxn, please eval for interval change. PLEASE 
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         69 year old woman s/p resection mediastinal mass POD#3 w/Right and Left   
+      lateral  chest tubes
+     REASON FOR THIS EXAMINATION:
+      s/p ct to bulb sxn, please eval for interval change. PLEASE PERFORM XRAY AT 6PM 
+      TODAY, THANKS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  Status post resection of mediastinal mass.
+     
+     CHEST:  A single AP upright portable exam at 18:40 hours is compared to
+     similar exam earlier from the same day.  Again note is made of biapical small
+     pneumothoraces, unchanged in size.  There is a right-sided chest tube as well
+     as a right IJ central venous catheter terminating at the junction of SVC and
+     right atrium.  In the left lower lobe, atelectasis shows a partial resolution.
+     Again note is made of small left pleural effusion.  The right paracardiac
+     parenchymal opacity shows no significant change since the previous exam.
+     
+     The patient is status post sternotomy, and there are multiple surgical clips
+     overlying the mediastinum.
+     
+     IMPRESSION:  Biapical small pneumothoraces.  No significant change since the
+     previous exam earlier from the same day.  Partial resolution of left lower
+     lobe atelectasis.  Left pleural effusion and pleural thickening without
+     significant change.
+     
+     Right paracardiac parenchymal opacity may represent atelectasis versus
+     pneumonia.
+                                                                           
+
+             DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+",,
+14085,25563,17513,,2661-11-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-9**] 6:11 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6209**]
+     Reason: s/p ct to bulb sxn, please eval for interval change. PLEASE 
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         69 year old woman s/p resection mediastinal mass POD#3 w/Right and Left   
+      lateral  chest tubes
+     REASON FOR THIS EXAMINATION:
+      s/p ct to bulb sxn, please eval for interval change. PLEASE PERFORM XRAY AT 6PM 
+      TODAY, THANKS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  Status post resection of mediastinal mass.
+     
+     CHEST:  A single AP upright portable exam at 18:40 hours is compared to
+     similar exam earlier from the same day.  Again note is made of biapical small
+     pneumothoraces, unchanged in size.  There is a right-sided chest tube as well
+     as a right IJ central venous catheter terminating at the junction of SVC and
+     right atrium.  In the left lower lobe, atelectasis shows a partial resolution.
+     Again note is made of small left pleural effusion.  The right paracardiac
+     parenchymal opacity shows no significant change since the previous exam.
+     
+     The patient is status post sternotomy, and there are multiple surgical clips
+     overlying the mediastinum.
+     
+     IMPRESSION:  Biapical small pneumothoraces.  No significant change since the
+     previous exam earlier from the same day.  Partial resolution of left lower
+     lobe atelectasis.  Left pleural effusion and pleural thickening without
+     significant change.
+     
+     Right paracardiac parenchymal opacity may represent atelectasis versus
+     pneumonia.
+                                                                           
+
+             DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+",,
+14085,25563,17513,0,2661-11-09 04:58:00 EST,2661-11-09 05:04:00 EST,2010,"N",54,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient c/o sob. Albuterol 2.5mg given followed by Atrovent neb 15min later. Patient felt better after neb treatments. Breathsounds are coarse. Cough fair and congested. Checked on patient at 10:30 and she said she was fine and did not need treatment. Patient sleeping most of shift with NARD noted. Please see respiratory section of carevue for further data.
+Plan: Continue bronchodilator treatments as needed.
+",,
+14085,25563,17513,0,2661-11-09 06:13:00 EST,2661-11-09 06:35:00 EST,7541,"N",54,"Nursing/Other",,"
+
+please see carevue for all objective data and trends. 
+
+Neruo: a&ox3. restless at times. pt up to chair with minimal assistance. only c/o pain with coughing. toradol x1 dose given with moderate relief.
+
+CV: pt st 100-120's. metoprolol po also 10 mg iv additional dose given for hr 124-128 decreased to 100's. sbp100-130's. 
+
+pulm: pt c/o ""suffocating ever since bronchoscopy"" though pt in no apparent distress. breathing is nonlabored, regular rate. occ exp wheezing clear by prn neb tx. sats on 5l NC 93-97%. productive cough for thick tan sputum. encourage cool mist face tent to help loosen secretions pt tol x 20 min. Will bronch pt again today. cxr done. ct x 2 draining serosang drain to 20 cm suction.
+
+GI/GU: pt npo for bronch today. pt had video swallow eval yest showing L vocal cord paralysis pt able to pass swallow eval. Occasional cough after thin liquids. riss per thoracic scale no coverage needed. lasix given with good results. uop >30cc/hr. attempted bm without results. no flatus. abd soft distended. k and mag replaced.
+
+skin: ct drsg change for [**Name5 (PTitle) 3136**] serosang drainage. sternal steristrips intact no drain. R mid chest staples without drain ota.
+
+social: husband called throughout night updated.
+
+plan: rebronch today, up to chair, cont to encourage cdb, IS.
+
+
+
+
+",,
+14085,25563,17513,0,2661-11-09 17:29:00 EST,2661-11-09 17:57:00 EST,1527,"N",54,"Nursing/Other","UPDATE","
+UPDATE
+CV: NSR 90'S TO ST 120'S. LOPRESSOR INCREASED TO 37.5MG THIS EVE. BP WNL. L HAND COOL, EDEMATOUS BUT W/ STRONG RAD PULSE. PT FEELING COOL  THIS A.M.-IMPROVED ONCE MOVED TO WARMER ROOM AND STOCKINETTE ""SLEEVES"" MADE BILAT.
+
+RESP: C/O NOT BEING ABLE TO BREATHE IN A.M.(RR AND SPO2 WNL); IMPROVED AFTER LASIX DIURESIS. BRONCH DONE BY DR. [**Last Name (STitle) **] @ 1345. FEWER SECRETIONS REPORTEDLY OBTAINED THAN YESTERDAY. PT SEDATED W/ .5MG MIDAZ IV X 2. LOWEST SPO2 93% ONLY BRIEFLY AFTER, THEN UP TO 96%. RR NEVER BELOW 14. CURRENTLY 100% ON 3L NX O2, RR 20'S. LUNGS SOUNDS CLEARER POST-BRONCH BUR VERY DIMINISHED @ L BASE. BILAT [**Doctor Last Name 1210**] DRAINS PLACED TO BULB SUX BY THORACIC TEAM.
+
+NEURO: A&O. SLEPT ~1HR AFTER BRONCH. DENIES PAIN. OOB TO CHAIR X 2. AMB LOOP AROUND UNIT USING W/C FOR SUPPORT AND MIN ASSIST OF 1. STATES SHE FEELS SHE IS HAVING DIFFICULTY FINDING WORDS; NOT OBJECTIVELY OBSERVED.
+
+G.I.: VERY HUNGRY/THIRSTY DUE TO LENGTHY PERIOD NPO. TOL THIN LIQS AND SOLIDS POST-BRONCH WELL W/O ASPIRATION. ON COMMODE X 2 W/O RESULTS. PASSING SOME FLATUS.
+
+G.U.: LG DIURESIS AFTER A.M. LASIX VIA FOLEY.
+
+SKIN: INTACT. INCISIONS C&D.
+
+SOCIAL: HUSBAND IN FOR ~ 5 HRS. UPDATED BY THORACIC AND PULM TEAM PRE-AND POST BRONCH. DAUGHTER AND SON ALSO VISITED.
+
+A/P: TOL BRONCH BETTER TODAY W/ NO SEDATION RELATED COMPLICATIONS. FEELING OF SOB IMPROVED THIS AFTERNOON. OXYGENATING WELL. TOL INCREASED DIET AND ACTIVITY WELL SO FAR. TIRES EASILY HOWEVER. AWAITING REPEAT CXR SINCE [**Doctor Last Name 1210**] TUBES PLACED TO BULB SUX. CONT TO MONITOR RESP STATUS CLOSELY.
+",,
+14085,25563,17513,,2661-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-10**] 9:10 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6212**]
+     Reason: Please rule out pleural effusion                            
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman s/p resection mediastinal mass POD#3 s/p removal of R and L  
+      chest tubes now w/ increased pain in right chest w/ audible rub on lung 
+      auscultation
+     REASON FOR THIS EXAMINATION:
+      Please rule out pleural effusion                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old female status post resection of mediastinal mass, now
+     postop day #3 with removal of right and left chest tubes and increased pain in
+     the right chest.
+     
+     Portable upright chest radiograph of [**2661-11-10**], at 21:08 is compared
+     to the prior study of [**2661-11-10**], at 18:34.
+     
+     FINDINGS:  There are stable bilateral right and left apical small
+     pneumothoraces.  Again seen is increased opacity overlying the left lung
+     inferiorly that likely represents a combination of effusion and
+     atelectasis/infiltrate.  There is a stable small right pleural effusion.  A
+     right infrahilar opacity represents infection versus atelectasis.
+     
+     IMPRESSION:
+     
+     1.  Bilateral apical pneumothoraces are stable compared to the prior chest
+     radiograph.
+     
+     2.  Stable small right pleural effusion.
+     
+     3.  Left lower lobe opacity likely representing a combination of effusion and
+     atelectasis. Right infrahilar opacity, likely atelectasis. Infectious process
+     is not fully excluded in either of these locations.
+     
+     
+
+",,
+14085,25563,17513,,2661-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-10**] 6:17 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6211**]
+     Reason: Please assess for pneumo/chylothorax                        
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman s/p resection mediastinal mass POD#3 s/p removal of R and L 
+      chest tubes
+     REASON FOR THIS EXAMINATION:
+      Please assess for pneumo/chylothorax                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**11-10**]
+     
+     HISTORY:  Follow up pneumothorax.
+     
+     FINDINGS:  There has been a slight increase in the right apical pneumothorax
+     but is still small.  There has been interval removal of the right chest tube. 
+     There is a small right effusion.  There is increased opacity overlying the
+     left lung inferiorly that likely represents a combination of effusion volume
+     loss with underlying infiltrate.
+                                                                           
+
+",,
+14085,25563,17513,,2661-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-10**] 9:10 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6212**]
+     Reason: Please rule out pleural effusion                            
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman s/p resection mediastinal mass POD#3 s/p removal of R and L  
+      chest tubes now w/ increased pain in right chest w/ audible rub on lung 
+      auscultation
+     REASON FOR THIS EXAMINATION:
+      Please rule out pleural effusion                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old female status post resection of mediastinal mass, now
+     postop day #3 with removal of right and left chest tubes and increased pain in
+     the right chest.
+     
+     Portable upright chest radiograph of [**2661-11-10**], at 21:08 is compared
+     to the prior study of [**2661-11-10**], at 18:34.
+     
+     FINDINGS:  There are stable bilateral right and left apical small
+     pneumothoraces.  Again seen is increased opacity overlying the left lung
+     inferiorly that likely represents a combination of effusion and
+     atelectasis/infiltrate.  There is a stable small right pleural effusion.  A
+     right infrahilar opacity represents infection versus atelectasis.
+     
+     IMPRESSION:
+     
+     1.  Bilateral apical pneumothoraces are stable compared to the prior chest
+     radiograph.
+     
+     2.  Stable small right pleural effusion.
+     
+     3.  Left lower lobe opacity likely representing a combination of effusion and
+     atelectasis. Right infrahilar opacity, likely atelectasis. Infectious process
+     is not fully excluded in either of these locations.
+     
+     
+
+",,
+14085,25563,17513,,2661-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-10**] 6:17 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6211**]
+     Reason: Please assess for pneumo/chylothorax                        
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman s/p resection mediastinal mass POD#3 s/p removal of R and L 
+      chest tubes
+     REASON FOR THIS EXAMINATION:
+      Please assess for pneumo/chylothorax                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**11-10**]
+     
+     HISTORY:  Follow up pneumothorax.
+     
+     FINDINGS:  There has been a slight increase in the right apical pneumothorax
+     but is still small.  There has been interval removal of the right chest tube. 
+     There is a small right effusion.  There is increased opacity overlying the
+     left lung inferiorly that likely represents a combination of effusion volume
+     loss with underlying infiltrate.
+                                                                           
+
+",,
+14085,25563,17513,,2661-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-10**] 8:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6210**]
+     Reason: Please assess for atelectasis/pleural effusion              
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman s/p resection mediastinal mass POD#3 w/Right and Left lateral 
+      chest tubes to bulb suction
+     REASON FOR THIS EXAMINATION:
+      Please assess for atelectasis/pleural effusion                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW
+     
+     HISTORY:  Left lateral chest tube to bulb suction, question interval change.
+     
+     FINDINGS:  There is a small right apical pneumothorax that is slightly
+     increased on today's study compared to the film from the prior day.  The
+     position of the right chest tube is unchanged.  There continues to be volume
+     loss and opacity at both bases that could represent effusion/infiltrate/volume
+     loss.  The right IJ line with tip in the right atrium is unchanged.
+                                                                           
+
+",,
+14085,25563,17513,0,2661-11-10 03:39:00 EST,2661-11-10 03:52:00 EST,2518,"N",54,"Nursing/Other",,"
+
+NEURO:  ALERT AND ORIENTED TO TIME, PLACE AND EVENTS.  MAE, FOLLOWS COMMANDS.  FOCUSED ON BOWELS.  PASSING FLATUS FREQUENTLY.  OFFERED MOM, COLACE, SUPPOSITIORY AT 2200 BUT PT REFUSED.  ""I'LL WAIT UNTIL MORNING.""  0300 ASKING FOR ""SUPPOSITORY.""  NO STOOL REGIME ORDERED.  MOM 30CC PO AT 0300. ""WHEN WILL I GO TO A PRIVATE ROOM WITH A BATHROOM?"" PT REFUSED MULTIPLE OFFERS FOR ATIVAN PO TO HELP HER TO [**Doctor Last Name **].
+
+PULM:  02 AT 3L N/C WITH SATS > 97% ALL SHIFT.  AWOKE C/O ""NOT GETTING ENOUGH OXYGEN.""  02 SATS 98%, NO EVIDENT RESPIRATORY DISTRESS. LUNGS DIMINISHED L BASE. STRAIGHTENED IN BED WITH RELIEF OF SUBJECTIVE COMPLAINT.
+
+CV: SINUS TACH, 104 WHEN ASLEEP UP TO 119 WHEN AWAKE, NO ECTOPY. SEE CAREVUE FOR Q1H VS. TOLERATING INCREASE IN LOPRESSOR TO 37.5MG TID. PALPABLE PEDAL PULSES.  RIJ WNL. [**1-3**]+ EDEMA OF UE PERSIST. ""THAT WON'T GET ANY BETTER. IT'S FROM MY  SURGERY.""   
+
+ENDO:  Q6H SSRI COVERAGE. NO COVERAGE AT 0000 FOR FSBS 129.
+
+GI:  ABDOMEN SOFT, + BS.  PASSING LARGE AMTS OF FLATUS. TAKING SOLIDS AND LIQUIDS WITHOUT PROBLEMS. ""I ATE TOO MUCH.""  MOM GIVEN AT 0300.
+
+GU:  FOLEY TO CD DRAINING QS AMTS CLEAR YELLOW URINE.  LASIX 40MG IV AT 2000 WITH GOOD DIURESIS.
+
+SOCIAL:  HUSBAND CALLED IN AROUND 2100 FOR UPDATE.
+
+PLAN:  OBTAIN BOWEL REGIME THIS AM.  PT WANTS TO TRANSFER TO A ROOM WITH A PRIVATE BATHROOM.  INCREASE ACTIVITY, INCREASE INDEPENDENCE.  AGGRESSIVE PULM HYGIENE. TRANSFER TO [**Hospital Ward Name **] 2. OFFER ATIVAN FOR ANXIETY.
+",,
+14085,25563,17513,0,2661-11-10 15:16:00 EST,2661-11-10 15:35:00 EST,7037,"N",54,"Nursing/Other","CSRU NSG:","
+CSRU NSG:
+
+NEURO:  A&OX3, no neural deficit noted.  Afebrile.
+
+CV:  SR -> ST, no ectopy.  K repleted to 4.5.  VSS.  HR to low 120's in afternoon. 
+
+PULM:  SpO2 96 - 98% 0n O2 @ 3L via NC.  LS Clr -> coarse throughout.   Expectorating tan sputum.  Compliant w/IS & C/DB.  CXR in am.  No bronchoscopy necessary according to Dr. [**Last Name (STitle) **].  Ambulates briskly entire length of hallway X1 with mild SOB, recovers quickly.  ""I feel like overcooked pasta.""  
+
+GU:  Diuresing well from lasix.  Voids on commode, urine clr, yellow.
+
+GI:  Abdomen soft, NT, +BSX4Q.  Eats 100% all meals today.  Small formed, stool X 2 in am, med, formed X1 in afternoon.  
+
+INTEG:  Skin intact, repositions s4elf ad-lib.  OOB -> X3 w/1 person assist.
+
+ASSESS:  Stable postop.
+
+PLAN:  Transfer to floor.  Ambulate, encourage activity, po intake and C/DB/IS.  
+
+
+",,
+14085,25563,17513,0,2661-11-10 16:24:00 EST,2661-11-10 16:30:00 EST,7037,"N",54,"Nursing/Other","CSRU ADDENDUM:","
+CSRU ADDENDUM:
+
+Patient c/o ""I'm suffocating"" at 1600 hrs.  HR 124, SBP 140's, RR low 30's, SpO2 98% on 3L via NC.  LS coarse with + air exchange to all lung fields, LLL wheezes present.  Given albuterol neb X1, lorazepam 0.5mg IVP and metoprolol 50mg po (new order) with good effect.  Patient now appears calm, SpO2 is 97% on 3L via NC.  RR 20's.  ""I feel better.""
+",,
+14085,25563,,,2661-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-11**] 9:18 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6213**]
+     Reason: ?interval change                                            
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old woman with mediastinal mass s/p chemo + XRT, with SOB              
+       
+     REASON FOR THIS EXAMINATION:
+      ?interval change                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST, [**2661-11-11**].
+     
+     COMPARISON:  [**2661-11-10**].
+     
+     INDICATION:  Shortness of breath.  Mediastinal mass.
+     
+     The patient is status post median sternotomy.  Multiple surgical clips overlie
+     the mediastinum and left paramediastinal regions.  There are bilateral small
+     apical pneumothoraces, slightly decreased on the right and without significant
+     change on the left.  There has been interval decrease in size of a left
+     pleural effusion.  There is no significant change in a small right pleural
+     effusion.  There are bilateral lower lobe opacities with air bronchograms,
+     increased on the right in the interval.  Overall, the degree of aeration in
+     the left mid and lower lung zone has improved in the setting of improving left
+     pleural effusion.
+     
+     IMPRESSION:
+     1.  Small biapical pneumothoraces, slightly decreased on the right and
+     unchanged on the left.
+     
+     2.  Decreasing left pleural effusion.
+     
+     3.  Bilateral lower lobe confluent opacities with air bronchograms. 
+     Aspiration or infectious pneumonia should be considered in the appropriate
+     clinical setting.
+
+",,
+14085,25563,,,2661-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-12**] 9:37 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6214**]
+     Reason: ?interval change                                            
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old woman with mediastinal mass s/p chemo + XRT, with SOB               
+       
+     REASON FOR THIS EXAMINATION:
+      ?interval change                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST, [**2661-11-12**]:
+     
+     COMPARISON:  [**2661-11-11**].
+     
+     INDICATION:  Status post resection of mediastinal mass.  Shortness of breath.
+     
+     Small biapical pneumothoraces are again visualized, not significantly changed
+     in the interval.  Cardiac and mediastinal contours are stable in the
+     postoperative period.   Bilateral pleural effusions, small on the right and
+     small-to-moderate on the left are also stable.  Confluent lower lobe opacities
+     with air bronchograms show minimal improvement in the lingula and left lower
+     lobe and no significant change in the right lower lobe.  No new or progressive
+     abnormalities are identified.
+                                                                           
+
+",,
+14085,25563,,,2661-11-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-13**] 10:16 AM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 6215**]
+     Reason: PT WITH LE SWELLING, ? DVT
+     Admitting Diagnosis: THYMIC CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman s/p radical resection of mediastinal mass- now w/ left LE 
+      swelling 
+     REASON FOR THIS EXAMINATION:
+      eval for left DVT                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post radical resection of mediastinal mass, left upper
+     extremity swelling.
+     
+     BILATERAL LOWER EXTREMITY ULTRASOUND:  Grayscale and Doppler ultrasound of the
+     left and right common femoral, superficial femoral, and popliteal veins was
+     performed.  There is normal flow, augmentation, compressibility, and waveform.
+     No intraluminal thrombus is identified.
+     
+     IMPRESSION:  No right or left lower extremity DVT.
+                                                                           
+
+",,
+14085,,,,2661-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-20**] 12:25 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 6217**]
+     Reason: MEDIASTINAL TUMOR, EVAL FOR STERNAL INFECTION.
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old woman with mediastinal tumor, likely thymic carcinoma vs. NSCLC,   
+     REASON FOR THIS EXAMINATION:
+      R/O sternal infection                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EKEK WED [**2661-11-20**] 3:24 PM
+      see report
+      
+      fluid anterior and posterior to chest wall graft.  likely postoperative,
+      cannot exclude infection.
+      
+      enhancement in left pleural space.  postoperative vs metastatic disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old female with mediastinal tumor, likely representing
+     thymic carcinoma.  Suspected sternal infection.
+     
+     TECHNIQUE:  Axial CT imaging of the chest obtained after the intravenous
+     administration of 100 cc of Optiray.  Comparison made to a preoperative CT
+     from [**2660-10-23**].
+     
+     CT OF THE CHEST WITH CONTRAST:  Thrombus is present within the left internal
+     jugular vein and subclavian veins, a finding in keeping with the patient's
+     history of left innominate vein resection. Graft material along the left
+     anterior chest wall along replaces the resected portions of the sternum and
+     several left anterior ribs.  Fluid is present posterior to this graft material
+     within the anterior mediastinum measuring 2.5 x 5.3 cm (series 2, image 20).
+     Fluid is also present anterior to this graft material measuring 6.2 x 2.4 cm
+     (series 2, image 22).  No rim-enhancing fluid collections or gas are seen
+     within the anterior mediastinum.  The superior vena cava is patent.
+     Pericardial thickening, presumably postsurgical in nature, is seen.
+     
+     A small loculated right pleural effusion measures 4.3 x 1.2 cm.  Areas of
+     nodular enhancement within the left pleural space are seen inferiorly (series
+     2, image 46) measuring up to 1 cm in thickness.  Atelectasis is present within
+     the right middle lobe as well as both lung bases.
+     
+     No pulmonary nodules or areas of frank consolidation are seen.
+     
+     In the imaged upper abdomen, limited views of the spleen, liver, adrenal
+     glands, kidneys, and bowel are normal.
+     
+     No bone lesions worrisome for malignancy are seen.  In the superficial soft
+     tissues of the anterior chest wall, a postsurgical defect adjacent to the
+     patient's sternum is seen that contains some gas. The patient's sternotomy
+     wires appear intact.
+     
+                                                                 (Over)
+
+     DATE: [**2661-11-20**] 12:25 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 6217**]
+     Reason: MEDIASTINAL TUMOR, EVAL FOR STERNAL INFECTION.
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Fluid collections position anterior and posterior to the patient's
+     chest wall graft material.  While no gas or rim-enhancing fluid collections
+     are present within the mediastinum or deep soft tissues of the chest, an
+     infectious component in this fluid cannot be excluded.
+     
+     2.  Areas of enhancing pleural thickening within the inferior left pleural
+     space could represent postsurgical change; however, given the patient's
+     history of thymic carcinoma, this could represent pleural-based metastatic
+     disease and close interval followup is suggested.
+     
+     3.  Multiple increased small mediastinal lymph nodes that could be reactive in
+     nature; however, these mediastinal lymph nodes should be monitored on
+     subsequent followup examinations.
+     
+     4.  Thrombus within the left internal jugular [**Last Name (LF) **], [**First Name3 (LF) **] expected finding given
+     the patient's history of innominate vein resection.
+     
+     5.  Small loculated right-sided pleural effusion.
+     
+     
+
+",,
+14085,,,,2661-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-20**] 11:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6216**]
+     Reason: SOB and fever post op                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        68 year old woman with mediastinal mass s/p chemo + XRT, radical thymectomy   
+     REASON FOR THIS EXAMINATION:
+      SOB and fever post op                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORTABLE.
+     
+     INDICATION:  68-year-old woman with mediastinal mass status post chemo and
+     XRT, shortness of breath and fever postop.
+     
+     CHEST PORTABLE:  Comparison is made to a prior study of [**2661-11-12**].  The heart
+     size is difficult to evaluate but is unchanged.  The mediastinal and hilar
+     contours are stable.  There are small bilateral effusions which are stable. 
+     There is plate-like atelectasis in the left mid lung zone which is new. 
+     Overall, there is improved aeration of the lower lobes bilaterally.  The
+     previously identified small apical pneumothoraces have completely resolved.
+     
+     IMPRESSION:  New atelectasis in the left mid lung zone.  No change in the
+     small bilateral pleural effusions.  Opacities in the lung basis bilaterally
+     have improved.
+                                                                           
+
+",,
+14085,,,,2661-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-22**] 8:51 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6218**]
+     Reason: Please assess for effusion.                                 
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old woman with mediastinal mass s/p chemo + XRT, radical thymectomy now 
+      HD3 for return w/ infected wound. Pt has been dyspneic on conversation.
+     REASON FOR THIS EXAMINATION:
+      Please assess for effusion.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mediastinal mass with radiation therapy following thymectomy.
+     Infected wound.  Dyspnea.
+     
+     FINDINGS:  Post-surgical change within the mediastinum including multiple
+     surgical clips, resection of anterior ribs, and median sternotomy wires are
+     present.  Mild failure continues.  Bilateral loculated pleural effusions (left
+     greater than right) are unchanged.  No pneumothorax is seen.  Apical scarring
+     is present.  Atelectasis is seen at the left lung base.
+     
+     IMPRESSION:  Unchanged bilateral loculated effusions, left lower lobe
+     atelectasis, and mild failure compared to [**2661-11-20**].
+
+",,
+14085,,,,2661-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-28**] 9:41 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6219**]
+     Reason: follow up radical thymectomy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old woman with mediastinal mass s/p chemo + XRT, radical thymectomy now
+     REASON FOR THIS EXAMINATION:
+      follow up radical thymectomy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  68-year-old with mediastinal mass, status post thymectomy and XRT
+     and chemo.
+     
+     COMPARISON:  [**2661-11-22**].
+     
+     PA AND LATERAL CHEST RADIOGRAPHS:  Post-surgical changes within the
+     mediastinum are seen including multiple surgical clips and resection of
+     anterior ribs.  Median sternotomy wires are seen.  There are decreasing
+     bilateral pleural effusions.  Decreasing bibasilar atelectasis.  Apical
+     scarring is unchanged.  Note is made of posterior displacement of the superior
+     sternal fragment, unchanged compared to the prior examination but new
+     compared to earlier postoperative radiographs.
+     
+     IMPRESSION:
+     
+     1.  Decreasing bilateral pleural effusions and bibasilar atelectasis.
+     
+     2.  Posterior displacement of the superior sternal fragment compared to the
+     inferior sternal fragment.
+     
+     These findings were paged to Dr. [**First Name4 (NamePattern1) 6220**] [**Last Name (NamePattern1) 6221**] at 11:00 a.m.
+
+",,
+14085,,,,2661-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-12-12**] 10:36 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6222**]
+     Reason: follow up radical thymectomy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old woman with mediastinal mass s/p chemo + XRT, radical thymectomy now
+     REASON FOR THIS EXAMINATION:
+      follow up radical thymectomy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS
+     
+     INDICATION:  68-year-old woman with mediastinal mass status post chemotherapy
+     and XRT.
+     
+     CHEST, TWO VIEWS:  Comparison is made to a prior study of [**2661-11-28**].  The heart
+     is normal in size.  The mediastinal and hilar contours are stable.  The
+     pulmonary vasculature is normal.  In comparison to the prior study there has
+     been resolution of the bilateral pleural effusions.  There is slight blunting
+     of the left costophrenic angle likely representing scarring.  The previously
+     identified posterior displacement of the suprasternal fragment is not as well
+     seen today.
+     
+     IMPRESSION:  Resolution of the previously identified pleural effusions and
+     stable post-surgical changes in the chest.
+                                                                           
+
+",,

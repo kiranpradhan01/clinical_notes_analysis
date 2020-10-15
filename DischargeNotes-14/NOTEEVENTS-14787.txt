@@ -1,0 +1,897 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14787,5448,,,2738-06-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2738-6-23**]              Discharge Date:   [**2738-7-18**]
+ 
+Date of Birth:  [**2664-8-16**]             Sex:   F
+ 
+Service: CMED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 6223**] 
+Chief Complaint:
+73 y.o. pt. presented c worsening CHF.
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization - stable CAD
+
+ 
+History of Present Illness:
+73 y.o. F c multiple medical problems presented c acute 
+pulmonary edema/ CHF exacerbation. 
+ 
+Past Medical History:
+CAD
+CRI
+PVD
+CHF
+Parkinson's.
+atrial fibrillation
+GERD
+Depression.
+Polymyalgia rheumatica
+Gout.
+ 
+Social History:
+Pt. widowed. 3 daughters and 1 son.
+ 
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+See discharge summary proper.
+ 
+Pertinent Results:
+see discharge summary proper.
+ 
+Brief Hospital Course:
+As per discharge summary. The pt. returned to the floor to the 
+CMED service from the CCU on [**7-13**]. On [**7-14**], pt. developed 
+worsening shortness of breath and her medication regimen was 
+tailored appropriately.  Over the course of that night, the pt. 
+had expressed to her family her desire to be made comfort 
+measures only.  On [**7-15**], all cardiac medications were 
+discontinued and the patient was placed on a morphine drip for 
+pain control.  She remained on the morphine drip and appeared 
+comfortable and in no distress over the course of the next 3 
+days.  On the morning of 6/28, the pt. was discovered to be 
+pulseless, apneic and had fixed and dilated pupils.  She was 
+pronounced dead at 0635 on [**2738-7-18**].  Her family was 
+notified. A post-mortem examination was deferred.
+ 
+Medications on Admission:
+As above.
+ 
+Discharge Medications:
+Not applicable.
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Doctor Last Name **] Nursing & Rehabilitation Center - [**Location (un) 607**]
+ 
+Discharge Diagnosis:
+n/a
+ 
+Discharge Condition:
+n/a
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+n/a
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 6227**] MD [**MD Number 2864**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1912**] MD [**MD Number 1913**] [**2738-7-20**] @ 0936
+Signed electronically by: DR. [**First Name (STitle) **] BURGER
+ on: WED [**2738-7-20**] 10:31 AM
+(End of Report)
+
+
+",,
+14787,5448,,,2738-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-6-24**] 12:29 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12411**]
+     Reason: for pre op                                                  
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      for pre op                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73 year old pre-op for vascular surgery.
+     
+     PA AND LATERAL RADIOGRAPH.  No prior studies for comparison.
+     
+     The lung volumes are slightly reduced.  The cardiac and mediastinal contours
+     are within normal limits.  There are increased interstitial opacities and
+     septal thickening seen in both lung fields diffusely.  There are no focal
+     consolidations or definite pleural effusions.  The patient is post median
+     sternotomy and CABG with sternal wires and surgical clips seen.  The osseous
+     structure demonstrate degenerative changes, as well as a compression deformity
+     of an upper-lumbar vertebral body.
+     
+     IMPRESSION:  Findings consistent with congestive heart failure.  Upper lumbar
+     compression deformity of indeterminate age.
+
+",,
+14787,5448,,,2738-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-6-24**] 3:53 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 12412**]
+     Reason: respiratory distress - please eval for progression of pulmon
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with diastolic dysfunction CABG [**44**] years ago                  
+     REASON FOR THIS EXAMINATION:
+      respiratory distress - please eval for progression of pulmonary edema           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to previous study of earlier the same date.
+     
+     CLINICAL INDICATION:  Respiratory distress.
+     
+     The cardiac silhouette is mildly enlarged but stable.  There remains pulmonary
+     vasculature engorgement.  There has been interval worsening of perihilar
+     haziness with developing confluent areas of air space opacification in these
+     regions.  This is superimposed upon a previously noted diffuse interstitial
+     pattern.
+     
+     IMPRESSION:  Findings suggestive of worsening pulmonary edema with developing
+     areas of alveolar opacification in the perihilar regions.
+     
+
+",,
+14787,5448,,,2738-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14787,5448,,,2738-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-6-24**] 3:53 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 12412**]
+     Reason: respiratory distress - please eval for progression of pulmon
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with diastolic dysfunction CABG [**44**] years ago                  
+     REASON FOR THIS EXAMINATION:
+      respiratory distress - please eval for progression of pulmonary edema           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to previous study of earlier the same date.
+     
+     CLINICAL INDICATION:  Respiratory distress.
+     
+     The cardiac silhouette is mildly enlarged but stable.  There remains pulmonary
+     vasculature engorgement.  There has been interval worsening of perihilar
+     haziness with developing confluent areas of air space opacification in these
+     regions.  This is superimposed upon a previously noted diffuse interstitial
+     pattern.
+     
+     IMPRESSION:  Findings suggestive of worsening pulmonary edema with developing
+     areas of alveolar opacification in the perihilar regions.
+     
+
+",,
+14787,5448,,,2738-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 12413**]
+     Reason: CAD EVALUATION.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-three year old female with known CAD, who presents for  
+     preoperative evaluation prior to vascular surgery.   
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB: 
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142
+     mg/kg/min. Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV. 
+     The patient had intermittent [**3-30**] chest tightness during infusion. 
+     There were no ST changes. 
+      
+     INTERPRETATION:  
+     Image Protocol: Gated SPECT. 
+     Resting perfusion images were obtained with thallium-201. 
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+      
+     Stress images show moderate perfusion defects in the anterior and lateral walls.
+      The anterior wall defect resolved completely on resting images, and the
+     lateral wall defect partially resolves.  
+      
+     Ejection fraction calculated from gated wall motion images obtained after
+     Dipyridamole administration is 41%, with global hypokinesis. 
+      
+     IMPRESSION:  1) Moderate, reversible anterior wall defect.  2) Moderate,
+     partially reversible lateral wall defect.  3) Global hypokinesis with EF 41%.   
+      
+     The findings were conveyed to Dr. [**Last Name (STitle) 4672**], at the time of interpretation. 
+     /nkg 
+                                                                           
+
+             [**First Name8 (NamePattern2) 477**] [**Name8 (MD) 478**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1218**] [**Last Name (NamePattern1) 1219**], M.D.     Approved: TUE [**2738-6-28**] 1:41 PM
+
+
+             Date Mailed: [**2738-6-29**]                     West [**Medical Record Number 12414**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+14787,5448,,,2738-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-6-27**] 10:28 AM
+     [**Last Name (un) 516**] DUP EXTEXT BIL (MAP/DVT); [**Last Name (un) 516**] DUP EXTEXT BIL (MAP/DVT)      Clip # [**Clip Number (Radiology) 12415**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: PRE OP VEIN MAP UPPER AND LOWEER EXTR
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with bilateral lower extremity non-healing ulcers. She has 
+      had right greater saphenous vein harvest for CABG. 
+     REASON FOR THIS EXAMINATION:
+      vein map upper and lower extremity.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 73-year-old female with bilateral lower extremity nonhealing
+     ulcers. Status post right greater saphenous vein harvesting for CABG.
+     
+     REFERRING PHYSICIAN: [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) 12416**].
+     
+     On the right, the cephalic vein is patent measuring 0.44 cm near the shoulder
+     to 0.44 cm near the antecubital fossa. The right basilic vein is patent
+     measuring 0.35 cm near the brachiobasilic junction to 0.54 cm near the
+     antecubital fossa.
+     
+     On the left, the cephalic vein is patent measuring 0.25 cm near the shoulder
+     to 0.35 cm near the antecubital fossa. The left basilic vein is patent
+     measuring 0.5 cm near the brachiobasilic junction to 0.61 cm near the
+     antecubital fossa.
+     
+     On the right lower extremity, the greater saphenous vein is thrombosed from
+     the midthigh to below the knee. Around the saphenofemoral junction, the vein
+     (4 to 5 cm) measures from 0.31 cm to 0.27 cm. Interrogation of the lesser
+     saphenous vein demonstrates the vein to be thrombosed.
+     
+     On the left lower extremity, the greater saphenous vein has been previously
+     harvested. The left lesser saphenous vein is patent measuring from 0.25 cm
+     near the popliteal insertion to 0.28 cm distally.
+     
+     IMPRESSION: Bilateral upper/lower extremity vein mapping as described.
+
+",,
+14787,5448,,,2738-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-6-27**] 10:28 AM
+     [**Last Name (un) 516**] DUP EXTEXT BIL (MAP/DVT); [**Last Name (un) 516**] DUP EXTEXT BIL (MAP/DVT)      Clip # [**Clip Number (Radiology) 12415**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: PRE OP VEIN MAP UPPER AND LOWEER EXTR
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with bilateral lower extremity non-healing ulcers. She has 
+      had right greater saphenous vein harvest for CABG. 
+     REASON FOR THIS EXAMINATION:
+      vein map upper and lower extremity.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 73-year-old female with bilateral lower extremity nonhealing
+     ulcers. Status post right greater saphenous vein harvesting for CABG.
+     
+     REFERRING PHYSICIAN: [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) 12416**].
+     
+     On the right, the cephalic vein is patent measuring 0.44 cm near the shoulder
+     to 0.44 cm near the antecubital fossa. The right basilic vein is patent
+     measuring 0.35 cm near the brachiobasilic junction to 0.54 cm near the
+     antecubital fossa.
+     
+     On the left, the cephalic vein is patent measuring 0.25 cm near the shoulder
+     to 0.35 cm near the antecubital fossa. The left basilic vein is patent
+     measuring 0.5 cm near the brachiobasilic junction to 0.61 cm near the
+     antecubital fossa.
+     
+     On the right lower extremity, the greater saphenous vein is thrombosed from
+     the midthigh to below the knee. Around the saphenofemoral junction, the vein
+     (4 to 5 cm) measures from 0.31 cm to 0.27 cm. Interrogation of the lesser
+     saphenous vein demonstrates the vein to be thrombosed.
+     
+     On the left lower extremity, the greater saphenous vein has been previously
+     harvested. The left lesser saphenous vein is patent measuring from 0.25 cm
+     near the popliteal insertion to 0.28 cm distally.
+     
+     IMPRESSION: Bilateral upper/lower extremity vein mapping as described.
+
+",,
+14787,5448,,,2738-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-6-29**] 4:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12417**]
+     Reason: evaluate for chf                                            
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with diastolic dysfunction CABG [**44**] years ago                 
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate for chf                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 73-year-old with shortness of breath, assess for congestive
+     heart failure.
+     
+     PORTABLE UPRIGHT FRONTAL RADIOGRAPH:  Comparison [**2738-6-24**].
+     
+     The cardiac and mediastinal contours are unchanged.  There is improved
+     congestive heart failure with decreased interstitial markings and decreasing
+     perihilar haziness.  No new focal consolidations or effusions.  There is no
+     pneumothorax.
+     
+     IMPRESSION:  Improving congestive heart failure.  No consolidation or
+     effusion.  Cardiomegaly with improving congestive heart failure on a
+     background of diffuse interstitial disease.
+     
+     
+
+",,
+14787,5448,,,2738-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-6-30**] 11:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12418**]
+     Reason: worsening tachypnea + dyspnea, pls assess interval change.  
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old woman with diastolic dysfunction CABG [**44**] years ago, recent 
+      episode of flash PE, now with worsening tachypnea.                   
+     REASON FOR THIS EXAMINATION:
+      worsening tachypnea + dyspnea, pls assess interval change.                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old post-CABG increasing shortness of breath.
+     
+     PORTABLE SEMIUPRIGHT FRONTAL RADIOGRAPH.  Comparison [**6-24**] and [**2738-6-29**]
+     
+     Cardiac and mediastinal contours are unchanged.  There is slight improvement
+     in congestive heart failure compared to 1 day prior.  Linear atelectatic
+     changes are seen in the lingula.  No new focal consolidations are seen.  There
+     is no pneumothorax.
+     
+     IMPRESSION:  Improving congestive heart failure.  Stable cardiomegaly.
+
+",,
+14787,5448,18375,0,2738-06-30 18:03:00 EST,2738-06-30 18:26:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ADMISSION FOR HEART FAILURE","
+CCU NSG NOTE: ADMISSION FOR HEART FAILURE
+S: ""I'm glad I don't have to have that proceedure""
+O: This 73yold female was admitted to [**Hospital1 10**] of [**6-23**] with bilateral foot ulcers. She went into pulmonary edema during angiogram and was transfered to c-med. She has know LAD lesion from MIBI. She was in failure and was on natricor and heparin. Her creatinine bumped from 1.3 to 1.9 on [**6-29**] and natricor was stopped. She had chest pain [**6-29**] in the evening with changes that resolved with 2 SL nitros. She was tranfered to CCU today for swan. After arriving it was decided not to swan her. She may receive cath tomorrow. 
+CV: Hr has been 50-60s SB/NSR. BP has ranged 140-180-50s. She was bolused with natricor at 1830 and is on a drip at .01mic/kilo. BP now in 130s/50s. Heparin was begun without a bolus at 1900. She may have cath tomorrow if creatinine goes down.
+RESP: She has rales throughout. She is sating 95-98% on 4L NP. She has difficulty lying flat for long periods of time.
+RENAL: Foley draining fluid at 12-45cc/hr. 
+GI: Pt has poor apetite and ate little for dinner. She is NPO after midnight.
+ENDO: Pt received usual NPH dose of 60u NPH and ss regular insulin of 4u at 1700. She will have finger stick later tonight.
+ID/SKIN: Pt afebrile. She received vanco dose. Dsgs on feet dry and in tact. Multipodus boots are on feet. When in bed she needs to be on her side.
+MS: PT A & O X 3. She is limited due to foot ulcers. 
+A: Started natricor and heparin
+P: NPO after midnight. Check finger stick. Monitor VS. 
+",,
+14787,5448,18375,0,2738-07-01 05:33:00 EST,2738-07-01 05:42:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:breath sounds=deminished throughout. wo co sob/dyspnea. tolerates lying flat-?ability to tolerate for long period of time. hemody stable. heparin gtt increased to 1150u/hr for ptt-36.7--am ptt pending. npo after mn-?cardiac cath. fsbs covered-0000 214 8u reg & 0600 156 2u reg. am nph held-?decreased dose if going to cardiac cath. nesiritide gtt increased to 0.03mcg/kg/min-wo significant increase in uo-sl neg since 2300. am bun/creat pending. afebrile. very pleasant/ cooperative.
+
+a:stable throughout night. nesiritide increased wo signif increase uo. 
+
+p:?cardiac cath. ?[**1-21**] am nph dose if going to cath. ck am labs. support as indicated.
+",,
+14787,5448,18375,0,2738-07-01 13:06:00 EST,2738-07-01 13:30:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/FOOT ULCERS","
+CCU NSG NOTE: ALT IN CV/FOOT ULCERS
+S: ""I just don't have much of an apetite.""
+O: For complete vs see CCU flow sheet.
+ID: Pt afebrile. Q48 vanco given at 5pm [**6-30**].
+CV: Pt has been pain free and without SOB since admission. Natricor conts at .03 mic/kilo of natricor and heparin at 1150u/hr. While the plan is for catheterization they would like her creatinine to decrease more before giving dye load. She received 40mg IV lasix at 1030 with only fair results.
+RESP: She continues to have rales up ~[**1-21**], but is sating beter now being 98-99% on 3L NP. She can lie nearly flat comfortably.
+RENAL: Despite diuresis she is only 100cc neg for the day and 400cc pos LOS. 
+GI: Pt has poor apetite. She ate no breakfast after cath was cancelled
+but did eat lunch. No BM.
+ENDO: She had 1/2 dose NPH at breakfast plus 4u reg insuin. At noon blood sugar was 249. She received 12u reg insulin. She should get usual dose of NPH at ~5pm.
+SKIN: Dsgs done to feet. All wounds on feet are very dry and scabbed over. Both heel are red with minmal breakdown. Coccyx area dsg done. Area appears somewhat mascerated. New duoderm applied. We turned her side to side every 2 hours. 
+MS: Pt A & O X 3, is very pleasant. She states her feet ache much of the time. Tylenol gives her adequate relief and she received it at 8 and noon.
+A: More stable on natricor/fair response to lasix/cath next week
+P: Continue with present regimine. Diruess as tolerated. Monitor blood sugars closely. Support pt and family.
+",,
+14787,5448,18375,0,2738-07-01 20:42:00 EST,2738-07-01 20:51:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S.  C/O GENERALIZED ACHES AND PAINS, FOOT WOUNDS SORE TO TOUCH 
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+CV:  HR 60'S SR, NO VEA, BP 140-160'S/30-60'S, HEPARIN AT 1150U/HR, NATRECOR AT 0.03MCGS/KG, NO C/O CP/SOB
+
+RESP:  SATS 96-98% ON 3L N/C, LUNGS DIMINISHED W/FEW CRACKLES AT BASES
+
+RENAL:  URINE OUTPUT ~ 50-75CC/HR, -200CC TODAY, 300+ LOS
+
+GI:  TOLERATING CARDIAC DIET IN SMALL AMOUNTS
+
+SOCIAL: DAUGHTERS IN TO VISIT IN AFTERNOON
+
+A: RESPONDING WELL TO NATRECOR
+
+P:  MONITOR FLUID STATUS, CONTINUE FOLLOW VITAL SIGNS, ASSESS S/SX 
+ISCHEMIA, FOLLOW CREATININE, AWAITING CATH WHEN RENAL FUNCTION IMPROVES, CALLED OUT TO [**Hospital Ward Name **] [**2-22**]; CONT SUPPORTIVE CARE.
+",,
+14787,5448,18375,,2738-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-2**] 1:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12419**]
+     Reason: assess PICC location                                        
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman s/p PICC placement                                            
+     REASON FOR THIS EXAMINATION:
+      assess PICC location                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: PICC line placement.
+     
+     COMMENT: Portable AP radiograph of the chest is reviewed, and compared with
+     the previous study of [**2738-6-30**].
+     
+     The tip of the PICC line is not clearly seen, which is probably in the right
+     atrium.
+     
+     There is worsening of mild congestive heart failure with cardiomegaly. Patchy
+     atelectasis is seen in the lung bases. The patient has prior CABG and median
+     sternotomy.
+
+",,
+14787,5448,18375,,2738-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-2**] 4:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12420**]
+     Reason: PICC POSITION                                               
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman s/p PICC placement/READJUSTMENT                              
+                   
+     REASON FOR THIS EXAMINATION:
+      PICC POSITION                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, 1 VIEW, PORTABLE:
+     
+     INDICATION:  73 year old woman status post PICC line placement.
+     
+     COMMENTS:  A portable AP radiograph of the chest is reviewed, and compared
+     with the previous study of 2:02 P.M.
+     
+     The tip of the left-sided PICC line is identified in the right atrium.
+     
+     There is continued mild congestive heart failure with cardiomegaly.  The
+     patient had prior CABG and median sternotomy.  No pneumothorax is identified.
+     
+     IMPRESSION:  The tip of the left-sided PICC line is in the right atrium.
+
+",,
+14787,5448,18375,0,2738-07-02 06:03:00 EST,2738-07-02 06:30:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+11 PM - 7 AM
+REST ANGINA 
+S COMPLAINTS OF COCCYX PAIN  AND FOOT PAIN
+O PLS SEE CAREVIEW FLOWSHEET FOR ALL OBJ/NUMERICAL DATA 
+CV HR 60'S SINUS ..RARE PVC..SBP 150'S/30'S..ON NATRECOR AT .03 MCGS
+HEPARIN AT 1150 U/HR ..DENIES CHEST PAIN OR SOB
+RESP ON 3L NP ..WITH SCX 1/2 UP BILAT 
+GI TOLERATING SIPS OF CLEAR LIQUIDS 
+GU URINE OUTPUT 30-40 CC Q1
+GIVEN ONE PERCOCET FOR LOWER BACK PAIN 
+DSGS TO LOWER EXTREMITIES INTACT 
+INTAKE/OUTPUT EVEN AT MIDNIGHT 
+A/P PIC LINE NEEDED PRE-CATH 
+",,
+14787,5448,18375,0,2738-07-02 14:11:00 EST,2738-07-02 14:20:00 EST,492,"N",1,"Nursing/Other","CCU NURSING 0700-1500","
+CCU NURSING 0700-1500
+S.  SOB W/LYING FLAT
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+CV:  HR 50-60'S SR - TOLERATED TOPROL XL 25MG TODAY, IV NTG STARTED AND INCREASED TO .5 MCGS, BP 120-170/SYSTOLIC
+NATRECOR REMAINS AT 0.03 MCGS/KG - U/O 30-40CC/HR, ABOUT EVEN FOR DAY/LOS, BUN/CR 35/1.6 TODAY, AWAITING IMPROVEMENT IN RENAL FUNCTION PRIOR TO CATH/INTERVENTION FOR FIXED DEFECT ON MIBI
+
+RESP:  LUNGS FEW BASILAR CRACKLES, O2 AT 2L N/C W/SATS 96-99%, RR 20-30
+
+GI:  NO STOOL, TAKING IN V. SM AMTS CARDIAC/DIABETIC DIET
+
+ENDOCRINE:  RECEIVING USUAL NPH DOSE AND SS REGULAR INSULIN FS 142-239
+
+GU:  FOLEY DRAINING CLEAR YELLOW URINE
+
+SOCIAL:   2 DAUGHTERS IN TO VISIT, APPEAR SUPPORTIVE
+
+SKIN:  BILAT [**Last Name (un) 2988**] WOUNDS ALL DRY W/O DRAINAGE - DSD DRESSINGS CHANGED THIS AM
+
+A:  STABLE DESPITE DIFFICULTY DIURESING PATIENT
+    AWAITING IMPROVEMENT IN CR TO GO TO CATH/ANGIO
+
+P:   ASSEESS VS - TITRATE IV NTG TO SBP/S/SX ISCHEMIA
+   MONITOR HEMODYNAMICS, FLUID STATUS ON NATRECOR, CONT SUPPORTIVE CARE, AWAIT CATH - ? MONDAY, EMOTIONAL SUPPORT/PT TEACHING RE: CONDITION/PROCEDURES.  
+",,
+14787,5448,18375,,2738-07-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-3**] 2:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12421**]
+     Reason: picc line placement                                         
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old woman s/p PICC placement/READJUSTMENT                             
+                     
+     REASON FOR THIS EXAMINATION:
+      picc line placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73 y/o woman status post PICC line placement.
+     
+     COMMENT:  Portable AP radiograph of the chest is reviewed and compared with
+     previous study of yesterday.
+     
+     The tip of the left sided PICC line is now located in the superior vena cava.
+     
+     
+     There is slight improvement of the pulmonary edema.  There is continued
+     cardiomegaly.  No pneumothorax is identified.  The patient has prior CABG and
+     median sternotomy.
+     
+     IMPRESSION:   The tip of the left sided PICC line now in the superior vena
+     cava.
+     
+
+",,
+14787,5448,18375,0,2738-07-03 05:25:00 EST,2738-07-03 05:54:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+7 PM - 7 AM
+REST ANGINA 
+S C/O LOWER BACK PAIN...BILAT CALF PAIN
+O PLS SEE CAREVIEW FLOWSHEET FOR ALL OBJ/NUMERICAL DATA 
+CV HR 50'S....SINUS ..SBP 110-130'S/30-40'S..DENIES CP OR SOB..HEPARIN AT 1150 U/HR ..NATRECOR AT .03 MCGS ..
+LUNGS WITH  RALES 2/3 UP ON LEFT ...1/2 UP ON THE RIGHT ...02 SAT 98% ON 3L NP..GIVEN LASIX 60 MG  IV TIMES ONE WITH U/O OF ONLY 200 CC ...AM BUN/CREAT PNDG..
+GI NO ISSUES 
+COMFORT TURNED Q3 HOURS WITH MAX ASSIST OF 2 ..PT VERY DEBILITATED  AND STIFF ...LOWER BACK DECUB SITE WITH DUODERM ...ALSO C/O TO FEET/TOE/CALF PAIN ...RELIEVED WITH PERCOCET ..
+PERSISTENT CHF ON NATRECOR WITH CHRONIC RENAL INSUFF 
+P NEEDS CATH 
+AGGRESSIVE DIURESIS 
+LOWER EXTREMITY [**Hospital 6496**] 
+REHAB 
+
+",,
+14787,5448,18375,0,2738-07-03 11:26:00 EST,2738-07-03 11:28:00 EST,96,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+see transfer note and flowsheet for today's note. 
+",,
+14787,5448,,,2738-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-6**] 4:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12422**]
+     Reason: r/o PTX                                                     
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          73 year old woman with diastolic dysfunction CABG [**44**] years ago, recent   
+      episode of flash PE, now with worsening tachypnea.                   
+     REASON FOR THIS EXAMINATION:
+      r/o PTX                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73 y/o with pulmonary edema, assess for pneumothorax.
+     
+     PORTABLE SEMI-UPRIGHT FRONTAL RADIOGRAPH:
+     
+     Comparison is made to [**2738-7-3**].
+     
+     Cardiac and mediastinal contours are unchanged with stable cardiomegaly.
+     There has been slight improvement in congestive heart failure pattern seen on
+     the prior studies.  There is a minimal amount of linear atelectasis in the
+     lingular region.  There are no focal consolidations.  No pneumothorax is
+     identified.
+     
+     IMPRESSION:   Cardiomegaly with improved congestive heart failure.  No
+     pneumothorax.
+     
+     
+     
+
+",,
+14787,5448,,,2738-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-9**] 7:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12423**]
+     Reason: evaluate for worsening chf                                  
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           73 year old woman with diastolic dysfunction CABG [**44**] years ago, recent    
+      episode of flash PE, now with worsening tachypnea, wheezing.                   
+     REASON FOR THIS EXAMINATION:
+      evaluate for worsening chf                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: History of pulmonary edema with worsening tachypnea. Status post
+     CABG.
+     
+     Allowing for suboptimal detail, there is CHF and probable pulmonary edema.
+     Linear atelectasis is present in the left mid zone.
+
+",,
+14787,5448,,,2738-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-9**] 8:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12424**]
+     Reason: s/p intubation, pls assess ETT position                     
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old woman with severe chf, more sob today, hypercapnic resp failure.  
+                                                          
+     REASON FOR THIS EXAMINATION:
+      s/p intubation, pls assess ETT position                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of CHF with increasing shortness of breath and respiratory failure.
+     
+     Status post CABG.  Endotracheal tube is 1 cm above the carina. Tip of PICC
+     line is in mid SVC.  Tip of NG tube is in region of pyloroduodenal junction.
+     There is cardiomegaly and pulmonary vascular engorgement consistent with CHF.
+     Patchy ill defined opacities  are present in both upper zones consistent with
+     pulmonary edema.  No pneumothorax.
+     
+     IMPRESSION: CHF and pulmonary edema.
+
+",,
+14787,5448,18376,,2738-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-10**] 7:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12425**]
+     Reason: pls assess ETT position, interval change                    
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         73 year old woman with severe chf, more sob today, hypercapnic resp failure. 
+                                                            
+     REASON FOR THIS EXAMINATION:
+      pls assess ETT position, interval change                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of CHF, respiratory failure and intubation.
+     
+     Left PICC line overlies the distal SVC.  No pneumothorax.  There is
+     cardiomegaly.  Since the prior film of [**2738-7-9**] there has been some
+     improvement with resolution of the bilateral interstitial pulmonary edema.
+
+",,
+14787,5448,18376,,2738-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-10**] 4:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12426**]
+     Reason: evidence of volume overload                                 
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          73 year old woman with severe chf, more sob today, hypercapnic resp 
+      failure.                                                        
+     REASON FOR THIS EXAMINATION:
+      evidence of volume overload                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of CHF with increased shortness of breath and respiratory
+     failure.
+     
+     COMPARISON:  Film of same day.
+     
+     CHEST, SINGLE AP FILM: Compared with the film of the same day, there has been
+     worsening of the CHF with increased bilateral pulmonary opacities, indicative
+     of worsening pulmonary edema. PICC line is in distal SVC. No pneumothorax.
+     
+     IMPRESSION:  Increased CHF and pulmonary edema since prior film of same date.
+
+",,
+14787,5448,18376,0,2738-07-10 05:21:00 EST,2738-07-10 06:01:00 EST,1258,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTES","
+CCU NURSING PROGRESS NOTES
+S:INTUBATED
+O:PT WAS RECENTLY TRANSFERED FROM THIS UNIT TO [**Hospital Ward Name **] 3. PT NOW IN ACUTE -PULM EDEMA REQUIRING INTUBATION. OFF NATRECOR AND LASIX BECAUSE OF DECREASE  SODIUM AND FAILURE TO DIURES. LUNGS W/ CRACKLES BILAT UP HALF. SUCTIONED FOR THICK PALE YELL SECTRETIONS. LARGE AMT OF ORAL SECRETIONS. ETT PULL OUT 1CM AND RETAPED BY RESP. SETTINGS AC/600/40/14/8 W/ IMPROVED ABG 7.47-35-216-26. AM RISBI 49. PT CURRENTLY ON PSV 10/5 WITH VOL 400S RR17, SATS>98. 
+CV:SB 49-TO 50S WHILE AT REST. DISTALLY PULSES WEAKLY AUDIBLE W/ [**Last Name (un) **]. EXTREMITIES COOL. MULTIPLE ALINE INSERTION ATTEMPS.RIGHT BRACHIAL ALINE INSERTED.  RIGHT HAD VERY PALE COLD. ABLE TO DETECT SATAND  PLETH WAVEFORM FROM RIGH HAND. BP HYPERTENSIVE 160-170S.
+GI:DR 300CC GASTRIC LIQ. HEME NEG. OGT PLACEMENT CONFIRMED. 
+GU:HAS TO RESPONDED TO LASIX DR. [**Last Name (STitle) 6497**] AWARE. 
+ENDO:AM BS 129, SODIUM REMAINS LOW.
+SKIN: 2 PRESSURES SORES IN COCCYX AND RIGHT BUTTOCKS, SEE CARE VUE, SKIN WOUND IN RIGHT GREAT TOE AND RIGHT LAT FOOT ARE PROB VASCULAR WOUNDS. LEFT FOOT 2ND TOE W/ PROB DIABETIC ULCER. 
+A/P:EXTENSIVE CARDIAC HISTORY INCLUDING CABG, MI, CARDIOMEGALY, CHF, CRI,DM.PVD. TRANSFERED TO CCU AFTER FLASH PULM EDEMA ON FLR. INTUBATED. CPK NEG BUT TROP 0.18.PLAN TO CORRECT ACIDOSIS, CONTROL BP W/ IV NTG, SEDATION AND IV HYDRALAZINE. SBP DOWN TO 140. U/O REMAINS OLIGURIC. ATTEMPT TO WEAN AND EXTUBATE TODAY. ATTEMPT DIURESIS AGAIN. VASCULAR WILL NEED TO FOLLOW PT FOR SURGICAL INTERVENTION OF FOOT ULCER WHEN PT IS STABLE. PT WILL ALSO REQUIRE REHAB.     
+",,
+14787,5448,18376,0,2738-07-10 10:23:00 EST,2738-07-10 10:24:00 EST,102,"N",1,"Nursing/Other",,"
+
+resp care
+pt weaned and extubated following successful spont breathing trial. +cough,+cuff leak. maintaining sat>97% on 50% face tent/cool neb.
+",,
+14787,5448,18376,0,2738-07-10 15:50:00 EST,2738-07-10 15:57:00 EST,104,"N",1,"Nursing/Other","CCU progress note 7a-5p","
+CCU progress note 7a-5p
+Weaned to Extubation this morning at 11am.  Tolerated well.. good ABGs. Weaned to shovel mask 40% FIO2 sats 99%. VSS. weaned off NTG gtt. taking oral meds. 
+
+4pm-5pm - Feamily @ bedside. Pt became diaphoretic + dyspneic - RR 20-30s. Sats dropped to mid 80s. Pt encouraged to cough - very congested non productive cough - sats improved to 97% - increased FIO2 to 70%. Neb Tx given by Resp for wheezes - no effect. NTsx for scant secretions. CXR. Talked to family - pt had been DNI at OSH - discussed w/ proxy and with patient. pt stating she did not want breathing tube replaced and understood she could die if she did not get the ETT. Daughter/proxy aware - family discussed and wanted to have pt DNI + made comfort - CMO. Given morphine for comfort. pt non-responsive now - but more comfortable - RR 20s sats low 90s. family at bedside. 
+
+PLAN: emotional support to family. Comfort measures. MSO4 prn. 
+",,
+14787,5448,18376,,2738-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-11**] 3:45 PM
+     RENAL U.S. PORT                                                 Clip # [**Clip Number (Radiology) 12427**]
+     Reason: pls carry out doppler study to assess for renal artery steno
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with CHF, DM, s/p CABG, s/p multiple caths, PAD/PVD s/p SFA 
+      stent.  Patient with refractory HTN, episodes of flash pulm edema.  Unable to 
+      lye flat for MR study.
+     REASON FOR THIS EXAMINATION:
+      pls carry out doppler study to assess for renal artery stenosis.                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Refractory hypertension, status post multiple caths with
+     peripheral vascular disease/pulmonary edema and unable to lie flat for MRI
+     study.
+     
+     There are no prior studies for comparison.
+     
+     RENAL ULTRASOUND:  The right kidney measures 11.0 cm.  The left kidney
+     measures 10.7 cm.  There are no hydronephrosis or masses.   There are several
+     shadowing echogenic foci within the right kidney, possibly representing small
+     non-obstructing stones.
+     
+     Color and duplex examination of the kidneys was performed for evaluation of
+     the renal vasculature.  The examination was somewhat limited due to the
+     patient's inability to breath-hold.  Several normal-appearing wave forms are
+     demonstrated bilaterally with normal upstroke and diastolic flow.  Normal
+     resistive indices are demonstrated.
+     
+     IMPRESSION:
+     1.  No hydronephrosis or masses.
+     2.  Limited duplex examination of the kidneys with demonstration of several
+     normal-appearing wave forms making the diagnosis of renal artery stenosis
+     unlikely.
+
+",,
+14787,5448,18376,,2738-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14787,5448,18376,0,2738-07-11 05:55:00 EST,2738-07-11 06:06:00 EST,1258,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:NON VERBAL
+O:PT AROUSED WHEN NAME CALLED, NOT VERBALLY RESPONDING. PT TO HAVE CMO. PT LETHARGIC BUT AROUSABLE. W/ GOOD SATS MOST OF NOC. SATS DROPPED TO 90, POSTERIOR ORAL PHARYNX SUCTIONED, HOB ELEVATED HIGHER, WITH IMPROVMENT OF SATS. MS 4MG GIVEN FOR COMFORT. FAMILY LEFT EARLY LAST PM AND PLANS TO COME BACK THIS AM. 
+A/P:PROVIDE EMOTIONAL SUPPORT TO FAMILY, CONSIDER D/CING HEPARIN, DISCUSS HOSPICE CARE FOR PT W/ FAMILY. SEE CARE VUE FOR ADDITIONAL INFOR.
+",,
+14787,5448,18376,0,2738-07-11 17:02:00 EST,2738-07-11 17:40:00 EST,96,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+s- I ache all over
+o- status- fx meeting, then mds spoke to pt in room w/fx present. pt wants to be dni, no painful procedures or any requiring needle sticks. as mds discussed w/fx- pt made dnr. 
+team/rn also decided in room no nt sx'ing or ngt for meds. pt agreed to try to take po meds.  
+id- t max 98.6 ax, down to 98.4po, was diaphoretic/clammy off/on. vanco level added on and pnd. c+s sputum showed oro. flora. cont. on contact precautions.
+cv- hr 60s-70 sr, after lopressor 25mg down to 40s-52 sb. lopressor decreased to 12.5mg. bp 107-148/. k-4.4. hct 30.5. ptt 74.4. cont on heparin 1100units/hr. started on natrecor at .01mic. 
+resp- on 45%face tent, sats high 90s then dropped to 80s during am, increased to 100%cool face tent and 4l n/c with sats up to high 90s, face tent off this pm and cont. sat 99-100 on 4l n/c. l/s coarse, junky upper and dim lower. congested cough fair to good effort, denies coughing up sputum. sx back throat- no sputum. 
+gu/renal- creat up to 2.4 today. u/o 8-24cc/hr. pos. 150cc today, pos. about 2100cc los. had portable renal us this pm, results pnd. 
+gi- abd sl. distended, soft. able to take po meds 1 at time slowly w/intermittent coughing/clearing of throat. other pos (food) held d/t pt sleepy most time, risk of aspiration. no bm.
+dm- bs up to 260 max, covered w/reg insulin qid, no nph given d/t npo, ho aware. 
+skin- cont. same w/dry blk areas on feet/heels/toe, dsd changed to feet after betadine swab. coccyx area- duoderm intact. has generalized body edema. repos side to side q2-3hrs w/skin care. has ecchymotic, dry scabbed areas on arms/hands. arms positioned on pillows, prefers no multipodis boots on, feet/lower legs up on a pillow. 
+pain/comfort- c/o pain as above, mso4 2mg ivp x1 given w/effect. 
+ms- answers questions appropriately, otherwise offers little conversation, slept off/on most day, easily arousable. 
+social- fx in all day, supportive to pt. fx updated on pt status, treatments/meds etc. 
+a- started on natrecor, u/o remains low. dnr cont. no aggressive/painful procedures. 
+p- cont. natrecor, increase to .02mic per ho as bp tolerates. hold lopressor per ho, follow low hr. dnr, cont. fs, no nt sx'ing, no ngt.
+cont. to give po meds as tolerated. cont. comfort measures, mso4 prn as ordered.   
+
+",,
+14787,5448,18376,0,2738-07-12 03:51:00 EST,2738-07-12 04:05:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I'm sore all over ""
+O:  ID:  afeb.  vanco lvl 13.9.
+
+CV:  HR 50's SB. no VEA.  BP 107-150/30's.  isordil held in eve for SBP<110.  given at 0400 for elevated BP with good effect. 
+natracor increased to .03mcq/k/min in late eve without bolus.  u/o only 25-35cc/hr.  +2L LOS.  
+heparin 1100u/hr.  
+
+pt. denies CP.  c/o mild SOB at 0400, crackles at bases, fine exp. wheezes.  exam unchanged from previous.  given .5mg IV morphine.  pt. appears comf. breathing.  sats 99-100% on 4lnc.  
+
+taking meds well with water.  
+rare congested cough, nonproductive.  
+
+FS 172- 4uregular.
+gauze dsg on bilat foot ulcers intact. (change QD).  duoderm intact on coccyx.  
+
+neuro:  A/Ox2  follows commands.  engages in conversation. states needs.  2 daughters visiting until ~ 2100.  called at 2300.
+
+A:  no change in u/o on increase dose natracor.  
+    morphine for comfort good effect. 
+    good oxygenation
+P:  follow phos, lytes, PTT.  contin. isordil, natracor.  hold lopressor in AM - check with team.  family/pt. support.  morphine for comfort.
+",,
+14787,5448,18376,0,2738-07-12 16:14:00 EST,2738-07-12 16:33:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/RENAL/RESP","
+CCU NSG NOTE: ALT IN CV/RENAL/RESP
+S: ""I think I am better today.""
+O: For complete VS see CCU flow sheet.
+ID: Pt afebrile. Vanco level 24.9 today so she did not receive a dose.
+CV: HR 60s down to the 50s after 12.5 lopressor. BP stable in 110-140/40s. She continues on Natrecor 0.03 mic/kilo and heparin 1100u /hr. She has no c/o of chest pain or acute sob.
+RESP: Pt is oxygenating better today and has been sating 96-100% on 3L NP. She was wheezy and received a neb treatment and has far fewer wheezes and feels better. She continues to have rales ~1.3 up. She  received another neb RX at 5:30. 
+GI: She continues to have a very poor apetite,but did eat a few bites of cereal and drank some frappe for lunch. She needs to be fed. 
+RENAL: Urine output remains poor. She received diuris 500mg iv at 1230 and lasix 200mg at 1pm with only fair u/o. She is ~300cc pos for the day and 2400cc pos LOS. BUN/Creat today were 56/2.6.
+ENDO: Finger sticks increasing with last FS at 5pm was 358 and she received 22u reg insulin at 5:15.
+SKIN: Dsg done to feet today. Wounds on great toe on right foot is dry, but does not seem to be  healing. Wound on lateral side of R foot is also clean and dry, but does not seem to be healing. Ulcer on second toes of L foot is red, but not draining. Dsgs done Q day.She has duoderm on coccyx covering small open area. It was changed today.
+ MS: Pt continues to have flat affect. She is oriented X 2 and cooperative. She needs assistance with position changes.She was a complete lift OOB to chair today and enjoyed the change of position.
+Her family was in to visit her.
+A: Elevated blood sugar/poor response to diuretic/improved resp status
+P: Monitor blood sugars closely. ?Restart NPH in am? Assist pt eating and with position changes. Support pt and familyh.
+",,
+14787,5448,,,2738-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2738-7-13**] 4:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12428**]
+     Reason: pls eval for chf                                            
+     Admitting Diagnosis: RIGHT FOOT ULCER-CELLULITIS-DIABETES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           73 year old woman with severe chf, now worsening sob and jaw pain          
+                                                    
+     REASON FOR THIS EXAMINATION:
+      pls eval for chf                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old with congestive heart failure.
+     
+     PORTABLE UPRIGHT FRONTAL RADIOGRAPH.  Comparison [**2738-7-10**]
+     
+     Cardiac and mediastinal contours are unchanged. There are increasing bilateral
+     alveolar and interstitial opacities consistent with worsening CHF.  No
+     pneumothorax is identified.  The site of PICC line is unchanged in position.
+     Sternotomy wires are also unchanged in appearance.
+     
+     IMPRESSION:  Worsening CHF.
+
+",,

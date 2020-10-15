@@ -1,0 +1,2382 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14622,13900,,,2764-09-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2764-9-11**]     Discharge Date:  [**2764-9-13**]
+
+Date of Birth:   [**2690-6-13**]     Sex:  M
+
+Service:  GENERAL SURGERY GOLD
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 10968**] is a 74-year-old
+male, who is status post pylorus preserving
+pancreaticoduodenectomy [**2764-8-25**] by Dr. [**Last Name (STitle) **], who
+presented to the Emergency Department after two episodes of
+melanic stools.  The patient had been having normal,
+nonbloody bowel movements since the time of discharge from
+this hospital on [**2764-9-2**].  The patient states that he began
+developing abdominal pain which was sharp in nature without
+radiation and located in the epigastrium at approximately 6
+pm, the day prior to admission.  He states that this pain was
+relieved with a bowel movement.  The patient denied nausea,
+vomiting, fevers, and chills, but did complain of diaphoresis
+and dizziness.  There was no history of fall or loss of
+consciousness.
+
+At the time of arrival, the patient's vitals are 114/67,
+blood pressure in the supine position which became 100/palp
+in the sitting position.  The patient received 1 liter of
+normal saline in route to the hospital, which relieved his
+dizziness.  The patient did have symptoms of urinary
+retention on [**2764-9-4**], and was seen at [**Hospital3 708**], where
+Foley catheter was placed.  Of note, the patient saw his
+urologist the day prior to admission, who recommended that
+the Foley catheter remain in place for approximately [**3-2**] more
+weeks.
+
+PAST MEDICAL HISTORY:
+1. Periampullary carcinoma status post pylorus preserving
+pancreaticoduodenectomy [**2764-8-25**].
+2. Hypertension.
+3. Gastroesophageal reflux disease.
+4. Pancreatitis.
+5. Urinary retention.
+6. Remote history of thyroglossal cyst removal.
+
+MEDICATIONS:
+1. Protonix 40 mg po q day.
+2. Vicodin prn pain.
+3. Metoprolol 25 mg po bid.
+4. Lisinopril 5 mg po q day.
+5. Colace 100 mg po bid.
+6. ........... 10 mg po qid.
+7. Flomax 0.4 mg po q hs.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 97.8, blood
+pressure 119/79, heart rate 83, respiratory rate 20, and
+oxygen saturation 100% on 2 liters.  General:  Patient is
+calm, comfortable, and in no acute distress.  HEENT:
+Anicteric sclerae, pink conjunctivae, clear oropharynx, dry
+mucous membranes.  Neck is supple and nontender, no
+lymphadenopathy.  Heart:  Regular, rate, and rhythm without
+murmurs.  Lungs are clear to auscultation bilaterally.
+Abdomen is soft, nondistended, and nontender, normoactive
+bowel sounds.  There are Steri-Strips in the epigastrium
+which are clean, dry, and intact.  Rectal examination reveals
+normal tone, positive gross blood, no stool.  Genitourinary
+examination:  Normal external genitalia.  There is a Foley
+catheter in place.  Extremities:  No clubbing, cyanosis, or
+edema, 2+ dorsalis pedis pulses bilaterally.
+
+LABORATORIES:  Hematocrit 24.3, which was down from 36.0 on
+the date of discharge.  PT 13.2, PTT 25, INR 1.2.
+
+ELECTROCARDIOGRAM:  Normal sinus rhythm at 80 beats per
+minute, there is an isolated ST depression in lead V3.  This
+is similar to his prior electrocardiogram.
+
+HOSPITAL COURSE:  The patient presented to the Emergency
+Department on [**2764-9-11**].  The patient was resuscitated with IV
+fluids and required 5 units of packed red blood cells to
+maintain his hematocrit.  In the Emergency Department, a
+nasogastric tube was placed, which revealed coffee-grounds,
+but no active bleeding.  The patient was started on IV
+Protonix, and was admitted to the Intensive Care Unit for
+monitoring.
+
+On the date of admission, the patient was taken to the GI
+Laboratory, where endoscopy was performed.  This demonstrated
+a single oozing 6 mm ulcer in the anastomotic site of the
+jejunal limb with an adherent clot.  The clot was removed and
+hemostasis was achieved using Epinephrine and electrocautery.
+
+The patient spent one night in the Intensive Care Unit for
+monitoring, was started on clear liquids the following day,
+and was transferred to the [**Hospital3 **] floor in good
+condition.  The patient maintained stable vital signs, was
+able to tolerate a house diet, and maintained his hematocrit
+at 34 x2.  He was then discharged to home on [**2764-9-13**] in
+stable condition, and told to followup with Dr. [**Last Name (STitle) **] in
+approximately one week.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  The patient is discharged to home.
+
+DISCHARGE DIAGNOSES:
+1. Status post pylorus preserving pancreaticoduodenectomy.
+2. Upper gastrointestinal bleed.
+3. Hypertension.
+4. Gastroesophageal reflux disease.
+5. Pancreatitis.
+6. Urinary retention.
+7. Status post thyroglossal cyst removal.
+
+DISCHARGE MEDICATIONS:
+1. Pantoprazole 40 mg po bid.
+2. Metoprolol 12.5 mg po bid.
+3. Lisinopril 5 mg po q day.
+4. Vicodin prn pain.
+5. Colace 100 mg po bid.
+6. Reglan 10 mg po qid.
+7. Flomax 0.4 mg po q hs.
+
+FOLLOW-UP PLANS:  The patient was instructed to followup with
+Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] in approximately one week.  He was told to
+see his outpatient urologist for Foley catheter removal.  He
+was told to followup with his primary care physician
+regarding the dosing of his blood pressure medications.  He
+was also instructed to return to the Emergency Department if
+he developed blood in his stool, dizziness, or
+lightheadedness.
+
+
+
+                          [**First Name8 (NamePattern2) 296**] [**Name8 (MD) 3279**], M.D.  [**MD Number 3280**]
+
+Dictated By:[**Last Name (NamePattern1) 6446**]
+
+MEDQUIST36
+
+D:  [**2764-9-13**]  11:47
+T:  [**2764-9-15**]  09:00
+JOB#:  [**Job Number 10969**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 296**] [**Name (STitle) 3279**]
+ on: WED [**2764-9-23**] 1:57 PM
+(End of Report)
+
+
+",,
+14622,13900,18177,0,2764-09-11 14:56:00 EST,2764-09-11 15:15:00 EST,187,"N",1,"Nursing/Other",,"
+
+74 YR OLD PT AT HOME 1 WEEK SP WHIPPLE  [**8-25**] FOR PNACREATIC CA ,PASSED 2 BLOODY STOOLS ,FELT LIGHTHEADED .HCT 24 IN ER.TOATL 4 UNITS PC GIVEN AS OF 3PM HCT PENDING .EGD DONE .ULCER C CLOT AT ANASTOMOSES INJECTED C EPINEPHERINE AND BICAP DONE .BLEEDING CONTROLLED BUT HEMOSTASIS TENUOUS
+
+SR NO ECT.BP STABLE .3PM HCT PENDING 
+
+BS CLEAR SAT 96 RM AIR 
+
+NG DC .PASSED 1 BERGUNDY STOOL SINCE ADMIT .NO NAUSEA OR VOMITING ABD SOFT.HEALED INCISION C STERI STRIPS .TAKES VICODAN FOR PAIN AT HOME 3 X DAY .MSO4 ORDERED HERE . NO CO PAIN AT PRESENT. NPO ,PASSING FLATUS  
+
+ALERT,COOPERATIVE 
+
+STABLIZING POST GI BLEED 
+
+SERIAL HCTS MED PAIN PRN 
+
+
+",,
+14622,13900,18177,0,2764-09-11 21:47:00 EST,2764-09-11 21:48:00 EST,118,"N",1,"Nursing/Other","CCU NPN 7-11pm","
+CCU NPN 7-11pm
+Hct stable at 29.3, no stools this eve. Denies pain. NPO. requested ice chips and sleeper. Not alowed anything po. Given Ativan 1mg IV to help [**Doctor Last Name 8**] at 2230.
+",,
+14622,13900,18177,0,2764-09-12 05:36:00 EST,2764-09-12 05:42:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+11 PM - 7 AM
+S/P  GI BLD 
+S  NO COMPLAINTS 
+O PLS SEE CAREVIEW FLOWSHEET FOR  ALL OBJ/NUMERICAL DATA 
+CV HR  70-80'S...SBP 140-160'S/60'S...
+RESP ON ROOM AIR ..WITH 02  SAT ...98%..LUBGS WITH BIBAS CXS...NON PROD COUGH 
+GI NPO ..DENIES NAUSEA...NO  STOOL ...
+GU URINE OUTPUT > 200 CC Q2 ..
+HCT 29..TRANSFUSED WITH ONE UNIT PRBCS  OVER 2 H
+SLEPT
+A HEMODYN  STABLE 
+P FOLLOW HCT ...
+",,
+14622,,,,2764-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-9-15**] 1:20 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11099**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o intra-abdominal abscess, 3wks s/p pylorus -preserving, p
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with recurrent pancreatitis as above. Please give gastrograffin
+      PO and IV contrast. Full po prep not required as related to radiology staff. 
+     REASON FOR THIS EXAMINATION:
+      r/o intra-abdominal abscess, 3wks s/p pylorus -preserving
+      pancreaticoduodenectomy with purulent drainage from wound.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DCsc TUE [**2764-9-15**] 3:49 PM
+      INTRA-ABDOMAINAL FLUID COLLECTION / ABCESS AT SURGUCAL INCISION
+      MILDLT DILATED PROX DUODENUM
+      GASTRO-JEJ A-ok.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CT ABDOMEN AND PELVIS WITH IV CONTRAST.
+     
+     INDICATION:  Post pylorus-sparing Whipple with wound infection.
+     
+     TECHNIQUE:  Helically-acquired images were obtained from the lung bases
+     through the pubic symphysis after 150 cc Optiray.  Non-ionic contrast was
+     provided due to the patient's generalized debility.  Coronal images were
+     constructed.
+     
+     CT ABDOMEN AFTER IV CONTRAST:  There is atelectasis at the lung bases and tiny
+     bilateral pleural effusions.  There is atelectasis adjacent to an ectatic
+     aorta.
+     
+     The patient's open wound is seen to the right of midline in the upper abdomen.
+     Beneath the incision, inferior to the liver and adjacent to the pancreato-
+     jejunal anastamosis is a low- density fluid collection that is nearly
+     completely surrounded by a thin enhancing rim. The collection measures
+     approximately 7 cm in width and ranges in depth from 2 cm to 4 cm. There is
+     mild thickening of the jejunum at the anastamosis with the pancreas.  The
+     proximal aspect of the jejunum is dilated to 3 cm and is mildly thickened. The
+     jejunum tapers to normal caliber anterior to the aorta.
+     
+     Contrast passes through the gastrojejunostomy into the small bowel and colon.
+     There are no dilated loops of bowel.  There is no bowel wall thickening.  The
+     sigmoid colon is collapsed but there is no evidence of bowel wall thickening.
+     
+     CT PELVIS AFTER IV CONTRAST:  The kidneys, adrenal glands, remaining pancreas,
+     and spleen are normal  Granulomas are see in the spleen and liver.  There are
+     scattered nodes within the mesentery and retroperitoneum. The bladder contains
+     a Foley and is collapsed. There is no free pelvic air or pelvic fluid.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2764-9-15**] 1:20 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11099**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o intra-abdominal abscess, 3wks s/p pylorus -preserving, p
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     1) Loculated fluid collection anterior to the transposed jejunum in the lesser
+     sac, adjacent to the surgical incision.  Concerning for abcess vs leak.
+     
+     2) Mildly distended transposed jejunum which tapers to normal caliber anterior
+     to the aorta. 
+     
+     3) No obstruction.  Free passage of contrast through the gastrojejunostomy.
+     
+     4) No evidence of perforation.
+     
+     5) Stable granulomas within the liver and spleen, indicative of prior
+     granulomatous disease.
+
+",,
+14622,,,,2764-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-9-15**] 5:34 PM
+     CT PERITONEAL DRAINAGE; CT FINE NEEDLE ASP                      Clip # [**Clip Number (Radiology) 11100**]
+     CT GUIDANCE DRAINAGE
+     Reason: Please drain fluid collection, send fluid for culture, gram 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p Whipple procedure [**8-25**] presents to ED with wound infection 
+      found to have large fluid collection around jejunal anastomosis concern for 
+      leak vs abscess.
+     REASON FOR THIS EXAMINATION:
+      Please drain fluid collection, send fluid for culture, gram stain, Amylase 
+      level.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74 y/o man status post Whipple procedure on [**8-25**], now
+     presenting with wound infection.
+     
+     COMPARISON:  The exam is being compared with abdominopelvic CT performed on [**2764-9-15**].
+     
+     TECHNIQUE:  Contiguous axial images were acquired at 7 mm intervals through
+     the level of the pelvis.  No IV or oral contrast was used.
+     
+     Written informed consent was acquired from the patient.  Using the usual
+     sterile technique, the patient was prepped and draped.
+     
+     CT LOCALIZATION:  Using CT fluoroscopy, a previously described collection was
+     identified posterior to the inferior liver margin.
+     
+     CT GUIDED NEEDLE INSERTION:  Using CT [**Month Day 11101**], a 22-gauge needle was inserted
+     into the collection.  Approximately 10 cc of purulent material were drained.
+     
+     CT GUIDED CATHETER INSERTION:  Using CT [**Last Name (LF) 11101**], [**First Name3 (LF) **] 8 French general purpose
+     catheter was placed within the collection.  There were no complications during
+     or immediately after the procedure.
+     
+     At the end of the procedure, continuous drainage of purulent material was
+     observed.
+     
+     Dr. [**Last Name (STitle) 851**], staff radiologist, was present during the entire procedure and
+     directly supervised it.
+     
+     IMPRESSION:  Successful CT guided drainage of a previously mentioned intra-
+     abdominal collection.
+     
+     
+
+",,
+14622,,,,2764-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-9-15**] 5:34 PM
+     CT PERITONEAL DRAINAGE; CT FINE NEEDLE ASP                      Clip # [**Clip Number (Radiology) 11100**]
+     CT GUIDANCE DRAINAGE
+     Reason: Please drain fluid collection, send fluid for culture, gram 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p Whipple procedure [**8-25**] presents to ED with wound infection 
+      found to have large fluid collection around jejunal anastomosis concern for 
+      leak vs abscess.
+     REASON FOR THIS EXAMINATION:
+      Please drain fluid collection, send fluid for culture, gram stain, Amylase 
+      level.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74 y/o man status post Whipple procedure on [**8-25**], now
+     presenting with wound infection.
+     
+     COMPARISON:  The exam is being compared with abdominopelvic CT performed on [**2764-9-15**].
+     
+     TECHNIQUE:  Contiguous axial images were acquired at 7 mm intervals through
+     the level of the pelvis.  No IV or oral contrast was used.
+     
+     Written informed consent was acquired from the patient.  Using the usual
+     sterile technique, the patient was prepped and draped.
+     
+     CT LOCALIZATION:  Using CT fluoroscopy, a previously described collection was
+     identified posterior to the inferior liver margin.
+     
+     CT GUIDED NEEDLE INSERTION:  Using CT [**Month Day 11101**], a 22-gauge needle was inserted
+     into the collection.  Approximately 10 cc of purulent material were drained.
+     
+     CT GUIDED CATHETER INSERTION:  Using CT [**Last Name (LF) 11101**], [**First Name3 (LF) **] 8 French general purpose
+     catheter was placed within the collection.  There were no complications during
+     or immediately after the procedure.
+     
+     At the end of the procedure, continuous drainage of purulent material was
+     observed.
+     
+     Dr. [**Last Name (STitle) 851**], staff radiologist, was present during the entire procedure and
+     directly supervised it.
+     
+     IMPRESSION:  Successful CT guided drainage of a previously mentioned intra-
+     abdominal collection.
+     
+     
+
+",,
+14622,,,,2764-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-9-15**] 1:20 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11099**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o intra-abdominal abscess, 3wks s/p pylorus -preserving, p
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with recurrent pancreatitis as above. Please give gastrograffin
+      PO and IV contrast. Full po prep not required as related to radiology staff. 
+     REASON FOR THIS EXAMINATION:
+      r/o intra-abdominal abscess, 3wks s/p pylorus -preserving
+      pancreaticoduodenectomy with purulent drainage from wound.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DCsc TUE [**2764-9-15**] 3:49 PM
+      INTRA-ABDOMAINAL FLUID COLLECTION / ABCESS AT SURGUCAL INCISION
+      MILDLT DILATED PROX DUODENUM
+      GASTRO-JEJ A-ok.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CT ABDOMEN AND PELVIS WITH IV CONTRAST.
+     
+     INDICATION:  Post pylorus-sparing Whipple with wound infection.
+     
+     TECHNIQUE:  Helically-acquired images were obtained from the lung bases
+     through the pubic symphysis after 150 cc Optiray.  Non-ionic contrast was
+     provided due to the patient's generalized debility.  Coronal images were
+     constructed.
+     
+     CT ABDOMEN AFTER IV CONTRAST:  There is atelectasis at the lung bases and tiny
+     bilateral pleural effusions.  There is atelectasis adjacent to an ectatic
+     aorta.
+     
+     The patient's open wound is seen to the right of midline in the upper abdomen.
+     Beneath the incision, inferior to the liver and adjacent to the pancreato-
+     jejunal anastamosis is a low- density fluid collection that is nearly
+     completely surrounded by a thin enhancing rim. The collection measures
+     approximately 7 cm in width and ranges in depth from 2 cm to 4 cm. There is
+     mild thickening of the jejunum at the anastamosis with the pancreas.  The
+     proximal aspect of the jejunum is dilated to 3 cm and is mildly thickened. The
+     jejunum tapers to normal caliber anterior to the aorta.
+     
+     Contrast passes through the gastrojejunostomy into the small bowel and colon.
+     There are no dilated loops of bowel.  There is no bowel wall thickening.  The
+     sigmoid colon is collapsed but there is no evidence of bowel wall thickening.
+     
+     CT PELVIS AFTER IV CONTRAST:  The kidneys, adrenal glands, remaining pancreas,
+     and spleen are normal  Granulomas are see in the spleen and liver.  There are
+     scattered nodes within the mesentery and retroperitoneum. The bladder contains
+     a Foley and is collapsed. There is no free pelvic air or pelvic fluid.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2764-9-15**] 1:20 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11099**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o intra-abdominal abscess, 3wks s/p pylorus -preserving, p
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     1) Loculated fluid collection anterior to the transposed jejunum in the lesser
+     sac, adjacent to the surgical incision.  Concerning for abcess vs leak.
+     
+     2) Mildly distended transposed jejunum which tapers to normal caliber anterior
+     to the aorta. 
+     
+     3) No obstruction.  Free passage of contrast through the gastrojejunostomy.
+     
+     4) No evidence of perforation.
+     
+     5) Stable granulomas within the liver and spleen, indicative of prior
+     granulomatous disease.
+
+",,
+14622,5260,,,2764-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with DESCENDING AO. DISSECTION                                  
+     REASON FOR THIS EXAMINATION:
+      CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74 year old man with descending aortic dissection.
+     
+     COMPARISON:  Examination is being compared with the prior CT performed on
+     [**2764-9-15**].
+     
+     TECHNIQUE:  Contiguous axial images were acquired through the chest, abdomen,
+     and pelvis at 5 mm intervals before the administration of IV contrast. Then,
+     contiguous axial images were acquired through this same region at 5 mm
+     intervals after the uneventful administration of 100 cc of Optiray contrast
+     media intravenously after rapid bolus injection.
+     
+     CTA OF THE AORTA AND CT RECONSTRUCTIONS:  Multiplanar and volume rendering
+     reconstructions were performed at the workstation and significantly enhanced
+     the evaluation of this case.
+     
+     There is significant atheromatous disease.
+     
+     There is evidence of a complex [**Location (un) 5272**]-type B dissection at the inferior
+     thoracic/upper abdominal aorta where a true and false lumen are clearly
+     visualized and filled with contrast.  These are visualized between the mid
+     thoracic aorta and the superior abdominal aorta for a length of approximately
+     8.6 cm.  An apparently thrombosed false lumen is seen medial to the upper
+     thoracic aorta extending from just distal to the takeoff of the left
+     subclavian artery inferiorly to the mid thoracic aorta for a length of
+     approximately 12 cm.  Active contrast extravasation is seen into this
+     apparently thrombosed false lumen at least at 3 locations.
+     
+     An ulcerated atheromatous plaque is seen at the inferior aspect of the aortic
+     arch, measuring 1.6 x 1.0 cm.  A larger focal ulcerated plaque/flap is seen at
+     the anterior distal thoracic/upper abdominal aorta and does not appear to
+     extend cephalad or caudally.  An additional ulcerated plaque is seen inferior
+     to the origin of the right renal artery and measures 1.3 cm in diameter.  
+     
+     The diameter of the aorta at the level of the upper abdominal aorta, just
+     superior to the take off of the celiac axis is 3.7 cm.  It tapers down to 2.8
+     x 2.6 cm at the level of the right renal artery origin.  An infrarenal aortic
+     aneurysm is not seen.
+     
+     The celiac axis and branches, superior mesenteric artery and branches and the
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     renal arteries are patent and demonstrate normal vascular distribution.  The
+     proximal inferior mesenteric artery is likewise patent.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  The apices were not completely imaged on
+     this chest CTA.  Emphysematous changes are seen at the lung apices.  There is
+     evidence of bilateral pleural effusions with associated compressive
+     atelectasis, worse on the left side.  No lung masses are visualized.  Multiple
+     anterior mediastinal lymph nodes are seen, the largest measuring 1.1 x 0.6 cm
+     in diameter.  Small precarinal lymph nodes are seen showing evidence of hilar
+     fat within.
+     
+     No significant axillary lymphadenpathy is seen.
+     
+     CT ABDOMEN WITH AND WITHOUT IV CONTRAST:  Multiple calcified granulomas are
+     seen within the liver.  No liver masses are seen.  There is no evidence of
+     intra or extrahepatic biliary duct dilatation.  A normal gallbladder is not
+     seen.  Various small calcified granulomas are also seen at the spleen.  The
+     adrenal glands, and pancreas are normal.  The kidneys demonstrate symmetric
+     contrast enhancement and excretion.  A simple renal cyst is seen on the right
+     side measuring 1.3 x 0.8 cm in diameter.  There is no evidence of
+     hydronephrosis.
+     
+     No significant intraperitoneal or retroperitoneal lymph nodes are seen.
+     
+     CT PELVIS WITH/WITHOUT INTRAVENOUS CONTRAST:  A Foley catheter is seen within
+     the bladder.  The prostate measures 4.9 x 2.9 cm in diameter.  The rectum is
+     unremarkable.  There is no evidence of pathologic intrapelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Other than degenerative changes of the spine, no suspicious
+     osseous lesions are seen.
+     
+     IMPRESSION:
+     
+     There is evidence of a complex [**Location (un) **] type B aortic dissection as described
+     above.  Areas of contrast extravasation are seen into an apparently thrombosed
+     false lumen.  Multiple ulcerated atheromatous plaques are seen, specifically
+     at the aortic arch and the superior aspect of the abdominal aorta.
+     
+     There are bilateral pleural effusions with associated compressive atelectasis.
+     
+     The prostate gland is enlarged.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+14622,5260,,,2764-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-21**] 12:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11102**]
+     Reason: R/O INFILTRATES                                             
+     Admitting Diagnosis: DISSECTING ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      R/O INFILTRATES                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cough, rule out infiltrate.
+     
+     VIEWS:  Single AP view of the chest, no prior studies.
+     
+     FINDINGS:  There is slight left ventricular enlargement without evidence of
+     overt heart failure. The aorta is tortuous. There is left lower lobe
+     collapse/consolidation with a layering left pleural effusion. Atelectasis is
+     present at the right base. No pneumothorax is present. The soft tissues and
+     osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1) Left lower lobe collapse/consolidation with associated layering pleural
+     effusion.
+     2) Right basilar atelectasis.
+     3) Cardiomegaly without evidence of overt heart failure.
+
+",,
+14622,5260,,,2764-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-21**] 9:42 PM
+     CTA CHEST W&W/O C &RECONS; -76 BY SAME PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 11104**]
+     CT 100CC NON IONIC CONTRAST; -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? PE                                                        
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with anuerysmal dissection and ? PE.                            
+     REASON FOR THIS EXAMINATION:
+      ? PE                                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST WITH CONTRAST
+     
+     INDICATION: 74 year old male with aneurysmal dissection of the thoracic aorta
+     and possible pulmonary embolism.
+     
+     TECHNIQUE: Axial CT imaging of the chest performed after the IV administration
+     of 100 cc Optiray.  Nonionic contrast used due to patient debility. Comparison
+     is made to a prior CT of the chest performed the same day.  Additional
+     reformatted imaging in the coronal and sagittal planes also performed.
+     
+     FINDINGS: There is no evidence of pulmonary embolism.  There is an unchanged
+     appearance of three small pools of contrast within the patient's hematoma near
+     the aortic arch.  There is marked atherosclerotic disease within the thoracic
+     aorta with evidence of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5272**] type B dissection originating just beyond
+     the arch of the aorta.  The caudal extent of this dissection is not evaluated
+     on this examination.  There is probable hematoma surrounding the patient's
+     descending thoracic aorta.  The overall size of the patient's thoracic aorta
+     appears stable when compared to the prior examination performed seven hours
+     previously.  The heart, pericardium, and pulmonary arteries are within normal
+     limits.  There are bilateral pleural effusions (left greater than right) with
+     resultant compressive atelectasis. The lungs are clear with a tiny nodular
+     opacity identified within the right lung base measuring less than 1 cm.  There
+     is evidence of emphysematous change within both lung apices. Within the
+     visualized portion of the upper abdomen, limited views of the liver are within
+     normal limits with several calcified granulomas. Bone windows show no
+     suspicious lytic or sclerotic lesions.
+     
+     REFORMATTED IMAGING:  Images reformatted in multiple planes were essential in
+     evaluating the pulmonary arterial vasculature and demonstrate no evidence of
+     definite pulmonary embolism.
+     
+     IMPRESSION:
+     1) No pulmonary embolism.
+     
+     2) Stable size of the thoracic aorta with [**Location (un) 5272**] type B dissection and
+     hematoma surrounding the descending thoracic aorta with unchanged appearance
+     of three pools of contrast within this hematoma.
+     
+     3) Bilateral effusions (left greater than right) with associated compressive
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 9:42 PM
+     CTA CHEST W&W/O C &RECONS; -76 BY SAME PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 11104**]
+     CT 100CC NON IONIC CONTRAST; -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? PE                                                        
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     atelectasis.
+     
+     4) Evidence of emphysema which is most prominent in the lung apices.
+     
+     5) Sub-cm noncalcified pulmonary nodule within the right lung base.
+     
+     
+     
+
+",,
+14622,5260,,,2764-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-21**] 9:42 PM
+     CTA CHEST W&W/O C &RECONS; -76 BY SAME PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 11104**]
+     CT 100CC NON IONIC CONTRAST; -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? PE                                                        
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with anuerysmal dissection and ? PE.                            
+     REASON FOR THIS EXAMINATION:
+      ? PE                                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST WITH CONTRAST
+     
+     INDICATION: 74 year old male with aneurysmal dissection of the thoracic aorta
+     and possible pulmonary embolism.
+     
+     TECHNIQUE: Axial CT imaging of the chest performed after the IV administration
+     of 100 cc Optiray.  Nonionic contrast used due to patient debility. Comparison
+     is made to a prior CT of the chest performed the same day.  Additional
+     reformatted imaging in the coronal and sagittal planes also performed.
+     
+     FINDINGS: There is no evidence of pulmonary embolism.  There is an unchanged
+     appearance of three small pools of contrast within the patient's hematoma near
+     the aortic arch.  There is marked atherosclerotic disease within the thoracic
+     aorta with evidence of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5272**] type B dissection originating just beyond
+     the arch of the aorta.  The caudal extent of this dissection is not evaluated
+     on this examination.  There is probable hematoma surrounding the patient's
+     descending thoracic aorta.  The overall size of the patient's thoracic aorta
+     appears stable when compared to the prior examination performed seven hours
+     previously.  The heart, pericardium, and pulmonary arteries are within normal
+     limits.  There are bilateral pleural effusions (left greater than right) with
+     resultant compressive atelectasis. The lungs are clear with a tiny nodular
+     opacity identified within the right lung base measuring less than 1 cm.  There
+     is evidence of emphysematous change within both lung apices. Within the
+     visualized portion of the upper abdomen, limited views of the liver are within
+     normal limits with several calcified granulomas. Bone windows show no
+     suspicious lytic or sclerotic lesions.
+     
+     REFORMATTED IMAGING:  Images reformatted in multiple planes were essential in
+     evaluating the pulmonary arterial vasculature and demonstrate no evidence of
+     definite pulmonary embolism.
+     
+     IMPRESSION:
+     1) No pulmonary embolism.
+     
+     2) Stable size of the thoracic aorta with [**Location (un) 5272**] type B dissection and
+     hematoma surrounding the descending thoracic aorta with unchanged appearance
+     of three pools of contrast within this hematoma.
+     
+     3) Bilateral effusions (left greater than right) with associated compressive
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 9:42 PM
+     CTA CHEST W&W/O C &RECONS; -76 BY SAME PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 11104**]
+     CT 100CC NON IONIC CONTRAST; -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? PE                                                        
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     atelectasis.
+     
+     4) Evidence of emphysema which is most prominent in the lung apices.
+     
+     5) Sub-cm noncalcified pulmonary nodule within the right lung base.
+     
+     
+     
+
+",,
+14622,5260,,,2764-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-21**] 9:42 PM
+     CTA CHEST W&W/O C &RECONS; -76 BY SAME PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 11104**]
+     CT 100CC NON IONIC CONTRAST; -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? PE                                                        
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with anuerysmal dissection and ? PE.                            
+     REASON FOR THIS EXAMINATION:
+      ? PE                                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST WITH CONTRAST
+     
+     INDICATION: 74 year old male with aneurysmal dissection of the thoracic aorta
+     and possible pulmonary embolism.
+     
+     TECHNIQUE: Axial CT imaging of the chest performed after the IV administration
+     of 100 cc Optiray.  Nonionic contrast used due to patient debility. Comparison
+     is made to a prior CT of the chest performed the same day.  Additional
+     reformatted imaging in the coronal and sagittal planes also performed.
+     
+     FINDINGS: There is no evidence of pulmonary embolism.  There is an unchanged
+     appearance of three small pools of contrast within the patient's hematoma near
+     the aortic arch.  There is marked atherosclerotic disease within the thoracic
+     aorta with evidence of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5272**] type B dissection originating just beyond
+     the arch of the aorta.  The caudal extent of this dissection is not evaluated
+     on this examination.  There is probable hematoma surrounding the patient's
+     descending thoracic aorta.  The overall size of the patient's thoracic aorta
+     appears stable when compared to the prior examination performed seven hours
+     previously.  The heart, pericardium, and pulmonary arteries are within normal
+     limits.  There are bilateral pleural effusions (left greater than right) with
+     resultant compressive atelectasis. The lungs are clear with a tiny nodular
+     opacity identified within the right lung base measuring less than 1 cm.  There
+     is evidence of emphysematous change within both lung apices. Within the
+     visualized portion of the upper abdomen, limited views of the liver are within
+     normal limits with several calcified granulomas. Bone windows show no
+     suspicious lytic or sclerotic lesions.
+     
+     REFORMATTED IMAGING:  Images reformatted in multiple planes were essential in
+     evaluating the pulmonary arterial vasculature and demonstrate no evidence of
+     definite pulmonary embolism.
+     
+     IMPRESSION:
+     1) No pulmonary embolism.
+     
+     2) Stable size of the thoracic aorta with [**Location (un) 5272**] type B dissection and
+     hematoma surrounding the descending thoracic aorta with unchanged appearance
+     of three pools of contrast within this hematoma.
+     
+     3) Bilateral effusions (left greater than right) with associated compressive
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 9:42 PM
+     CTA CHEST W&W/O C &RECONS; -76 BY SAME PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 11104**]
+     CT 100CC NON IONIC CONTRAST; -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? PE                                                        
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     atelectasis.
+     
+     4) Evidence of emphysema which is most prominent in the lung apices.
+     
+     5) Sub-cm noncalcified pulmonary nodule within the right lung base.
+     
+     
+     
+
+",,
+14622,5260,,,2764-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with DESCENDING AO. DISSECTION                                  
+     REASON FOR THIS EXAMINATION:
+      CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74 year old man with descending aortic dissection.
+     
+     COMPARISON:  Examination is being compared with the prior CT performed on
+     [**2764-9-15**].
+     
+     TECHNIQUE:  Contiguous axial images were acquired through the chest, abdomen,
+     and pelvis at 5 mm intervals before the administration of IV contrast. Then,
+     contiguous axial images were acquired through this same region at 5 mm
+     intervals after the uneventful administration of 100 cc of Optiray contrast
+     media intravenously after rapid bolus injection.
+     
+     CTA OF THE AORTA AND CT RECONSTRUCTIONS:  Multiplanar and volume rendering
+     reconstructions were performed at the workstation and significantly enhanced
+     the evaluation of this case.
+     
+     There is significant atheromatous disease.
+     
+     There is evidence of a complex [**Location (un) 5272**]-type B dissection at the inferior
+     thoracic/upper abdominal aorta where a true and false lumen are clearly
+     visualized and filled with contrast.  These are visualized between the mid
+     thoracic aorta and the superior abdominal aorta for a length of approximately
+     8.6 cm.  An apparently thrombosed false lumen is seen medial to the upper
+     thoracic aorta extending from just distal to the takeoff of the left
+     subclavian artery inferiorly to the mid thoracic aorta for a length of
+     approximately 12 cm.  Active contrast extravasation is seen into this
+     apparently thrombosed false lumen at least at 3 locations.
+     
+     An ulcerated atheromatous plaque is seen at the inferior aspect of the aortic
+     arch, measuring 1.6 x 1.0 cm.  A larger focal ulcerated plaque/flap is seen at
+     the anterior distal thoracic/upper abdominal aorta and does not appear to
+     extend cephalad or caudally.  An additional ulcerated plaque is seen inferior
+     to the origin of the right renal artery and measures 1.3 cm in diameter.  
+     
+     The diameter of the aorta at the level of the upper abdominal aorta, just
+     superior to the take off of the celiac axis is 3.7 cm.  It tapers down to 2.8
+     x 2.6 cm at the level of the right renal artery origin.  An infrarenal aortic
+     aneurysm is not seen.
+     
+     The celiac axis and branches, superior mesenteric artery and branches and the
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     renal arteries are patent and demonstrate normal vascular distribution.  The
+     proximal inferior mesenteric artery is likewise patent.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  The apices were not completely imaged on
+     this chest CTA.  Emphysematous changes are seen at the lung apices.  There is
+     evidence of bilateral pleural effusions with associated compressive
+     atelectasis, worse on the left side.  No lung masses are visualized.  Multiple
+     anterior mediastinal lymph nodes are seen, the largest measuring 1.1 x 0.6 cm
+     in diameter.  Small precarinal lymph nodes are seen showing evidence of hilar
+     fat within.
+     
+     No significant axillary lymphadenpathy is seen.
+     
+     CT ABDOMEN WITH AND WITHOUT IV CONTRAST:  Multiple calcified granulomas are
+     seen within the liver.  No liver masses are seen.  There is no evidence of
+     intra or extrahepatic biliary duct dilatation.  A normal gallbladder is not
+     seen.  Various small calcified granulomas are also seen at the spleen.  The
+     adrenal glands, and pancreas are normal.  The kidneys demonstrate symmetric
+     contrast enhancement and excretion.  A simple renal cyst is seen on the right
+     side measuring 1.3 x 0.8 cm in diameter.  There is no evidence of
+     hydronephrosis.
+     
+     No significant intraperitoneal or retroperitoneal lymph nodes are seen.
+     
+     CT PELVIS WITH/WITHOUT INTRAVENOUS CONTRAST:  A Foley catheter is seen within
+     the bladder.  The prostate measures 4.9 x 2.9 cm in diameter.  The rectum is
+     unremarkable.  There is no evidence of pathologic intrapelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Other than degenerative changes of the spine, no suspicious
+     osseous lesions are seen.
+     
+     IMPRESSION:
+     
+     There is evidence of a complex [**Location (un) **] type B aortic dissection as described
+     above.  Areas of contrast extravasation are seen into an apparently thrombosed
+     false lumen.  Multiple ulcerated atheromatous plaques are seen, specifically
+     at the aortic arch and the superior aspect of the abdominal aorta.
+     
+     There are bilateral pleural effusions with associated compressive atelectasis.
+     
+     The prostate gland is enlarged.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+14622,5260,,,2764-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with DESCENDING AO. DISSECTION                                  
+     REASON FOR THIS EXAMINATION:
+      CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74 year old man with descending aortic dissection.
+     
+     COMPARISON:  Examination is being compared with the prior CT performed on
+     [**2764-9-15**].
+     
+     TECHNIQUE:  Contiguous axial images were acquired through the chest, abdomen,
+     and pelvis at 5 mm intervals before the administration of IV contrast. Then,
+     contiguous axial images were acquired through this same region at 5 mm
+     intervals after the uneventful administration of 100 cc of Optiray contrast
+     media intravenously after rapid bolus injection.
+     
+     CTA OF THE AORTA AND CT RECONSTRUCTIONS:  Multiplanar and volume rendering
+     reconstructions were performed at the workstation and significantly enhanced
+     the evaluation of this case.
+     
+     There is significant atheromatous disease.
+     
+     There is evidence of a complex [**Location (un) 5272**]-type B dissection at the inferior
+     thoracic/upper abdominal aorta where a true and false lumen are clearly
+     visualized and filled with contrast.  These are visualized between the mid
+     thoracic aorta and the superior abdominal aorta for a length of approximately
+     8.6 cm.  An apparently thrombosed false lumen is seen medial to the upper
+     thoracic aorta extending from just distal to the takeoff of the left
+     subclavian artery inferiorly to the mid thoracic aorta for a length of
+     approximately 12 cm.  Active contrast extravasation is seen into this
+     apparently thrombosed false lumen at least at 3 locations.
+     
+     An ulcerated atheromatous plaque is seen at the inferior aspect of the aortic
+     arch, measuring 1.6 x 1.0 cm.  A larger focal ulcerated plaque/flap is seen at
+     the anterior distal thoracic/upper abdominal aorta and does not appear to
+     extend cephalad or caudally.  An additional ulcerated plaque is seen inferior
+     to the origin of the right renal artery and measures 1.3 cm in diameter.  
+     
+     The diameter of the aorta at the level of the upper abdominal aorta, just
+     superior to the take off of the celiac axis is 3.7 cm.  It tapers down to 2.8
+     x 2.6 cm at the level of the right renal artery origin.  An infrarenal aortic
+     aneurysm is not seen.
+     
+     The celiac axis and branches, superior mesenteric artery and branches and the
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     renal arteries are patent and demonstrate normal vascular distribution.  The
+     proximal inferior mesenteric artery is likewise patent.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  The apices were not completely imaged on
+     this chest CTA.  Emphysematous changes are seen at the lung apices.  There is
+     evidence of bilateral pleural effusions with associated compressive
+     atelectasis, worse on the left side.  No lung masses are visualized.  Multiple
+     anterior mediastinal lymph nodes are seen, the largest measuring 1.1 x 0.6 cm
+     in diameter.  Small precarinal lymph nodes are seen showing evidence of hilar
+     fat within.
+     
+     No significant axillary lymphadenpathy is seen.
+     
+     CT ABDOMEN WITH AND WITHOUT IV CONTRAST:  Multiple calcified granulomas are
+     seen within the liver.  No liver masses are seen.  There is no evidence of
+     intra or extrahepatic biliary duct dilatation.  A normal gallbladder is not
+     seen.  Various small calcified granulomas are also seen at the spleen.  The
+     adrenal glands, and pancreas are normal.  The kidneys demonstrate symmetric
+     contrast enhancement and excretion.  A simple renal cyst is seen on the right
+     side measuring 1.3 x 0.8 cm in diameter.  There is no evidence of
+     hydronephrosis.
+     
+     No significant intraperitoneal or retroperitoneal lymph nodes are seen.
+     
+     CT PELVIS WITH/WITHOUT INTRAVENOUS CONTRAST:  A Foley catheter is seen within
+     the bladder.  The prostate measures 4.9 x 2.9 cm in diameter.  The rectum is
+     unremarkable.  There is no evidence of pathologic intrapelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Other than degenerative changes of the spine, no suspicious
+     osseous lesions are seen.
+     
+     IMPRESSION:
+     
+     There is evidence of a complex [**Location (un) **] type B aortic dissection as described
+     above.  Areas of contrast extravasation are seen into an apparently thrombosed
+     false lumen.  Multiple ulcerated atheromatous plaques are seen, specifically
+     at the aortic arch and the superior aspect of the abdominal aorta.
+     
+     There are bilateral pleural effusions with associated compressive atelectasis.
+     
+     The prostate gland is enlarged.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2764-10-21**] 2:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 11103**]
+     CTA PELVIS W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST
+     Reason: CTA CHEST, ABDOMEN AND PELVIS TO EVALUATE AORTIC DISSECTION 
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+14622,5260,18178,0,2764-10-21 16:10:00 EST,2764-10-21 16:23:00 EST,1083,"N",1,"Nursing/Other",,"
+
+74Y/O ADMITTED FROM OSH WITH DX OF DISSECTING ANEURYSM PT ALERT ORIENTED HX PAIN X SEVERAL DAYS R/O FOR MI CT DONE TX TO BICMC
+
+NEURO  ALERT ORIENTED SL ANXIOUS MOVES ALL EXTREMETIES NO DEFECITS NOTED
+
+RESP  NC 2L WITH SATS 96% LUNGS CLEAR SATS DECREASE TO 94-93% WITH NIPRIDE DRIP NC INCREASE TO 4L WITH IMPROVED SATS NO RESP DISTRESS OR SOB NOTED 
+
+C/V  NSR SB ESMOLOL BOLUS AND DRIP STARTED FOR B/P 140/80S NIPRIDE STARTED AND WEANED TO MAINTAIN SYSTOLIC B/P 100-110 AND HR 50-60 C/O L CHEST DISCOMFORT IN CT RETURN TO CSRU MORPHINE GIVEN WITH RELIEF OF PAIN 
+
+LABS  LABS STABLE HCT 32 TYPE AND SCREEN SENT 
+
+GU/GI  ABD SOFT BOWEL SOUNDS HEARD FULL BLADDER NOTED IN CAT SCAN UNABLE TO EMPTY BLADDER IN XRAY RETURN TO CSRU FOLEY PLACED WITHOUT DIFFICULTY DRAINED 400CC CONCENTRATED URINE 
+
+CAT SCAN  TO RAD 1345 FOR CT ABD CHEST UNABLE TO VIEW DUE TO FULL BLADDER RETURN TO CSRU FOLEY PLACED BACK TO CT 1430 CT DONE TOL WELL 
+
+PLAN  TRANSFER TO CCU FOR MEDICAL MANAGEMENT 
+",,
+14622,5260,18178,0,2764-10-21 21:50:00 EST,2764-10-21 22:11:00 EST,492,"N",1,"Nursing/Other","CCU NURSING 2200","
+CCU NURSING 2200
+S:  C/O CHEST PAIN ESP W/TAKING DEEP BREATHS/TURNING
+
+O:  SEE CAREVUE FLOWSHEET/ADMISSION NOTE FOR COMPLETE OBJECTIVE DATA
+
+BRIEFLY PT IS A 74 YO MAN ADMITTED TO CSRU TODAY FROM OSH W/TYPE 3 DISSECTING ANEURYSM - RX NIPRIDE/ESMOLOL IV - ? OF PE ON CT FROM OSH - REPEAT CTA DONE AT 2230 - AWAITING RESULTS
+
+CV:  HR 80-90'S SR, NO VEA, BP 120'S/60-70 MAPS 70-80'S, ESMOLOL AT 50MCGS/, NIPRIDE CONTINUES TO BE TITRATED UP FROM 0.5 TO 1.1 MCGS/KG W/GOAL MAP 70
+PT CONTINUES TO C/O CHEST PAIN AS ABOVE - HIGHEST [**7-7**] - RECEIVED TOTAL MSO4 2MG IV X2 W/PAIN DECREASING TO [**3-9**] WHICH IS TOLERABLE PER PT; RADIAL/PEDAL PULSES EASILY PALPABLE AND EQUAL BILAT, EXTREMITIES WARM BILAT
+
+RESP:  O2 SATS 94-98% ON 5L N/C, LUNGS CLEAR TO DECREASED AT BASES
+
+ID: TEMP TO 101.1 PO AT 1700 - BC X 2 SENT
+
+GI:  NPO AT PRESENT, ABDOMEN SOFT, + BS, NO STOOL, IVF NS AT 125/HR X 500CC, NOW AT 75/HR, PROTONIX IV GIVEN X1
+
+GU: FOLEY IN PLACE, DRAINING CLEAR YELLOW URINE IN SM AMTS
+
+NEURO:  PT A+O X3, MILDLY ANXIOUS, REQUESTING AMBIEN FOR [**Doctor Last Name **] 
+
+SOCIAL:  WIFE, SISTER, SON [**Name (NI) 257**] IN TO VISIT BRIEFLY THIS EVENING, SPOKE W/[**Name6 (MD) 2697**] AND RN REGARDING PLAN OF CARE, SON [**Name (NI) 257**] CALLED AGAIN IN PM
+
+A:  DISSECTING AORTIC ANEURYSM, ? PULMONARY EMBOLUS 
+
+P:  MONITOR BP/HR - TITRATE ESMOLOL/NIPRIDE FOR GOAL MAP 70
+    ASSESS CHEST PAIN, MEDICATE W/MSO4 AS ORDERED AND ASSESS EFFECT
+    IVF AS ORDERED POST-CTA/DYE LOAD, ASSESS URINE OUTPUT CLOSELY,         PULSES, MONITOR O2 SATS, KEEP PT/FAMILY INFORMED OF PT STATUS/PLAN OF CARE, CONTINUE SUPPORTIVE CARE.
+",,
+14622,5260,18178,0,2764-10-22 04:44:00 EST,2764-10-22 04:55:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I feel better now "" 
+O:  TM 99.1.  urine sent.  
+pt. with no further c/o CP , denies when asked.  
+HR 72-76Sr.  no VEA.  BP 96-121/50's.  MAP 68-82.  
+nipride 1.0-1.1mcq/k/min.
+esmolol 100mcq/k/min.  
+
+extrem. warm, dry, palp. pulses.
+GU:  50-60cc/hr.  (-) 200cc for [**10-21**].  currently ~ 500cc pos.
+IVF NS at 75/hr.
+GI:  NPO except meds.  c/o ""my stomach hurts"" ~ 0500.  no nausea. pt. states pain is at old surgery site and that this occurs at home also.  inc. pain with coughing, etc.  no treatment.
+
+requesting sleeping med.  given 5mg ambien with good effect.  A/O x3. very pleasant.  pt. talking about diffiult times with recent new diagnosis of aortic aneursym.  has supporting wife and children(2 of whom are flying in from out of state).  
+
+A:  stable night on meds.  met goal to keep MAP ~70.
+P:  morphine prn for CP.  ambien for [**Doctor Last Name 8**] at night.  titrate meds to keep MAP ~ 70.  to be followed by [**Doctor First Name **]./cardiology. 
+",,
+14622,5260,18178,0,2764-10-22 11:25:00 EST,2764-10-22 11:44:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""I can't sit up without getting that sharp stabbing chest pain""
+O-Neuro/comfort-alert and oriented x3, depressed, crying this am. Fearful of dying and not being with family. Able to allow pt to talk about fears since family not available and pt felt much better. c/o [**7-7**] mid abd dull/pressure relieved with MSO4 2mg IVB. After trying to sit pt up on side of bed pt c/o severe stabbing left chest pain grabbing his chest, laid back in bed and pain slowly went away, received MSO4 2mg IVB with complete relief of pain. CCU team aware of pain. All pulses 3+/3+ radial to pedal and BP equal in both arms.
+CV-VSS remains on nipride and Esmolol gtts, required increase in nipride to 2mcg/kg with chest/abd pain this am. Esmolol at 100mcg/kg/min GOAL MAP 70's. Plan to start po meds this evening depending on pt condition/pains.
+Resp-LS diminished 1/2 up bialterally with bronchial BS on the left.
+O2 sats slowly diminishing to 90-92% on 5l np, rr 16-28 shallow.
+ID-low grade temp blood cultures pnd from [**10-21**]
+GU- BUN/CR 17/.8 foley draining 30cc/hr despite receiving NS @75cc/hr. Pt is ~1700cc  positive since mn.
+GI-No n/v/BM feeling [**Country 1219**] taking clear liquids well this am, will advance to NAS/lo chol this evening. HCT drop 29.5(33) recheck at 1400 pnd. h/o recent GIB [**8-30**]. Typed and screen for 2 units for possible pre op if needed.
+Social-family calling and appear to be very concerned with pt condition.\
+A/P-Type 3 dissecting AAA, receiving medical therapy. Still having concering chest/abd pains.
+Follow BP in each arm q 8hrs
+Follow all pulses radial-pedal q8hrs
+Monitor pain location and severity medicate prn, notify HO.
+Check HCT q12hrs
+Assess LS q4hrs for rales or changes.
+
+
+",,
+14622,5260,18178,0,2764-10-22 17:11:00 EST,2764-10-22 17:16:00 EST,936,"N",1,"Nursing/Other","NSG NOTE 3P-7P","
+NSG NOTE 3P-7P
+     PT CONTINUES ON ESMOLOL & NIPRIDE TO KEEP MAP IN 70'S.  RIGHT RADIAL A-LINE PLACED BY CCU RESIDENT.  HR REMAINS STABLE.  PT C/O LEFT CHEST PAIN (BASELINE FOR PAST 2 DAYS); MEDICATED WITH MS04 WITH + RELIEF.  U/O ~20-40CC/HRLY, DR. [**Last Name (STitle) **] AWARE; WILL CONTINUE TO MONITOR U/O AND KEEP IVF @ 75CC/HR.  LS CLEAR, DIMINISHED @ BASES, SP02 95% WITH NASAL CANNULA.  SEE FLOWSHEET FOR FURTHER ASSESSMENT DETAILS.  PLAN TO CONTINUE WITH CURRENT CLOSE MONITORING AND TREATMENT.
+",,
+14622,5260,18178,,2764-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-23**] 4:29 PM
+     MR CHEST/MEDIASTINUM W&W/O CONTRAST; MR RECONSTRUCTION IMAGING  Clip # [**Clip Number (Radiology) 11106**]
+     Reason: eval aortic dissection, assess for hematoma, progression, or
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: MAGNEVIST Amt: 20CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with dissection                                                 
+     REASON FOR THIS EXAMINATION:
+      **PLEASE DO CHEST AND ABDOMEN*** eval aortic dissection, assess for hematoma, 
+      progression, or rupture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE CHEST AND MRA DATED [**2764-10-23**].
+     
+     INDICATION:  The patient is a 74 year-old male with thoracic aortic
+     dissection.  Please evaluate for progression.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images were performed prior to the
+     administration of contrast.  Additionally, gadolinium enhanced dynamic 3D
+     gradient-echo T1-weighted images were obtained.  Maximum intensity projection
+     and multiplanar reformatted images were obtained on a 3D workstation.
+     
+     FINDINGS:  Severe atherosclerotic changes are seen throughout the thoracic
+     aorta, including multiple penetrating atheromatous ulcers.  The thoracic aorta
+     is aneurysmally dilated.  The ascending aorta measures a maximum or 4.1 x 3.7
+     cm in transverse diameter measured in the true orthagonal plane.  The
+     decending thoracic aorta measures a maximum of 3.8 x 3.4 cm in transverse
+     diameter, again measured in a true orthagonal plane.  A large intramural
+     hematoma is seen extending from just distal to the left subclavian artery,
+     through the descending thoracic aorta.  There is also a focal dissection in
+     the mid-distal descending thoracic aorta, over a length of approximately 7 cm.
+     Bilateral pleural effusions are present.
+     
+     Comparison is made to prior CT angiogram performed on [**2764-10-21**].
+     There is no significant change in the appearance of the aorta from that scan.
+     
+     Maximum intensity projection and multiplanar reformatted images generated on a
+     3D workstation were essential to the interpretation of this case.
+     
+     IMPRESSION:  Thoracic aortic aneurysm with large intramural hematoma
+     originating distal to the left subclavian artery and separate focal dissection
+     in the descending thoracic aorta.  These findings were unchanged from the CT
+     examination of [**2764-10-21**].
+
+",,
+14622,5260,18178,,2764-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-23**] 9:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11105**]
+     Reason: eval for acute changes                                      
+     Admitting Diagnosis: DISSECTING ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ao dissection                                              
+     REASON FOR THIS EXAMINATION:
+      eval for acute changes                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP:
+     
+     INDICATION:  Aortic dissection, evaluate for change.
+     
+     COMPARISON:  [**2764-10-21**].
+     
+     FINDINGS:  Poor inspiratory effort.  The heart is slightly enlarged.  There is
+     a left sided pleural effusion which allowing for patient position, is
+     essentially unchanged from the prior examination.  There are atelectatic
+     changes at the right base which are essentially unchanged also.  No new
+     cardiopulmonary process identified.
+     
+     IMPRESSION:  Allowing for slight change in patient position, no significant
+     change from prior exam.
+     
+
+",,
+14622,5260,18178,,2764-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-23**] 4:29 PM
+     MR CHEST/MEDIASTINUM W&W/O CONTRAST; MR RECONSTRUCTION IMAGING  Clip # [**Clip Number (Radiology) 11106**]
+     Reason: eval aortic dissection, assess for hematoma, progression, or
+     Admitting Diagnosis: DISSECTING ANEURYSM
+      Contrast: MAGNEVIST Amt: 20CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with dissection                                                 
+     REASON FOR THIS EXAMINATION:
+      **PLEASE DO CHEST AND ABDOMEN*** eval aortic dissection, assess for hematoma, 
+      progression, or rupture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE CHEST AND MRA DATED [**2764-10-23**].
+     
+     INDICATION:  The patient is a 74 year-old male with thoracic aortic
+     dissection.  Please evaluate for progression.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images were performed prior to the
+     administration of contrast.  Additionally, gadolinium enhanced dynamic 3D
+     gradient-echo T1-weighted images were obtained.  Maximum intensity projection
+     and multiplanar reformatted images were obtained on a 3D workstation.
+     
+     FINDINGS:  Severe atherosclerotic changes are seen throughout the thoracic
+     aorta, including multiple penetrating atheromatous ulcers.  The thoracic aorta
+     is aneurysmally dilated.  The ascending aorta measures a maximum or 4.1 x 3.7
+     cm in transverse diameter measured in the true orthagonal plane.  The
+     decending thoracic aorta measures a maximum of 3.8 x 3.4 cm in transverse
+     diameter, again measured in a true orthagonal plane.  A large intramural
+     hematoma is seen extending from just distal to the left subclavian artery,
+     through the descending thoracic aorta.  There is also a focal dissection in
+     the mid-distal descending thoracic aorta, over a length of approximately 7 cm.
+     Bilateral pleural effusions are present.
+     
+     Comparison is made to prior CT angiogram performed on [**2764-10-21**].
+     There is no significant change in the appearance of the aorta from that scan.
+     
+     Maximum intensity projection and multiplanar reformatted images generated on a
+     3D workstation were essential to the interpretation of this case.
+     
+     IMPRESSION:  Thoracic aortic aneurysm with large intramural hematoma
+     originating distal to the left subclavian artery and separate focal dissection
+     in the descending thoracic aorta.  These findings were unchanged from the CT
+     examination of [**2764-10-21**].
+
+",,
+14622,5260,18178,0,2764-10-23 05:01:00 EST,2764-10-23 05:08:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:neuro=alert & oriented. cooperative & very pleasant.
+  pulm=o2 via nc @ 5l. breath sounds=deminished throughout. am abg- 7.43/35/65/20/0. wo co sob/dyspnea. tolerates lying flat.
+  cv=sr rate 60's wo ectopy. maps mid 60-70's on esmolol 100mcg/kg/min & nipride 1.5mcg/kg/min. labetalol started-1st dose @ 2200. co chest discomfort-increased w lying on r-side--med w mso4 4mg iv x2-2300 & 0330 w effect.
+  renal=foley. diuresing, but overall positive 3.5l.
+  id=low grade t-99.2.
+  heme=am hct-27 down from 27.7.
+  labs=am sent.
+
+a:hr/maps controlled w esmolol & nipride gtts. wo drop in bp w labetalol po. ?dropping hct.
+
+p:contin present management. ?tx. support as needed.
+",,
+14622,5260,18178,0,2764-10-23 13:50:00 EST,2764-10-23 14:00:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+neuro: pt alert.oriented x3, very anxious, given ativan 1mg po w/ some relief.
+cv:hr 55-80 sr, no vea, bp labile 83/38-140/86 nipride and esmolol titrated w/ goal MAPs<70. Labatelol ^ to 200mg tid, captopril started and ^ to 25mg tid. c/o persistent chest discomfort, given mso4 2-4mg w/ mod relief. 
+resp: 5lnp sats 97%, lungs CTA
+gi: poor appitite, no stool this shift.
+gu: foley draining cl yel urine, ~ 1200cc+
+id: afebrile
+A/P: dissecting aortic aneurysm requiring nipride and esmosol for bp control.
+MRI later today. Monitor bp, titrate meds to maintain MAPS,70.
+",,
+14622,5260,18178,0,2764-10-23 22:08:00 EST,2764-10-23 22:19:00 EST,488,"N",1,"Nursing/Other","CCU NPN 1500-2300","
+CCU NPN 1500-2300
+S/O: ""I FELT LIKE I WAS IN THE MIDDLE OF THE EARTH, IT WAS SO NOISY!""
+
+CV: WEANED OFF NIPRIDE AND CAPTOPRIL INC TO 50 MG TID. LABETOLOL CONT AT 200 MG Q8H. MAPS MOSTLY <80. HR IN 50'S NSR WITHOUT ECTOPY. PT DOWN TO MRI TO EVALUATE DISSECTION. HCT DEC TO 26.2 WILL REC PRBC TONIGHT
+
+RESP: CONT ON 4LNP, LUNGS CLEAR IN UPPER LOBES, DEC BS IN LOWER LOBES. PT ABLE TO LIE FLAT WITH RR IN TEENS AND SATS IN HIGH 90'S. PER MRI, PLEURAL EFFUSIONS INC. 
+
+ID: AFEB, WBC 9.
+
+GI: EATING SMALL MEALS, DID NOT WANT TO EAT DINNER. COLACE STARTED AFTER PERCOCET GIVEN PO.
+
+GU: 1200CC POS FOR TODAY, URINE CLEAR/AMBER.
+
+PAIN: CONT ON PERC AND ATIVAN PO ATC FOR PAIN AND ANXIETY. ATIVAN VERY EFFECTIVE FOR PT AND HELPED VERY MUCH WITH PAIN LEVEL. PT REQUESTS AMBIEN TONIGHT. 
+
+SOCIAL: WIFE AND DAUGHTER IN TO VISIT TONIGHT AND PROGRESS DISCUSSED. FAMILY AND PT ASKING VERY APPROPRIATE QUESTIONS. WIFE CALLED FOR UPDATE AT 2200. 
+
+A/P: ABLE TO WEAN OFF IV MEDS TO PO MEDS FOR BPO AND HR CONTROL. PT NEEDS PRBC TONIGHT AND PNEUMO BOOTS. CONT TO KEEP PT AND FAMILY INFORMED OF PROGRESS. ? CT IF EFFUSIONS INC.
+",,
+14622,5260,18178,0,2764-10-24 05:48:00 EST,2764-10-24 05:53:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+TYPE  B AORTIC DISSECTION
+S "" WHY IS MY BED IN THE MIDDLE OF THE ROOM ?""
+O PLS SEE CAREVIEW FLOWSHEET FOR ALL OBJ/NUMERICAL DATA 
+CV HR 50'S..SBP 110-130'S/50-60'S..CONTINUES ON CAPTOPRIL AND LABETOLOL ..DENIES CP OR SOB ..AWOKE AT 0400 ACUTELY NAUSEA ..WITH C/O FRONTAL  HEADACHE ...WITH DIFFUSE EXP WHEEZES ..O2 SATS 99% ON 4L NP...LUNG EXAM UNCHANGED ..MARKEDLY DECREASED BREATH SOUNDS IN LEFT FIELD ..DECREASED BREATH SOUNDS  IN  RIGHT BASE ..RR 26-28..
+HEADACHE AND NAUSEA GONE WITHOUT INTERVENTION ..
+TRANSFUSED WITH ONE UNIT OF PRBCS OVER 4 HOURS ..FOR A HCT OF 26...
+A HEMODYN STABLE 
+P PROBABLE CT INSERTION TO LEFT PLEURAL EFFUSION IN AM 
+",,
+14622,5260,18178,0,2764-10-24 16:41:00 EST,2764-10-24 17:00:00 EST,492,"N",1,"Nursing/Other","CCU NURSING 7A-7P TYPE B AORTIC DISSECTION","
+CCU NURSING 7A-7P TYPE B AORTIC DISSECTION
+S.  C/O [**2771-6-3**] CHEST PAIN THIS AM; NOW ""THANK GOD I HAVE NO PAIN!""
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+CV:  8AM PT C/O MOD-SEV CP RADIATING TO BACK AFTER SITTING UP IN BED FOR BREAKFAST; BP UP TO 170/ RECEIVED LABETOLOL 200MG PO  2 HRS EARLY + 1 PERCOCET, PAIN CONTINUED W/BP UP TO 190/ NIPRIDE RESTARTED AT 1.2 MCGS/KG - TO 1.5 MCGS/KG, TOTAL 2MG MSO4 IV AND 0.5MG PO ATIVAN GIVEN W/ QUICK RELIEF OF PAIN AND BP TO MAP 70, PT FELL ASLEEP FOR 2-3 HRS, AWOKE PAIN-FREE AND HAS REMAINED PAIN-FREE' LABETOLOL DOSE INCREASED TO300MG, CAPTOPRIL REMAINS AT 50 TID, NORVASC 10 ADDED W/IMPROVED CONTROL OF BP/CP, NIPRIDE NOW DOWN TO 1.2MCGS; HR 50-60'S SB-SR, RARE PVC; PULSES EASILY PALPABLE BILAT 
+
+RESP:  SATS 92-95% ON 4L N/C, LUNGS DIMINISHED BS THROUGHOUT L>R W/EXERTIONAL WHEEZES
+
+GI:  TOLERATING CARDIAC DIET IN SM AMTS, NO STOOL, OOB TO COMMODE EARLY THIS AM - TOTLERATED WELL, PASSED LG AMT FLATUS - NO STOOL, ON DOCUSATE/MOM; IV PROTONIX Q 24HR - AWAITING 1800 DOSE FROM PHARMACY
+
+GU:  FOLEY DRAINING CLEAR YELLOW URINE - NEG 600CC TODAY
+
+HEME:  HCT @ 1500 27.9 FROM 29.5 IN AM - REPEAT @ 2000; 1 UNIT SET UP
+
+A:  TYPE 3 AORTIC DISSECTION W/HTN, CHEST PAIN
+    HTN IMROVED CONTROL ON INCREASED PO MEDS COMBINED W/NIPRIDE
+
+P:  MONITOR BP, TITRATE NIPRIDE TO MAP 70, REPEAT HCT AT 2000 - 
+   TRANSFUSE AS NEEDED, ASSESS PAIN AND GIVE MSO4 IV AS NEEDED, FOLLOW O2 SATS, CONTINUE SUPPORTIVE CARE.
+
+",,
+14622,5260,18178,0,2764-10-25 04:22:00 EST,2764-10-25 04:32:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:neuro=irritable. tired of being in bed. tired of having all the wires. tired of everything. ativan w effect.
+  pulm=breath sounds=deminished throughout. o2 via nc 4l w sats mid 90's. audible expiratory wheezes w exertion.
+  cv=hemody stable. nipride <from 1.2 - 0.3mcg/kg/min. tolerating labetalol & captopril. maps 70's. aline very positional. co generalized chest discomfort-mso4 w effect.
+  gi=oob to commode wo effect.
+  heme=am 28.2 up from 27.6.
+  renal=foley. overall i&o-3l positive.
+  id=afebrile.
+  labs=am k 3.3.
+
+a:vocalizing appropriately re:hospitalization. bp better controlled. 
+
+p:support-contin ativan prn. ?wean nipride to dc. ?diurese->3l positive. ?chg pain med to po. ?dulclox supp. follow hct. replace k.
+contin present management. 
+",,
+14622,5260,18178,0,2764-10-25 17:07:00 EST,2764-10-25 17:26:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE 7A-7P","
+CCU NURSING PROGRESS NOTE 7A-7P
+S.  ""THAT PAIN IS REALLY BAD RIGHT NOW!""
+
+O.  SEE CAREVUE FOR COMPLETE VS, OBJECTIVE DATA
+
+CV:  HR 50-60'S SB-SR, 0800 BP UP TO 150-160/ NIPRIDE INCREASED TO 0.5- 0.7MCGS/KG; CAPTOPRIL 50MG/LABETOLOL 300MG GIVEN, ALSO C/O CP - RECEIVED MSO4 1MG IV AND ATIVAN 0.5 PO W/IMPROVED CP AND BP TO MAP 80'S; 0930 RECEIVED EXTRA CAPTOPRIL 50MG PO, LABETOLOL 200MG (TOTAL 500); NORVASC GIVEN AT 12PM, 1530 RECEIVED LASIX 10MG IV W/MAPS REMAINING 70-80; NIPRIDE UNABLE TO WEAN LOWER THAN 0.7MCGS; K+ 3.3 IN AM - RECEIVED TOTAL 80MEQ, REPEAT K+/MG+ PND POST-DIURESIS
+
+RESP:  LUNGS EXP WHEEZES W/EXERTION, CRACKLES NOTED AT R BASE AS WELL, SATS DRIFTING TO 92% ON 4L N/C O2 INCREASED TO 5 L N/C - LASIX GIVEN, PT STATES ""MY BREATHING HAS BEEN HEAVY"" (AFTER RECEIVING LASIX)
+
+ID: TEMP TO 99.4 MAX, WBC WNL
+
+NEURO/MS: ALERT AND ORIENTED, ANXIOUS AT TIMES, SLEEPING ON/OFF ESP AFTER REEIVING ATIVAN/MSO4, FAMILY VISITIED FOR LONG TIME TODAY
+
+GI; TOLERATING CARDIAC DIET IN SM AMTS, S/O CONSTIPATION - RECEIVED DULCOLAX/SENNA PO, CONTINUES ON COLACE, OOB - COMMODE X1 - PASSING FLATUS - NO STOOL
+
+HEME:  HCT 31.9 FROM 28.2 IN AM, NO EVIDENCE BLEED
+
+GU: FOLEY DRAINING CLEAR YELLOW URINE IN LG AMTS AFTER RECEIVING LASIX
+NEG 1500CC TODAY, + 2 L LOS
+
+ALT COMFORT: INTERMITTENT C/O CP - RESPONDING TO MSO4 1MG IV + ATIVAN 0.5MG PO - ALSO HAVING PERIODS WHEN HE IS PAIN-FREE, PAIN CORRELATES W/INCREASED BP AND SOMETIMES W/POSITION CHANGES
+
+A:  UNABLE TO WEAN NIPRIDE DESPITE INCREASE IN CAPTOPRIL/LABETOLOL, EXCELLENT RESPONSE TO 10MG IV LASIX
+
+P:  MONITOR DIURESIS - ASSESS BP RESPONSE TO DIURESIS, WEAN NIPRIDE TO OFF ASAP, FOLLOW LYTES AND REPLACE AS NEEDED, MONITOR DISCOMFORT - PAIN MEDS AS NEEDED, ATIVAN FOR ANXIETY; CONTINUE SUPPORTIVE CARE FOR PT/FAMILY.
+
+
+ 
+",,
+14622,5260,18178,,2764-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-26**] 8:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11107**]
+     Reason: eval effusions                                              
+     Admitting Diagnosis: DISSECTING ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with ao dissection, pleural effusions                          
+     REASON FOR THIS EXAMINATION:
+      eval effusions                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION: History of aortic dissection. Evaluate status of effusions.
+     
+     FINDINGS: A single AP semi-upright view. Comparison study dated [**2764-10-23**]. There is again evidence of fairly marked left ventricular enlargement of
+     the heart and some unfolding of the aorta. The pulmonary vessels show upper
+     zone redistribution. This suggests some left heart failure though it may be
+     markedly postural. There is again evidence of left lower lobe collapse and
+     consolidation associated with a small left effusion. Some minor atelectasis is
+     also noted in the right lower zone.
+     
+     IMPRESSION: There is apparently worsening left heart failure since the prior
+     study. There is also persistent left lower lobe collapse/consolidation.
+
+",,
+14622,5260,18178,0,2764-10-26 04:39:00 EST,2764-10-26 04:50:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:neuro=anxious @ x's-ativan w effect. ambien for [**Doctor Last Name 8**].
+  pulm=breath sounds=deminished/clear throughout. episodes desaturation-related to increased bp. o2 5l w sats presently mid 90's.
+  cv=nipride weaned & dced @ 2300 after bp meds-lisinopril & labetalol. nipride restarted @ 0300 due to elevated sbp/maps-presently @ 1.5mcg/kg/min. intermittent co abd/chest discomt-med w mso4 x1-2200 w effect. aline positional-following cuff. 
+  heme=hct stable-30.8.
+  gi=attempt bm x3 wo success-biscodyl & senna given @ 0530.
+  renal=neg 1.7l for 24hrs-remains approx 2l pos overall.
+  labs=am k 3.8.
+
+a:when asleep bp controlled wo niprise-when awake requires nipride. 
+
+p:contin ativan prn. titrate o2 to sats. bp meds require further adjustment-bp controlled when asleep not when awake off nipride. ?contin gentle diuresis. adeq safety measures. support pt/family as needed.
+
+",,
+14622,5260,18178,0,2764-10-26 15:32:00 EST,2764-10-26 15:40:00 EST,187,"N",1,"Nursing/Other",,"
+
+SB TO SR 48 TO 78 . SYS BP 130 TO 104 .MAP 70 TO 72.NIPRIDE DC 10 AM  LABETOLOL  AND LISINOPRIL INCREASED .HYDRALAZINE TO BE STARTED . K REPLETED .CO CP RELIEVED C VICODIN 
+
+SAT 92 TO 97 ON 5L NP ,BS CLEAR.
+
+EATING FAIR.PASSING LIQUID STOOL P SUPP NAD ENEMA ,OOB TO COMMODE X 2 .
+
+HUO 20 TO 100 PER FOLEY 
+
+ALERT,COOP ,FAMILY VISITING 
+
+TOL NIPRIDE WEAN 
+
+MONITOR RESPONSE TO INCREASED ANTIHYPERTENSIVES 
+
+",,
+14622,5260,18178,0,2764-10-27 02:37:00 EST,2764-10-27 02:49:00 EST,1202,"N",1,"Nursing/Other",,"
+
+S: ""CAN I HAVE A PAIN PILL""
+O: PT ALERT AND ORIENTED MOST OF TIME SEEMS VAGUE SOME OF THE TIME.
+PT COOPERATIVE, ABLE TO GET NEEDS MET.
+RESP: LUNGS CTA, PT ON 5L N/C SATS 96%, NO COUGH NOTED, NO C/O SOB
+CV: PT SB 40-50'S HCTZ AND LISINOPRIL HELD FOR LOW BP AND LOW HR. HO AWARE. LABETOLOL WAS DECREASED FOR MIDNIGHT AND THAT DOSE WAS HELD D/T LOW BP AND HR. CLOSELY MONITORED VS OVERNIGHT HR ONLY IN 50'S AND BP LOW 100'S MOST OF SHIFT. PT C/O HIS REG CP AND RECEIVED VICODIN 1 TAB WITH GOOD EFFECT AND HE REQUESTED AMBIEN FOR [**Doctor Last Name **] GIVEN AT HS WITH GOOD EFFECT.
+GI/GU: PT HAS FOLEY CATH DRAINING CLEAR YELLOW URINE OUTPUT WAS SLOW INITIALLY AND OVERNIGHT PICKED UP W/O FURTHER TX HO AWARE. PT HAS POS BS, ABD NONTENDER, SOFT, STILL HAVING SM AMT LIQUID STOOL, GOT OOB TO COMMODE STEADY WITH 1 ASSIST TOL WELL. PT ON PROTONIX, COLACE HELD THIS PM FOR LIQUID STOOLS
+SKIN INTACT
+FULL CODE
+ID: PT AFEBRILE
+PLAN: HO STILL MAKING MED ADJUSTMENTS CONT TO MONITOR VS CAREFULLY, LABS PENDING FOR AM.
+",,
+14622,5260,18178,0,2764-10-27 12:27:00 EST,2764-10-27 12:27:00 EST,96,"N",1,"Nursing/Other",,"
+
+see transfer note for today's note.
+",,
+14622,5260,,,2764-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-10-29**] 10:31 AM
+     MR CHEST/MEDIAATINUM W/O CONTRAST                               Clip # [**Clip Number (Radiology) 11108**]
+     Reason: eval aortic dissection                                      
+     Admitting Diagnosis: DISSECTING ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with aortic dissection, please eval as compared to previous 
+      films
+     REASON FOR THIS EXAMINATION:
+      eval aortic dissection                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Follow up of aortic dissection.
+     
+     COMPARISON:  [**2764-10-23**].
+     
+     TECHNIQUE:  Multiplanar T1 and T2W images, and reconstruction images of the
+     chest were obtained without Gadolinium.
+     
+     CHEST MRI W/O GADOLINIUM:  There is aneurysmal dilatation of the thoracic
+     aorta.  There is a large intramural hematoma of the thoracic aorta extending
+     from immediately distal to the left subclavian artery to the descending
+     thoracic aorta, now showing higher signal, the typical evolution of intramural
+     hematoma. Focal dissection is seen in the mid distal descending thoracic
+     aorta. There are bilateral pleural effusions. All these findings are unchanged
+     since [**2764-10-23**].
+     
+     MR reconstruction images were essential for delineating the pathology
+     described above.
+     
+     IMPRESSION:  No change since [**2764-10-23**] in the size and with some
+     expected increase in signal intensity of the intramural hematoma.  The intimal
+     flap component has not changed.
+     
+     KEYWORD: AORTA
+     
+     
+
+",,
+14622,,,,2764-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-11-30**] 2:52 PM
+     MRA CHEST W&W/O C; MR CONTRAST GADOLIN                          Clip # [**Clip Number (Radiology) 11109**]
+     Reason: TYPE B AORTIC DISSECTION
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  Outside mammograms from [**Hospital1 11110**] dated [**2762-5-17**] are obtained for
+     comparison.  There is no interval change, and specifically, the nonsymmetric
+     density on the right and very small intramammary lymph nodes on the left are
+     unchanged.  No evidence for malignancy.  BIRADS 2 - benign findings. 
+
+
+     DATE: [**2764-11-30**] 2:52 PM
+     MRA CHEST W&W/O C; MR CONTRAST GADOLIN                          Clip # [**Clip Number (Radiology) 11109**]
+     Reason: TYPE B AORTIC DISSECTION
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Aortic dissection.
+     
+     TECHNIQUE:  MR angiography of the thoracic aorta was performed utilizing the
+     following sequences:  axial DB HASTE images, axial T1-weighted images, axial
+     true FISP images, axial 2D time-of-flight images, and sagittal VIBE images
+     prior to and following the intravenous administration of gadolinium.
+     Comparison is made to the MR examinations of chest dated [**2764-10-29**] and
+     [**2764-10-23**].  Three-dimensional reconstructions were generated on an image
+     processing workstation.
+     
+     FINDINGS:
+     MR CHEST WITH CONTRAST:  Again noted is an intramural hematoma and dissection
+     tract within the descending aorta approximately 12 cm distal to the left
+     subclavian artery involving the posterior wall of the aorta.  At least two
+     other regions of intramural high T1 signal are seen within the more distal
+     aorta, also representing intramural hematoma.  These regions have all
+     diminished in volume since the previous examinations, however, the most
+     proximal dissection tract is slightly longer.  There is no significant
+     compromise of the aortic lumen.  The ascending aorta measures 3.7 cm in
+     diameter.  The descending aorta measures 3.1 cm in diameter.
+     
+     The origins of the great vessels are normal.  No dissection flap is
+     identified.
+     
+     There are small bilateral pleural effusions, improved from the previous
+     examination.  The adjacent lung demonstrates no consolidation or enhancing
+     mass.
+     
+     No enlarged regional lymph nodes are identified.  The visualized osseous
+     structures and muscle groups appear unremarkable.
+     
+     Review of reconstructed images was essential in confirming the above findings.
+     
+     IMPRESSION:
+     
+     Ulcerating plaque of the descending aorta with intramural hematoma,
+     predominantly involving the posterior aorta 12 cm distal to the left
+     subclavian artery.  There has been interval resolution of the volume of
+     hematoma, although the posterior dissection tract is slightly longer.
+     
+     Resolving bilateral pleural effusions.
+     
+                                                                 (Over)
+
+     DATE: [**2764-11-30**] 2:52 PM
+     MRA CHEST W&W/O C; MR CONTRAST GADOLIN                          Clip # [**Clip Number (Radiology) 11109**]
+     Reason: TYPE B AORTIC DISSECTION
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14622,,,,2764-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2764-11-30**] 2:52 PM
+     MRA CHEST W&W/O C; MR CONTRAST GADOLIN                          Clip # [**Clip Number (Radiology) 11109**]
+     Reason: TYPE B AORTIC DISSECTION
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  Outside mammograms from [**Hospital1 11110**] dated [**2762-5-17**] are obtained for
+     comparison.  There is no interval change, and specifically, the nonsymmetric
+     density on the right and very small intramammary lymph nodes on the left are
+     unchanged.  No evidence for malignancy.  BIRADS 2 - benign findings. 
+
+
+     DATE: [**2764-11-30**] 2:52 PM
+     MRA CHEST W&W/O C; MR CONTRAST GADOLIN                          Clip # [**Clip Number (Radiology) 11109**]
+     Reason: TYPE B AORTIC DISSECTION
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Aortic dissection.
+     
+     TECHNIQUE:  MR angiography of the thoracic aorta was performed utilizing the
+     following sequences:  axial DB HASTE images, axial T1-weighted images, axial
+     true FISP images, axial 2D time-of-flight images, and sagittal VIBE images
+     prior to and following the intravenous administration of gadolinium.
+     Comparison is made to the MR examinations of chest dated [**2764-10-29**] and
+     [**2764-10-23**].  Three-dimensional reconstructions were generated on an image
+     processing workstation.
+     
+     FINDINGS:
+     MR CHEST WITH CONTRAST:  Again noted is an intramural hematoma and dissection
+     tract within the descending aorta approximately 12 cm distal to the left
+     subclavian artery involving the posterior wall of the aorta.  At least two
+     other regions of intramural high T1 signal are seen within the more distal
+     aorta, also representing intramural hematoma.  These regions have all
+     diminished in volume since the previous examinations, however, the most
+     proximal dissection tract is slightly longer.  There is no significant
+     compromise of the aortic lumen.  The ascending aorta measures 3.7 cm in
+     diameter.  The descending aorta measures 3.1 cm in diameter.
+     
+     The origins of the great vessels are normal.  No dissection flap is
+     identified.
+     
+     There are small bilateral pleural effusions, improved from the previous
+     examination.  The adjacent lung demonstrates no consolidation or enhancing
+     mass.
+     
+     No enlarged regional lymph nodes are identified.  The visualized osseous
+     structures and muscle groups appear unremarkable.
+     
+     Review of reconstructed images was essential in confirming the above findings.
+     
+     IMPRESSION:
+     
+     Ulcerating plaque of the descending aorta with intramural hematoma,
+     predominantly involving the posterior aorta 12 cm distal to the left
+     subclavian artery.  There has been interval resolution of the volume of
+     hematoma, although the posterior dissection tract is slightly longer.
+     
+     Resolving bilateral pleural effusions.
+     
+                                                                 (Over)
+
+     DATE: [**2764-11-30**] 2:52 PM
+     MRA CHEST W&W/O C; MR CONTRAST GADOLIN                          Clip # [**Clip Number (Radiology) 11109**]
+     Reason: TYPE B AORTIC DISSECTION
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14622,,,,2765-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-3-15**] 9:59 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11111**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: HX AMPULLAR ADENOCARCINOMA, S/P WHIPPLE
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with h/o ampullar adenocarcinoma, s/p whipple.
+     REASON FOR THIS EXAMINATION:
+      Evaluate status of diseaase.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of ampullar adenocarinoma status post Whipple's disease.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis after the administration of 150 cc of IV
+     Optiray.  Nonionic contrast was used secondary to the patient's history of
+     allergy.  Pre-contrast and portal venous phase imaging of the liver was
+     obtained.
+     
+     COMPARISON:  Prior CT from [**2764-9-15**].
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  A small, pleural-based nodule
+     is again identified within the left lower lobe, stable in appearance from the
+     prior study.  No new lung nodules, parenchymal opacities, or pleural effusions
+     are identified in the lung bases.  There has been interval development of
+     numerous, enhancing, low-attenuation lesions throughout the liver, consistent
+     with metastatic disease.  Numerous punctate calcifications are again seen
+     within the liver and spleen.  The portal vein is patent.  The spleen otherwise
+     appears unremarkable.  The remainder of the pancreas, adrenal glands,
+     opacified loops of large and small bowel, and ureters appear unremarkable.
+     Within the lower pole of the left kidney, there is a small, approximately 3
+     mm, low-attenuation lesion present, too small to full characterize.  Within
+     the right kidney, there is a 9 mm, well-defined, low-attenuation lesion
+     consistent with a simple cyst.  Scarring is noted within the midpole of the
+     right kidney.  An ill-defined area of hyperdensity is noted within the lower
+     pole of the right kidney on the non-contrast series, which may represent
+     calcium.  Both kidneys enhance symmetrically and excrete normally.  New large
+     lymph nodes are identified within the root of the mesentery which have
+     hypodense centers, findings consistent with necrotic nodes. The largest lymph
+     node conglomerate measures 2.0 x 3.6 cm.  Multiple small mesenteric and
+     retroperitoneal lymph nodes are again identified, some of which appear smaller
+     than the prior study.  There is no free fluid or free air identified.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There has been interval increase in size
+     and number of nodes within both inguinal regions, the largest measuring 1 cm,
+     located within the left inguinal region.  Scattered, small pelvic lymph nodes
+     are again identified, which appear stable from the prior exam, and none of
+     which meet CT criteria for pathologic enlargement.  The rectum, sigmoid colon,
+     distal ureters, bladder, and prostate appear unremarkable.  There is no free
+     fluid.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+                                                                 (Over)
+
+     DATE: [**2765-3-15**] 9:59 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11111**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: HX AMPULLAR ADENOCARCINOMA, S/P WHIPPLE
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  New, numerous enhancing hypodense lesions within the liver consistent with
+     metastatic disease.
+     2.  Interval development of new enlarged necrotic lymph nodes within the root
+     of the mesentery.  Multiple small lymph nodes are identified within the
+     retroperitoneum and pelvis.  There has been slight interval increase in size
+     and number of multiple inguinal lymph nodes.
+     3.  Stable calcifications within the spleen and liver consistent with
+     granulomatous disease.
+     
+     These findings were discussed with Dr. [**First Name4 (NamePattern1) 11112**] [**Last Name (NamePattern1) **] at the time of
+     interpretation on [**2765-3-15**].
+     
+
+",,
+14622,,,,2765-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-3-15**] 9:59 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11111**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: HX AMPULLAR ADENOCARCINOMA, S/P WHIPPLE
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with h/o ampullar adenocarcinoma, s/p whipple.
+     REASON FOR THIS EXAMINATION:
+      Evaluate status of diseaase.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of ampullar adenocarinoma status post Whipple's disease.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis after the administration of 150 cc of IV
+     Optiray.  Nonionic contrast was used secondary to the patient's history of
+     allergy.  Pre-contrast and portal venous phase imaging of the liver was
+     obtained.
+     
+     COMPARISON:  Prior CT from [**2764-9-15**].
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  A small, pleural-based nodule
+     is again identified within the left lower lobe, stable in appearance from the
+     prior study.  No new lung nodules, parenchymal opacities, or pleural effusions
+     are identified in the lung bases.  There has been interval development of
+     numerous, enhancing, low-attenuation lesions throughout the liver, consistent
+     with metastatic disease.  Numerous punctate calcifications are again seen
+     within the liver and spleen.  The portal vein is patent.  The spleen otherwise
+     appears unremarkable.  The remainder of the pancreas, adrenal glands,
+     opacified loops of large and small bowel, and ureters appear unremarkable.
+     Within the lower pole of the left kidney, there is a small, approximately 3
+     mm, low-attenuation lesion present, too small to full characterize.  Within
+     the right kidney, there is a 9 mm, well-defined, low-attenuation lesion
+     consistent with a simple cyst.  Scarring is noted within the midpole of the
+     right kidney.  An ill-defined area of hyperdensity is noted within the lower
+     pole of the right kidney on the non-contrast series, which may represent
+     calcium.  Both kidneys enhance symmetrically and excrete normally.  New large
+     lymph nodes are identified within the root of the mesentery which have
+     hypodense centers, findings consistent with necrotic nodes. The largest lymph
+     node conglomerate measures 2.0 x 3.6 cm.  Multiple small mesenteric and
+     retroperitoneal lymph nodes are again identified, some of which appear smaller
+     than the prior study.  There is no free fluid or free air identified.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There has been interval increase in size
+     and number of nodes within both inguinal regions, the largest measuring 1 cm,
+     located within the left inguinal region.  Scattered, small pelvic lymph nodes
+     are again identified, which appear stable from the prior exam, and none of
+     which meet CT criteria for pathologic enlargement.  The rectum, sigmoid colon,
+     distal ureters, bladder, and prostate appear unremarkable.  There is no free
+     fluid.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+                                                                 (Over)
+
+     DATE: [**2765-3-15**] 9:59 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11111**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: HX AMPULLAR ADENOCARCINOMA, S/P WHIPPLE
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  New, numerous enhancing hypodense lesions within the liver consistent with
+     metastatic disease.
+     2.  Interval development of new enlarged necrotic lymph nodes within the root
+     of the mesentery.  Multiple small lymph nodes are identified within the
+     retroperitoneum and pelvis.  There has been slight interval increase in size
+     and number of multiple inguinal lymph nodes.
+     3.  Stable calcifications within the spleen and liver consistent with
+     granulomatous disease.
+     
+     These findings were discussed with Dr. [**First Name4 (NamePattern1) 11112**] [**Last Name (NamePattern1) **] at the time of
+     interpretation on [**2765-3-15**].
+     
+
+",,
+14622,,,,2765-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-5-17**] 8:52 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11113**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ampullar adenocarcinoma, on therapy.
+     REASON FOR THIS EXAMINATION:
+      Evaluate status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ampullary adenocarcinoma.  Evaluate status of disease.
+     
+     TECHNIQUE:  CT of the torso was performed using the oncology protocol.  150 cc
+     of Optiray non-ionic contrast was given due to history of hypertension.
+     
+     COMPARISON:  [**2765-3-15**].
+     
+     FINDINGS:
+     
+     CT OF THE CHEST WITH CONTRAST: There is no axillary, mediastinal, or hilar
+     lymphadenopathy. Small AP window and pretracheal lymph nodes are not
+     significantly changed since the prior chest CT of [**2764-10-21**].  Coronary artery
+     calcifications are again seen. There is a substantial decrease in the size of
+     aortic wall hematoma.  A small region of ulceration into the hematoma/plaque
+     is seen in the mid-descending thoracic aorta.  There are small, sub-cm
+     subpleural nodules in the superior right lower lobe, in the right middle lobe,
+     and in the left lower lobe.  While the left lower lobe nodule was seen on the
+     prior chest CT, the other two were not seen, perhaps due to the degree of
+     atelectasis present on the prior study. There is no effusion, pneumothorax, or
+     evidence of pneumonia on today's study.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST:  There are scattered
+     calcifications throughout the liver, unchanged, and the multiple hepatic
+     masses are probably unchanged in number as well.  However, while some of these
+     lesions may have the appearance of decreasing in size (at the dome of the
+     liver, a previously 2.4-cm mass now measures 2.0 cm), many of these are
+     slightly larger or at least more conspicuous (measuring 23 mm from 19 mm in
+     the inferior aspect of segment 3).  A mass in the superior aspect of segment 3
+     has grown from 19 to 26 mm.  The spleen also contains multiple calcifications.
+     The pancreatic body and tail, adrenal glands, and stomach appear to be within
+     normal limits.  Soft-tissue densities adjacent to the mesenteric vessels along
+     the SMA are smaller on today's study than on the prior.  A conglomerate
+     mesenteric nodal mass which was 3.8 x 2.5 cm now measures 2.6 x 2.1 cm, with
+     less surrounding stranding.  Several tiny hypodense foci within the left
+     kidney and sub-cm foci within the right kidney are too small to characterize.
+     There is a wedge-shaped defect in the cortex of the right kidney superiorly,
+     probably focal scarring.  There is a small nonobstrucitve herniation of small
+     bowel through the anterior left abdominal wall. There is no significant
+     abdominal lymphadenopathy or free fluid.  Small and shotty unchanged
+     retroperitoneal lymph nodes are present. Minimal mesenteric nodularity at the
+     midline just superior to the umbilicus is not significantly changed.
+                                                                 (Over)
+
+     DATE: [**2765-5-17**] 8:52 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11113**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT OF THE PELVIS WITH CONTRAST:  The large bowel, bladder, and distal ureters
+     are within normal limits.  The prostate is enlarged.  There is no pelvic
+     lymphadenopathy or free fluid.  A right-sided hydrocele is present.
+     
+     Examination of the osseous structures shows no suspicious lytic or blastic
+     lesions.  There is substantial calcification of the abdominal aorta.  There is
+     also a fusiform dilatation of the thoracic aorta, up to 4 cm in size.  Aortic
+     size has been stable.
+     
+     IMPRESSION:
+     
+     1) Multiple hepatic lesions are significantly more conspicuous on today's
+     study than on the prior study, and mostly have increased slightly in size.
+     
+     2) The conglomerate mesenteric mass has decreased in size.
+     
+     3) Small, sub-cm lung nodules were not apparent on the prior study, although
+     this could be due to the presence of effusions and atelectasis on the prior
+     study.
+     
+     4) Nonobstrucive abdominal wall hernia.
+     
+     
+     
+
+",,
+14622,,,,2765-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-5-17**] 8:52 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11113**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ampullar adenocarcinoma, on therapy.
+     REASON FOR THIS EXAMINATION:
+      Evaluate status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ampullary adenocarcinoma.  Evaluate status of disease.
+     
+     TECHNIQUE:  CT of the torso was performed using the oncology protocol.  150 cc
+     of Optiray non-ionic contrast was given due to history of hypertension.
+     
+     COMPARISON:  [**2765-3-15**].
+     
+     FINDINGS:
+     
+     CT OF THE CHEST WITH CONTRAST: There is no axillary, mediastinal, or hilar
+     lymphadenopathy. Small AP window and pretracheal lymph nodes are not
+     significantly changed since the prior chest CT of [**2764-10-21**].  Coronary artery
+     calcifications are again seen. There is a substantial decrease in the size of
+     aortic wall hematoma.  A small region of ulceration into the hematoma/plaque
+     is seen in the mid-descending thoracic aorta.  There are small, sub-cm
+     subpleural nodules in the superior right lower lobe, in the right middle lobe,
+     and in the left lower lobe.  While the left lower lobe nodule was seen on the
+     prior chest CT, the other two were not seen, perhaps due to the degree of
+     atelectasis present on the prior study. There is no effusion, pneumothorax, or
+     evidence of pneumonia on today's study.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST:  There are scattered
+     calcifications throughout the liver, unchanged, and the multiple hepatic
+     masses are probably unchanged in number as well.  However, while some of these
+     lesions may have the appearance of decreasing in size (at the dome of the
+     liver, a previously 2.4-cm mass now measures 2.0 cm), many of these are
+     slightly larger or at least more conspicuous (measuring 23 mm from 19 mm in
+     the inferior aspect of segment 3).  A mass in the superior aspect of segment 3
+     has grown from 19 to 26 mm.  The spleen also contains multiple calcifications.
+     The pancreatic body and tail, adrenal glands, and stomach appear to be within
+     normal limits.  Soft-tissue densities adjacent to the mesenteric vessels along
+     the SMA are smaller on today's study than on the prior.  A conglomerate
+     mesenteric nodal mass which was 3.8 x 2.5 cm now measures 2.6 x 2.1 cm, with
+     less surrounding stranding.  Several tiny hypodense foci within the left
+     kidney and sub-cm foci within the right kidney are too small to characterize.
+     There is a wedge-shaped defect in the cortex of the right kidney superiorly,
+     probably focal scarring.  There is a small nonobstrucitve herniation of small
+     bowel through the anterior left abdominal wall. There is no significant
+     abdominal lymphadenopathy or free fluid.  Small and shotty unchanged
+     retroperitoneal lymph nodes are present. Minimal mesenteric nodularity at the
+     midline just superior to the umbilicus is not significantly changed.
+                                                                 (Over)
+
+     DATE: [**2765-5-17**] 8:52 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11113**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT OF THE PELVIS WITH CONTRAST:  The large bowel, bladder, and distal ureters
+     are within normal limits.  The prostate is enlarged.  There is no pelvic
+     lymphadenopathy or free fluid.  A right-sided hydrocele is present.
+     
+     Examination of the osseous structures shows no suspicious lytic or blastic
+     lesions.  There is substantial calcification of the abdominal aorta.  There is
+     also a fusiform dilatation of the thoracic aorta, up to 4 cm in size.  Aortic
+     size has been stable.
+     
+     IMPRESSION:
+     
+     1) Multiple hepatic lesions are significantly more conspicuous on today's
+     study than on the prior study, and mostly have increased slightly in size.
+     
+     2) The conglomerate mesenteric mass has decreased in size.
+     
+     3) Small, sub-cm lung nodules were not apparent on the prior study, although
+     this could be due to the presence of effusions and atelectasis on the prior
+     study.
+     
+     4) Nonobstrucive abdominal wall hernia.
+     
+     
+     
+
+",,
+14622,,,,2765-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-5-17**] 8:52 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11113**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ampullar adenocarcinoma, on therapy.
+     REASON FOR THIS EXAMINATION:
+      Evaluate status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ampullary adenocarcinoma.  Evaluate status of disease.
+     
+     TECHNIQUE:  CT of the torso was performed using the oncology protocol.  150 cc
+     of Optiray non-ionic contrast was given due to history of hypertension.
+     
+     COMPARISON:  [**2765-3-15**].
+     
+     FINDINGS:
+     
+     CT OF THE CHEST WITH CONTRAST: There is no axillary, mediastinal, or hilar
+     lymphadenopathy. Small AP window and pretracheal lymph nodes are not
+     significantly changed since the prior chest CT of [**2764-10-21**].  Coronary artery
+     calcifications are again seen. There is a substantial decrease in the size of
+     aortic wall hematoma.  A small region of ulceration into the hematoma/plaque
+     is seen in the mid-descending thoracic aorta.  There are small, sub-cm
+     subpleural nodules in the superior right lower lobe, in the right middle lobe,
+     and in the left lower lobe.  While the left lower lobe nodule was seen on the
+     prior chest CT, the other two were not seen, perhaps due to the degree of
+     atelectasis present on the prior study. There is no effusion, pneumothorax, or
+     evidence of pneumonia on today's study.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST:  There are scattered
+     calcifications throughout the liver, unchanged, and the multiple hepatic
+     masses are probably unchanged in number as well.  However, while some of these
+     lesions may have the appearance of decreasing in size (at the dome of the
+     liver, a previously 2.4-cm mass now measures 2.0 cm), many of these are
+     slightly larger or at least more conspicuous (measuring 23 mm from 19 mm in
+     the inferior aspect of segment 3).  A mass in the superior aspect of segment 3
+     has grown from 19 to 26 mm.  The spleen also contains multiple calcifications.
+     The pancreatic body and tail, adrenal glands, and stomach appear to be within
+     normal limits.  Soft-tissue densities adjacent to the mesenteric vessels along
+     the SMA are smaller on today's study than on the prior.  A conglomerate
+     mesenteric nodal mass which was 3.8 x 2.5 cm now measures 2.6 x 2.1 cm, with
+     less surrounding stranding.  Several tiny hypodense foci within the left
+     kidney and sub-cm foci within the right kidney are too small to characterize.
+     There is a wedge-shaped defect in the cortex of the right kidney superiorly,
+     probably focal scarring.  There is a small nonobstrucitve herniation of small
+     bowel through the anterior left abdominal wall. There is no significant
+     abdominal lymphadenopathy or free fluid.  Small and shotty unchanged
+     retroperitoneal lymph nodes are present. Minimal mesenteric nodularity at the
+     midline just superior to the umbilicus is not significantly changed.
+                                                                 (Over)
+
+     DATE: [**2765-5-17**] 8:52 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11113**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT OF THE PELVIS WITH CONTRAST:  The large bowel, bladder, and distal ureters
+     are within normal limits.  The prostate is enlarged.  There is no pelvic
+     lymphadenopathy or free fluid.  A right-sided hydrocele is present.
+     
+     Examination of the osseous structures shows no suspicious lytic or blastic
+     lesions.  There is substantial calcification of the abdominal aorta.  There is
+     also a fusiform dilatation of the thoracic aorta, up to 4 cm in size.  Aortic
+     size has been stable.
+     
+     IMPRESSION:
+     
+     1) Multiple hepatic lesions are significantly more conspicuous on today's
+     study than on the prior study, and mostly have increased slightly in size.
+     
+     2) The conglomerate mesenteric mass has decreased in size.
+     
+     3) Small, sub-cm lung nodules were not apparent on the prior study, although
+     this could be due to the presence of effusions and atelectasis on the prior
+     study.
+     
+     4) Nonobstrucive abdominal wall hernia.
+     
+     
+     
+
+",,
+14622,,,,2765-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-7-20**] 12:19 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 11114**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with gallbladder cancer, currently on treatment.
+     REASON FOR THIS EXAMINATION:
+      Evaluate status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  75 year old male with gallbladder cancer, referred for re-
+     evaluation of disease status.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet
+     through the symphysis pubis following the administration of 150 cc of Optiray.
+      Non-ionic contrast was used due to patient hypertension.  Non-contrast-
+     enhanced and early phase images of the abdomen were included.
+     
+     COMPARISON:  [**2765-5-17**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  As before, there are several prominent
+     pretracheal, precarinal, and prevascular lymph nodes.  The largest of these is
+     located in the precarinal region and measures 1.5 x 1.4 cm.  No hilar or
+     axillary lymphadenopathy is present.  The heart and great vessels are grossly
+     normal in appearance.  As before, there are mild right apical emphysematous
+     changes and scarring.  Multiple tiny bilateral pulmonary nodules are unchanged
+     in size and number.  There are no pleural or pericardial effusions.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  As before, there are multiple
+     liver masses, all of which have increased in size.  There is a lesion at the
+     dome of the liver which currently measures 3.2 x 3.2 cm and previously
+     measured 2.1 x 2.2 cm.  There is a lesion within the inferior right lobe which
+     measures 3.7 x 3.7 cm, and previously measured 2.7 x 2.7 cm. Multiple
+     additional lesions have increased in size as well.  Scattered calcifications
+     throughout the liver and spleen likely represent sequelae from prior
+     granulomatous disease.  The portal vein and its branches are patent. There is
+     no intrahepatic ductal dilatation.  The pancreas, adrenal glands, and left
+     kidney are grossly normal.  There is a stable appearing right renal cyst, as
+     well as an area of cortical irregularity which likely reflects scarring. The
+     stomach and visualized bowel loops are grossly normal.  There has been no
+     appreciable interval change in the size or appearance of the ill-defined
+     mesenteric mass.  The aorta and its major branches are patent, although
+     extensive atheromatous disease is noted.  There is stable appearing thoracic
+     aortic aneurysm which measures 4.4 cm in diameter and is present just above
+     the level of the celiac artery.  No free fluid is present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The urinary bladder, distal ureters and
+     seminal vesicles are unremarkable.  There is moderate prostatic enlargement.
+     There is sigmoid diverticulosis without evidence of diverticulitis.  No free
+     fluid is present within the pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2765-7-20**] 12:19 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 11114**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are identified.
+     
+     IMPRESSION:
+     
+     1) Interval increase in size of multiple hepatic metastases.
+     
+     2) Stable appearance of ill-defined mesenteric mass.
+     
+     3) Stable appearance of multiple tiny nonspecific pulmonary nodules.
+     
+
+",,
+14622,,,,2765-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-7-20**] 12:19 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 11114**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with gallbladder cancer, currently on treatment.
+     REASON FOR THIS EXAMINATION:
+      Evaluate status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  75 year old male with gallbladder cancer, referred for re-
+     evaluation of disease status.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet
+     through the symphysis pubis following the administration of 150 cc of Optiray.
+      Non-ionic contrast was used due to patient hypertension.  Non-contrast-
+     enhanced and early phase images of the abdomen were included.
+     
+     COMPARISON:  [**2765-5-17**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  As before, there are several prominent
+     pretracheal, precarinal, and prevascular lymph nodes.  The largest of these is
+     located in the precarinal region and measures 1.5 x 1.4 cm.  No hilar or
+     axillary lymphadenopathy is present.  The heart and great vessels are grossly
+     normal in appearance.  As before, there are mild right apical emphysematous
+     changes and scarring.  Multiple tiny bilateral pulmonary nodules are unchanged
+     in size and number.  There are no pleural or pericardial effusions.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  As before, there are multiple
+     liver masses, all of which have increased in size.  There is a lesion at the
+     dome of the liver which currently measures 3.2 x 3.2 cm and previously
+     measured 2.1 x 2.2 cm.  There is a lesion within the inferior right lobe which
+     measures 3.7 x 3.7 cm, and previously measured 2.7 x 2.7 cm. Multiple
+     additional lesions have increased in size as well.  Scattered calcifications
+     throughout the liver and spleen likely represent sequelae from prior
+     granulomatous disease.  The portal vein and its branches are patent. There is
+     no intrahepatic ductal dilatation.  The pancreas, adrenal glands, and left
+     kidney are grossly normal.  There is a stable appearing right renal cyst, as
+     well as an area of cortical irregularity which likely reflects scarring. The
+     stomach and visualized bowel loops are grossly normal.  There has been no
+     appreciable interval change in the size or appearance of the ill-defined
+     mesenteric mass.  The aorta and its major branches are patent, although
+     extensive atheromatous disease is noted.  There is stable appearing thoracic
+     aortic aneurysm which measures 4.4 cm in diameter and is present just above
+     the level of the celiac artery.  No free fluid is present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The urinary bladder, distal ureters and
+     seminal vesicles are unremarkable.  There is moderate prostatic enlargement.
+     There is sigmoid diverticulosis without evidence of diverticulitis.  No free
+     fluid is present within the pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2765-7-20**] 12:19 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 11114**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are identified.
+     
+     IMPRESSION:
+     
+     1) Interval increase in size of multiple hepatic metastases.
+     
+     2) Stable appearance of ill-defined mesenteric mass.
+     
+     3) Stable appearance of multiple tiny nonspecific pulmonary nodules.
+     
+
+",,
+14622,,,,2765-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-7-20**] 12:19 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 11114**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with gallbladder cancer, currently on treatment.
+     REASON FOR THIS EXAMINATION:
+      Evaluate status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  75 year old male with gallbladder cancer, referred for re-
+     evaluation of disease status.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet
+     through the symphysis pubis following the administration of 150 cc of Optiray.
+      Non-ionic contrast was used due to patient hypertension.  Non-contrast-
+     enhanced and early phase images of the abdomen were included.
+     
+     COMPARISON:  [**2765-5-17**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  As before, there are several prominent
+     pretracheal, precarinal, and prevascular lymph nodes.  The largest of these is
+     located in the precarinal region and measures 1.5 x 1.4 cm.  No hilar or
+     axillary lymphadenopathy is present.  The heart and great vessels are grossly
+     normal in appearance.  As before, there are mild right apical emphysematous
+     changes and scarring.  Multiple tiny bilateral pulmonary nodules are unchanged
+     in size and number.  There are no pleural or pericardial effusions.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  As before, there are multiple
+     liver masses, all of which have increased in size.  There is a lesion at the
+     dome of the liver which currently measures 3.2 x 3.2 cm and previously
+     measured 2.1 x 2.2 cm.  There is a lesion within the inferior right lobe which
+     measures 3.7 x 3.7 cm, and previously measured 2.7 x 2.7 cm. Multiple
+     additional lesions have increased in size as well.  Scattered calcifications
+     throughout the liver and spleen likely represent sequelae from prior
+     granulomatous disease.  The portal vein and its branches are patent. There is
+     no intrahepatic ductal dilatation.  The pancreas, adrenal glands, and left
+     kidney are grossly normal.  There is a stable appearing right renal cyst, as
+     well as an area of cortical irregularity which likely reflects scarring. The
+     stomach and visualized bowel loops are grossly normal.  There has been no
+     appreciable interval change in the size or appearance of the ill-defined
+     mesenteric mass.  The aorta and its major branches are patent, although
+     extensive atheromatous disease is noted.  There is stable appearing thoracic
+     aortic aneurysm which measures 4.4 cm in diameter and is present just above
+     the level of the celiac artery.  No free fluid is present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The urinary bladder, distal ureters and
+     seminal vesicles are unremarkable.  There is moderate prostatic enlargement.
+     There is sigmoid diverticulosis without evidence of diverticulitis.  No free
+     fluid is present within the pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2765-7-20**] 12:19 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 11114**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Evaluate status of disease.
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are identified.
+     
+     IMPRESSION:
+     
+     1) Interval increase in size of multiple hepatic metastases.
+     
+     2) Stable appearance of ill-defined mesenteric mass.
+     
+     3) Stable appearance of multiple tiny nonspecific pulmonary nodules.
+     
+
+",,

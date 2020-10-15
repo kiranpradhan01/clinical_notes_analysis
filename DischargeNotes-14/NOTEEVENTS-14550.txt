@@ -1,0 +1,154 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14550,712,,,3155-05-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3155-5-12**]        Discharge Date: [**3155-5-18**]
+
+Date of Birth:  [**3069-6-7**]        Sex:  F
+
+Service:  MED
+
+
+ADDENDUM.
+
+ADDITIONAL DISCHARGE MEDICATION:  Lasix 40 mg po qd.
+
+
+
+                        [**First Name11 (Name Pattern1) 1655**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+
+Dictated By:[**Doctor Last Name 5662**]
+MEDQUIST36
+D:  [**3155-5-18**] 07:58:53
+T:  [**3155-5-19**] 10:44:26
+Job#:  [**Job Number 10845**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 1655**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: FRI [**3155-7-8**] 1:32 PM
+(End of Report)
+
+
+",,
+14550,712,18082,0,3155-05-12 17:41:00 EST,3155-05-12 18:01:00 EST,2747,"N",69,"Nursing/Other","NPN 0830-1900","
+NPN 0830-1900
+See FHPA for PMH.
+
+85 yo fe adm via ER due to weakness and dizziness, hypotensive due to ?urosepsis, dehydration.  Pt has chronic diarrhea, ? microscopic colitis.  Had diarrhea x 2 days, rx'd c Immodium, now resolved.  Not eating well, also on Lasix 60mg/day for crackles at bases (at primary care's office).  Pt fragile, arthritic changes in # joints, wrists, fingers, ankles, knees.  On pain regimen at home, primarily for back pain of Tylenol and ultram qid, Oxycontin 4/day, prn, Lidocaine patch. Home nurse accompanied pt, describes pain as very severe at times.  Also on NTG patch for angina.  Team thinks may be heartburn, so not ordered now.  On Coumadin at home, INR 3.1, so held today.  Pt received Gent and Levoflox in ER as well as 3L NS.  Was started on Dopamine for BP 60/P.
+
+Neuro:  A&Ox3, pleasant, cooperative. MAE, Pain mild today, good effect from ultram and tylenol, no oxycontin needed.  Lidocaine patch on low back.
+
+CV:  Pt A-V paced.  Rate 60.  QRS complexes currently widened, previously narrow, team aware.  Started on Vasopressin for low BP, then d/c'd.  Started on Levo at 1445 for map < 55.  When map low, uo low - pt usu hypertensive.  BP currently 101/49 c map 67.  Keep map ~70 for kidneys.  Incr Levo to .043 mcg/kg/min at 1900. 
+
+Resp:  2Lnc, LS clear. RR 12-18.
+
+GI:  +BS, no stool.  Abd soft.  Tol cardiac healthy diet well.
+
+GU/Flds:  As above, uo low c map low (25mls,45mls).  Receiving NS 100mls/hr.  Urine yel, slightly cloudy.
+
+Skin:  Intact.  Osteoarthritic changes as above.
+
+Social:  Son [**Name (NI) 1273**] in to visit, very supportive.  Nurse [**Doctor First Name 427**] in with patient.  Pt has network of caregivers at home.  Lives with [**Age over 90 541**] yo husband in independent living.
+ 
+",,
+14550,712,18082,0,3155-05-13 05:36:00 EST,3155-05-13 05:50:00 EST,2990,"N",69,"Nursing/Other",,"
+
+Nursing Progress Note: 7pm-7am:
+
+Neuro: Pt A+Ox3. Restless most of the night, did not [**Doctor Last Name 8**].
+
+CV: AVpaced in 60's. 1 episode of 12 beats of vtach at 2310. I was with the patient at the time and she commented that she could feel her heart ""fibrillating"". Patient was in no distress , converted without intevention. MD informed. At that time patient was on Levo .03mcg/kg/min to maintain MAP >70. Dr [**Last Name (STitle) 6217**] wanted Levo stopped and patient switched to vasopressin with a MAP goal of 60. Vaso on at 0000 until 0200 at .04u/min. Remains off currently.
+H/h this am 22.7/7.3 from 30.8/9.6 yest. Coags elevated also. 
+Md wants patient to receive 2 units of RBC's. BBS sent to lab. Md informed that patient needs to be consented , awaiting same. (Blood not ready yet)
+
+Resp: No resp distress.
+
+GI: Patient passing a lot of flatus overnight, requesting the bedpan q 1hr, with no results. No stool to guaic. Patient had diarrhea for 2 nights 2 days prior to adm. Has not eaten much since then, per patient. Abd soft, dist,nt, +BS. 
+
+GU: Patient voiding adeq amts of clr urine, but repeatedly complaining of feeling the need to urinate. 
+
+Soc: I spoke to patient's son last night and updated [**Last Name (un) 6218**] re patient's condition.
+
+[**Doctor First Name 68**] [**Name6 (MD) 69**] [**Name8 (MD) 70**] RN
+",,
+14550,712,18082,0,3155-05-13 10:53:00 EST,3155-05-13 11:08:00 EST,2560,"N",69,"Nursing/Other",,"
+
+
+FULL CODE     Universal Precautions
+Allergies:  PCN, shellfish, seroquel, movan, parnate
+
+
+Neuro:  AAOx3, MAEx4 - OOB to commode w/ minimal assistance.  
+
+CV:  HR=80-100s, NSR, no ectopy.  BP=120-140/40s.  +periph pulses, extrems warm, +pedal edema.
+
+Resp:  100% NRB alt w/ 6L n/c maintaining 02sat 100%.  She is DOE and takes a few minutes to catch her breath.  Lungs clear in upper fields, diminished in bases.  No cough.  Remains on heparin gtt at 1800units/hr as well as started on coumadin.  U/S of lower extrems done yest neg.
+
+GI/GU:  Abd obese, soft, +BS, taking house diet well.  Kayexylate given po this am for K=5.3 and pt was experiencing gas/cramping prior to diarrhea x1 and she then felt better.  Foley cath w/ clear yellow urine.
+
+Pain:  generalized CP on inspiration, and the was experiencing R shoulder discomfort after exertion of OOB to commode/bath/turning.  MS04 1 mg IVP given w/ good relief.  Pt's own NSAID, Etodolac, d/c'd
+
+Skin: intact
+
+ID: T=97.1 - no antibx.
+
+Access:  2PIVs 
+
+Social:  Sister in to visit.
+
+Plan:  Tx to floor when bed available.  Monitor coags/heparin gtt and coumadin.  Monitor resp status esp w/ exertion.  Med prn for comfort.  
+",,
+14550,712,18082,1,3155-05-13 10:53:00 EST,3155-05-13 11:10:00 EST,2560,"Y",69,"Nursing/Other",,"
+
+ABOVE NOTE WRITTEN ON WRONG PATIENT!!!
+",,
+14550,712,18082,0,3155-05-13 18:52:00 EST,3155-05-13 18:58:00 EST,2487,"N",69,"Nursing/Other",,"
+
+MICU NPN 0700-1930:
+  Pt had a stable day.  Events include transfusion of 2 u prbc and pt oobtc for 3 hours.  Pt tollerated transfusion well and hct bumped appropriately.  Pt is currently called out to floor and Dr. [**Last Name (STitle) **] has spoken with pts son, [**Doctor Last Name 1273**], to update him on the poc.  
+
+  Neuro:  Pt A + O X 3, pleasant and cooperative.  After 1700, pt increasingly anxious and slightly confused, getting upset with nursing staff for ""keeping her here.""  She was able to get in touch with her son and he reassured her with some good effect.  Pt is definately [**Doctor Last Name 8**] deprived and Dr. [**Last Name (STitle) **] in to evaluate her and her new confusion.  Plan to help pt [**Doctor Last Name 8**] overnight ? med recs.
+
+  CV:  Stable.  Afebrile.  BP stable.  Pt in AV paced rhythm with rare ectopy.  Pt tollerated 2 u prbc without s/sx rxn.  F/U hct excellent.  2 piv placed in prep to d/c central line--plan to d/c line if pts 2300 hct stable.  No s/sx of active bleeding. 
+
+  Pulm:  Pt weaned to RA.  Lungs CTA.  No cough.  Sats 98-100%.
+
+  GI:  Pt eating well with meals.  SSRI q6 hours.  Pt with some mild hyperglycemia.  No stool.
+  
+  GU:  Foley with good UOP.  Urine is cloudy/yellow.
+
+  SKin:  Intact.
+
+  Contact:  With pts son, [**Doctor Last Name 1273**].  Number in chart.
+",,
+14550,712,18082,0,3155-05-14 04:37:00 EST,3155-05-14 04:51:00 EST,2990,"N",69,"Nursing/Other",,"
+
+Nursing Progress Note: 7pm-7am
+
+Neuro: Patient somewhat disoriented at start of shift although capable of holding a completely lucid conversation. Md assessed patient and found her oriented. Occasionally overnight confused to place. 5am this am began yelling out for ""[**Doctor First Name 1087**]"". Attempting to climb oob and continues yelling. Patient becomes extremely annoyed when attempts are made to re orient her. Md informed re confusion this am. No intervention. Continue to attempt to reorient unlesss agitation continues to escalate. Patient should be transferring out of ICU today which will help with same hopefully.
+
+CV: HR 60's AVpaced. Bp 150's up to 180's sys this am. Patient sound asleep when bp at 180. Did not wake patient. Md aware re bp, team plan to restart more of her anti-hypertensives that they had been holding, this am. Hct sent at 2300: 31. Am hct stable at 30.9.
+
+Resp: No problems, breathing comfortably 16-20 on 2l nc.
+
+GI: Remains on cardiac diet, bs covered x1 overnight. 
+
+Gu: Adeq amts of urine via Foley. 
+
+Lines: Lt sc TLC in situ. Piv's x 2 placed yesterday in prep for pt going to floor. 
+
+Other: Patient finally slept last night for 4 hours without interruption. (Had not slept for 3 days,). Expect that ICU environment and [**Doctor Last Name 8**] deprivation are adding to confusion.
+
+[**Doctor First Name 68**] [**Name6 (MD) 69**] [**Name8 (MD) 70**] RN
+",,
+14550,712,18082,1,3155-05-14 14:52:00 EST,3155-05-14 18:08:00 EST,1741,"Y",69,"Nursing/Other","MICU A NSG 7A-7P","
+MICU A NSG 7A-7P
+ADDENDUM--PT HAS NOT VOIDED SINCE FOLEY REMOVED.  PO INTAKE POOR.  HO [**Doctor Last Name **] AWARE AND 500CC NS BOLUS ORDERED AND STARTED.
+",,
+14550,712,18082,0,3155-05-14 14:52:00 EST,3155-05-14 15:10:00 EST,1741,"N",69,"Nursing/Other","MICU A NSG 7A-7P","
+MICU A NSG 7A-7P
+NEURO--PT WITH EPISODES CONFUSION, YELLING OUT THAT PEOPLE ARE ""POKING AT ME"", ? WAS FEELING PNEUMOBOOTS INFLATING.  KNOWS DATE AND WHERE SHE IS, BUT THEN SEEMS TO FORGET.  BECOMES ANGRY WITH ATTEMPTS AT RE-ORIENTING.  FAMILY IN TO VISIT AND PT BETTER AFTER THEIR VISIT.  PLAN IS GIVE SLEEPER TONIGHT AND ALLOW PT TO [**Doctor Last Name **] AS MUCH AS SHE IS ABLE.  
+RESP--REMAINS ON RA WITH LUNGS WITH FAINT BIBASILAR CRACKLES.
+CV--CONTS AV PACED IN 70'S, NO ECTOPY NOTED.  HYPERTENSIVE TO 190'S THIS AM, STARTED BACK ON AMLODIPINE AND LOSARTAN, AND RECIEVED HYDRALIZINE 10MG IV X1 ALL WITH GOOD EFFECT.  PT WITH EXTREMITY EDEMA, RIGHT LEG >LEFT LEG, PT STATES THIS IS HER BASELINE.  TLCL D/C'D.
+GI--APPETITE POOR, FAMILY IN AND ENC PT TO EAT.  PT REQUESTING BEDPAN HOURLY, WITH NO BM, PT PASSING FLATUS.
+GU--FOLEY D/C'D, PT DTV AT ~1900. CONTS ON PO LEVOQUIN, AFEBRILE.
+SOCIAL--SON AND HUSBAND IN TO VISIT.  SPOKE WITH RESIDENT REGARDING PT'S CONFUSION, AND PLAN OF CARE.
+
+",,

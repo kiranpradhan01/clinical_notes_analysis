@@ -1,0 +1,208 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14338,17137,,,2755-06-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+14338,17137,,,2755-06-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2755-6-20**] 5:23 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8678**]
+     Reason: r/o bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with  unresponsiveness and dilated pupils
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     ______________________________________________________________________________
+     WET READ: DCsc MON [**2755-6-20**] 7:30 PM
+      SUBDURAL AND SUBARACHNOID WITH EDEMA AND FALCINE AND POSSIBLE UNCAL
+      HERNIATION.  FLUID IN MASTOIDS AND ? PNEUMOCEPHALUS.  NO DEPRESSED SKULL
+      FRACTURES
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     INDICATION: Unresponsive with dilated pupils and bottles of psychiatric
+     medications.
+     
+     TECHNIQUE: Non-contrast head CT.
+     
+     No priors.
+     
+     CT HEAD WITHOUT IV CONTRAST: There is high density material located along the
+     left frontal and temporal convexities measuring up to 9 mm in thickness. There
+     is effacement of sulci in these regions and parenchymal hypodensities
+     consistent with edema. There is also subarchnoid hemorrhage within this
+     region, extending into the basilar cisterns. There is a 14 mm leftward shift
+     of normally midline structures measured at the septum pellucidum with
+     compression of the left lateral ventricle but no contralateral enlargement of
+     the right lateral ventricle. The fourth ventricle remains patent but narrowed.
+     There is no tonsillar herniation. There is left uncal herniation. Some fluid
+     is seen within the left mastoid air cells and also within the left middle ear
+     canal. There is a fracture through the squamosal and petrous portions of the
+     left temporal bone with separation of the left posterior squamosal and
+     lambdoidal sutures. Mucosal thickening and aerosolized secretions are seen
+     within the posterior nasopharynx, consistent with recent intubation.
+     
+     Just to the left of the midline along the occiput are seen two small blebs of
+     air density which may represent pneumocephalus or be in the transverse sinus.
+     
+     IMPRESSION: 1. Left frontal and temporal convexities subdural hematoma with
+     subarachnoid extension, edema, and rightward subfalcine and  uncal herniation.
+     2. Possible pneumocephalus posteriorly on the left with fluid in the left
+     mastoid air cells. Fracture of the left temporal bone.
+     These results were immediately relayed to the [**Hospital Unit Name 1245**] team caring for the
+     patient.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2755-6-20**] 5:23 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8678**]
+     Reason: r/o bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     (Cont)
+
+",,
+14338,17137,,,2755-06-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2755-6-20**] 6:16 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8680**]
+     Reason: r/o pna, pneumo, etc
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with  unresponsiveness
+     REASON FOR THIS EXAMINATION:
+      r/o pna, pneumo, etc
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  49-year-old man found unresponsive.  Evaluate for pneumonia.
+     
+     A single supine AP chest radiograph was obtained without priors for
+     comparison.  There is an endotracheal tube in place with tip approximately 2
+     cm above the carina.  An NG tube passes below the left hemidiaphragm.  The
+     heart size is within normal limits allowing for AP and supine technique.  The
+     mediastinal and hilar contours are unremarkable.  The lungs are clear without
+     focal areas of consolidation.  No pneumothorax is identified and there is no
+     evidence of pleural effusion.
+     
+     IMPRESSION:  Lines and tubes as described above.  No radiographic evidence of
+     acute cardiopulmonary disease.
+
+",,
+14338,17137,,,2755-06-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2755-6-20**] 6:16 PM
+     C-SPINE, TRAUMA                                                 Clip # [**Clip Number (Radiology) 8679**]
+     Reason: r/o fractures
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with unresponsiveness, found down
+     REASON FOR THIS EXAMINATION:
+      r/o fractures
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  49 y/o man found unresponsive.
+     
+     A limited evaluation of the cervical spine was performed.  The cervical spine
+     is demonstrated from the ring of C1 through the C7-T1 interspace.  There is
+     normal alignment with preservation of the vertebral body heights and disc
+     space heights.  No acute fractures or dislocations are identified.  The tip of
+     the dens is unremarkable. There is an endotracheal tube passing through the
+     trachea with tip not seen on these radiographs.
+     
+     IMPRESSION:  Somewhat limited C-spine series.  No evidence of acute fracture
+     or dislocation.
+     
+
+",,
+14338,17137,17825,,2755-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2755-6-21**] 8:41 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8681**]
+     Reason: eval for organ donation                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man s/p SDH and herniation                                          
+     REASON FOR THIS EXAMINATION:
+      eval for organ donation                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cerebral herniation after head trauma.  Evaluate for underlying
+     lung disease.
+     
+     PORTABLE CHEST:  A supine view obtained at 8:45 PM is compared to the study of
+     [**2755-6-20**].  The endotracheal tube is approximately 2.5 cm above the carina.
+     The cardiac and mediastinal contours appear normal.  The left lung is clear.
+     There is a small linear density in the right mid lung zone, new since the
+     prior study, consistent with atelectasis.  The right lateral costophrenic
+     angle is excluded from the film.  There is no evidence of chronic lung
+     disease.  The skeletal structures are unremarkable.
+     
+     IMPRESSION:  Minor atelectasis in right lung.  No evidence of chronic
+     underlying lung disease.
+
+",,
+14338,17137,17825,0,2755-06-21 06:30:00 EST,2755-06-21 06:37:00 EST,3399,"N",54,"Nursing/Other","Admission note","
+Admission note
+data: pt adm from er, intubated, on vent at 60%.  no spontaneous resp effort noted. sat 98-100.  sx for thick yellow, small to mod amts.  no cough reflex noted.  no movement from extremities, pupils dilated and fixed.  u/o in huge amts, pitressin started, 3 l lr given with drop in sbp to 80's. bp better, u/o 30/hr, vasopressin off. tel report given to sister, pt's daughter was left a message on her phone machine to call [**Hospital1 10**].  NEOB notified of situation.
+",,
+14338,17137,17825,0,2755-06-21 15:35:00 EST,2755-06-21 16:03:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D. THIS AM,PITRESSIN REQUIRED TO BE RESUMED DUE TO HIGH UO AND DROP IN SBP TO 80'S WHICH DID SUCCESSFULLY WORK IN IMPROVING THE ABOVE..
+ PT REMAINS FIXED AND DILATED WITH NO GAG OR DEEP STIMULATED COUGH AS WITH SXING.BOTH FEET AT TIMES VERY REFLEXIVE AS WITH SHEET BRUSHING AGAINST FEET. NO RESPONSE TO STERNAL RUB. MINIMAL MOVEMENT OF FEET TO DIRECT PAIN TO INDIVIDUAL FEET.NO MOVEMENT OF ARMS TO PAIN
+  BY 1130, SERUM ETHANOL AND BENZO. LEVELS NEG .WITH CORE BODY TEMP > 97,APNEA TEST WAS PERFORMED BY DR. [**Last Name (STitle) 1905**].PT PASSED TEST AS TO BEING APNEAC PER HOSPITAL POLICY AND ABG'S.SHORTLYAFTER TEST O2 SAT REMAINED LOW AND BP DROPPED REQUIRING VENT. CHANGES AND ADDITION OF DOPAMINE.(SEE FLOW SHEET).
+ PT FOUND NOT TO TOLERATE TURNING WITH AGAIN DROP IN O2 SAT AND SBP.
+ PT'S DAUGHTER([**Doctor First Name **]),2 SISTERS,AND PT'S EX-WIFE IN.FAMILY MEETING HELD BY DR. [**Last Name (STitle) 1905**] WITH MS. [**Last Name (Titles) **](SOCIAL WORKER) AND MYSELF PRESENT.FAMILY WAS MADE AWARE OF PT'S IRREVERIBLE GRAVE CONDITIONWITH NO HOPE OF SURVIVAL.FAMILY WAS TOLD THAT PT PASSED CRITERIA FOR ""BRAIN DEATH"" AND DIAGNOSIS TO BE CONFIRMED BY NEURO- SURGERY. AFTER A PERIOD OF TIME WITH PT,FAMILY WASINTRODUCED TO ORGAN DONOR REP. PT IS DNR PER DR. [**Last Name (STitle) 1905**] AS TO NO CPR.
+A. FAMILY IS DISCUSSING POSIIBILITY OF ORGAN DONATION WITH [**Doctor First Name **](23YRS.OLD) DESIGNATED AS DETERMINING THE FINAL DECISION.
+R. CONDITION GRAVE. 
+",,
+14338,17137,17825,,2755-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2755-6-22**] 10:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8682**]
+     Reason:                                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 year old man s/p SDH and herniation                                         
+       
+     REASON FOR THIS EXAMINATION:
+                                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post subdural hematomas and cerebral herniation.
+     
+     PORTABLE CHEST:  A supine view is compared to studies from [**2755-6-20**] and
+     [**2755-6-21**].  The endotracheal tube is in a slightly low position, approximately 2
+     cm above the carina.  The cardiac and mediastinal contours are within normal
+     limits. The lung volumes are decreased.  There is a patchy area of increased
+     density in the right lung base, which was not present on the initial chest
+     radiograph and is consistent with atelectasis.  There are no pleural
+     effusions.
+     
+     IMPRESSION:  Subsegmental right basilar atelectasis.
+
+",,
+14338,,17825,0,2755-06-22 03:50:00 EST,2755-06-22 04:09:00 EST,-1,"N",54,"Nursing/Other",,"
+
+D PATIENT FIXED DILATED UNRESPONSIVE DECLEARED BRAIN DEAD BY NEURO AT ABOUT 6PM. PATIENT'S DAUGHTER HAS AGREED TO ORGAN DONNATION IF DONE AFTER 12:00 [**6-22**]. PATIENT IN NSR INITIALLY THEN DEVELOPED ST. NO VEA. EKG NORMAL; ECHO CARDIOGRAM DIFFICULT TO READ BUT WITH OUT [**Last Name 5974**] PROBLEM;. CARDIAC CATH SHOWED CLEAN CA EF 16. U/O > THAN 100 MOST HOURS. CVP 7 - 8.LUNGS CLEAR  SUCTIONED FOR MINIMAL SECRETION ORALLY AND DOWN ET. NG IN PLACE STILL DRAINING CHARCOAL COLORED FLUID 400CC ABD SOFT HYPO ACTIVE BS. B/P VERY LABIAL. INITIALLY ON DOPAMINE 3MCG AND VASSOPRESSIN .8MG THEN STARTED ON NIPRIDE. CURRENTLY ON NO DRIPS. 
+A PATIENT IS BODY FUNCTION ARE BEING MAINTAINED FOR HARVESTING.
+R [**Location (un) 501**] DONNOR COORDINATOR IS HELPING TO MANAGE PATIENT. SEE FLOW SHEET . PATIENT LEFT GROIN SITE IS WITHOUT BLEEDING OR HEMATOMA PATIENT HAS A PALPABLE DP AND PT.
+",,
+14338,,17825,0,2755-06-22 08:07:00 EST,2755-06-22 08:13:00 EST,-1,"N",54,"Nursing/Other",,"
+
+
+D; NO CHANGE NOTED IN PHYSICAL ASSESSMENT, ORGAN HARVESTING PENDING WITH SURGERY SCHEDULED FOR 12NOON.  PLEASE SEE VITAL SIGNS AND ASSESSMENT, ORDERS AS PER [**Location (un) 501**] ORGAN BANK.  DAUGHTER AT BEDSIDE EARLY THIS AM WITH ALL QUESTIONS ANSWERED SATISFACTORILY.  
+
+P; CONTINUE FULL LIFE SUPPORT PENDING SURGERY, OFFER EMOTIONAL SUPPORT TO DAUGHTER AND OTHER FAMILY MEMBERS.  VALIDATE FEELINGS AND CONCERNS ASSIST TO REVIEW POSITIVE ASPECTS OF GRAVE SITUATION.
+
+R; AS ABOVE, COMFORT AND POSITIVE REINFORCEMENT PROVIDED FOR PATIENTS DAUGHTER.  SOCIAL WORKER FOR NEOB AVAILABLE,  DAUGHTER WITH MESSAGE LEFT FOR HER PERSONAL COUNCELOR, DAUGHTERS FIANCE AT BEDSIDE WITH HER.
+",,
+14338,,17825,0,2755-06-22 13:05:00 EST,2755-06-22 13:07:00 EST,-1,"N",54,"Nursing/Other",,"
+
+ADEMDUM:  PATIENT AWAITING TRANSPORT TO OR, NO CHANGES NOTED.  FAMILY IN TO SAY ""GOOD BYES"" AND THEN WENT HOME.  SOCIAL WORKER FROM NEOB TO NOTIFY FAMILY AFTER COMEPLETION OF SURGERY.
+",,

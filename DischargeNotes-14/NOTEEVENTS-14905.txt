@@ -1,0 +1,2049 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14905,11655,,,2932-03-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2932-3-5**]     Discharge Date:  [**2932-3-11**]
+
+Date of Birth:   [**2852-8-18**]     Sex:  M
+
+Service:  MICU
+
+HISTORY OF PRESENT ILLNESS:  This is a 79 year old with
+multiple medical problems including AFib on Coumadin status
+post AICD, CRI, type 2 diabetes mellitus, CHF, who presents
+from outside hospital following discovery of subarachnoid
+hemorrhage after a fall.  Yesterday the patient had a
+mechanical fall at home, specifics unclear.  EMS was called,
+but the patient refused to go to the hospital.  There was
+loss of consciousness for unclear duration and head trauma.
+
+In the morning the patient did not feel well and went to
+[**Hospital **] [**Hospital 553**] Hospital.  A head CT showed three separate
+areas of hemorrhage in the midline above ventricle, two above
+the falx, and surrounding edema left greater than right mass
+effect, no shift or fluid collections.  Chest x-ray at
+outside hospital also showed a patchy right upper lobe
+infiltrate and elevated right diaphragm with mild vascular
+congestion.
+
+Patient denied cough, shortness of breath, fevers, chills,
+sweats, chest pain, abdominal pain.
+
+PAST MEDICAL HISTORY:
+1. AFib on Coumadin status post ICD.
+2. CRI.
+3. Type 2 diabetes.
+4. CHF.
+5. Hypertension.
+
+ALLERGIES:  Penicillin.
+
+MEDICATIONS:
+1. Lisinopril.
+2. Digoxin.
+3. Allopurinol.
+4. Lasix.
+5. Sotalol.
+6. Detrol.
+7. Paxil.
+8. Coumadin.
+9. Kayexalate.
+10. Colchicine.
+11. Glyburide.
+
+PHYSICAL EXAM:  Temperature 96.7, pulse 79, blood pressure
+113/96, respirations 16, and O2 saturation 93% on room air,
+and 97% on 3 liters.  In general, in neck brace.  Oriented to
+person, not place or year.  Neurologic:  Pupils 4 mm to 2 mm
+reactive to light and accommodation.  EOMI.  Face with right
+droop at rest, symmetric with smile.  Tongue symmetric.
+Sensation intact.  Normal palatal elevation.  No pronator
+drift, but difficult to assess.  Hand grips [**5-21**] and
+symmetric.  Able to wiggle toes.  Bilateral Babinski.  Neck:
+Unable to assess JVP in collar.  Lungs clear anteriorly and
+laterally.  Cardiovascular:  Irregularly, irregular, 3/6
+systolic ejection murmur at the left sternal border and left
+upper sternal border.  Abdomen:  Bowel sounds present, mild
+right upper quadrant tenderness.  Liver edge palpable 3 cm
+below costal margin with no guarding or rebound.
+
+LABORATORIES:  Were significant for a white count of 7.3 with
+76 polys, hematocrit of 44.5, and platelets of 116,
+creatinine is 2.1, INR of 2.4.
+
+HOSPITAL COURSE:  After admission, patient underwent q1h
+neuro checks.  Initially was started on Levaquin for right
+upper lobe pneumonia that was seen at the outside hospital,
+but this was stopped after there was no infiltrates seen.
+Patient was given FFP and vitamin K.  A right upper quadrant
+ultrasound which was evaluated secondary to
+hyperbilirubinemia and thrombocytopenia was normal.  However,
+there was a 7 cm AAA.  Neurosurgery was consulted, and took
+patient to angiogram to rule out a sinus thrombosis.  This
+was not seen, but patient developed acute renal failure post
+angiogram.  Patient also spiked a temperature while in the
+ICU with gram-positive cocci in clusters in the sputum.
+
+The patient also continued with the C spine as Neurosurgery
+did not clear it secondary to ossified fracture of
+longitudinal ligament at C2, C3 with grade I anterolisthesis.
+Patient continued to do poorly, and there was no plan to take
+the patient to the operating room.  He was planning to be
+called out to the floor, but instead of transferred from the
+West MICU to the East MICU.
+
+When he arrived to the East MICU, patient was noted to have
+paradoxical breathing with bloody sputum production, and was
+mostly unresponsive.  An ABG was done, which demonstrated
+7.43, 44, 117.  Family was notified that the patient was
+doing poorly.
+
+At 2 a.m. on [**2932-3-11**], the patient acutely became tachypneic
+and tachycardic, and then hypotensive.  He was suctioned for
+a very large amount of secretions.  It was thought he may
+have aspirated.  IV fluid bolus was given without effect, and
+the patient quickly became pulseless, and then apneic with
+only occasional agonal breathing.  This quickly decreased to
+a respiratory rate of 0.  Patient had an AICD and pacer, and
+this continued to discharge even after patient became
+pulseless.  A magnet was obtained so that the AICD would not
+fire.
+
+Patient on exam was without pulse.  On auscultation, no heart
+or lung sounds were heard for two minutes.  Pupils were fixed
+and dilated.  Time of death was 2:20 a.m. on [**2932-3-11**].  Family and attending were notified.
+
+
+
+                DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 12-ACV
+
+Dictated By:[**Last Name (NamePattern1) 9197**]
+
+MEDQUIST36
+
+D:  [**2932-5-20**]  14:53
+T:  [**2932-5-22**]  08:09
+JOB#:  [**Job Number 11377**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: [**Doctor First Name 123**] [**2932-8-21**] 10:10 AM
+(End of Report)
+
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 12:04 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13303**]
+     Reason: ?infiltrate                                                 
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with ?pna diagnosed at OSH, but no clinical signs.              
+     REASON FOR THIS EXAMINATION:
+      ?infiltrate                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Questionable pneumonia on prior chest x-ray.
+     
+     AP SUPINE CHEST:  There are no prior studies at this institution for
+     comparison.  There is cardiomegaly and perivascular haziness.  There is no
+     interstitial or alveolar edema.  A single pacer electrode is identified within
+     the right ventricle.  There is no pneumothorax, pleural effusion, or focal
+     infiltrates.
+     
+     IMPRESSION:  No radiographic evidence of pneumonia or cardiac failure.
+     Cardiomegaly.
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 10:22 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 13308**]
+     Reason: evaluate RUL mass on chest CT                               
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with RUL mass on chest CT                                       
+     REASON FOR THIS EXAMINATION:
+      evaluate RUL mass on chest CT                                                   
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  79 year old with upper lobe mass.
+     
+     TECHNIQUE:  Multiple helically acquired axial images are obtained from the
+     chest without the administration of intravenous contrast.
+     
+     Comparisons:  Chest x-ray [**2932-3-6**]
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  There is paracentral emphysema. In the
+     lateral segment of the right middle lobe, there is a small non-calcified
+     nodule. In addition, in the left lung base in the periphery, there is a
+     possible nodule versus a vessel. There are bilateral calcified and non-
+     calcified pleural plaques. There is no mass or consolidation in the right
+     upper lung. The airways have a large amount of secretions in the trachea.
+     There is bilateral atelectasis.
+     
+     The heart is enlarged and has coronary artery calcifications. There are
+     multiple small mediastinal lymph nodes but none of them are large enough to
+     meet CT criteria for pathologic involvement. There is no significant axillary
+     or hilar lymph adenopathy. There is no pericardial effusion. The right
+     diaphragm is elevated.
+     
+     Patient is status-post cholecystectomy. There is a small hiatal hernia. There
+     are vascular calcifications in the visualized portion of the upper abdomen.
+     There is also a small amount of ascites.
+     
+     On bone windows, there are no suspicious lesions. There are degenerative
+     changes.
+     
+     IMPRESSION:
+     1) Emphysema.
+     2) Bilateral calcified and non-calcified pleural plaques indicating asbestos
+     exposure.
+     3) Right middle lobe nodule and possible left lower lobe nodule. Follow-up CT
+     is recommended in 3 months to assess stability.
+     4) There is no right upper lobe mass.
+     
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 10:22 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 13308**]
+     Reason: evaluate RUL mass on chest CT                               
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 2:53 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 13307**]
+     Reason: S/P FALL HEAD TRAUMA R/O FX
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man s/p fall and head trauma                                        
+     REASON FOR THIS EXAMINATION:
+      r/o fracture                                                                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY: 79-year-old-male s/p fall with head trauma.
+     
+     TECHNIQUE: Multiple axial images of the cervical spine obtained without IV
+     contrast.  In addition, reformatted images in the coronal and sagital planes
+     were obtained.
+     
+     CT CERVICAL SPINE:
+     
+     FINDINGS: There is no prevertebral soft tissue swelling.   There is extensive
+     degenerative changes in the cervical spine consisting of anterior osteophytes
+     and loss of disc space with fusion from C3-C6.  In addition, there is
+     ossification of the posterior longitudinal ligament.  There is a fracture of
+     the ossified posterior longitudinal ligament from C2-C3 with a Grade I
+     anterolisthesis of C2 on C3.  However, there is no disruption of the facets
+     and lamina.  There is mucosal thickening of the maxillary sinuses bilaterally.
+     The mastoid air cells are clear.
+     
+     There are emphysematous changes in the lung apices, right greater than left.
+     
+     No significant cord compression or canal stenosis identified.
+     
+     IMPRESSION:
+     1.  Grade I anterolisthesis of C2 on C3 with a fracture of the ossified
+     posterior longitudinal ligament at this level.  There is no prevertebral soft
+     tissue swelling, and the acuity of this finding is questionable.  Extension
+     and flexion views of the cervical spine are recommended.
+     2.  No significant canal stenosis or cord compression identified.
+     3.  Degenerative changes as described above.
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 2:53 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 13307**]
+     Reason: S/P FALL HEAD TRAUMA R/O FX
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man s/p fall and head trauma                                        
+     REASON FOR THIS EXAMINATION:
+      r/o fracture                                                                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY: 79-year-old-male s/p fall with head trauma.
+     
+     TECHNIQUE: Multiple axial images of the cervical spine obtained without IV
+     contrast.  In addition, reformatted images in the coronal and sagital planes
+     were obtained.
+     
+     CT CERVICAL SPINE:
+     
+     FINDINGS: There is no prevertebral soft tissue swelling.   There is extensive
+     degenerative changes in the cervical spine consisting of anterior osteophytes
+     and loss of disc space with fusion from C3-C6.  In addition, there is
+     ossification of the posterior longitudinal ligament.  There is a fracture of
+     the ossified posterior longitudinal ligament from C2-C3 with a Grade I
+     anterolisthesis of C2 on C3.  However, there is no disruption of the facets
+     and lamina.  There is mucosal thickening of the maxillary sinuses bilaterally.
+     The mastoid air cells are clear.
+     
+     There are emphysematous changes in the lung apices, right greater than left.
+     
+     No significant cord compression or canal stenosis identified.
+     
+     IMPRESSION:
+     1.  Grade I anterolisthesis of C2 on C3 with a fracture of the ossified
+     posterior longitudinal ligament at this level.  There is no prevertebral soft
+     tissue swelling, and the acuity of this finding is questionable.  Extension
+     and flexion views of the cervical spine are recommended.
+     2.  No significant canal stenosis or cord compression identified.
+     3.  Degenerative changes as described above.
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 12:38 AM
+     C-SPINE, TRAUMA                                                 Clip # [**Clip Number (Radiology) 13301**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with fall, ich                                                  
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall, ICA.  Rule out fracture.
+     
+     CERVICAL SPINE, THREE VIEWS:  C1 through the mid portion of C7 is demonstrated
+     on the lateral view.  Overlying tubing is present.  C7 is better seen on the
+     swimmer's view, though T1 is partially obscured.  There is moderately severe
+     diffuse osteopenia.  There are moderately severe degenerative changes most
+     pronounced at C3 through C6, with disc space narrowing and marginal
+     osteophytes.  Visualized vertebral body heights are preserved.  No
+     spondylolisthesis is detected.  There is slight asymmetry of lateral masses
+     about the dens, with asymmetric narrowing between C1 and C2 lateral masses on
+     that view on the odontoid view, likely reflecting degenerative change in a
+     patient of this age. 
+     
+     IMPRESSION:  Limited assessment of T1 and extreme tip of dens.  Otherwise no
+     fracture detected.  Osteopenia and degenerative changes.  Carotid artery
+     calcifications to left cervical spine.
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:58 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 13306**]
+     Reason: evaluate for splenomegaly to explain thrombocytopenia, evalu
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man s/p fall, w/ hyperbilirubinemia, thrombocytopenia               
+     REASON FOR THIS EXAMINATION:
+      evaluate for splenomegaly to explain thrombocytopenia, evaluate RUQ to explain 
+      hyperbilirubinemia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Thrombocytopenia and hyperbilirubinemia.
+     
+     The liver demonstrates normal echogenicity and echotexture.  A simple cyst
+     measuring 2.3 cm in greatest dimension is seen within segment V.  There are no
+     other focal liver lesions.  The patient is post cholecystectomy.  The CBD
+     measures 6 mm.  Both kidneys are somewhat small, the right measuring 9.4 cm
+     and the left measuring 8.4 cm.  Cysts are noted in both kidneys.  There is no
+     hydronephrosis or stone.  The pancreas is unremarkable.  The spleen is
+     enlarged and measures 15 cm.  Ascites is noted in the left upper quadrant
+     surrounding the spleen.
+     
+     Incidental note is made of an abdominal aortic aneurysm measuring 7.5 cm in
+     greatest dimension in the proximal/mid abdominal aorta.
+     
+     IMPRESSION:
+     1) Splenomegaly.
+     2) Ascites.
+     3) Proximal abdominal aortic aneurysm, over 7cm in diameter.
+     
+     These findings were communicated to Dr. [**First Name (STitle) 1345**] at the conclusion of the study.
+     
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT         75685 VERT/CAROTID A-GRAM           *
+     * 75710 EXT UNILAT A-GRAM              -52 REDUCED SERVICES                *
+     * C1769 GUID WIRES INFU/PERF           C1894 INT/SHTH NOT/GUID EP NON-LASER*
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PREOPERATIVE DIAGNOSIS: Rule out sagittal sinus thrombosis in patient with an
+     intracranial hemorrhage consistent with a venous distribution.
+     
+     POSTOPERATIVE DIAGNOSIS: Patent superior sagittal sinus and rest of venous
+     drainage system with no evidence of intracranial aneurysm or other abnormal
+     arteriovenous malformation.
+     
+     ANESTHESIA: Conscious sedation with local infiltration of the right groin. 
+     
+     INDICATION: Mr. [**Known patient firstname 2935**] [**Known patient lastname 13305**] is a patient who sustained a fall and was noted
+     on CT scan of the head to [**Hospital1 4289**] bilateral frontal hemorrhages. These were
+     felt by the radiologist interpreting the study to possibly constitute a venous
+     type of hemorrhage and accordingly the patient is undergoing this cerebral
+     angiogram to determine patency of the venous system.
+     
+     CONSENT: The patient's family were given a full and complete explanation of
+     the procedure. Specifically, the indications, risks, benefits, and
+     alternatives to the procedure were explained in detail. In addition, the
+     possible complications, such as the risk of bleeding, infection, stroke,
+     neurological deficit or deterioration, groin hematoma, and other unforeseen
+     complications, including the risk of coma and even death, were outlined. The
+     patient's family understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL: The patient was brought into the Endovascular Suite and
+     placed on the table in supine position. The right groin area was prepped and
+     draped in the usual sterile fashion. A 19-gauge single-wall needle was then
+     used to puncture the right common femoral artery, and upon the return of brisk
+     arterial blood, a 4 Fr vascular sheath was inserted over a guidewire and kept
+     on a heparinized saline drip. Next, a diagnostic catheter was used to
+     selectively catheterize the following vessels: right common carotid artery,
+     left common carotid artery, left subclavian artery, and left vertebral artery.
+     
+     RESULTS: Injection of the innominate artery showed no atherosclerotic change
+     at the origin of the right common carotid artery or the right subclavian
+     artery. Injection of the right common carotid artery showed the presence of
+     30% smooth stenosis at the carotid bifurcation. Intracranially injection of
+     the right internal carotid artery shows no evidence of intracranial
+     atherosclerosis and showed a hypoplastic right A1 segment of the anterior
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 1:36 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 13304**]
+     Reason: HEADACHES
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     cerebral artery with a fetal-type posterior cerebral artery. Injection of the
+     left common carotid artery shows the presence of a 50% focal stenosis of the
+     left internal carotid artery approximately 1.5 cm away distal to the cervical
+     origin. The rest of the left internal carotid artery was within normal limits.
+     Injection of the left common carotid artery also reveals a left internal
+     carotid artery to [**Hospital1 4289**] a dominant left A1 segment of the anterior cerebral
+     artery which perfuses both anterior cerebral arteries. A2 segment have no ACOM
+     aneurysm associated. Examination of the sagittal sinus along its entire course
+     showed it to be widely patent with no evidence of unusual constriction. The
+     bilateral transverse and sigmoid sinuses are also similarly patent. Injection
+     of the left subclavian artery which was performed using [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     because of tortuosity revealed no atherosclerotic involvement at the origin of
+     the left vertebral artery. The left vertebral artery course in the cervical
+     segment is within normal limits and intracranially the basilar artery and its
+     branches appear to be within normal limits.
+     
+     IMPRESSION: No evidence of sinus thrombosis and otherwise unremarkable
+     angiogram with the presence of a 50% wedge-shaped stenosis at the left
+     internal carotid artery.
+     
+     
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 3:48 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 13302**]
+     Reason: HEMORRHAGE ABOVE VENTRICLES ALONG FALX ?SUSPICIOUS VENOUS BLEED
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with area of hemorrhage above ventricles along falx. Suspicious 
+      for venous bleed; Pt cannot have MRI due to AID/pacemaker
+     REASON FOR THIS EXAMINATION:
+      Please perform CT with contrast with venous view especially near sagital sinus. 
+       Discussed already with radiology resident
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Areas of hemorrhage along the falx suspicious for venous
+     infarction. Patient is unable to have MRI due to AICD/pacemaker. Evaluate for
+     underlying mass or essential sinus thrombosis. 
+     
+     CT BRAIN WITH AND WITHOUT CONTRAST:
+     
+     TECHNIQUE:   CT head is performed before and after the administration of IV
+     contrast.  The patient has elevated creatinine. However, given the nature of
+     these hemorrhages, as originally seen on outside CT, in conjunction with the
+     patient's care team and neurosurgery, it was felt the risks of contrast
+     nephropathy were outweighed by the potential benefits of this study.
+     Therefore, the patient was premedicated with Mucomist and prehydrated and 60
+     cc of Visapaque nonionic contrast was used.
+     
+     COMPARISONS:  The outside CT examination is not currently available for
+     comparison.
+     
+     FINDINGS:  There is a 7 x 19 mm hyperdensity adjacent to the right side of the
+     falx cerebra, probably a small subdural hematoma.  Additionally, at the vertex
+     on the right, there are small hyperdensities within the subarachnoid space,
+     measuring up to 5 x 12 mm in size.  In the medial and superior left frontal
+     lobe, there is a 17 x 23 mm hyperdense region, consistent with parenchymal
+     hemorrhage. There is extensive hypodensity in the cerebral white matter which
+     is probably related to old infarction.  There is also a mild degree of edema
+     surrounding the hematoma.   Additionally, there are regions of hypodensity
+     within the cerebellum, lacunes versus subarachnoid spaces.  There is left
+     frontal lobe encephalomalacia.  The left parenchymal hemorrhage causes
+     slightly impresses the left lateral ventricle. The lateral ventricles,
+     cisterns, and sulci are uniformly widened, consistent with atrophic change.
+     
+     After the administration of IV contrast, there are no abnormally enhancing
+     lesions seen.  Additionally, the sagittal sinus enhances normally.
+     
+     There are atherosclerotic calcifications of the vertebral and carotid
+     arteries.  No fractures are seen. There is mucosal thickening within the
+     maxillary, ethmoid and sphenoid sinuses, most prominent in the left maxillary
+     sinus. The mastoid air cells are aerated. No other soft tissue abnormalities
+     are seen.
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 3:48 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 13302**]
+     Reason: HEMORRHAGE ABOVE VENTRICLES ALONG FALX ?SUSPICIOUS VENOUS BLEED
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  The areas of hyperdensity to the right of the falx in the subdural and
+     subarachnoid spaces represent hemorrhage. There is interparenchymal hemorrhage
+     in the left superior medial frontal lobe, with minimal impression of the left
+     lateral ventricle.
+     
+     2.  No evidence of sagittal sinus thrombosis.
+     
+     3.  No enhancing masses are seen.
+     
+     4.  Sinus mucosal disease.
+
+",,
+14905,11655,18522,,2932-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-6**] 3:48 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 13302**]
+     Reason: HEMORRHAGE ABOVE VENTRICLES ALONG FALX ?SUSPICIOUS VENOUS BLEED
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with area of hemorrhage above ventricles along falx. Suspicious 
+      for venous bleed; Pt cannot have MRI due to AID/pacemaker
+     REASON FOR THIS EXAMINATION:
+      Please perform CT with contrast with venous view especially near sagital sinus. 
+       Discussed already with radiology resident
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Areas of hemorrhage along the falx suspicious for venous
+     infarction. Patient is unable to have MRI due to AICD/pacemaker. Evaluate for
+     underlying mass or essential sinus thrombosis. 
+     
+     CT BRAIN WITH AND WITHOUT CONTRAST:
+     
+     TECHNIQUE:   CT head is performed before and after the administration of IV
+     contrast.  The patient has elevated creatinine. However, given the nature of
+     these hemorrhages, as originally seen on outside CT, in conjunction with the
+     patient's care team and neurosurgery, it was felt the risks of contrast
+     nephropathy were outweighed by the potential benefits of this study.
+     Therefore, the patient was premedicated with Mucomist and prehydrated and 60
+     cc of Visapaque nonionic contrast was used.
+     
+     COMPARISONS:  The outside CT examination is not currently available for
+     comparison.
+     
+     FINDINGS:  There is a 7 x 19 mm hyperdensity adjacent to the right side of the
+     falx cerebra, probably a small subdural hematoma.  Additionally, at the vertex
+     on the right, there are small hyperdensities within the subarachnoid space,
+     measuring up to 5 x 12 mm in size.  In the medial and superior left frontal
+     lobe, there is a 17 x 23 mm hyperdense region, consistent with parenchymal
+     hemorrhage. There is extensive hypodensity in the cerebral white matter which
+     is probably related to old infarction.  There is also a mild degree of edema
+     surrounding the hematoma.   Additionally, there are regions of hypodensity
+     within the cerebellum, lacunes versus subarachnoid spaces.  There is left
+     frontal lobe encephalomalacia.  The left parenchymal hemorrhage causes
+     slightly impresses the left lateral ventricle. The lateral ventricles,
+     cisterns, and sulci are uniformly widened, consistent with atrophic change.
+     
+     After the administration of IV contrast, there are no abnormally enhancing
+     lesions seen.  Additionally, the sagittal sinus enhances normally.
+     
+     There are atherosclerotic calcifications of the vertebral and carotid
+     arteries.  No fractures are seen. There is mucosal thickening within the
+     maxillary, ethmoid and sphenoid sinuses, most prominent in the left maxillary
+     sinus. The mastoid air cells are aerated. No other soft tissue abnormalities
+     are seen.
+                                                                 (Over)
+
+     DATE: [**2932-3-6**] 3:48 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 13302**]
+     Reason: HEMORRHAGE ABOVE VENTRICLES ALONG FALX ?SUSPICIOUS VENOUS BLEED
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  The areas of hyperdensity to the right of the falx in the subdural and
+     subarachnoid spaces represent hemorrhage. There is interparenchymal hemorrhage
+     in the left superior medial frontal lobe, with minimal impression of the left
+     lateral ventricle.
+     
+     2.  No evidence of sagittal sinus thrombosis.
+     
+     3.  No enhancing masses are seen.
+     
+     4.  Sinus mucosal disease.
+
+",,
+14905,11655,18522,0,2932-03-06 07:00:00 EST,2932-03-06 07:15:00 EST,103,"N",1,"Nursing/Other","CCU NSG ADMISSION/PROGRESS NOTE 1A-7A/S/P HEAD BLEED","
+CCU NSG ADMISSION/PROGRESS NOTE 1A-7A/S/P HEAD BLEED
+
+S- ANSWERING ONE WORD ANSWERS- WHERE HE LIVES, HIS WIFE'S NAME
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA. PLEASE REFER TO NSG FHPA FOR DETAILS R/T PMH/HPI.
+
+IN BRIEF, THIS IS A 79 YR OLD MAN THAT WAS HOME ON COUMADIN FOR AF- FELL AND REFUSED TO GO TO THE HOSP IN SPITE OF LOC WITNESSED BY WIFE BY REPORT.
+HE COULDN'T MOVE THIS NEXT MORNING AND FELT UNWELL AND DECIDED TO GO TO [**Location (un) **] [**Location (un) **]. HE RECEIVED A CT SCAN WHICH REVEALED, 3 AREAS OF BLEED/ INTRACRANIAL BLEEDING, CHRONIC ICHEMIA AS WELL AS ATROPHY. PT ALERT BUT NOT SPEAKING TOO MUCH- MOVING ALL EXTREMITIES- PEERL. PT RECEIVED VIT K TO DECREASE INR OF 2.3  AND TRANSFERED TO [**Hospital1 10**] FOR FURTHER W/U. C COLLAR APPLIED HERE IN ER FOR H/O FALL.
+PT ADMITTED TO CCU 1 AM FOR FREQUENT NEURO CHECKS/FURTHER MONITORING.
+
+CV- PT WITH STABLE VS- ICD IN PLACE- V PACING AT 70'S- FREQ VEA. 
+AM LYTES PENDING. BP- 120/70'S- RECEIVED 2 MORE UNITS FFP THIS SHIFT. AM COAGS PENDING AS WELL.
+
+RESP- PT FOUND TO HAVE RUL INFILTRATE BY REPORT AT MW HOSP- GOOD O2 SATS, CLEAR LUNG SOUNDS.- RECIEVED 500 LEVO IV IN ER- TO START IN PO DOSE QD.
+AFEBRILE
+PT APPEARS COMFORTABLE.
+
+GU- FOLEY CATH IN PLACE- 30-50CC/HOUR.
+RECEIVED 125/HOUR X 500CC PRE REPEAT CT WITH CONTRAST AS WELL AS MUCOMIST X 1 DOSE .
+TO RECEIVE 3 MORE DOSES OVER THIS DAY.
+IVF DECREASED TO KVO- TO HOLD DIURESIS TODAY FOR CRI.
+
+NEURO- SEE FLOWSHEET
+MOVING ALL EXTREMITIES, PEERL, ANSWERING QUESTIONS IN ONE WORD ANSWERS, PT VERY QUIET.
+
+A/P- PT ADMITTED TO CCU FOR MONITORING OF NEURO STATUS
+
+CHECK AM COAGS FOR INR- REPEAT VIT K TODAY AS ORDERED.
+REPLETE LYTES AS NEEDED.
+CONTINUE CLOSE ASSESSMENT OF NEURO SIGNS.
+ASSESS RENAL FX/NEED FOR FLUID/DIUIRESIS
+WATCH FOR ANY SIGN RESP COMPOMISE/SX WORSENED PNA.
+ANTIBX AS ORDERED
+KEEP FAMILY AWARE OF PLAN CARE
+AS WELL AS PT.
+CONTINUE NEURO CHECKS AS ORDERED 
+
+RESP - PT WITH 
+",,
+14905,11655,18522,0,2932-03-06 18:31:00 EST,2932-03-06 18:53:00 EST,40,"N",1,"Nursing/Other","MICU NPN","
+MICU NPN
+neuro: pt awake, lethargic, oriented to person, place and year. MAE, nl strength, PERRL, follows commands consistently. cooperative. Pt has on cervical collar. had neck CT done, and is now in angio. INR 1.9 this am given 4u FFP, and po Vit k, INR 1.5 at 1500.
+cv: v paced 72, bp 121-135/70's.
+resp: SATS 94-98% on 4lnp
+gi: NPO for angio, taking meds w/o difficulty, no stool. T bili 2.4.abd soft distended. abd ultrasound done-> splenomegaly,ascites, abdominal aortic aneurysm measuring 7.5 cm in prox/mid abdominal area found.
+gu: foley draining dk yellow urine 60-80cc/hr. BUN/CR 49/1.9 (?baseline), received 3 doses mucomist, and prehydrated  prior to angio
+id: afebrile, wbc 8.0, levo d/c
+end: bs wnl
+skin: intact, 
+social: wife and son in to visit, spoke w/ MD, and updated on pt's condition and plan of care
+A: Cerebral hemmorage, w/ improving neuro status. AAA found on abd ultrasound, splenomegaly, ascites. 
+P: continue to monitor neuro status, repeat spine films to clear for fx. CT of abd. Continue mucomist and hydration. follow BUN/cr.
+",,
+14905,11655,18522,,2932-03-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-7**] 7:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13309**]
+     Reason: Hypoxia                                                     
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        79 year old man with ?pna diagnosed at OSH, but no clinical signs.            
+         
+     REASON FOR THIS EXAMINATION:
+      Hypoxia                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hypoxia
+     
+     AP SUPINE CHEST: Comparison with one day prior shows an increase in the
+     interstitial infiltrate and persistent cardiomegaly.  Small left pleural
+     effusion.  No other significant change.
+     
+     IMPRESSION:  Findings are consistent with cardiac failure.
+     
+
+",,
+14905,11655,18522,0,2932-03-07 03:27:00 EST,2932-03-07 04:01:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress(MICU Border): s/p fall, ICH","
+CCU Nursing Progress(MICU Border): s/p fall, ICH
+S-""Yes""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VSS
+
+O-MS:Lethargic and oriented to self, opens eyes to voice and does follow commads consistently but remaining non-verbal for entire shift except for answering ""yes"" when told wife called. Pt nodding head from side to side and up and down when asked questions appropriately. Upper extremeties intially moving on bed but are equal and of normal strength, continues to move lower extremeties only on bed, pupils 2mms bilaterally and brisk, repeat spine films for neck clearance on hold till tommorow, collar care done and remains in place, neuro angio procedure performed uneventful and (-) for saggital sinus thrombus therefore no intervention done, angio only showing lots of atheroscelrosis of vessels. 
+CV:VSS throughout night, HR 70s V paced with frequent to occasional intrinsic rhythmn of afib, few PVCs, SBPs 120-130s, Hydralazine started to keep SBPs in the 120s secondary to ICH and AAA. Hydralazine working with good effect. Right groin site CDI with no hematoma noted, pulses dopplerable distal with warm BLEs.
+RESP:Breath sounds clear throughout, O2Sats on 4Ls 95-99%. Denies SOB.
+CT of chest performed last night to evaluate mass on CXR, results pending.
+GU/GI: Foley draining clear yellow concentrated colore urine, HUOs 30-45cc/hr. During angio, did recieve 150cc of IV contrast dye. No post hyrdration fluid ordered, RN making MICU team aware and team agreeing to run remainder of NS hanging at 50cc/hr(750mls). In addition received final dose of Mucomyst. Remains NPO except for meds with sips of water, does well taking POs. Small amounts of soft to liquid brown stool at rectum, bowel stimulants held. 
+ID:Afebrile. On Levo for suspected infiltrate on CXR. 
+HEME: HCT 39 yesterday AM, MICU team not wanting to repeat HCT tonight, INR down from 1.9 to 1.5 as of yesterday afternoon, continues Vit K times 2 more doses.
+ENDO:BS stable, not requiring coverage overnight or this AM.
+SKIN:Intact. Right gluteal area and slightly across sacral pink raise [**Last Name (un) 6380**]. Continue to follow. 
+A/P:79 yo s/p fall with LOC p/w ICH and neuro deficit, thus neuro exams and CTs of head unchange, angio (-) for thrombus and awaits c-spine clearance from neuro surgery. In addition AAA found inadvertently on Abd US and also a mass of CXR, workups in progress. 
+
+Continue to monitor
+
+
+",,
+14905,11655,18522,0,2932-03-07 17:32:00 EST,2932-03-07 17:50:00 EST,96,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+micu border
+o- id- afebrile. ms/neuro- in am not speaking, then said yes x1. later day- oriented to self and year/month, unable to understand his word when answering for place. able to nod/shake head slightly. moving arms, more later in day, squeeze hands, raises and holds arms, arm strength improved later day. moves toes on command, unable to move legs. able to sip with straw this pm, unable to do in am. cont. with cervical collar, changed to [**Location (un) **] j with collar care done. 
+cv- hr 70s paced with occ own beat, occ pvc, rare short run. bp 110-130s/. k 3.8, not replaced. creat. 2.0. hct 36.5. inr 1.6 in am, re'd total 3units ffp and repeat inr 1.6. re'ing 4more units ffp, 3rd up. repeat inr,etc after 4 done. 
+resp- on 4l n/c sats 96-100, l/s dim scat cxs esp. lower. no sob, occ. dry cough this pm. u/o low all day, concentrated, ho aware. 
+gi- npo, taking meds. abd soft/distended. ho to insert pedi feeding tube today. had small yellow liquid stool this am. 
+skin- intact, log rolled/ turned side to side with skin/oral care 2-3hrs. pneumoboots on. 
+social- wife, fx in, updated on pt status, plan by mds/rn. 
+code status- pt is dni, fx to speak to primary md to discuss dnr and ?turning off aicd. 
+a- s/p fall, bleed.
+p- cont. to follow neuro status, check inr after 4th unit done. 
+check with fx in am regarding code status. 
+
+",,
+14905,11655,18522,,2932-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-8**] 8:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13310**]
+     Reason: Does this pt have CHF                                       
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         79 year old man with hypoxia                                                 
+     REASON FOR THIS EXAMINATION:
+      Does this pt have CHF                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 79 year old man with hypoxia.  Rule out congestive heart failure.
+     
+     Comparison made to prior study of [**2932-3-7**] at 0742 hours.
+     
+     CHEST, PORTABLE AP - [**2932-3-8**] AT 0811 HOURS: Comparison with one day
+     prior study shows increasing opacity in the right base with indistinct right
+     hemidiaphragm outline and increased reticular opacities in the right upper
+     zone suggesting worsening congestive heart failure.  Note is made of
+     persistent cardiomegaly and the tip of the pacemaker lead is in the right
+     ventricle.
+     
+     IMPRESSION: Worsening CHF.
+
+",,
+14905,11655,18522,,2932-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-8**] 6:11 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13311**]
+     Reason: Has hemorrhage extended or shrunk?                          
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with recent SAH, persistent coagulopathy                        
+     REASON FOR THIS EXAMINATION:
+      Has hemorrhage extended or shrunk?                                              
+     CONTRAINDICATIONS for IV CONTRAST:
+      Acute renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Subarachnoid hemorrhage with persistent coagulopathy. Evaluate
+     hemorrhage.
+     
+     TECHNIQUE: Non-contrast head CT.
+     
+     COMPARISON: Head CT from [**2932-3-6**].
+     
+     NON-CONTRAST HEAD CT: Again seen is a left medial frontal lobe
+     intraparenchymal hemorrhage, which appears slightly larger in size than on the
+     prior study. There is a mild amount of surrounding edema with continued mild
+     compression of the left lateral ventricle. Again seen is an area of
+     hyperdensity adjacent to the falx on the right side, not changed in size and
+     appearance from the prior exam, likely consistent with a small subdural
+     hematoma. Small hyperdense areas are also identified within the subarachnoid
+     space at the vertex, stable from the prior exam, again likely consistent with
+     a small subarachnoid hemorrhage. Periventricular hypodensities are again noted
+     consistent with chronic microvascular infarction. There is stable hypodensity
+     noted within the left frontal lobe, consistent with encephalomalacia.
+     Scattered hypodensities are seen within the cerebellum, likely representing
+     old lacunar infarcts. There is significant mucosal thickening and fluid within
+     both maxillary sinuses. Moderate amount of mucosal thickening and fluid is
+     also identified within both sphenoid sinuses and ethmoid air cells. The
+     osseous and soft tissue structures are unchanged.
+     
+     IMPRESSION: Slight interval increase in size of the left medial frontal
+     intraparenchymal hemorrhage. Stable small subdural and subarachnoid
+     hemorrhage.
+     
+
+",,
+14905,11655,18522,,2932-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-8**] 11:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13312**]
+     Reason: Placement of NGT                                            
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          79 year old man s/p NGT placement                                           
+     REASON FOR THIS EXAMINATION:
+      Placement of NGT                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: S/P NG tube placement.
+     
+     CHEST, SINGLE AP PORTABLE VIEW.
+     
+     Detail is considerably blurred by patient motion. An NG type tube is present.
+     The radiopaque tip lies in the distal esophagus and does not cross the EG
+     junction. There is prominence of the cardiomediastinal silhouette, upper zone
+     redistribution, diffuse vascular blurring, left lower lobe collapse and/or
+     consolidation and an elevated right hemidiaphragm. No gross effusion.
+     Curvilinear demarcation along the right lateral lung is noted. If there is no
+     reason to suspect a pneumothorax, this likely represents a skin fold. A single
+     lead pacemaker is present, with lead tip over right ventricle.
+     
+     IMPRESSION: NG tube with tip in distal esophagus. This should be advanced to
+     be used.
+
+",,
+14905,11655,18522,0,2932-03-08 04:40:00 EST,2932-03-08 05:04:00 EST,199,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: SBP 122-132/66-77. REMAINS ON HYDRALAZINE 10MG WITH ADEQUATE CONTROL IN BP. HR V-PACED 71-75 WITH OCCASSIONAL PVC'S. GOAL FOR BP 120-130.
+
+RESP: RR-REG 16-20. O2 @ 4L VIA NP. APPEARS COMFORTABLE O2 SATS 97-100%. BS CL/DIMINISHED IN BASES. LLL CRACKLES
+
+GI: ABD IS SOFT BUT DISTENDED. HYPOACTIVE BS NOTED. PT WILL TOL SIPS OF PO'S. HE IS ALSO ABLE TO TAKE PO MEDS. TEAM MAY INSERT TF TODAY. NO STOOL THIS SHIFT.
+
+GU: U/O REMAINS SLUGGLISH. 20-32CC/HR AWAITING AM BUN/CREAT.
+
+SKIN; COLLAR INTACT WITHOUT SIGNS OF BREAKDOWN. NOTED 2 BRUISES ON BUTTOCKS. HALF DOLLAR SIZE.
+
+NEURO: PT IS ALERT TO NAME. OPENS EYES ON COMMAND. HE IS ALSO ABLE TO FOLLOW SIMPLE COMMANDS,WIGGLE TOES,STICK OUT TONGUE AND BLINK. HE CAN RAISE AND HOLD BOTH ARMS. HE CAN LIFT AND MOVE BOTH LEGS ON THE BED. HE CAN STATE HIS NAME BOTH FIRST AND LAST. HE KNOWS THE YEAR,BUT IS NOT ORIENTED TO MONTH AND PLACE.PEARL @3MM/BRISK. HAND GRASPS ARE EQUAL WEAK BUT BECOMING MORE STRONG AS SHIFT PROGRESSES.
+
+ID: TEMP MAX 99.1
+
+HEME: RECEIVED 4 UNITS FFP ON DAYS. REPEAT BLD WORK. PT 15.3,INR 1.6,PTT 26.9 DR [**Last Name (STitle) **] [**Name (STitle) 1243**]. ORDER GIVEN TO TRANSFUSE 4 ADDITIONAL UNITS FFP. WILL REPEAT COAGS IN AM. PT IS ALSO ON VIT K SC. GOAL IS AN INR <1.3
+
+SOCIAL/DISPOSITION: PT IS DNI ONLY. PLANS TODAY TO DISCUSS WITH WIFE DNR STATUS. FOR NOW HE REMAINS DNI. NO INQUIERES OVERNOC
+
+A/P: 79 YR OLD S/P GRADE 1 C2-C3 FX LONGIT. LIGAMENT. S/P HEAD BLEED (ON COUMADIN AT HOME FOR A-FIB) NOW PRESENTS WITH NEW AAA PROX/MID. AND  AORTA, RUL MASS BY CXR. PLAN IS RE-ADDRESS CODE STATUS. CON'T Q2 HR NEURO SIGNS. FOLLOW INR
+
+
+",,
+14905,11655,18522,0,2932-03-08 17:40:00 EST,2932-03-08 18:13:00 EST,285,"N",1,"Nursing/Other","CCU NPN 7am - 7pm","
+CCU NPN 7am - 7pm
+S/O:
+Neuro:  Pt. continues to follow commands.  He intermittently knows that he is at the [**Hospital1 10**].  Stated the year, but unable to state the month and day.  Can lift and hold both arms.  Strong, equal grasps bilaterally.  Moving both legs on the bed.  PERRLA.  Verbally answers yes/no question appropriately.
+
+Resp.:  RR 20 - 22 O2sats are 96 - 98% on 4lnp.  Lungs sounds->  exp. wheezes at the bases. Pt. has a non productive congested sounding cough.  Lasix continues to be held due to increasing BUN and creat.
+
+Heme:  PT - 14.7, PTT - 26.5, INR - 1.6.  HCT. 33.7.  Pt. received 1 UFFP.  coags and DIC screen drawn 1/2 hour after the unit finished. May give more FFP tonight Pending results of head CT.
+
+CVS:  HR 70 - 80 vpaced with some PVC's.  One 4 - 5 beat run of VT followed by a short run of SVT noted.  Pt. received 20 meq of KCL for K of 3.8.  BP 120 - 140/70's.  Continues on hydralazine 10 mg Q6 hours.
+
+G.I.:  LBM this morning.  Bowel meds held.  Abd. soft and distended with positive bowel sounds in all quads.  Pt. able to take meds crushed in custard and swallowing some liquids.
+
+G.U.:  creat. 2.6.  BUN 58.  minimal u/o 10 - 20 cc/hr.
+
+Skin:  Bilateral contusions on buttocks are unchanged.  Rash noted around anal area after last BM.  [**Location (un) 14**] J collar remains on.  Pt. turned using logroll technique.
+
+A:  s/p head bleed.
+
+P:  monitor mental status for changes, head CT, plan to place NG tube for feeding.
+",,
+14905,11655,18522,,2932-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14905,11655,18522,,2932-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-9**] 12:51 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13314**]
+     Reason: check post-pyloric tube position                            
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man s/p post-pyloric tube placement                                 
+     REASON FOR THIS EXAMINATION:
+      check post-pyloric tube position                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of post-pyloric tube placement.
+     
+     The distal end of tube overlies distal antrum of stomach.  Surgical clips are
+     present in the right upper quadrant status post cholecystectomy.  Distribution
+     of bowel gas is unremarkable.  There are no vascular calcifications.
+     ICD overlies region of RV apex.
+
+",,
+14905,11655,18522,,2932-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-9**] 12:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13313**]
+     Reason: Readjustment of tube.                                       
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           79 year old man s/p NGT placement                                          
+       
+     REASON FOR THIS EXAMINATION:
+      Readjustment of tube.                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Status post NG tube placement, re-adjustment of tube. 
+     
+     PORTABLE AP CHEST:  Comparison is made to previous films from several hours
+     earlier. The NG tube has been repositioned. The radiopaque tip now overlies
+     the gastric body. Allowing for differences in technique, remaining findings
+     are stable.  No pneumothorax is identified.
+
+",,
+14905,11655,18522,0,2932-03-09 04:34:00 EST,2932-03-09 05:00:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  
+neuro:  pt. responding to name, opening eyes spont. and to name, only able to state name. unable to state place/date.  does not move extrem. unless asked to do so.  able to move legs on bed slightly. able to lift arms off bed for short time.  took pills at 2100 crushed with custard and appearing to swallow approp.  
+
+70's vpaced with occas. PVC's.  BP 125-136/60-70s.  held 12am hydralazine d/t BP <120/ at the time (hold parameters).
+
+GI:  dobhoff feeding tube placed by resident/intern in eve, confirmed by CXR.  wire is still in place and will wait for tube to migrate past pyloric sphyincter.  
+3 more U FFP ordered by intern at 0100.  first Unit up at 0200, and # 2 up at 0230 , however stopped after 100cc d/t pulm congestion.   
+
+Resp:  pt. with congested cough, unable to bring  secretions to front of mouth.
+requiring deep yankour suctioning for thick tan secretions.  
+course BS.  sats 97% on 4lnc.  
+*****pt. becoming more congested with audible wheezes/ req. NT suction at 0200 for thick tan secretions.  req. NT suction q15-30min for next 2 hours.  pt. in pulm edema.  FIO2 increased to 100% cool neb.  given 40mg lasix x2 and 80mg x1.  also morphine .5mg IV x3 with only fair effect.  
+- pt. more lethargic, opens eyes to name but only nods.  shallow breathing.  RR 30-35.  
+Dr. [**Last Name (STitle) **] call family about change.    
+
+pt. is DNI/DNR at this time.  
+
+u/o only 50-20cc/hr. 
+NPO at this time d/t dec. MS.
+
+A/P:  status change with pulm. edema, resp. distress and neuro decline
+family to be contacted for further updates,  follow diuresis/morphine prn.  
+",,
+14905,11655,18522,0,2932-03-09 17:48:00 EST,2932-03-09 18:11:00 EST,285,"N",1,"Nursing/Other","CCU NPN 7am - 7pm","
+CCU NPN 7am - 7pm
+S/O:  
+Neuro:  Pt. very withdrawn this morning.  Following commands intermittently.  Nodding head, but nonverbal.  strength in arms decreased from yesterday.  Pt. unable to lift and hold, but moves both arms in the bed.  As the day progressed Pt. following commands more consistently and able to lift and hold left arm.  Opens eyes to voice, but sleeping most of the day.  PERRLA 3mm bilat.
+
+Resp.:  Pt.'s breathing labored this morning.  NT suctioning done Q1hour.  Large amounts of yellow blood tinged secretions retrieved.  By 12 pm suctioning frequency was decreased to Q2 hours.  FiO2 was weaned from 100% to 60 %.  CPT done twice.  RR 24 - 32 appears less labored this evening.  Lung sounds are coarse.
+
+I.D.:  Tmax 102 rectally this morning.  Blood cultures x2, urine culture, and sputum culture were sent.  Pt. was started on clindamycin and levoflox IV.  Tylenol given at 9am and 1pm.  Last temp 100.6 rectally.  Plan to start vanco tonight.  WBC's 8.0.
+
+CVS:  HR 70 - 80's v paced with occ. VEA.  BP - 120 - 130 /70 's.  Hydralazine and lisinopril D/C'd.
+
+G.I.:  dobhoff NGT in place.  ABD x-ray done this evening to determine if it is post pyloric.  Stylet remains in place.  Pt. NPO
+
+G.U.:  creat. 3.5 u/o minimal.  Given 120 mg of IV lasix without improvement.  Zaroxyln and bumex given this evening.
+
+Skin:  Buttocks appear to be improving.  Rash also improving.  Otherwise skin is intact.
+
+A:  post head bleed, temp up
+
+P:  Vanco to be added, monitor temp.  tylenol not to exceed 2gm/day as needed, antibx as written, assess neuro status for changes, monitor response to diuresis, assess hemodynamics.
+",,
+14905,11655,18522,,2932-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2932-3-10**] 11:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13315**]
+     Reason: evaluate for pna, pulm edema                                
+     Admitting Diagnosis: SAH;PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             79 year old man with hypoxia, dyspnea                                    
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate for pna, pulm edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: Hypoxia and dyspnea. 
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from  [**2932-3-9**].
+     
+     A permanent pacemaker and feeding tube remain in place. Cardiac and
+     mediastinal contours are stable allowing for marked rotation of the patient.
+     Allowing for extremely low lung volumes, there is no definite CHF or pneumonia
+     present.
+     
+     IMPRESSION:   Limited study due to rotation and low lung volumes. No definite
+     CHF or pneumonia, but repeat study with improved technique would be helpful
+     for more complete assessment.
+
+",,
+14905,11655,18522,0,2932-03-10 05:14:00 EST,2932-03-10 05:32:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  
+neuro:  pt. is more responsive tonight: opens eyes spont. and also to name.  will state name and [**Hospital1 **] names. will not state place but he will nod yes when asked if he knows where he is.  moving left arm off bed spont. moving right arm on bed.  moving toes to command but is not moving legs spont. pupils 3mm and brisk. has very impaired gag. medium congested cough.
+
+INR from [**3-9**]/eve 1.7.  plts 90,000
+
+resp:  course upper BS with crackles at bases.  O2 weaned to 60% cool neb.  RR 19-23.  sats 98-99%.  did not req. suctioning until 0500, congested audible BS.  NT suction x2 for large amt of thick tan secretions.  second pass with BRB on catheter. 
+
+ID:  TM 99.8R.  contin. on vanco, clinda and ceftaz. sputum Cx showing GPC in pairs. sputum/blood pnd.
+
+CV:  HR 72 vpaced with occas. PVC.  BP 120-138/60-70.  all meds on hold because pt. is NPO.
+
+GU:  foley draining 20-30cc/hr.  (+) 5L [**Location 6609**] in eve, no responce
+GI:  (+) BS. no stool.  dobhoff feeding tube taped in place with wire still within tube:  waiting CXR confirmation that it is post pyloric(CXR done [**3-9**]).
+
+skin:  no breakdown.  eccymosis on arms.  2 small bruises on buttocks.
+
+A:  improved resp. status.  poor responce to diuresis. u/o improving slightly.  plts/INR stable. 
+P:  need to start TF when placement confirmed.  ? restart CV meds.  NT suction as necessary.  CPT.  IVAB>  
+",,
+14905,11655,18522,0,2932-03-10 18:02:00 EST,2932-03-10 18:25:00 EST,96,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+micu border
+o- afebrile. clinda d/c'd, vanco and levo changed to renal dosing. 
+sputum showed staph aureus, coag pos. urine staph species >100,000 w/further id to follow. placed on contact precautions. 
+cv- hr 70s vpaced with occ to freq pvcs. bp 130-150s/. creat up to 4.1. 
+resp- on 60%, increased to 100% cool face neb. l/s coarse to rhonchi thruout, dim. nt sx'd q1 to q1 and 1/2hrs for mod. to copious amts of thick tan bloody to bld tinged sputum. occ. cough, nonprod until after nt sx'd, then prod and yankauer sx'd back throat for lge amts of same. cpt done by cpt. 
+u/o 35-90cc/hr, i+o neg about 500cc for today, pos. los. sats 93-98, occ down to 89-92 when needs sx'ing. 
+gi- abd sl distended w/bowel sounds. pedi tube in correct position per xray, wire removed. had small-mod amts yellow bile leakage from tube. given meds and started on promote w/fiber at 10cc/hr this pm. no bm. bs 137-144, no coverage. 
+ms/neuro- oriented x2, unable to understand words at times d/t congestion, able to answer sometimes with 1 word answers. moving extremities, esp. arms/hands. follows simple commands. 
+skin- has blister l hip, otherwise intact. repos side to side q2-3hrs. 
+cont. with [**Location (un) **] j collar, collar care done. has some extremity edema. pneumoboots on. sat up on edge of bed with pt. also s/b ot.
+access- eval for picc placement and found to be a good candidate. 
+social- fx in, updated on pt status and plan. 
+a- cont to require freq nt sx'ing. 
+p- cont. sx as needed. transfer to floor when nt sx requirement q4hrs or less. f/u picc placement tomorrow. oob to chair (slide or per pt) in am after picc. f/u c+s results, contact precautions. give bowel meds as ordered, ?lactulose.   
+ 
+",,
+14905,,18522,0,2932-03-11 03:15:00 EST,2932-03-11 03:26:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 0300
+
+EVENTS:RECIEVED PT FROM WEST CAMPUS VIA AMBULANCE (SEE CAREVIEW FOR ASSESSMENT DATA)PT APPEARED STABLE UNTIL 0200, WHEN HE BECAME TACHYPENIC, TACHYCARDIC AND HIS BP DROPPED DOWN TO 60'S SYSTOLICALLY.HO WAS CALLED TO THE BEDSIDE .HE WAS SUCTIONED FOR LARGE AMOUNT OF TAN /BLOOD TINGED SECRETIONS.A NNS FLUID BOLUS WAS STARTED TO ASSIST IN HIS PRESSURE, HE BECAME APNEIC AND PULSELESS.
+",,

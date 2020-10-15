@@ -1,0 +1,1454 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14936,19916,,,3065-03-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3065-3-6**]              Discharge Date:   [**3065-3-11**]
+ 
+Date of Birth:  [**2988-4-25**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 707**] 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+76yo M with h/o CAD, CABG, recent knee surgery, at rehab from 
+knee surgery. Comes to ED for 1-2 weeks DOE with even minimal 
+exertion. No CP. Reports unable to ambulate down [**Doctor Last Name **] [**1-20**] DOE. 
+Also has had dysuria since this AM w/ burning on urination. + 
+frequency. Came to ED. denies fevers, nausea, vomitting, flank 
+pain. Does report ICD firing in Ed as well as 1-week ago.  
+.  
+In ED: CTA without PE but with CHF. elevated WBC and low BP 
+concern for urosepsi 250cc fluid bolus x 3. BP respondedto 90s 
+systolic (baseline low 100s). Got Vanc/Levo. ASA given. No BB 
+[**1-20**] BP, no lasix [**1-20**] BP. Also noted to be sleepy in ED, thought 
+[**1-20**] exhaustion (up since 3am). Wife states similar rxn in past 
+with illness. Appropriate when awake. ABG done. CT head neg.  
+
+ 
+Past Medical History:
+Cardiac Risk Factors: Diabetes, Dyslipidemia, Hypertension  
+.  
+Cardiac History: CABG, in [**3044**] anatomy as follows:  
+SVG to LAD, OM and RCA - op report not available, seen on cath 
+in '[**63**]  
+CHF - sever, s/p BiV implant, EF 17%  
+.  
+Percutaneous coronary intervention, in [**3064-8-18**] anatomy as 
+follows:  
+Native three vessel coronary artery disease.  
+Mildly elevated left sided filling pressure.  
+SVG-LAD with 30% proximal and mid vessel stenoses.  
+SVG-OM with minimal disease.  
+Known occlusion of SVG-RCA.  
+Reportedly has had prior PCI w/stenting but records unavailable  
+
+.  
+Pacemaker/ICD, in [**3061**]  
+[**Company 3195**] ICD, Insync [**First Name9 (NamePattern2) **] [**Last Name (un) 9826**] 7289 - last interrogation 
+[**3065-1-9**]  
+Has had multiple ICD firings, most recently in the ED, and 
+another approximately one week ago  
+.  
+Other Past History:  
+Recent C-diff @ rehab  
+Diabetes mellitus since [**3037**] - on insulin  
+History of prostate cancer.  
+Depression.  
+Osteoarthritis.  
+Hypertension.  
+Hypercholesteremia.  
+Chronic renal insufficiency.  
+Gout.  
+Erectile dysfunction.  
+Congestive heart failure.  
+Peripheral neuropathy secondary to diabetes.  
+Insomnia.  
+prostate cancer , diagnosed 2001, [**Doctor Last Name **] 6, no treatment thus 
+far  
+
+ 
+Social History:
+He is a retired lawyer. He is married and lives with his wife. 
+They moved from [**State 4695**] last year. He has 2 sons, one of 
+which has diabetes, and 2 daughters. No tobacco. About one 
+alcoholic drink per week. In the past, he smoked a pipe on 
+occasion. 
+
+ 
+Family History:
+Mother died age 88, DM and cancer. Father died age 74, secondary 
+to prostate cancer. 1 brother deceased from cancer. 1 sister 
+alive and well. 
+ 
+Physical Exam:
+Blood pressure was 89/52 mm Hg while seated. Repeat 10 minuts 
+later was 107/70. Pulse was 72 beats/min and irregular, 
+premature beats were noted. respiratory rate was 20 breaths/min 
+w/100% O2 sats on room air.  
+.  
+Generally the patient was ill appearing and fatigued. The 
+patient was oriented to person, place and time. The patient's 
+mood and affect were not inappropriate.  
+.  
+There was no xanthalesma and conjunctiva were pink with no 
+pallor or cyanosis of the oral mucosa. Pupils were noted to be 
+small even in low light. They were reactive. Dry MM noted. The 
+neck was supple with JVP of 7cm. The carotid waveform was 
+normal. There was no thyromegaly. The were no chest wall 
+deformities, scoliosis or kyphosis. The respirations were not 
+labored and there were no use of accessory muscles. The lungs 
+were clear to ascultation bilaterally with normal breath sounds 
+and no adventitial sounds or rubs.  
+.  
+Palpation of the heart revealed the PMI to be located in the 5th 
+intercostal space, mid clavicular line. There were no thrills, 
+lifts or palpable S3 or S4. The heart sounds revealed a normal 
+S1 and the S2 was normal. There were no rubs, clicks or gallops. 
+A soft I/VI systolic murmur was noted that radiated to the 
+axilla  
+.  
+The abdominal aorta was not enlarged by palpation. There was no 
+hepatosplenomegaly or tenderness. The abdomen was soft nontender 
+and nondistended. The extremities had no pallor, cyanosis, 
+clubbing or edema. There were no abdominal, femoral or carotid 
+bruits. Inspection and/or palpation of skin and subcutaneous 
+tissue showed no stasis dermatitis, ulcers, scars, or xanthomas. 
+ 
+.  
+Pulses:  
+Right: Carotid 2+ Femoral 2+ Popliteal - DP 1+ PT 1+  
+Left: Carotid 2+ Femoral 2+ Popliteal - DP 1+ PT 1+  
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+
+[**3065-3-6**] 10:00AM URINE  GRANULAR-0-2
+[**3065-3-6**] 10:00AM URINE  RBC-[**5-28**]* WBC-21-50* BACTERIA-0 
+YEAST-NONE EPI-0
+[**3065-3-6**] 10:00AM URINE  BLOOD-MOD NITRITE-POS PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-SM
+[**3065-3-6**] 10:00AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 302**]-1.007
+[**3065-3-6**] 10:00AM   D-DIMER-1958*
+[**3065-3-6**] 10:00AM   DIGOXIN-1.7
+[**3065-3-6**] 10:00AM   CALCIUM-9.3 PHOSPHATE-3.6 MAGNESIUM-1.8
+[**3065-3-6**] 10:00AM   GLUCOSE-138* UREA N-53* CREAT-1.7* SODIUM-135 
+POTASSIUM-4.1 CHLORIDE-95* TOTAL CO2-26 ANION GAP-18
+[**3065-3-6**] 08:50PM   CK-MB-NotDone cTropnT-0.10*
+[**3065-3-6**] 08:50PM   LIPASE-35
+[**3065-3-6**] 08:50PM   ALT(SGPT)-19 AST(SGOT)-21 LD(LDH)-230 
+CK(CPK)-17* ALK PHOS-127* AMYLASE-23 TOT BILI-1.6*
+[**3065-3-6**] 08:50PM   GLUCOSE-155* UREA N-48* CREAT-1.6* SODIUM-134 
+POTASSIUM-3.7 CHLORIDE-96 TOTAL CO2-27 ANION GAP-15
+.
+CTA
+1. No evidence of pulmonary embolus.
+2. Congestive heart failure.
+3. Irregularity of the T7-T8 endplate, which is most likely 
+degenerative, however diskitis cannot be totally excluded and 
+therefore recommend correlation with clinical findings
+.
+CT HEAD
+IMPRESSION: No acute intracranial hemorrhage or mass effect; no 
+significant change from [**3064-10-23**]
+.
+CXR:
+IMPRESSION: No evidence of CHF.
+.
+
+ 
+Brief Hospital Course:
+76 y/o man w/severe CHF admitted w/dyspnea and UTI.  
+.  
+# Dyspnea: Actually was felt to be euvolemic to possibly volume 
+depleted on admission. There was concern for early septic 
+physiology given high WBC and borderline BPs. He received IVF in 
+the ED and his BP stabilized at his baseline 90-100s systolic. 
+His diuretics and other heart failure medications were initially 
+held [**1-20**] hypotension and concern for sepsis, but they were added 
+back slowly. At d/c he was back on carvedilol and Torsemide. 
+Losartan 25mg was held due to asyptomatically low blood 
+pressures, ** and this should be added back as tolerated. He was 
+without an oxygen requirement on discharge. CXR was clear for 
+CHF. Dyspnea was felt to be [**1-20**] to phsyical deconditioning and 
+acute UTI/C-diff.
+.  
+# ICD firing: Tracings from ED show polymorphic VT. Digoxin 
+level supratherapeutic on admission and was held. Digoxin was 
+re-started, but dose adjusted to 0.125mg PO every third day. 
+Levels should be monitored closely. Cardiac Electrophysiology 
+team  interrogated ICD and was found to be functioning normally. 
+ Has follow up appointment scheduled with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 1259**] for 
+VT ablation 
+.  
+# UTI: U/A was grossly positive w/25 urine WBC and elevated WBC 
+on CBC. Initially covered with Vanco and Levoflox but given pt's 
+clinical stability vancomycin d/c'ed. Urine culture grew 
+resistnat Ecoli and there was concern for prostatitis given 
+large tender prostate on exam. He will be treated with a 14 days 
+course of Zosyn. 
+.  
+C-diff: stool cx posative for C-diff. Flagyl PO started. He 
+should remain on flagyl for the course of his zosyn treatment 
+and then for 2 weeks after.   
+.  
+# elevated INR - though to be [**1-20**] nutritional deficiencies. 
+.  
+# DM: On insulin 70/30. BS were well controlled. 
+ 
+Medications on Admission:
+Demadex 80 mg in the morning and 40 mg in the afternoon  
+Coreg 3.125 mg twice daily  
+aspirin 81 mg daily,  
+potassium chloride 10 mEq twice daily  
+Plavix 75 mg daily,  
+allopurinol 150 mg daily  
+digoxin 125 mcg every other day,  
+iron sulfate 325 mg daily  
+NovoLog insulin 70/30 28 units QAM and 12 units QPM  
+Inspra 25 mg daily,  
+Lipitor 10 mg daily  
+Lyrica 200 mg daily  
+Prilosec 20 mg daily,  
+Prozac 10 mg daily Tylenol as needed.  
+Compazine  
+Imodium  
+MiraLax  
+milk of magnesiu  
+tramadol and Xanax as needed. 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Allopurinol 100 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).  
+
+4. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+9. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+10. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) 
+as needed.  
+11. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+12. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) 
+Units Injection TID (3 times a day).  
+13. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day): Please continue for as long as patient is on Zosyn 
+for and then for 2 weeks after completion of zosyn.  .  
+14. Lidocaine HCl 2 % Gel Sig: One (1) Appl Mucous membrane PRN 
+(as needed) as needed for penile irritation.  
+15. Torsemide 20 mg Tablet Sig: Four (4) Tablet PO DAILY 
+(Daily).  
+16. Torsemide 20 mg Tablet Sig: Two (2) Tablet PO at bedtime.  
+17. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**12-20**] Sprays Nasal 
+QID (4 times a day) as needed.  
+18. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO HS (at bedtime).  
+19. Piperacillin-Tazobactam 2.25 g Recon Soln Sig: 2.25 grams 
+Intravenous Q6H (every 6 hours) for 12 days.  
+20. Insulin NPH-Regular Human Rec 100 unit/mL (70-30) Suspension 
+Sig: 28  Units Subcutaneous QAM.  
+21. Insulin NPH-Regular Human Rec 100 unit/mL (70-30) Suspension 
+Sig: Twelve (12) Units Subcutaneous QPM.  
+22. Carvedilol 3.125 mg Tablet Sig: 0.5 Tablet PO twice a day: 
+hold hr < 60, sbp < 100.  
+23. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY THIRD 
+DAY: Monitor drug levels. Administer every THIRD day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 306**] - [**Location (un) 310**]
+ 
+Discharge Diagnosis:
+Urinary Tract Infection
+?Prostatits
+Urinary Retention
+C-diff
+Systolic CHF - ischemic
+Diabetes mellitus since [**3037**] - on insulin
+History of prostate cancer. 
+Depression. 
+Osteoarthritis. 
+Hypertension. 
+Hypercholesteremia. 
+Chronic renal insufficiency. 
+
+ 
+Discharge Condition:
+Sating well on room air. needs assist with daily activities
+
+ 
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 55**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Please take all medications as prescribed. Please attend all 
+follow up appointments. If [**Doctor First Name **] develop further shortness of 
+breath, fever, please contact your health care providers. 
+ 
+Followup Instructions:
+[**Doctor First Name 54**] have an appointment to see Dr. [**First Name (STitle) **] on [**3-21**] at 8am at 
+[**Hospital Ward Name **] Building 3rd floor.
+.
+
+It is also advised that [**Doctor First Name **] follow  up with your PCP. 
+.
+[**Doctor First Name 54**] also have an appointment with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 1259**] on [**4-24**] 
+in Device clinic. 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 711**] MD [**MD Number 712**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 28**] [**Last Name (NamePattern4) 2261**] MD [**MD Number 2262**] [**3065-3-12**] @ 1343
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: WED [**3065-3-15**] 12:39 PM
+(End of Report)
+
+
+",,
+14936,19916,,,3065-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-6**] 12:58 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 13547**]
+     Reason: eval for PE                                                 
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with DOE, positive D dimer                                      
+     REASON FOR THIS EXAMINATION:
+      eval for PE                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KYg MON [**3065-3-6**] 1:47 PM
+      1) No PE 2) CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  76-year-old male with dyspnea on exertion, positive D-
+     dimer.  Evaluate for pulmonary embolus.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast and contrast-enhanced multidetector CT-acquired axial
+     images of the chest.  Multiplanar reformatted images were obtained.
+     
+     CT OF THE CHEST:  The lungs are clear.  There is bilateral patchy ground glass
+     opacity and dependent atelectasis.  Multiple calcified granulomas are seen
+     within the right lung. No filling defect is identified within the pulmonary
+     arteries. Main pulmonary artery is dilated, measures 3.6 cm in maximal
+     dimensions. There is focal aneurysm of the proximal pulmonary artery. The
+     aorta remains unopacified. The heart is enlarged and IVC is dilated. Calcified
+     atherosclerotic plaques are seen throughout the aorta and coronary arteries.
+     Leads from an AICD are in standard position.  No pericardial or pleural
+     effusion is detected.  The airways remain patent. Multiple enlarged
+     mediastinal and hilar lymph nodes are present.
+     
+     Osseous structures demonstrate no suspicious lytic or sclerotic lesion. There
+     is irregularity of the T7-T8 endplates, which is mostly likely degenerative in
+     nature, however diskitis cannot be totally excluded, and therfore recommend
+     correlation with clinical findings. Visualized upper abdomen demonstrates
+     atherosclerotic calcifications within the celiac, superior mesenteric and
+     splenic arteries. 
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolus.
+     2.  Congestive heart failure.
+     3.  Irregularity of the T7-T8 endplate, which is most likely degenerative,
+         however diskitis cannot be totally excluded and therefore recommend
+         correlation with clinical findings. 
+
+",,
+14936,19916,,,3065-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-6**] 9:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13545**]
+     Reason: eval for CHF, infiltrate                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with DOE                                                        
+     REASON FOR THIS EXAMINATION:
+      eval for CHF, infiltrate                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAM:  DOE, CHF.
+     
+     SINGLE AP PORTABLE VIEW OF THE CHEST.  Cardiac size is top normal.  Left
+     ventricular pacemaker leads terminates in standard positions in the right
+     atrium, right ventricle and coursing via the coronary sinus.  The lungs are
+     clear.  There is no pleural effusion.  Patient is post median sternotomy.
+     
+     IMPRESSION:  No evidence of CHF.
+                                                                           
+
+",,
+14936,19916,,,3065-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-6**] 11:02 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13546**]
+     Reason: eval for bleed, mass                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with altered MS                                                 
+     REASON FOR THIS EXAMINATION:
+      eval for bleed, mass                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGGb MON [**3065-3-6**] 12:02 PM
+      No acute hemorrhage or mass effect.
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old with altered mental status.
+     
+     COMPARISONS:  CT brain of [**3064-10-23**].
+     TECHNIQUE:  Axial MDCT images of the brain without IV contrast.
+     
+     FINDINGS:  There is no acute intracranial hemorrhage.  There is no mass effect
+     or shift of midline structures.  Ventricles are minimally prominent, but not
+     out of proportion to the sulcal prominence, likely relating to mild age-
+     appropriate cortical atrophy.  There is preservation of the [**Doctor Last Name 63**]-white matter
+     differentiation.  Sinuses are clear where visualized.  No focal osseous
+     abnormality.  Incidental note is made of calcification of the cavernous
+     carotid arteries.
+     
+     IMPRESSION:  No acute intracranial hemorrhage or mass effect; no significant
+     change from [**3064-10-23**].
+     
+
+",,
+14936,19916,,,3065-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-9**] 11:19 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 13548**]
+     Reason: please check placement of right basilic PICC lline 50 cm ple
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with DOE                                                       
+       
+     REASON FOR THIS EXAMINATION:
+      please check placement of right basilic PICC lline 50 cm please page IV nurse 
+      with wet reading  thanks [**Doctor Last Name **] #[**8-/3500**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dyspnea on exertion, check placement of right basilic PICC line.
+     
+     COMPARISON:  [**3065-3-6**].
+     
+     SINGLE UPRIGHT AP BEDSIDE CHEST RADIOGRAPH:  Right PICC line has been advanced
+     into the right internal jugular with tip not visualized. The right
+     costophrenic angle has been excluded.  The lungs are otherwise clear. Moderate
+     cardiomegaly, ICD/pacer leads, and CABG clips are all unchanged.  No effusion
+     or pneumothorax.
+     
+     IMPRESSION:  Right PICC has been advanced into the right internal jugular and
+     should be replaced.  Results were discussed with the venous access team.
+     
+     
+
+",,
+14936,19916,,,3065-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-9**] 1:08 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13549**]
+     Reason: r Picc 50cm in IJ- needs repo. Thanks [**Doctor Last Name **]               
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 8572**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r Picc 50cm in IJ- needs repo. Thanks [**Doctor Last Name **]                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PICC LINE EXCHANGE / REPOSITIONING
+     
+     INDICATION: Malposition of indwelling PICC line.
+     
+     The procedure was explained to the patient. A timeout was performed.
+     
+     RADIOLOGIST: Dr. [**First Name8 (NamePattern2) 8653**] [**Last Name (NamePattern1) **] physician assistant and Dr. [**Last Name (STitle) 603**] attending
+     radiologist performed the procedure.
+     
+     TECHNIQUE: Using sterile technique and local anesthesia, a guidewire was
+     advanced through the indwelling right arm PICC line, and subsequently into the
+     SVC under fluoroscopic guidance.  A Nitinol wire was advanced through the old
+     PICC to the level of the distal SVC.  We then successfully positioned the
+     catheter with its tip in the distal SVC.  Position of the catheter was
+     confirmed by a fluoroscopic spot film of the chest.
+     
+     The patient tolerated the procedure well. There were no immediate
+     complications.
+     
+     IMPRESSION: Uncomplicated fluoroscopically guided PICC line was repositioned
+     using a Nitinol wire with its tip in the distal SVC.  The line is ready for
+     use.
+                                                                           
+
+",,
+14936,19916,,,3065-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-9**] 1:08 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13549**]
+     Reason: r Picc 50cm in IJ- needs repo. Thanks [**Doctor Last Name **]               
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 8572**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r Picc 50cm in IJ- needs repo. Thanks [**Doctor Last Name **]                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PICC LINE EXCHANGE / REPOSITIONING
+     
+     INDICATION: Malposition of indwelling PICC line.
+     
+     The procedure was explained to the patient. A timeout was performed.
+     
+     RADIOLOGIST: Dr. [**First Name8 (NamePattern2) 8653**] [**Last Name (NamePattern1) **] physician assistant and Dr. [**Last Name (STitle) 603**] attending
+     radiologist performed the procedure.
+     
+     TECHNIQUE: Using sterile technique and local anesthesia, a guidewire was
+     advanced through the indwelling right arm PICC line, and subsequently into the
+     SVC under fluoroscopic guidance.  A Nitinol wire was advanced through the old
+     PICC to the level of the distal SVC.  We then successfully positioned the
+     catheter with its tip in the distal SVC.  Position of the catheter was
+     confirmed by a fluoroscopic spot film of the chest.
+     
+     The patient tolerated the procedure well. There were no immediate
+     complications.
+     
+     IMPRESSION: Uncomplicated fluoroscopically guided PICC line was repositioned
+     using a Nitinol wire with its tip in the distal SVC.  The line is ready for
+     use.
+                                                                           
+
+",,
+14936,,,,3065-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-17**] 3:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13550**]
+     Reason: eval for CHF                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        76 year old man with DOE                                                      
+         
+     REASON FOR THIS EXAMINATION:
+      eval for CHF                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dyspnea on exertion.
+     
+     COMPARISON:  [**3065-3-9**].
+     
+     UPRIGHT AP CHEST:  The patient is post-median sternotomy and CABG.  An ICD
+     device overlies the left chest, with leads overlying the right atrium and
+     ventricle.  There is stable cardiomegaly.  The aorta is calcified.  The
+     pulmonary vasculature appears similar to [**3-9**], slightly plethoric but
+     without overt congestive failure.  There is no pleural effusion or
+     pneumothorax.  The right PICC has been redirected since the prior exam, with
+     the tip now overlying the distal SVC.
+     
+     IMPRESSION:  Moderate cardiomegaly and mild pulmonary vascular congestion,
+     without overt failure.
+                                                                           
+
+",,
+14936,,,,3065-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-17**] 12:02 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 13551**]
+     Reason: r/o PE                                                      
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with DOE, positive D dimer                                     
+       
+     REASON FOR THIS EXAMINATION:
+      r/o PE                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old man with dyspnea on exertion and a positive D-dimer.
+     
+     COMPARISON:  [**3065-3-6**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest was performed without and
+     with intravenous contrast.  Multiplanar reformations were obtained.
+     
+     CT OF THE CHEST:  The patient is status post median sternotomy and CABG. There
+     is a left-sided pacemaker with right atrial, right ventricular and coronary
+     sinus leads.
+     
+     There are no central or segmental filling defects within the pulmonary
+     arteries.  The heart demonstrates multi-chamber enlargements.  There is
+     calcification of the native coronary arteries as well as of the aortic valve.
+     The thoracic aorta demonstrates atherosclerotic change of the arch and
+     descending portions without aneurysmal dilation.  There are small bilateral
+     pleural effusions.  No regions of consolidation are identified.  There is
+     lower lobe atelectasis.  Multiple punctate calcifications are seen within the
+     lungs.
+     
+     There is prevascular, paratracheal, and subcarinal lymphadenopathy, which is
+     stable.  The largest node in the paratracheal region measures 1.8 cm.
+     
+     The contrast has refluxed into the hepatic veins consistent with right heart
+     failure and/or tricuspid regurgitation.  The visualized organs of the upper
+     abdomen appear unremarkable.  There is a small simple fluid attenuating cyst
+     in the region of the pancreatic tail, which cannot be further characterized.
+     
+     There is multilevel degenerative change of the thoracic spine.  There is a
+     hemangioma in the T9 vertebral body, stable.
+     
+     IMPRESSION:
+     1.  No evidence of central or segmental pulmonary embolism.
+     2.  Small bilateral pleural effusions.
+     3.  Mediastinal lymphadenopathy, stable since the prior study.
+     4.  Cardiomegaly with reflux of contrast into the hepatic veins consistent
+     with right heart failure.
+     5.  Small cyst in the region of the pancreatic tail, incompletely
+     characterized.
+                                                                 (Over)
+
+     DATE: [**3065-3-17**] 12:02 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 13551**]
+     Reason: r/o PE                                                      
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14936,,,,3065-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14936,,,,3065-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-22**] 9:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13552**]
+     Reason: r/o chf/infiltrates                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         76 year old man with cad, chf, DOE                                           
+                     
+     REASON FOR THIS EXAMINATION:
+      r/o chf/infiltrates                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**3065-3-22**] AT 21:34 HOURS.
+     
+     HISTORY:  Dyspnea on exertion.
+     
+     COMPARISON:  [**3065-3-17**].
+     
+     FINDINGS:  The patient was imaged in a lordotic position.  Respiratory motion
+     limits the examination further.  Grossly, there is no focal consolidation.
+     There is subtle increased opacity in the retrocardiac region which may be due
+     to underlying atelectasis.  However, an early developing pneumonia cannot be
+     entirely excluded.  There is no pleural effusion or pneumothorax.  There is
+     evidence of prior CABG and an indwelling biventricular AICD/pacemaker.  A
+     right upper extremity PICC line is incidentally noted although the distal tip
+     is not well visualized secondary to limiting factors.
+     
+     IMPRESSION:  Markedly limited study.  Left lower lobe atelectasis likely
+     although an early developing pneumonia cannot be entirely excluded.  If
+     clinically feasible, consider further evaluation with PA and lateral view.
+
+",,
+14936,26755,,,3065-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-23**] 2:04 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13555**]
+     Reason: r/o mass lesions                                            
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with extensive clot in R arm, will need anticoagulation, 
+      presenting w/ altered mental stauts. 
+     REASON FOR THIS EXAMINATION:
+      r/o mass lesions                                                                
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Positive DVT, a head CT prior to anticoagulation to rule out
+     hemorrhage.
+     
+     COMPARISONS:  CT brain of [**3065-3-6**].
+     TECHNIQUE:  Axial MDCT images through the brain without IV contrast.
+     
+     FINDINGS:  There is no evidence of hemorrhage.  The patient moved slightly
+     during the first attempt, however, the second attempt demonstrates the limited
+     area satisfactorily.  No other acute findings.  There is mild age-related
+     cortical atrophy, and prominent calcification of the cavernous carotid
+     arteries.  No short interval change from [**3065-3-6**].
+     
+     IMPRESSION:  No evidence of hemorrhage.
+
+",,
+14936,26755,,,3065-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-23**] 9:02 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13556**]
+     Reason: ? CHF                                                       
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with hx CAD, CHF p/w worsened dyspnea                           
+     REASON FOR THIS EXAMINATION:
+      ? CHF                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dyspnea.
+     
+     PA AND LATERAL CHEST:  Comparison is made to [**3065-3-22**].  Patient is status
+     post median sternotomy and CABG and a biventricular pacemaker is unchanged in
+     position.  Small bilateral pleural effusions persist.  Retrocardiac opacity
+     likely represents underlying atelectasis however, again, an early pneumonia
+     cannot be entirely excluded.  No evidence of pneumothorax.  Upper lung zone
+     pulmonary vasculature may be mildly prominent, but there is no evidence of
+     overt edema.  Right PIC catheter is seen with tip in the mid-to-lower superior
+     vena cava.
+     
+     IMPRESSION:  No evidence of overt edema.  Retrocardiac opacity likely
+     represents atelectasis; however, early infectious process cannot be entirely
+     excluded.
+                                                                           
+
+",,
+14936,26755,,,3065-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-23**] 1:29 AM
+     UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 13553**]
+     Reason: look for dvt                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with L arm swelling and pain                                    
+     REASON FOR THIS EXAMINATION:
+      look for dvt                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old with left arm swelling and pain, evaluate for DVT.
+     
+     LEFT UPPER EXTREMITY ULTRASOUND:  No prior studies for comparison.  Grayscale
+     and Doppler sonography were performed of left internal jugular, subclavian,
+     and axillary veins.  There is occlusive thrombus throughout the left internal
+     jugular, subclavian, and axillary veins, which are non-compressible, and
+     expanded, suggesting an acute process.  The adjacent arteries are
+     unremarkable.
+     
+     IMPRESSION:  Extensive, acute-appearing occlusive thrombus within the left
+     internal jugular, left subclavian, and left axillary veins.  These findings
+     were phoned immediately to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13554**].
+
+",,
+14936,26755,,,3065-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-23**] 3:20 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 13558**]
+     Reason: r/o aspiration                                              
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with hx CAD, CHF p/w worsened dyspnea                          
+       
+     REASON FOR THIS EXAMINATION:
+      r/o aspiration                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Worsening dyspnea, evaluate for aspiration pneumonia.
+     
+     CHEST:
+     
+     Comparison made with the prior chest x-ray of six hours previous. 
+     Cardiomegaly persists.  The right lung remains clear.  The left hemidiaphragm
+     is now no longer visible, suggesting the presence of a left lower lobe
+     infiltrate.
+     
+     IMPRESSION:  Left lower lobe infiltrate.
+                                                                           
+
+",,
+14936,26755,,,3065-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-23**] 1:47 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 13557**]
+     Reason: please perform CTA to rule out PE and to evaluate LIJ, SCL D
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        76 year old man with DOE                                                      
+     REASON FOR THIS EXAMINATION:
+      please perform CTA to rule out PE and to evaluate LIJ, SCL DVT                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old man with dyspnea on exertion.  Recent ultrasound
+     demonstrating left upper extremity thrombosis.  Evaluate for pulmonary
+     embolism.
+     
+     COMPARISON:  Left upper extremity ultrasound from [**3065-3-23**] and CTA of the
+     chest from [**3065-3-17**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest was performed before and
+     after intravenous contrast.  Multiplanar reformations were obtained.
+     
+     CT OF THE CHEST:  No central or segmental filling defects are identified
+     within the pulmonary arteries.  The superior vena cava filled with contrast.
+     The subclavian and internal jugular veins are not visualized.  There are
+     multiple right-sided collateral vessels in the chest wall seen, which may be
+     related to fast injection.
+     
+     There is a left-sided pacemaker and defibrillator with leads in the coronary
+     sinus, right atrium, and right ventricle.  There is stable marked
+     cardiomegaly.  Contrast has not yet reached the aorta, but its outline is
+     normal.  Patient is status post median sternotomy and CABG.  Since the prior
+     study, the bilateral pleural effusions have increased in size.  There is
+     associated lower lobe atelectasis.  Calcified pulmonary nodules are unchanged.
+     The central airways are patent.
+     
+     A right-sided PICC is seen extending into the superior vena cava.
+     
+     In the visualized upper abdomen extensive calcification of the splenic artery
+     and SMA are seen.
+     
+     OSSEOUS STRUCTURES:  There are degenerative changes of the spine, but no
+     concerning lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  No central or segmental pulmonary embolism.
+     2.  Opacified superior vena cava.  The upper extremity veins seen on
+     ultrasound are not imaged on this study.
+     3.  Increase in the bilateral moderate sized pleural effusions.
+     
+                                                                 (Over)
+
+     DATE: [**3065-3-23**] 1:47 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 13557**]
+     Reason: please perform CTA to rule out PE and to evaluate LIJ, SCL D
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14936,26755,,,3065-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14936,26755,,,3065-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-23**] 3:20 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 13558**]
+     Reason: r/o aspiration                                              
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with hx CAD, CHF p/w worsened dyspnea                          
+       
+     REASON FOR THIS EXAMINATION:
+      r/o aspiration                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Worsening dyspnea, evaluate for aspiration pneumonia.
+     
+     CHEST:
+     
+     Comparison made with the prior chest x-ray of six hours previous. 
+     Cardiomegaly persists.  The right lung remains clear.  The left hemidiaphragm
+     is now no longer visible, suggesting the presence of a left lower lobe
+     infiltrate.
+     
+     IMPRESSION:  Left lower lobe infiltrate.
+                                                                           
+
+",,
+14936,26755,39309,0,3065-03-24 02:51:00 EST,3065-03-24 03:41:00 EST,5714,"N",1,"Nursing/Other","Nursing Progress Note 1900-0700 hours:","
+Nursing Progress Note 1900-0700 hours:
+** Full code
+
+** Allergy: ivp dye, wife also states sensitivity to ambien, phenergan and opiates.
+
+** Access: right wrist piv, right arm PICC
+
+** Precautions: C-diff
+
+In brief: Pt is a 76yo with PMH: CABG, chf, EF 20-25%, pacemaker/ICD, recent c-diff at rehab, DM, neuropathy, depression, osteoarthritis, htn, hyperchol, chronic renal insufficiency, gout, erectile dysfunction, insomnia, prostate CA.  
+
+Pt with recent knee surgery with mult recent admits from rehab for dyspnea.  First admit thought to be [**1-20**] to infection and deconditioning (dx'd with prostatitis and c-diff colitis).  
+
+Worsening dyspnea worse over last 3 days with ^ LE edema and nonproductive cough.  Also with L arm swelling.  
+
+In ED, ivf, vanco/zosyn for ? CXR infiltrate, LE u/s showed a extensive DVT and started on heparin gtt.  
+
+Tx'd to MICU last night from [**Hospital Ward Name **] 2-diuresed for presumed CHF (was overloaded and sob).  CT with no evidence of PE. CXR showed LLL PNA.  Poor MS [**First Name (Titles) **] [**Last Name (Titles) 2424**]-occasionally wakes up and then immed. falls back asleep and is difficult to arouse with no explaination for this.  Given narcan and did not help.  Given NPH yesterday morning and this was thought to have contributed to poor MS status as he did not eat.  TX'd to MICU for monitoring.  
+
+NEURO: initial arrival to unit-somulent-not really opening eyes but able to answer all questions A & O x3 and able to follow commands. Reason for somulence unknown, however low blod sugar and also recnet small doses of zanax and lyrica may have contributed as pt with comprimised liver function and may not be clearing.  Could not keep eyes open and needed to be asked several times though.  He is not able to stay awake. pearl pinpoint and sluggish.  
+
+CARDIAC: nsr with freq pvc's, HR 70's-100.  Coreq held due to no po's (to lethargic) md aware. Denies any cardiac symptoms.  SBP high 80's-100.  Wife reports low bp has been baseline here.  Cuff to right thigh as R arm picc and L arm DVT. will need 6 months anticoagulation.  
+
+RESP: 2l nc with sats 94-99%.  Was having strange breathing pattern of periods of apnea f/b periods of tachypnea that almost looking like kussmals or [**Last Name (un) **] [**Doctor Last Name **]??  md made aware-placed on bipap but apneic periods seemed to increase so removed.  Unclear as to process of this breathing pattern.  Lungs with I/E wheezes-nebs prn and placed on lasix gtt at 20mg/hr.  
+
+GI/GU: abd soft, nondistended, + bs. No bm.  On c-diff precautions for recent bout at rehab.  foley with cloudy urine with some sediment.  lasix gtt at 20mg/hr.  + prostatitis. [**Last Name (un) **] tox sent and found to be neg. 
+
+ID: afebrile. on meropenum and flagyl.  wbc pending for am.  
+
+psychosocial: wife and son in to visit-udpated on poc-will be back today.  supportive. 
+
+DISPO:
+      -cont to assess MS changes and contributing factors
+      -manage blood sugars
+      -lasix gtt for fluid overload/^ BNP
+      -? w/u of resp status/pattern-? [**Doctor Last Name 8**] study
+      -long term anticoagulation
+      -cont with med regimen and icu care
+     
+
+
+
+
+
+
+",,
+14936,26755,39309,0,3065-03-24 03:41:00 EST,3065-03-24 03:45:00 EST,2827,"N",1,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Patient transferred from floors dyspneic and ? mental status change.  BLBS fine crackles consistent with CHF.  Attending physician suggested CPAP trial after witnessing periods of apnea.  Placed on nasal CPAP 8 cmH2O but patient desaturated and seemed to have more apneic periods.  Taken off after 2 hours and placed back on nasal cannula.  Question central [**Doctor Last Name 8**] apnea.
+
+                           [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT
+",,
+14936,26755,,,3065-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-28**] 9:06 AM
+     UNILAT UP EXT VEINS US RIGHT                                    Clip # [**Clip Number (Radiology) 13559**]
+     Reason: R arm swelling, h/o LUE DVT. Eval for DVT                   
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with CHF, elevated baseline INR, w/ LUE DVT on coumadin, now w/ 
+      RUE swelling.  PICC in RUE                               
+     REASON FOR THIS EXAMINATION:
+      R arm swelling, h/o LUE DVT. Eval for DVT                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old man with right arm swelling.
+     
+     Comparison is made to prior study done on [**3065-3-23**].
+     
+     Grayscale, color flow and Doppler images of the right upper extremity was
+     obtained.  The right internal jugular, right subclavian, right axillary vein,
+     right brachial veins, right cephalic vein and right basilic veins demonstrate
+     normal compressibility, respiratory variation in the venous flow and venous
+     augmentation. The right picc line is noted within the right axillary vein.  
+     
+     The thrombosed left internal jugular vein was again noted and is unchanged
+     compared to prior study.
+     
+     IMPRESSION:
+     
+     1.  No evidence of DVT in the right upper extremity.
+     
+     2.  Unchanged thrombosed left internal jugular vein consistent with the
+     patient history of prior DVT.
+     
+
+",,
+14936,26755,,,3065-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-28**] 9:07 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 13560**]
+     Reason: with doppler to eval for cirrhosis, portal flow, other cause
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with CHF, CAD s/p CABG, LUE clot and elevated baseline INR on 
+      coumadin w/ sig INR elevation today and doubling of transaminases
+     REASON FOR THIS EXAMINATION:
+      with doppler to eval for cirrhosis, portal flow, other cause of transaminitis   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old man with increased transaminase level.
+     
+     The liver demonstrates normal echogenicity with no focal lesions.  There is
+     normal hepatopetal flow.  The IVC and hepatic veins are dilated.  The
+     gallbladder contains a 6-mm polyp and no stones.  There is no evidence of
+     cholecystitis.  The common bile duct is not dilated and measures up to 3 mm in
+     thickness.  Note is made of a right pleural effusion and consolidated right
+     lower lobe.
+     
+     The kidneys are normal in size and appearance.  The spleen is enlarged
+     measuring up to 12.5 cm.  No evidence of ascites is noted.
+     
+     IMPRESSION:
+     1.  No intrinsic hepatic or biliary pathology is identified.  Passive hepatic
+     congestion is most likely cause for the elevated transaminase level.
+     
+     2.  Mild splenomegaly.
+
+",,
+14936,26755,,,3065-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-29**] 9:03 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13561**]
+     Reason: eval for ICH                                                
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with CHF, , CAD s/p CABG, LUE clot, admitted w/ SOB, now w/ 
+      acute MS changes, coagulopathy.  
+     REASON FOR THIS EXAMINATION:
+      eval for ICH                                                                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 76-year-old man with CHF, CAD status post CABG.  Acute mental
+     status changes.
+     
+     COMPARISON:  [**3065-3-23**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     CT HEAD WITHOUT CONTRAST:  No evidence of intracranial hemorrhage.  No
+     intracranial mass lesion, hydrocephalus, shift of normally midline structures,
+     minor or major vascular territorial infarct is apparent.  Since prior exam,
+     there has been no significant interval change.  Again noted, cortical atrophy
+     and prominent calcifications of the cavernous carotid arteries.  The osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  No acute intracranial pathology, including no sign of
+     intracranial hemorrhage.  
+                                                                           
+
+",,
+14936,26755,,,3065-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14936,26755,,,3065-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-3-31**] 10:38 AM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 13562**]
+     Reason: eval for hydronephrosis                                     
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with CHF, CAD, coagulopathy, now w/ hematuria, decreased UOP, 
+      elevated Cr
+     REASON FOR THIS EXAMINATION:
+      eval for hydronephrosis                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 76 y/o man with CHF and elevated creatinine, please evaluate for
+     hydronephrosis. 
+     
+     The liver demonstrates increased echogenicity with no focal lesion. Ascites is
+     noted and bilateral pleural effusion are noted. The right kidney measures 10.6
+     cm, the left kidney measures 10.9 cm. Simple cyst of the lower pole of the
+     left kidney measures 17 x 15 x 16 mm. Non-obstructive stone of the mid pole of
+     the left kidney measures 7 mm in greatest dimension. The bladder is empty and
+     cannot be well assessed.
+     
+     IMPRESSION:
+     1.Increased echogenicity of the liver consistent with fatty liver. However,
+     other forms of liver disease and more advanced liver disease including
+     significant hepatic fibrosis/cirrhosis cannot be excluded. Passive hepatic
+     congestion is a likely cause in this patient. 
+     
+     2) No hydronephrosis is detected. Non-obstructive stone of the mid pole of the
+     left kidney measures 7 mm in greatest dimension. 
+     
+     3) Ascites and bilateral pleural effusion are present.
+     
+     
+
+",,
+14936,26755,39310,0,3065-03-31 16:35:00 EST,3065-03-31 17:00:00 EST,1563,"N",1,"Nursing/Other","CCU NSG ADMIT","
+CCU NSG ADMIT
+
+76 yo male w/ PMH: CABG'[**44**], CHF EF 17%, PCM/ICD, recent c diff at rehab, IDDM, neuropathy, depression, HTN, CRI, gout, insomnia, prostate Ca
+
+Recent knee surgery w/  admit to [**Hospital1 10**] from rehab for dyspnea, thought to be from infection and deconditioning, dx w/ prostatitis and c diff colitis. 
+
+Worsening dyspnea x 3days w/ ^ LE edema, l arm swelling admitted [**3-23**]. ? infiltrate started on vanco/zosyn. LE u/s -> extensive clot in IJ, subclavian. started on heparin gtt. CHF started on lasix gtt, worsening renal failure. Past few days cr ^2.3., oliguria, minimal diuresis. Also quickly became supratheraputic on coumadin w/ INR ^10 despite stopping coumadin sevral days earlier. neg for DIC. Has also had waxing/[**Doctor Last Name **] mental status  w/ 2 nl head CT. 
+
+Today decision made to take to cath lab, place swan, ultrafiltrate w/ CVVH. Pt arrived to CCU ~ 1700, swan noted to be in RA, pt returned to  cath lab to have swan repositioned.
+",,
+14936,26755,39310,,3065-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-4-1**] 9:38 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 13564**]
+     Reason: s/p NGT insertion                                           
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           76 year old man with cad, chf, DOE s/p SWAN placement                      
+                                           
+     REASON FOR THIS EXAMINATION:
+      s/p NGT insertion                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  Coronary artery disease, dyspnea on exertion, Swan placement.
+     
+     One view.  Comparison with the previous study done earlier the same day. 
+     Bilateral pleural effusions and evidence for underlying pulmonary vascular
+     congestion persist.  The patient is status post median sternotomy and CABG as
+     before.  Cardiac electrodes and a Swan-Ganz catheter remain in place.  A
+     nasogastric feeding tube has been inserted and terminates below the diaphragm
+     in the region of the body of the stomach.  There is no other significant
+     change.
+     
+     IMPRESSION:  Feeding tube placement as described.
+                                                                           
+
+",,
+14936,26755,39310,,3065-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-4-1**] 7:56 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 13563**]
+     Reason: please evaluate placement of SWAN                           
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          76 year old man with cad, chf, DOE s/p SWAN placement                       
+                                         
+     REASON FOR THIS EXAMINATION:
+      please evaluate placement of SWAN                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAM:  Evaluate placement of Swan-Ganz catheter.
+     
+     SINGLE AP PORTABLE VIEW OF THE CHEST
+     Swan- Ganz catheter tip is in the right pulmonary artery.  The heart remains
+     enlarged but stable.  Left pacemaker leads terminate in standard position.
+     Compared to prior study dated [**3065-3-23**] there has been interval increase
+     in right small-to- moderate pleural effusion. There is mild interstitial
+     pulmonary edema.  There is no pneumothorax.
+
+",,
+14936,26755,39310,,3065-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-4-1**] 9:38 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 13564**]
+     Reason: s/p NGT insertion                                           
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           76 year old man with cad, chf, DOE s/p SWAN placement                      
+                                           
+     REASON FOR THIS EXAMINATION:
+      s/p NGT insertion                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  Coronary artery disease, dyspnea on exertion, Swan placement.
+     
+     One view.  Comparison with the previous study done earlier the same day. 
+     Bilateral pleural effusions and evidence for underlying pulmonary vascular
+     congestion persist.  The patient is status post median sternotomy and CABG as
+     before.  Cardiac electrodes and a Swan-Ganz catheter remain in place.  A
+     nasogastric feeding tube has been inserted and terminates below the diaphragm
+     in the region of the body of the stomach.  There is no other significant
+     change.
+     
+     IMPRESSION:  Feeding tube placement as described.
+                                                                           
+
+",,
+14936,26755,39310,0,3065-04-01 05:07:00 EST,3065-04-01 05:28:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P CHF/CM/RENAL FX","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P CHF/CM/RENAL FX
+S- ""CAN I HAVE A SWAB..""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CV- PT ADMITTED FROM CATH LAB S/P PA LINE INSERTION FOR TRIGGER ON [**Hospital Ward Name **] 3 FOR ANURIA. CO FOUND TO BE LOW <2.0. PT BACK TO CCU AND RENAL FELLOW INSERTING RT FEMORAL QUENTIN CATH/ CCU TEAM INSERTING RT RADIAL ALINE. PT STARTED ON DOPA 2.5 MCG AND DOBUTA 5 MCG 8PM. REPEAT CI/CO NOT MUCH IMPROVED, BUT STARTED ON CRRT 1AM AND AWAIT REPEAT CO/CI NUMBERS THIS MORNING. 
+OVERALL , HAS REMAINED WITH STABLE BP-84/57-100/67 WITH MAPS>60 ON STABLE DOSE PRESSORS. HR- 90-100 V PACED, MINIMAL RUNS VEA, FREQ PVC'S. 
+K-4.2-4.5; FREE CA- 1.03-1.07- STARTED ON CA AND K GTT ONCE CRRT INITIATED. GIVEN CA GLUC 2 AMPS 8PM FOR LOW FREE CA.
+
+PA PRESSURES- ELEVATED- PAD- LOW TO MID 30'S , CVP- 22-26.
+
+RESP- PT ON 5 L NP 7P- BY 8P- DRIFTING DOWN TO MID 80'S FOR O2 SATS- ADDED 100% FACE TENT WITH IMPROVED O2 SATS.
+DIM SOUNDS WITH CX BILATERALLY.
+NO COUGH.
+REMAINS STABLE- NO DESATURATION. ABG WNL.
+02 SATS MID 90'S. MV O2 SATS 43%.
+
+ID- AFEBRILE- REMAINS ON MEROPENUM IV- UNABLE TO GIVE PO DOSE FLAGYL D/T MENTAL STATUS AND NEED TO LIE FLAT- HO AWARE.
+PT BORDERLINE HYPOTHERMIC AT START OF THIS SHIFT- 96- ADDED BAIR HUGGER 8PM. CURRENTLY CLOSER TO NORMOTHERMIC.
+
+GU- FOLEY CATH IN PLACE- HEMATURIA- WOULD NEED UROLOGY IF FOLEY WERE TO BECOME D/C. NO UO THIS SHIFT.
+
+RENAL- NO CRRT MACHINES PRESENT THIS CAMPUS- HAD TO AWAIT ARRIVAL OF CRRT MACHINE FROM EAST CAMPUS AND K-PAD WARMERS TO HEAT REPLACEMENT FLUIDS. STARTED CRRT WITHOUT ISSUE AT 1AM. 
+PFR-110-160, BLOOD FLOW- 80, GOAL INITIALLY TO JUST KEEP EVEN WHILE ASSESSING BP. AFTER NOTING BP STABLE X 3 HOURS, INCREASED GOAL TO (-)50CC/HOUR. CURRENTLY REMAINS AT GOAL. PT IN CVVH MODE.
+NO HEPARIN/ANTICOAG. CHECKING LABS Q 6 HOUR PER PROTOCOL.
+RT GROIN SITE OOZING. PULSES ALL DOPPLERABLE.
+
+GI- NPO- PT NEEDING TO BE FLAT-15 DEGREES- TOO LETHARGIC TO BE GIVEN PO MEDS THIS SHIFT. SWABBING MOUTH. PT ALSO ON ASPIRATION PRECAUTIONS- UNABLE TO KEEP AT 30 DEGREES D/T CRRT.
+HYPOACTIVE BOWEL SOUNDS. NO STOOL . (+) CDIFF- ON CONTACT PRECAUTIONS.
+
+LINES- PT WITH PICC LINE- PA LINE FROM CATH LAB.
+TEAM INSERTED RT RADIAL ALINE 9P, RENAL TEAM INSERTED QUENTIN CATH 7:30-8PM. ALL LINES PATENT.
+ALINE AND QUENTIN LINES OOZING- REINFORCED DSG( ALL COAGS ELEVATED).
+HCT STABLE CURRENTLY.
+
+SKIN- BUTTOCKS/COCCYX REDDENED- ON AIR MATTRESS- ORDERED FOR MICRONIZOLE POWDER ONCE AVAILABLE. UNABLE TO MOVE PT FREQUENTLY D/T LIMITATIONS R/T GROIN LINE CRRT.
+
+SOCIAL- WIFE AND SON IN TO VISIT- SPOKE TO RN /MD TEAM. 
+WIFE IS HEALTH CARE PROXY. PT IS FULL CODE. ICU CONSENT OBTAINED FROM PREVIOUS ADMIT TO MICU.
+
+A/P- PT WITH CM/CV SHOCK PROGRESSING OVER THE COURSE OF THE PAST SEVERAL DAYS, RE-ADMITTED TO ICU SETTING FOR WORSENING RENAL FX/SHOCK/RT SIDED FX FOR PRESSORS/CRRT.
+
+CURRENTLY TOLERATING 50CC TAKEN OFF VIA CRRT HOURLY.
+REMAINS ON DOPA/DOBUTA- TITRATE FOR MAP>60.
+INCREASE UF GOAL UP TO 100CC IF MAP CAN TOLERATE- CONSIDER INCREASING DOPA IF MAPS START TO DROP.
+WATCH O2 STATUS- TITRATE O2 ACCORDING TO O2 
+",,
+14936,26755,39310,0,3065-04-01 05:08:00 EST,3065-04-01 05:28:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P CHF/CM/RENAL FX","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P CHF/CM/RENAL FX
+(Continued)
+SATS.
+ATTEMPT TO GET CI>2.0 WITH PRESSORS.
+K/CA GTT- TITRATE PER CRRT PROTOCOL.
+SS REG INSULIN/QHS GLARGINE FOR BLOOD SUGAR COVERAGE.
+KEEP PT AND FAMILY AWARE OF PLAN OF CARE, KEEP PT COMFORTABLE.
+CLOSELY MONITOR PT MENTAL STATUS.
+PT COMFORT/SAFETY. DISCUSS PLAN FOR NUTIRTION.
+CONTINUE CURRENT PLAN OF CARE.
+",,
+14936,26755,39310,0,3065-04-01 16:30:00 EST,3065-04-01 17:37:00 EST,1627,"N",1,"Nursing/Other","CCU progress note 7a-7p","
+CCU progress note 7a-7p
+
+EVENTS: Pt made DNR/DNI- continue current care (CRRT/PRESSORS) May let pt's own AICD defibrillate up to 2 times if VT/VF arrests then if unsuccessful use magnet over AICD to stop AICD function. Increased both Dopa/Dobuta + started on Levophed gtt. CRRT clotted twice this afternoon - 2nd time after 3hrs!  Attending called and approved low dose heparin via CRRT machine - Renal on call fellow called for heparin orders via CRRT. To restart CRRT this evening with heparin via setup. 
+
+NEURO: lethargic most of day - inconsistently answers yes/no questions with nods of yes/no verbal - stating no to pain. Did voice out loud this evening his penis hurt - lido urojet to site. no other c/o of pain. During a turn this morning pt yelled out ""what the hell are [**Doctor First Name **] doing etc etc.."" then lapsed back into lethargy and did not respond to questions. will occasionally open eyes and turn head to voice. noted to respond to family when talking about some members and when some family visited - also when discussion of NewYork Yankees and Red Sox scores were discussed pt 'perked' up. 
+
+ID: contact precautions for recent h/o CDIFF colitis. on meropenum q12h + flagyl IV q8h.
+
+RESP: LS bronchial at times, crackles to bases. O2 face tent cool mist + 5L n/c sats >97-98%.  difficult to obtain good pleth on sats. last ABG: 7.31/35/127/18. Asat 98% PA sat 31%!!
+
+CARDIAC: VPACED 90s. AICD. Run on 4 beats VT noted at 6pm. CCU team aware. CO/CI remains very poor.  CO/CI/SVR 2.5/1.18/1600 PAsat 31! DOBUTAMINE @ 15mcg/k/min. DOPAMINE @ 10mcg/k/min. LEVOPHED @ 0.25mcg/k/min. 
+
+ACCESS: single lumen PICC R AC. PA line R femoral. Dialysis line R femoral. R groin site changed multiple times for oozing. R radial ALINE - site changed for oozing. 
+
+GI/GU: foley patent - but anuric - scant brown/icteric urine. BUN/CR remain elevated. on CRRT. Clotted twice this shift. to restart soon w/ heparin on board. abd soft distended hypoBS. smear of yellow stool this morning during bath, nothing since. senna/colace this morning after NGT placed - recieving meds via NGT. 
+
+CRRT: pt was on KCL + CA gtts during CRRT. to start heparin via CRRT machine. clotted x 2. no dialysate. replacement fluids to restart at 1500cc/hr. goal -50cc/hr if tolerated. 
+
+SOCIAL: children and wife visiting all afternoon. daughter flying home from vacation this evening. CCU attending discussed w/ proxy=wife regarding plan of care and pt made DNR/DNI this morning. To continue life support. Family asked for family meeting tomorrow with Dr [**Last Name (STitle) 6639**] while family is all in town.
+
+PLAN: LYTES Q6h w/ PTT/INR + HGB + IonCA. Con't CRRT goal -50cc if BP tolerates. Titrate pressors. emotional support to family. cardiac calc checks q6 w/ labs. DNR/DNI. call family if pt condition worsens - family close-by ~5-10min from hospital. 
+",,
+14936,26755,39310,0,3065-04-02 05:45:00 EST,3065-04-02 06:08:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P END STAGE CV DX","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P END STAGE CV DX
+
+S- MOANING, ASKING FOR MOUTH SWABS.
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT REMAINS ON PRESSORS X 3- DOPA 10 MCG/LEVO 0.35MCG/DOBUTA 15 MCG. CI NOT IMPROVED- 2.7/1.77/1333 AFTER INCREASING DOBUTAMINE TO 20MCG.( EARLIER CI-1.18). BP STABLE- 88/57-98/68 VIA RT ALINE. SOME DIPS OF BP TO 78-76/ BUT COMING BACK UP TO OVER 80/ WITHIN A SHORT TIME PERIOD. MAPS >61-77.
+APPEARING TO DROP BP WITH ANY EXERTION OR EPISODE OF MOANING OUT LOUD.
+WHEN ASKED- DENIES PAIN.
+HEPARIN ADDED TO CRRT SYSTEM- 300U/HOUR- PTT THIS AM 111- HELD 1 HOUR AND DROPPED TO 200U AT 5AM- TO RECHECK PTT 9AM WITH DIC SCREEN.
+SEE FLOW SHEET FOR LYTES/CA/K- REMAINS ON CONTINUOUS GTTS OF EACH WITH CRRT.
+
+LINES- REMAINS WITH RT ARM PICC, RT RADIAL ALINE, RT FEMORAL PA LINE AND RT FEMORAL QUENTIN CATH.
+
+RESP- REMAINS WITH GOOD O2 SATS > 95-99% ON 100% FACE TENT/5L NP.
+LUNG SOUNDS RHONCHOROUS/DIM/CX.
+SOB WITH ANY EXERTION.
+
+GU/RENAL- PT RESTARTED ON CRRT AFTER IT CLOTTING OFF TWICE DURING THE AFTERNOON, ADDING THE HEPARIN 300U VIA SYRINGE. SEE FLOW FOR VALUES.
+NO EVIDENCE OF CLOTTING CURRENTLY.
+GOAL- TAKING OFF 50CC/HOUR- CURRENTLY OVERALL (-)50CC SINCE MN.
+REMAINS ON REPLACEMENT 1500CC/HOUR AND NO DIALYSIS FLUID.
+BUN/CREAT APPEAR STABLE. REMAINS ANURIC.
+
+MS/NEURO- PT LETHARGIC, WORSE THAN YESTERDAY- MOANING OUT LOUD- ASKED IF IN PAIN- BUT DENIES- ONCE SAID HE HAD PAIN AT INSERTION SITE OF CATHETER- GIVEN LIDO GEL WITH RELIEF.
+
+SOCIAL- WIFE AND DAUGHTER/SONS X 2 PRESENT. AWAITED ARRIVAL OF 2ND DAUGHTER AND HAD ANOTHER MEETING/CONVERSATION WITH CCU ATTENDING 9PM.
+SPOKE TOWARDS THOUGHTS OF CHANGING STATUS TO COMFORT MEASURES/WITHDRAWING CARE BUT CAME TO CONSENSUS TO EVERYONE REST OVERNITE AND COME BACK IN THE MORNING AND TALK AGAIN. REALISTIC OVER
+PROBABILITY THAT PT WILL NOT IMPROVE OVERALL D/T END STAGE CV FX, EVEN IF CRRT BEGINS TO TAKE OFF MORE FLUID.
+FAMILY STAYED UNTIL 11P, WIFE STAYED LATER AND DAUGHTER CAME BACK AND STAYED UNTIL 2AM. 
+
+A/P- PT WITH END STAGE CV FX CURRENTLY REMAINS ON PRESSORS/CRRT 
+
+PLAN TO CONTINUE GOAL OF KEEP MAP>60 ON PRESSORS, KEEP CRRT GOING WITH GOAL OF TAKING OFF 50CC/HOUR AS BP TOLERATES.
+CONTINUE TO CLOSELY ASSESS PT FOR ANY PAIN/SOB- MEDICATE WITH MS FOR PAIN AS NEEDED.
+KEEP FAMILY AWARE OF PLAN OF CARE/CONTINUE DISCUSSIONS WITH THEM TO ASSIST IN PLANNING POSSIBLE CHANGE IN STATUS TODAY.
+CHECK LABS Q 6 HOUR- ADJUST CA/K GTT AS NEEDED.
+
+",,
+14936,26755,39310,0,3065-04-02 15:32:00 EST,3065-04-02 16:15:00 EST,1627,"N",1,"Nursing/Other","CCU progress note 7a-7p","
+CCU progress note 7a-7p
+ 
+EVENTS: family meeting with Dr [**First Name (STitle) **] and Dr [**Last Name (STitle) 6639**]. Remains DNR/DNI - monitor over next 24hrs for improvement in cardiogenic shock w/ addition of Milrinone.  Dobutamine weaned off this morning and Milrinone started. Dopamine initially increased and was attempted to wean down this afternoon. Levophed titrated for MAPs>65. 
+
+NEURO: more alert today. answering questions - asking questions. stating 'penis' discomfort at times - rec'd lidojet multiple times w/ some relief ?bladder spasms as pt still had discomfort even after some lido applied externally and pt unable to feel sensation but still had pain. Also c/o of shoulder discomfort relieved w/ repositioning. 
+
+SOCIAL: rec'd sacrement of the sick this afternoon w/ family present. family at bedside all day. 
+
+RESP: desaturated post milrinone bolus - was 86-92% w/ no visible effort for respirations or change in lung sounds - LS clear upper w/ scattered crackles/rhonchi to dim to bases. pt was on NC 5L and cool mist shovel mask - placed on high flow shovel mask @95% plus 5L n/c w/ sats 94%. 
+
+CARDIAC: Vpaced 90s. occ PVCs - runs of PVCs and runs of pacer not capturing since Milrone started at 1030am. (CCU team aware of failure to capture events all afternoon). Milrinone bolus given 50mcg/kg and then gtt started at 0.26mcg/k/min. Dobutamine was weaned off from 20mcg/k/min prior to start of milrinone. Levophed and Dopamine titrated thruout day. Current gtts: Levophed @ 0.22mcg/k/min, Dopamine @ 10mcg/k/min, Milrinone 0.26mcg/k/min. Dobuta off. Heparin continues on low dose via CRRT @ 150 u/hr - coags checked q6h - CCU team consulted and decreased heparin to 150u/hr (200u/hr) since renal teams order for heparin via CRRT would have gtt off (pt's coags(PTT) were 50-60s before on heparin gtt). last INR 5.6. evening coags pnd w/ lytes. 
+
+GI/GU: foley irrigated this morning (after penis pain) w/ old clots coming out - approx 10cc ?urine output dark rusty, but some of that is lido urojet coming out foley. abd soft distended hypo BS no BM today. NGT patent for meds. 
+",,
+14936,26755,39310,1,3065-04-02 15:32:00 EST,3065-04-02 16:34:00 EST,1627,"Y",1,"Nursing/Other","CCU progress note 7a-7p","
+CCU progress note 7a-7p
+
+1700hr CARDIAC CALCS: CO/CI/SVR 3.9/1.84/964. PAD 31 CVP 14
+CRRT: blood flow 100cc/hr. no dialysate. Replacement fluids @ 1500cc/hr. Heparin @ 150u/hr. goal of 50cc fluid removal . PA sat 45% on milrinone gtt @ 0.26mcg/k/min. dopamine now at 7.5mcg/k/min. dobuta off. levophed @ 0.3mcg/k/min. CCU tehourly. q6h lytes/coags/ionCa and abg. Ca + KCL gtt titrated to labs. site slight ooze serosang - dsg changed. bair huggam aware. 
+CARDIAC::anasarca. PLT 66. HCT 34.3(35.7) on hepaer on continously for hypothermia Temp 94-95.
+
+ACCESS: R radrin gtt. DVT in L arm, no sticks. 
+
+ID: meropenum q12h + flagyl q8h. contact precautions for recent bout of cdiff colitiial Aline. R fem PA + Dialysis line. R a/c PICC line. s. afebrile. WBC 8.9.
+
+PLAN: emotional support. ?withrawl/CMO if pt does noNext Labs due @ 12am (for CRRT). PND coags - adjust heparin gtt.
+con't CRRT goal 50cc fluid removal. titrate pressors for MAPS >65 goal of SBP 100s but unable to get pt SBP of 90s. mointor resp status.  freq skin care + mouth care.  monitor for bleed while on heparin. 
+",,
+14936,26755,39310,2,3065-04-02 15:32:00 EST,3065-04-02 17:09:00 EST,1627,"Y",1,"Nursing/Other","CCU progress note 7a-7p","
+CCU progress note 7a-7p
+
+1700hr CARDIAC CALCS: CO/CI/SVR 3.9/1.84/964. PAD 31 CVP 14
+CRRT: blood flow 100cc/hr. no dialysate. Replacement fluids @ 1500cc/hr. Heparin @ 150u/hr. goal of 50cc fluid removal . PA sat 45% on milrinone gtt @ 0.26mcg/k/min. dopamine now at 7.5mcg/k/min. dobuta off. levophed @ 0.3mcg/k/min. CCU tehourly. q6h lytes/coags/ionCa and abg. Ca + KCL gtt titrated to labs. site slight ooze serosang - dsg changed. bair huggam aware. 
+CARDIAC::anasarca. PLT 66. HCT 34.3(35.7) on hepaer on continously for hypothermia Temp 94-95.
+
+ACCESS: R radrin gtt. DVT in L arm, no sticks. 
+
+ID: meropenum q12h + flagyl q8h. contact precautions for recent bout of cdiff colitiial Aline. R fem PA + Dialysis line. R a/c PICC line. s. afebrile. WBC 8.9.
+
+PLAN: emotional support. ?withrawl/CMO if pt does noNext Labs due @ 12am (for CRRT). PND coags - adjust heparin gtt.
+con't CRRT goal 50cc fluid removal. titrate pressors for MAPS >65 goal of SBP 100s but unable to get pt SBP of 90s. mointor resp status.  freq skin care + mouth care.  monitor for bleed while on heparin. 
+",,
+14936,,39310,0,3065-04-03 04:52:00 EST,3065-04-03 05:18:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P END STAGE CV FX","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P END STAGE CV FX
+
+S- "" WHAT TIME IS IT..I HAVE NO PAIN..""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT REMAINS ON PRESSORS X 3- LEVO 0.35/DOPA 10/MILRINONE 0.26.
+CONTINUES TO HAVE MORE VEA/RUNS VT WITH CHANGING FROM DOBUTAMINE TO MILRINONE GTT [**4-2**]. CI REMAINS UNCHANGED 1.75-1.84. SLIGHTLY IMPROVED FROM WHEN ON DOBUTAMINE GTT. 
+ATTEMPTED TO WEAN DOWN DOPA TO 6MCG, REQUIRING INCREASING LEVO SLIGHTLY TO 0.38 FOR DROPPING MAPS/BP OVER THE COURSE OF THE NITE.
+NO CHANGE AT ALL IN RUNS VT/VEA- SO WENT BACK TO ORIGINAL DOSING OF 10 DOPA/0.35 LEVO/0.26 MILRINONE.
+
+HR- MORE TACHY ON MILRINONE AS WELL- 110-130 V PACED. 
+BP- 78/54- 84/50 VIA RT RADIAL ALINE.
+MAP/BP DROPPING AT TIMES WITH ANY EXERTION AND COMING BACK UP ON OWN.
+PA NUMBERS REMAIN ELEVATED, NO CHANGE TO FILLING PRESSURES. UNABLE TO PCW PA LINE.
+
+RESP- PT REQUIRING INCREASE IN O2 [**4-2**]- INCREASED 100% FACE TENT /5L NP TO 95% HIGH FLOW TENT/5L. KEEPING MAPS >92-95%. (+) RHONCHI/CX/DIM AT BASES. APPEARS SOB WITH EXERTION OR TRYING TO ANSWER QUESTIONS/TALK. AT REST, DENIES SOB.
+REMAINS ON SAME O2 THIS SHIFT.
+
+ID- PT ON MEROPENUM/FLAGYL FOR UTI/PROSTATITIS AND (+) CDIFF.
+HYPOTHERMIC- REMAINS ON BAIR HUGGER SINCE ADMIT ON FRIDAY [**3-31**].
+
+GI- NPO- NG TUBE PLACED [**4-1**] FOR ALTERED MENTAL STATUS/LETHARGY AS WELL AS NEED TO BE FLAT IN BED WITH GROIN LINES/CRRT AND (+) ASPIRATION PRECAUTIONS. MINIMAL RESIDUALS, NPO.
+MOUTH CARE/MOISTURIZE. ASKING FOR SWABS- TOLERATING WITHOUT CHOKING/COUGHING. ON SS REGULAR COVERAGE- D/C EVENING GLARGINE AS BLOOD SUGARS WERE LOW NORMAL. NO REG INSULIN THIS SHIFT.
+HYPOACTIVE BOWEL SOUNDS. NO STOOL SINCE ADMIT. NPO.
+
+GU- FOLEY IN PLACE- S/P TRAUMATIC INSERTION PER REPORT- WOULD NEED TO BE REPLACED BY UROLOGY IF FOLEY D/C/COMES OUT. INITIALLY SMALL HEMATURIA, NOW BROWNISH/AMBER- NO UO THIS SHIFT.
+PT ON CRRT SINCE ADMIT FROM CATH LAB- [**3-31**].
+OVERALL HAS BEEN ON CVVH- HOURLY GOAL ONLY (-)25-50CC, IN SETTING OF LOW BP/TRIPLE PRESSORS. BLOOD FLOW 80-100, PFR-140, REPLACEMENT FLUID 1500CC/HOUR, NO DIALYSIS FLUID INFUSION. CLOTTED SEVERAL TIMES [**4-1**] BUT ADDED HEPARIN VIA SYRINGE AND SINCE THEN , NO FURTHER SHUT DOWN/CLOTTING OF SYSTEM. PLEASE REFER TO FLOW FOR VALUES. PT THERAPEUTIC ON 150U/HOUR HEPARIN VIA CRRT SYRINGE.
+
+LINES- RT FEMORAL PA LINE, QUENTIN CATH. AT TIMES, OOZING BUT NO LONGER BLEEDING THIS SHIFT. RT RADIAL ALINE. RT PICC. 
+TO NOT DRAW BLOOD/TAKE BP LEFT ARM, (+)CLOT.
+
+MS- PT LETHARGIC, BUT MORE ALERT YESTERDAY/TONITE. FOCUSING AND TRACKING WHEN SPOKEN TO BY FAMILY AND STAFF. SLURRING, HARD TO UNDERSTAND WHEN PT SPEAKS/ANSWERS. DIFFICULT TO ASSESS LEVEL OF ORIENTATION. SLEEPING ON/OFF- STATING YES TO QUESTION RE: PAIN AND STATING ""PENIS""- GIVEN MULTIPLE DOSES OF LIDO GEL TO AREA, WITH RELIEF.
+PT ORDERED FOR MSO4 AS NEEDED, NO DOSES THIS SHIFT.
+
+SOCIAL- WIFE IS PT HEALTH CARE PROXY, 2 DAUGHTERS AND 2 SONS PRESENT SINCE FRIDAY NITE/PT ADMISSION. DAUGHTERS STAYING UNTIL 12AM. WIFE AND OTHER FAMILY MEMBERS HERE ALL DAY. ALL APPEAR TO UNDERSTAND GRAVE CONDITION OF PT AND POOR PROGNOSIS. WILL
+",,
+14936,,39310,0,3065-04-03 04:53:00 EST,3065-04-03 05:18:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P END STAGE CV FX","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P END STAGE CV FX
+(Continued)
+ING TO WAIT 24 HOUR S/P SWITCHING YESTERDAY FROM DOBUTAMINE TO MILRINONE. DAUGHTERS AND WIFE STATING THEIR RELUNCTANCE AT HAVING TO ACTIVELY MAKE PT CMO, FEELS AT TIMES  LIKE THEY ARE ""ACTIVELY CAUSING HIS DEATH"" BY TAKING AWAY CURRENT MEDS/THERAPIES. BUT UNDERSTAND PT WILL NOT OVERCOME ILLNESS. MUCH DISCUSSION WITH MEDICAL/NSG TEAM AND AMONGST THEMSELVES. 
+TO REDISCUSS PLAN TODAY IN SETTING OF WORSENING BP/O2 AND NO IMPROVEMENT WITH HEART FX.
+
+A/P- PT S/P END STAGE CV DX WITH END ORGAN FX CURRENTLY EXPERIENCING WORSENED ARRYTHMIAS ON MILRINONE AND MARGINAL BP ON PRESSORS X 3.
+NO SIGNIFICANT DIURESIS ON 3 D CRRT D/T HYPOTENSION ISSUES.
+
+CONTINUE CURRENT COURSE- CONSIDER ADDING ANOTHER PRESSOR (4TH) ONLY IF FAMILY ASKING FOR MORE TIME /PT DOES NOT APPEAR TO BE IN PAIN. 
+CONTINUE TO KEEP PT COMFORTABLE.
+CLOSELY MONITOR HEMODYNAMICS/RESP STATUS.
+PT IS DNR/DNI.
+SUPPORT FAMILY IN THEIR DECISIONS RE: PT PLAN OF CARE.
+CONTINUE TO KEEP FAMILY/PT AWARE OF PROGRESS/PLAN OF CARE.
+CHECK AM LYTES AND ADJUST CA/K GTT PER CRRT PROTOCOL. KEEP HEPARIN AT THERAPEUTIC DOSES PER AM PTT.
+
+
+
+",,
+14936,,39310,0,3065-04-03 15:37:00 EST,3065-04-03 15:58:00 EST,1665,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""I know I'm going to die""
+O-Neuro-lethargic most of the morning, uncomfortable c/o general pain and discomfort. Refusing morphine until family came in at 11am.
+CV-Hypotensive on low dose milrione and levo/dopa. MAPs 50's Hr 125 Vpaced with freq short runs of VT 4-8 beats. Elevated filling pressures remain PAD 25-30.
+Resp-Labored rr 30-38 O2 sats 89-90% on HI flow neb/NP changed over to 100% NRB with transient increase in O2 sats 96%. LS coarse with rales.
+ID-temp 98.6-99core bair hugger removed.
+GU-foley 35cc brown urine. CRRT/UF with PFR changed to 0 from 140 with persistant hypotension.
+GI-NGT removed for comfort.
+Social-family meeting with Dr.[**First Name (STitle) **] and Dr. [**Last Name (STitle) 6639**] and decision was made to slowly withdraw treatment and make him comfort care.
+CRRT stopped first at 1230, Milrone stopped at 1300, Levo stopped at 1330 and Dopamine stopped at 1400. Morphine infusion started at 1400 and pt was pronounced at 1445. His family was at his bedside all day.
+Pt brought to the morgue at 1700 by transport. His clothes and ADL belonging were taken home by family. Family refused autopsy/organ donation.
+
+",,
+14936,,,,3065-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

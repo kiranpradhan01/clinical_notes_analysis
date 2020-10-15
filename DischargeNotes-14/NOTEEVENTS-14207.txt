@@ -1,0 +1,216 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14207,5682,,,3298-04-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3298-4-11**]              Discharge Date:   [**3298-4-12**]
+ 
+Date of Birth:  [**3225-2-6**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Morphine Sulfate
+ 
+Attending:[**First Name3 (LF) 8440**] 
+Chief Complaint:
+septic shock
+toxic c. diff s/p subtotal colectomy
+ 
+Major Surgical or Invasive Procedure:
+invasive monitoring 
+ 
+History of Present Illness:
+Pt is 73yo male who was recently diagnosed with lyme myelitis 
+and was hospitalized. He was treated with Ceftriaxone and 
+discharged home. At home, he developed watery diarrhea for 
+several weeks and became severely dehydrated. He presented to 
+OSH and was found to have C diff toxic megacolon. On [**4-11**], 
+he was taken to the OR by an outside surgeon and underwent 
+subtotal colectomy and end ileostomy. Pt's postop condition was 
+moribund, with oliguria, in septic shock, and he was transferred 
+to [**Hospital1 19**] for further management.
+ 
+Past Medical History:
+spinal stenosis
+CAD, s/p CABG & RCA stent
+Recurrent 3 vessel coronary disease
+hypercholesterolemia
+htxn
+prostate CA, s/p XRT
+hx of pancreatitis [**8-/3297**]
+Barrett's esophagus / gastritis
+ 
+Social History:
+unable to obtain from patient
+ 
+Family History:
+unable to obtain from patient
+ 
+Physical Exam:
+VS unstable, while on pressors
+Intubated, sedated
+PERRL, nonicteric sclera
+supple neck
+RR S1 S2 tachycardic
+course breath sounds bilaterally with ronchi in lower lobes
+soft mildly distended, no guarding or rebound, pink ostomy right 
+lower quadrant, retention sutures and staples, no significant 
+drainage, no erythema
+ext with bilateral 2+ pitting edema, mottled to thigh 
+bilaterally
+ 
+Pertinent Results:
+[**3298-4-11**] 03:48PM   WBC-32.1*# RBC-3.23* HGB-9.9* HCT-30.3* 
+MCV-94 MCH-30.7 MCHC-32.7 RDW-14.9
+[**3298-4-11**] 03:48PM   PLT SMR-VERY LOW PLT COUNT-53*#
+[**3298-4-11**] 03:48PM   PT-14.1* PTT-59.2* INR(PT)-1.3
+[**3298-4-11**] 03:48PM   FIBRINOGE-596*
+[**3298-4-11**] 03:48PM   GLUCOSE-138* UREA N-37* CREAT-2.3*# 
+SODIUM-139 POTASSIUM-4.9 CHLORIDE-116* TOTAL CO2-16* ANION 
+GAP-12
+[**3298-4-11**] 03:48PM   ALT(SGPT)-72* AST(SGOT)-208* LD(LDH)-812* 
+CK(CPK)-2376* ALK PHOS-61 AMYLASE-79 TOT BILI-0.2
+[**3298-4-11**] 03:48PM   LIPASE-17
+[**3298-4-11**] 03:48PM   CK-MB-38* MB INDX-1.6 cTropnT-0.15*
+[**3298-4-11**] 03:48PM   ALBUMIN-1.1* CALCIUM-6.1* PHOSPHATE-5.4* 
+MAGNESIUM-1.7
+[**3298-4-11**] 04:15PM   TYPE-ART PO2-68* PCO2-43 PH-7.15* TOTAL 
+CO2-16* BASE XS--13
+[**3298-4-11**] 04:15PM   LACTATE-3.0*
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname 10308**] arrived on a ventilator and was aggressively 
+resuscitated using invasive monitoring. He was given intravenous 
+boluses, transfused blood products and was placed on four 
+pressors: Levophed, Neo-Synephrine, Dobutamine, and Pitressin. 
+(Later, pt was also placed on epinephrine gtt as well.) Pt 
+arrived with a Swan [**Last Name (un) 10309**] catheter, and cardiac parameters were 
+hyperdynamic.
+
+Given the pt's cardiac hx and mildly elevated cardiac enzyme, a 
+STAT cardiology consult was obtained. STAT TTE showed preserved 
+EF and no grossly abnormal wall motions. There was no 
+pericardial effusion. All these findings essentially ruled out 
+cardiogenic shock.
+
+Pt arrived anuric to [**Hospital1 19**]. Pt was acidodic as well. Pt was 
+started on sodium bicarbonate gtt. Nephrology consult was 
+obtained. L femoral dialysis line was placed, and pt was 
+initiated on CVVH.
+
+LFT's began to rise, indicating likely shock liver.
+
+Presuming septic shock, pt was given broad spectrum IV 
+antibiotics. Given the severity of the shock, he was also 
+started on activated Protein C gtt.
+
+Despite all these measures, pt required increasingly higher 
+doses of all the pressors to maintain bp. Serum lactic acid 
+level peaked to > 10. Ventilation was difficult, requiring FiO2 
+of 1.0 and high PEEP.
+
+Family members were present and understood the critical state of 
+pt's multi-organ failure. When pt's blood pressure could not be 
+maintained, family members decided to make the pt DNR. Slowly, 
+pt became bradycardic and hypotensive. Cardiac arrest ensued. Pt 
+was pronounced deceased 4:45am, [**3298-4-12**]. Cause of death 
+was cardiopulmonary arrest due to septic shock.
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+C.Diff collitis
+s/p subtotal colectomy, ileostomy
+acute renal failure
+acute respiratory failure
+post operative anemia
+liver failure
+hypokelimia
+hypocalcemia
+hypomagnesimia
+CAD
+
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+expired
+ 
+Followup Instructions:
+expired
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8443**] MD [**MD Number 8444**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 28**] [**Last Name (NamePattern4) 10310**] MD, [**MD Number 10311**] [**3298-4-12**] @ 1217
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**3298-4-28**] 12:31 PM
+(End of Report)
+
+
+",,
+14207,5682,,,3298-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3298-4-11**] 4:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7412**]
+     Reason: eval line positions (PA, NGT, ETT)                          
+     Admitting Diagnosis: C-DIFF COLITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73M with toxic megacolon s/p subtotal colectomy/ileostomy                       
+     REASON FOR THIS EXAMINATION:
+      eval line positions (PA, NGT, ETT)                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Line placement.  Status post colectomy.
+     
+     An endotracheal tube and Swan-Ganz catheter in satisfactory position.  A left
+     PICC line terminates in the left brachiocephalic vein and a nasogastric tube
+     terminates in the proximal stomach.  The side port of the NG tube may be just
+     above the GE junction level.  Cardiac and mediastinal contours are within
+     normal limits.  There are bilateral alveolar opacities centrally in both
+     lungs, slightly worse on the right than the left.  Bilateral pleural
+     effusions, right greater than left are also noted.
+     
+     IMPRESSION:
+     1.  Nasogastric tube side port likely just above the GE junction, and could be
+     advanced for more optimal placement.
+     
+     2.  Central alveolar opacities, likely due to pulmonary edema from fluid
+     overload.
+     
+     3.  Bilateral pleural effusions, right greater than left.
+                                                                           
+
+",,
+14207,5682,17661,0,3298-04-11 19:38:00 EST,3298-04-11 19:49:00 EST,3062,"N",53,"Nursing/Other",,"
+
+pt transfered from [**Hospital1 **]/nashabo pt on mutilple pressors.
+
+nuero: pt started to open his eyes, pupils equal and reactive to light. no spontanous movement noted. pt does not withdraw any extremties to painful stimuli.
+
+pulm: pt remians on 100% on ac rate  intial abg on arrival 7.15/43/68/19, rate put up to 30 please see flow sheet for vent settings. most recent abg 7.19/38/13/15, dr. [**Last Name (STitle) 255**], dr [**Last Name (STitle) **] aware. lungs dimished at bases.
+
+cards: pt in st, please see flow sheet. iv levophed presently at .75mcg/kg/min, phenylephrine at 2.5mcg/kg/min, vasopressin at .04u/min. goal is to keep map greater than 60, cardiac output 3.63, ci 1.93, dobutamine started presently at 3.0mcg/kg/min, repeat co 3.94, ci 2.10,svr 1218, dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] aware.
+
+gi: pt had ng tube to lws draining bilous drainage
+
+gu: u/o over last 2hours has been  0. dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], dr. [**Last Name (STitle) 255**] called and aware.
+
+f/e ica 1.04 tx'd with 2gm of calicum gluconate.
+
+social: family has not called.
+
+plan: continue to monitor, keep map greater than 60, if map stays above 60 to wean neo first, than levophed per dr. [**Last Name (STitle) **]. pt to have coritsol stem test to be done. ? if pt to be started on cvvhd.
+",,
+14207,,17661,0,3298-04-12 07:19:00 EST,3298-04-12 07:50:00 EST,3647,"N",53,"Nursing/Other","focus hemodymic","
+focus hemodymic
+data: unresponsive. pupils #4=5 and reaacts very sluggishly. dr [**Last Name (STitle) 255**] [**Name (STitle) 5835**]. on dobutamine and changed to dopamine and titrated to keep bp > 100syst. levophed and neo  gtt being titrated. pitressin gtt at 0.04mcg. bp continues to drop. lactated ringers bolous iv given x 5 liters. hct 29-21. 1unit prbc given. cpk 2247. lactic acid 10.3. ph 7.09. sodium bicarb gtt infusing at 100cc/hr. no urine output. seen by renal and cvvhd started. quinton cathe inserted via left  femoral. triple lumen inserted in right femoral. xigris gtt started and explained to familly  and consent obtained. vecoronium gtt started. twitch monitor appliied. initally 4 twitch via ma of 40. vecoronium titrated. bp continues to drop despite increase in gtts. epi gtt started. family callled. son in and wife and other sons on their way. son aware of condition . no urine output. son spoke to dr [**Last Name (STitle) 255**] and wished his father to be comfortable. pt pronounced at 0445 am. wife and sons in to see pt. no autopy per the patients family. 
+",,

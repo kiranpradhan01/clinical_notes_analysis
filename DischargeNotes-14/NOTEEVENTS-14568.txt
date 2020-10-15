@@ -1,0 +1,490 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14568,27909,,,3339-11-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3339-11-29**]              Discharge Date:   [**3339-12-7**]
+ 
+Date of Birth:  [**3249-2-2**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Nsaids
+ 
+Attending:[**First Name3 (LF) 8156**] 
+Chief Complaint:
+Nausea and abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+TEE
+
+ 
+History of Present Illness:
+Pt is a [**Age over 90 **] yo F with a h/o Afib/flutter, CHF(diastolic dysfxn), 
+HOCM who presented to [**Hospital1 19**] on [**11-29**] with episode of chest pain 
+radiating to her back, shoulders, and abdomen. Per the pt's 
+daughter, patient had gone back into afib about 3 weeks ago. 
+Since that time she has had problems with CHF and fatigue. She 
+was recently started on diltiazem for rate control and coumadin 
+for anti-coagulation. Patient was doing okay until the day of 
+admission when the daughter gave her mother some Mg citrate for 
+constipation. After taking this she became acutely ill with 
+nausea and abdominal pain. She was nauseous all day and could 
+not tolerate PO's and had significant diarrhea. Per the daughter 
+the patient was not complaining of any chest pain during the 
+day. However in the ED they noted the patient as having chest 
+pain for about 1 hour PTA with radiation to the back/shoulders. 
+The daughter denied that her mother had any recent fevers, 
+cough, dysuria, or sick contacts.  
+.  
+
+ 
+Past Medical History:
+PCP: [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]
+Cardiologist: Dr. [**Last Name (STitle) 10872**]
+1.  A-flutter, non-Q wave MI [**3333**], cardiac cath as above.
+2.  Hypertension and hyperlipidemia.
+3.  Hypothyroid.
+4.  Arthritis.
+5.  Diverticulosis.
+6.  Status   post  GI  bleed  secondary  to  nonsteroidal
+anti-inflammatories.
+7.  History of bradycardia, for which a pacer was considered
+8.  Peripheral vascular disease.
+9.  Status post cataract repair.
+10. s/p MVA 15 years ago
+11. h/o pelvic fx
+
+ 
+Social History:
+Retired bacteriologist. Daughter who is an attending neurologist 
+
+at the [**Hospital 2574**] [**Hospital **] Hospital. Lives alone, daughter nearby, 
+health aide 2h/day, 7days/week.  Walks with a walker.  She is 
+widowed.  There is no history of alcohol or tobacco or 
+recreational drug use.
+
+ 
+Family History:
+4 sisters all died of cancer, various causes including lung ca 
+and possibly ovarian ca. One daughter died of metastatic cancer 
+in [**3330**] primary site unknown, presumed to be ovarian.
+
+ 
+Physical Exam:
+Discharge physical Exam
+
+PE: Tm= 98.9  HR 80-113 irregular BP 95-120s/50-60 
+O2 sat 93-97% (2L)
+Gen: interactive, appropriate
+HEENT: PERRL, dry mm, R IJ
+CV: brady, distant S1, S2, LUSB murmur [**3-15**] r/g
+Lungs: [**Hospital1 **]-basilar rales, mild wheezes(improve with nebs)
+Abd: soft, mild tender on R, mildly distended
+Ext: trace LE edema bilaterally
+Neuro: CN [**2-21**] intact, 4/5 strength
+ 
+Pertinent Results:
+Admission lAbs:
+[**3339-11-29**] 11:25PM   TYPE-ART PO2-556* PCO2-38 PH-7.45 TOTAL 
+CO2-27 BASE XS-3
+[**3339-11-29**] 11:25PM   LACTATE-1.0
+[**3339-11-29**] 08:40PM   POTASSIUM-5.6*
+[**3339-11-29**] 08:05PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 302**]-1.012
+[**3339-11-29**] 08:05PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-100 [**3339-11-29**] 07:41PM   LACTATE-2.0
+[**3339-11-29**] 04:18PM   GLUCOSE-166* UREA N-40* CREAT-1.7* 
+SODIUM-126* POTASSIUM-6.3* CHLORIDE-86* TOTAL CO2-30 ANION 
+GAP-16
+[**3339-11-29**] 04:18PM   ALT(SGPT)-25 AST(SGOT)-33 CK(CPK)-55 ALK 
+PHOS-137* AMYLASE-116* TOT BILI-0.3
+[**3339-11-29**] 04:18PM   LIPASE-84*
+[**3339-11-29**] 04:18PM   cTropnT-0.01
+[**3339-11-29**] 04:18PM   CK-MB-NotDone
+[**3339-11-29**] 04:18PM   ALBUMIN-4.5 CALCIUM-9.7 PHOSPHATE-5.2* 
+MAGNESIUM-2.6
+[**3339-11-29**] 04:18PM   WBC-17.3*# RBC-4.64 HGB-13.0 HCT-38.8 MCV-84 
+MCH-27.9 MCHC-33.4 RDW-13.2
+[**3339-11-29**] 04:18PM   NEUTS-88.4* LYMPHS-9.3* MONOS-1.8* EOS-0.3 
+BASOS-0.2
+[**3339-11-29**] 04:18PM   PLT COUNT-298
+[**3339-11-29**] 04:18PM   PT-14.2* PTT-24.5 INR(PT)-1.4
+.
+CBC:
+COMPLETE BLOOD COUNT    WBC   RBC   Hgb   Hct MCV MCH MCHC  RDW  
+ Plt 
+[**3339-12-6**] 07:00AM    10.1  3.67* 10.3* 30.5* 83 28.0 33.8 13.4 
+169 
+[**3339-12-5**] 07:00AM    10.7  3.71* 10.6* 31.4* 85 28.5 33.7 13.4 
+166 
+[**3339-12-3**] 05:11AM    12.8* 3.53*  9.7* 29.8* 84 27.5 32.6 13.4 
+132* 
+[**3339-12-2**] 09:20PM    11.5* 3.53* 10.0* 29.7* 84 28.3 33.7 13.4 
+142* 
+[**3339-12-2**] 03:23AM    13.2* 3.46* 10.0* 28.9* 84 28.9 34.6 13.3 
+132* 
+[**3339-12-1**] 04:57AM    10.2  3.30*  9.8* 27.8* 84 29.7 35.3 13.4 
+145* 
+[**3339-11-30**] 05:59AM    13.8* 3.40*  9.4* 28.1* 83 27.8 33.6 13.3 
+158 
+[**3339-11-30**] 12:44AM    15.0* 3.62* 10.4* 29.1* 80 28.6 35.6 13.1 
+172 
+[**3339-11-29**] 04:18PM    17.3* 4.64  13.0  38.8  84 27.9 33.4 13.2 
+298 
+.
+Coags:
+BASIC COAGULATION        PT   PTT  INR(PT) 
+[**3339-12-6**] 07:00AM    18.8* 27.5   2.5 
+[**3339-12-5**] 06:04PM    16.6* 24.2   1.9 
+[**3339-12-4**] 05:04AM    19.1* 27.3   2.6 
+[**3339-12-3**] 05:11AM    17.5* 26.2   2.1 
+[**3339-12-2**] 03:23AM    16.2* 25.8   1.8 
+[**3339-12-1**] 04:57AM    16.0* 26.1   1.8 
+[**3339-11-30**] 05:59AM    15.9* 27.4   1.7 
+[**3339-11-30**] 12:44AM    16.8*122.4   1.9 
+.
+SMA 7:
+RENAL & GLUCOSE        Glu BUN Cr  Na   K  Cl HCO3 AnGap 
+[**3339-12-6**] 07:00AM    121* 21 1.1 139 4.7 98  301 16 
+[**3339-12-5**] 07:00AM    119* 19 1.1 136 4.7 97  311 13 
+[**3339-12-4**] 09:30AM    146* 16 1.0 138 4.3 100 291 13 
+[**3339-12-4**] 05:04AM    125* 18 1.1 141 4.3 103 281 14 
+[**3339-12-3**] 05:11AM    125* 18 1.1 139 3.6 100 301 13 
+[**3339-12-2**] 03:23AM    131* 20 1.0 138 3.6 100 291 13 
+[**3339-12-1**] 04:57AM    106* 19 1.1 135 3.7 100 281 11 
+[**3339-11-30**] 05:59AM    115* 30*1.2*135 3.5 100 261 13 
+[**3339-11-30**] 12:44AM    126* 33*1.4*134 3.5 96  281 14 
+.
+CXR- [**11-29**]: Cardiomegaly, increased pulmonary vasculature 
+consistent with CHF, round density in right lung base correlates 
+with old granuloma on CT , s/p intubation ETT 3 cm above carina, 
+NGT in place  
+Rt IJ in SVC, decreased pulmonary vasculature engorgement  
+.  
+CXR ([**12-2**]): Improving CHF, small B effusions, can't r/o LLL 
+infiltrate
+.
+CXR ([**12-3**]): IMPRESSION: Resolution of pulmonary edema. 
+Bilateral pleural effusions, left greater. Right paracardiac and 
+left basilar subsegmental atelectasis
+.
+CXR ([**12-5**]): IMPRESSION: Left effusion. No other evidence of 
+failure
+.
+CT abd/pelvis ([**11-29**]):  
+1) cardiomegaly with small bilateral pleural effusions. sigmoid 
+diverticulosis without evidence of diverticulitis, otherwise, 
+unremarkable CT Abd/Pelvis without evidence for bowel  
+abnormality, free air or free fluid.  
+.  
+ABD US ([**11-29**]): unremarkable GB, liver, pancreas. CBD 4mm  
+.  
+ECG Afib, 97 bpm, nl axis, LVH, TWI V3-4 (old)  
+.  
+TEE ([**11-30**]): no aortic dissection, no thrombus/clot in the left 
+atria, EF>55%, [**1-11**]+ MR, symmetric LVH  
+.  
+Cardiac Cath [**3339-9-9**]- 30% LCx, elevated LVEDP at 15, no aortic 
+gradient  
+.  
+ECHO [**3339-8-4**]- EF 70%, E/A ratio 0.75, TR gradient 39, Mod LAE. 
+Asymmetric LVH. [**1-11**]+ MR 1+ TR 
+ 
+Brief Hospital Course:
+Upon arrival to the hospital, in the ED, she was initially 
+hypotensive and dropped her pressures into the 70's/80's. She 
+was given 2 L of IVF and went into acute pulmonary edema. At 
+this time she also became hypertensive. She was given lasix and 
+started on nitro gtt. Her BP and respiratory status gradually 
+improved, but she was intubated in anticipation of MRI/A to rule 
+out aortic dissection. In the MR machine she became transiently 
+hypotensive. She was given fluid bolus and since then her BP 
+recovered. She was found to have an elevated WBC and was 
+empirically given levo/flagyl.  
+.  
+MICU course was significant for empiric Abx (discontinued on 
+transfer to the floor since no clear infection), diuresis, rate 
+control with BB, CCB. Had one day of  stridor thought secondary 
+to airway edema post-extubation that resolved after a dose of 
+racemic epi.  Was started on 240mg dilt and has became brady to 
+high 30's -> thus dilt was readjusted to 120mg daily. 
+.
+On transfer to the floor: 
+# Respiratory Status- Pt had decreasing O2 requirements from 4L 
+to 2L via NC on the floor. Continued O2 requirement was 
+attributed due to pleural effusion and atelectasis. She was 
+gently diuresed with a goal of 500-1L negative w/ 20 po lasix 
+daily. The pt was thought to have a very tenous fluid and 
+hemodynamic status and overdiuresis was carefully avoided. 
+Incentive spirometry was continued. At discharge the pt was 
+considered close to her euvolemic status. She developed a 
+contraction alkalosis in the days prior to discharge but did not 
+have episodes of hypotension or an increase in her 
+BUN/Creatinine. Further diuresis should be adjusted cautiously 
+based on clinical exam. The pt should be slowly weaned of O2 as 
+tolerated.
+.
+# Atrial fibrillation was rate controlled with acebutolol and 
+dilt 120 ER initially.
+Due to repeated episodes of rapid ventricular response diltiazem 
+was titrated up to 180mg qAM on [**12-6**]. The Pt was anticoagulated 
+with a goal of INR between 1.8-2.0. 
+The INR on [**12-5**] was 1.9. 3mg of Coumadin was given on [**12-5**], 
+but it was held on the [**12-6**] because of an INR of 2.5. We 
+recommend to give 2mg of Coumadin today in the evening as the 
+INR on the day of discharge was 1.6. Coumadin will need to be 
+adjusted according to INR measurements.
+.
+# Hypotension: See MICU course. Likely multifactorial and now 
+stable. Was Empirically started on steroids for questionable 
+sepsis and relative adrenal insufficiency but steroids were 
+discontinued on the floor and the pt was able to maintain a good 
+BP.
+.
+# ID- Pt with white count of 17 and left shift on admission 
+without clear source of infection. Was empirically treated with 
+levo/flagyl but these were stopped on transfer to the floor 
+since no clear signs of infection were found. Blood and urine Cx 
+were negative. A CXR from the [**3339-12-3**] showed resolved pulmonary 
+edema; with b/l pleural effusions with L>R; there is also R 
+paracardiac and l basilar subsegmental atelectasis which 
+correlates with physical exam (pt with decreased BS at bases 
+with crackles). Repeating CXR on [**12-5**] showed remaining L 
+effusion. Effusion was thought to be unlikely from other causes 
+then cardiac disease and no further interventions or imaging was 
+done.
+.
+# Abdominal pain resolved upon admission to the floor. Previous 
+CT showed sigmoid diverticulosis without evidence for 
+diverticulitis, but was negative for other processes. The pt has 
+been having daily bowel movements until discharge.
+.
+# CKD- Baseline creatinine reportedly 1.4-1.5, came in at 1.7 
+likely from decreased forward flow from the afib and CHF or 
+hypovolemia. Creatinine now 1.1 on discharge.
+.
+# CAD/Chest pain- Pt with recent cardiac cath which demonstarted 
+clean coronaries, only had 30% lesion in LCx. In the ED there 
+was a concern for aortic dissection given the nature of her 
+symptoms, which was ruled out by TEE. Cardiac enzymes with mild 
+troponin leak, nml CK likely represented demand ischemia. The pt 
+was continued on the betablocker Acebutolol 200mg BID.
+.
+#Hypothyroid: Thyroid replacement was continued. TSH wnl.
+.
+# FEN- Diet:low Na/Heart healthy. The pt was gently diuresed 
+with a goal of I/O is -500-1000cc/day. Electrolytes were 
+repleted as necessary.
+.
+# Prophylaxis: PPI, coumadin, bowel regimen. PT service saw the 
+patient and recommended further rehab.
+.  
+# Code- Per discussion with daughter patient is DNR, but not 
+DNI.
+.
+# Communication- [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 10873**] (daughter)- cell ([**Telephone/Fax (1) 10874**] or beeper ([**Telephone/Fax (1) 10875**]  
+
+ 
+Medications on Admission:
+Diltiazem 120mg bid, acebutolol 200mg bid, warfarin 4mg qday, 
+Atorvastatin 10 mg qday, Levothyroxine 100 mcg qday, 
+Nitroglycerin 0.3 mg Tablet SL prn, Docusate Sodium 100 mg bid, 
+Pantoprazole 40 mg qday, Furosemide 20 mg qday 
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 100 mcg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+2. Acebutolol 200 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic  PRN 
+(as needed).  
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+5. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q4H (every 4 hours).  
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed.  
+10. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+11. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+12. Warfarin 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime): 
+adjust for INR between 1.8-2.0.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 77**] for the Aged - Acute Rehab
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+1. Pulmonary Edema
+.
+Secondary Diagnoses:
+- constipation
+- CHF/diastolic dysfunction
+- COPD
+
+ 
+Discharge Condition:
+AAOx3
+Ambulating with walker
+having BMs
+A little hard of hearing
+
+ 
+Discharge Instructions:
+Please continue to take the medications as listed on this 
+discharge sheet. Ensure that [**Doctor First Name **] keep taking laxatives so that 
+[**Doctor First Name **] do not become obstructed. Avoid Magnesium citrate enemas. 
+.
+If [**Doctor First Name **] develop any chest pain, shortness of breath, fevers, or 
+any concerning symptoms, please call your primary care 
+physician.
+ 
+Followup Instructions:
+[**Doctor First Name 54**] have the following premade appointments. [**Doctor First Name **] can call the 
+number below if [**Doctor First Name **] have any questions.
+
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) 10876**] DERMATOLOGY GEN-[**Doctor First Name 10876**] (NHB) 
+Date/Time:[**3339-12-18**] 9:30
+Provider: [**First Name11 (Name Pattern1) 727**] [**Last Name (NamePattern4) 4836**], MD [**MD Number 224**]:[**Telephone/Fax (1) 2870**] 
+Date/Time:[**3340-2-1**] 1:00
+Provider: [**First Name11 (Name Pattern1) 727**] [**Last Name (NamePattern4) 4836**], MD [**MD Number 224**]:[**Telephone/Fax (1) 2870**] 
+Date/Time:[**3340-2-8**] 10:00
+
+ 
+                             [**First Name11 (Name Pattern1) 1150**] [**Last Name (NamePattern4) 1151**] MD [**MD Number 8157**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 637**] [**Last Name (NamePattern4) 638**] MD, [**MD Number 639**] [**3339-12-7**] @ 1549
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 1150**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 123**] [**3339-12-24**] 5:05 PM
+(End of Report)
+
+
+",,
+14568,27909,18106,0,3339-11-30 05:00:00 EST,3339-11-30 05:04:00 EST,7607,"N",53,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt.admitted from ED this shift.Presented to ED with Chief complaint of CP,abd.Pain,hypotensive.Pt.developed flash Pulm.edema s/p fluid bolus.Was intubated for airway protection and resp.distress.Plan;wean to extubate this am.
+",,
+14568,27909,18106,0,3339-11-30 06:35:00 EST,3339-11-30 06:46:00 EST,4010,"N",53,"Nursing/Other",,"
+
+Admission Note:
+ Pt came to Ew with chest pain radiating to L shoulder and abdomen. R/O disection aneurysm. Hypotension.
+Neuro: pt alert and oriented X3.
+CV: afebrile, HR 70's-110's afib with frequent PAC's. Recieved fluid in EW for hypotension SBP 70-80's, causing heart failure and requiring intubation. Negative troponin, K+6.3 recieved kayexolate = 3.5 this am. BUN 40 Creat 1.7, unable to have CT due to elevated renal function. Attempting MRI pt unstable SBP 60's, MRI not done. On nitro in EW for approx 1hr for ST depression, stopped due to continued hypotension. On admission to SICU SBP 80's recieved 500cc bolus with some effect. Sedation off and SBP presently 90-100. CVP 7-10. R IJ with moderate amounts of bleeding.  
+RESP: lungs clear to dim at bases. ABG acceptable. RISB done pt continuing to have periods of apnea. 
+GI: abd soft with +BS. guaiac +, per rectal by Dr. [**Last Name (STitle) 6234**].
+GU: foley draining adequate amounts of clear yellow urine.
+PLAN: Attempt to extubate this am. 
+",,
+14568,27909,18106,0,3339-11-30 17:37:00 EST,3339-11-30 17:43:00 EST,5694,"N",53,"Nursing/Other",,"
+
+Please see carevue for specifics.
+
+Neuro: A+OX3, MAE, follows commands, Russian speaking but does speak and understand English.  Denies pain.
+
+Cardio:  Afib with rare PAC's 80-120's.  Coumadin to started this evening.  No edema, SBP 90-110's.  Right CL oozing moderate amounts of sang fluid.  Redressed at 1600.
+
+Respir:  Extubated this morining.  Transition from Face tent to 2L NC.  O2 sat 99-100%.  Pt. with audible wheezes this afternoon, nebs ordered and adm with effect.  Lungs diminished bil at bases and coarse to clear upper lobes, non-productive cough.
+
+GI:  Abd is soft and round.  +bsx4, denies n/v.  NPO.  No stool this shift.  OGT removed when extubated.
+
+GU:  foley, c/y/u.
+
+SKIN:  intact, no breakdown noted.
+
+POC:  Monitor respir status, continue monitoring hemodynamics.  CM, SW, PT, and OT to follow.  Pt. screened by [**Hospital **] Rehab this afternoon.  Daughter aware of plan.  ?transfer to floor [**12-1**].
+",,
+14568,27909,18106,0,3339-11-30 18:20:00 EST,3339-11-30 18:21:00 EST,5242,"N",53,"Nursing/Other",,"
+
+Resp Care
+
+Pt extuabted to 40% cool aerosal tol well with spo2 in the upper 90s. Currently on 2L NC with good effect. Cuff leak noted prior to extubation/no stridor noted. Pt expectorated small amts of thick white secretions. 
+",,
+14568,27909,18106,0,3339-12-01 01:53:00 EST,3339-12-01 02:09:00 EST,4254,"N",53,"Nursing/Other","SICU NPN:","
+SICU NPN:
+S-""Can I have some eye drops?""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VITAL SIGNS
+
+O-A/O/X/3. Pleasant and cooperative with care. HOH. Primarily russian speaking but speaks and understands english well. MAEs. Denies pain. HR 80-130s, Afib with no viewed ectopy. Periods of RAF but not sustained. Beta blocker given with some affect. Re-started on Dilt with better improvement in HR. BPs 100-120s. Pulses palpable throughout and extremeties warm. Breaths sounds with exp wheeze and dim at bases. O2Sats 98-99% on 2Ls. Post extubation ABG good with slight hypercarbia but compensated. Denies SOB and difficulty breathing. Nebs given for wheezes with no affect. Foley patent and draining clear yellow urine, HUO adequate. Abdomen soft with normoactive bowel sounds. Started on sips with pill and does well. Diet advance to regular as tolerated. Skin dry, warm, and intact. Afebrile. No issues. Dtr visiting into evening and going home. Dtr to follow up in AM on how pt did overnight. 
+
+A/P: s/p severe dehydration c/b electrolye inbalance. Pt doing well and most likely call out to floor today.
+
+Continue to monitor 
+",,
+14568,27909,18106,0,3339-12-01 14:10:00 EST,3339-12-01 14:16:00 EST,6775,"N",53,"Nursing/Other",,"
+
+SICU NN: See carevue for specifics, patient assessment, and events. Patient alert and oriented x 3. Moves all extremities. Speech clear. Hard of hearing. 3L by face mask in place (patient prefers mask to nasal cannula).  Inspiratory and expiratory wheezing present, nebulizer treatments around the clock. Racemic epinephrine given by respiratory therapy as per micu team (not acutely, given to see if it would reduce her stridor/wheezing). Work of breathing improved after lasix given this am. Goal -500. Resp rate 20. O2 sat 97 on 3L. Afib on cardiac monitor, rate controlled with cardizem and beta blocker. BP wnl. Tolerating low salt regular diet. Foley with adequate hourly urine outputs. Skin intact. Grandaughter visited. Daughter called. Turn and postion Q2h. Only compains of sore throat related to endotracheal tube, relieved with ice chips. Possible transfer to floor this evening. Plan: monitor respiratory, fluid balance, replete electrolyes as needed, possible transfer. 
+",,
+14568,27909,18106,0,3339-12-02 03:16:00 EST,3339-12-02 03:23:00 EST,4254,"N",53,"Nursing/Other","SICU NPN","
+SICU NPN
+S-""Can I have some ginerale.""
+
+O-Pleasant and cooperative with care. MAEs. Denies pain. HR 90-130s, Afib, transient episode of rate in the 130s but non-sustaining, Dr.[**Last Name (STitle) **] aware. Dilt dose changed to 120mg extended release due this AM. BPs 100-130s. Pulses palpable throughout. Aline and CVL remain in place. Foley patent and draining adequate amounts of urine. Breaths sound with some crackles at bases and exp wheezes. RA sats 95% intially but lowering to 91% after 1hr off O2. Placed back on 2Ls with Sats > 95%. Dr. [**Last Name (STitle) **] holding off on futher diureses for tonight. Tolerating POs with good PO intake and low sodium diet. Afebrile. No issues. 
+
+A/P:
+OOB to chair 
+Call out to floor
+Question further diureses
+",,
+14568,20137,18107,0,3340-02-13 17:48:00 EST,3340-02-13 18:15:00 EST,6170,"N",54,"Nursing/Other","Nursing progress notes","
+Nursing progress notes
+[**Age over 90 **] yr old female w/ hx of Hoh, afib ( on coumadin) anemia, chf, RI, gib, Hypothyroidism, admitted this am to ed after having lox (per daughter) last night and was in resp distress this am at 0500 at the [**Hospital 1304**] rehab. EMS gave 2 ntg sl and 40mg iv lasix, in ed 40mg lasix, asa 325mg, nitro gtt at 10mcq/min. nitro gtt off shortly after starting d/t hypotension, pt on bipap d/t low sats 80s. Pcxr: chf, kub done for c/o abd pain: dilated loops of the small bowel. pt arrived to unit on bipap and quickly weaned down to 2 liters nc. pt russian speaking but understands english. pt has state bracelet dnr/dni. 
+
+Neuro: alert and oriented x 3 mae follows commands. slept on and off this shift states ""feels tired""
+
+Resp: 2l nc on sats 99-100% ls clear this afternoon. now has i/e wheezes bilat. received albuterol neb w/ some improvement i/e only on right side. Micu green resident aware. 
+
+Cv: Tele afib 80s sbp 88-100/50s pt on amiodorone and Metroprolol xl 250mg qd. pedal pulses +3. inr 1.1 coumadin 3mg po to be given qhs. ck neg troponin neg. k+ 3.7 mg 1.7,  next ck and lytes pending. pt on 1.5 liter  fluid restriction. 
+
+Gi: pt on low NA diet w/ 1.5 fluid restriction. tolerated po well this evening. abd soft distended bs + no c/o pain. no stool this shift. she is on sennokot and colace. 
+
+gu: foley cath draining yellow clear urine 40-120cc/hr
+
+skin: intact
+
+code: dnr/dni (state bracelet) 
+
+social: pt daughter contact person she is a Neurologist and has talked to the resident this afternoon re: pt care. she has also called tonight for update. 
+
+Plan: 
+lytes pending replace if needed
+fingersticks ac and hs last bs 114
+cont to assess resp status for flash pul. edema. 
+may give albuterol neb q 6hrs for sob/wheezes.  
+",,
+14568,20137,18107,0,3340-02-14 05:55:00 EST,3340-02-14 06:09:00 EST,4027,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+NEURO:  ALERT AND ORIENTED X 3.  ABLE TO VOCALIZE NEEDS WITHOUT DIFFICULTY.  PERRLA, 3/BRISK.  AFEBRILE.  MAE X 4 WIHTOUT DIFFICULTY- ABLE TO ASSIST WITH TURNS AND BEDPAN.  SPEECH CLEAR.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  BBS= ESSENTIALLY CLEAR WITH EPISODES OF COARSENESS AND I/E WHEEZING WITH EXERTION.  PT RECEIVED ANOTHER DOSE OF 40MG OF LASIX NOTED DESATURATION TO 88%- THERAPEUTIC EFFECT NOTED.  PT RECEIVED TOTAL OF 2 ALBUTEROL NEB TREATMENTS THIS SHIFT.  RR 15-25.  CURRENTLY, SP02 IS 95-98%.  BILATERAL CHEST EXPANSION NOTED.  CURRENTLY ON 4L NC. CURRENTLY NO C/O SOB OR DIFFICULTY BREATHING.
+
+CV:  NSR, HR 80'S WITH NO SIGNS OF ECTOPY NOTED.  SBP > OR = TO 100 WITH NO HYPER OR HYPOTENSIVE CRISIS NOTED.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  DENIES ANY CHEST PAIN.  PT RECEIVED TOTAL OF 120MEQ K AND 1200MG MAG DURING THE SHIFT FOR EOECTROLYTE REPLETION.
+
+GI: ABD IS SOFT AND DISTENDED.  PT HAS BEEN C/O ABD PAIN RELIEVED WITH PASSING FLATUS.  KUB SIGNIFICANT FOR CONSTIPATION.  GIVEN TOTAL OF 60MG LACTULOSE- HAS HAD 2 EPISODES OF MEDIUM, LIQUID BROWN STOOL.  PT STATES HER DISCOMFORT HAS LIGHTENED SINCE PASSING STOOL.  NO C/O N OR V.  ABLE TO TAKE PO'S WITHOUT DIFFICULTY.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.  
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.
+
+SOCIAL:  DAIGHTER IN TO VISIT.  VERY CONCERNED THAT BILATERAL HEARING AIDS AND UPPER/LOWER DENTURES ACCOMPANY PT WHEN SHE IS MOVED TO FLOOR.
+
+PLAN:  CALL OUT.  NEB TREATMENTS PRN.  ELECTROLYTE REPLETION PRN.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+",,

@@ -1,0 +1,965 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14291,13853,,,2833-09-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2833-9-29**]       Discharge Date:  [**2833-10-8**]
+
+Date of Birth:   [**2743-3-20**]       Sex:  F
+
+Service:  General Surgery - Blue Team
+
+HISTORY OF PRESENT ILLNESS:  The patient is a [**Age over 90 **] year old
+young lady with a history of hypothyroid, previous
+appendectomy and hysterectomy who presented to the Emergency
+Department with a one day history of severe abdominal pain.
+The patient endorses nausea without vomiting, sweating,
+dysuria, chest pain, and shortness of breath.  The patient
+did not have any prior episodes of this type of pain.  The
+patient has no history of ulcers.  The patient's last bowel
+movement was [**9-29**], it was normal.  The patient
+tolerated breakfast by mouth today without any complications.
+
+PHYSICAL EXAMINATION:  On physical examination the patient
+was afebrile 100.0, heartrate 80, blood pressure 148/74,
+respiratory 24, 99% on room air.  In general she was alert
+and oriented times three.  Cardiac examination was irregular.
+Chest examination with a fair amount of air entry.  Abdominal
+examination, tenderness, guarding mainly in the right lower
+quadrant.  Positive tympani.  Extremities were warm, no edema
+or erythema.  Rectal examination, guaiac negative.
+
+LABORATORY DATA:  Laboratory data on admission revealed white
+count 13.7, hematocrit 42, platelets 397, sodium 139,
+potassium 4.1, chloride 97, bicarbonate 34, BUN 19,
+creatinine 1.0, glucose 127.  Liver function tests, ALT 16,
+AST 28, alkaline phosphatase 78, total bilirubin 0.5, amylase
+43.  Urinalysis, trace leukocytes, small blood, trace
+ketones, red blood cells [**3-30**] and white blood cells [**3-30**].
+Chest x-ray showed free air in his diaphragm on the right.
+Abdominal x-rays, upright film showed free air with air in
+the colon.  Stool absent all the way down through the colon.
+
+HOSPITAL COURSE:  The patient was admitted and placed on
+Ampicillin, Levofloxacin, and Flagyl.  Blood cultures were
+sent.  On hospital day #1, [**2833-9-30**], the patient
+underwent partial gastrectomy and gastrojejunostomy with
+placement of feeding J-tube for a perforated gastric ulcer.
+The patient tolerated the procedure well and there were no
+complications during the surgery.  The patient was placed in
+the Intensive Care Unit over night, intubated.  On [**2833-10-1**], postoperative day #1, the patient was weaned from
+ventilator support and extubated without difficulty.  The
+patient's renal function improved to producing over 30 cc/hr
+and soft bowel sounds were appreciated.  On postoperative day
+#3 the patient was transferred to the floor.  On the floor,
+the patient was started on half-strength tube feeds.  Total
+parenteral nutrition was continued and by [**10-6**],
+postoperative day #6 the patient was tolerating sips.  On the
+day of [**10-5**], the patient had one episode of atrial
+fibrillation that was successfully controlled with
+intravenous Lopressor.  By [**10-7**], the patient was
+tolerating liquids without difficulty.  Total parenteral
+nutrition had been stopped, antibiotics had been stopped and
+rehabilitation planning had started.  Tube feeds were
+increased to almost goal.  On [**10-8**], the patient was
+tolerating full liquids without difficulty and was discharged
+to rehabilitation.  The patient will be discharged to
+[**Hospital 293**] Rehabilitation in good condition.  She is able to
+ambulate with assistance, tolerate full liquids and has no
+further need for antibiotics.
+
+DISCHARGE DIAGNOSIS:
+1.  Status post partial gastrectomy for perforation of gastric
+ulcer, sepsis,  
+2.  Status post gastrojejunostomy
+3.  Status post placement of
+feeding J-tube
+4.  Hypothyroid
+5.  Status post appendectomy
+6.  Status post hysterectomy
+7. Coronary Artery Disease, Hypertension 
+8. Dementia
+9. Malnutrition
+10. Esophageal Motility Disorder 
+ 
+DISCHARGE MEDICATIONS:
+1.  Acetaminophen 325 mg tablets, one to two tablets by mouth
+q. 4-6 hours as needed
+2.  Metoprolol 50 mg tablets [**1-29**] tablet by mouth twice a day
+3.  Pantoprazole 40 mg tablets one tablet every 24 hours
+4.  Prednisone 10 mg one tablet by mouth three times a day
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 1246**]
+
+Dictated By:[**Name8 (MD) 3116**]
+MEDQUIST36
+
+D:  [**2833-10-8**]  09:54
+T:  [**2833-10-8**]  11:26
+JOB#:  [**Job Number 10419**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: WED [**2833-10-12**] 11:51 AM
+(End of Report)
+
+
+",,
+14291,13853,,,2833-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-9-29**] 3:19 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8247**]
+     Reason: eval for free air                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with abdominal pain                                           
+     REASON FOR THIS EXAMINATION:
+      eval for free air                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of abdominal pain.
+     
+     Heart size is normal. There is tortuosity of the thoracic aorta. There are
+     linear atelectases at the left lung base. There is free gas under the right
+     hemidiaphragm. There is an old healed fracture of the right clavicle.
+     
+     IMPRESSION: Free gas under diaphragm consistent with perforation of a hollow
+     viscus. Left basilar atelectasis. Findings communicated by telephone to Dr.
+     [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8248**].
+
+",,
+14291,13853,,,2833-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-9-29**] 10:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8250**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: RLQ abdominal pain, eval for right sided diverticulitis, abs
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with rlq abd pain and free air on xrays                       
+     REASON FOR THIS EXAMINATION:
+      RLQ abdominal pain, eval for right sided diverticulitis, abscess please give 
+      gastrograffin contrast
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 8251**] [**Doctor First Name 151**] [**2833-9-29**] 10:39 PM
+      edematous, thickened stomach wall with free air
+      no contrast extravasation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: Right lower quadrant abdominal pain and free air seen on
+     radiograph.
+     
+     COMPARISON: Radiograph, earlier, same day.
+     
+     TECHNIQUE: Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral contrast. Coronal reformats were
+     obtained.
+     
+     IV CONTRAST: 150 cc Optiray due to patient debility.
+     
+     ABDOMEN WITH CONTRAST:  There is dependent change at both lung bases.  Minimal
+     pleural thickening is also noted posteriorly.  There are multiple small
+     pockets of free gas, posterior and anterior to the liver as well as inferior
+     to the liver.  Two small low density lesions are present within the right
+     posterior aspect of the liver, the largest of these is a simple cyst by
+     Hounsfield criteria, and the other may also be a simple cyst, but is too small
+     to definitively characterize.  There are no other focal liver abnormalities.
+     The gallbladder is located very laterally and posteriorly but otherwise
+     appears unremarkable.  The spleen, pancreas, adrenal glands and kidneys are
+     unremarkable.  Within the fundus of the stomach, there is a marked wall
+     thickening, with a more mass-like component measuring 2.4 cm in thickness
+     posteriorly.  Additionally, just inferior to the stomach, there is a
+     collection of contrast measuring 2.4 x 4.7 cm which is external to the GI
+     tract.  A moderate amount of inflammatory reaction is present surrounding this
+     collection.  The remainder of the bowel loops are unremarkable in caliber and
+     appearance.
+     
+     PELVIC WITH CONTRAST:  A Foley catheter is present within the bladder.  Pelvic
+     loops of bowel are unremarkable.  There is no inguinal or pelvic
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Dense calcification is noted within the aorta.  There are no
+     suspicious lytic or sclerotic bony lesions.  Calcification within the soft
+                                                                 (Over)
+
+     DATE: [**2833-9-29**] 10:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8250**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: RLQ abdominal pain, eval for right sided diverticulitis, abs
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     tissues of the right lower back may be related to prior trauma or injection.
+     
+     CT RECONSTRUCTIONS:  These images were useful in delineating the nature of the
+     extraluminal contrast collection adjacent to the stomach.
+     
+     IMPRESSION:
+     1) Findings are consistent with a gastric perforation; differential diagnosis
+     includes perforated ulcer, lymphoma, or carcinoma.  Findings reviewed with the
+     surgery team at the time of the study.
+
+",,
+14291,13853,,,2833-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-9-29**] 10:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8250**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: RLQ abdominal pain, eval for right sided diverticulitis, abs
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with rlq abd pain and free air on xrays                       
+     REASON FOR THIS EXAMINATION:
+      RLQ abdominal pain, eval for right sided diverticulitis, abscess please give 
+      gastrograffin contrast
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 8251**] [**Doctor First Name 151**] [**2833-9-29**] 10:39 PM
+      edematous, thickened stomach wall with free air
+      no contrast extravasation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: Right lower quadrant abdominal pain and free air seen on
+     radiograph.
+     
+     COMPARISON: Radiograph, earlier, same day.
+     
+     TECHNIQUE: Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral contrast. Coronal reformats were
+     obtained.
+     
+     IV CONTRAST: 150 cc Optiray due to patient debility.
+     
+     ABDOMEN WITH CONTRAST:  There is dependent change at both lung bases.  Minimal
+     pleural thickening is also noted posteriorly.  There are multiple small
+     pockets of free gas, posterior and anterior to the liver as well as inferior
+     to the liver.  Two small low density lesions are present within the right
+     posterior aspect of the liver, the largest of these is a simple cyst by
+     Hounsfield criteria, and the other may also be a simple cyst, but is too small
+     to definitively characterize.  There are no other focal liver abnormalities.
+     The gallbladder is located very laterally and posteriorly but otherwise
+     appears unremarkable.  The spleen, pancreas, adrenal glands and kidneys are
+     unremarkable.  Within the fundus of the stomach, there is a marked wall
+     thickening, with a more mass-like component measuring 2.4 cm in thickness
+     posteriorly.  Additionally, just inferior to the stomach, there is a
+     collection of contrast measuring 2.4 x 4.7 cm which is external to the GI
+     tract.  A moderate amount of inflammatory reaction is present surrounding this
+     collection.  The remainder of the bowel loops are unremarkable in caliber and
+     appearance.
+     
+     PELVIC WITH CONTRAST:  A Foley catheter is present within the bladder.  Pelvic
+     loops of bowel are unremarkable.  There is no inguinal or pelvic
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Dense calcification is noted within the aorta.  There are no
+     suspicious lytic or sclerotic bony lesions.  Calcification within the soft
+                                                                 (Over)
+
+     DATE: [**2833-9-29**] 10:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8250**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: RLQ abdominal pain, eval for right sided diverticulitis, abs
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     tissues of the right lower back may be related to prior trauma or injection.
+     
+     CT RECONSTRUCTIONS:  These images were useful in delineating the nature of the
+     extraluminal contrast collection adjacent to the stomach.
+     
+     IMPRESSION:
+     1) Findings are consistent with a gastric perforation; differential diagnosis
+     includes perforated ulcer, lymphoma, or carcinoma.  Findings reviewed with the
+     surgery team at the time of the study.
+
+",,
+14291,13853,,,2833-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-9-29**] 10:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8250**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: RLQ abdominal pain, eval for right sided diverticulitis, abs
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with rlq abd pain and free air on xrays                       
+     REASON FOR THIS EXAMINATION:
+      RLQ abdominal pain, eval for right sided diverticulitis, abscess please give 
+      gastrograffin contrast
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 8251**] [**Doctor First Name 151**] [**2833-9-29**] 10:39 PM
+      edematous, thickened stomach wall with free air
+      no contrast extravasation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: Right lower quadrant abdominal pain and free air seen on
+     radiograph.
+     
+     COMPARISON: Radiograph, earlier, same day.
+     
+     TECHNIQUE: Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral contrast. Coronal reformats were
+     obtained.
+     
+     IV CONTRAST: 150 cc Optiray due to patient debility.
+     
+     ABDOMEN WITH CONTRAST:  There is dependent change at both lung bases.  Minimal
+     pleural thickening is also noted posteriorly.  There are multiple small
+     pockets of free gas, posterior and anterior to the liver as well as inferior
+     to the liver.  Two small low density lesions are present within the right
+     posterior aspect of the liver, the largest of these is a simple cyst by
+     Hounsfield criteria, and the other may also be a simple cyst, but is too small
+     to definitively characterize.  There are no other focal liver abnormalities.
+     The gallbladder is located very laterally and posteriorly but otherwise
+     appears unremarkable.  The spleen, pancreas, adrenal glands and kidneys are
+     unremarkable.  Within the fundus of the stomach, there is a marked wall
+     thickening, with a more mass-like component measuring 2.4 cm in thickness
+     posteriorly.  Additionally, just inferior to the stomach, there is a
+     collection of contrast measuring 2.4 x 4.7 cm which is external to the GI
+     tract.  A moderate amount of inflammatory reaction is present surrounding this
+     collection.  The remainder of the bowel loops are unremarkable in caliber and
+     appearance.
+     
+     PELVIC WITH CONTRAST:  A Foley catheter is present within the bladder.  Pelvic
+     loops of bowel are unremarkable.  There is no inguinal or pelvic
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Dense calcification is noted within the aorta.  There are no
+     suspicious lytic or sclerotic bony lesions.  Calcification within the soft
+                                                                 (Over)
+
+     DATE: [**2833-9-29**] 10:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8250**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: RLQ abdominal pain, eval for right sided diverticulitis, abs
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     tissues of the right lower back may be related to prior trauma or injection.
+     
+     CT RECONSTRUCTIONS:  These images were useful in delineating the nature of the
+     extraluminal contrast collection adjacent to the stomach.
+     
+     IMPRESSION:
+     1) Findings are consistent with a gastric perforation; differential diagnosis
+     includes perforated ulcer, lymphoma, or carcinoma.  Findings reviewed with the
+     surgery team at the time of the study.
+
+",,
+14291,13853,,,2833-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-9-29**] 10:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8250**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: RLQ abdominal pain, eval for right sided diverticulitis, abs
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with rlq abd pain and free air on xrays                       
+     REASON FOR THIS EXAMINATION:
+      RLQ abdominal pain, eval for right sided diverticulitis, abscess please give 
+      gastrograffin contrast
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 8251**] [**Doctor First Name 151**] [**2833-9-29**] 10:39 PM
+      edematous, thickened stomach wall with free air
+      no contrast extravasation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: Right lower quadrant abdominal pain and free air seen on
+     radiograph.
+     
+     COMPARISON: Radiograph, earlier, same day.
+     
+     TECHNIQUE: Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral contrast. Coronal reformats were
+     obtained.
+     
+     IV CONTRAST: 150 cc Optiray due to patient debility.
+     
+     ABDOMEN WITH CONTRAST:  There is dependent change at both lung bases.  Minimal
+     pleural thickening is also noted posteriorly.  There are multiple small
+     pockets of free gas, posterior and anterior to the liver as well as inferior
+     to the liver.  Two small low density lesions are present within the right
+     posterior aspect of the liver, the largest of these is a simple cyst by
+     Hounsfield criteria, and the other may also be a simple cyst, but is too small
+     to definitively characterize.  There are no other focal liver abnormalities.
+     The gallbladder is located very laterally and posteriorly but otherwise
+     appears unremarkable.  The spleen, pancreas, adrenal glands and kidneys are
+     unremarkable.  Within the fundus of the stomach, there is a marked wall
+     thickening, with a more mass-like component measuring 2.4 cm in thickness
+     posteriorly.  Additionally, just inferior to the stomach, there is a
+     collection of contrast measuring 2.4 x 4.7 cm which is external to the GI
+     tract.  A moderate amount of inflammatory reaction is present surrounding this
+     collection.  The remainder of the bowel loops are unremarkable in caliber and
+     appearance.
+     
+     PELVIC WITH CONTRAST:  A Foley catheter is present within the bladder.  Pelvic
+     loops of bowel are unremarkable.  There is no inguinal or pelvic
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Dense calcification is noted within the aorta.  There are no
+     suspicious lytic or sclerotic bony lesions.  Calcification within the soft
+                                                                 (Over)
+
+     DATE: [**2833-9-29**] 10:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8250**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: RLQ abdominal pain, eval for right sided diverticulitis, abs
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     tissues of the right lower back may be related to prior trauma or injection.
+     
+     CT RECONSTRUCTIONS:  These images were useful in delineating the nature of the
+     extraluminal contrast collection adjacent to the stomach.
+     
+     IMPRESSION:
+     1) Findings are consistent with a gastric perforation; differential diagnosis
+     includes perforated ulcer, lymphoma, or carcinoma.  Findings reviewed with the
+     surgery team at the time of the study.
+
+",,
+14291,13853,,,2833-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-9-29**] 3:34 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 8249**]
+     Reason: eval for obstruction                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with belly pain RLQ and suprapubic                            
+     REASON FOR THIS EXAMINATION:
+      eval for obstruction                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN 2 VIEWS
+     
+     HISTORY:  Right lower quadrant and suprapubic abdominal pain.
+     
+     There is free gas under the right hemidiaphragm consistent with perforation of
+     a hollow viscus. Gas and fecal residue are present throughout the colon and
+     there is no evidence for intestinal obstruction and there is calcification in
+     the aorta.
+     
+     IMPRESSION:  Pneumoperitoneum consistent with perforation of a hollow viscus.
+     Correlate clinically.(Findings called by telephone to Dr [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8248**])
+
+",,
+14291,13853,,,2833-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-9-30**] 12:16 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 8252**]
+     Reason: check for NGT placement                                     
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with perforated peptic ulcer                                  
+     REASON FOR THIS EXAMINATION:
+      check for NGT placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Perforated peptic ulcer, status post NG tube placement.
+     
+     VIEWS:  AP upright view, compared with PA upright view from [**2833-9-29**].
+     
+     FINDINGS:  There has been interval placement of a nasogastric tube with the
+     tip terminating within the fundus of the stomach.  No free air is identified
+     under the right hemidiaphragm.  Atelectasis of the left base remains
+     unchanged.  Otherwise, the lungs appear clear.  The heart, mediastinal, and
+     hilar contours remain unchanged.  No definite pleural effusions are
+     identified.  Again seen is an old right clavicular fracture.
+     
+     IMPRESSION:  Satisfactory placement of nasogastric tube with resolution of
+     free air under the right hemidiaphragm.
+
+",,
+14291,13853,,,2833-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-9-30**] 6:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8253**]
+     Reason: S/P CVL                                                     
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman s/p Ex Lap                                                    
+     REASON FOR THIS EXAMINATION:
+      S/P CVL                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of abdominal laparotomy and CV line placement.
+     
+     Endotracheal tube is 4 cm above carina. Right jugular CV line is in mid SVC.
+     NG tube is in stomach. No pneumothorax. There are minimal bibasilar
+     atelectases. Old healed right clavicular fracture.
+     
+     IMPRESSION: Mild bibasilar atelectases. No pneumothorax.
+     
+
+",,
+14291,13853,17760,0,2833-10-01 03:19:00 EST,2833-10-01 03:21:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp. care note - Pt. transffered from PACU to TSICU without incident. Pt. intubated with # 7 OET 22 at the lip, placed on the vent, bs clear.
+",,
+14291,13853,17760,0,2833-10-01 03:55:00 EST,2833-10-01 04:16:00 EST,3826,"N",53,"Nursing/Other",,"
+
+NSG ADMIT NOTE:
+PT IS A [**Age over 90 161**]Y/O WHO PRESENTED WITH H/O N/V AND RLQ ABD PAIN. FOUND TO HAVE PERFED GASTRIC ULCER AND NOW S/P SUBTOTAL GASTRECTOMY WITH J-TUBE PLACEMENT/JP DRAIN. STABLE OPERATIVE COURSE REC'D 3.5L IVF, MIN EBL, AND 140CC U/O. WENT TO PACU AND FAILED TPIECE TRIAL. APPEARED UNDERRESUSITATED AND GIVEN 1L IN FLD BOLUSES-->TRANSFERRED TO TSICU FOR FURTHER MGMT.
+N: PT ALERT AND FC'S. C/O MIN ABD PAIN AND MEDICATED X2 WITH 2MG MSO4 WITH EFFECT. ANXIOUS AT TIMES D/T ETT. ABLE TO CALM WITH OUT MED.
+CV: NSR 70'S-ST 100'S. OCC PAC'S. SBP 90'S-120'S. EASILY PALP PP. K REPLETED. OTHER LYTES NL. REQUIRING FLD BOLUSES X2L OVERNIGHT. U/O SLOWLY PICKING UP. CVP 5-7.
+R: LUNGS CLEAR THROUGHOUT. SL DIM AT BASES. SIMV 8 X450/PEEP 5/PS 5 40%. TRIALED ON [**5-30**] AND NOT AWAKE ENOUGH..APNEIC. RSBI 125.
+GI: ABD SOFT/HYPO BS. NGT WITH COFFEE GRD APPEARING DRAINAGE. LAVAGED X2 WITH NS. NGT NOT DRAINING ANY CONTENTS. ABD WITH MIDLINE INCISION COVERED WITH DSD. JP DRAINING MIN SEROSANG. J-TUBE CLAMPED.
+GU: URINE CLEAR YELLOW/BUN AND CR NL/ FOLEY DRAINING 10-25CC/HR.
+HEME: HCT 28->31
+ID: AFEBRILE. LEVOFLOX/AMP/FLAGYL.
+SOC: PTS DAUGHTER [**Name (NI) **] CALLED FROM CA FOR AN UPDATE.
+A/P: HD STABLE S/P SURGERY CONTINUING TO REQUIRE SOME FLD RESUS. PROBABLE EXTUBATION.
+",,
+14291,13853,17760,0,2833-10-01 16:06:00 EST,2833-10-01 16:21:00 EST,3210,"N",53,"Nursing/Other","T/Sicu NSg Progress Note","
+T/Sicu NSg Progress Note
+0700>>1930
+
+Events- pt weaned from vent support..EXTUBATED w/o difficulty.
+        low u/o...improving throughout the day.
+
+Neuro- alert alt with periods of [**Doctor Last Name 8**]. Oriented to self & visitors; follows explanation of recent events. Has remained calm & cooperative and able to express needs and concerns. MAE's; lower extremity twitching noted on occ? baseline. Abd pain with activity..mso4 2mg ivp prn w/effect.
+
+CVS- VS's...see careview. HR nsr with freq apc's. EKG done with 'no change' per sicu H.O.
+     IVF reduced to 60cc/hr with bolus orders for u/o <15cc...bolus x1 this am. CVP 4-6
+     Electrolyted repleted prn
+
+Resp- uneventful wean from vent. ABG's revealing adequate gas exchange. RR mid teens to 20's; clear diminished breath sounds. NP cough. Weaned to 2L NC.
+
+Renal- u/o improving to 30cc/hr last few hours.
+
+ID- afebrile   cont on triple antibiotics
+    abd dsg d&i
+
+heme- no issues
+
+endo- no issues
+
+gi- ngt to lcs with scant coffee ground drainage. Placement confirmed by air auscultation over stomach; [**Hospital1 16**] sump patent. Abd soft w/o bowel sounds appreciated. JP drain with small amt s/s drainge.
+..jt clamped
+..protonix 40mg ivp bid cont
+
+skin- noted coccyx breakdown(pre-admission issue). Thin duoderm applied to site. area remains pink, stage 1, w/o drainage.
+..compression boots in place; palpable peripheral pulses. Skin is warm,pale, & dry. Restraints removed when extubated.
+..sc heparin bid.
+
+social- multpile calls from family members; no family visitors yet. Pt visited by [**Company 1301**] per her permission.
+
+A/P- successful wean/extubation
+     improving u/o
+     adequate pain mngmnt; pt remains calm/comfortable
+
+     cont with current plan of care
+     increase activity as tolerated; med for incisional pain
+     routine pulmonary toileting post-extubation
+     ? transfer to floor per sicu/surgical team ok.. ?in am.
+
+",,
+14291,13853,17760,,2833-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-10-2**] 8:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8254**]
+     Reason: confirm cl placement                                        
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman s/p Ex Lap                                                   
+       
+     REASON FOR THIS EXAMINATION:
+      confirm cl placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post exploratory laparotomy and central line placement.
+     Please evaluate line position.
+     
+     VIEWS:  A single AP portable view, comparison made to comparable study dated
+     [**2833-9-30**].
+     
+     FINDINGS:  A right IJ central venous line terminates with the tip in distal
+     SVC, in satisfactory position.  No pneumothorax.  NG tube terminates with tip
+     in distal stomach, in satisfactory position.  The film is under-penetrated.
+     Ths heart size appears unchanged.  Bibasilar haziness is consistent with
+     probable small bilateral pleural effusions.  No areas of focal consolidation
+     or pneumothorax.  The visualized osseous structures are unchanged and
+     demonstrate old right clavicular fracture.
+     
+     IMPRESSION:
+     1.  Satisfactory position of lines and tubes without pneumothorax.
+     2.  Allowing for differences in technique, the appearance of the chest overall
+     unchanged with probable small bilateral pleural effusions.
+
+",,
+14291,13853,17760,0,2833-10-02 04:19:00 EST,2833-10-02 04:30:00 EST,3826,"N",53,"Nursing/Other",,"
+
+NPN
+N: PT VERY PLEASANT AND COOPERATIVE. RECEIVING MSO4 PRN FOR PAIN WITH EFFECT. C/O INCREASED SORENESS/TIGHTNESS IN ABDOMEN. 
+CV: HAVING FREQUENT PAC'S AND AT TIMES APPEARED TO TRANSIENTLY GO IN/OUT OF AFIB WITH HR 130'S. BP DIPPING TO SBP 100 DURING THESE TRANSIENT EPISODES. REC'D ONE DOSE LOPRESSOR 5MG WITH IMPROVEMENT IN HR. CURRENTLY NSR 80'S WITH FEW PAC'S. SBP 120'S/ . PT WITH NOTED HCT GTT FROM HCT DRAWN 24HRS AGO 31->25. RECHECKED HCT AFTER 4HRS AND 24.7 [**Doctor First Name **] TEAM AWARE AND NO TRANSFUSION ORDERED AT THIS TIME. K+ WNL AND MG REPLETED.
+R: LUNGS CLEAR/DIM AT BASES. ENCOURAGED TO C/DB. RR TEENS. SATS 98% ON 2L.
+GI: NGT TO LCS WITH NO DRAINAGE. ABD SOFT/DISTENDED WITH HYPO BS. MIDLINE INCISION D/I. JP WITH MIN SEROSANG DRAINAGE.
+GU: CLEAR YELLOW U/O 25CC/HR.
+HEME: COAGS NL. HCT AS PER ABOVE
+ID: AFEBRILE. CONT ON TRIPLE ABX. WBC 9.
+SOC: SON [**Name (NI) 5939**] AND GRANDDAUGHTER [**Name (NI) **] IN VISITING LAST EVENING. UPDATED.
+A/P: ?TRANSFUSE PT/MONITOR HR AND LOPRESSOR IF NEEDED. ?TRANSFER TO FLR THIS AFTERNOON.
+",,
+14291,13853,17760,0,2833-10-02 17:42:00 EST,2833-10-02 17:51:00 EST,3063,"N",53,"Nursing/Other","T-SICU Nsg Note","
+T-SICU Nsg Note
+   Neuro - pleasant, smiling, hard of hearing.  Initially did not know day nor date, but new month, year season, person and place.  Later did remember day of week.  Follows commands, purposeful movements.  2mg MSO4 IV for pain with good effect.
+   CV - some APC's this afternoon & HR up to 90, BP up to 170 sys.  K+ repleted and APC's decreased.
+    Resp - on 2 l NC, resp rate 12-24, comfortable breathing, quiet breaths sounds despite pt having good chest excursion with deep breathing.  Weak cough, non-productive.
+    GU - 5mg lasix IVP with brisk diuresis.  Replacing K+ & mag.
+   GI - NG tube to suction with mostly bilious drainage.  abd feeding tube clamped.  Abd soft.  Abd incision dressed & dry. Scant serosanguinous drainage via JP drain.
+    Heme - 1 uPRBC's given for HCt 24.7, Hct 1 hr post transfusion up to 30.
+  ID - afebrile, remains on flagyl, ampicillin, Levoflox.
+A: Progressing well post-op.  Stable HR & BP.  Responded well to sm dose lasix and unit of PRBC's.
+P: recheck Hct & lytes.  Continue informational support to pt & family.
+",,
+14291,13853,17760,0,2833-10-03 04:41:00 EST,2833-10-03 04:45:00 EST,3826,"N",53,"Nursing/Other",,"
+
+npn
+N: Slept overnight. Given MSo4 prn for pain with effect.
+CV: stable. See serial vs in carevue.
+R: Lungs clear/sl dim at bases. Cont on 2l o2 via nc with sats >96%. Weak non prod cough. Encouraged c/db exercises.
+GI: abd soft/distended. Midline incision c/d/i. Started on tpn via newly rewired cl. J-tube clamped. Ngt to lws with no output, flushed and patent.
+GU: adequate u/o.
+HEME: stable
+ID: afebrile. wbc 6. cont on triple abx
+SOC: no contact with family overnight.
+Activity: oob to chair x3hrs last evening. Tolerated standing/taking steps to chair. C/O tightness in abdomen relieved with narc.
+a/p: transfer to flr.
+",,
+14291,13853,17760,0,2833-10-03 18:35:00 EST,2833-10-03 18:42:00 EST,3063,"N",53,"Nursing/Other","T-SICU Nsg Note","
+T-SICU Nsg Note
+  Alert, watching TV much of day.  Oriented, conversant.  C/o abd tightness, but did not want pain med.  Follows commands. purposeful.  THis afternoon, pt upset about care she received, agitated, crying.  Pt would not say what she was upset about.  Calmer after family in to visit.  OOB to chair for 2 hrs.  Pt reports feeling worse and having more diffiuclty getting OOB than yesterday.
+   Lopressor 2.5 mg IV started q 6.  Rare PVC's.
+  On 2 l NC, O2 sats 94-99%.  Pt did some deep breathing exercises, did do IS a few times, but easily confused with IS.  Lungs clear.
+   On TPN, no enteral feedings.  J tube remains clamped.  NG with bilious output.  Abd soft, flat, DSD intact and wrinkling as pt looses 3rd space fluid.
+    Hct stable at 29 this am after transfusion yesterday.
+  Afebrile, remains on Levoflox, ampicillin, flagyl for coverage.
+   Duderm intact on coccyx.  Otherwise skin intact.
+A: Progressing well post-op.  Pt feels worse today.
+P: Continue emotional & informational support to pt & family.  Consider First step mattress. Transfer to floor when bed available.
+",,
+14291,13853,17760,0,2833-10-04 03:58:00 EST,2833-10-04 04:19:00 EST,3325,"N",53,"Nursing/Other","T-SICU NURSING PROGRESS NOTE","
+T-SICU NURSING PROGRESS NOTE
+Neuro:  Pt initially alert and oriented x 3, cooperative with care.  Med with 2mg MSO4 at 11:30am for c/o abdominal discomfort after being turned and repositioned.  At approx 1am, pt called, very upset, stating that this writer had left her alone x 3 hours.  Attempted to explain to patient that I had just been in the room 30 minutes prior.  Pt became more agitated, stating ""Don't try to pin this on me.  I am not crazy!  [**Doctor First Name **] are upsetting me--just get out of my room!""  Pt calmer after speaking with another RN, no further episodes of agitation.  
+
+CV:  HR 60s-70s, NSR.  2 brief runs of SVT rate up to 138, non-sustained, BP stable.  Pt sleeping during both episodes.  More hypertensive at start of shift, up to 170-180 systolic.  Received extra 2.5mg lopressor and standing dose increased to 5mg q6h with improvement in BP.  
+
+Resp:  Breath sounds clear in upper lobes, diminished in the bases bilat.  Fair cough, minimally productive.  02 up to 3L NC overnoc for sats 92-93% while sleeping.  
+
+GI:  Abdomen softly distended, denies n/v.  NGT to LCS, moderate bilious drainage.  Remains NPO, continues on TPN.  Protonix BID
+
+GU:  Adequate urine output, am labs pending
+
+ID:  Afebrile, continues on flagyl, ampicillin and levoflox
+
+Skin:  Abdominal incis covered with DSD, slightly pink along incis line.  Small amt of serosang drainage from distal portion of incis
+
+Social:  No calls from family overnoc
+
+A:  Periods of confusion/agitation ? if r/t MS04, hemodynamically stable, awaiting bed on floor
+
+P:  Continue with current management, advance activity as tolerated, transfer to floor when bed available
+",,
+14291,4776,,,2833-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-12-17**] 2:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8255**]
+     Reason: look for infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with dyspnea, hypoxia                                         
+     REASON FOR THIS EXAMINATION:
+      look for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Dyspnea and hypoxia.
+     
+     COMPARISON: [**2833-10-2**].
+     
+     PORTABLE AP CHEST: The heart is within normal limits. The aorta is unfolded
+     and calcified. There are no changes in the mediastinal contours.  In the
+     interval since the prior study, there is partial resolution of upper zone
+     redistribution of the pulmonary vasculature and of bilateral pleural effusions
+     consistent with resolving congestive heart failure. There remains some
+     prominence of the pulmonary vasculature and diffuse interstitial pattern of
+     opacification.  There is subtle increase in density over the lower lungs
+     bilaterally.
+     
+     IMPRESSION: Mild heart failure though markedly improved since the prior study
+     of [**2833-10-2**].  Bilateral lower lobe opacification concerning for
+     pneumonia verses atelectasis.
+     
+
+",,
+14291,4776,,,2833-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-12-17**] 4:38 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8256**]
+     Reason: look for pulmonary embolus                                  
+     Field of view: 33 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with hypoxia, recent surgery                                  
+     REASON FOR THIS EXAMINATION:
+      look for pulmonary embolus                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypoxia.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the lung bases through
+     the lung apices before and after the administration of IV contrast.
+     
+     IV CONTRAST: 100 cc of Optiray.  Optiray per CTA protocol.
+     
+     CHEST CT W/O&W IV CONTRAST (PULMONARY CTA): The heart and pericardium are
+     unremarkable.  The aorta is densely calcified.  The pulmonary arterial tree is
+     well opacified and there are no filling defects to suggest the presence of a
+     pulmonary embolism.  There are dense bibasilar consolidations effecting almost
+     the entirety of both lower lobes with air bronchograms.  The upper lobes are
+     notable for  subtle patchy opacification. There are no pleural effusions.  A
+     few prominent precarinal lymph nodes are noted. The airways are patent through
+     the segmental levels bilaterally. There are air fluid levels in the
+     esophagus. There is limited visualization of the organs of the upper abdomen.
+     Superior- most liver, spleen and stomach are unremarkable. There are no
+     suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION: 1.  Consolidations at both lung bases consistent with
+     bibasilar pneumonia and less likely atelectasis involving both lower lobes
+     with sparing only of their more superior aspects. Subtle patchy
+     opacifications in the upper lobes and air-fluid levels in the esphagus suggest
+     gastroesphageal reflux and therefore aspriation must be considered a likely
+     etiology.
+     
+     2. No evidence of pulmonary embolism.
+     
+
+",,
+14291,4776,,,2833-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-12-17**] 4:38 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8256**]
+     Reason: look for pulmonary embolus                                  
+     Field of view: 33 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with hypoxia, recent surgery                                  
+     REASON FOR THIS EXAMINATION:
+      look for pulmonary embolus                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypoxia.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the lung bases through
+     the lung apices before and after the administration of IV contrast.
+     
+     IV CONTRAST: 100 cc of Optiray.  Optiray per CTA protocol.
+     
+     CHEST CT W/O&W IV CONTRAST (PULMONARY CTA): The heart and pericardium are
+     unremarkable.  The aorta is densely calcified.  The pulmonary arterial tree is
+     well opacified and there are no filling defects to suggest the presence of a
+     pulmonary embolism.  There are dense bibasilar consolidations effecting almost
+     the entirety of both lower lobes with air bronchograms.  The upper lobes are
+     notable for  subtle patchy opacification. There are no pleural effusions.  A
+     few prominent precarinal lymph nodes are noted. The airways are patent through
+     the segmental levels bilaterally. There are air fluid levels in the
+     esophagus. There is limited visualization of the organs of the upper abdomen.
+     Superior- most liver, spleen and stomach are unremarkable. There are no
+     suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION: 1.  Consolidations at both lung bases consistent with
+     bibasilar pneumonia and less likely atelectasis involving both lower lobes
+     with sparing only of their more superior aspects. Subtle patchy
+     opacifications in the upper lobes and air-fluid levels in the esphagus suggest
+     gastroesphageal reflux and therefore aspriation must be considered a likely
+     etiology.
+     
+     2. No evidence of pulmonary embolism.
+     
+
+",,
+14291,4776,17761,0,2833-12-17 06:47:00 EST,2833-12-17 06:59:00 EST,1545,"N",69,"Nursing/Other",,"
+
+Micu Nursing Admission Note: 
+
+Pt admitted via [**Hospital1 10**] ED after vna services found pt at home with^^SOB and diaphoretic. O2sat on 2L found to be 65%. Placed on 100% with improvement, but abg still slightly hypoxic. EKG showed st elevations. Started on heparin gtt, given asa per rectum, rec'd lopressor iv and 12.5 po. Also rec'd levoquin. BC's and urine sent. Echo done ef 50%
+Family talked with MD's. Pt dnr, dni as per pt wishes.
+
+Pmhx: hypothyroid, cad, htn, pud, dementia, esophageal motility d/o, several pna's.
+
+Neuro: alert, following commands. able to give details of transfer. 
+CV/Resp: hemodynamically stable. Heparin gtt started at 4am next PTT due at 10am. Rec'd and cont's on NRB 100%. with O2 sats 99%. LS with crackles upper left. Low grade temp. 
+GI/GU: NPO for now? abd soft, hypoactive BS. Jtube patent. Urine clear yellow, cx pending. 
+Social: no calls as of yet. pt wears glasses and said she brought them, but only belongings consisted of a housecoat. Pt slightly HOH.
+
+
+",,
+14291,4776,17761,0,2833-12-17 18:16:00 EST,2833-12-17 18:26:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+CV: Pt ruling in for a small MI per team, 3rd set of enzymes sent @ 18:00.  Heparin gtt titrated up to 700U/hr since [**42**]:00 (11:00 PTT = 46.8), repeat PTT drawn/sent @ 18:00 to assess adeq anti-coag times.  Pt has denied CP/palpitations all day.  HDSA.  16:00 PO Lopressor held 2nd SBP in low 100 range.  No peripheral edema evident.  Pt is currently net in by approx 900ml, NS infusion rate subsequently turned down from 75ml/hr to KVO.  
+
+ID: Pt c b/l PNA receiving IV Vanco, Flagyl and Ceftaz as ordered.  Pt remains afebrile.
+
+GI: Pt started on FS Ultracal TF @ 10ml/hr and titrated up to 30ml/hr c minimal residuals noted per PEJ.  Ultracal goal rate of 60ml/hr as advised by Nutrition consult.  Pt denies nausea and reports feeling hungry.  Pt passed a medium sized soft brown stool today.  
+
+RESP: Pt received on 100% NRB this AM.  FiO2 calibrated down to 60% venti-mask c sats in the mid 90's -- will cont to titrate down as tol (did not tol 50% c sats hovering just above 90%).  Pt has a weak and ineffective cough.  LS are clearing in upper lobes, diminished @ bases c fine crackles appreciated.  
+
+FAMILY: Dtr called this AM and son called this AM and visited this EVE.  All kept up-to-date c POC/pt status.  The son is the pts health care proxy.  The son indicated that he does not want his mom placed on a ventilator or to be resuscitated if she were to decompensate.  The pt declined a visit by an in-house Rabbi when offered.
+
+OTHER: Please see CareVue for additional pt care data/comments.  The pt is called out to the floor awaiting bed availability.   
+",,
+14291,4776,17761,,2833-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-12-18**] 10:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8257**]
+     Reason: ?new PNA, CHF changes?                                      
+     Admitting Diagnosis: HYPOXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with dyspnea, hypoxia                                        
+       
+     REASON FOR THIS EXAMINATION:
+      ?new PNA, CHF changes?                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  [**Age over 90 **] y/o woman with dyspnea and hypoxia, pneumonia or CHF. 
+     
+     PORTABLE AP CHEST:  Comparison is made to previous films from yesterday.
+     
+     There is slight increase in mild congestive heart failure with mild pleural
+     effusion. There is increase in bibasilar patchy opacities indicating
+     atelectasis.  The possibility of pneumonia cannot be excluded.
+     
+     The heart is normal in size. Again noted is made of tortuosity of the thoracic
+     aorta with extensive calcification.  Again note is made of healed fracture in
+     the right distal clavicle.
+     
+     IMPRESSION:   Essentially worsened mild CHF with bilateral small pleural
+     effusions. Increased bibasilar opacities, atelectasis versus pneumonia.
+
+",,
+14291,4776,17761,0,2833-12-18 06:06:00 EST,2833-12-18 06:18:00 EST,2765,"N",69,"Nursing/Other","PMICU Nursing Progress Note 7p-7a","
+PMICU Nursing Progress Note 7p-7a
+Events
+
+ No events o/n, pt slept comfortably for most of night.  Heparin gtt dc'd @ 0100 by HO, it was decided that pt is ruling out for an MI. Remains called out, awaiting bed on flr. Please refer to transfer note 
+
+Review of Systems
+
+Neuro- Alert and oriented x2, cooperative w/ care. Denies pn. MAE, weak.
+CV- Hemodynamically stable o/n.  HR 80's, NSR, No ectopy. Recieved lopressor dose. SBP 120's. please refer to carvue for am labs.
+Resp- Cont on cool mist face mask, 70%. Pt does remove mask occasionally and desat to the 80's as a result.  LS coarse. Productive cough.
+GI- Abd soft, +SB, no BM. Tolerated advancement of TF to 40 cc/hr.
+GU- Adequated hourly u/o, clr yellow.
+Skin- Intact
+Plan- Cont supportive care, send pt to flr when bed b/c available.
+ 
+",,
+14291,4776,17761,0,2833-12-18 14:28:00 EST,2833-12-18 14:37:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+CV: HDSA.  NSR c occ PVC's.  Pt denies CP/palpitations.  EKG performed @ BS, results provided to HO -- NSR.  Pt c positive troponin [**Last Name (LF) **], [**First Name3 (LF) **] or may not represent a small AMI.  Pt +1.4 liter input since admit this AM, pt receives daily dose 40mg Lasix prior to admit which was re-instituted.  Pt c good UO responce to IV Lasix c approx 900ml UO since this med was admin.  Pt remains net in 1.3 liters since admit @ this time.  Two PIV's remain patent in UE's.  [**Male First Name (un) **] stocking applied to LE's.  Will check Vanco trough prior to [**12-19**] AM dose per pharm.  Team considering whether to change IV Vanco dosing from Q12 to Q24 hr dosing. 
+
+MS: AAO times one, follows commands, pleasant/cooperative.  Pt reports feeling warm and comfortable wishing to stay in bed to rest.  
+
+GI: Pt now receiving FS Ultracal TF @ goal of 60ml/hr via PEJ c minimal residuals noted.  Sm loose light brown stool output this AM.  Abd is soft, hypoactive BS appreciated.  Pt will need a speech and swallow eval prior to discharge from [**Hospital1 10**].
+
+RESP: Pt weaned onto 4LNCO2 c sats in the high 90's.  LS remains slightly coarse in upper lobes, diminished @ bases.  Weak cough, pt able to expectorate clear sec on her own.  RR in the teen/low 20 range.  
+
+FAMILY: Dtr called this AM and son visited @ BS c the pts grand-dtr.  All kept up-to-date c POC/pt status.  The pt is a DNR/DNI.
+
+OTHER: Please see CareVue for additional pt care data/comments.  Univ isolation proc in place.  
+",,
+14291,4776,,,2833-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-12-21**] 10:53 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 8258**]
+     Reason: [**Age over 90 **] yo woman with history esophageal dysmotility and s/p rece
+     Admitting Diagnosis: HYPOXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] yo woman with J-tube, esophageal dysmotility                                 
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] yo woman with history esophageal dysmotility and s/p recent gastrectomy for 
+      perforated peptic ulcer just transfered from [**Hospital Unit Name 1245**] after admission for bibasilar 
+      pneumonia.  Please eval for aspiration
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Bilateral lower lobe pneumonia with history of esophageal
+     dysmotility. Assess for aspiration.
+     
+     FINDINGS: The patient was fed a variety of liquids and solids labeled with
+     barium. No aspiration or penetration was identified. There was, however,
+     pooling of secretions within the piriform sinuses, valleculae, and in the
+     region of the upper esophageal sphincter, which is slow to open. The esophagus
+     appears generally dilated. Reflux was appreciated during the study. Solids in
+     particular were difficult for the patient to clear, requiring thin liquid to
+     wash the solids down.
+     
+     IMPRESSION: No aspiration identified. Dilated esophagus with delayed upper
+     esophageal sphincter opening. Reflux.
+
+",,
+14291,4776,,,2833-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-12-21**] 10:54 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8259**]
+     Reason: [**Age over 90 **] yr old woman s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1245**] stay for bibasilar pneumonia.  Plea
+     Admitting Diagnosis: HYPOXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] yr old woman s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1245**] stay for bibasilar pneumonia.  Please assess 
+      infiltrate since last study
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A [**Age over 90 **]-year-old woman status post bibasilar pneumonia.
+     
+     COMMENTS:  PA and lateral radiographs of the chest are reviewed and compared
+     to the previous study of [**2833-12-18**].
+     
+     The previously identified consolidation in both lower lobes have been markedly
+     improving.  There is contrast seen within the distal esophagus.  The pleura is
+     identified, pulmonary edema has been also improving.  The heart is normal in
+     size.  Again, note is made of previous fracture in the right distal clavicle.
+     
+
+",,

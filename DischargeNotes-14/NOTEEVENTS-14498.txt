@@ -1,0 +1,495 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14498,17084,,,2682-01-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2682-1-4**]       Discharge Date:  [**2655-3-5**]
+
+Date of Birth:   [**2586-12-19**]       Sex:  M
+
+Service:
+
+ADDENDUM:  The patient was seen by PT, found to be stable,
+independent, at baseline strength.  The patient was
+discharged to home.
+
+FOLLOW-UP:  Same.
+
+
+                   DR [**First Name8 (NamePattern2) 421**] [**Last Name (NamePattern1) **] 14.118
+
+
+
+Dictated By:[**Last Name (NamePattern1) 805**]
+MEDQUIST36
+
+D:  [**2681-1-6**]  12:51
+T:  [**2682-1-6**]  13:13
+JOB#:  [**Job Number 10750**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 421**] [**Last Name (NamePattern1) **]
+ on: [**First Name8 (NamePattern2) 1125**] [**2682-1-24**] 10:01 AM
+(End of Report)
+
+
+",,
+14498,17084,,,2682-01-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-4**] 6:01 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 9947**]
+     Reason: S/P FALL R/O FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man s/p fall with SAH, need to clear neck of fx, dislocation
+     REASON FOR THIS EXAMINATION:
+      r/o fx, dislocation
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MHSd WED [**2682-1-4**] 7:28 PM
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+      CT OF THE CERVICAL SPINE [**2682-1-4**].
+     
+     TECHNIQUE:  Multiple axial images of the cervical spine were obtained without
+     intravenous contrast.  Sagittal and coronal reformatted images were created
+     from source data.
+     
+     FINDINGS:  No acute fracture is identified.  There is normal alignment of the
+     vertebral bodies.  Loss of disc height at C5-6 and C6-7 is accompanied by
+     adjacent mild end plate sclerosis as well as vacuum phenomenon.  The findings
+     are consistent with chronic degenerative changes.  Small calcific densities at
+     the superior margin of the atlantodens articulation are also likely
+     degenerative.  The pre- and paravertebral soft tissue is normal.  There is
+     diffuse calcification of the carotid bifurcations bilaterally.  The visualized
+     lung apices demonstrate adjacent pleural thickening bilaterally.
+     
+     IMPRESSION:  No evidence of acute cervical spine fracture or dislocation.
+     Biapical pleural scarring and vascular calcifications as described above.
+     
+
+",,
+14498,17084,,,2682-01-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-4**] 6:01 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 9947**]
+     Reason: S/P FALL R/O FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man s/p fall with SAH, need to clear neck of fx, dislocation
+     REASON FOR THIS EXAMINATION:
+      r/o fx, dislocation
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MHSd WED [**2682-1-4**] 7:28 PM
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+      CT OF THE CERVICAL SPINE [**2682-1-4**].
+     
+     TECHNIQUE:  Multiple axial images of the cervical spine were obtained without
+     intravenous contrast.  Sagittal and coronal reformatted images were created
+     from source data.
+     
+     FINDINGS:  No acute fracture is identified.  There is normal alignment of the
+     vertebral bodies.  Loss of disc height at C5-6 and C6-7 is accompanied by
+     adjacent mild end plate sclerosis as well as vacuum phenomenon.  The findings
+     are consistent with chronic degenerative changes.  Small calcific densities at
+     the superior margin of the atlantodens articulation are also likely
+     degenerative.  The pre- and paravertebral soft tissue is normal.  There is
+     diffuse calcification of the carotid bifurcations bilaterally.  The visualized
+     lung apices demonstrate adjacent pleural thickening bilaterally.
+     
+     IMPRESSION:  No evidence of acute cervical spine fracture or dislocation.
+     Biapical pleural scarring and vascular calcifications as described above.
+     
+
+",,
+14498,17084,,,2682-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-5**] 8:25 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9948**]
+     Reason: please assess SDH                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with Lt fronto-parietal SDH s/p fall                            
+     REASON FOR THIS EXAMINATION:
+      please assess SDH                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old male with a left frontoparietal subdural hematoma.
+     Please assess for progression.
+     
+     TECHNIQUE:  Non-contrast CT exam of the head.
+     
+     COMPARISONS:  None
+     
+     HEAD CT WITHOUT IV CONTRAST:  There is a small area of high attenuation extra-
+     axial fluid within the left temporoparietal region with associated indentation
+     of the brain parenchyma and effacement of the adjacent sulci, representing a
+     subdural hematoma. There is a very mild rightward shift of the mid-line
+     structures. Also noted is increased density in the region of the torcula,
+     along the falx and tentorium, likely representing extension of the above
+     described extra- axial hemorrhage. No additional intra or extra- axial
+     hemorrhages are identified. There is no evidence of major/minor vascular
+     territorial infarcts. The visualized soft tissues, osseous structures and
+     paranasal sinuses are unremarkable.  There is mild opacification of the
+     posterior left mastoid air cells.
+     
+     IMPRESSION:  Small left-sided subdural hematoma of the temporoparietal region,
+     as described above.
+     
+
+",,
+14498,12314,,,2682-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-22**] 8:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9950**]
+     Reason: ETT placemet, Pulmonary status                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with L SDH, s/p drainage in OR - Episode of Hypotension in OR, 
+      Ro MI, Pt currently intubated
+     REASON FOR THIS EXAMINATION:
+      ETT placemet, Pulmonary status                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left subdural hematoma S/P drainage in O.R..  Hypotension.  ET tube
+     placement.
+     
+     SUPINE PORTABLE CHEST, ONE VIEW:  No comparisons are available.  There is an
+     ET tube 6.2 cm above the carina.  There is a dual lead pacer with lead tips in
+     the region of the RA and RV.  The heart is mildly enlarged.  Allowing for
+     supine technique, there is no overt CHF.  There are no pleural effusions or
+     focal areas of consolidation.
+
+",,
+14498,12314,,,2682-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-22**] 3:09 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9949**]
+     Reason: S/P FALL, EVALUATE SDH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with Lt fronto-parietal SDH s/p fall                           
+     REASON FOR THIS EXAMINATION:
+      eval L SAH, stat
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MHSd [**First Name8 (NamePattern2) **] [**2682-1-22**] 3:44 PM
+      12mm shift; massive L SDH; incipient herniation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: Fall and subdural hemorrhage. Marked shift of normally midline
+     structures to the right. The left lateral ventricle is obliterated by mass
+     effect from a large left subdural hemorrhage. At the level of the thalami,
+     there is a 12-mm shift of normally midline structures. High-attenuation fluid
+     lies over the left cerebral convexity, along the tentorium, and in the left
+     middle cranial fossa. There is a rounded focus of high attenuation within the
+     left temporal lobe, with surrounding low attenuation suggesting edema. Small
+     amount of high attenuation material lies within the sulci of the left cerebral
+     convexity. The sulci of this convexity are narrowed. The suprasellar and
+     ambient cisterns are obliterated.
+     
+     No fractures are identified on bone windows.
+     
+     IMPRESSION: Large left subdural hemorrhage with some subarachnoid component,
+     with 12-mm shift of normally midline structures to the right. There is
+     significant mass effect on the adjacent structures and loss of basal cisterns
+     suggesting uncal herniation. Subfalcine herniation is also noted.
+
+",,
+14498,12314,18020,,2682-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-23**] 4:52 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9951**]
+     Reason: evaluate SDH s/p crani                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with Lt fronto-parietal SDH s/p fall                           
+     REASON FOR THIS EXAMINATION:
+      evaluate SDH s/p crani                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TECHNIQUE:  Routine non-contrast head CT.
+     
+     COMPARISON:  [**2682-1-22**]
+     
+     FINDINGS:  The patient is S/P left frontal craniotomy.  There is a small
+     amount of pneumocephalus, related to post-operative change.  The degree of
+     subdural hemorrhage is significantly decreased in the interval.  The
+     subarachnoid component also is significantly decreased.  There remains a focus
+     of increased attenuation in the left temporal lobe with surrounding low
+     attenuation, consistent with edema.  The extent of mass effect and shift of
+     normally mid-line structures to the right has decreased.  The [**Doctor Last Name 63**] white
+     matter differentiation is preserved.  The visualized paranasal sinuses are
+     unremarkable.  The craniotomy defect is visualized.
+     
+     IMPRESSION:  Significant improvement in the appearance of the left subdural
+     hematoma.  The subarachnoid component is also significantly improved.  There
+     remains residual high attenuation in the left temporal lobe with some
+     surrounding edema.  Post-operative changes are identified on the left.
+
+",,
+14498,12314,18020,0,2682-01-23 06:51:00 EST,2682-01-23 07:05:00 EST,3399,"N",54,"Nursing/Other","focus: s/p evacuation of SDH","
+focus: s/p evacuation of SDH
+data: received from or, intubated, unarousable.  vss, on nipride drip to maintain sbp < 140. pt slowly awoke, now follows commands, mae, perl. nods appropriately. sub dural drain in place, to gravity at shoulder level, no drainage.  ph 7.28-7.29.  blood glucose elevated to high 300's, covered with sliding scale reg insulin.  changed to insulin drip, started at 4 u/hr. pt received 1 u pc, with lasix 10 mg iv x 1 before and after the blood. u/o improved.  bloody urine.  foley irrigated, no clots noted. family in to see pt, who seemed to recognize them.  
+plan: head ct this am. monitor bs q 1 hr, regulate insulin drip accordingly.  monitor ph, abg's as ordered.  ? wean to extubate once ph returns to within normal limits. monitor neuro signs closely. titrate nipride to maintain sbp < 140.
+",,
+14498,12314,18020,0,2682-01-23 07:44:00 EST,2682-01-23 07:45:00 EST,3399,"N",54,"Nursing/Other","focus: skin condition","
+focus: skin condition
+data: both of pt's arms are bruised red-purple.  there are many and varied sizes over both forearms. 
+",,
+14498,12314,18020,0,2682-01-23 13:44:00 EST,2682-01-23 14:12:00 EST,-1,"N",54,"Nursing/Other",,"
+
+N.P.N 0700-1500;
+
+NEURO; OPENS EYES TO VOICE MAE TO COMMAND HELD UP TWO FINGERS. FOR  INCREASING AGITATED PICKING AT LINES HIGH HR AND RR OPTED TO PLACE PATIENT ON PROPOFOL LOW DOSE 10 MCGS/KG/MIN UNTIL AFTER CT SCAN IS DONE.PPPPEEERLA 4-5MM IRREGULAR SLUGGISH REACTION.
+
+RESP; VENT CHANGES MADE , CURRENTLY WEANED FFROM AC TO PRES SUPPORT .ON 40% FIO2 15PS/ 7.5PEEP WITH ABG PENDING.SUCTIONED FOR MOD AMOUNTS OF THICK YELLOW SECRETIONS.RR 12-16 TV.560-770.SATS 98-100%.ABG'S
+",,
+14498,12314,18020,0,2682-01-23 14:26:00 EST,2682-01-23 14:47:00 EST,-1,"N",54,"Nursing/Other",,"
+
+npn continued
+.
+CVS; T MAX 99.4, NSR WITH V PACING 110-77, NO ECTOPY NOTED. BP MAINTAINED LESS THAN 140 WITH NIPRIDE  TO 1.5 MCGS /KG/MIN. REQUIRED LESS WHEN ON PROPOFOL.
+
+GU; U/O 30-40 MLS, PALE YELLOW URINE WITH HEAVY SEDIMENT IN TUBE CONTINUES TO BLEED AROUND FOLEY. URINE SENT FOR U/A AND ELECTROLYTES.
+
+GI; VOMITING THIS AM DARK BLOOD NGT INSERTED DRAINED @100 MLS WITH LOTS OF AIR.GUIAC POS PH 5, BELLY SOFT DISTENDED DENIES PAIN  POS BOWEL SOUNDS.
+
+ENDO REMAINS ON INSULIN DRIP BS 127 ON 5 UNITS  WEANED TO 3 UNITS PER HR BS 110
+
+HEAD INCISION  DSD INTACT DRAINING MIN  BLOOD DRAINAGE VIA SUBDURAL DRAIN AT SHOULDER LEVEL. SKIN HAS MULTIPLE ECCHYMOTIC AREAS ON  BOTH ARMS ,
+
+ACCESS; THREE PERIPH TWO ON RT AND ONE ON LT ARM WNL NO SIGNS OF INFILTRATION. MAY NEED CENTRAL LINE.
+
+SOC.; DAUGHTER [**Name (NI) **] SPOKEN TO BY DR [**Last Name (STitle) 142**],BY PHONE. [**Doctor First Name 1268**] INTO VISIT AND UPDATED BY NEURO.
+
+PLAN TO WEAN PROPOFOL, WEAN TO EXTUBATE AFTER CT SCAN.
+
+
+ADDENDUM TO ABOVE NOTE PROPOFOL OFF AT NEURO'S REQUEST.PT AGAIN RESPONDED TO COMMANDS ABLE TO MOVE ALL 4 LIMBS AND HOLD UP 2 FINGERS ON BOTH HANDS
+",,
+14498,12314,18020,,2682-01-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-24**] 8:45 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9952**]
+     Reason: POOR MENTAL STATUS S/P CRANIOTOMY                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with Lt fronto-parietal SDH s/p fall                          
+       
+     REASON FOR THIS EXAMINATION:
+      POOR MENTAL STATUS S/P CRANIOTOMY                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Comparison is made to the previous CT scan of [**2682-1-23**].
+     
+     Axial noncontrast CT scans of the brain were obtained.
+     
+     There has been evacuation of a left subdural hematoma.  A subdural drain is in
+     place.  There is no change in appearance of the left hemispheric extra-axial
+     space since the previous study.  There is no reaccumulation of blood.  There
+     continues to be mild mass effect on the left cerebrum and flattening of the
+     ventricle with mild shift of midline to the right.  The basal cisternal spaces
+     are well visualized.  There is also a left temporal lobe parenchymal
+     hemorrhage with associated edema that is stable in appearance.
+     
+     IMPRESSION:  Stable appearance of the brain following left subdural
+     evacuation.
+
+",,
+14498,12314,18020,,2682-01-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-24**] 6:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9953**]
+     Reason: Please eval for CCHF                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with L SDH, s/p drainage in OR - Episode of Hypotension in OR. 
+       Now with HTN, hypoxia.  Please eval for CHF
+     REASON FOR THIS EXAMINATION:
+      Please eval for CCHF                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left subdural hemorrhage, post-drainage.  Hypoxic.  Evaluate for
+     congestive failure.
+     
+     COMPARISON:  [**2682-1-22**].
+     
+     FINDINGS:  The left-sided pacemaker device is again noted with leads probably
+     in the right atrium and right ventricle.  NG tube tip is in the stomach.  ET
+     tube has been removed in the interval.  The exam is limited by patient motion.
+      The cardiac and mediastinal contours appear unchanged.  There is pulmonary
+     vascular indistinctness suggesting worsening congestive failure.  No pleural
+     effusion or pneumothorax.  There is increased retrocardiac density.  Compared
+     to the previous exam, increased opacity at the right base may represent a
+     developing infiltrate. Soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:  Mild CHF with increased bibasilar opacities.
+
+",,
+14498,12314,18020,0,2682-01-24 07:38:00 EST,2682-01-24 07:49:00 EST,-1,"N",54,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+PT EXTUBATED EARLY LAST NIGHT AND TOLERATING 40% FACE SHIELD WELL. 02 SATS >95% AND LUNGS COURSE. NT SUCTIONED 2X FOR THICK, YELLOW SECRETIONS. CPT DONE THROUGHOUT THE NIGHT. NIPRIDE GTT TITRATED THROUGHOUT THE NIGHT, HIGHEST DOSE GIVEN WAS 3.5MCG/KG/MIN. CURRENTLY AT 1MCG/KG/MIN. NSR ON MONITOR WITH NO ECTOPY NOTED. PT AWAKE AND ALERT DURING THE NIGHT. ABLE TO MAE AND FOLLOW COMMANDS. SPEECH GARBLED BUT ABLE TO UNDERSTAND SOME WORDS. SUBDURAL DRAIN DID NOT DRAIN DURING NIGHT AND FLUSHED IN AM BY [**First Name8 (NamePattern2) **] [**Doctor Last Name 1172**],PA. PA NOTIFIED EARLIER IN SHIFT FOR INCREASED DRAINAGE FROM DRAIN SITE AND ABSENCE OF DRAINAGE. NO NEW ORDERS GIVEN AND SITUATION CONTINUED TO BE MONITORED. PT ALSO FOUND TO BE LESS RESPONSIVE AND WOULD ONLY AROUSE TO PAIN AT 0600 THIS AM. BS 40 AND 1 AMP D50 GIVEN. BS 30MIN AFTER WAS 155. GTT OFF. NEURO TEAM MADE AWARE DURING ROUNDS AND CT SCAN SCHEDULED FOR TODAY. PT REMAINS RESTRAINED DUE TO CONTINOUSLY TRYING TO PULL AT TUBES AND CONFUSION TO PLACE. FAMILY IN TO SEE PT LAST NIGHT. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6172**] RN
+",,
+14498,12314,18020,,2682-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-25**] 8:02 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9954**]
+     Reason: Please place PICC                                           
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with SDH, poor IV access.  IV team unable to place bedside.  
+      Please place PICC line.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Subdural hematoma, infection, poor IV access.
+     
+     RADIOLOGISTS:  Drs.[**Last Name (STitle) 4074**], and [**First Name8 (NamePattern2) 2270**] [**Doctor Last Name 250**].  Dr. [**Last Name (STitle) 250**] was present
+     and supervising during the entire procedure.
+     
+     PROCEDURE:  The left arm was prepped and draped in the usual sterile fashion.
+     A 0.018 glidewire was advanced through an existing iv line in the left
+     cephalic vein. An introducer sheath was placed.  2 cc of 1% Lidocaine were
+     used for local anesthesia.  Using fluoroscopic guidance, the tip of the
+     glidewire was advanced to the superior vena cava, and the line was trimmed to
+     53 cm.  The catheter was advanced over the wire to the superior vena cava.
+     The sheath was removed.  The catheter was flushed.  A Statlock was placed.
+     Post-procedure chest x-ray confirmed the position in the superior vena cava. A
+     sterile dressing was placed over the line.  The catheter was heplocked.
+     
+     IMPRESSION:  Satisfactory placement of a double lumen, 53 cm total length, 5
+     French, PICC placed via the left cephalic vein with the tip in the superior
+     vena cava, ready for use.
+     
+     
+
+",,
+14498,12314,18020,,2682-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-25**] 8:02 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9954**]
+     Reason: Please place PICC                                           
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with SDH, poor IV access.  IV team unable to place bedside.  
+      Please place PICC line.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Subdural hematoma, infection, poor IV access.
+     
+     RADIOLOGISTS:  Drs.[**Last Name (STitle) 4074**], and [**First Name8 (NamePattern2) 2270**] [**Doctor Last Name 250**].  Dr. [**Last Name (STitle) 250**] was present
+     and supervising during the entire procedure.
+     
+     PROCEDURE:  The left arm was prepped and draped in the usual sterile fashion.
+     A 0.018 glidewire was advanced through an existing iv line in the left
+     cephalic vein. An introducer sheath was placed.  2 cc of 1% Lidocaine were
+     used for local anesthesia.  Using fluoroscopic guidance, the tip of the
+     glidewire was advanced to the superior vena cava, and the line was trimmed to
+     53 cm.  The catheter was advanced over the wire to the superior vena cava.
+     The sheath was removed.  The catheter was flushed.  A Statlock was placed.
+     Post-procedure chest x-ray confirmed the position in the superior vena cava. A
+     sterile dressing was placed over the line.  The catheter was heplocked.
+     
+     IMPRESSION:  Satisfactory placement of a double lumen, 53 cm total length, 5
+     French, PICC placed via the left cephalic vein with the tip in the superior
+     vena cava, ready for use.
+     
+     
+
+",,
+14498,12314,18020,0,2682-01-25 02:42:00 EST,2682-01-25 02:49:00 EST,-1,"N",54,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+PT ALERT AND ABLE TO FOLLOW SIMPLE COMMANDS. MAE AND NO NEURO CHANGES NOTED. CONTINUES WITH GARBLED SPEECH. SD DRAIN OPEN AND DRAINING CANT AMTS BLOODY DRAINAGE. DSG TO HEAD OOZING LESS AND INTACT TO SITE. INSULIN GTT RE-STARTED AND INCREASED TO MAX OF 3UNITS/HR. CURRENTLY AT 2UNITS/HR WITH BS OF 143. WEANING OF NIPRIDE GTT AND SBP <160 THROUGOUT THE NIGHT. PT HAD PERIODS WHERE MONITOR WAS NOT READING SOME HEART BEATS AND HR APPEARED ON MONITOR TO BE IN THE 40'S. LEAD CHANGES MADE AND HR MORE ACCURATE. PT DIURESING WELL. >100CC/HR OF URINE FROM FOLEY. LUNGS CLEAR AND PT COUGHING. NO CONTACT WITH FAMILY DURING SHIFT.
+",,
+14498,12314,18020,0,2682-01-26 05:00:00 EST,2682-01-26 05:10:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Dozing intermittantly throughout noc. Arouses easily to voice. Oriented x1-2. Follows commands inconsistently. Speech remains garbled with occasion clear words. Staples to L scalp dry/intact. No drainage noted. Sutures to drain site dry/intact, without drainage.
+HR 30's to 80's, v paced. Periods of bradycardia to 30's sustained for 40-50 seconds with frequent PAC's and rare PVC's reported to Dr. [**Last Name (STitle) **]. ? pacer issue.  Will follow up with Pacemaker service today. SBP stable to 160's. Good peripheral pulses.
+LS clear bilat. O2 at 50% with NC 4L conts. Sats 96-99%.  Enc cough/deep breathe. CPT done with no sputum expectorated.
+Abd soft with +BS. NGT patent. TF increased to 20cc/h PNGT. Tol well, residuals <5cc's. No stool this shift.
+Foley patent, draining yellow urine with brown sediment. UOP >50cc/h.
+Plan: suggest consult by pacemaker service for persistent bradycardia. Transfer to floor when bed available.
+",,
+14498,12314,,,2682-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-28**] 10:15 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 9955**]
+     Reason: ASSESS NGT PLACEMENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with 
+     REASON FOR THIS EXAMINATION:
+      ASSESS NGT PLACEMENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Single AP portable view of the abdomen. No previous abdomen films on PACS
+     record for comparison. Film obtained [**2682-1-28**] at 1109.
+     
+     HISTORY: Not available because computers are off line.
+     
+     The pubic symphysis and extreme lateral portion of the abdomen are not
+     included. There is artifact due to overlying material. There is also blurring
+     due to motion artifact. Allowing for this, the bowel gas pattern is
+     nonspecific. No dilated loops of bowel to suggest obstruction. No free air
+     detected, though assessment for a subtle finding would be quite limited.
+     Degenerative changes and probable osteopenia of the spine.
+     
+     IMPRESSION: Limited study, without obvious obstruction. Nonspecific bowel gas
+     pattern.
+
+",,
+14498,12314,,,2682-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2682-1-30**] 9:28 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 9956**]
+     Reason: [**Age over 90 **] yr old male s/p drainage of subdural hematoma with [**Last Name (un) 9957**]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] yr old male s/p drainage of subdural hematoma with dysarthria please assess 
+      swallow
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dysphagia.
+     
+     VIDEO SWALLOW:  A video swallow study was performed in conjunction with speech
+     therapist.  Different consistencies of barium were given to the patient
+     orally.  There is normal bolus formation.  Anterior to posterior tongue
+     movement was moderate today to severely reduced.  After the swallow, a mild
+     residual is noted in the oral cavity.  There is normal epiglottic deflection.
+     Laryngeal elevation is mildly reduced. After the swallow, a moderate amount of
+     residual remains in the pharynx.  Aspiration of trace amount of thin liquid is
+     noted after the swallow.  Penetration occurred during most liquid swallows.
+     
+     IMPRESSION:  Trace aspiration was noted with thin liquid.  Discussed with the
+     speech therapist.
+
+",,

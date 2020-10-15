@@ -1,0 +1,94 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14537,5035,,,2563-04-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2563-4-28**]       Discharge Date:  [**2563-5-3**]
+
+Date of Birth:   [**2477-4-20**]       Sex:  M
+
+Service:  C-MED
+
+ADDENDUM:  The patient is an 86-year-old gentleman with
+gastric lymphoma sent here for cardiac cath from an outside
+hospital.  The results of the cardiac catheterization showed
+that in a right dominant system, the left main had some
+luminal irregularities.  The LAD artery had mild diffuse in a
+proximal vessel.  There was discrete 95% stenosis involving
+the bifurcation of the mid-LAD and a large diagonal branch.
+The left circumflex artery had discrete 80% stenosis in the
+proximal vessel.  The right coronary artery was not
+selectively engaged, as diagnostic catheterization the day
+prior had shown it to have occlusive diffuse disease
+proximally.  The stenosis at the bifurcation of the twin LAD
+system was successfully treated by angioplasty and stenting
+using a 3x13 mm drug-eluting Cypher stent positioned in the
+large diagonal branch.  Final angiography revealed no
+residual stenosis in the diagonal stent, occlusion of the
+jailed LAD septal branch, and no angiographic evidence of
+dissection.  The proximal left circumflex stenosis was
+successfully treated by stenting.  The patient tolerated the
+procedure well.
+
+During the rest of the hospital course, the patient had no
+episodes of chest pain or shortness of breath. The patient's
+vitals were stable.  The patient's most recent hematocrit was
+34, calculated status post transfusion of 1 unit of blood.
+He had a crit of 28.7; therefore, he was transfused 1 unit.
+His potassium was a little low at 3.4 and he was given 40 PO
+potassium.  The patient's platelets were stable in the
+mid-80s.
+
+DISCHARGE MEDICATIONS:  1) metoprolol 37.5 mg po tid, 2)
+zolpidem 2.5 mg po q hs, 3) allopurinol 100 mg po qd, 4)
+Atorvastatin 20 mg po qd, 5) captopril 12.5 mg po tid, 6)
+lasix 40 mg po bid, 7) Plavix 75 mg po qd, 8) aspirin 325 mg
+po qd.
+
+DISCHARGE CONDITION:  Good.
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], MD  [**MD Number 950**]
+
+Dictated By:[**MD Number 10816**]
+MEDQUIST36
+
+D:  [**2563-5-3**]  11:53
+T:  [**2563-5-3**]  11:17
+JOB#:  [**Job Number 10817**]
+Signed electronically by: DR. [**First Name (STitle) **] DOW
+ on: TUE [**2563-8-2**] 1:04 PM
+(End of Report)
+
+
+",,
+14537,5035,,,2563-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2563-4-28**] 9:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10341**]
+     Reason: eval CHF                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with CHF, s/p MI                                                
+     REASON FOR THIS EXAMINATION:
+      eval CHF                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post MI, question failure.
+     
+     TECHNIQUE: Single portable AP view of the chest without comparison.
+     
+     FINDINGS: The cardiac silhouette is at the upper limits of normal.  The
+     mediastinum is unremarkable.  There are bilateral moderate pleural effusions.
+     There is perihilar haziness and mild pulmonary vascular redistribution, with
+     several [**Last Name (un) **]-B lines.  There is a right-sided IJ catheter, terminating in
+     the mid-SVC.  No pneumothorax.  There is retrocardiac opacity.  There is a
+     mild dextroscoliosis of the upper lumbar spine.  The osseous structures are
+     unremarkable.
+     
+     IMPRESSION: CHF, as evidenced by perihilar haziness, pleural effusion, and
+     interstitial thickening.  Retrocardiac opacity may represent collapse or
+     consolidation.
+
+",,

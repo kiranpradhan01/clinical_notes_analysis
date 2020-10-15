@@ -1,0 +1,803 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14802,18901,,,2587-07-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2587-7-1**]              Discharge Date:   [**2587-7-12**]
+ 
+Date of Birth:  [**2505-12-20**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Penicillins / Aspirin
+ 
+Attending:[**First Name3 (LF) 11236**] 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+CT-guided biopsy. 
+Thoracentesis. 
+Induced sputum. 
+CXR. 
+Abdominal/Pelvic CT. 
+EKG. 
+Central venous access placed (now d/c'd). 
+Received 4 units FFP. 
+ 
+History of Present Illness:
+This is an 81 year old man with PMH significant for CHF, COPD, 
+Type II DM, atrial fibrillation, and multiple recent admissions 
+for recurrent right upper lobe pneumonia who presents with 
+several days of increasing SOB, cough productive of clear 
+sputum, and fever.
+ 
+Past Medical History:
+PMH  
+1. COPD
+2. CHF  
+3. DM2  
+4. Asthma  
+5. Afib  
+6. 3+ TR on echo  
+7. Prostate Ca on horomone therapy
+8. Bilateral Hernia Repair
+
+ 
+Social History:
+Pt lives at home with wife and son. Has 2 other children and was 
+formerly employed as a manager at [**First Name4 (NamePattern1) 616**] [**Last Name (NamePattern1) **]. No EtOH, Tobacco 
+1 ppd entire life, stopped 5 years ago
+ 
+Family History:
+non contributory
+ 
+Physical Exam:
+On admission:
+VS: BP 101/50  HR 82  RR 30  O2sat 100% NRB
+GEN: elderly, thin man; tachypneic
+HEENT: dry MM; no cervical LAD
+CV: irregularly irregular; no m/r/g; no JVD
+Pulm: rhoncherous breath sounds diffusely; decreased breath 
+sounds at bases
+ABD: +BS; s/nt/?mild distention; no HSM
+EXT: 2+ pitting LE edema bilat
+ 
+Brief Hospital Course:
+In the emergency department on [**2587-7-1**], the patient was found to 
+be hypotensive with BP 87/59 with an elevated lactate.  He met 
+criteria for sepsis and was given levofed and admitted to the 
+ICU.  By problem, his course was as follows:
+
+Hypotension: Hypotensive 80s/50s on admission.  BP improved to 
+100/50 with IVF, levofed, and Solumedrol.  He remained in the 
+ICU, hemodynamically stable, until [**2587-7-4**].  At that point, he 
+was transfered to the medical floor.  There, he remained 
+hemodynamically stable without need for pressure support.  
+Central access was d/c'd on [**2587-7-7**].
+
+Afib: His chronic atrial fibrillation continued with rate 
+controlled by diltiazem.  
+
+CHF: He required diuresis for SOB on an almost daily basis.  
+
+SOB:  The patient initially required supplementary O2 via 
+non-rebreather mask to maintain O2 saturation in the low 90%'s.  
+Mr. [**Known patient lastname **] was persistently tachypniec in the ICU and on the floor, 
+and uncomfortably short of breath with movement.  On the floor, 
+he maintained O2 saturation 90-94% on 4L O2 via nasal cannula, 
+however.  He underwent therapeutic tap of his right pleural 
+effusions on [**2587-7-6**] and of his left pleural effusion on 
+[**2587-7-9**].  On [**2587-7-10**], the patient became increasingly short of 
+breath.  No pneumothorax was present on CXR and PE was 
+suspected.  The patient was started on argatroban and transfered 
+to the MICU.
+
+Pulm mass: Patient was afebrile with WBC 5.8 on admission.  His 
+WBC count rose rapidly despite antibiotic therapy (initially 
+ceftriaxone/azithromycin/vancomycin, then 
+ceftriaxone/azithromycin, then levofloxacin). The infectious 
+disease service was consulted.  On admission, the patient was 
+found to have a RUL lesion on CXR and chest CT suspicious for 
+TB.  The patient has a history of positive PPD test.  The 
+patient underwent bronchoscopy on [**2587-7-3**] that visualized a 
+lesion in the right main bronchus.  The lesion was not biopsied 
+due to the patient's high INR.  
+   Culture data:
+       Induced sputum stains were negative x3 for acid-fast 
+bacteria. 
+       Gram stain showed only respiratory tract flora and yeast. 
+ 
+       Sputum cultures
+       Urine cultures
+       Perinephric mass fluid cultures
+
+Abdominal mass: An infiltrated perinephric mass, retroperiotneal 
+lymphadenopathy, and multiple hepatic lesions were initially 
+identified on chest CT.  Their presence was confirmed on 
+abdominal/pelvic CT.  On [**2587-7-6**], the patient underwent 
+CT-guided biopsy of the perinephric mass.  Lymph node FNA and 
+pleural fluid cytology demonstrated a high grade B cell 
+lymphoma.
+
+Coagulation: The patient is on coumadin at home for afib.  On 
+admission, his INR was 3.7.  INR rose with administration of 
+antibiotics and peaked at 4.9 on [**7-2**].  The patient was reversed 
+with vitamin K and 4 units of FFP.  On the floor, he was 
+anticoagulated with a heparin drip, stopped for procedures.  His 
+platelet count fell from 200 on admission. Heparin was stopped 
+on [**2587-7-9**].  Argatroban was started for suspected PE on [**2587-7-10**].
+
+Renal:  The patient's creatinine rose from 0.7 on admission.  
+Close attention was paid to fluid status.  The patient had 
+hematuria on UA on [**2587-7-4**].  Foley catheter was d/c'd on 
+[**2587-7-6**].
+
+Urologic: The patient was discovered to have a paraphimosis on 
+[**2587-7-9**].  This was manually reduced by the urology service on 
+that day.  On [**2587-7-9**], the paraphimosis recurred, was again 
+reduced by urology, and a Foley catheter was inserted.
+
+Nutrition:  The nutrition service was asked to evaluate the 
+patient.  The patient received a low-salt, diabetic diet with 
+Glycerna supplementation.
+
+Disposition: The patient and his family decided to persue 
+comfort measures only as his prognosis with chemotherapy was 
+very poor and he had multiple comorbidities. The patient died 
+[**2587-7-12**] at 1:47 am.
+ 
+Medications on Admission:
+terazosin 5mg po qhs
+zafirlukast 20mg po bid
+Combivent IH
+Flovent IH
+metformin 500mg po qd
+glyburide 10mg po bid
+diltiazem XR 360mg po qd
+warfarin 1mg po qd
+Lasix 20mg po qd
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Pneumonia
+
+ 
+Discharge Condition:
+Died [**2587-7-12**].
+ 
+                             [**Name6 (MD) 7317**] [**Last Name (NamePattern4) 3045**] MD [**MD Number 11237**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3155**] MD [**MD Number 3156**] [**2587-9-2**] @ 1350
+Signed electronically by: DR. [**First Name8 (NamePattern2) 7317**] [**Name (STitle) **]
+ on: MON [**2587-9-10**] 1:35 PM
+(End of Report)
+
+
+",,
+14802,18901,,,2587-07-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2587-7-1**] 4:55 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 12647**]
+     Reason: pe, pneumonia                                               
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with sob, hypoxia, ?pneumonia                                   
+     REASON FOR THIS EXAMINATION:
+      pe, pneumonia                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 81 year old male with shortness of breath and hypoxia.
+     
+     Comparison is made to the previous examination of [**2587-5-18**].
+     
+     TECHNIQUE: Low dose noncontrast images of the chest were performed. Next,
+     contrast enhanced images of the chest following rapid bolus administration of
+     150 cc of IV contrast were also performed. Images were reconstructed in the
+     sagittal and coronal planes. In addition, images through the upper abdomen
+     were performed.
+     
+     IV CONTRAST: Nonionic IV Optiray contrast was used for rapid bolus
+     administration.
+     
+     CT OF THE CHEST WITH CONTRAST: No pulmonary embolism is identified from the
+     main pulmonary arterial trunk to the subsegmental pulmonary arterial vessels
+     bilaterally. As was previously identified, there is consolidation within the
+     posterior aspect of the right upper lobe. However, compared to previous exam
+     the degree of dense consolidation has increased and there is more relative
+     volume loss. Underlying emphysema is again noted. Compared to the previous
+     exam, the right pleural effusion has increased in size, now moderate in size.
+     In addition, there is a new left sided pleural effusion, moderate in size, and
+     there is associated compressive atelectasis of the left lower lobe. The heart,
+     pericardium, and great vessels are stable in appearance. Coronary artery
+     calcifications are noted. The major airways and segmental bronchi are patent.
+     
+     CT OF THE UPPER ABDOMEN WITH CONTRAST: There is a new posteriorly based
+     hypodense renal mass (relative to normal enhancing renal parenchyma) enlarging
+     the left kidney which is in smooth continuity with the anterior renal borders.
+     In addition, within and anterior to the renal hilum as well as superior to the
+     left kidney, there is a large amount of ill- defined mildly enhancing soft
+     tissue. There is notable soft tissue infiltration of the mesenteric fat in the
+     left upper abdomen, as well as multiple new enlarged retroperitoneal lymph
+     nodes in periaortic and aortocaval location. These multiple lymph nodes are
+     contiguous with one another in a conglomerated fashion.
+     
+     The imaged portions of the liver and right kidney are unremarkable. The imaged
+     portion of the stomach and bowel loops are unremarkable. The gallbladder is
+     normal. Atherosclerotic disease of the imaged portion of the abdominal aorta
+     and its major bifurcation is noted. There is no free fluid or focal fluid
+     collections.
+     
+                                                                 (Over)
+
+     DATE: [**2587-7-1**] 4:55 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 12647**]
+     Reason: pe, pneumonia                                               
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Bone windows demonstrate no suspicious lytic or blastic lesions.
+     
+     CORONAL AND SAGITTAL RECONS of the chest: Images reconstructed in the sagittal
+     and coronal planes show no pulmonary embolism.
+     
+     IMPRESSION:
+     1. No pulmonary embolism identified.
+     2. Persistent right upper lobe consolidation. The degree of consolidation has
+     increased, and there is greater volume loss compared to previous exam. Without
+     improvement to antibiotic therapy, this may be related to #5 below. Also, the
+     possibility of underlying brnchoalveolar carcinoma should be considered.
+     3. Interval increase in right effusion, now moderate in size.
+     4. Newly appreciated left pleural effusion with associated compressive
+     atelectasis,  also moderate in size.
+     5. Soft tissue mass enlarging the posterior aspect of the left kidney, and
+     soft tissue infiltrative masses involving the left renal hilum and adjacent
+     left kidney. Along with soft tissue infiltration of the mesentery and multiple
+     new enlarged retroperitoneal lymph nodes, the findings are most consistent
+     with lymphoma.
+     
+
+",,
+14802,18901,18393,0,2587-07-01 18:30:00 EST,2587-07-01 18:48:00 EST,956,"N",69,"Nursing/Other",,"
+
+NURSING NOTE 11AM-7PM Adm to MICU from ED with MUST protocol initiated.  Patient arrrived with SvO2 >70's.  Levophed infusing on arrival at .089mcg/kg/min. SVO2 decreased to 58 Dobutamine started at 3mcg/kg/min to maintain SVO2 >70. K repleted with 40meqKCL, Calcium ggluconate to be repleted along with Mag sulfaate.  NEURO: Awake alert and oriented speaking with daughter.  Patient is Cantonese speaking only family member interpret for patient.  PERLLA and Moves all extremities well.  RESP: arrived on 100%NRB with Sat 100%, O2 weaned to 6L NC with Sat > 92%.  Lung sound diminshed bibasilar clear upper airways, productive cough expectorating thick yellow secretions.  GI: Abd distended positive bowel sounds, last stool yesterday none today. Taking PO fluids with meds, difficultly swallowing KCL. ABD CT ordered but not yet done. GU: Foley patent draining small amount 18-30cc/hr pink urine, Foley cath flushed with good clear return. HEME: On arrival to unit patient had one unit PRBC infusing.  Repeat Hct =31.7. ENDO: FS > 200 insulin drip started at 3 units titrated down to 1 unit/hr with FS=98.  SOCIAL: Daughter and son into visit most of day updated on patients condition.
+",,
+14802,18901,18393,,2587-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2587-7-2**] 12:21 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12648**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate L renal mass and retroperitoneal lymphadenopathy   
+     Admitting Diagnosis: PNEUMONIA-COPD
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with h/o COPD, pos PPD p/w recurrent RUL PNA found to have L 
+      perinephric mass on chest CT.
+     REASON FOR THIS EXAMINATION:
+      evaluate L renal mass and retroperitoneal lymphadenopathy                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS WITH CONTRAST.
+     
+     INDICATION:  81 year old man with history of COPD, positive PPD, presents with
+     recurrent right upper lobe pneumonia, found to have left perinephric mass on
+     chest CT, please evaluate left renal mass and retroperitoneal lymphadenopathy.
+     
+     COMPARISON:  CTA of the chest [**2587-7-1**], renal ultrasound [**2587-7-1**], and MR of
+     the abdomen without and with contrast [**2584-4-4**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis in the delayed arterial phase.
+     
+     CONTRAST:  Oral contrast and intravenous non-ionic contrast were administered
+     due to patient debility.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  At the lung bases, there are
+     bilateral pleural effusions, right greater than left.  There is consolidation
+     vs. compressive atelectasis present at the left lung base.  Within the liver
+     are seen multiple small hypodense lesions of different sizes.  The main
+     differential diagnosis for these lesions is abscesses vs. metastatic disease.
+     There is no intra- or extrahepatic ductal dilatation.  A small degree of
+     perihepatic ascites is seen.  The gallbladder, pancreas, spleen, adrenal
+     glands are unremarkable.  The right kidney is unremarkable.  From the left
+     kidney, there is a large soft-tissue mass extending from the posterior edge.
+     The gross measurements of this mass are 52 mm x 32 mm x 70 mm.  Adjacent to
+     this mass is extensive retroperitoneal lymphadenopathy.  There is no
+     associated hydronephrosis and the ureters are unremarkable.  The large and
+     small bowel are within normal limits.  There is no free air seen.  There is no
+     mesenteric lymphadenopathy present.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The rectum, sigmoid colon and
+     prostate are unremarkable.  Within the bladder is a Foley catheter.  There is
+     no free fluid within the pelvis and no pelvic lymphadenopathy.
+     
+     Osseous structures show degenerative joint disease in the spine, but no
+     suspicious osteolytic or blastic lesions.
+     
+     There is extensive calcification seen within the aorta and its branches.
+                                                                 (Over)
+
+     DATE: [**2587-7-2**] 12:21 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12648**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate L renal mass and retroperitoneal lymphadenopathy   
+     Admitting Diagnosis: PNEUMONIA-COPD
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1) Large soft-tissue mass arising from the posterior aspect of the left kidney
+     without evidence for hydronephrosis or obstruction.  There is extensive
+     adjacent retroperitoneal lymphadenopathy.  If biopsy is clinically indicated,
+     either the mass or the retroperitoneal lymph nodes could be biopsied.
+     
+     2) Multiple low-attenuation lesions throughout the liver, suspicious for
+     metastatic disease or an infectious process causing multiple liver abscesses,
+     such as tuberculosis.
+     
+     3) Left greater than right pleural effusions with associated left-sided
+     consolidation within the lungs.  Given these findings, there is concern for a
+     systemic process, either infectious such as TB, or neoplastic, such as
+     lymphoma, given the many sites involved and the extensive lymphadenopathy.
+     Less likely would be a primary lung or renal tumor.
+     
+     4) Degenerative joint disease in the spine.
+     
+     5) Extensive aortic calcifications.  These findings were communicated to the
+     Medical Team on [**2587-7-2**] at 5:00PM, specifically, Dr. [**First Name8 (NamePattern2) 11123**] [**Last Name (NamePattern1) 10531**] and [**Doctor First Name 12649**]
+     Blages.
+
+",,
+14802,18901,18393,,2587-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2587-7-2**] 12:21 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12648**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate L renal mass and retroperitoneal lymphadenopathy   
+     Admitting Diagnosis: PNEUMONIA-COPD
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with h/o COPD, pos PPD p/w recurrent RUL PNA found to have L 
+      perinephric mass on chest CT.
+     REASON FOR THIS EXAMINATION:
+      evaluate L renal mass and retroperitoneal lymphadenopathy                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS WITH CONTRAST.
+     
+     INDICATION:  81 year old man with history of COPD, positive PPD, presents with
+     recurrent right upper lobe pneumonia, found to have left perinephric mass on
+     chest CT, please evaluate left renal mass and retroperitoneal lymphadenopathy.
+     
+     COMPARISON:  CTA of the chest [**2587-7-1**], renal ultrasound [**2587-7-1**], and MR of
+     the abdomen without and with contrast [**2584-4-4**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis in the delayed arterial phase.
+     
+     CONTRAST:  Oral contrast and intravenous non-ionic contrast were administered
+     due to patient debility.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  At the lung bases, there are
+     bilateral pleural effusions, right greater than left.  There is consolidation
+     vs. compressive atelectasis present at the left lung base.  Within the liver
+     are seen multiple small hypodense lesions of different sizes.  The main
+     differential diagnosis for these lesions is abscesses vs. metastatic disease.
+     There is no intra- or extrahepatic ductal dilatation.  A small degree of
+     perihepatic ascites is seen.  The gallbladder, pancreas, spleen, adrenal
+     glands are unremarkable.  The right kidney is unremarkable.  From the left
+     kidney, there is a large soft-tissue mass extending from the posterior edge.
+     The gross measurements of this mass are 52 mm x 32 mm x 70 mm.  Adjacent to
+     this mass is extensive retroperitoneal lymphadenopathy.  There is no
+     associated hydronephrosis and the ureters are unremarkable.  The large and
+     small bowel are within normal limits.  There is no free air seen.  There is no
+     mesenteric lymphadenopathy present.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The rectum, sigmoid colon and
+     prostate are unremarkable.  Within the bladder is a Foley catheter.  There is
+     no free fluid within the pelvis and no pelvic lymphadenopathy.
+     
+     Osseous structures show degenerative joint disease in the spine, but no
+     suspicious osteolytic or blastic lesions.
+     
+     There is extensive calcification seen within the aorta and its branches.
+                                                                 (Over)
+
+     DATE: [**2587-7-2**] 12:21 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12648**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate L renal mass and retroperitoneal lymphadenopathy   
+     Admitting Diagnosis: PNEUMONIA-COPD
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1) Large soft-tissue mass arising from the posterior aspect of the left kidney
+     without evidence for hydronephrosis or obstruction.  There is extensive
+     adjacent retroperitoneal lymphadenopathy.  If biopsy is clinically indicated,
+     either the mass or the retroperitoneal lymph nodes could be biopsied.
+     
+     2) Multiple low-attenuation lesions throughout the liver, suspicious for
+     metastatic disease or an infectious process causing multiple liver abscesses,
+     such as tuberculosis.
+     
+     3) Left greater than right pleural effusions with associated left-sided
+     consolidation within the lungs.  Given these findings, there is concern for a
+     systemic process, either infectious such as TB, or neoplastic, such as
+     lymphoma, given the many sites involved and the extensive lymphadenopathy.
+     Less likely would be a primary lung or renal tumor.
+     
+     4) Degenerative joint disease in the spine.
+     
+     5) Extensive aortic calcifications.  These findings were communicated to the
+     Medical Team on [**2587-7-2**] at 5:00PM, specifically, Dr. [**First Name8 (NamePattern2) 11123**] [**Last Name (NamePattern1) 10531**] and [**Doctor First Name 12649**]
+     Blages.
+
+",,
+14802,18901,18393,1,2587-07-02 05:42:00 EST,2587-07-02 06:03:00 EST,723,"Y",69,"Nursing/Other","npn","
+npn
+add: resp pt on tb precautions, 
+endo: pt cont on insulin gtt at 1u/hr bs under 120. reasssess need for gtt.
+",,
+14802,18901,18393,0,2587-07-02 05:42:00 EST,2587-07-02 05:58:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+neuro: pt aox3 per son, although pt is supposedly cantonese speaking only he speaks english enough to make his needs known, very pleasant man.
+
+cad hr 60 -90's afib no ectopy noted, b/p 125 to 104/40-50's maps 71 to 88, cvp 9 to 10, svo2 72 to 79, levo and dobutamine off.
+
+resp: decreasing sats with [**Doctor Last Name 8**] to high 80's( pt is mouth breather),currently on 6liters. ls difficult to assess because pt cont making vocal gruntle sound with breathing . ls clear to exp wheeze. recevied alb tx prn by rt, pt at times sob esp after coughing episodes, coughing up whiteish clear secretions, sputum sent for afb smear. sats mid 90's
+
+gi: bs + no bm this shift. 
+
+gu: pt almost 4 liters + for los, currently on ns at 100cc/hr x 2 liters still on liter 1. received K+ 40 meq and ca+ 3gms in am for repletion of 2am lytes, received mag and ca+ on eves.  lactate 2.0 , hct 31.1
+
+id: low temp 95.5, recevied antb,  afb smear sent.
+
+plan: cont to monitor lyes and hct, replete as necessary, cont to monitor cvp, svo2 and vs, ? discontinuing sepsis protocol.
+
+",,
+14802,18901,18393,0,2587-07-02 13:27:00 EST,2587-07-02 13:43:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S IMPROVED. SOUNDS CLEAR. NEBS X1. O2 SATS 96-93%. C&R THIN WHITE TO THICK YELLOW. SENT FOR AFB. . 
+GI: ABD CT SCAN DONE. FLUID SEEN. BM X1. GUAIAC +. ABD SLIGHTLY DISTENDED. PT. HAS DIFFICULTY WITH SWALLOWING PILLS. NEEDS TO HAVE A PUDDING ETC. 
+
+CV: AFTER BM, PT.'S HR UP TO 140'S WITH STRAINING. GIVEN DILT. 5MG IVP AT 14PM WITH SLOW DECREASE INTO 90'S. MAY NEED TO REPEAT LATER. NO C/O CHEST PAIN WITH RAPID RATE. 
+RENAL: URINE PINK AND SLIGHTLY CLOUDY. ADEQUATE U/O'S. IVF'S AT 100CC/.HR. ON HIS 2ND LITER. CHECK WITH HO LATER RE: IVF'S.  
+NEURO: ALERT AND ORIENTATED. HIS ENGLISH IS ADEQUATE.
+ID: AFEBRILE. CONT. ON ANTIBIOTICS. NEEDS SPUTUM FOR CYTOLOGY AND CX. 
+ENDOC: OFF INSULIN GTT. GIVEN 2U REG SC FOR BS OF 157 AT 14PM. 
+SKIN INTEGRITY; PT. HAS A MILD RASH ON CHEST AND ABD. THIS ISN'T NEW.
+SOCIAL: SON INTO VISIT.  
+",,
+14802,18901,18393,0,2587-07-02 20:24:00 EST,2587-07-02 20:44:00 EST,348,"N",69,"Nursing/Other","3-11 pm npn","
+[**1-25**] pm npn
+RESP:  pt remains on 6 l n/p,   50%face tent added,  O2 sats 97%,  rr~22-28   able to obtain a sputum sample for AFB, culture, gram stain, and fungal culture.    need additional sputum sample for cytology.   pt to have bronch in am.   NPO after midnight.   receiving albuterol neb q 4-6 hrs prn, and Combivent q4-6 hrs. 
+pt on TB precautions. 
+
+CV/FLUIDS:  HR 130's Afib,   total of 15 mg IV bolus of Diltiazem given, pt started on Diltiazem gtt @ 5 mg/hr,  increased to 10 mg/hr, then 15 mg/hr.  HR 100-110 afib,  occ pvc.   CVP~7  pt received 1 liter bolus,  CVP~10   currently IVF 1/2 NS @ 100 cc/hr.    UO 30 cc/hr    pt +3 liters.    INR~4.8  pt received Vit K 10 mg sc x 1.    
+
+GU/GI:  foley draining blood tinged urine 30 cc/hr,    pt npo,  belly distended, soft, +bowel sounds.   on Famotidine.   
+
+NEURO:  pt A+Ox3, moving all extremities.  cooperative
+
+ID:  afebrile,  WBC 9.0  pt remains on Azithromycin, Ceftriazone
+
+ENDO:  FS @ 6 PM 163 ~Pt received 2 u regular insulin sc. 
+
+A:  pneumonia, mass on kidney, nodules on liver
+
+P:  pt to have bronch in am,   kidney bx in a few days.  cont. nebs, antibx, Diltiazem gtt, IVF   follow CVP. uo 
+",,
+14802,18901,18393,0,2587-07-03 04:24:00 EST,2587-07-03 04:31:00 EST,303,"N",69,"Nursing/Other",,"
+
+[**2587-7-3**] ""B"" Nsg Progress Note:
+
+CVS:  Afebrile. HR=73-88 Afib on IV Diltiazem drip at 15mg/hr. IV 1/2 NS at 100cc/h. SBP=98-114. CVP=[**7-28**]. Skin warm and dry. Pulses intact.
+
+Resp:  Lot of exp wheezes noted, better after neb treatments. Sats=95-98% . Weaned O2 to 3L nc +40% OFM. Cough noted but mostly non-productive.  To be bronched today for AFB and Cytology spec.
+
+Neuro:  A&Ox3, Pt speaks and understands english very well. No deficits noted.
+
+GI:  +BS, NPO.
+
+GU:  u/o=30cc/h average.
+
+Skin: fine rash, no change.
+
+Plan:  Broncho today. Biopsy kidney mass later in week.
+",,
+14802,18901,18393,0,2587-07-03 15:50:00 EST,2587-07-03 16:05:00 EST,1437,"N",69,"Nursing/Other",,"
+
+Resp Care
+
+
+Pt receiving alb/atr which are tolerated well.  Bs with upper lobe rhonchi and the bases are diminished with occasional scattered wheezes.  Bronch performed today for a rul bal. Tolerated well without incident
+",,
+14802,18901,18393,0,2587-07-03 16:49:00 EST,2587-07-03 16:57:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #3","
+MICU/SICU NPN HD #3
+Events: Bedside bronchoscopy performed today, spec sent for AFB, cultures and cytology. Diltiazem gtt d/c'd.
+
+S/O:
+
+Neuro: pt is A&Ox3 per interpreteur, MAEW, lethargic, denies pain
+
+Resp: LS are coarse, weak productive cough, SpO2 97-97% on 2-3L NP and 40% cool neb
+
+CV: HR 81-100 AF without notable ectopy, CVP 6-13, BP 101-125/79-61, please see flowsheet for data
+
+GI/GU: abd is soft, NT/ND, BS are present, NPO today for bronch, Foley patent for small amts cloudy amber urine
+
+Lines: right IJ TLCL, #20 angio left FA
+
+ID: afebrile, continues on azithromycin, respiratory precautions until Tb ruled out
+
+A:
+
+altered breathing r/t acute inflammatory process
+risk for injury, trauma r/t generalized weakness
+highrisk for infection r/t invasive line, indwelling catheter
+
+P:
+
+contniue to monitor hemodynamic/respiratory status, continue abx as ordered and follow micro data, continue resp precautions, ADAT, activity progression, consider transfering pt to medical bed when available
+",,
+14802,18901,,,2587-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2587-7-6**] 10:01 AM
+     CT LIMITED [**11-17**] SCANS; CT RENAL BX W/RADIOLOGIST                 Clip # [**Clip Number (Radiology) 12650**]
+     CT GUIDED NEEDLE PLACTMENT; CT FINE NEEDLE ASP
+     -51 MULTI-PROCEDURE SAME DAY
+     Reason: please biopsy perinephric mass  ? lymphoma  ? TB            
+     Admitting Diagnosis: PNEUMONIA-COPD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with hx PPD+, with RUL pna who presents with perinephric mass, 
+      retroperitoneal nodes and liver lesions.  Please biopsy perinephric mass
+     REASON FOR THIS EXAMINATION:
+      please biopsy perinephric mass  ? lymphoma  ? TB                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Retroperitoneal mass biopsy.
+     
+     TECHNIQUE: CT scan of the abdomen was obtained without oral or intravenous
+     contrast in the left anterior oblique position using 7-mm collimation.
+     
+     After the risks and benefits of the procedure were explained to the patient
+     via a Cantonese translator, written informed consent was obtained.
+     
+     CT ABDOMEN WITHOUT CONTRAST: Lung bases once again demonstrate large bilateral
+     pleural effusions, as well as bibasilar atelectasis.
+     
+     The mass within the left posterior pararenal space is once again noted, with
+     adenopathy in a para-aortic region. The left kidney is displaced anteriorly by
+     the mass effect. The known liver lesions are not well demonstrated due to lack
+     of intravenous contrast. Degenerative changes are seen within the spine.
+     
+     CT-GUIDED NEEDLE LOCALIZATION: Using local anesthesia and sterile technique,
+     the site for skin entry was marked.
+     
+     CT-GUIDED NEEDLE INSERTION: Using CT fluorscopy, a 17-gauge coaxial needle was
+     inserted into the left posterior pararenal space at the site of the mass.
+     Three 20-gauge fine needle aspirate samples were obtained, and two 18-gauge
+     core biopsies were obtained.
+     
+     The samples were submitted to Cytology, who deemed the samples appropriate.
+     Samples were also sent for TB and routine bacterial cultures.
+     
+     The patient tolerated the procedure well, and no immediate complications were
+     encountered.
+     
+     IMPRESSION: Uneventful biopsy of left posterior pararenal space mass.
+     
+
+",,
+14802,18901,,,2587-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2587-7-6**] 10:01 AM
+     CT LIMITED [**11-17**] SCANS; CT RENAL BX W/RADIOLOGIST                 Clip # [**Clip Number (Radiology) 12650**]
+     CT GUIDED NEEDLE PLACTMENT; CT FINE NEEDLE ASP
+     -51 MULTI-PROCEDURE SAME DAY
+     Reason: please biopsy perinephric mass  ? lymphoma  ? TB            
+     Admitting Diagnosis: PNEUMONIA-COPD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with hx PPD+, with RUL pna who presents with perinephric mass, 
+      retroperitoneal nodes and liver lesions.  Please biopsy perinephric mass
+     REASON FOR THIS EXAMINATION:
+      please biopsy perinephric mass  ? lymphoma  ? TB                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Retroperitoneal mass biopsy.
+     
+     TECHNIQUE: CT scan of the abdomen was obtained without oral or intravenous
+     contrast in the left anterior oblique position using 7-mm collimation.
+     
+     After the risks and benefits of the procedure were explained to the patient
+     via a Cantonese translator, written informed consent was obtained.
+     
+     CT ABDOMEN WITHOUT CONTRAST: Lung bases once again demonstrate large bilateral
+     pleural effusions, as well as bibasilar atelectasis.
+     
+     The mass within the left posterior pararenal space is once again noted, with
+     adenopathy in a para-aortic region. The left kidney is displaced anteriorly by
+     the mass effect. The known liver lesions are not well demonstrated due to lack
+     of intravenous contrast. Degenerative changes are seen within the spine.
+     
+     CT-GUIDED NEEDLE LOCALIZATION: Using local anesthesia and sterile technique,
+     the site for skin entry was marked.
+     
+     CT-GUIDED NEEDLE INSERTION: Using CT fluorscopy, a 17-gauge coaxial needle was
+     inserted into the left posterior pararenal space at the site of the mass.
+     Three 20-gauge fine needle aspirate samples were obtained, and two 18-gauge
+     core biopsies were obtained.
+     
+     The samples were submitted to Cytology, who deemed the samples appropriate.
+     Samples were also sent for TB and routine bacterial cultures.
+     
+     The patient tolerated the procedure well, and no immediate complications were
+     encountered.
+     
+     IMPRESSION: Uneventful biopsy of left posterior pararenal space mass.
+     
+
+",,
+14802,18901,,,2587-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2587-7-6**] 10:01 AM
+     CT LIMITED [**11-17**] SCANS; CT RENAL BX W/RADIOLOGIST                 Clip # [**Clip Number (Radiology) 12650**]
+     CT GUIDED NEEDLE PLACTMENT; CT FINE NEEDLE ASP
+     -51 MULTI-PROCEDURE SAME DAY
+     Reason: please biopsy perinephric mass  ? lymphoma  ? TB            
+     Admitting Diagnosis: PNEUMONIA-COPD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with hx PPD+, with RUL pna who presents with perinephric mass, 
+      retroperitoneal nodes and liver lesions.  Please biopsy perinephric mass
+     REASON FOR THIS EXAMINATION:
+      please biopsy perinephric mass  ? lymphoma  ? TB                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Retroperitoneal mass biopsy.
+     
+     TECHNIQUE: CT scan of the abdomen was obtained without oral or intravenous
+     contrast in the left anterior oblique position using 7-mm collimation.
+     
+     After the risks and benefits of the procedure were explained to the patient
+     via a Cantonese translator, written informed consent was obtained.
+     
+     CT ABDOMEN WITHOUT CONTRAST: Lung bases once again demonstrate large bilateral
+     pleural effusions, as well as bibasilar atelectasis.
+     
+     The mass within the left posterior pararenal space is once again noted, with
+     adenopathy in a para-aortic region. The left kidney is displaced anteriorly by
+     the mass effect. The known liver lesions are not well demonstrated due to lack
+     of intravenous contrast. Degenerative changes are seen within the spine.
+     
+     CT-GUIDED NEEDLE LOCALIZATION: Using local anesthesia and sterile technique,
+     the site for skin entry was marked.
+     
+     CT-GUIDED NEEDLE INSERTION: Using CT fluorscopy, a 17-gauge coaxial needle was
+     inserted into the left posterior pararenal space at the site of the mass.
+     Three 20-gauge fine needle aspirate samples were obtained, and two 18-gauge
+     core biopsies were obtained.
+     
+     The samples were submitted to Cytology, who deemed the samples appropriate.
+     Samples were also sent for TB and routine bacterial cultures.
+     
+     The patient tolerated the procedure well, and no immediate complications were
+     encountered.
+     
+     IMPRESSION: Uneventful biopsy of left posterior pararenal space mass.
+     
+
+",,
+14802,18901,,,2587-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2587-7-6**] 10:01 AM
+     CT LIMITED [**11-17**] SCANS; CT RENAL BX W/RADIOLOGIST                 Clip # [**Clip Number (Radiology) 12650**]
+     CT GUIDED NEEDLE PLACTMENT; CT FINE NEEDLE ASP
+     -51 MULTI-PROCEDURE SAME DAY
+     Reason: please biopsy perinephric mass  ? lymphoma  ? TB            
+     Admitting Diagnosis: PNEUMONIA-COPD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with hx PPD+, with RUL pna who presents with perinephric mass, 
+      retroperitoneal nodes and liver lesions.  Please biopsy perinephric mass
+     REASON FOR THIS EXAMINATION:
+      please biopsy perinephric mass  ? lymphoma  ? TB                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Retroperitoneal mass biopsy.
+     
+     TECHNIQUE: CT scan of the abdomen was obtained without oral or intravenous
+     contrast in the left anterior oblique position using 7-mm collimation.
+     
+     After the risks and benefits of the procedure were explained to the patient
+     via a Cantonese translator, written informed consent was obtained.
+     
+     CT ABDOMEN WITHOUT CONTRAST: Lung bases once again demonstrate large bilateral
+     pleural effusions, as well as bibasilar atelectasis.
+     
+     The mass within the left posterior pararenal space is once again noted, with
+     adenopathy in a para-aortic region. The left kidney is displaced anteriorly by
+     the mass effect. The known liver lesions are not well demonstrated due to lack
+     of intravenous contrast. Degenerative changes are seen within the spine.
+     
+     CT-GUIDED NEEDLE LOCALIZATION: Using local anesthesia and sterile technique,
+     the site for skin entry was marked.
+     
+     CT-GUIDED NEEDLE INSERTION: Using CT fluorscopy, a 17-gauge coaxial needle was
+     inserted into the left posterior pararenal space at the site of the mass.
+     Three 20-gauge fine needle aspirate samples were obtained, and two 18-gauge
+     core biopsies were obtained.
+     
+     The samples were submitted to Cytology, who deemed the samples appropriate.
+     Samples were also sent for TB and routine bacterial cultures.
+     
+     The patient tolerated the procedure well, and no immediate complications were
+     encountered.
+     
+     IMPRESSION: Uneventful biopsy of left posterior pararenal space mass.
+     
+
+",,
+14802,18901,18394,0,2587-07-10 17:34:00 EST,2587-07-10 18:07:00 EST,209,"N",69,"Nursing/Other","FIANARD 4 ICU NPN","
+FIANARD 4 ICU NPN
+  81 YO with HX COPD, pneumonia, new DX B large cell NHL transferred from 12R with SOB, increased O2 requirements PO2 66 on 4L NP. Had received lasix, nebs on floor with no improvement.
+ONC: New DX B-large cell NHL. Son informed today by onc DR. [**First Name (STitle) **] will speak with father about his wishes. If he decides to have Rx (chemo) it will most likely be started tomorrow due to the agggressive nature.
+RESP:  On 100% NRB. RR 20's. SOB at rest. Becomes dypsneaic with min activity. Does not desaturate with activity.BS with few fine crackles at bases. Unable to R/O TB due to poor sputum specs- remians on  resp precautions ?PE. Started on argatroban 
+HEME: PLts dropping to 69. Heparin d/c'd
+CV: SBP 90's. HR 90's AF. Off heparin. Lasix given at 1830 
+GU: Foley. UO ~30 cc hr.
+LENI's done to evalLE swelling
+GI: Holding off on PO at present due to SOB. ***FR 1500 cc QD once taking PO's. No stool
+NEURO: Cantonese speaking. Understands some English. Follows simple commands
+ID: Afeb.
+SOCIAL : Son & dtr in to visit.
+ACCESS: PIV #20 x2 
+
+",,
+14802,18901,18394,0,2587-07-11 03:55:00 EST,2587-07-11 04:26:00 EST,760,"N",69,"Nursing/Other","Smicu nsg progress note","
+Smicu nsg progress note
+Resp- Cont on 100%nr with sats 100%. Pt c/o difficulty breathing whenever he is awake (according to family pt has been this way for awhile) Sat's remain without change pt repeatedly denying pain will eventually fall back asleep. ? mso4 to help relieve sensation of sob. Pt cont on argatroban gtt at 1mg/kg/min for ?pe with positive HIT. Ptt 70-75.8 with no signs active bleeding.
+Cardiac- Bp stable with hr 80's-90's af on diltiazem 90mg q6hrs. Cont on bicarb gtt increased to 150/hr for lactic acidosis ? r/t lymphoma. Last lactic acid 9. Uo remains adequate. No further lasix given.
+Gi- Pt taking sm amts po's. Needs pills crushed. Abdomen soft no stool.
+Id- Hypothermic on meropenem for ?pneuomia.
+Code status/chemo tx- Pt's son talking extensively with resident [**First Name8 (NamePattern2) 5462**] [**Last Name (NamePattern1) 6528**] about previous discussion with oncology and what pt/family would want reguarding chemo with grim prognosis. Pt now dnr/dni and there cont to be and ongoing discussion about ? chemo.
+",,
+14802,18901,18394,0,2587-07-11 15:01:00 EST,2587-07-11 15:12:00 EST,107,"N",69,"Nursing/Other",,"
+
+d: neuro: cantonese speaking pt who c/o difficulty breathing and sob when awake. does appear more comfortable when asleep. pt medicated with mso2 2 mg ivp mso4 prn for sob with good effect. on 100% nrb with o2 sats> 98%. lungs essentially clear on auscultation. also on argatroban gtt at 1.012mcg/kg/min. cv: hr 70-80's without ectopy and sbp 102-138. abd soft and nontender and taking po meds crushed in applesauce.  no stool output today.  continue to receive d5w with 3 amps na hco3 at 150cc's/hr. uo via foley cath is marginal bun=55 and creat=.6. family mtg held this afternoon. pt verbalized to his son [**Name (NI) **] that he did not want chemo and wanted to be comfortable. after discussion with the family pt is now dnr/dni/cmo. r radial aline d/c'd. both argatroban and na hco3 gtts d/c'd. will start mso4 gtt whne available and titrate as needed to keep pt comfortable. pt remains on tb precautions and will be transfered to medical floor when 
+bed available.
+",,
+14802,,18394,0,2587-07-12 00:54:00 EST,2587-07-12 00:59:00 EST,5197,"N",69,"Nursing/Other",,"
+
+PT EXPIRED AT 0147. H/R SLOWED FROM 90 RANGE DOWN TO 0 WITHIN 5 MIN. NO RESP, NO B/P. SON, [**Doctor Last Name **] CALLED TO COME IN WHEN PT H/R 50-60, PT EXPIRED PRIOR TO END OF PHONE CALL. GRANDSON IN WITH PT AT TIME. GRANDSON INFORMED THAT PT HAD EXPIRED.
+",,

@@ -1,0 +1,1237 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14388,,,,3374-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-1-26**] 4:04 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8992**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: LEFT FLANK PAIN, BILAT UQ PAIN, CHEST/LIVER MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man HIV + with left flank pain, bilateral UQ pain, new mass on CXR  
+     REASON FOR THIS EXAMINATION:
+      evaluate chest mass, r/o kidney stone, liver mass                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg WED [**3374-1-26**] 10:31 AM
+      Extensive lymphadenopathy involving mediastinum, hila, abdomen and
+      retroperitoneum.  Massive soft tissue masses within the mediastinum, with
+      tracheal deviation and compression, although airways remain patent to the
+      subsegmental bronchi.  Pericardial effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  HIV position with left flank pain bilateral upper quadrant pain
+     and mass on chest x-ray.
+     
+     COMPARISONS:  None
+     
+     TECHNIQUE:  Contiguous helically acquired axial images were obtained through
+     the abdomen prior to and following the administration of 100 cc of intravenous
+     Optiray.  Post-contrast imaging was obtained from the lung apices to the pubic
+     symphysis.
+     
+     CONTRAST:  Oral and intravenous non-ionic contrast were administered due to
+     the rapid rate of bolus injection required for this examination.
+     
+     CT OF THE CHEST WITH INTRAVENOUS CONTRAST:  There is extensive mediastinal
+     lymphadenopathy, with multiple enlarged lymph nodes in anterior, middle, and
+     posterior mediastinum.  The largest conglomerate mass measures 11.8 x 8.7 cm.
+     A pretracheal node measures 4.3 x 2.6 cm.  A prevascular node measures 3.5 x
+     2.6 cm.  Innumerable additional anterior mediastinal, prevascular,
+     pretracheal, and subcarinal nodes are present.  There is evidence of
+     displacement and deformation of the trachea, however the airways remain patent
+     to the level of the subsegmental bronchi at the time of this examination.
+     There is no definite evidence of vascular compression.  A small pericardial
+     effusion is seen.  A small left hilar node measures 1.7 x 1.3 cm.  A pleural
+     based mass is present within the left hemithorax medially (series 3A, image
+     50) measuring 5.5 x 3.0 cm.  The lung fields appear unremarkable, without
+     evidence of intraparenchymal nodules or masses.  There are dependent changes
+     posteriorly and bilaterally.  There is no evidence of pathologic enlargement
+     of axillary nodes.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver,
+     gallbladder, spleen, and adrenal glands appear unremarkable.  Adjacent to the
+     tail of the pancreas and the splenic hilum is a soft tissue mass with ill-
+     defined borders measuring 7.4 x 6.2 cm.  There is no fat plane separating this
+     mass from the splenic hilum or the tail of the pancreas.  There are prominent
+                                                                 (Over)
+
+     DATE: [**3374-1-26**] 4:04 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8992**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: LEFT FLANK PAIN, BILAT UQ PAIN, CHEST/LIVER MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     calcifications of the splenic artery.  The splenic vein appears patent.  The
+     large and small bowel loops are normal in caliber and there is no abnormal
+     bowel wall thickening, allowing for poor contrast opacification of small
+     bowel.  The kidneys are atrophic bilaterally, with multiple calcifications and
+     cysts within the renal parenchyma.  The larger cyst on the left measures 1.5
+     cm in diameter.  The larger cyst on the right measures 9 mm in diameter. There
+     are prominent enlarged retroperitoneal lymph nodes, the largest of which
+     measures 1.6 x 1.8 cm (series 3B, image 96) in a para-aortic region. There is
+     no free fluid and no free air within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder, distal ureters,
+     prostate, and rectum appear unremarkable.  There is trace free fluid within
+     the pelvis.  There is no definite pathologic appearing pelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Within the L4 vertebral body, there is an area of bony
+     sclerosis surrounding a hypodensity adjacent to an intervertebral disk space.
+     There is no evidence of cortical destruction.  These findings most likely
+     represent degenerative change with sclerosis surrounding a Schmorl's node.
+     Additional low density lesions are seen within multiple vertebral bodies, also
+     adjacent to intervertebral disk spaces and consistent with degenerative
+     change.  No definite suspicious lytic or sclerotic bony lesions are
+     identified.
+     
+     IMPRESSION:  1)  Extensive lymphadenopathy within the mediastinum,
+     retroperitoneum, and splenic hilum is most consistent with lymphoma.
+     2)  Deformation and deviation of the trachea due to compression from
+     surrounding soft tissue masses, without airway obstruction at the time of this
+     examination.
+     3)  Small pericardial effusion.
+     4)  Atrophic kidneys bilaterally
+     5)  No evidence of bowel obstruction or perforation
+     6)  Probable degenerative changes within the thoracic and lumbo-sacral spines,
+     although attention to the L4 vertebral body is recommended on follow up.
+     
+     These results were discussed with clinical provider at the time of
+     interpretation.
+     
+     
+
+",,
+14388,,,,3374-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-1-26**] 4:04 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8992**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: LEFT FLANK PAIN, BILAT UQ PAIN, CHEST/LIVER MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man HIV + with left flank pain, bilateral UQ pain, new mass on CXR  
+     REASON FOR THIS EXAMINATION:
+      evaluate chest mass, r/o kidney stone, liver mass                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg WED [**3374-1-26**] 10:31 AM
+      Extensive lymphadenopathy involving mediastinum, hila, abdomen and
+      retroperitoneum.  Massive soft tissue masses within the mediastinum, with
+      tracheal deviation and compression, although airways remain patent to the
+      subsegmental bronchi.  Pericardial effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  HIV position with left flank pain bilateral upper quadrant pain
+     and mass on chest x-ray.
+     
+     COMPARISONS:  None
+     
+     TECHNIQUE:  Contiguous helically acquired axial images were obtained through
+     the abdomen prior to and following the administration of 100 cc of intravenous
+     Optiray.  Post-contrast imaging was obtained from the lung apices to the pubic
+     symphysis.
+     
+     CONTRAST:  Oral and intravenous non-ionic contrast were administered due to
+     the rapid rate of bolus injection required for this examination.
+     
+     CT OF THE CHEST WITH INTRAVENOUS CONTRAST:  There is extensive mediastinal
+     lymphadenopathy, with multiple enlarged lymph nodes in anterior, middle, and
+     posterior mediastinum.  The largest conglomerate mass measures 11.8 x 8.7 cm.
+     A pretracheal node measures 4.3 x 2.6 cm.  A prevascular node measures 3.5 x
+     2.6 cm.  Innumerable additional anterior mediastinal, prevascular,
+     pretracheal, and subcarinal nodes are present.  There is evidence of
+     displacement and deformation of the trachea, however the airways remain patent
+     to the level of the subsegmental bronchi at the time of this examination.
+     There is no definite evidence of vascular compression.  A small pericardial
+     effusion is seen.  A small left hilar node measures 1.7 x 1.3 cm.  A pleural
+     based mass is present within the left hemithorax medially (series 3A, image
+     50) measuring 5.5 x 3.0 cm.  The lung fields appear unremarkable, without
+     evidence of intraparenchymal nodules or masses.  There are dependent changes
+     posteriorly and bilaterally.  There is no evidence of pathologic enlargement
+     of axillary nodes.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver,
+     gallbladder, spleen, and adrenal glands appear unremarkable.  Adjacent to the
+     tail of the pancreas and the splenic hilum is a soft tissue mass with ill-
+     defined borders measuring 7.4 x 6.2 cm.  There is no fat plane separating this
+     mass from the splenic hilum or the tail of the pancreas.  There are prominent
+                                                                 (Over)
+
+     DATE: [**3374-1-26**] 4:04 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8992**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: LEFT FLANK PAIN, BILAT UQ PAIN, CHEST/LIVER MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     calcifications of the splenic artery.  The splenic vein appears patent.  The
+     large and small bowel loops are normal in caliber and there is no abnormal
+     bowel wall thickening, allowing for poor contrast opacification of small
+     bowel.  The kidneys are atrophic bilaterally, with multiple calcifications and
+     cysts within the renal parenchyma.  The larger cyst on the left measures 1.5
+     cm in diameter.  The larger cyst on the right measures 9 mm in diameter. There
+     are prominent enlarged retroperitoneal lymph nodes, the largest of which
+     measures 1.6 x 1.8 cm (series 3B, image 96) in a para-aortic region. There is
+     no free fluid and no free air within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder, distal ureters,
+     prostate, and rectum appear unremarkable.  There is trace free fluid within
+     the pelvis.  There is no definite pathologic appearing pelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Within the L4 vertebral body, there is an area of bony
+     sclerosis surrounding a hypodensity adjacent to an intervertebral disk space.
+     There is no evidence of cortical destruction.  These findings most likely
+     represent degenerative change with sclerosis surrounding a Schmorl's node.
+     Additional low density lesions are seen within multiple vertebral bodies, also
+     adjacent to intervertebral disk spaces and consistent with degenerative
+     change.  No definite suspicious lytic or sclerotic bony lesions are
+     identified.
+     
+     IMPRESSION:  1)  Extensive lymphadenopathy within the mediastinum,
+     retroperitoneum, and splenic hilum is most consistent with lymphoma.
+     2)  Deformation and deviation of the trachea due to compression from
+     surrounding soft tissue masses, without airway obstruction at the time of this
+     examination.
+     3)  Small pericardial effusion.
+     4)  Atrophic kidneys bilaterally
+     5)  No evidence of bowel obstruction or perforation
+     6)  Probable degenerative changes within the thoracic and lumbo-sacral spines,
+     although attention to the L4 vertebral body is recommended on follow up.
+     
+     These results were discussed with clinical provider at the time of
+     interpretation.
+     
+     
+
+",,
+14388,,,,3374-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-1-26**] 4:04 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8992**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: LEFT FLANK PAIN, BILAT UQ PAIN, CHEST/LIVER MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man HIV + with left flank pain, bilateral UQ pain, new mass on CXR  
+     REASON FOR THIS EXAMINATION:
+      evaluate chest mass, r/o kidney stone, liver mass                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg WED [**3374-1-26**] 10:31 AM
+      Extensive lymphadenopathy involving mediastinum, hila, abdomen and
+      retroperitoneum.  Massive soft tissue masses within the mediastinum, with
+      tracheal deviation and compression, although airways remain patent to the
+      subsegmental bronchi.  Pericardial effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  HIV position with left flank pain bilateral upper quadrant pain
+     and mass on chest x-ray.
+     
+     COMPARISONS:  None
+     
+     TECHNIQUE:  Contiguous helically acquired axial images were obtained through
+     the abdomen prior to and following the administration of 100 cc of intravenous
+     Optiray.  Post-contrast imaging was obtained from the lung apices to the pubic
+     symphysis.
+     
+     CONTRAST:  Oral and intravenous non-ionic contrast were administered due to
+     the rapid rate of bolus injection required for this examination.
+     
+     CT OF THE CHEST WITH INTRAVENOUS CONTRAST:  There is extensive mediastinal
+     lymphadenopathy, with multiple enlarged lymph nodes in anterior, middle, and
+     posterior mediastinum.  The largest conglomerate mass measures 11.8 x 8.7 cm.
+     A pretracheal node measures 4.3 x 2.6 cm.  A prevascular node measures 3.5 x
+     2.6 cm.  Innumerable additional anterior mediastinal, prevascular,
+     pretracheal, and subcarinal nodes are present.  There is evidence of
+     displacement and deformation of the trachea, however the airways remain patent
+     to the level of the subsegmental bronchi at the time of this examination.
+     There is no definite evidence of vascular compression.  A small pericardial
+     effusion is seen.  A small left hilar node measures 1.7 x 1.3 cm.  A pleural
+     based mass is present within the left hemithorax medially (series 3A, image
+     50) measuring 5.5 x 3.0 cm.  The lung fields appear unremarkable, without
+     evidence of intraparenchymal nodules or masses.  There are dependent changes
+     posteriorly and bilaterally.  There is no evidence of pathologic enlargement
+     of axillary nodes.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver,
+     gallbladder, spleen, and adrenal glands appear unremarkable.  Adjacent to the
+     tail of the pancreas and the splenic hilum is a soft tissue mass with ill-
+     defined borders measuring 7.4 x 6.2 cm.  There is no fat plane separating this
+     mass from the splenic hilum or the tail of the pancreas.  There are prominent
+                                                                 (Over)
+
+     DATE: [**3374-1-26**] 4:04 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8992**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: LEFT FLANK PAIN, BILAT UQ PAIN, CHEST/LIVER MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     calcifications of the splenic artery.  The splenic vein appears patent.  The
+     large and small bowel loops are normal in caliber and there is no abnormal
+     bowel wall thickening, allowing for poor contrast opacification of small
+     bowel.  The kidneys are atrophic bilaterally, with multiple calcifications and
+     cysts within the renal parenchyma.  The larger cyst on the left measures 1.5
+     cm in diameter.  The larger cyst on the right measures 9 mm in diameter. There
+     are prominent enlarged retroperitoneal lymph nodes, the largest of which
+     measures 1.6 x 1.8 cm (series 3B, image 96) in a para-aortic region. There is
+     no free fluid and no free air within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder, distal ureters,
+     prostate, and rectum appear unremarkable.  There is trace free fluid within
+     the pelvis.  There is no definite pathologic appearing pelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Within the L4 vertebral body, there is an area of bony
+     sclerosis surrounding a hypodensity adjacent to an intervertebral disk space.
+     There is no evidence of cortical destruction.  These findings most likely
+     represent degenerative change with sclerosis surrounding a Schmorl's node.
+     Additional low density lesions are seen within multiple vertebral bodies, also
+     adjacent to intervertebral disk spaces and consistent with degenerative
+     change.  No definite suspicious lytic or sclerotic bony lesions are
+     identified.
+     
+     IMPRESSION:  1)  Extensive lymphadenopathy within the mediastinum,
+     retroperitoneum, and splenic hilum is most consistent with lymphoma.
+     2)  Deformation and deviation of the trachea due to compression from
+     surrounding soft tissue masses, without airway obstruction at the time of this
+     examination.
+     3)  Small pericardial effusion.
+     4)  Atrophic kidneys bilaterally
+     5)  No evidence of bowel obstruction or perforation
+     6)  Probable degenerative changes within the thoracic and lumbo-sacral spines,
+     although attention to the L4 vertebral body is recommended on follow up.
+     
+     These results were discussed with clinical provider at the time of
+     interpretation.
+     
+     
+
+",,
+14388,,,,3374-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-1-26**] 4:04 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8992**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: LEFT FLANK PAIN, BILAT UQ PAIN, CHEST/LIVER MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man HIV + with left flank pain, bilateral UQ pain, new mass on CXR  
+     REASON FOR THIS EXAMINATION:
+      evaluate chest mass, r/o kidney stone, liver mass                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg WED [**3374-1-26**] 10:31 AM
+      Extensive lymphadenopathy involving mediastinum, hila, abdomen and
+      retroperitoneum.  Massive soft tissue masses within the mediastinum, with
+      tracheal deviation and compression, although airways remain patent to the
+      subsegmental bronchi.  Pericardial effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  HIV position with left flank pain bilateral upper quadrant pain
+     and mass on chest x-ray.
+     
+     COMPARISONS:  None
+     
+     TECHNIQUE:  Contiguous helically acquired axial images were obtained through
+     the abdomen prior to and following the administration of 100 cc of intravenous
+     Optiray.  Post-contrast imaging was obtained from the lung apices to the pubic
+     symphysis.
+     
+     CONTRAST:  Oral and intravenous non-ionic contrast were administered due to
+     the rapid rate of bolus injection required for this examination.
+     
+     CT OF THE CHEST WITH INTRAVENOUS CONTRAST:  There is extensive mediastinal
+     lymphadenopathy, with multiple enlarged lymph nodes in anterior, middle, and
+     posterior mediastinum.  The largest conglomerate mass measures 11.8 x 8.7 cm.
+     A pretracheal node measures 4.3 x 2.6 cm.  A prevascular node measures 3.5 x
+     2.6 cm.  Innumerable additional anterior mediastinal, prevascular,
+     pretracheal, and subcarinal nodes are present.  There is evidence of
+     displacement and deformation of the trachea, however the airways remain patent
+     to the level of the subsegmental bronchi at the time of this examination.
+     There is no definite evidence of vascular compression.  A small pericardial
+     effusion is seen.  A small left hilar node measures 1.7 x 1.3 cm.  A pleural
+     based mass is present within the left hemithorax medially (series 3A, image
+     50) measuring 5.5 x 3.0 cm.  The lung fields appear unremarkable, without
+     evidence of intraparenchymal nodules or masses.  There are dependent changes
+     posteriorly and bilaterally.  There is no evidence of pathologic enlargement
+     of axillary nodes.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver,
+     gallbladder, spleen, and adrenal glands appear unremarkable.  Adjacent to the
+     tail of the pancreas and the splenic hilum is a soft tissue mass with ill-
+     defined borders measuring 7.4 x 6.2 cm.  There is no fat plane separating this
+     mass from the splenic hilum or the tail of the pancreas.  There are prominent
+                                                                 (Over)
+
+     DATE: [**3374-1-26**] 4:04 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8992**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: LEFT FLANK PAIN, BILAT UQ PAIN, CHEST/LIVER MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     calcifications of the splenic artery.  The splenic vein appears patent.  The
+     large and small bowel loops are normal in caliber and there is no abnormal
+     bowel wall thickening, allowing for poor contrast opacification of small
+     bowel.  The kidneys are atrophic bilaterally, with multiple calcifications and
+     cysts within the renal parenchyma.  The larger cyst on the left measures 1.5
+     cm in diameter.  The larger cyst on the right measures 9 mm in diameter. There
+     are prominent enlarged retroperitoneal lymph nodes, the largest of which
+     measures 1.6 x 1.8 cm (series 3B, image 96) in a para-aortic region. There is
+     no free fluid and no free air within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder, distal ureters,
+     prostate, and rectum appear unremarkable.  There is trace free fluid within
+     the pelvis.  There is no definite pathologic appearing pelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  Within the L4 vertebral body, there is an area of bony
+     sclerosis surrounding a hypodensity adjacent to an intervertebral disk space.
+     There is no evidence of cortical destruction.  These findings most likely
+     represent degenerative change with sclerosis surrounding a Schmorl's node.
+     Additional low density lesions are seen within multiple vertebral bodies, also
+     adjacent to intervertebral disk spaces and consistent with degenerative
+     change.  No definite suspicious lytic or sclerotic bony lesions are
+     identified.
+     
+     IMPRESSION:  1)  Extensive lymphadenopathy within the mediastinum,
+     retroperitoneum, and splenic hilum is most consistent with lymphoma.
+     2)  Deformation and deviation of the trachea due to compression from
+     surrounding soft tissue masses, without airway obstruction at the time of this
+     examination.
+     3)  Small pericardial effusion.
+     4)  Atrophic kidneys bilaterally
+     5)  No evidence of bowel obstruction or perforation
+     6)  Probable degenerative changes within the thoracic and lumbo-sacral spines,
+     although attention to the L4 vertebral body is recommended on follow up.
+     
+     These results were discussed with clinical provider at the time of
+     interpretation.
+     
+     
+
+",,
+14388,,,,3374-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14388,,,,3374-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-1-28**] 12:46 PM
+     CT PLEURAL BX; CT FINE NEEDLE ASP                               Clip # [**Clip Number (Radiology) 8993**]
+     CT GUIDED NEEDLE PLACTMENT; CT CHEST W/O CONTRAST
+     Reason: DIFFUSE LYMPHADENOPATHY, LIKELY LYMPHOMA, BIOPSY FOR TISSUE DIAGNOSIS
+     Admitting Diagnosis: MEDIASTINAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with diffuse lymphadenopathy, likely lymphoma; would like 
+      biopsy of left pleural-based mass
+     REASON FOR THIS EXAMINATION:
+      Need core biopsy for tissue diagnosis, please send for path, flow cytometry, 
+      and surface markers
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51 y/o man with HIV, flank pain and recent CT showing extensive
+     lymphadenopathy.
+     
+     PROCEDURE: Informed consent was obtained including risks such as bleeding,
+     infection and disruption of anatomy as well as benefits and alternatives. The
+     patient desired the procedure and signed written consent.
+     
+     The patient was prepped and draped in usual sterile fashion in the prone
+     position on the Toshiba CT scanner.  The skin overlying the approach was
+     infiltrated with 1% Lidocaine and an 18 gauge spinal needle was advanced to
+     the left paraspinal pleural based mass and fine needle aspiration was
+     performed. Material was given to cytology who was present during the
+     procedure. Following this a 14 gauge co-axial sheath was advanced into the
+     mass under CT fluoroscopic guidance and three core biopsies were obtained
+     utilizing the 20 gauge biopty device.  This device was uprgraded for an 18
+     gauge biopty device and two core biopsies were obtained.  Finally, fine needle
+     aspiration was performed through the sheath as it was withdrawn from the mass.
+     The patient tolerated the procedure well and there were no immediate post
+     procedure complications.
+     
+     Follow up imaging through the area of the procedure revealed no evidence of
+     pneumothorax.
+     
+     IMPRESSION:
+     
+     1) Successful series of core biopsies and fine needle aspirations of a left
+     paraspinal pleural based mass performed under CT flouroscopy. The patient
+     tolerated the procedure well and there were no immediate post procedure
+     complications and no evidence of pneumothorax.
+     2) Dr. [**Last Name (STitle) **] was present and involved throughout the procedure.
+
+",,
+14388,,,,3374-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-1-28**] 12:46 PM
+     CT PLEURAL BX; CT FINE NEEDLE ASP                               Clip # [**Clip Number (Radiology) 8993**]
+     CT GUIDED NEEDLE PLACTMENT; CT CHEST W/O CONTRAST
+     Reason: DIFFUSE LYMPHADENOPATHY, LIKELY LYMPHOMA, BIOPSY FOR TISSUE DIAGNOSIS
+     Admitting Diagnosis: MEDIASTINAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with diffuse lymphadenopathy, likely lymphoma; would like 
+      biopsy of left pleural-based mass
+     REASON FOR THIS EXAMINATION:
+      Need core biopsy for tissue diagnosis, please send for path, flow cytometry, 
+      and surface markers
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51 y/o man with HIV, flank pain and recent CT showing extensive
+     lymphadenopathy.
+     
+     PROCEDURE: Informed consent was obtained including risks such as bleeding,
+     infection and disruption of anatomy as well as benefits and alternatives. The
+     patient desired the procedure and signed written consent.
+     
+     The patient was prepped and draped in usual sterile fashion in the prone
+     position on the Toshiba CT scanner.  The skin overlying the approach was
+     infiltrated with 1% Lidocaine and an 18 gauge spinal needle was advanced to
+     the left paraspinal pleural based mass and fine needle aspiration was
+     performed. Material was given to cytology who was present during the
+     procedure. Following this a 14 gauge co-axial sheath was advanced into the
+     mass under CT fluoroscopic guidance and three core biopsies were obtained
+     utilizing the 20 gauge biopty device.  This device was uprgraded for an 18
+     gauge biopty device and two core biopsies were obtained.  Finally, fine needle
+     aspiration was performed through the sheath as it was withdrawn from the mass.
+     The patient tolerated the procedure well and there were no immediate post
+     procedure complications.
+     
+     Follow up imaging through the area of the procedure revealed no evidence of
+     pneumothorax.
+     
+     IMPRESSION:
+     
+     1) Successful series of core biopsies and fine needle aspirations of a left
+     paraspinal pleural based mass performed under CT flouroscopy. The patient
+     tolerated the procedure well and there were no immediate post procedure
+     complications and no evidence of pneumothorax.
+     2) Dr. [**Last Name (STitle) **] was present and involved throughout the procedure.
+
+",,
+14388,,,,3374-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-1-28**] 12:46 PM
+     CT PLEURAL BX; CT FINE NEEDLE ASP                               Clip # [**Clip Number (Radiology) 8993**]
+     CT GUIDED NEEDLE PLACTMENT; CT CHEST W/O CONTRAST
+     Reason: DIFFUSE LYMPHADENOPATHY, LIKELY LYMPHOMA, BIOPSY FOR TISSUE DIAGNOSIS
+     Admitting Diagnosis: MEDIASTINAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with diffuse lymphadenopathy, likely lymphoma; would like 
+      biopsy of left pleural-based mass
+     REASON FOR THIS EXAMINATION:
+      Need core biopsy for tissue diagnosis, please send for path, flow cytometry, 
+      and surface markers
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51 y/o man with HIV, flank pain and recent CT showing extensive
+     lymphadenopathy.
+     
+     PROCEDURE: Informed consent was obtained including risks such as bleeding,
+     infection and disruption of anatomy as well as benefits and alternatives. The
+     patient desired the procedure and signed written consent.
+     
+     The patient was prepped and draped in usual sterile fashion in the prone
+     position on the Toshiba CT scanner.  The skin overlying the approach was
+     infiltrated with 1% Lidocaine and an 18 gauge spinal needle was advanced to
+     the left paraspinal pleural based mass and fine needle aspiration was
+     performed. Material was given to cytology who was present during the
+     procedure. Following this a 14 gauge co-axial sheath was advanced into the
+     mass under CT fluoroscopic guidance and three core biopsies were obtained
+     utilizing the 20 gauge biopty device.  This device was uprgraded for an 18
+     gauge biopty device and two core biopsies were obtained.  Finally, fine needle
+     aspiration was performed through the sheath as it was withdrawn from the mass.
+     The patient tolerated the procedure well and there were no immediate post
+     procedure complications.
+     
+     Follow up imaging through the area of the procedure revealed no evidence of
+     pneumothorax.
+     
+     IMPRESSION:
+     
+     1) Successful series of core biopsies and fine needle aspirations of a left
+     paraspinal pleural based mass performed under CT flouroscopy. The patient
+     tolerated the procedure well and there were no immediate post procedure
+     complications and no evidence of pneumothorax.
+     2) Dr. [**Last Name (STitle) **] was present and involved throughout the procedure.
+
+",,
+14388,,,,3374-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-1-28**] 12:46 PM
+     CT PLEURAL BX; CT FINE NEEDLE ASP                               Clip # [**Clip Number (Radiology) 8993**]
+     CT GUIDED NEEDLE PLACTMENT; CT CHEST W/O CONTRAST
+     Reason: DIFFUSE LYMPHADENOPATHY, LIKELY LYMPHOMA, BIOPSY FOR TISSUE DIAGNOSIS
+     Admitting Diagnosis: MEDIASTINAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with diffuse lymphadenopathy, likely lymphoma; would like 
+      biopsy of left pleural-based mass
+     REASON FOR THIS EXAMINATION:
+      Need core biopsy for tissue diagnosis, please send for path, flow cytometry, 
+      and surface markers
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51 y/o man with HIV, flank pain and recent CT showing extensive
+     lymphadenopathy.
+     
+     PROCEDURE: Informed consent was obtained including risks such as bleeding,
+     infection and disruption of anatomy as well as benefits and alternatives. The
+     patient desired the procedure and signed written consent.
+     
+     The patient was prepped and draped in usual sterile fashion in the prone
+     position on the Toshiba CT scanner.  The skin overlying the approach was
+     infiltrated with 1% Lidocaine and an 18 gauge spinal needle was advanced to
+     the left paraspinal pleural based mass and fine needle aspiration was
+     performed. Material was given to cytology who was present during the
+     procedure. Following this a 14 gauge co-axial sheath was advanced into the
+     mass under CT fluoroscopic guidance and three core biopsies were obtained
+     utilizing the 20 gauge biopty device.  This device was uprgraded for an 18
+     gauge biopty device and two core biopsies were obtained.  Finally, fine needle
+     aspiration was performed through the sheath as it was withdrawn from the mass.
+     The patient tolerated the procedure well and there were no immediate post
+     procedure complications.
+     
+     Follow up imaging through the area of the procedure revealed no evidence of
+     pneumothorax.
+     
+     IMPRESSION:
+     
+     1) Successful series of core biopsies and fine needle aspirations of a left
+     paraspinal pleural based mass performed under CT flouroscopy. The patient
+     tolerated the procedure well and there were no immediate post procedure
+     complications and no evidence of pneumothorax.
+     2) Dr. [**Last Name (STitle) **] was present and involved throughout the procedure.
+
+",,
+14388,,,,3374-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-2-2**] 3:54 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8996**]
+     Reason: patient with h/o mediast mass and sob/tachycardia, eval for 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with above
+     REASON FOR THIS EXAMINATION:
+      patient with h/o mediast mass and sob/tachycardia, eval for pe and tracheal
+      compression from mass;  patient esrd to have dialysis after ct scan
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp WED [**3374-2-2**] 7:56 PM
+      relatively stable appearance of lymphadenopathy involving ant/mid/post
+      mediastinum with continued compression of posterior trachea and esophagus.
+      airways patent to segmental level. SVC is compressed by mass, stable from
+      before. Poor visualization of pulm art vasculature, cannot exclude PE. small
+      left pleural effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  History of mediastinal mass with shortness of breath and
+     tachycardia.  Evaluate for pulmonary embolus.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung apices to the diaphragms before and after the administration of IV
+     contrast.  Non-ionic contrast was used secondary to rapid bolus requirement
+     needed per protocol.  A total of 180 cc of IV contrast was administered as the
+     study had to be repeated given the suboptimal bolus during the first scan.
+      Multiplanar reconstructions were obtained.
+     
+     CT OF THE CHEST WITHOUT AND WITH IV CONTRAST:  Again seen is extensive
+     mediastinal lymphadenopathy involving the anterior, middle, and posterior
+     mediastinum, all of which appear relatively stable in size since the prior
+     study. The largest conglomerate mass now measures 12.0 x 8.7 cm, previously
+     11.8 x 8.7 cm. The largest pretracheal node measures 4.1 x 2.6 cm, previously
+     4.3 x 2.6 cm. A prevascular node now measures 4.1 x 3.1 cm, previously 3.5 x
+     2.6 cm. Again seen are innumerable prevascular, pretracheal, hilar, and
+     subcarinal lymph nodes. The trachea again appears displaced and posteriorly
+     compressed, which is not significantly changed from the prior study.  The
+     esophagus is also displaced by the mediastinal mass. There is narrowing of the
+     left brachiocephalic vein and marked compression of the superior vena cava,
+     findings which appear relatively stable from the prior study.  A small left
+     pericardial effusion is again identified, unchanged from the prior study.
+     Additionally seen is a left paraspinal mass which may have increased slightly
+     in size measuring 5.7 x 3.3 cm, previously 5.5 x 3.0 cm. There is no
+     significant axillary lymphadenopathy.
+     
+     The pulmonary arterial vasculature is suboptimally visualized.  No gross
+     pulmonary embolus is identified.
+     
+     Lung field images reveal no pulmonary nodules or areas of parenchymal
+     consolidation.  The segmental bronchi are patent without evidence of
+     significant compression.  Within the visualized portion of the upper abdomen,
+                                                                 (Over)
+
+     DATE: [**3374-2-2**] 3:54 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8996**]
+     Reason: patient with h/o mediast mass and sob/tachycardia, eval for 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     the imaged portions of the liver, spleen, and stomach appear unremarkable.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the anatomy and pathology.
+     
+     IMPRESSION:
+     
+     1) Relatively stable appearance of extensive lymphadenopathy within the
+     mediastinum and slight interval enlargement of left paraspinal mass.
+     
+     2) No evidence of pulmonary embolism.
+     
+     3) Stable deviation and compression of the trachea by the extensive
+     lymphadenopathy.
+     
+     4) Small pericardial effusion, unchanged from prior study.
+     
+     5) Interval development of small left pleural effusion.
+     
+     6) Marked compression of the superior vena cava and narrowing of the left
+     brachiocephalic vein by the mediastinal lymphadenopathy, relatively unchanged
+     from the prior study.
+     
+     The findings were discussed with Dr. [**First Name (STitle) **], the Emergency Room physician caring
+     for the patient at the time of interpretation.
+
+",,
+14388,,,,3374-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-2-2**] 1:26 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8995**]
+     Reason: sob with cough                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with sob with cough                                             
+     REASON FOR THIS EXAMINATION:
+      sob with cough                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath with cough.
+     
+     COMPARISON: Chest CT from [**3374-1-28**].
+     
+     FINDINGS: Again seen is a large mediastinal mass which appears relatively
+     unchanged from the scout views from the recent CT. A left sided paravertebral
+     mass is also present, which was also seen on the prior CT. The heart size is
+     normal. Pulmonary vascularity is within normal limits. There is subsegmental
+     atelectasis present at the left base with blunting of the left costophrenic
+     angle. The right lung appears clear. Soft tissues and osseous structures
+     appear unremarkable.
+     
+     IMPRESSION:
+     1) Large mediastinal mass, relatively unchanged from the prior CT, and likely
+     represents lymphadenopathy.
+     2) Subsegmental atelectasis at the left base with blunting of the left
+     costophrenic angle.
+     3) Stable appearance of left paraspinal mass.
+
+",,
+14388,,,,3374-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     LUNG SCAN                                                       Clip # [**Clip Number (Radiology) 8994**]
+     Reason: SOB AND PLEURITIC CP.  R/O PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Shortness of breath and pleuritic chest pain.  Rule out pulmonary  
+     embolism. 
+      
+     INTERPRETATION:  Ventilation images obtained with Tc-99m aerosol in 8 views
+     demonstrate widened mediastinal, but no ventilation defects in the lungs. 
+      
+     Perfusion images in the same 8 views show the same findings. No perfusion
+     defects in the lungs. 
+      
+     Chest x-ray shows widened superior mediastinum. 
+      
+     The above findings are consistent with a normal lung scan. 
+      
+     IMPRESSION:  Normal lung scan. 
+     /nkg 
+                                                                           
+
+             [**First Name8 (NamePattern2) **] [**Name8 (MD) 340**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1218**] [**Last Name (NamePattern1) 1219**], M.D.     Approved: FRI [**3374-2-4**] 2:17 PM
+
+
+             Date Mailed: [**3374-2-7**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+14388,,,,3374-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-2-2**] 3:54 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8996**]
+     Reason: patient with h/o mediast mass and sob/tachycardia, eval for 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with above
+     REASON FOR THIS EXAMINATION:
+      patient with h/o mediast mass and sob/tachycardia, eval for pe and tracheal
+      compression from mass;  patient esrd to have dialysis after ct scan
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp WED [**3374-2-2**] 7:56 PM
+      relatively stable appearance of lymphadenopathy involving ant/mid/post
+      mediastinum with continued compression of posterior trachea and esophagus.
+      airways patent to segmental level. SVC is compressed by mass, stable from
+      before. Poor visualization of pulm art vasculature, cannot exclude PE. small
+      left pleural effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  History of mediastinal mass with shortness of breath and
+     tachycardia.  Evaluate for pulmonary embolus.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung apices to the diaphragms before and after the administration of IV
+     contrast.  Non-ionic contrast was used secondary to rapid bolus requirement
+     needed per protocol.  A total of 180 cc of IV contrast was administered as the
+     study had to be repeated given the suboptimal bolus during the first scan.
+      Multiplanar reconstructions were obtained.
+     
+     CT OF THE CHEST WITHOUT AND WITH IV CONTRAST:  Again seen is extensive
+     mediastinal lymphadenopathy involving the anterior, middle, and posterior
+     mediastinum, all of which appear relatively stable in size since the prior
+     study. The largest conglomerate mass now measures 12.0 x 8.7 cm, previously
+     11.8 x 8.7 cm. The largest pretracheal node measures 4.1 x 2.6 cm, previously
+     4.3 x 2.6 cm. A prevascular node now measures 4.1 x 3.1 cm, previously 3.5 x
+     2.6 cm. Again seen are innumerable prevascular, pretracheal, hilar, and
+     subcarinal lymph nodes. The trachea again appears displaced and posteriorly
+     compressed, which is not significantly changed from the prior study.  The
+     esophagus is also displaced by the mediastinal mass. There is narrowing of the
+     left brachiocephalic vein and marked compression of the superior vena cava,
+     findings which appear relatively stable from the prior study.  A small left
+     pericardial effusion is again identified, unchanged from the prior study.
+     Additionally seen is a left paraspinal mass which may have increased slightly
+     in size measuring 5.7 x 3.3 cm, previously 5.5 x 3.0 cm. There is no
+     significant axillary lymphadenopathy.
+     
+     The pulmonary arterial vasculature is suboptimally visualized.  No gross
+     pulmonary embolus is identified.
+     
+     Lung field images reveal no pulmonary nodules or areas of parenchymal
+     consolidation.  The segmental bronchi are patent without evidence of
+     significant compression.  Within the visualized portion of the upper abdomen,
+                                                                 (Over)
+
+     DATE: [**3374-2-2**] 3:54 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8996**]
+     Reason: patient with h/o mediast mass and sob/tachycardia, eval for 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     the imaged portions of the liver, spleen, and stomach appear unremarkable.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the anatomy and pathology.
+     
+     IMPRESSION:
+     
+     1) Relatively stable appearance of extensive lymphadenopathy within the
+     mediastinum and slight interval enlargement of left paraspinal mass.
+     
+     2) No evidence of pulmonary embolism.
+     
+     3) Stable deviation and compression of the trachea by the extensive
+     lymphadenopathy.
+     
+     4) Small pericardial effusion, unchanged from prior study.
+     
+     5) Interval development of small left pleural effusion.
+     
+     6) Marked compression of the superior vena cava and narrowing of the left
+     brachiocephalic vein by the mediastinal lymphadenopathy, relatively unchanged
+     from the prior study.
+     
+     The findings were discussed with Dr. [**First Name (STitle) **], the Emergency Room physician caring
+     for the patient at the time of interpretation.
+
+",,
+14388,577,,,3374-02-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3374-2-18**]     Discharge Date:  [**3374-2-20**]
+
+Date of Birth:   [**3322-12-13**]     Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Upper GI bleed.
+
+HISTORY OF PRESENT ILLNESS:  This is a 51 year-old male with
+a history of HIV positive, hypertension, end stage renal
+disease recently diagnosed high grade B cell lymphoma who
+presents with abdominal pain times one day.  The pain began
+the day prior to admission in the evening was, mid epigastric
+described as spasm.  The patient has drank some ETOH
+yesterday.  He denies fevers or chills, hematemesis, bright
+red blood per rectum, melena, though he states he has a
+history of the latter two years ago.  He had no recent
+non-steroidal anti-inflammatory drugs use and no history of
+peptic ulcer disease.  He had a normal colonoscopy one year
+ago per report.  In the Emergency Department he vomited what
+appeared to be coffee grounds and was gastroccult positive
+and nasogastric lavage was clearing after 1.5 liters of
+fluid.  A rectal showed heme negative stool.  Hematocrit on
+[**2-15**] was 31.6 and now noted to be 28.1, however, the patient
+was hemodynamically stable.  Recently he was on Prednisone
+for CHOP therapy and this was stopped on [**2-15**].  He had not
+been on a PPI.  He was initially admitted to the MICU for
+observation and was transferred to the floor after two units
+of packed red blood cell transfusion and hematocrit
+stabilization.  He also received DDAVP per renal for
+dysfunctional/low platelets.  In the MICU an
+esophagogastroduodenoscopy was attempted, but unable to be
+successfully performed as the patient was very agitated and
+uncooperative despite sedation.
+
+PAST MEDICAL HISTORY:
+1.  HIV, CD4 330 and viral load 60,000 in [**3373-7-2**].  No
+history of opportunistic infections.
+2.  End stage renal disease on hemodialysis Monday, Wednesday
+and Friday.
+3.  Hypertension.
+4.  High grade B cell lymphoma diagnosed [**1-5**] with
+compression of trachea/esophagus by mediastinal lymph[**MD Number 285**]
+on CT, status post CHOP initiated [**3374-2-5**], Neulasta and
+Prednisone 100 mg po q.d. times ten days, which was stopped
+on [**2-15**].
+
+MEDICATIONS:
+1.  Allopurinol 100 mg po q.o.d.
+2.  Efavirenz 600 mg po q.d.
+3.  Lopinavir/Ritonavir four tablets po b.i.d.
+4.  Bactrim SS one tablet po q.d.
+5.  Zofran 2 to 4 mg intravenously q 6 hours prn on transfer
+from MICU.
+6.  Nephrocaps one tablet po q.d.
+7.  Tenofovir 300 mg po q week.
+8.  Sevelamer 4 grams po t.i.d.
+9.  Nifedipine 120 mg po q.d.
+10.  Lopressor 100 mg po b.i.d.
+11.  Losartan 100 mg po q.d.
+
+ALLERGIES:  No known drug allergies.
+
+FAMILY HISTORY:  Father with diabetes and coronary artery
+disease.  Two siblings with lymphoma.
+
+SOCIAL HISTORY:  Tobacco one pack per day times many years.
+Smokes on weekends.  ETOH on weekends.  Former IVDU and
+cocaine.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 98.7.  Pulse
+100.  Blood pressure 124/71.  Respirations 24.  Oxygen
+saturation 95% on room air.  General, the patient is
+somnolent after large doses of morphine in the Emergency
+Department, but arousable.  HEENT pupils are equal, round and
+reactive to light.  Extraocular movements intact.  Mucous
+membranes are moist.  Neck supple.  No JVD.  Lungs clear to
+auscultation bilaterally.  Cardiovascular regular rate,
+normal S1 and S2.  Prominent point of maximal impulse
+slightly left shifted.  Tachycardic.  Abdomen normoactive
+bowel sounds, soft, nondistended.  Tender epigastric area to
+palpation, but no rebound or guarding.  Extremities no
+clubbing, cyanosis or edema.  2+ pedal pulses.  Neurological
+alert and oriented times three.  Rectal heme negative stool.
+
+LABORATORY DATA ON ADMISSION:  White blood cell count 9.0
+with 87% neutrophils, 7.4% lymphocytes.  Hematocrit 28.1,
+baseline mid 30s.  Platelets 82, baseline 200, but decreased
+since [**2-15**].  Chemistries are remarkable for a sodium of 140,
+potassium 4.1, chloride 93, bicarb 33, BUN 50, creatinine 7.8
+with a baseline 5 to 7, glucose 136, amylase 122, lipase 27,
+ALT 15, AST 39, T bilirubin 0.3, alkaline phosphatase 110,
+INR 1.3, calcium 10.9, magnesium 2.0, phos 5.5, albumin 3.4.
+Chest x-ray showed widened mediastinum, paraspinal mass,
+improvement of left base atelectasis with new interstitial
+opacity at bilateral bases, questionable nodular infection
+versus blood aspiration.  KUB showed no free air or
+obstruction.
+
+HOSPITAL COURSE:  1.  Epigastric pain/GI bleed:  The
+patient's hematocrit remained stable the entire admission
+status post 2 units of packed red blood cell transfusion.
+However, he did not have an appropriate bump in his
+hematocrit, which increased from 28.1 to 29 and then to 31 by
+the next day.  This was thought to be possibly secondary to
+his malignancy, but not to ongoing blood loss as he did not
+have any further bowel movements during his admission
+nor hematemesis.  Gastrointestinal was consulted and
+esophagogastroduodenoscopy was unable to be performed
+secondary to patient compliance/tolerance.  If the patient
+were to bleed again he would likely need
+esophagogastroduodenoscopy under general anesthesia.  Per
+Gastrointestinal given the patient's stabilization will
+advance his diet as tolerated and once hematocrit is stable
+for another 24 hours it is likely to be discontinued.  The
+etiology of epigastric pain unclear.  The patient may have
+ulcer, gastritis, candidiasis secondary to immunocompromise
+or bowel obstruction secondary to tumor burden.  He will be
+discharged on Protonix q.d. only and GI is still unclear as
+to whether the patient truly had upper gastrointestinal bleed
+as gastroccult can be positive with very small amounts of
+blood from elsewhere as well.  He had an H-pylori serology
+sent, which is pending at this time.
+
+2.  Anemia:  Hematocrit remained stable after checking b.i.d.
+He has had a slow trend downward from baseline in mid 30s
+since [**1-5**] possibly secondary to malignancy/chemotherapy.
+
+3.  Thrombocytopenia:  Though decreased platelets, they were
+stable during his admission and were thought to be secondary
+to chemotherapy as sudden decline after starting CHOP.  The
+patient was given DDAVP times one for possibly dysfunctional
+platelets in the setting of end stage renal disease per
+renal.
+
+4.  Lymphoma:  Hematology/Oncology followed the patient
+during admission and had no acute suggestions.  He continued
+on Allopurinol for decreasing likelihood of tumor lysis
+syndrome.
+
+5.  End stage renal disease:  Continued hemodialysis Monday,
+Wednesday and Friday.
+
+6.  Hypertension:  As blood pressure stabilized and the
+patient became more hypertensive after transfusion and taking
+po his home blood pressure medications of Lopressor, Cozaar
+and Nifedipine were restarted.
+
+7.  HIV:  Continued home medications.
+
+8.  Substance abuse:  The patient on CIWA scale for ETOH use
+by history.
+
+9.  Prophylaxis:  B.i.d. PPI changed to q.d. PPI per GI,
+subcutaneous heparin.
+
+10.  Throat discomfort:  Ordered Nystatin swish and
+swallow/KBL/Cepacol lozenges for some throat pain likely
+secondary to esophagogastroduodenoscopy the prior day.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE DIAGNOSES:
+1.  Upper GI bleed/gastritis.
+2.  Anemia.
+3.  Thrombocytopenia.
+4.  HIV disease.
+5.  B cell lymphoma.
+6.  Hypertension.
+7.  End stage renal disease.
+8.  Substance abuse.
+
+DISCHARGE MEDICATIONS:  As per admission medications with the
+addition of:
+1.  Pantoprazole 40 mg po q.d.
+2.  Nystatin swish and swallow prn.
+3.  Cepacol lozenges prn.
+
+FOLLOW UP PLANS:  The patient will follow up with his primary
+care physician in the next one to two weeks.
+
+Any further hospital course will be dictated as an addendum
+as needed.
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) 1168**] [**Last Name (NamePattern1) 10551**], M.D.  [**MD Number 10552**]
+
+Dictated By:[**Last Name (NamePattern1) 4288**]
+
+MEDQUIST36
+
+D:  [**3374-2-19**]  12:57
+T:  [**3374-2-21**]  07:07
+JOB#:  [**Job Number 10553**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 1168**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+ on: WED [**3375-3-1**] 12:27 PM
+(End of Report)
+
+
+",,
+14388,577,,,3374-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-2-18**] 4:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8997**]
+     Reason: ng tube placement                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with gi bleed                                                   
+     REASON FOR THIS EXAMINATION:
+      ng tube placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: NG tube placement.
+     
+     COMPARISON: [**3374-2-2**].
+     
+     AP SINGLE VIEW OF THE CHEST: The NG tube extends below the limits of the
+     radiograph in the stomach. However, the abdominal radiograph performed at the
+     same time shows that the tube may be in the duodenum and I recommend pulling
+     the tube back approximately 10 cm.
+     
+     Again noted is the widening of the mediastinum and the paraspinal mass. There
+     appears to be interval improvement at the left base atelectasis. There appears
+     to be a new interstitial opacity in the bilateral bases which is somewhat
+     nodular of unknown clinical significance and could represent infectious
+     process. Alternatively, it could represent aspiration of blood contents.
+
+",,
+14388,577,,,3374-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-2-18**] 4:23 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8998**]
+     Reason: assess for dilated loops
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with sever abd pain, vomiting coffe grounds
+     REASON FOR THIS EXAMINATION:
+      assess for dilated loops
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 51 year old male with severe abdominal pain and vomiting.
+     
+     COMPARISON: No comparisons are available.
+     
+     AP VIEW OF THE ABDOMEN:  There is an NG tube with the tip probably located in
+     the duodenal bulb.  Recommend pulling the NG back approximately 10 cm.  There
+     is no evidence of free air although this is very limited because it is just
+     one view.  There is a nonspecific bowel gas pattern.  There is no definite
+     evidence of bowel obstruction.
+
+",,
+14388,577,17883,0,3374-02-18 17:34:00 EST,3374-02-18 17:43:00 EST,2378,"N",69,"Nursing/Other",,"
+
+NEURO: Pt initially A+Ox3. +MAE with equal strenghts noted. Pt received Ativan 3 mg for EGD. Pt arouses to sternal rub and falls back to [**Doctor Last Name 8**]. Pt has bed on floor and will transfer when more alert. 
+CV: Monitor shows NSR-ST with no ectopy noted. Pt slightly hypertensive post dialysis... dialysis RN states this his course post dialysis.  
+RESP: LS diminished throughout. No sob or resp distress. Fio2 @ 4 l np.
+GI: Abd soft and nontender. +bs noted. Denies N/V. No stools this shift. GI attempted to do EGD however pt did not tolerate and was thrashing in bed and unable to advance scope. ? will rescope at later date. Pt NPO and all po meds held as ordered. 
+GU: Anuric. Pt had dialysis today with 1 kg removal [**Name6 (MD) 17**] dialysis RN.
+SKIN: D+I with no open areas. 
+HEME: Remains on Hct checks Q6hr. 
+PSY-SOC: Mr [**Known patient lastname 3252**] spoke with sister this am via telephone. Pt updated on status and plan of care by Dr. [**Last Name (STitle) 2308**]. Cont to provide emotional support. 
+",,
+14388,,,,3374-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-3-5**] 11:00 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 8999**]
+     Reason: eval for obstruction                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with lymphoma with nausea, vomiting                             
+     REASON FOR THIS EXAMINATION:
+      eval for obstruction                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Lymphoma with nausea and vomiting.  Evaluate for obstruction.
+     
+     COMPARISONS;  [**3374-2-18**].
+     
+     SUPINE AND UPRIGHT ABDOMEN:  There is a paucity of bowwl gas in the mid-
+     abdomen with minimal air and stool seen within the region of the cecum and
+     within the descending colon and rectum.  No free air is identified beneath the
+     diaphragm to  suggest free intraperitoneal gas.  The surrounding osseous
+     structures appear unchanged.  An NG tube is present coiling within the distal
+     esophagus with tip located superior to the borders of the radiograph.
+     
+     IMPRESSION:
+     1)  Non-specific bowel gas pattern with air and stool seen in the colon with
+     paucity of gas in the mid-abdomen.  No definite evidence of obstruction and no
+     free air.
+     
+     2)  NG tube coiled within distal esophagus.  This finding communicated to the
+     clinical team at time of interpretation.
+     
+     
+
+",,
+14388,,,,3374-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3374-3-8**] 10:23 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9000**]
+     Reason: Eval for PNA                                                
+     Admitting Diagnosis: ABDOMINAL PAIN-VOMITING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with HIV, lymphoma, fever                                      
+     REASON FOR THIS EXAMINATION:
+      Eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  HIV positive man with lymphoma and fever. 
+     
+     PA AND LATERAL CHEST: Comparison is made to the study from [**3374-2-18**] chest x-ray
+     as well as earlier chest x-ray of [**3370-7-10**].
+     
+     There is widening of the mediastinum particularly in the mediastinum above the
+     level of the aortic knob, but also extending into the right paratracheal
+     region to the level of the tracheal bronchial angle.  This is markedly
+     improved compared to the previous study, even allowing for differences in
+     technique.  The hilar contours and cardiac silhouette are normal.  The lungs
+     demonstrate no focal areas of consolidation.  There are minor areas of linear
+     opacity at the bases, and note is made of interval development of small
+     bilateral pleural effusions.  Skeletal structures reveal diffuse
+     demineralization. Overall, the lung volumes appear increased.
+     
+     IMPRESSION: Interval decrease in mediastinal widening likely related to
+     improving lymphadenopathy from known history of lymphoma.
+     
+     Minimal bibasilar linear opacities most likely due to discoid atelectasis. No
+     definite pneumonia.
+     
+     Small bilateral pleural effusions, new in the interval.
+
+",,

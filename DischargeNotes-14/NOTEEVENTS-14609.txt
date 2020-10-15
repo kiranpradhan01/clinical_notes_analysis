@@ -1,0 +1,352 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14609,10554,,,2711-12-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2711-12-15**]              Discharge Date:   [**2711-12-22**]
+ 
+Date of Birth:  [**2647-10-4**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3920**] 
+Chief Complaint:
+Jaundice, fever, abdominal pain, hypotension
+ 
+Major Surgical or Invasive Procedure:
+ERCP [**2711-12-15**]
+
+ 
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 64 year old man who presented to [**Hospital3 348**] 
+on [**12-14**] with a complaint of abdominal pain and weakness after 2 
+days of nausea and vomiting at home.  He was febrile with a 
+systolic blood pressure in the 80s.  CT imaging demostrated a 
+question of biliary obstruction, and he was transferred to 
+[**Hospital1 19**].  
+ 
+Past Medical History:
+Colon cancer (sigmoid) - s/p colectomy with end colostomy 2003
+Left hepatic lobectomy, cholecystectomy, caudate lobe resection, 
+intraoperative ultrasound, intraoperative radiofrequency 
+ablation in 7/05
+ERCP with CBD stent placement in 5/06
+ 
+Social History:
+6 pack-year smoking history, occasional alcohol consumption, 
+works as a grocery store manager.
+
+ 
+Family History:
+Father - deceased of lung CA
+Mother - deceased of CVA
+ 
+Physical Exam:
+On admission:
+Tmax: 102.5 F, at time of examination 99.8 F
+Heart rate: 101
+Blood pressure: 92/63
+
+General: Alert, oriented, somewhat somnolent.  Jaundiced/icteric
+Chest: diminished breath soudns at the lung bases
+Heart: Regular rate and rhythm
+Abdomen: soft, mild right upper wuadrant tenderness to palpation
+ 
+Pertinent Results:
+Admission labs
+[**2711-12-14**] 11:30PM BLOOD WBC-10.3# RBC-3.11* Hgb-10.9* Hct-30.7* 
+MCV-99*# MCH-35.2* MCHC-35.6* RDW-18.7* Plt Ct-124*
+[**2711-12-14**] 11:30PM BLOOD PT-21.3* PTT-36.2* INR(PT)-2.1*
+[**2711-12-15**] 05:43AM BLOOD Fibrino-526*
+[**2711-12-14**] 11:30PM BLOOD Glucose-63* UreaN-47* Creat-2.1*# Na-139 
+K-2.9* Cl-101 HCO3-23 AnGap-18
+[**2711-12-14**] 11:30PM BLOOD ALT-67* AST-187* AlkPhos-498* Amylase-21 
+TotBili-28.1*
+[**2711-12-14**] 11:30PM BLOOD Albumin-2.3*
+
+BLOOD CULTURE     Site: ARM      #1. 
+   AEROBIC BOTTLE (Final [**2711-12-18**]): 
+      REPORTED BY PHONE TO [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 10935**] @ 2223 ON [**12-15**] - FA10. 
+      PSEUDOMONAS AERUGINOSA.    FINAL SENSITIVITIES. 
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------    16 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------  =>16 R
+
+ERCP Impression:
+1. Evidence of a previous sphincterotomy
+2. A metal stent was noted within the bile duct
+3. Succesful cannulation with a balloon catheter
+4. Multiple irregular filling defects were noted along the 
+entire stent suggestive of sludge and possible tumor invasion.
+5. The stent was swept using a balloon. Copious amount of sludge 
+and pus was succesfully extracted.
+
+CT Abdomen/Pelvis Impression:
+1. Marked progression of diffuse metastatic disease throughout 
+the liver, in the retroperitoneum, encasing the left gastric 
+artery, and within the visualized portions of the lingula and 
+mediastinum/hilum. Peritoneal carcinomatosis.
+
+2. More confluent opacity at the right lung base likely 
+represents a predominantly consolidation/atelectasis, with small 
+bilateral pleural effusions.
+
+3. Biliary stent is seen extending from the right bile duct to 
+the common bile duct, but is predominantly filled with soft 
+tissue density material, likely representing tumor ingrowth from 
+the large masses described above.
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was initially admitted to the Surgical ICU the early 
+morning of [**2711-12-15**] and underwent fluid and electrolyte 
+resuscitation and correction of his coagulation parameters.  A 
+regimen of Vancomycin and Zosyn was initiated.  Later on the 
+29th, he underwent an ERCP, with findings noted in the previous 
+section.
+  After his ERCP, he was transferred to [**Hospital Ward Name 455**] 10.  He showed no 
+signs or symptoms of pancreatitis.  On [**12-16**], blood cultures 
+drawn from the emergency room grew gram positive rods, which 
+later proved to be Psudomonas aeruginosa.  Due to an increase in 
+his bilirubin from 26.3 prior to ERCP to 35.4 afterwards, a CT 
+scan was performed.  The results are in the previous section.
+  On [**2711-12-18**], Mr. [**Known patient lastname **] received a PICC line at the bedside for 
+his need for IV antibiotics.  On [**2711-12-19**], this was repositioned 
+by interventional radiology.  Dr. [**Last Name (STitle) 1695**] spent a good deal of 
+time with Mr. and Mrs. [**Known patient lastname **] in the evening discussing his 
+prognosis, considering his CT and laboratory findings.  On 
+[**2711-12-20**], physical therapy evaluated Mr. [**Known patient lastname **] and found him with 
+more than enough strength to be independent.  The therapist was 
+of the opinion that Mr. [**Known patient lastname **] would do well at home.  On [**2711-12-21**], 
+hospital day 7, Mr. [**Known patient lastname **] was seen by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4287**], of Palliative 
+Care to discuss hospice.
+  Mr. [**Known patient lastname **] was then discharged to his home on [**2711-12-22**] with VNA 
+care for his IV antibiotics.  He will have a total course of 14 
+days of Zosyn.
+ 
+Medications on Admission:
+Reglan, 10 mg, 4 times a day, Tussin
+ 
+Discharge Medications:
+1. PICC Line Care
+Please provide PICC Line Care Per Protocol
+Dressing change q 72 hours
+Dressing Change Kit
+Disp # 5
+Refills 3
+2. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One (1) 
+syringe Intravenous every eight (8) hours as needed: For PICC 
+Line care following Antibiotic infusion.
+Disp:*30 syringe* Refills:*2*
+3. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).
+Disp:*120 Tablet(s)* Refills:*2*
+4. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain .
+Disp:*60 Tablet(s)* Refills:*0*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*60 Capsule(s)* Refills:*2*
+7. Zosyn 2.25 g Recon Soln Sig: One (1)  Intravenous four times 
+a day for 7 days.
+Disp:*28 * Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Metastatic colon cancer, jaundice
+
+ 
+Discharge Condition:
+Fair
+
+ 
+Discharge Instructions:
+Please call [**Telephone/Fax (1) 62**] if [**Doctor First Name **] experience fever, chills, 
+nausea, vomiting, inability to eat.
+Continue antibiotics for one week more
+ 
+Followup Instructions:
+Follow up with your oncologist as needed    
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2126**] MD, [**MD Number 3924**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3240**] NP[**MD Number 3241**] [**2711-12-26**] @ 1811
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**2712-1-8**] 6:43 AM
+(End of Report)
+
+
+",,
+14609,10554,18161,0,2711-12-15 05:33:00 EST,2711-12-15 05:41:00 EST,6230,"N",1,"Nursing/Other","Admission note","
+Admission note
+Pt admitted to SICU B from ED.  
+
+Pt with hx of colon CA s/p resection in [**2706**].  Liver mets with left hepatic lobectomy in 5/2005.  Pt developed jaundice in fall of 2006 and has had multiple stent procedures for paliation.  Pt now presents with worsening jaundice, nausea and vomiting.  Scans show occluded stent.  ERCP planned for AM.
+
+ROS:
+
+Neuro - Pt AAO x3.  Sleeping b/t disturbances.  MAE with equal strength.  Able to participate in care.
+
+CV - NSR 90s.  SBP 100 - 110s by cuff.  [**Last Name (un) **] peripheral pulses.  No edema.
+
+Resp - Lungs CTA.  O2 sat > 96% on 2 L NC.
+
+GI - Abdomen softly distended, tender.  Hypoactive BS.  No BM.
+
+GU - Dark, icteric urine in adequate amounts.
+
+Skin - sclera icteric.
+
+Heme - 2 units FFP given for INR 1.2.
+
+Social - Wife with pt in room.  Dr. [**First Name (STitle) **] in to see pt and wife.  Blood and ICU consents obtained.
+
+A - Hemodynamically stable after fluid resuscitation. 
+
+P - Continue to monitor hemodynamic status.  Recheck coags.  Maintain NPO.  Medicate for comfort.  Plan for ERCP in AM.
+",,
+14609,10554,,,2711-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2711-12-16**] 6:36 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11019**]
+     Reason: Please evaluate liver/biliary system with IV/PO contrast    
+     Admitting Diagnosis: BILIARY OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with bilirubin of 35 s/p ERCP                                   
+     REASON FOR THIS EXAMINATION:
+      Please evaluate liver/biliary system with IV/PO contrast                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilirubin 35 status post ERCP. History of metastatic colon
+     cancer.
+     
+     TECHNIQUE:  Contiguous axial images of the abdomen and pelvis were performed
+     before and after the IV administration of 120 cc of Optiray nonionic contrast.
+     Comparison is made to examination of [**2711-4-27**].
+     
+     Additional multiplanar reformatted images were also reviewed at the time of
+     interpretation.
+     
+     FINDINGS:
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST:  Evaluation of the lung bases
+     demonstrate multiple pulmonary masses, which have grown significantly in size
+     since the prior examination.  One mass is seen at the posterolateral aspect of
+     the lingula, measuring approximately 2.2 x 3.5 cm in greatest axial
+     dimensions, abuts the pleural surface, and was approximately 8 mm in diameter
+     on the prior examination.  Multiple other smaller pulmonary nodules are also
+     seen within the visualized portion of the lingula, also consistent with
+     metastases. Minimal left-sided basilar atelectasis and small left pleural
+     effusion is present.  Right-sided basilar atelectasis/consolidation is seen at
+     the lower lobes, also with a small right-sided pleural effusion.  Note is made
+     of a large subcarinal lymph node measuring approximately 2.7 x 7.0 cm, and
+     significant right hilar adenopathy measuring approximately 3.5 cm in diameter.
+     No evidence of thrombus is seen within the visualized portions of the
+     pulmonary vasculature. Prominent coronary artery calcifications are present.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST:  Patient is s/p left hepatectomy.
+     Metallic biliary stent is seen within the right bile ducts extending down
+     through the hepatic duct and common bile ducts, but appears filled with soft
+     tissue density material, presumably tumor invasion. Innumerable hypoenhancing
+     lesions are seen throughout the liver, representing a marked progression since
+     the prior examination. A dominant 7.1 x 5.6 cm hypodense mass at the caudate
+     lobe and segment VIII of the liver and encasing the IVC is present, and
+     extending without discernable fat plane into 5.1 x 6.4 cm extrahepatic nodal
+     mass which encases the left gastric artery, predominantly superior to the
+     celiac artery.  A second portal venous nodal mass is seen, measuring
+     approximately 3.5 x 4.0 cm in maximal transverse dimensions, just posterior to
+     the pancreatic head and common bile duct. Multiple retroperitoneal lymph nodes
+     are also seen in the aortocaval space, retrocaval space, and paraaortic space.
+     
+                                                                 (Over)
+
+     DATE: [**2711-12-16**] 6:36 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11019**]
+     Reason: Please evaluate liver/biliary system with IV/PO contrast    
+     Admitting Diagnosis: BILIARY OBSTRUCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Multiple enhancing nodes are also seen within the large fat-containing ventral
+     hernia, with nodularity of the omentum consistent with peritoneal
+     carcinomatosis.  A 19 x 25 mm enhancing nodal mass seen along the anterior
+     aspect of the pancreatic tail is also consistent with metastatic disease.
+     
+     Minimal abdominal free fluid is present.  There is no evidence of portal vein
+     thrombosis.  The right hepatic vein is also patent.
+     
+     CT OF THE PELVIS AFTER IV CONTRAST:  The large bowel, bladder, and distal
+     ureters are unremarkable, with a Foley catheter in place.  Surgical sutures
+     seen in the region of the sigmoid colon is consistent with prior resection.
+     There is no pelvic lymphadenopathy.  A small amount of pelvic free fluid is
+     present.
+     
+     Examination of osseous structures do not show lytic or sclerotic lesions
+     suspicious for malignancy.
+     
+     Multiplanar reformatted images support the findings above.  Degenerative
+     changes of the lower lumbar spine are also seen.
+     
+     IMPRESSION:
+     1.  Marked progression of diffuse metastatic disease throughout the liver, in
+     the retroperitoneum, encasing the left gastric artery, and within the
+     visualized portions of the lingula and mediastinum/hilum. Peritoneal
+     carcinomatosis.
+     
+     2.  More confluent opacity at the right lung base likely represents a
+     predominantly consolidation/atelectasis, with small bilateral pleural
+     effusions.
+     
+     3.  Biliary stent is seen extending from the right bile duct to the common
+     bile duct, but is predominantly filled with soft tissue density material,
+     likely representing tumor ingrowth from the large masses described above.
+     
+     
+
+",,
+14609,10554,,,2711-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2711-12-19**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 11020**]
+     Reason: Please relocate PICC to SVC - Per IV [**Last Name (un) 11021**]                   
+     Admitting Diagnosis: BILIARY OBSTRUCTION
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 11022**] FLUORO 1 HR W/RADIOLOGIST     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with PICC placed [**2711-12-18**], improperly positioned                  
+     REASON FOR THIS EXAMINATION:
+      Please relocate PICC to SVC - Per IV [**Last Name (un) 11021**]                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  PICC reposition.
+     
+     Fluoroscopy reveals a PICC line at the junction of the right IJ and subclavian
+     veins.  The current catheter was therefore advanced with its tip in the distal
+     SVC.  This was then secured in place.
+                                                                           
+
+",,

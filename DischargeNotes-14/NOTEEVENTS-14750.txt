@@ -1,0 +1,398 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14750,13109,,,3331-05-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3331-5-24**]        Discharge Date: [**3331-5-30**]
+
+Date of Birth:  [**3243-2-16**]        Sex:  F
+
+Service:  MED
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 88 year old,
+Spanish speaking female patient with a history of
+hypertension who presented to her primary care physician with
+[**Name Initial (PRE) **] several week history of shortness of breath.  The patient
+was recently evaluated in clinic two weeks ago and given
+antibiotics for a UTI.  She returned to her primary care
+physician on the day of admission after a fall.  She was
+prescribed antibiotics for right knee cellulitis.  At that
+time the patient also complained of a two week history of
+progressive dyspnea on exertion, experiencing shortness of
+breath after 10 to 20 paces.  The patient's son states that
+is significantly unchanged from her baseline.  The patient
+denies any history of chest pain, palpitations, orthopnea,
+PND, but does report lower extremity edema that has become
+progressively worse over the last two weeks.  In addition to
+these symptoms, the patient reports an occasional dry cough
+and clear rhinorrhea.  The patient was sent to the emergency
+department for echocardiogram which revealed a moderate sized
+pericardial effusion with tamponade physiology and was sent
+immediately to the cardiac catheterization lab for
+pericardiocentesis.
+
+PAST MEDICAL HISTORY:  Hypertension.
+
+Anemia.
+
+Urinary tract infection diagnosed two weeks prior to
+admission.
+
+Memory loss.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:
+1. Zestril 5 mg p.o. b.i.d.
+2. Zithromax.
+
+
+SOCIAL HISTORY:  The patient currently lives alone and does
+her own ADLs.  Her son lives nearby and the patient is seen
+by home physical therapy occasionally.  She denies a history
+of tobacco use and only drank occasionally throughout her
+life.
+
+PHYSICAL EXAMINATION:  Temperature 99.3, heart rate 101,
+blood pressure 187/70, respiratory rate 32, 100 percent on 4
+liters.  In general, somewhat ill appearing, elderly woman in
+mild respiratory distress, moaning and speaking incoherently.
+HEENT pupils equal, round, reactive to light.  Extraocular
+movements intact.  Dry mucous membranes.  Oropharynx was
+clear.  Neck jugular venous pressure was at the angle of the
+jaw.  There was no thyromegaly or lymphadenopathy.  Lungs had
+decreased breath sounds in bilateral bases with crackles up
+approximately half way in bilateral lung fields.  Cardiac
+regular rate and rhythm, normal S1, S2, no murmurs, rubs or
+gallops appreciated.  Abdomen normoactive bowel sounds, soft,
+nondistended, nontender.  Extremities 1 plus DP and PT pulses
+bilaterally with 1 to 2 plus edema in bilateral lower
+extremities.  Femoral pulses were 2 plus bilaterally.
+Carotid pulses were 1 plus bilaterally with no bruits.  Psych
+the patient was extremely anxious and had very poor memory,
+minimally cooperative with the exam.
+
+LABORATORY DATA:  White blood cells 12.6, hematocrit 32.8,
+platelets 178.  INR 1.1.  Sodium 137, potassium 4.4, BUN 27,
+creatinine 1.1, glucose 117.  EKG sinus rhythm at 100 beats
+per minute, there were low limb lead voltages with no
+electrical alternans and no ischemic changes.  Echocardiogram
+ejection fraction 60 percent, 1 to 2 plus AI, moderate
+effusion with tamponade physiology.
+
+HOSPITAL COURSE:  Pericardial effusion.  As noted previously,
+the patient presented with a two week history of progressive
+dyspnea on exertion and lower extremity edema, found on
+echocardiogram to have moderate pleural effusion with
+tamponade physiology.  The patient was taken emergently to
+the cardiac catheterization lab where she underwent
+pericardiocentesis of 450 cc of bloody effusion.  An
+echocardiogram performed after the procedure showed no
+residual effusion and hemodynamics revealed improved RA
+pressure of 10 and pericardial pressure of 4 following
+pericardiocentesis.  The patient was transferred to the CCU
+for monitoring, given mild respiratory distress.  Workup for
+the etiology of the pericardial effusion was performed and
+was negative.  The patient had [**Doctor First Name 99**] and rheumatoid factor that
+were negative.  TSH was normal.  She had a PPD that was
+negative.  She had SPEP and UPEP to rule out amyloid, the
+results of which are pending at the time of dictation.  The
+patient had iron studies which did not suggest
+hemochromatosis, but rather revealed anemia of chronic
+disease.  Cytology performed on the pericardial fluid was
+negative.  The likely etiology of the patient's pericardial
+effusion is considered infectious versus malignant.  It is
+anticipated that the patient will evaluated with age
+appropriate cancer screening as an outpatient.  The patient
+was evaluated with serial echocardiograms throughout the
+remainder of her hospitalization that showed no
+reaccumulation of fluid and no evidence of tamponade
+physiology.  The patient remained hemodynamically stable and
+asymptomatic throughout the remainder of her hospitalization.
+
+CHF.  As noted previously, the patient was evaluated with
+multiple echocardiograms throughout her hospitalization which
+revealed an ejection fraction of 60 percent.  The patient is
+considered to have diastolic dysfunction and was started on a
+beta blocker and continued on an ACE inhibitor throughout
+this admission.  The patient was diuresed gently throughout
+her hospitalization and had improvement in her lower
+extremity edema and oxygen saturation.  Serial chest x-rays
+showed very little change in the patient's bilateral pleural
+effusions.  The patient was evaluated by the interventional
+pulmonary team who performed thoracentesis.  Evaluation of
+the pleural fluid revealed a transudate and the etiology was
+considered likely secondary to diastolic dysfunction.  The
+plan is to continue gentle diuresis, though if the bilateral
+pleural effusions persist, the interventional pulmonary team
+recommended considering bilateral pigtail chest tubes.  The
+patient's beta blocker dose was titrated up as tolerated by
+her blood pressure.
+
+Rhythm.  The patient was noted throughout this admission to
+have periodic episodes of atrial fibrillation, atrial
+bigeminy and multifocal atrial tachycardia.  As noted
+previously, the patient was started on a beta blocker, the
+dose of which was titrated up.  Given persistent paroxysmal
+atrial fibrillation, the patient was started on amiodarone.
+The patient had improved rate and rhythm control prior to
+discharge, but will need an event monitor on discharge to
+follow her QT interval and rate.
+
+Renal.  The patient was admitted with creatinine of 1.1 which
+increased to 1.5 with Lasix treatment.  As her diuresis with
+Lasix was decreased, the patient's creatinine improved.
+
+Cellulitis.  The patient was admitted with a recent history
+of cellulitis of her right knee after a fall.  Given an
+initial concern for concomitant pneumonia, the patient was
+started on levofloxacin which she continued for seven days.
+The patient's erythema, edema and warmth improved
+dramatically with antibiotic therapy.
+
+FEN.  The patient was continued on a cardiac diet throughout
+this hospitalization.  She was evaluated by the speech and
+swallow consult service prior to discharge.  The patient
+demonstrated an adequate ability to swallow without evidence
+of aspiration.  Per the patient's request and given her
+dementia, the speech and swallow consult service recommended
+a pureed solid diet.
+
+Psych.  The patient was extremely anxious throughout her
+hospitalization with episodes of agitation and yelling.  She
+was evaluated by the psychiatry consult service who felt that
+her clinical presentation was most consistent with moderate
+dementia likely Alzheimer type with superimposed mild
+delirium.  As noted previously, the patient's TSH was normal
+and RPR was checked to complete the medical workup.  The
+patient was treated with Seroquel 25 mg p.o. q.h.s.
+
+CONDITION ON DISCHARGE:  Good.  Oxygenating well on 2 liters.
+
+DISCHARGE STATUS:  The patient is discharged to an extended
+care facility.
+
+DISCHARGE DIAGNOSES:  Pericardial effusion.
+
+Diastolic dysfunction.
+
+Paroxysmal atrial fibrillation.
+
+Dementia likely Alzheimer type.
+
+Cellulitis.
+
+DISCHARGE MEDICATIONS:
+1. Metoprolol 75 mg p.o. t.i.d.
+2. Zestril 5 mg p.o. b.i.d.
+3. Amiodarone 200 mg p.o. t.i.d. for one week, then 400 mg
+   p.o. q.day times one month.
+4. Aspirin 325 mg p.o. q.day.
+5. Alendronate 35 mg p.o. q.Sunday.
+6. Tylenol one to two tablets p.o. q.four to six hours p.r.n.
+7. Colace 100 mg p.o. b.i.d. p.r.n. constipation.
+8. Senna one tablet p.o. b.i.d. p.r.n. constipation.
+9. Ipratropium one neb q.six hours p.r.n. shortness of breath
+   or wheezing.
+10.      Seroquel 25 mg p.o. q.h.s. p.r.n. agitation or
+   insomnia.
+
+
+FOLLOWUP:  The patient will be followed by the physicians at
+the extended care facility.  The patient will be seen by
+nurse practitioner, [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4863**], who works with Dr. [**Last Name (STitle) 1274**],
+on [**3331-6-28**], at 11:00 a.m.  She has a followup
+appointment with Dr. [**Last Name (STitle) 1274**] on [**3331-8-21**], at 10:20
+a.m.  The patient has a followup appointment with
+cardiologist, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], on [**3331-7-2**], at 2:00
+o'clock p.m.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], MD [**MD Number 1949**]
+
+Dictated By:[**Last Name (NamePattern1) 1950**]
+MEDQUIST36
+D:  [**3331-5-29**] 12:44:13
+T:  [**3331-5-29**] 13:51:51
+Job#:  [**Job Number 11156**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: TUE [**3331-6-5**] 3:58 PM
+(End of Report)
+
+
+",,
+14750,13109,18326,0,3331-05-24 17:53:00 EST,3331-05-24 18:03:00 EST,863,"N",1,"Nursing/Other",,"
+
+CCU Nursing Admission/Progress  Note 1815-1900
+Neuro-
+At baseline has dementia, aggitation w/ any touching of patient. Denies pain. Has never been in hospital before, environment and any intervetion is foreign to her. Speaks Italian, Spanish, French and English. Son at bedside.
+
+CV-
+Admitted from cath lab w/ pericardial drain and bag in  place. No drainage in bag @ present after draining 500cc in lab, specimens sent. R art sheath d/c upon arrival to CCU, L venous sheath remains in place. Pulses 2+ throughout.
+146-150/60-70, on Nitro 2m/k/m, HR 90's SR. u/o incont on diaper.
+REsp-
+Hx CHF, now w/ wheezes when lying flat, relieved w/ 30 degrees. Now some wheezes but less than on admission. RR24-26, Sat 97 on 2L
+ID-
+Hx of UTI 2 weeks ago, tx in full. Hx fall last week w/ R knee abrasion, now +erythema, no d/c, seen by PMD started on po antibx for cellulitis. CCU care team aware.
+A/P
+Pt s/p drainage of pericardial effusion, drain in place.
+L venous sheath in place.
+CV- Monitor BP/HR on iv ntg @ 2m/k/m. Monitor drainage
+REsp- + Wheezes on 2L w/ good sat. Resp called for neb tx.
+Social- Son at bedside for emotional/language/communication support. Inform pt and son of status and plan
+
+",,
+14750,13109,18326,0,3331-05-25 04:42:00 EST,3331-05-25 05:10:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" What place is this? ""
+O:  pt. becoming more confused as night progressed. Son went home ~ 2100. pt. calling out for son, Ox1 only.  needing freq. orientation and reminders. overall, cooperative but also very nervous, anxious. 
+haldol .25mg IV x2 (00 and 0230) allowing pt. to [**Doctor Last Name 8**] for ~ 2hours.  0500, pt. waking up and becoming more anxious/agitation then prior. HR ST with bursts up to 140ST. HO aware.  given additional haldol with good effect at 0530. 
+
+CV:  HR 95-117ST with freq. PAC's, occas. bursts up to 120-140's(when at rest and when more agitated). no VEA.  BP 125-140/50's.  contin. on nitro gtt at 2mcq/k/min.
+left groin venous sheath d/c'd ~ 2200 by intern.  area C/D. right art. sheat site D/I.  pulses 2+ bilat. 
+- pericard. catheter draining ~ 40cc total in bag.  unable to aspirate from catheter. flushed with heparinized saline per protocol q4hr. fluses easily  
+post cath fluid decreased to 50cc/hr d/t resp. exam. 
+ 
+resp:  2lnc, sats 95-97%.  pt. denies SOB when asked via interpreter.  loud, audible exp. wheezes heard,  also crackles at bases. RR 26-33. neb rx x1 with minimal improvent.
+GU:  incontinent of urine and stool. changed diaper x3.  HO aware. 
+
+ID:  afeb. TM 98.2.  received one dose of po dicloxacillin in eve. changed to levoflox QD in AM.  WBC elevated.
+
+social:  son left in eve, plans on coming early AM.  very involved in pt. care at home. numbers listed in room.  
+
+A:  confusion at hospital responding well to haldol small doses.
+    - small to no drainage from pericard. catheter.
+    - new wheezes , tachypnea on exam. ? overloaded.  will need CXR
+P:  follow neuro status for change in confusion pattern.  work with son to help pt. through hospitalization.  follow lytes, HCT.  antibiotic for cellulitis in right leg.  
+atrovent neb prn. 
+",,
+14750,13109,18326,0,3331-05-25 16:37:00 EST,3331-05-25 17:03:00 EST,615,"N",1,"Nursing/Other","CCU NPN: ALt in CV","
+CCU NPN: ALt in CV
+S: ""oooooouch!""
+
+O: PLease see carevue flowsheet for complete details.
+
+CV: HR 90-150 NST/ST/MAT. BP 123-220/30-60. Pericardial drain removed at 12000; unable to flush or aspirate drain. Repeat echo showed minimal effusion, so drain removed. Rcvd on NItro 2mcg/kg/min and titrated off, pt hypertensive drip turned back on and bolused, drip turned off again at 1600. Metoprolol 12.5mg PO started. Transfused 1unit PRBC; repeat Hct 33 (up from 27). 
+
+RESP: RR 25-50 O2 sat 95-99% on 2-4L NC. LS with Exp wheezes and bibasilar crackles. Nebs do not alleviate or help wheezing. Bilateral Pleural Effusions on CT scan R>L. No upper airway obstruction or PE on CT. Right pleural effusion tapped; unable to aspirate large amount of fluid- 10cc aspirated and sent to lab. ABG done during agitated episode: 7.40/35/154/22
+
+ID: WBC 11.8 T 97.3-98.4  On Levaquin PO for UTI.
+
+GI: +BS. Abdomen soft and distended. Medium Soft guiac neg BM today. Abd CT neg for abdominal bleed, done for Hct drop.  
+
+GU: Foley catheter placed- draining yellow clear urine. Lasix 10mg given earlier today: diuresed 300+cc. 20mg Lasix given at 1700- awaitimg diuresis. Urine sent to lab. 
+
+NEURO: A+Ox1-2. Mainly Italian or Spanish speaking. Very agitated at times; given Haldol 0.5mg. MSO4 1mg for tachy episode and anxiety. Ativan 0.5mg IV given for tap. Sleeping this afternoon. Son and daughter-in-law in to visit. Son helpful with translation and calming pt.
+
+SKIN: Pt has prolapsed uterus. Large mass on left buttock; orange-sized hard round mass. MDs visualized on rounds. Reddened area in buttocks area; barrier cream applied. 
+
+A: Pericardial efffusion: s/p drain. Drain d/c today. Bilateral Pleural effusion: s/p tap.  Tachypnea and wheezing. Buttocks Mass. Hct drop: s/p transfusion. Dementia at baseline. Agitated and anxious at times. Tachycardic- MAT. HTN.
+
+P: Monitor Resp status. FOllow I+O; Lasix output. W/u for cause of effusions in progess. Support pt/family.
+",,
+14750,13109,18326,0,3331-05-26 04:54:00 EST,3331-05-26 05:03:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  
+ID: afeb.  on levoquin for UTI and RLL cellulites
+CV: HR 77-96SR. rare PAC.  one burst of HR up to 120, self limiting.
+BP 125-154/50-70.  lopressor 12.5mg at 2300.  TNG was weaned off during day.  
+
+resp:  contin. to be very wheezy when awake and talking or with any exertion.  no nebs given.  Exp. wheezes on exam. no crackles.  sats 98-99% on 4lnc.  when asleep, pt. appearing very comfortable, RR 16-18, minimal wheezes.  
+
+GU:  lasix 20mg at 2300.  500cc responce.  200cc neg. at MN and currently 700cc neg. at 0600.
+
+GI:  no stool.  taking meds with water.  refusing other food/drink
+
+neuro:  slept all eve from ativan given for tap in afternoon. woke late eve, requiring reorientation but did not escalate to agitation.  took seraquel for [**Doctor Last Name 8**].  only mildly anxious when awake.  
+",,
+14750,13109,18326,1,3331-05-26 04:54:00 EST,3331-05-26 06:08:00 EST,330,"Y",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+addendum:  pt. woke in AM, anxious, calling out.  disoriented.  responding well to TLC, freq. orientation.  fell back asleep after blood draw.
+
+plan:  ? increase beta-blocker.  ? ACE. OOB to chair today as tol.  advance diet.  family support- son [**Name (NI) 6446**] requesting to speak with case manager today concerning discharge issues.  
+",,
+14750,13109,18326,0,3331-05-26 16:23:00 EST,3331-05-26 16:54:00 EST,958,"N",1,"Nursing/Other","NSG PROGRESS NOTE","
+NSG PROGRESS NOTE
+
+S: ""My breathing.""
+
+O: Please see flow sheet for objective data. Pt had episode of rapid AF this am with rate as high as 190. BP stable pt asymptomatic. Given Lopressor 5mg VI x's 2 with increase in wheezing noted and sm change in rate.  Started on Dilt at 5mg/hr after bolus of 10mg. Rate gradually decreased  back to 90's in af. Back into sinus at approx 3pm. Diltiazem infusing at 8mg/hr. Started on Captopril and Dilt po.
+
+Resp: Lungs CTA although pt is tachypneic and stridor noted. O2 sat 100-96%.  RR 28-32. Given albuterol with some effect.
+
+Neuro: Pt is awake and alert.  Needs constant reminders about where she is and what day it is. Son present for most of the shift to help keep pt calm and translate.
+
+GU/GI: Pt tolerating diet well.  Needs assistance. Abd is distended and soft.  No BM today.  Foley to gravity draining good amts of clear yellow urine after lasix 40mgIV.
+
+Social: Son in with pt most of day. Lengthy conversation with MD's about future interventions and code status.
+
+A&P: Episode of RAF with rate controlled by IV Diltiazem. Question etiology of stridor. Cont with nebs & lasix prn.
+",,
+14750,13109,18326,0,3331-05-27 04:52:00 EST,3331-05-27 05:08:00 EST,478,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: "" owwww!!!""
+O: See vs/objective data per care vue.  Low grade temp of 99.5, cont on levaquin.
+Hr 70-80's increasing to 90's but quickly back down to 80's after lopressor 12.5mg.  No vea or tachycardia.  Dilt gtt conts at 8mg/hr with bp 100-120's. Tolerating captopril dose.
+Lungs with exp crackles heard approx 1/2 up. O2 at 4lnp with sats 97-98%.  Remains very tachypneic with rr 24-40's.  Rec'd 2 doses of lasix 40mg with little effect. Pulm in to consult, ? CT placement today to drain bilateral pleural effusions (effusion appears to be very viscous). 
+Taking sips of water. Foley drng yellow urine with (+) sediment. At one point, after lasix, uo decreased to 15cc, attempted to flush but unable to aspirate flushed material, therefore new foley placed. No increase in uo. Prolapsed uterus pink in color, rectal area also noted to have questionable prolapse. No breakdown noted.
+R leg appears to be healing well, area not warm to touch or tender. 
+Pt at times agitated. Any physical stimuli (ie. blood pressure being taken or turning) pt moans and yells loudly. Family in translating until about 9pm, states that she knows where she is but later in the night she is questioning why she is here.  Very difficult at times to understand her due to language barrier ( speaks spanish). Slept on/off during night. Bed in low position with side rails up, no need for restraints. 
+A: s/p pericardial effusion
+   bilater pleural effusions
+   bp/hr stable
+   diuresed with lasix 40mg x 2 with little effect
+P: ? pleural tap>chest tubes today
+   cont to follow hr/bp (lopressor works well with ^hr)
+   cont to provide safe environment and reorient prn
+
+",,
+14750,13109,18326,0,3331-05-27 16:56:00 EST,3331-05-27 17:09:00 EST,901,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+O:  See careview for all objective data
+
+CV - HR 90's NSR with no vea.  Dilt iv at 8mg/hr decreased to 4mg, then discontinues.  PO dilt discontinued as well.  Lopressor increased to 25mg po bid, and HR decreased from 90's to 70's after lopressor, albeit transiently.  BP stable 120-140/50's.  Captopril cont 12.5mg tid.
+
+Resp - tachypnic with RR 24-40, but in no distress, and does not complain of SOB.   Unable to tolerate decrease from 4ln/p to 2ln/p, but is now on 3ln/p with sat 98%.  LS are diminished at bases, but with crackles and exp wheezes audible. 
+
+GI - tolerating pureed diet with minimal assist.  BS are +, and has passed small amt soft OB- brown stool.  
+
+GU - creat today is 1.5.  u/o 15-25cc/hr.  No diruesis this shift.
+
+Activity- Pt is OOB to chair with 2 nurse and max assist, for majority of day. Doesn't want to get back to bed.
+
+Social - Spanish/Italian/French speaking, but does understand and can converse in basic English. Son [**Name (NI) 6447**] and daughter in law, vss today, and would like Social Service CX and Dietary CX in am.  Family is aware of pt's condition, and have spoken extensively to MD's. Pt is much calmer, and does not scream if basic instructions and time are given prior to and movement/intervention.
+
+A:  No VEA today
+No c/o dyspnea, dispite tachypnea  
+
+P:  Social service and dietary cx in am.  Please call son [**Name (NI) 6447**] on his cell if he is not with pt.  PT consult for ambulation in am.  Cont. monitor I/O closely, and ? gentle diuresis tonight.   Monitor HR and BP and ? increase in Lopressor and Captopril, Gentle, firm instructions to pt.    
+",,
+14750,13109,18326,0,3331-05-28 05:07:00 EST,3331-05-28 05:17:00 EST,478,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S/O: See vs/objective data per care vue.  T max 99.7 orally, rec'd tylenol x 1. 
+Hr elevated due to temp, down to mid 80's with tylenol. Approx 2am converted to afib, team aware.  Decision was made to increase lopressor to 50mg tid. Hr 90-130's while in afib, approx 6am she converted to sr with hr in the 80's. Bp 90-100's while in afib slightly higher in sr.  
+Lungs with diffuse crackles, o2 at 3lnp with sats 95-98%. Diuresed x 1 with lasix 40mg with mild effect. Conts to have audible wheezes which is thought to be due to tracheomalacia, also audible crackles heard. RR lower tonight in the 20's.
+Foley drng cloudy urine with sediment. No bm. 
+At times not knowing where she is but is cooperative if spoken to in spanish. She has slept most of the night and did not seem to awaken when bp was being done. 
+A: Afib that converted on own
+   ^ in lopressor to 50mg tid
+   Lasix 40mg with mild effect
+P: oob to chair
+   to have a social and nutrition consult today, the son would like to    be present during these.
+   please do not move pt on tuesday, [**Doctor First Name 6447**] will be going to [**Country 6448**]       and other son will be en route to [**Hospital1 10**].
+   ? starting hep or coumadin for transient afib 
+",,
+14750,13109,18326,0,3331-05-28 16:26:00 EST,3331-05-28 16:38:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV-TRANSFER","
+CCU NSG NOTE: ALT IN CV-TRANSFER
+S: ""Ayudame, donde estoy""?
+O: For complete VS see CCU flow sheet.
+ID: PT afebrile today. She conts on abx with slowly decreasing WBC at 11.2 today.
+CV: HR initally 70-80s but by 2pm up to high 90s, low 100s NSR/ST. She received 50mg lopressor at 4pm, but HR remains elevated. BP initall 110-130, but by the afternoon BP up to 150s/60s. First dose of 25mg captopril given at 2pm with no decrease in BP. She received lasix 40mg IV at 5:30. REpeat echo showed no effusion.
+RESP: Wheezes more audible this afternoon. She has maintained sat at 95-97% on RA.
+GI: Pt did not eat breakfast, but has fed herself since then. She was incontinent of stool each time she was transfered from bed to chair or back. Stool is G-. She has prolapsed rectum and will ooze stool.
+RENAL: Pt drain yellow urine. She was 370cc neg for the day prior to receiving lasix.
+ACTIVITY/MS: Pt OOB to Chair X3 today with maximum assist. She was seen by PT today and was very unsafe with the walker, and has very poor activity tolerance. She is oriented X [**12-8**]. She speaks  primarily Spanish and has very poor short term memory. 
+SOCIAL: Pt was living alone prior to this admission. She has 2 sons, one of whom lives very close and is very involved in her care. The plan is for her to go to rehab in hopes of improving to the point where she will be safe at home. FAmily helps with care and translation. 
+A: Elevated HR and BP/lasix at 5:30
+P: Keep careful I & O. Monitor BP and respiratory status closely. Sukpport pt and family 
+",,

@@ -1,0 +1,272 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14515,20212,,,3158-08-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3158-8-30**]     Discharge Date:  [**3158-9-2**]
+
+Date of Birth:   [**3086-4-26**]     Sex:  M
+
+
+CHIEF COMPLAINT:   Sepsis and renal failure.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 72-year-old
+gentleman with an extensive past medical history including
+complicated by persistent respiratory failure (on chronic
+tracheostomy), hypertension, restrictive lung disease,
+cardiomyopathy, and cirrhosis who presented with worsening
+respiratory status and episodes of hypotension.
+
+The patient lives at [**Hospital3 2765**] Hospital; where, over a
+few days prior to admission, he was noted to have
+and sputum samples obtained grew stenotrophomonas multiphelia
+ resistant to all antibiotics besides Bactrim.
+
+On the day of admission, the patient developed persistent
+hypotension and worsening respiratory failure for which he
+was transferred to [**Hospital1 10**].
+
+While in the Emergency Department, the patient was noted to
+have an audible wheeze around his tracheostomy.
+Anesthesiology was called and removed his tracheostomy and
+placed an endotracheal tube to which the patient was
+ventilated.
+
+While in the Emergency Department, the patient received
+500 mg of Levaquin, hydrocortisone 100 mg intravenously, 3
+liters of normal saline and for his blood pressure and
+hypotension was started on Neo-Synephrine.
+
+PAST MEDICAL HISTORY:
+ 1.  Pancreatic cancer with a Whipple procedure three years
+ago, XRT and chemotherapy.  Recent CA19-9 was over 4000.
+ 2.  History of restrictive lung disease with bilateral
+fibrothoraxes and a history of bilateral pleural effusions.
+ 3.  Hypotension.
+ 4.  Diastolic dysfunction with a history of congestive heart
+failure and left ventricular ejection fraction on an
+echocardiogram.
+ 5.  History of pneumothoraces.
+ 6.  History of cirrhosis with hepatitis serologies being
+negative.
+ 7.  History of gastrointestinal bleed.
+ 8.  Chronic deep venous thrombosis.
+ 9.  History of coronary artery disease.
+10.  History of diabetes.
+11.  History of Addison's disease.
+
+MEDICATIONS ON ADMISSION:  Lovenox 60 b.i.d.,
+Solu-Medrol 10 mg intravenously b.i.d., gentamicin
+intravenously, Bactrim intravenously, Protonix 40 mg
+intravenously q.d., vitamin K, Lopressor 7.5 mg intravenously
+q.6h., Duragesic patch 15 mcg q.72h., Lasix 20 mg
+intravenously b.i.d.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient is widowed with three children;
+all living nearby.  His daughter ([**Name (NI) **]) is his health care
+proxy.
+
+FAMILY HISTORY:   Family history was noncontributory.
+
+PHYSICAL EXAMINATION ON PRESENTATION:   Physical examination
+on admission revealed temperature was 97.6, pulse was 98,
+blood pressure was 122/83 (on maximum dose of Neo-Synephrine
+at 2.45 mg/kg per minute), respiratory rate was 18, oxygen
+saturation was 99% on 40% FIO2.  The patient was ventilated
+at AC 500 X 16, positive end-expiratory pressure of 5, and
+FIO2 of 40%.  Generally, he was an elderly, cachectic,
+jaundiced male responsive to painful stimuli only.  Head,
+eyes, ears, nose, and throat revealed extraocular movements
+were intact.  Pupils were post surgical but reactive.   There
+was significant jaundice.  Lung were rhonchorous throughout
+with decreased breath sounds at the bases.  The heart was
+regular in rate and rhythm with a fourth heart sound gallop.
+Abdomen was soft with multiple scars.  Jejunostomy and
+gastrojejunostomy tubes were in place.  There were staples on
+one of the abdominal scars.  Extremities showed no cyanosis,
+clubbing or edema.  He had good distal pulses and was warm to
+touch.  There was palmar erythema.
+
+PERTINENT LABORATORY DATA ON PRESENTATION:  Laboratory
+findings on admission revealed white blood cell count
+was 17.5 (with a differential of 95 neutrophils, 1 band,
+2 lymphocytes, 2 monocytes), hematocrit was 30 (which is
+stable from his baseline), platelet count was 223.
+Chemistry-7 showed sodium was 132, potassium was 4.5,
+chloride was 109, bicarbonate was 17, blood urea nitrogen
+was 128, creatinine was 2.2, blood glucose was 306.  His
+lactate was 1.5.  Iron gap was 11.  Free calcium was 3.24.
+PT and INR were 12.3 and 1.1; respectively.  PTT was 48.3.
+His initial arterial blood gas obtained in the Emergency
+Department showed pH was 6.96, PCO2 was 96, and PO2 was 379
+on 100% oxygen.  A repeat arterial blood gas after placement
+of endotracheal tube showed a pH of 7.04, PCO2 of 69, and PO2
+of 372.  Four blood cultures were pending.  Culture data from
+[**Hospital3 2765**] Hospital showed non albicans yeast in the
+sputum culture in addition to stenotrophomonas multiphelia
+sensitive only to Bactrim.
+
+RADIOLOGY/IMAGING:   A chest x-ray showed bilateral pleural
+effusions.  Endotracheal tube in good position.
+
+Electrocardiogram on admission showed a sinus rhythm at 103,
+right bundle-branch block, left axis deviation, 2-mm ST
+depressions in V2 and V3 more pronounced from prior film, but
+could represent ischemia or repolarization changes.
+
+HOSPITAL COURSE:   In summary, the patient is a 72-year-old
+gentleman with restrictive lung disease, diastolic
+dysfunction, cirrhosis, Addison's disease, and diabetes
+mellitus who presented with renal failure and sepsis.  During
+this hospitalization, the patient's issues included:
+
+SEPSIS:  The patient's hypotension was attributed to sepsis.
+In case it could represent adrenal insufficiency he was
+maintained on high-dose steroids.  The patient received
+Zosyn, vancomycin, and ciprofloxacin for coverage of
+methicillin-resistant Staphylococcus aureus and possible
+Pseudomonas as the causes of his sepsis.
+
+His blood cultures grew gram-negative rods not further
+identified at the time of his death that were resistant to
+everything except imipenem.
+
+The patient's renal failure was attributed to acute tubular
+necrosis due to hypotension vs Gentamycin.  All throughout
+his hospitalization, he remained anuric.
+
+On the second hospital day, it was noted that his bilirubin
+as well as liver function laboratories, were rapidly
+increasing.  His gastrojejunostomy tube was draining greenish
+fecal-appearing material which was judged to be from
+necrotic stomach.  He remained persistently acidotic with a
+metabolic acidosis, increasing lactate levels, and renal
+failure.  His initial acute respiratory acidosis improved
+with appropriate ventilation through endotracheal tube.
+
+On the third hospital day, the patient was noted to have
+midline dilated nonreactive pupils with evidence of
+progressive multiorgan failure.
+
+A family discussion was undertaken, and the decision to
+withdraw care was made.  The patient's ventilatory support
+and pressors were discontinued, and the patient passed away
+on [**3158-9-2**] at 10:48 a.m.
+
+CONDITION AT DISCHARGE:  Condition on discharge was deceased.
+
+DISCHARGE DIAGNOSES:
+1.  Acute renal failure.
+2.  Sepsis.
+3.  Acute liver failure.
+4.  Pancreatic cancer; recurrent.
+5.  Respiratory failure.
+
+
+
+
+                         DR.[**Last Name (STitle) 826**],[**First Name3 (LF) 15**] 12-948
+
+Dictated By:[**Last Name (NamePattern1) 7527**]
+
+MEDQUIST36
+
+D:  [**3158-9-2**]  12:23
+T:  [**3158-9-9**]  12:05
+JOB#:  [**Job Number 10776**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) 826**]
+ on: TUE [**3158-10-21**] 7:17 PM
+(End of Report)
+
+
+",,
+14515,20212,18040,0,3158-08-31 04:30:00 EST,3158-08-31 04:38:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient was received from ew intubated orally with 7.5 et secured at 21 cm mark. Bilateral breath sounds are clear, equal. Pt. has open trach stoma covered with valseline and tape, occasional air leak heard through it. Ventilated on a/c 600 x 14 50%. ABGS with severe acidosis,acceptable oxygenation. Suctioned for scant amount clear sputum. Airway pressures are high with pip 45, plat. 32-35/autopeep 0.
+",,
+14515,20212,18040,0,3158-08-31 05:36:00 EST,3158-08-31 05:37:00 EST,252,"N",69,"Nursing/Other",,"
+
+PLEASE SEE FHPA AND FLOW SHEET FOR DETAILS ON PMHX, HPI, AND ASSESSMENT.  
+",,
+14515,20212,18040,0,3158-08-31 16:56:00 EST,3158-08-31 17:10:00 EST,667,"N",69,"Nursing/Other","MICU NSG PROG NOTE: AM","
+MICU NSG PROG NOTE: AM
+Remains intubated and ventilated on pressors and abx for gram neg sepsis. Pt DNR but full management. REnal failure. 
+
+ROS:
+
+HEMODYNAMICS: Neo, Levofed, Vasopressin w/ aggressive fluid resusitation (approx 6L today NS) to keep map >60. He does well w/ cvp 18. HR 90's-100 w/ adequate volume status. 
+
+RESP: perisitent metabolic acidosis w/ ph 7.18. Attempting to manage acidosis w/ increased ventilation but created elevated plateau pressures. No secretions. CXR done.
+
+GI: PEG and PEJ to gravity drainage. No BS appreciated. Will discuss nutrition tomorrow.
+
+ENDO; glu 56-> amp d50. following q 4-6hr glu.
+
+NEURO: Initially was responsive to voice, but received ativan for sedation to facilitate ventilation. Unresponsive to voice now, opens eyes spont, does not make attempts to communicate. No plans for imaging.
+
+RENAL: Renal failure. Extreme oliguria. Urine lytes sent. 
+
+SKIN: managing yeast infections w/ nystatin powder.
+
+LINES: 3-L (2 ports functioning ) L SC, L groin line w/ 3 functional ports. Will discuss line changes tomorrow. (Have a quad-lumen catheter in room for new line....try to save line for TPN).
+
+SOCIAL: family and clergy in to see patient. Pt made DNR by family today but will continue management in efforts to stablize.
+
+ASSESS: Hemodynamic instability r/t septicemia. Metabilic acidosis r/t sepsis. Volume depletion.
+
+PLAN: PM labs, keep CVP 18 w/ NS boluses
+
+",,
+14515,20212,18040,0,3158-09-01 05:26:00 EST,3158-09-01 05:33:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT IS HANGING IN THERE, BUT BARELY.  CURRENT VENT SETTINGS:  A/C 24X450X50%, TOTAL RR UP TO 28/MIN, NO AIR LEAK NOTED TONIGHT.  LATEST ABG:  95/33/7.06/10/-20.  VERY LITTLE SECRETIONS.  IS NOW MAXED OUT ON LEVO/VASOPRESSIN, BUT THERE IS STILL SOME ROOM TO GO ON THE NEO (IS AT ~ 75 MCG'S/MIN.)  MAPS ABOVE 60 W/ GRADUAL INCREASE IN LEVO TO MAX.  ALSO, HAS BECOME VERY TACHYCARDIC TO 130'S (HE HAS NOT TOL INCREASED HR'S IN THE PAST BUT WE CANNOT GIVE BETA/CALCIUM CHANNEL BLOCKERS W/ HIS CURRENT SBP.)  NS BEING RUN AT 500 CC'S/HR AND HE HAS NOT TOL SHORT DELAY IN HANGING NEW BAG (DROPPED SBP TO 70'S X 1.)  UO IS ZERO.  HE IS UNRESPONSIVE ON ONLY FENTYNL PATCH AT 50 MCG'S.  HO WISHES TO BE NOTIFIED OF DRASTIC CHANGE SO THAT HE CAN NOTIFY FAMILY.   
+",,
+14515,20212,18040,0,3158-09-01 15:59:00 EST,3158-09-01 16:03:00 EST,547,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on settings AC 450x 24x 50% peep 5. Pt breathing above set vent rate by 2-4 breaths, occas. out of phase and pressure limiting vent. No vent changes made this shift. Pt with significant metabolic acidosis. Sxn for blood tinged secretions. Cont current support.
+",,
+14515,20212,18040,0,3158-09-01 16:35:00 EST,3158-09-01 17:12:00 EST,-1,"N",69,"Nursing/Other","NPN 7:00am-19:00 MICU/SICU","
+NPN 7:00am-19:00 MICU/SICU
+NEURO: Pt continues to remain the same, ""hanging in there."" Grimace response to nail bed pressure. 
+Pain/Sedation: Placed on Fentanyl drip @50mcg/hr for ? pain and comfort
+CV: HR: 130's, BP: 92-68/54-49, MAP 60, occ. dips to systolic of mid70's. Pt received 1000cc NS bolus, w/little effect on HR. Continues on Levophed, Neo, and Vasopressin, all are presently at max dose->w/ minimal change in BP.
+RESP: Continues on AC 24x450x50, peep at 5.0. RR 24, pt occ. attempting to initiate breaths, becoming discoordinate w/vent->occurring less after fentanyl drip started.  O2sat's~mid 90's. ABG at 14:00, 110/33/6.95; Pt. started on Bicarb gtt at 200cc/hr.
+GU/GI: no u/o as of 11am, GI: PEJ site drng greenish/brown discharge~sent cx, dsg changed x2, surgery in this evening to assess site. PEG to gravity, minimal drng. OG tube placed to low wall suction w/scant output.
+ 
+Access Lines: L subclavian dc'd~tips of line sent to be cx. R A-L WNL; L Femoral TLC WNL. 
+Plan: Continue on same plan of care; monitor overnight.  Remains DNR. Reassess  w/ family in the am regarding possible w/d. 
+
+",,
+14515,,18040,0,3158-09-02 04:56:00 EST,3158-09-02 05:22:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NPN HD #4","
+MICU/SICU NPN HD #4
+S/O:
+
+Neuro: unresponsive to all stimuli, fentanl increased to 65mcg/hr to facilitate mecahnical ventilation
+
+Resp: remains intubated on AC 24x450x0.50 +5, last ABG 6.90/71/37/8/-27, LS grossly coarse, diffuse rhonchi on upper lobes, very diminished in lower fields, suctioned q2-3h for scant amts thick tan to rust colored sputum
+
+CV: continues on max doses of Levophed, Neo & Pitressin and maintaining MAP ~60, with SBP's 70's to 80's
+
+Skin: GT site oozing thick brown/dark rust colored drainage, this was evaluated by surgery and no intervention reccomended at this time, JT site intact
+
+GI/GU: abd soft, NT/ND, BS hypoactive, OGT to LIWS draining tan OB pos fluid, Foley draining scant amts dark brown urine, <10cc for last 10h.
+
+Lines: right radial art line, left femoral TLCL
+
+ID: afebrile, continues on abx, steroids
+
+Soc: family member at bedside overnight, pt is DNR, family meeting today to discuss plan
+
+A:
+
+altered breathing r/t increased respiratory secretions, metabolic acidosis
+high risk for infection r/t invasive lines
+altered nutrition, LBR r/t poor caloric intake > 5 days 
+
+P:
+
+continue to monitor, continue abx as ordered, family meeting as planned
+",,

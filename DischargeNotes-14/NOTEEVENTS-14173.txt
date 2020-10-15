@@ -1,0 +1,1270 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14173,22553,,,2936-12-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2936-12-12**]              Discharge Date:   [**2936-12-20**]
+ 
+Date of Birth:  [**2843-9-4**]             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Penicillins / Erythromycin Base
+ 
+Attending:[**First Name3 (LF) 2662**] 
+Chief Complaint:
+Transfer for junctional bradycardia, history of Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+ 
+History of Present Illness:
+[**Age over 90 **] year old female with h/o CAD, PAF who was in her USOH until 2 
+weeks PTA when she experienced an episode of chest pain, for 
+which she presented to [**Hospital 10248**] Hospital and was noted to be in 
+AF. She was started on amiodarone/digoxin and d/ced home.  She 
+was doing well at home until [**2936-12-11**] (2 days ago) when she 
+re-presented to [**Hospital3 **] following an episode of chest 
+pain. She reports that she awoke at 6 a.m. with dull/heavy 
+central chest pain, non-radiating, associated with coughing/mild 
+shortness of breath and LH. No associated N/V, diaphoresis. She 
+took one SLNTG with some improvement. EMS gave her an ASA and 
+another SLNTG. In the [**First Name4 (NamePattern1) 493**] [**Last Name (NamePattern1) **], she received 1 inch of NTP with 
+complete resolution of symptoms. EKG showed nonspecific STTW 
+abnormalities and she was admitted for further management. 
+Cardiac enzymes were cycled with max TnI 0.5 (upper limit of 
+normal 0.4). Given INR was 3, she was not started on heparin 
+gtt. Today, HCT 25.9 (from 28) and she was transfused 1uPRBC. On 
+[**12-12**], she became LH and mildly nauseas, no chest pain/pressure, 
+she was noted to be in a junctional rhythm, HR 45, bp 114/68 and 
+she was transferred to [**Hospital1 19**] for further management.  Her 
+amiodarone, digoxin, cardizem were held upon transfer and on 
+presentation to ED she had reverted back to NSR with HR in the 
+60's.  She was CP free on arrival with resolution of her 
+symptoms of LH, nausea. 
+Of note, she reports that besides the similar episode of chest 
+pain 2 weeks ago, She reports that she has had intermittent 
+chest pain for the last 2-3 months, occurring 3-5 times a week 
+when walking [**1-22**] block, or walking around her house.  These 
+episodes of chest pain are relieved with rest. She denies LE 
+edema or PND. She sleeps on 2 pillows a night, due to back 
+discomfort rather than true orthopnea.
+.
+Currently, she denies chest pain, nausea/vomiting, 
+lightheadedness, diaphoresis.
+.
+ROS: No fever, headache, rhinorrhea, sore throat, cough, sputum 
+production, hemoptysis, abdominal pain, diarrhea/constipation 
+(last BM yesterday). No BRBPR, although she notes that her stool 
+has been dark since starting iron. (+) occasional chills and 
+decreased appetite since being started on amiodarone and dig.
+
+ 
+Past Medical History:
+1) CAD
+- [**12/2931**] cath: ulcerated, irreg 80% stenosis mid-LCx (stented), 
+mid LAD 70-80%, mid Lcx 80, OM2 20%
+- TTE [**2936-11-29**]: concentric LVH, LVEF 60%, 2+TR, 2+ AI
+2) Paroxysma atrial fibrillation
+3) CRI: baseline Cr 1.8
+4) h/o ischemic bowel 2000
+5) Gout
+6) HTN
+7) TIA
+8) Type II DM
+9) OA
+10) Diverticulosis
+11) iron deficiency anemia
+12) s/p cholecystectomy
+[**44**]) s/p hysterctomy
+14) h/o ectopic pregnancy
+
+ 
+Social History:
+Does not drink alcohol or smoke cigarettes. Ambulates with a 
+walker. 
+ 
+Family History:
+Mother died at age 80 yrs of MI. Father died at age 85 yrs from 
+CVA
+
+ 
+Physical Exam:
+PE: Tc 97.4, pc 60, bpc 136/39, resp 18, 96% 2L NC 
+Gen: elderly, pleasant female, A&OX3, NAD
+HEENT: anicteric, nl conjunctiva, OMMM, OP clear, neck supple, 
+no LAD, no carotid bruits. 
+Cardiac: RRR, +S1,S2, II/VI diastolic murmur at RUSB
+Pulm: Crackles at bases b/l.
+Abd: obese, soft, NT/ND.
+Ext: No edema, 1+ groin pulses bilaterally with bruit on left, 
+2+ DP left, 1+ DP right, 2+ radial bilaterally. No cyanosis.
+Neuro: grossly nonfocal
+
+ 
+Pertinent Results:
+[**2936-12-12**] 11:14PM BLOOD WBC-11.3* RBC-3.16* Hgb-10.2* Hct-29.2* 
+MCV-92# MCH-32.4*# MCHC-35.0# RDW-18.7* Plt Ct-230
+[**2936-12-12**] 11:14PM BLOOD PT-12.5 PTT-25.5 INR(PT)-1.0
+[**2936-12-12**] 11:14PM BLOOD Glucose-124* UreaN-21* Creat-1.2* Na-135 
+K-4.6 Cl-101 HCO3-26 AnGap-13
+[**2936-12-12**] 11:14PM BLOOD ALT-40 AST-28 LD(LDH)-163 CK(CPK)-20* 
+AlkPhos-85 TotBili-0.9
+[**2936-12-13**] 06:15AM BLOOD CK(CPK)-48
+[**2936-12-13**] 04:45PM BLOOD CK(CPK)-57
+[**2936-12-12**] 11:14PM BLOOD CK-MB-2 cTropnT-0.03*
+[**2936-12-13**] 06:15AM BLOOD CK-MB-NotDone cTropnT-0.07*
+[**2936-12-13**] 04:45PM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2936-12-12**] 11:14PM BLOOD Albumin-2.6* Calcium-8.2* Phos-3.4 
+Mg-1.5*
+[**2936-12-13**] 06:15AM BLOOD Mg-2.4 Iron-22* Cholest-99
+[**2936-12-13**] 06:15AM BLOOD calTIBC-321 VitB12-319 Folate-GREATER TH 
+Ferritn-40 TRF-247
+[**2936-12-13**] 06:15AM BLOOD Triglyc-82 HDL-39 CHOL/HD-2.5 LDLcalc-44
+[**2936-12-12**] 11:14PM BLOOD TSH-0.91
+[**2936-12-13**] 02:52AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.020
+[**2936-12-13**] 02:52AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM 
+[**2936-12-13**] 02:52AM URINE RBC-0 WBC-5 Bacteri-NONE Yeast-NONE Epi-3
+[**2936-12-19**] 09:35PM URINE Hours-RANDOM Creat-117 Na-LESS THAN  K-68 
+Cl-LESS THAN  TotProt-49 Prot/Cr-0.4*
+Urine and blood cultures negative
+---
+
+ 
+Brief Hospital Course:
+Pt was admitted to [**Hospital1 19**] after developing junctional rhythm at 
+OSH. By the time she got here, she was in NSR.  The first part 
+of her hospitalization involved close blood pressure control, 
+management of her mild CHF, evaluation of her anemia, evaluation 
+for an elevated WBC count(resolved), and evaluation/treatment of 
+her intermittment chest pain.  As the pain was felt to be a 
+direct result of coronary disease, the patient was taken to 
+cardiac catheterization.  She had three vessel disease. A stent 
+was placed in the left circumflex artery and soon afterwards, 
+she became less responsive, hemiparetic, and aphasic.  She was 
+evaluated by the acute stroke team immediately and felt to have 
+an embolic occlusion of the left MCA.
+A CT scan showed no evidence of bleeding.  A extensive 
+discussion was held among the stroke team, interventional 
+radiology, cardiology, and her sister and brother (available by 
+phone).  The family wanted to proceed with thrombolysis.  Both 
+IV and IA approaches were discussed.  However, since the patient 
+had received a direct thrombin inhibitor during the 
+catheterization, it was felt that IV t-[**MD Number 10249**] pose a high risk 
+of bleeding.  The risks and benefits of IA t-PA were extensively 
+discussed with the family and they wanted to proceed with IA-tPA 
+and gave consent.  Angiography revealed an M1 occlusion which 
+did not open after t-PA was delivered to the thrombus.  She 
+tolerated the procedure well and had no complications from the 
+procedure. Repeat CT scan showed the question of a small amount 
+of petechial bleeding versus contrast.  After transfer to the 
+ICU, she had to be intubated for respiratory distress and 
+continued to do poorly.  An EEG ruled out seizure.  She did not 
+wake up despite being off all sedating medications.  Her vital 
+signs remained fairly stable, but she was not overbreathing the 
+ventilator. A repeat CT scan showed that she had infarcted the 
+entire distribution of the MCA.  She continued to be 
+unresponsive and a family meeting was held.  They decided to 
+consider making her CMO as her outlook was very poor.  On the 
+next day, she had pupillary asymmetry and a repeat scan showed 
+increased edema with significant midline shift and herniation.  
+At this time, her family decided to make her CMO. SHe was 
+extubated and expired several hours later. 
+ 
+Medications on Admission:
+1) Glyburide 5 mg PO BID
+2) Iron 325 mg PO daily
+3) Nitropaste 1 inch to chest wall prn
+4) Lantus (?dose)
+5) Metoprolol 12.5 mg PO BID
+6) Colace 100 mg PO daily
+7) Imdur 30 mg PO daily
+8) Cardizem 180 mg PO daily
+9) Digoxin 0.125 mg PO daily (decreased from 0.25 mg PO daily)
+10) Lipitor 20 mg PO daily
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+CAD
+s/p large left MCA stroke
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+-
+ 
+Followup Instructions:
+-
+ 
+                             [**First Name11 (Name Pattern1) 999**] [**Last Name (NamePattern4) 2663**] MD [**MD Number 2664**]
+ 
+Completed by: [**First Name8 (NamePattern2) 937**] [**Last Name (NamePattern1) **] [**Last Name (NamePattern1) 938**] MD [**MD Number 939**] [**2936-12-23**] @ 1301
+Signed electronically by: DR. [**First Name8 (NamePattern2) 999**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**2937-1-3**] 9:26 PM
+(End of Report)
+
+
+",,
+14173,22553,,,2936-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-12**] 11:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7016**]
+     Reason: Please evaluate for infiltrate, effusion, pulmonary edema   
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with chest pain, oxygen requirement, and crackles on exam.    
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrate, effusion, pulmonary edema                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  Chest pain.
+     
+     A single AP upright view is interpreted without the prior films available for
+     comparison.  The heart size is enlarged.  There is blunting of the right
+     costophrenic sulcus.  The left costophrenic sulcus is not included on the
+     film.  The lungs are clear except for linear atelectasis in left lung base.
+     A tag overlies the right hemithorax.
+     
+     IMPRESSION:  Cardiomegaly, without evidence of CHF.
+
+             DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 12:41 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7017**]
+     Reason: ? IC bleed Vs embolic stroke                                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman had PCI with Heparin and Bivalirudin  cover. Became 
+      unresponsive, drowsy, facial droop, and right sided weakness during procedure. 
+     REASON FOR THIS EXAMINATION:
+      ? IC bleed Vs embolic stroke                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with new right-sided weakness status post
+     cardiac catheterization.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is no intra- or extra-axial hemorrhage.  There is no mass
+     effect, hydrocephalus, or shift of the normally midline structures.  The
+     ventricles, cisterns, and sulci are unremarkable, without effacement.  The
+     [**Doctor Last Name 63**]-white matter differentiation appears preserved.  Bilaterally in the
+     cerebral hemispheres, there are regions of hypodensity in the white matter
+     consistent with prior small vessel ischemic infarcts, including a more well-
+     defined round focus in the left parietal lobe of 5 mm in diameter.  A region
+     of encephalomalacia in the left middle cerebral artery distribution, which
+     extends to the cortex, is probably related to prior infarction.  Other than
+     some thickening in the nasal mucosa, the surrounding osseous structures, soft
+     tissues and paranasal sinuses are unremarkable.
+     
+     IMPRESSION:
+     1.  No evidence of acute infarction or intracranial hemorrhage.  However, for
+     acute ischemia, an MR would be more sensitive for evaluation.
+     2.  Findings suggestive of chronic small vessel ischemic infarcts, as well as
+     a region of encephalomalacia in the left middle cerebral artery territory.
+     
+     
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 6:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7022**]
+     Reason: s/p intubation - check ETT and OG tube                      
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with chest pain, oxygen requirement, and crackles on exam.   
+       
+     REASON FOR THIS EXAMINATION:
+      s/p intubation - check ETT and OG tube                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     
+     INDICATION:  History of chest pain, now status post intubation and orogastric
+     tube placement.
+     
+     COMPARISON:  [**2936-12-12**].
+     
+     FINDINGS:  AP portable supine view of the chest.  The endotracheal tube
+     terminates in the right main stem bronchus.  There is no orogastric tube
+     visualized.  Accounting for patient rotation, cardiac and mediastinal contours
+     are unchanged.  There is no pulmonary edema.  There is blunting of the left
+     costophrenic angle, consistent with an effusion.
+     
+     IMPRESSION:
+     1.  Endotracheal tube malposition with tip in the right main stem bronchus.
+     2.  Left pleural effusion.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 7021**] at 7:20 p.m. on [**2936-12-18**].
+                                                                           DFDkq
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 4:30 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 7019**]
+     Reason: hemorrhage?                                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman w/ L MCA infarct now s/p arterial t-PA with chanhe in mental 
+      status
+     REASON FOR THIS EXAMINATION:
+      hemorrhage?                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATIONS:  [**Age over 90 **]-year-old woman status post left middle cerebral artery
+     infarct, now status post arterial thrombolytic therapy with a change in mental
+     status.
+     
+     COMPARISONS:  CT from earlier on the same day.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  Presumably because of recent cerebral angiogram, there has been
+     considerable persistent contrast enhancement of the intracranial vessels.
+     There is no significant mass effect, hydrocephalus or shift of the midline
+     structures.
+     
+     Much of the left middle cerebral artery territory now shows indistinctness of
+     the [**Doctor Last Name 63**]-white matter differentiation, particularly posterior to the insular
+     cortex, consistent with infarction and/or edema. Outside the left middle
+     cerebral artery territory, the [**Doctor Last Name 63**]-white differentation is preserved.
+     
+     There is new hyperdensity in the basal ganglia, as well as along the left
+     frontal cortex within the sulci. In the setting of recent contrast
+     administration, this appearance could represent petechial hemorrhage within
+     the region of infarction or persistent contrast enhancement. However, there is
+     no organized hematoma. Otherwise there has been no significant interval
+     change.
+     
+     IMPRESSION:
+     1. Evidence of ongoing acute infarction in the left middle cerebral artery
+     territory.
+     2. New hyperdensities along the cortex and within the basal ganglia, in the
+     region of acute infarction, which represent either persistent contrast
+     enhancement or hemorrhage.
+     
+     Initial findings were discussed with Dr. [**First Name8 (NamePattern2) 3402**] [**Last Name (NamePattern1) 7020**] from neurology at
+     5:20 p.m. on the same day, and revised findings with Dr. [**Last Name (STitle) 7021**] on the
+     following morning.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 4:30 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 7019**]
+     Reason: hemorrhage?                                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 4:30 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 7019**]
+     Reason: hemorrhage?                                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman w/ L MCA infarct now s/p arterial t-PA with chanhe in mental 
+      status
+     REASON FOR THIS EXAMINATION:
+      hemorrhage?                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATIONS:  [**Age over 90 **]-year-old woman status post left middle cerebral artery
+     infarct, now status post arterial thrombolytic therapy with a change in mental
+     status.
+     
+     COMPARISONS:  CT from earlier on the same day.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  Presumably because of recent cerebral angiogram, there has been
+     considerable persistent contrast enhancement of the intracranial vessels.
+     There is no significant mass effect, hydrocephalus or shift of the midline
+     structures.
+     
+     Much of the left middle cerebral artery territory now shows indistinctness of
+     the [**Doctor Last Name 63**]-white matter differentiation, particularly posterior to the insular
+     cortex, consistent with infarction and/or edema. Outside the left middle
+     cerebral artery territory, the [**Doctor Last Name 63**]-white differentation is preserved.
+     
+     There is new hyperdensity in the basal ganglia, as well as along the left
+     frontal cortex within the sulci. In the setting of recent contrast
+     administration, this appearance could represent petechial hemorrhage within
+     the region of infarction or persistent contrast enhancement. However, there is
+     no organized hematoma. Otherwise there has been no significant interval
+     change.
+     
+     IMPRESSION:
+     1. Evidence of ongoing acute infarction in the left middle cerebral artery
+     territory.
+     2. New hyperdensities along the cortex and within the basal ganglia, in the
+     region of acute infarction, which represent either persistent contrast
+     enhancement or hemorrhage.
+     
+     Initial findings were discussed with Dr. [**First Name8 (NamePattern2) 3402**] [**Last Name (NamePattern1) 7020**] from neurology at
+     5:20 p.m. on the same day, and revised findings with Dr. [**Last Name (STitle) 7021**] on the
+     following morning.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 4:30 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 7019**]
+     Reason: hemorrhage?                                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36218 ADD'L 2ND/3RD ORDER           *
+     * 75896  TRANS CATH INFUSSION          75898 F/U TRANS CATH THERAPY        *
+     * 75665 CAROTID/CEREBRAL UNILAT        -59 DISTINCT PROCEDURAL SERVICE     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA after cardiac cath.                            
+     REASON FOR THIS EXAMINATION:
+      Assess MCA blockage, lyse or disrupt if possible                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     Patient presented with acute stroke s/p cardiac catheterization. Suspicion of
+     occlusion of the left middle cerebral artery.
+     
+     The patient is here for intra-arterial thrombolysis. 
+     
+     Informed consent was obtained from the family and after explaining the risks
+     indications and alternative management.  
+     
+     The family proceeded with intra-arterial thrombolysis.
+     
+     Neurology was involved in this procedure and they recommended intra-arterial
+     thrombolysis.  
+     
+     TECHNIQUE:
+     
+     The patient was brought to the Neurointerventional Suite and placed on the
+     table in supine position.  Access to the right common femoral artery was
+     obtained via 19 gauge needle under aseptic precautions under local anesthesia.
+     
+     Anesthesia team  was present in the room during the procedure.
+     
+     A 6-French catheter system was administered.  MPD catheter was introduced and
+     the left common carotid artery was selectively catheterized.  An arteriogram
+     was performed which demonstrated total occlusion of the left middle cerebral
+     artery branch at M1 segment.  Based on the diagnostic findings, it was decided
+     that the patient would benefit from and was a good candidate for thrombolysis.
+     
+     At this point a microcatheter was begun.  A microcatheter using a microwire
+     was introduced into the left middle cerebral artery branches.  Intra-arterial
+     TP was administered.  Please refer to the nursing notes for accurate dosage.
+     This dose was administered over a period of 30 minutes.  There was minimal
+     improvement in the flow noted in the left middle cerebral artery branches.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Successful intra-arterial thrombolysis involving the thrombolysis with the
+     catheter placement in the M1 and M2 segments of the left middle cerebral
+     artery branches.  
+     
+     Post-procedure angiogram demonstrates minimal increased flow in the left
+     middle cerebral artery branches.  
+     
+     The previous report was lost during the transcription.  This is a redictation.
+     
+     
+     
+     
+     
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36218 ADD'L 2ND/3RD ORDER           *
+     * 75896  TRANS CATH INFUSSION          75898 F/U TRANS CATH THERAPY        *
+     * 75665 CAROTID/CEREBRAL UNILAT        -59 DISTINCT PROCEDURAL SERVICE     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA after cardiac cath.                            
+     REASON FOR THIS EXAMINATION:
+      Assess MCA blockage, lyse or disrupt if possible                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     Patient presented with acute stroke s/p cardiac catheterization. Suspicion of
+     occlusion of the left middle cerebral artery.
+     
+     The patient is here for intra-arterial thrombolysis. 
+     
+     Informed consent was obtained from the family and after explaining the risks
+     indications and alternative management.  
+     
+     The family proceeded with intra-arterial thrombolysis.
+     
+     Neurology was involved in this procedure and they recommended intra-arterial
+     thrombolysis.  
+     
+     TECHNIQUE:
+     
+     The patient was brought to the Neurointerventional Suite and placed on the
+     table in supine position.  Access to the right common femoral artery was
+     obtained via 19 gauge needle under aseptic precautions under local anesthesia.
+     
+     Anesthesia team  was present in the room during the procedure.
+     
+     A 6-French catheter system was administered.  MPD catheter was introduced and
+     the left common carotid artery was selectively catheterized.  An arteriogram
+     was performed which demonstrated total occlusion of the left middle cerebral
+     artery branch at M1 segment.  Based on the diagnostic findings, it was decided
+     that the patient would benefit from and was a good candidate for thrombolysis.
+     
+     At this point a microcatheter was begun.  A microcatheter using a microwire
+     was introduced into the left middle cerebral artery branches.  Intra-arterial
+     TP was administered.  Please refer to the nursing notes for accurate dosage.
+     This dose was administered over a period of 30 minutes.  There was minimal
+     improvement in the flow noted in the left middle cerebral artery branches.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Successful intra-arterial thrombolysis involving the thrombolysis with the
+     catheter placement in the M1 and M2 segments of the left middle cerebral
+     artery branches.  
+     
+     Post-procedure angiogram demonstrates minimal increased flow in the left
+     middle cerebral artery branches.  
+     
+     The previous report was lost during the transcription.  This is a redictation.
+     
+     
+     
+     
+     
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36218 ADD'L 2ND/3RD ORDER           *
+     * 75896  TRANS CATH INFUSSION          75898 F/U TRANS CATH THERAPY        *
+     * 75665 CAROTID/CEREBRAL UNILAT        -59 DISTINCT PROCEDURAL SERVICE     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA after cardiac cath.                            
+     REASON FOR THIS EXAMINATION:
+      Assess MCA blockage, lyse or disrupt if possible                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     Patient presented with acute stroke s/p cardiac catheterization. Suspicion of
+     occlusion of the left middle cerebral artery.
+     
+     The patient is here for intra-arterial thrombolysis. 
+     
+     Informed consent was obtained from the family and after explaining the risks
+     indications and alternative management.  
+     
+     The family proceeded with intra-arterial thrombolysis.
+     
+     Neurology was involved in this procedure and they recommended intra-arterial
+     thrombolysis.  
+     
+     TECHNIQUE:
+     
+     The patient was brought to the Neurointerventional Suite and placed on the
+     table in supine position.  Access to the right common femoral artery was
+     obtained via 19 gauge needle under aseptic precautions under local anesthesia.
+     
+     Anesthesia team  was present in the room during the procedure.
+     
+     A 6-French catheter system was administered.  MPD catheter was introduced and
+     the left common carotid artery was selectively catheterized.  An arteriogram
+     was performed which demonstrated total occlusion of the left middle cerebral
+     artery branch at M1 segment.  Based on the diagnostic findings, it was decided
+     that the patient would benefit from and was a good candidate for thrombolysis.
+     
+     At this point a microcatheter was begun.  A microcatheter using a microwire
+     was introduced into the left middle cerebral artery branches.  Intra-arterial
+     TP was administered.  Please refer to the nursing notes for accurate dosage.
+     This dose was administered over a period of 30 minutes.  There was minimal
+     improvement in the flow noted in the left middle cerebral artery branches.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Successful intra-arterial thrombolysis involving the thrombolysis with the
+     catheter placement in the M1 and M2 segments of the left middle cerebral
+     artery branches.  
+     
+     Post-procedure angiogram demonstrates minimal increased flow in the left
+     middle cerebral artery branches.  
+     
+     The previous report was lost during the transcription.  This is a redictation.
+     
+     
+     
+     
+     
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36218 ADD'L 2ND/3RD ORDER           *
+     * 75896  TRANS CATH INFUSSION          75898 F/U TRANS CATH THERAPY        *
+     * 75665 CAROTID/CEREBRAL UNILAT        -59 DISTINCT PROCEDURAL SERVICE     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA after cardiac cath.                            
+     REASON FOR THIS EXAMINATION:
+      Assess MCA blockage, lyse or disrupt if possible                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     Patient presented with acute stroke s/p cardiac catheterization. Suspicion of
+     occlusion of the left middle cerebral artery.
+     
+     The patient is here for intra-arterial thrombolysis. 
+     
+     Informed consent was obtained from the family and after explaining the risks
+     indications and alternative management.  
+     
+     The family proceeded with intra-arterial thrombolysis.
+     
+     Neurology was involved in this procedure and they recommended intra-arterial
+     thrombolysis.  
+     
+     TECHNIQUE:
+     
+     The patient was brought to the Neurointerventional Suite and placed on the
+     table in supine position.  Access to the right common femoral artery was
+     obtained via 19 gauge needle under aseptic precautions under local anesthesia.
+     
+     Anesthesia team  was present in the room during the procedure.
+     
+     A 6-French catheter system was administered.  MPD catheter was introduced and
+     the left common carotid artery was selectively catheterized.  An arteriogram
+     was performed which demonstrated total occlusion of the left middle cerebral
+     artery branch at M1 segment.  Based on the diagnostic findings, it was decided
+     that the patient would benefit from and was a good candidate for thrombolysis.
+     
+     At this point a microcatheter was begun.  A microcatheter using a microwire
+     was introduced into the left middle cerebral artery branches.  Intra-arterial
+     TP was administered.  Please refer to the nursing notes for accurate dosage.
+     This dose was administered over a period of 30 minutes.  There was minimal
+     improvement in the flow noted in the left middle cerebral artery branches.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Successful intra-arterial thrombolysis involving the thrombolysis with the
+     catheter placement in the M1 and M2 segments of the left middle cerebral
+     artery branches.  
+     
+     Post-procedure angiogram demonstrates minimal increased flow in the left
+     middle cerebral artery branches.  
+     
+     The previous report was lost during the transcription.  This is a redictation.
+     
+     
+     
+     
+     
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36218 ADD'L 2ND/3RD ORDER           *
+     * 75896  TRANS CATH INFUSSION          75898 F/U TRANS CATH THERAPY        *
+     * 75665 CAROTID/CEREBRAL UNILAT        -59 DISTINCT PROCEDURAL SERVICE     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA after cardiac cath.                            
+     REASON FOR THIS EXAMINATION:
+      Assess MCA blockage, lyse or disrupt if possible                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     Patient presented with acute stroke s/p cardiac catheterization. Suspicion of
+     occlusion of the left middle cerebral artery.
+     
+     The patient is here for intra-arterial thrombolysis. 
+     
+     Informed consent was obtained from the family and after explaining the risks
+     indications and alternative management.  
+     
+     The family proceeded with intra-arterial thrombolysis.
+     
+     Neurology was involved in this procedure and they recommended intra-arterial
+     thrombolysis.  
+     
+     TECHNIQUE:
+     
+     The patient was brought to the Neurointerventional Suite and placed on the
+     table in supine position.  Access to the right common femoral artery was
+     obtained via 19 gauge needle under aseptic precautions under local anesthesia.
+     
+     Anesthesia team  was present in the room during the procedure.
+     
+     A 6-French catheter system was administered.  MPD catheter was introduced and
+     the left common carotid artery was selectively catheterized.  An arteriogram
+     was performed which demonstrated total occlusion of the left middle cerebral
+     artery branch at M1 segment.  Based on the diagnostic findings, it was decided
+     that the patient would benefit from and was a good candidate for thrombolysis.
+     
+     At this point a microcatheter was begun.  A microcatheter using a microwire
+     was introduced into the left middle cerebral artery branches.  Intra-arterial
+     TP was administered.  Please refer to the nursing notes for accurate dosage.
+     This dose was administered over a period of 30 minutes.  There was minimal
+     improvement in the flow noted in the left middle cerebral artery branches.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Successful intra-arterial thrombolysis involving the thrombolysis with the
+     catheter placement in the M1 and M2 segments of the left middle cerebral
+     artery branches.  
+     
+     Post-procedure angiogram demonstrates minimal increased flow in the left
+     middle cerebral artery branches.  
+     
+     The previous report was lost during the transcription.  This is a redictation.
+     
+     
+     
+     
+     
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36218 ADD'L 2ND/3RD ORDER           *
+     * 75896  TRANS CATH INFUSSION          75898 F/U TRANS CATH THERAPY        *
+     * 75665 CAROTID/CEREBRAL UNILAT        -59 DISTINCT PROCEDURAL SERVICE     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA after cardiac cath.                            
+     REASON FOR THIS EXAMINATION:
+      Assess MCA blockage, lyse or disrupt if possible                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     Patient presented with acute stroke s/p cardiac catheterization. Suspicion of
+     occlusion of the left middle cerebral artery.
+     
+     The patient is here for intra-arterial thrombolysis. 
+     
+     Informed consent was obtained from the family and after explaining the risks
+     indications and alternative management.  
+     
+     The family proceeded with intra-arterial thrombolysis.
+     
+     Neurology was involved in this procedure and they recommended intra-arterial
+     thrombolysis.  
+     
+     TECHNIQUE:
+     
+     The patient was brought to the Neurointerventional Suite and placed on the
+     table in supine position.  Access to the right common femoral artery was
+     obtained via 19 gauge needle under aseptic precautions under local anesthesia.
+     
+     Anesthesia team  was present in the room during the procedure.
+     
+     A 6-French catheter system was administered.  MPD catheter was introduced and
+     the left common carotid artery was selectively catheterized.  An arteriogram
+     was performed which demonstrated total occlusion of the left middle cerebral
+     artery branch at M1 segment.  Based on the diagnostic findings, it was decided
+     that the patient would benefit from and was a good candidate for thrombolysis.
+     
+     At this point a microcatheter was begun.  A microcatheter using a microwire
+     was introduced into the left middle cerebral artery branches.  Intra-arterial
+     TP was administered.  Please refer to the nursing notes for accurate dosage.
+     This dose was administered over a period of 30 minutes.  There was minimal
+     improvement in the flow noted in the left middle cerebral artery branches.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Successful intra-arterial thrombolysis involving the thrombolysis with the
+     catheter placement in the M1 and M2 segments of the left middle cerebral
+     artery branches.  
+     
+     Post-procedure angiogram demonstrates minimal increased flow in the left
+     middle cerebral artery branches.  
+     
+     The previous report was lost during the transcription.  This is a redictation.
+     
+     
+     
+     
+     
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36218 ADD'L 2ND/3RD ORDER           *
+     * 75896  TRANS CATH INFUSSION          75898 F/U TRANS CATH THERAPY        *
+     * 75665 CAROTID/CEREBRAL UNILAT        -59 DISTINCT PROCEDURAL SERVICE     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA after cardiac cath.                            
+     REASON FOR THIS EXAMINATION:
+      Assess MCA blockage, lyse or disrupt if possible                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     Patient presented with acute stroke s/p cardiac catheterization. Suspicion of
+     occlusion of the left middle cerebral artery.
+     
+     The patient is here for intra-arterial thrombolysis. 
+     
+     Informed consent was obtained from the family and after explaining the risks
+     indications and alternative management.  
+     
+     The family proceeded with intra-arterial thrombolysis.
+     
+     Neurology was involved in this procedure and they recommended intra-arterial
+     thrombolysis.  
+     
+     TECHNIQUE:
+     
+     The patient was brought to the Neurointerventional Suite and placed on the
+     table in supine position.  Access to the right common femoral artery was
+     obtained via 19 gauge needle under aseptic precautions under local anesthesia.
+     
+     Anesthesia team  was present in the room during the procedure.
+     
+     A 6-French catheter system was administered.  MPD catheter was introduced and
+     the left common carotid artery was selectively catheterized.  An arteriogram
+     was performed which demonstrated total occlusion of the left middle cerebral
+     artery branch at M1 segment.  Based on the diagnostic findings, it was decided
+     that the patient would benefit from and was a good candidate for thrombolysis.
+     
+     At this point a microcatheter was begun.  A microcatheter using a microwire
+     was introduced into the left middle cerebral artery branches.  Intra-arterial
+     TP was administered.  Please refer to the nursing notes for accurate dosage.
+     This dose was administered over a period of 30 minutes.  There was minimal
+     improvement in the flow noted in the left middle cerebral artery branches.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Successful intra-arterial thrombolysis involving the thrombolysis with the
+     catheter placement in the M1 and M2 segments of the left middle cerebral
+     artery branches.  
+     
+     Post-procedure angiogram demonstrates minimal increased flow in the left
+     middle cerebral artery branches.  
+     
+     The previous report was lost during the transcription.  This is a redictation.
+     
+     
+     
+     
+     
+
+",,
+14173,22553,,,2936-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36218 ADD'L 2ND/3RD ORDER           *
+     * 75896  TRANS CATH INFUSSION          75898 F/U TRANS CATH THERAPY        *
+     * 75665 CAROTID/CEREBRAL UNILAT        -59 DISTINCT PROCEDURAL SERVICE     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA after cardiac cath.                            
+     REASON FOR THIS EXAMINATION:
+      Assess MCA blockage, lyse or disrupt if possible                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     Patient presented with acute stroke s/p cardiac catheterization. Suspicion of
+     occlusion of the left middle cerebral artery.
+     
+     The patient is here for intra-arterial thrombolysis. 
+     
+     Informed consent was obtained from the family and after explaining the risks
+     indications and alternative management.  
+     
+     The family proceeded with intra-arterial thrombolysis.
+     
+     Neurology was involved in this procedure and they recommended intra-arterial
+     thrombolysis.  
+     
+     TECHNIQUE:
+     
+     The patient was brought to the Neurointerventional Suite and placed on the
+     table in supine position.  Access to the right common femoral artery was
+     obtained via 19 gauge needle under aseptic precautions under local anesthesia.
+     
+     Anesthesia team  was present in the room during the procedure.
+     
+     A 6-French catheter system was administered.  MPD catheter was introduced and
+     the left common carotid artery was selectively catheterized.  An arteriogram
+     was performed which demonstrated total occlusion of the left middle cerebral
+     artery branch at M1 segment.  Based on the diagnostic findings, it was decided
+     that the patient would benefit from and was a good candidate for thrombolysis.
+     
+     At this point a microcatheter was begun.  A microcatheter using a microwire
+     was introduced into the left middle cerebral artery branches.  Intra-arterial
+     TP was administered.  Please refer to the nursing notes for accurate dosage.
+     This dose was administered over a period of 30 minutes.  There was minimal
+     improvement in the flow noted in the left middle cerebral artery branches.
+     
+                                                                 (Over)
+
+     DATE: [**2936-12-18**] 1:55 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 7018**]
+     Reason: Assess MCA blockage, lyse or disrupt if possible            
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+      Contrast: OPTIRAY Amt: 140
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Successful intra-arterial thrombolysis involving the thrombolysis with the
+     catheter placement in the M1 and M2 segments of the left middle cerebral
+     artery branches.  
+     
+     Post-procedure angiogram demonstrates minimal increased flow in the left
+     middle cerebral artery branches.  
+     
+     The previous report was lost during the transcription.  This is a redictation.
+     
+     
+     
+     
+     
+
+",,
+14173,22553,17618,0,2936-12-18 16:08:00 EST,2936-12-18 16:16:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 1330-1400","
+CCU NPN 1330-1400
+Pt arrived from cath lab at approx 1330 until able to go to IR at 1400. Pt had LHC cath done with stent placed to LCX, approx 1 min later per verbal report pt aphasic, one-sided weakness, pt taken to CT. CT negative for bleed, ? embolic event. Pt to CCU, pupils equal 3-4 mm brisk reactive, pt flexed r arm and leg to pain, Larm moved spontaneously on bed, opened eyes spontaneously. Pt SBP's upon arrival 215's, nitro gtt titrated up to approx 2.1 mcg/kg/min for goal SBP 160-170. LS difficult to assess as pt snoring, pt otherwise sounded clear. Pt daughter in at bedside to see pt. Pt taken to IR at approx 1400.
+",,
+14173,22553,17618,0,2936-12-18 18:59:00 EST,2936-12-18 19:11:00 EST,4045,"N",53,"Nursing/Other",,"
+
+Recieved in NSICU-A s/p TPA to CM1 in interventional radiology. Pt taken to CT from IR for change in neurostatus. Small bleed at TPA site per Nerosurg team most likely from reperfusion and should be self limiting. On arrival pt was opening eyes to sternal rub, moving left arm purposefully and both legs on bed. Right arm does not move to deep pain. Perrl/brisk/3mm. Sonorous breathing noted, pt vomited approximately 50cc green bile. Desision made with ICU team and family at that time to intubate pt for airway protection. Family agrees and also wishes all measures to be taken at this time to see how pt does over the next several days. Intubation uneventful, bilateral breath sounds noted. Left lung fields decreased later in shift accompanied by drop in 02 sat. Ett in to far as noted on CXR by SICU resident and pulled back to 22cm at lip with 02 sat back up to 98% and breath sounds on left side improved. Propofol gtt initiated for pt comfort while intubated, rate now at 30mcg/kg/min. Pt also suctioned for scant bile stained sputum.  Pls see abg/vent setting per careview. Labetelol gtt ordered and hung to keep sbp<160, currently off for bradycardia and sbp 120's/40's. Pt with hx of medication induced bradycardia- cardiology to talk with team re: changing to nitrates for bp control. Foley catheter in place draining 40cc+ clear urine hourly. GI: Abd obese, bs not apprecatied. To hold on OGT or any other invasive equipment for 24hrs post TPA. Pt on oral hypoglycemic agents at home, lates glucose 285 covered per sliding scale insulin. Skin surfaces intact, pedal pulses present. Will continue full support and keep family up to date. All else as above.
+",,
+14173,22553,17618,,2936-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-19**] 2:44 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7023**]
+     Reason: Evolution of hemorrhage?                                    
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with L MCA stroke s/p arterial t-PA                           
+     REASON FOR THIS EXAMINATION:
+      Evolution of hemorrhage?                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of left MCA infarct, with hemorrhagic evolution, evaluate
+     for interval change.
+     
+     COMPARISON:  Study from [**2936-12-18**] at 16:27.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     CT HEAD WITHOUT IV CONTRAST:  There is a large area of decreased attenuation
+     within the left MCA distribution consistent with evolving infarct.
+     Additionally, there is high density material within this area. There is also
+     sulcal effacement.  There is no shift of normally midline structures. The
+     frontal and occipital horns of the left lateral ventricle are widely patent.
+     Again seen is decreased attenuation in the periventricular white matter
+     consistent with chronic small vessel ischemic infarct.  Soft tissue and
+     osseous structures are stable in appearance.
+     
+     IMPRESSION:  Large area of decreased attenuation within the left MCA
+     distribution consistent with an evolving infarct.  Additionally, there are
+     areas of hyperdensity within the infarct of uncertain etiology. May represent
+     normal hyperperfused cortex vs subtle hemorrhage. A follow up CT may be
+     performed in 6-12 hours for further evaluation.
+     
+     
+
+",,
+14173,22553,17618,,2936-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-19**] 4:52 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 7024**]
+     Reason: eval line placement                                         
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman s/p L SC CVL                                                
+     REASON FOR THIS EXAMINATION:
+      eval line placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate left subclavian line placement.
+     
+     COMPARISON:  [**2936-12-18**].
+     
+     SUPINE AP CHEST:  There has been interval placement of a left subclavian
+     central line, with the tip overlying the inferior portion of the SVC.  No
+     pneumothorax is identified on this supine radiograph.  An endotracheal tube is
+     in place, with the tip within 1-1/2 cm of the carina.  No nasogastric or
+     orogastric tube is visualized.  Cardiac and mediastinal contours are stable.
+     There is continued blunting of the left costophrenic angle, consistent with an
+     effusion.
+     
+     IMPRESSION:
+     1.  Subclavian central line appears appropriately positioned.  No
+     pneumothorax.
+     
+     2.  Endotracheal tube tip lies within 1.5 cm of the carina.
+     
+     These findings were discussed with Dr. [**First Name (STitle) 7025**] at the time of interpretation.
+
+",,
+14173,22553,17618,0,2936-12-19 05:51:00 EST,2936-12-19 05:53:00 EST,3971,"N",53,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient to CT for repeat head scan.  Remains on A/C ventilatory support with no parameter changes made throughout the night.  ABG results were consistent with a compensated respiratory alkalemia with good oxygenation on the current settings.
+
+RSBI =  44.9 on 0-PEEP and 5 cm PSV.
+",,
+14173,22553,17618,0,2936-12-19 07:50:00 EST,2936-12-19 08:03:00 EST,6910,"N",53,"Nursing/Other","condition update","
+condition update
+Neuro: Moves all extremities on bed, left upper and bilat. lower extremities move spont. , right upper withdraws.  Pupils equal/round/reactive. Opens eyes intermittently, ? attempted to squeeze left hand to command (inconsistently).  Left arm tremors noted, sicu ho aware.  Tremors became more frequent, neuro team notified.  Ativan given and tremors resolved.  Pt to head ct at 0300.  Propofol gtt cont. 30-40cc/hr. Mag+. ca+ repleted.  neuro checks q 1 hr,  ppf turned off q2hr for exam.  Exam decreased after ativan. 
+CV: nsr 60's, labetolol titrated to keep sbp<160.   Afeb.  Multiple fluid boluses for low urine output, urine output remains low. 
+Resp: vent. settings unchanged, suctioned for small amts. thick tan, ls coarse. 
+GI: abd. soft distended, no bm.  NPO.
+GU: foley draining inadequate amts clear yellow urine. 
+Endo: insulin gtt initiated and titrated. 
+Plan: titrate labetolol to keep sbp<160, insulin gtt to keep bs <120.  Neuro checks q/hr 
+",,
+14173,22553,17618,0,2936-12-19 16:50:00 EST,2936-12-19 16:51:00 EST,4435,"N",53,"Nursing/Other",,"
+
+Resp Care
+
+Pt remains intubated and on full vent support.  ABG with a resp alkalosis and rr decrease to 12 from 15.  BS afr clear and suctioning small thick rusty sputum
+",,
+14173,22553,17618,0,2936-12-19 18:45:00 EST,2936-12-19 18:47:00 EST,7719,"N",53,"Nursing/Other","NPN","
+NPN
+N:  patient had EEG today, propofol off for a whiole yet patient continued to have tremors of left hand-- propofol restarted.  patient not following commands, will intermitently move all extremeties,
+
+CV: afebrile hr BP stable + pulses X4
+Resp:  minimal vent changed, suctioned for thick tan secreations.  
+GI: OGT placed --sumping
+GU: minimal urine output all shift, awaiting cenbtral line for CVP.
+please see flowsheets for full assessments.
+  Thankyou
+",,
+14173,22553,17618,,2936-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2936-12-20**] 7:51 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7026**]
+     Reason: progression, herniation                                     
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with L MCA CVA now new neurologic changes                     
+     REASON FOR THIS EXAMINATION:
+      progression, herniation                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left middle cerebral artery infarction, new neurologic changes.
+     
+     COMPARISON:  Non-contrast head CT from [**2936-12-19**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  Again seen is a large area of decreased attenuation in the left
+     middle cerebral artery distribution, consistent with an evolving infarct.  On
+     today's scan, there is 22 mm of rightward subfalcine herniation, new since the
+     prior study.  There is contralateral obstructive hydrocephalus.  The
+     previously seen areas of hyperdensity within the area of infarct are not well
+     demonstrated on this study.  No new areas of intraparenchymal or extraaxial
+     hemorrhage are identified.  No fractures are identified.  The opacification of
+     the paranasal sinuses likely relates to intubation.
+     
+     IMPRESSION:  New development of large subfalcine herniation with contralateral
+     hydrocephalus due to the infarct.
+     
+     These findings were emergently conveyed to Dr. [**Last Name (STitle) 7027**] at 11:30 a.m. on
+     [**2936-12-20**].
+     
+
+",,
+14173,,17618,0,2936-12-20 04:43:00 EST,2936-12-20 04:47:00 EST,3561,"N",53,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent setting. See vent flow sheet for details . Suctioned for sml amts thick tan secretions.Sedated with propofol.Will cont to monitor resp status.
+",,
+14173,,17618,0,2936-12-20 07:28:00 EST,2936-12-20 07:45:00 EST,6910,"N",53,"Nursing/Other","condition update","
+condition update
+Neuro: neuro status unchanged overnight.  Does not open eyes, does not follow commands. Withdraws all extremities to noxious stimuli, right hand slightly postures - Neuro on call ([**Doctor First Name 5797**]) notified of above findings.  Neuro checks q 2hr with ppf gtt on per Neuro resident. Propofol titrated to keep left arm tremors to a minimum.  Pupils equal  and reactive.  
+CV: bp mainly between 140-160 (160's this am - sicu ho notified, no new orders), labetolol po started last eve. NRS 60's-80's, rare pvc's. Afeb.  Hct 22.7 this am, sicu ho notified.  Repeat hct 22.3.  2 units prbc's order, first started at 0645.  Mag+ repleted, K+ not repleted per sicu ho.  
+Resp: no vent. changed made, ls coarse, suctioned for small amts. thick tan sputum.  green drainaged noted from nostrils, neuro team aware. 
+GI: abd soft, distended, +bs. ogt to lws draining bilous drainage. 
+GU: foley draining marginal amts u/o sicu team aware - received 500cc ns bolus early in evening with little effect. u/a obtained. 
+Endo: insulin gtt started. 
+Social: spoke with son this evening who has many questions regarding prognosis.  Family meeting was suggested and son would like to do so, neuro resident notified.  
+Plan: 2nd unit of prbc, monitor hct, neuro check q 2hr, titrate propofol, titrate insulin gtt, keep sbp 140-160, ? family meeting today.  
+",,
+14173,,17618,0,2936-12-20 17:09:00 EST,2936-12-20 17:13:00 EST,7719,"N",53,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+Patients Family in to meet with the SICU team and the Neurology team regarding her worsening Neurostatus and her prognosis.  Family meeting help in which family decided to withdraw support.  Patient's son and daughter at bedside, patient extubated and started on a morphine gtt.  Morphine gtt increased as per patients appearing to be uncomfortable.  Organ bank notified of imminent death and signed off as patients not a candidate or donation secondary to her age.   Nursing support given to family, chaplan in to see family.  Please see careview for all other information.  Thank [**Doctor First Name **]
+",,

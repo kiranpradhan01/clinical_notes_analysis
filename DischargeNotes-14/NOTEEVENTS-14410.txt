@@ -1,0 +1,248 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14410,2929,,,3027-07-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3027-7-7**]       Discharge Date:  [**3027-7-11**]
+
+Date of Birth:   [**2950-1-24**]       Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  [**Known patient firstname 10592**] [**Known patient lastname 10593**] is a 77 year
+old woman with coronary artery disease, congestive heart
+failure, obesity, hypoventilation syndrome and obstructive
+[**Doctor Last Name 292**] apnea who had O2 sats of 62 to 69% on room air and an
+arterial blood gas of pH 7.3, pCO2 69 and pO2 41 at [**Hospital3 **].  She's been at [**Hospital1 **] for the past 3 months for
+chronic vertigo and a question of vestibular neuronitis. She
+notes increased fatigue for the past few days as well as more
+difficulty breathing when lying flat (she has been using more
+pillows than usual).  She has recently been tapered off Lasix
+and her beta blocker and Imd[**MD Number 10594**] been increased. She denies
+shortness of breath, cough, chest pain, pain or swelling in
+the legs or increased salt intake. She has been compliant
+with meds at the rehab.
+
+PAST MEDICAL HISTORY:  1. Coronary artery disease, status
+post MI in [**3013**], status post stent LAD [**3023-6-6**], with
+subsequent cardiac catheterization on [**3027-6-7**] showing 100%
+LAD occlusion.  2. Congestive heart failure, left ventricular
+ejection fraction of 40% according to her records, unclear
+when this echo was performed.  3.  Vestibular neuronitis.  4.
+Obstructive [**Doctor Last Name 292**] apnea and obesity hypoventilation syndrome.
+5. Hypertension.  6. Cerebrovascular accident.  7. Upper GI
+bleed.  8. Thrombocytopenia.  9. Status post hemicolectomy
+and appendectomy.  10. Hiatal hernia.  11. Vaginal bleeding.
+12. Dysphagia.
+
+MEDICATIONS:  Meclizine 25 mg p.o. q.i.d., Remeron 30 mg p.o.
+q.h.s., Amiodarone 200 mg p.o. q.d., Toprol XL 125 mg p.o.
+q.d., Ativan 0.25 mg p.o. b.i.d. p.r.n. anxiety, magnesium
+oxide 400 mg p.o. q.d., Albuterol 5 mg, Atrovent 0.5 mg
+nebulizers q.i.d. p.r.n., Imd[**MD Number 6118**] mg p.o. q.d., Zoloft 150
+mg p.o. q.d., Protonix 40 mg p.o. b.i.d., aspirin 81 mg p.o.
+q.d., Zocor 80 mg p.o. q.h.s., Lisinopril 5 mg p.o. q.d.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  She lives alone in [**Location (un) 2599**] but has been
+at [**Hospital3 **] for the past 3 months.  She has no family.
+She denies any history of tobacco use and reports no current
+alcohol use.
+
+FAMILY HISTORY:  The patient's sister has coronary artery
+disease. The patient's father had coronary artery disease
+with a myocardial infarction at age 55.  The patient's mother
+lived to 103 and had a cerebrovascular accident.
+
+PHYSICAL EXAMINATION:  The patient was alert and lying
+comfortably in bed. Vital signs: Temp 98.6, BP 140/72, pulse
+60, respiratory rate 18, O2 sat 96% on 2 liters and 85% on
+room air.  HEENT: NCAT, oropharynx clear, pupils equal, round
+and reactive to light.  Neck: Supple, no JVD.  Chest:
+Decreased breath sounds in the middle lung fields and at the
+bases with occasional basilar crackles.  Heart: Normal S1 and
+S2, II/VI systolic ejection murmur at the upper sternal
+border.  Abdomen: Soft, nontender, nondistended, no
+hepatosplenomegaly.  Rectal: FOB positive.  Extremities: No
+clubbing, cyanosis or edema.  Neuro: Drowsy but easily
+arousable to voice, somewhat agitated and combative. Cranial
+nerves grossly intact.
+
+LABORATORY DATA:  White blood cell count within normal limits
+throughout hospital stay, hematocrit 29.4 to 31.5, platelets
+112 to 124, MCV 96.  Sodium 145, potassium 4.6, chloride 103,
+bicarb 30 to 36, BUN 19 to 26, creatinine 0.9 to 1.3, glucose
+79 to 111.  Arterial blood gases: On [**3027-7-7**] pH 7.22, pO2
+105, pCO2 103, bicarb 44.  [**3027-7-8**] pH 7.26, pO2 41, pCO2 97,
+bicarb 46.  [**3027-7-9**] pH 7.26, pO2 59, pCO2 93, bicarb 44.
+[**3027-7-10**] pH 7.33, pO2 52, pCO2 79, bicarb 44.  PT 12.9, PTT
+25.1, INR 1.1.  Calcium 9.3, ionized calcium 1.22, magnesium
+2.3, phosphate 2.4, TSH 5.1, free T4 pending. TIBC 319, iron
+30, ferritin 17, transferrin 245, vitamin B12 247, folate
+15.2.  Blood toxin screen was negative.  Lactate 0.5.
+
+Tests: [**3027-7-7**] CTA test with and without contrast showed no
+evidence of pulmonary embolus.  There was a large hiatal
+hernia.  There was atelectasis in the lower lobe. There was a
+right kidney mass and there were small pleural effusions.
+[**3027-7-7**] chest x-ray showed mild congestive heart failure.
+[**3027-7-9**] chest x-ray showed interval resolution of CHF as well
+as a large heart, large hiatal hernia and small bilateral
+pleural effusions.  EKG showed sinus rhythm at 65
+beats/minute and left bundle branch block which was new since
+[**5-/3023**] compared to previous records at [**Hospital3 **] but
+according to [**Hospital3 **] this was an old finding.
+[**3027-7-8**] renal ultrasound showed a 1 cm right upper pole
+kidney cyst, most consistent with a simple cyst.
+Transthoracic echocardiogram [**3027-7-10**] showed moderate
+dilatation of the left atrium, left ventricular ejection
+fraction of 40%, hypokinesis of the inferior wall and septum,
+1+ mitral regurgitation, 1+ tricuspid regurgitation and
+pulmonary artery systolic hypertension.  Pulmonary function
+tests [**3027-7-10**] showed significant reduction in lung volumes
+consistent with a restrictive pattern.  FEV1 to FCC ratio was
+147% of predicted, the LCO could not be performed.
+
+HOSPITAL COURSE:  1. Hypoxemia/hypercarbia.  In the Emergency
+Department the patient had a CTA of the chest which was
+negative for pulmonary embolus.  The chest x-ray showed mild
+CHF and she was diuresed with 40 mg of Lasix IV with urine
+output of 1.5 liters.  Three arterial blood gases were
+performed (results shown above).  Due to her hypoxia and
+hypercarbia she was admitted to the MICU for a trial of
+noninvasive ventilation with [**Hospital1 **].  The patient did not
+tolerate [**Hospital1 **] due to discomfort and was called down to the
+Floor on [**3027-7-8**]. She was seen by Pulmonary consult who
+thought that her hypercarbia and hypoxemia were likely due to
+a multifactorial restrictive process involving obesity and
+large hiatal hernia as well as a decreased drive to breathe.
+Her pulmonary hypertension was felt to be secondary to
+chronic hypercarbia and hypoxemia. They recommended weight
+loss, pulmonary rehabilitation and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 292**] study with [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 339**] at the [**Hospital1 **] [**Doctor Last Name **] Lab as well as outpatient
+followup in Pulmonary Clinic with possible
+Medroxyprogesterone trial 10 mg t.i.d. which might help
+decrease pCO2 after 3 to 4 weeks of treatment.  An
+appointment was scheduled with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at the [**Hospital1 19**]
+Pulmonary Clinic for [**7-25**].
+
+2. CAD/CHF.  In the ED she was given Lasix and diuresed 1.5
+liters.  Her echo showed ejection fraction of 40% and
+hypokinesis of the inferior wall and septum, likely due to
+her previous MI.  A repeat chest x-ray showed interval
+resolution of her mild CHF.  She was restarted on Lasix 20
+mg p.o. q.d.  Her Ace inhibitor was increased from 5 mg p.o.
+q.d. to 5 mg p.o. b.i.d. for better afterload reduction.
+
+3. Normocytic anemia and history of upper GI bleed.  Her B12
+and folate were within normal limits.  Her iron studies
+suggest iron deficiency with an iron to TIBC ratio of less
+than 10%.  Her hematocrit was stable throughout her hospital
+stay.  Iron sulfate supplementation was started.  Her rectal
+exam was guaiac positive, therefore, an endoscopy and
+colonoscopy are recommended as an outpatient.  Her PPI was
+continued in house.
+
+4. Endocrine.  Her TSH was slightly elevated at 5.1.  A free
+T4 was pending at the time of discharge.  Her P.C.P. will be
+notified of this.
+
+5. Fluid, electrolytes and nutrition.  She tolerated p.o.'s
+well throughout hospital stay.
+
+6. Psychiatry.  She was frequently agitated and combative
+with signs of paranoia but generally consolable.  This was
+worse with sundowning at night.  Her psychiatric meds were
+continued in house. She was given Haldol 1 mg IV once on the
+evening of admission.
+
+7. Renal.  Renal ultrasound was done to further evaluate the
+mass seen on CT of the chest.  Per Radiology the right kidney
+mass is likely a simple cyst.
+
+CONDITION AT DISCHARGE:  Good.
+
+DISCHARGE STATUS:  To [**Hospital3 **].
+
+DISCHARGE DIAGNOSES:  1. Obesity, hypoventilation syndrome.
+2. Obstructive [**Doctor Last Name 292**] apnea.  3. Coronary artery disease.  4.
+Congestive heart failure.  5. Hypertension.  6. Hiatal
+hernia.
+
+DISCHARGE MEDICATIONS:  Meclizine 25 mg p.o. q.i.d, Remeron
+30 mg p.o. q.h.s., Amiodarone 200 mg p.o. q.d., Toprol XL 125
+mg p.o. q.d., magnesium oxide 400 mg p.o. q.d., Albuterol 5
+mg, Atrovent 0.5 mg neb q.i.d. p.r.n., Imd[**MD Number 6118**] mg p.o.
+q.d., Zoloft 150 mg p.o. q.d., Protonix 40 mg p.o. b.i.d.,
+aspirin 81 mg p.o. q.d., Zocor 80 mg p.o. q.h.s., Lisinopril
+5 mg p.o. b.i.d., Lasix 20 mg p.o. q.d., iron sulfate.
+
+FOLLOWUP PLANS:  1. Pulmonary rehabilitation and [**Doctor Last Name 292**]
+evaluation at [**Hospital3 **].  2. She should have followup
+with her P.C.P. when discharged from [**Hospital3 **].  P.C.P.
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 10595**].  3. She has an appointment on Wednesday,
+[**3027-7-25**] at 9 a.m. with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in the Pulmonary
+Clinic at [**Hospital1 19**], [**Hospital Ward Name **] Second Floor, Rehab Services,
+telephone number [**Telephone/Fax (1) 3402**].
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 153**], M.D.
+
+Dictated By:[**Last Name (NamePattern1) 10596**]
+MEDQUIST36
+
+D:  [**3027-7-11**]  11:27
+T:  [**3027-7-11**]  11:53
+JOB#:  [**Job Number 10597**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**3027-7-12**] 2:26 PM
+(End of Report)
+
+
+",,
+14410,2929,17910,0,3027-07-08 05:05:00 EST,3027-07-08 05:16:00 EST,2519,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 0200-0700","
+NURSING ADMISSION AND PROGRESS NOTE 0200-0700
+THIS IS A 77 YEAR OLD PATIENT THAT NORMALLY LIVES ALONE IN [**Location (un) **].  SHE HAS BEEN A RESIDENT AT [**Hospital3 **] DUE TO BOUTS OF VERTIGO THAT HAS INCAPACITED HER.  ACCORDING TO PATIENT- SHE WAS SOON TO BE DISCHARGED.  PRESENTED TODAY TO THE ER FOR CHF AND RULE OUT MI.  SHE WAS TREATED WITH LASIX AND TX TO [**Hospital Ward Name **] 2.  UPON ARRIVAL ON THE FLOOR- IT WAS NOTED THAT PT HAD DESATURATED AND WAS EXTREMELY AGITATED.  REFUSED FOR ANY CARE TO BE PROVIDED AND THREATENING TO SIGN OUT AMA.  ABG'S REVEALED PT TO BE HYPERCARBIC AND ACIDOTIC.  LAST ABG'S WERE 59-93-7.26/44- SUBSEQUENTLY TX TO THE MICU FOR FURTHER OBSERVATION AND FOR BIPAP TX AS NEEDED.  PT ARRIVED VIA BED AND WAS SETTLED IN 771.  RECEIVED PT WITH NO UNTOWARD INCIDENCE.
+
+NEURO:  PT IS ALERT AND ORIENTED X 3.  VERY ADAMANT THAT SHE HAS NEVER HAD DIFFICULTY BREATHING AND THAT SHE DOES NOT FEEL ANY DIFFICULTY BREATHING AT THE MOMENT- DID NOT UNDERSTAND WHY SHE WAS TRANSFERRED TO AN INTENSIVE CARE UNIT-  THIS WAS DISCUSSED AT LENGTH WITH HER BY [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD.  FOLLOWS COMMANDS, JUST WANTED TO GET SOME [**Doctor Last Name **] AND NOT TO BE BOTHERED.  DID NOT REQUIRE MEDICATION FOR AGITATION ALTHOUGH HALDOL HAD BEEN GIVEN ON THE FLOOR WITH GOOD RESULTS IN THE CASE THAT PT DOES HAVE A NEED FOR MEDICATION.  MAE X 4. ABLE TO MOVE AROUND IN BED WITHOUT ASSISTANCE.  PERRLA, 3/B.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.  
+
+CV:  PT IN NSR WITH 1ST DEGREE AVB AND LBBB.  PT HAS SIGNIFICANT HX FOR CVA, MI AND CAD.  PT DENIES ANY CHEST PAIN.  S1 AND S2 AS PER AUSCULTATION.  RARE TO OCCASSIONAL PVC'S NOTED.  SBP > OR = TO 120 WITH NO HYPER OR HYPOTENSIVE CRISIS NOTED.  PALPABLE PULSES NOTED TO BILATERAL RADIALS AND DORSALIS PEDIS.  
+
+RESP:  PT IS CURRENTLY ON 2 L NC- DID NOT TOLERATE BIPAP TRIALS.  GOAL OF SP02 > OR = TO 88%.  SHALLOW BREATHS NOTED RR 20-30'S.  PERIODS OF [**Doctor Last Name **] APNEA NOTED.  BILATERAL CHEST EXPANSION NOTED.  BBS =, CLEAR TO COARSE TO BILATERAL UPPER LOBES AND DIMINISHED TO BILATERAL LOWER LOBES.  NONPRODUCTIVE COUGH.
+
+GI:  ABDOMEN IS SOFT AND DISTENDED. BS X 4 QUADRANTS.  NO BM THIS SHIFT.  PASSING FLATUS.
+
+GU:  INDWELLING FOLEY CATHETER NOTED.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  PT HAS NO SIGNS OF BREAKDOWN TO BACK OR BUTTOCKS.
+
+LABS:  THIS PT. REFUSED TO HAVE HER LABS DRAWN IN THE AM- WOULD LIKE THEM TO BE DONE LATER- WILL PASS THIS ON AT SHIFT CHANGE- ORIGINALLY HER AM LABS HAD BEEN SCHEDULED FOR 9AM.
+
+PLAN:  WILL NOT TREAT ACIDOSIS- OBSERVE PATIENT AND KEEP ON NC FOR SP02 > OR = TO 88%.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+
+
+
+
+",,
+14410,2929,17910,0,3027-07-08 14:48:00 EST,3027-07-08 15:02:00 EST,-1,"N",69,"Nursing/Other","NPN 07:00-19:00 MICU","
+NPN 07:00-19:00 MICU
+*Please refer to Carevue for additional patient information
+*Full Code
+*C/O to floor, awaiting bed.
+
+Neuro: Pt A/O x3, off and on c/o dizziness getting Meclizine HCl tid for vertigo, w/ good efffect. Moving self in bed, equal strength bilateral upper extremities. PERL 3mm, brisk. *Thryoid tests being done as well as Acetycholine Receptor ANtibody to assess for [**First Name9 (NamePattern2) 6060**] [**Last Name (un) **]. 
+
+CV: VSS, HR 59-67, SB, NSR. SBP 109-147/40's, Tmax 98.5 PO. Magnesium and Potassium repleted.
+
+Resp: NC 2L, O2 sat's >88%, does drop into mid 80's when asleep, however when awakened sat's quick to bump up to mid 90's. Written for PRN Albuterol. No c/o sob, RR ~20, LS coarse and diminished in lower lobes. 
+
+GI/GU: taking po's w/out difficulty, written for low Na diet. +BS, no BM this shift. U/O wnl via foley. 
+
+Access: PIV 20g R lower arm. 
+
+Skin: Intact
+",,

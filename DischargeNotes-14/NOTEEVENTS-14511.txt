@@ -1,0 +1,495 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14511,8387,,,3261-01-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3261-1-6**]     Discharge Date:  [**3261-1-12**]
+
+Date of Birth:   [**3179-5-12**]     Sex:  F
+
+Service:
+
+ADMITTING DIAGNOSIS:
+1.  Non Q wave MI.
+2.  Pneumonia.
+
+CHIEF COMPLAINT:   The patient was an 81-year-old woman
+admitted to the CCU service with a chief complaint of
+ischemia, transient left bundle branch block, status post
+cardiac catheterization.
+
+HISTORY OF PRESENT ILLNESS:  This is an 81-year-old woman
+with a past medical history significant for dementia,
+depression, coronary artery disease of three vessels, status
+post non Q wave MI in [**3257**].  The patient refused further
+work-up at that time.  The patient was transferred from
+[**Hospital3 306**] the morning of admission for the evaluation of
+respiratory distress.  On [**1-5**] at 10 p.m. the patient started
+to complain of chest pain.  At that time she had vital signs
+done which were significant for temperature of 100.4, heart
+rate 88, respiratory rate 28 and blood pressure 160/80, no
+oxygen saturation was recorded.  She received Nitroglycerin
+.4 mg sublingual, Ativan 0.5 mg and Lasix 40 mg po.  She was
+started on oxygen at that time. She felt better after these
+interventions.  At 3:30 a.m. the day of admission she again
+experienced chest pain and was given Nitroglycerin sublingual
+times two.  At 7:30 a.m. she was noted to be hypoxic with an
+oxygen saturation of 70% on three liters and she complained
+of chest pain again.  Initially she refused to go to the
+hospital and then she acquiesced and she was transferred to
+[**Hospital1 10**] for further care.  On
+her way, the paramedics gave her Lasix 80 mg IV times one and
+three Nitroglycerin sublingual.  In the Emergency Room she
+had a systolic blood pressure in the 100's, she was
+tachycardic to 110 and tachypneic to respiratory rate of 34.
+She had an EKG that showed a heart rate of 120 with a new
+left bundle branch block, increased left axis deviation and
+ST depression in V4 through V6 on the initial EKG.
+Subsequent EKGs showed progressive diffuse ST depression and
+3-4 mm depressions in V3 through V6, 2-3 mm in V2, V3 and AVF
+and [**Street Address 463**] depression in 1, and [**Street Address 463**] elevation in AVL.
+Oxygen saturation was in the 60's in the Emergency Room.  She
+was intubated nasally for hypoxia.  Her O2 sat increased to
+80% and the ABG following intubation was 7.32, PCO2 50, PO2
+74.  Following intubation and sedation, she dropped her blood
+pressure to 50/30 and was started on Dopamine drip or
+hypertension.  The patient then progressed to emergent
+cardiac catheterization with a new left bundle branch block
+and these ischemic changes with the presumption of
+cardiogenic shock.  When she arrived in the cath lab, she had
+a borderline systolic blood pressure in the low 100's on 20
+mcg per minute of Dopamine and she had an intra-aortic
+balloon pump placed.  She was started on Heparin and
+Integrilin.  The RCA was noted to be diffusely diseased as
+was the LAD and the circumflex.  The OM1 had a lesion that
+looked acutely ruptured and occluding.  It was a small
+vessel, it was intervened on by PTCA but it was not stented.
+During the cath, they noted her filling pressures to be quite
+low.  She was given bolus of normal saline and the cath lab
+team was able to wean off the Dopamine and the balloon pump
+was also removed post catheterization as her pressure came up
+with aggressive fluid resuscitation.  She was then
+transferred to the CCU for further care.  Upon arrival in the
+CCU the Heparin and Integrilin had also been discontinued.
+Prior to transfer to the CCU, a transthoracic echocardiogram
+was done to evaluate for wide open mitral regurgitation.  It
+showed ejection fraction 35-40% on the intra-aortic balloon
+pump, 2+ TR, moderate regional LV dysfunction and hypokinesis
+of the anterior septal and apical wall, 1+ MR [**First Name (Titles) **] [**Last Name (Titles) 2413**]
+pulmonary artery hypertension.
+
+PAST MEDICAL HISTORY:  1) Dementia, Alzheimer's vs multi
+infarct dementia and head CT has shown periventricular small
+vessel ischemic changes.  2) Failure to thrive at home with
+placement in a nursing home in the past year.  3) Depression.
+4) Anxiety disorder presenting as stridor.  5) Hypertension.
+6) Hypercholesterolemia.  7) History of CAD, status post non
+Q wave MI in [**3257-12-31**].  She refused further work-up and
+left AMA.  8) Hypothyroidism.  9) Peptic ulcer disease.  10)
+Degenerative joint disease.
+
+MEDICATIONS:  Aspirin 81 mg po q d, Risperdal .25 mg po q
+a.m., 25 mg po q h.s., Buspirone 5 mg po bid, Depakote 125 mg
+po bid, Colace 100 mg po bid, Ultram 50 mg po bid, Vasocidin
+1 drop tid, Atenolol 25 mg po q d, Celexa 40 mg po q d, Lasix
+40 mg po q d, Levoxyl 112 mcg po q d, Multivitamin one tablet
+po q d, KCL 20 mEq po q d, Prevacid 15 mg po q d, Prinivil 10
+mg po q d, Dulcolax as needed and Milk of Magnesia as needed,
+Tylenol as needed and Trazodone 25 mg po q h.s. prn for [**Doctor Last Name 292**]
+as needed.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient lives at [**Hospital3 306**] with a
+baseline dementia.  She does not use tobacco or alcohol.  Her
+son, [**First Name4 (NamePattern1) **] [**Known patient lastname **], [**Telephone/Fax (1) 10765**] is the next of [**Doctor First Name **].
+
+PHYSICAL EXAMINATION:  On arrival in the CCU, physical exam
+revealed the patient was awake, she opened her eyes to voice,
+she was nasotracheally intubated.  Temperature was 99.8.
+Heart rate 88, blood pressure 111/43, respiratory rate 24.
+Oxygen saturation 100%.  Ventilation settings were IMV 500
+total volume, respiratory rate set at 10, PEEP 5, pressure
+support of 5, FIO2 70%.  This was changed to C-Pap pressure
+support 10 and 5 with FIO2 of 50%.  ABG was 7.38, 45, 95.
+HEENT:  She was nasotracheally intubated through the right
+nare.  Pupils are equal, round, and reactive to light and
+accommodation.  Neck exam, patient had no JVD.  Chest,
+bilateral rhonchi.  Heart sounds, regular rate and rhythm, S1
+and S2 were normal, no murmurs, gallops or rubs.  Abdominal
+exam was soft, nontender, non distended, positive bowel
+sounds.  Extremities were cool with palpable pulses in all
+four extremities.  Neuro, she moved all four extremities
+spontaneously.
+
+LABORATORY DATA:  White count 13.9, hemoglobin 13.8,
+hematocrit 39.2, platelet count 231,000.  Differential on the
+white count, 83 neutrophils, 3 bands, 10 lymphs, 4 monos.  PT
+12.7, PTT 36.0, INR 1.1.  SMA 7 was 142, 4.1, 99, 29, 22, 1.0
+and glucose 151.  CK #1 in the Emergency Room was 129 with MB
+of 3, CK #2 drawn on arrival at the CCU was 285, MB 32, MB
+index 11.2.  Troponin 1.4.  Chest x-ray showed slightly
+hyperinflated lungs with pulmonary infiltrates consistent
+with pulmonary edema, right greater than left without any
+obvious infiltrates.  EKG #1 done in the Emergency Room as
+above, normal sinus rhythm at 120, left bundle branch block,
+left axis deviation, ST depression 3-4 mm in V4 through V6,
+ST depression 1 mm in 2.  Compared with prior EKG from [**3260-3-30**], left bundle branch block is new.  EKG #2, normal sinus
+rhythm at 100, 3-[**Street Address 4570**] depressions in V3 through V6, 2-[**Street Address 1875**] depressions in 2, 3, and F.
+
+ASSESSMENT:  This is an 81-year-old woman with past medical
+history of coronary artery disease of three vessels, status
+post non Q MI in [**3257**], hypothyroidism, depression, dementia,
+admitted following an episode of acute pulmonary edema but
+still unclear insightful etiology.  Several scenarios are
+still possible at the time of admission including: 1)
+Respiratory distress from some other etiology, possibly
+pneumonia leading to overdiuresis and ischemia.  2) Diastolic
+dysfunction, it is unknown why the patient would have become
+ischemic but is it possible she became ischemic which then
+led to pulmonary edema.  The patient also seems to be ruling
+in for non Q wave MI.  This certainly could be the primary
+lesion.  Patient became ischemic and went into pulmonary
+edema.
+
+PLAN:
+1.  Cardiac:  CKs will be cycled until trending down.  EKGs
+will be checked.  The patient will be placed on Aspirin,
+Lipitor and a beta blocker as the blood pressure tolerates.
+The patient will also be started on an ACE inhibitor as the
+blood pressure tolerates.  She will be given IV fluids and
+Lasix as needed to balance her volume status.
+2.  Pulmonary:  From a pulmonary perspective the patient has
+a possible pneumonia.  She will be started on Levaquin 500 mg
+per day.  We will try to aggressively wean off the patient's
+sedation and extubate her as quickly as possible.
+3.  Infectious Disease:  Blood cultures were sent from the
+Emergency Room and from the cath lab.  These will be followed
+up.  We will also check a urinalysis and urine culture and
+send sputum if the patient is producing it.
+
+HOSPITAL COURSE:  The day of admission the patient was
+quickly weaned off her sedation and was placed on vent
+settings of 10 and 5.  A pressure support wean was initiated.
+The patient was placed on [**4-3**] pressure support and did well.
+She was then extubated later that evening around 6 p.m.
+Post extubation the patient did well for a few hours.  She
+had no issues with hypoxia or hypercarbia, however, she had
+copious secretions and the patient could not clear her own
+secretions.  The secretions could be cleared by suctioning,
+however, suctioning provided such stimulus to the patient
+that her heart rate increased into the 120's and she became
+hypertensive to the 180's/100's.  Given the patient's recent
+non Q wave MI, these values were unacceptable and the patient
+was electively reintubated for inability to protect her
+airway.  This allowed us to suction her secretions without
+causing tachycardia and hypertension as the patient was
+sedated.  CKs were cycled and peaked at 842 at midnight the
+day of admission.  EKGs were checked and revealed that the
+left bundle branch block was either rate related or ischemia
+related as it resolved.  The patient's heart rate and blood
+pressure were controlled with beta blocker and ACE
+inhibitors.  For the next two days the patient became
+hypotensive while she was intubated and on sedation.  She
+required aggressive fluid resuscitation and transiently
+required Dopamine as a pressor on and off with maximum dose
+being approximately 10 mcg per minute.  Further chest x-rays
+were obtained that revealed the patient had a pneumonia.  She
+had worsening bilateral pulmonary infiltrates consistent with
+either ARDS or cardiogenic pulmonary edema, however, as the
+hospital course progressed and the patient was maintained on
+antibiotics, her bilateral pulmonary infiltrates slowly
+resolved.  The patient's secretions which were copious and
+purulent at first, also decreased.  On [**1-10**] a family meeting
+was held with the son, the daughter-in-law, the attending,
+social worker and the house staff.  We all discussed the
+patient's course and prognosis and wishes.  Her son expressed
+that she would not want to be kept alive on a respirator.
+The team expressed their opinion that the patient was close
+to extubation.  The son thought that once patient was
+extubated she would not want to be reintubated.  The team
+thought this was a reasonable course of action as if the
+patient could not be extubated in the next 48 hours it would
+entail a long recovery; likely including a tracheostomy and
+month long vent weaning process that the patient would not
+want.  The course of action was then decided to extubate the
+patient in the next 24-48 hours as medically indicated and
+when she was extubated to now reintubate the patient.  She
+was made DNR on the 11th, after that family discussion.  On
+[**1-11**] the patient's secretions had decreased.  She was placed
+on a spontaneous C-pap trial of pressure support 5 and 5.
+The patient did well with a rapid trial of breathing index in
+the 70's to 80's.  Her sedation had been turned off the night
+before and she was alert and able to follow commands.  The
+team thought it was medically indicated to attempt to
+extubate the patient on the 12th.  This was done.  The
+patient did well for approximately 4-5 hours.  After that
+time, however, the patient slowly began to tire.  Her initial
+respiratory rate was at 26 and she declined to breathing
+around 15-20 after the first hour.  Her blood pressure was
+controlled with Labetalol drip during this time.  As the
+hours progressed, the patient's respiratory rate slowed.  An
+ABG was checked that showed a PH of 7.17, PCO2 77 and PO2 of
+143.  The patient was becoming more somnolent, the team
+believed this was due to the hypercarbia.  The son was
+contacted and at that point he said the patient should be
+kept comfortable above all.  The team shifted their goals to
+meet this requirement as well as to give the patient the best
+chance to recover.  Over the course of the night her
+respirations maintained in the low teens, between [**9-12**].  The
+patient was kept comfortable during this time with Morphine.
+On [**1-12**] the patient slowly became less and less responsive
+and more and more somnolent as her respiratory rate declined
+and at 6:30 p.m. on the evening of 2-13 the patient's
+respirations and heart rate stopped and she was pronounced
+dead at that time.  The son was with her when she passed.  An
+autopsy was performed.  The patient died of cardiopulmonary
+arrest that was due to a pneumonia and a non Q wave MI on
+this admission.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 354**], M.D.  [**MD Number 355**]
+
+Dictated By:[**Last Name (NamePattern1) 5339**]
+
+MEDQUIST36
+
+D:  [**3261-1-19**]  11:07
+T:  [**3261-1-20**]  16:18
+JOB#:  [**Job Number 10766**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: FRI [**3261-1-21**] 10:30 PM
+(End of Report)
+
+
+",,
+14511,8387,18035,0,3261-01-06 17:35:00 EST,3261-01-06 18:20:00 EST,40,"N",1,"Nursing/Other","CCU NSG ADMIT NOTE","
+CCU NSG ADMIT NOTE
+PT IS 82 YO WOMAN C/O CP AND SOB AT NURSING HOME CAME TO EW AT 9AM THIS AM. PT ACUTELY HYPOXIC REQUIRING INTUBATION, ST DEPRESSIONS V2-V6., STARTED ON NTG GTT, BECAME HYPOTENSIVE REQUIRING DOPAMINE. PT TRANSFERRED TO CATH LAB -> PTCA TO LAD, SEVERE DIFFUSE DZ IN LCX. RA 4, EF 30%.
+
+PMH: HTN, HYPOTHYROID, PVD, ^ CHOL, DEMENTIA.
+
+NKDA
+
+PT ADMITTED TO CCU ~ 14:00, UNRESPONSIVE EXCEPT TO PAIN UPON ARRIVAL, NOW AWAKE, ALERT, NODDING APPROPRIATELY. WRISTS RESTRAINED.
+VENOUS SHEATH IN R GROIN, HR 80-90'S SR NO VEA, BP 96-120/60-70 (HAD BEEN ON DOPAMINE, BUT HAS BEEN OFF SINCE CCU ADMIT.) CK 129 9AM, 285/32 AT NOON. GROIN AREA D/I, PULSES DOPPLERABLE, IVF .45 NS INFUSING AT 200CC/HR FOR 1L, THEN 100CC/HR.
+
+PT INTUBATED, W/O A LINE, ARRIVED TO UNIT ON IMV AND HAS SINCE BEEN WEANED TO PS5/5 PEEP BECOMING SLIGHTLY AGITATED, W/ RR ^30, TV 350. ABG TO BE DONE AND ?EXTUBATE PT. NO SECRETIONS.
+
+
+FOLEY DRAINING CL YEL URINE, HAD RECEIVED LASIX AT NH AND EW. 1L EMPTIED AT ADMISSION., NOW 50-60CC/HR.
+
+ID: TM 99.7 RECTALLY. PT CULTURED IN EW, WBC 13.9, 3 BANDS. STARTED ON LEVAQUIN.
+
+GI: NO NGT, TO START PO MEDS WHEN EXTUBATED PER RESIDENT.
+
+SKIN: INTACT
+
+SOCIAL: PT WIDOWED, HAS ONE SON IN [**Name2 (NI) 1774**]. HE CALLED, SPOKE W/ MD [**First Name (Titles) **] [**Last Name (Titles) **], HIS # IS IN GREEN CHART. PT LIVES IN NURSING HOME. PER SON IS AMBULATORY, AND ""QUITE WITH IT"".
+
+A: R/I MI, HEMODYNAMICALLY STABLE S/P CATH, PTCA
+P: CYCLE CK'S, MONITOR GROIN, MONITOR RESP STATUS, WEAN AND EXTUBATE WHEN POSSIBLE.
+",,
+14511,8387,18035,0,3261-01-06 19:00:00 EST,3261-01-06 19:03:00 EST,40,"N",1,"Nursing/Other","npn addendum","
+npn addendum
+Pt extubated at 7:00 w/o difficulty. Sats 93% at 50% cool neb.
+",,
+14511,8387,18035,0,3261-01-07 05:09:00 EST,3261-01-07 05:46:00 EST,-1,"N",1,"Nursing/Other","CCU NURSING NOTE:1900-0700,CP,S/P PTCA, RLL PNA","
+CCU NURSING NOTE:1900-0700,CP,S/P PTCA, RLL PNA
+Please see Carevue for all objective data:
+
+ID: Febrile overnoc, tm 101.2 started on Levo and Vanco. Blood cultures sent on [**1-6**].
+
+NEURO: Previously alert and oriented times two until sedated last eve when iuntubated. Currently pt intubated and sedated on Ativan gtt at 2mg/hr. Fentanyl off due to hypotensive episodes. Pt not currently needing Fentanyl and doing fine on Ativan. Will respond to verbal command and stimuli, and occasionaly moving extremeties in bed.
+
+CV: ST to NSR with occasional PAC's. HR in the 60's. Tachycardia and hypertension treated with 5mg Lopressor times two with moderate effect. Pt BP becoming very labile during interventions and administrations of sedatives. Given several NS boluse and Dopamine titration with good effect. Currently on 8.0mcg's of Dopa with MAP to mid to low 70's. Mg and K repleted.
+
+RESP: Pt orally intubated at 10PM, still unclear as to why pt needing previous nasal intubation. Intubation done w/o incident. Previous to intubation pt breathing at a rate mid-twenties to low thirties and Sating in the low 90's with periods of Sats in low 60's. No ABG repeated.  Pt becoming more restless and using accesory muscle to breath in addition to increasing HR and BP, decided to re-intubate for cardiac protection. Pt on AC with setting at 500 x 12,.60, and 5 PEEP, last ABG 7.39/41/79/26. Suctioning for thick blood tinged creamy sputum. Sputum culture sent. O2Sats are high 90's to 100% with somewhat poor tracing.
+CXR done showing RLL PNA and trachea adnormalities per HO. 
+
+GI/GU: Abd soft with normoactive BS and passing flatus, prior to intubation pt fixated on moving bowels stating she is ""constipated.""
+Passing very tiny amount of stool in pads.  Foley draining clear yellow urine, U/O > 30cc/hr although U/O's decreasing when blood pressures low. UA and Urine culture sent. 
+
+ACCESS: Right radial Aline and Left femoral Multi-lumen CVL inserted last night. Aline with good tracing and CVL ports flushing with good blood return. Left PIV infiltrated and dc'd.
+
+SKIN: Overall skin D+I, CVL attempted intially in RIJ without success. Developed small hematoma and occusive dsg applied. CXR post attempt, with no pneumo's or infiltrates.
+
+SOCIAL: Physcians have spoke with grandson and updated on pt's condition. Grandson would still like to continue with current intervention except for compression and shocking. 
+
+PLAN:
+Wean Dopa as BP tolerates, goal MAP >/= 60
+Wean to extubate as pt tolerates
+Continue to monitor hemodynamics
+ 
+",,
+14511,8387,18035,0,3261-01-07 05:22:00 EST,3261-01-07 05:30:00 EST,419,"N",1,"Nursing/Other",,"
+
+Respiratory Care
+Patient had been extubated yesterday afternoon but was unable to maintain an adequate O2 sat or clear secretions. Suctioning was difficult due to bleeding/trauma from nasal et tube. At 10pm she was reintubated with a 7.5 oral et tube and suctioned for copious amounts of thick bloody sputum. She is now sedated and appears comfortable on assist/control 500 x 12 60% 5 of peep, ABGS and sats are good.
+",,
+14511,8387,18035,0,3261-01-07 18:50:00 EST,3261-01-07 19:19:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: INTUBATED
+O: SEE CAREVUE FOR ALL OBJECTIVE DATA/
+CV: REMAINS DEPENDENT ON DOPAMINE, BUT ABLE TO WEAN TO 8 MCG/KG W/ BP 95-110/50-60, HR 70-80'S SR.GROIN D/I, DISTAL PULSES DOPPLERABLE.
+RESP: NO VENT CHANGES TODAY. SX Q 3-4 HR FOR THCK YEL TAN SEC.
+GI: TF STARTED, ULTRACAL 10CC/R W/ GOAL 50CC/HR. NO STOOL
+GU: FOLEY DRAININGDK YEL URINE, RECEIVED TOTAL 1250CC NS IVF FOR LOW U/O, CURRENTLY ~ 2500CC+
+ID: TM 100.7 PO. CONT ON ABX
+SKIN: INTACT.
+NEURO: HAD BEEN ON ATIVAN GTT AT 1MG/HR, OFF AT 12:00. PT REMAINS SOMNULENT, AROUSABLE ONLY TO STIMULI.
+A: PNEUMONIA, REQUIRING VENT SUPPORT, REMAINS DOPA DEPENDENT.
+P; CONT ABX, CONT DOPA, AND WEAN AS POSSIBLE. 
+",,
+14511,8387,18035,0,3261-01-08 04:03:00 EST,3261-01-08 04:43:00 EST,-1,"N",1,"Nursing/Other","CCU NURSING NOTE,1900-0700: RLL PNA, AMI,S/P PTCA","
+CCU NURSING NOTE,1900-0700: RLL PNA, AMI,S/P PTCA
+SEE CAREVUE FOR HEMODYNAMICS
+ID: Low grades overnoc, tm 98.3 overnoc, prelimary blood cultures from aerobic showing gram positive cocci in clusters anaerobic bottle still pending. Currently being covered with Vanco and Levo with no plans to add further coverage at this time.
+
+MS: Intubated and more arousable this eve Ativan gtt off yesterday afternoon and remains off. Pt MAE's and making purposeful movements. At times gesturing request and does arouse to voice.
+
+CV: NSR/ST, HR 60-123, Dopamine being weaned to MAP >/= to 60. Currently at 5.0mcg's. MAP 50's to 80's overnoc with attempts to wean but unsuccesful. MN dose of Captopril held.
+
+RESP: Vent 500/12/.50/5 PEEP, O2Sats decreased to 50%/RRT. PO2 on evening gas 168. Suctioning q4H for thick tan secretions. Very weak to absent cough and absent gag. Sputum culture growing out gram positve cocci in pairs and chains. LS's course. ABG from this AM pending.
+
+GU/GI: Abd soft and nontender with normoactive BS's. NO BM this shift. Tolerating TF advancements well. Residual < 5cc's. Currently at 30cc/hr of Promote w/ fiber with GR of 50cc/hr. Foley draining clear yellow urine with minimal U/O's, at times 10-15cc/hr, HO's aware. Given 500 NS bolus with minimal effect. Pt about 500cc (+) for 24 hour 
+period and 2.5L (+) for LOS 
+
+HEME: Hct and platelets stable with AM labs pending.
+
+ACCESS: Left femoral triple lumen and Right radial A-line
+
+DISPO: 81 year old female with SOB and CP to ED yesterday w/ hypoxia, intubated in ED and sent for Cath. Known 3VD, distal CX and OM lesion PTCA'd without stent and low filling pressures, given IVF's and Dopa and IABP dc'd in Cath Lab. PNA blossoming yesterdaty eve with thick blood-creamy colored secretions post re-intubation and doing okay on Dopa and vent settings overnoc.
+
+PLAN:
+Titrate Ativan to ""light [**Doctor Last Name 8**]""
+Plans to extubate when pt control secretions
+Increase TF's to goal rate of 50cc/hr
+Continue to monitor to hemodynamics
+
+  
+",,
+14511,8387,18035,1,3261-01-08 17:17:00 EST,3261-01-08 18:32:00 EST,61,"Y",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+addendum:  after blood finished at 6:15pm SBP dropped again to 70's. Dopamine restarted, currently at 5mcg/kg/min and given 500cc IVB. HO aware
+",,
+14511,8387,18035,0,3261-01-08 17:17:00 EST,3261-01-08 17:25:00 EST,61,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+S: remains intubated
+O: see flowsheet for objective data. SBP labile from 60's to high of 180's, dopamine titrated to keep MAPs>70. Dopamine now d/c'd since 4pm with blood and fluids. see flowsheet for cp episode this morning, has not c/o cp since and HR back to 70's-80's from 120 ST with pain. occassional PVC's, K+ and Mg repleted. given 500cc IVB this morning for hypotension then maintained with 100cc/hr until blood ready. AM hct 25, receiving 2nd unit of PRBC with stable hemodynamics. no BM today and no overt signs of bleeding. Lfem groin D/I. remains on vent with Fi02 .4/AC 10 TV 500 with 5 PEEP, sats and ABG good. suctioned q2hr for small amts of thick tan sputum, lavaged with suction. lungs coarse. low grade temp this afternoon, Vanco to be increased, tylenol given x 1. TLC and aline sites D/I. GI: promote with fiber increased to 40cc/hr with minimal residuals, GU: voiding straw colored urine, small amounts. 2.5L+ today, maintanance IVF d/c'd, neuro: pt. rouses to stimuli and voice, following commands, appearing fidgety and anxious, ativan gtt restarted with good effect. turned q2hr, skin intact. grandson and wife in to visit, updated on condition, as per discussion with HO, they want to see what happens in the next couple of days but he states his grandmother [**Name (NI) **]'t want prolonged life supports
+A: improved BP with blood/IVF
+P: follow resp status, cont pulm toilet, follow temps, ID status, CV status, cont supportive care, keep family informed.
+",,
+14511,8387,18035,0,3261-01-09 06:04:00 EST,3261-01-09 06:23:00 EST,342,"N",1,"Nursing/Other",,"
+
+NEURO: SEDATED ON ATIVAN .5-1MG/HR. MAE. OPENS EYES TO PAINFUL 
+       STIMULI.
+RESP: ON VENT: .40X500 AC 10 + 5 PEEP. ABG->7.35/40/114/23. BS COARSE.
+      RR [**3269-9-10**]. O2 SAT 96-100%. SX SM.-MOD. AMT. THICK CREAMY
+      YELLOW SPUTUM.
+CARDIAC: HR 48-67 SR. BP LABILE & VOLUME DEPENDENT. BP 77-155/31-59.
+         DOPA 6 MCG/KG->WEANED TO OFF. NS INFUSING AT 150CC/HR. POST
+         TRANSFUSION HCT 30. RIJ TRIPLE LUMEN INSERTED. CXR DONE &
+         PLACEMENT CONFIRMED. L. FEMORAL TRIPLE LUMEN D/C'D->TIP SENT
+         FOR C&S. 
+GI: TF: FS PROMOTE WITH FIBER INFUSING AT GOAL RATE 50CC/HR VIA OGT.
+    ABD. SL. DISTENDED. BS HYPOACTIVE. NO STOOL.
+GU: FOLEY->CD PATENT & DRAINING CLEAR AMBER URINE. U/O 30-65CC/HR.
+    U/O DECREASED TO 19CC FOR 2HRS->HO NOTIFIED. 250CC NS GIVEN WITH
+    INCREASE IN U/O TO 30CC/HR.
+ID: T(MAX) 99.4(R). CONT. ON IV LEVOQUIN & VANCO.
+LABS: WBC 3.6, HCT 29.8, PLAT CT 136K. CHEMISTRIES PENDING.
+",,
+14511,8387,18035,0,3261-01-09 16:58:00 EST,3261-01-09 17:02:00 EST,210,"N",1,"Nursing/Other","npn ccu","
+npn ccu
+n-repsonds appropriately to son, sedated lightly with ativan infusion
+r-vent remains unchanged, stable oxygenation/ventilation-brief period of low oxygenation in setting of hypotension 
+cv-nsr-nsb, bp low this am requiring ivf boluses/resuming of maintenance/dopa/levo-throughout day able to wean back pressors but not ivf-uo qsuo via foley-uo tapered off during hypotesive period
+gi-tf at goal
+afebrile on vanco/levo
+family at bedside and updated
+a/p-hemodynamic instability requiring addtional vasopressor support today in setting of infection-continue all current supports
+",,
+14511,8387,18035,0,3261-01-10 05:28:00 EST,3261-01-10 05:42:00 EST,342,"N",1,"Nursing/Other",,"
+
+NEURO: SEDATED ON ATIVAN GTT AT 1MG/HR. RESPONDS TO PAINFUL STIMULI.
+       MAE.
+RESP: ON VENT: .40X500+AC 10 + 5 PEEP. BS CLEAR BUT DIMINISHED AT 
+      BASES. RR [**3269-10-11**]. O2 SATS->98-100%. SX FOR SM. AMTS. THICK 
+      YELLOW SPUTUM. SPUTUM C&S PENDING.
+CARDIAC: HR 55-69 SR. BP 131-150/48-60. NS@ 150CC/HR. RECYCLED CK'S->
+         (#1)150 WITH MB 5, (#2)127 WITH MB 3, (#3)PENDING.
+GI: TF: FS PROMOTE WITH FIBER AT GOAL RATE OF 50CC/HR TOLERATED WELL.
+    RESIDUALS 10-30CC. ABD. SL. DISTENDED. BS+. NO STOOL.
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. U/O 25-110CC/HR.
+ID: T 97.4->100.6(PO). CONT ON IV VANCO, P&T LEVELS TO BE DONE AROUND
+    0600 DOSE. IV LEVOQUIN SWITCHED TO PO.
+AM LABS PENDING.  
+",,
+14511,8387,18035,0,3261-01-10 18:34:00 EST,3261-01-10 18:47:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: INTUBATED
+O: SEE CAREVUE FOR ALL OBJECTIVE DATA
+CV: REMAINS OFF PRESSORS W/ BP 120-175/50-80, HR 90'S SR W/ NO VEA.
+RESP: VENT CHANGED PS8/5, 40% PEEP W/ ABG-> 67/41/7.34/23, SATS AT THAT TIME 91%, NOW 94-96%. SUCTIONED FOR SCANT AMTS SECRETIONS FROM ETT, LARGER AMTS ORAL SECRETIONS.
+GI: TOLERATING TF W/ MINIMAL RESIDUALS, NO STOOL TODAY.
+GU: FOLEY DRAINING CL YEL URINE. U/O THIS AFTERNOON HAS PICKED UP CONSIDERABLY, PUTTING OUT 300CC IN PAST 2 HRS. IVF HAD BEEN D/C THIS AM.
+ID: TEMP ^102 THIS AM, CULTURES SENT. CURRENTLY 100.2.
+SKIN: INTACT
+SOCIAL: GRANDSON AND HIS WIFE HERE AND MET W/ TEAM. DECISION MADE TO EXTUBATE WHEN READY AND PT WILL NOT BE REINTUBATED.
+A: PNEUMONIA, SEPSIS
+P: CONT ABX, PULMONARY TOILET, EMOTIONAL SUPPORT TO FAMILY.
+",,
+14511,8387,18035,0,3261-01-11 05:02:00 EST,3261-01-11 05:35:00 EST,-1,"N",1,"Nursing/Other","CCU NURSING NOTES 1900-0700: PNA, NQWMI, ?ARDS VS PE","
+CCU NURSING NOTES 1900-0700: PNA, NQWMI, ?ARDS VS PE
+SEE CAREVUE FOR ADDITIONAL OBJECTIVE DATA
+ID: Tm 99.0 rectal, previous blood cultures (+) for coag (-) staph, still recieving Levo and Vanco. Repeat cultures pending.
+
+MS: Intubated and off of sedation since yesterday.Towards morning becoming more alert and following very simple commands. Moving lower extremeties somewhat in bed.
+
+CV: NSR with no ectopy. HR 60's to 80's, SBP stable overnoc with a range of 100's to 140's. Occasionally in 180's to 200's with suctioning and/or stimulation. Pressors remain off.
+
+RESP:LS course throughtout occasionaly clearing breath sounds on left side post suctioning. O2 Sats 99-100% overnoc. Place on AC overnoc for rest, 500/10/.50/ 5 PEEP, more than likely to will return to PS with possible wean today. AM ABG pending with AM LABS. Sucitoning for small amounts of white thick secretions.
+
+GU/GI: Foley draining > 100cc/Q2hr for urine outputs, Recently dropping of to 40cc/Q2h, will conitnue to monitor. TF's at goal, No BM's overnoc. Abd with normoactive BS's and NT to palpation.
+
+A/P: 81 year-old female with PNA, NQWMI thought secondary to demand ischemia, and existing 3VD, nonsurgical canidated who is in septic shock with possible ARDS.
+
+Follow up with pending cultures
+Wean to pressure support
+Provide BP support as needed.
+   
+",,
+14511,8387,18035,0,3261-01-11 14:46:00 EST,3261-01-11 15:01:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+SEE CAREVUE FOR ALL OBJECTIVE DATA
+
+RESP/CV: VENT CHANGED TO PS8/5 PT TOLERATED WELL W/ RR ~20 GOOD TV, SATS 95-99%,DESPITE BEING HYPERTENSIVE W/ SPB ^180, WHEN PS DOWN TO 5 PT BECAME MORE HYPERTENSIVE AND SATS DROPPED TO 80'S, IV NTG GTT STARTED AND PT GIVEN LOPRESSOR IV TOTAL 10MG. PS ^TO 8. PT GIVEN 20 MG IV LASIX W/ GOOD RESPONSE, NTG TITRATED TO 300MCG, AND GIVEN 25MG LOPRESSOR VIA NGT. PT EXTUBATED AT 2:45PM. GIVEN ADDITIONAL 5MG IV LOPRESSOR. CURRENTLY ON 50% W/ SATS 93-95%, RR 23. HR 87 SR, NO VEA, BP 163/76.
+GI: TF OFF TODAY D/T WEANING, NGT OUT W/ EXTUBATION, NO STOOL TODAY.
+GU: AUTODIURESING W/ U/O 100-200CC/HR, ALSO GIVEN 20MG IV LASIX. CURRENTLY ~ 1600CC NEG.
+ID: TM 99.4 R. CONT ON ABX.
+SKIN: INTACT
+MS: GIVEN .5MG IV ATIVAN FOR COMFORT. PT AWAKE, FOLLOWS SIMPLE COMMANDS, MAE.
+SOCIAL: GRANDSON [**Name (NI) **] CALLED THIS AM AND WAS UPDATED ON PT'S CONDITION AND PLAN TO EXTUBATE TODAY. AFTER DISCUSSION BETWEEN GRANDSON AND MD DECISION MADE NOT TO REINTUBATE.
+",,
+14511,8387,18035,0,3261-01-11 20:53:00 EST,3261-01-11 21:15:00 EST,118,"N",1,"Nursing/Other","CCU NPN 3-11PM","
+CCU NPN 3-11PM
+RESP: PT ON 98% HIGH FLOW NEB SATING 92%, DROPPING SATS TO 88%, CHANGED TO 100% NRB, SATS>90%, VERY LETHARGIC, NO SPEAKING. LS COURSE THROUGHOUT. 
+
+CV: HYPERTENSIVE TO 190/, GIVEN 5MG LOPRESOR IV BP DOWN TO 170/, STARTED IV LABETALOL, 15 MG BOLUS WITH GOOD EFFECT, THEN STARTED GTT AT 0.5MG/HR WITH BP 140/, BP AGAIN UP TO 160/, INCREASED LABETALOL TO 1MG/HR. PT BECOMING LESS RESPONSIVE, GAVE MORE LASIX. 
+
+PT MS CONT TO DETERIORATE, BECOMING UNRESPONSIVE, ABG SHOWED RESP ACIDOSIS WITH CO2 77, PH7.17. GIVEN MSO4 GTT FOR COMFORT, GRANDSON CALLED AND NOTIFIED OF CHANGES. PT DNR/DNI AND TO BE MADE COMFORTABLE. 
+
+
+
+
+",,
+14511,,18035,0,3261-01-12 04:55:00 EST,3261-01-12 05:05:00 EST,342,"N",1,"Nursing/Other",,"
+
+IN LIGHT OF MRS.[**Initials (NamePattern4) 6175**] [**Last Name (NamePattern4) 6176**] ABG(7.17/77/143/30), & AFTER
+DISCUSSING HER SITUATION WITH FAMILY MEMBERS, IT WAS DECIDED TO MAKE
+HER COMFORT MEASURES ONLY. MSO4 GTT INITIATED & PRESENTLY INFUSING AT
+2MG/HR. MRS. [**Known patient lastname **] IS UNRESPONSIVE & APPEARS TO BE IN NO DISTRESS. O2
+SATS TRENDING DOWN(96%->84%), AS ARE HER VS(SBP 90'S). SEE FLOWSHEET
+FOR FURTHER DETAILS.   
+",,

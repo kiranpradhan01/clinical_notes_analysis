@@ -1,0 +1,328 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14420,,,,2943-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2943-2-27**] 1:02 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 9231**]
+     Reason: dx: aortic stenosis/aortic valve, replacement, de-do sternot
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with 
+     REASON FOR THIS EXAMINATION:
+      dx: aortic stenosis/aortic valve
+      replacement, de-do sternotomy
+      proc: aortic valve replacement,de-do
+      sternotomy.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aortic valve replacement, preop.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  The heart size is top normal.  Calcified pleural plaques are noted
+     bilaterally.  There is no pulmonary vascular congestion, focal infiltrate, or
+     pneumothorax.  The osseous structures are unremarkable.
+     
+     IMPRESSION:  Abnormal heart size.  Bilateral calcified pleural plaques are
+     consistent with asbestos exposure.
+
+",,
+14420,6375,,,2943-03-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2943-3-8**]              Discharge Date:   [**2943-3-17**]
+ 
+Date of Birth:  [**2865-6-12**]             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Iodine
+ 
+Attending:[**First Name3 (LF) 3809**] 
+Addendum:
+Mr. [**Known patient lastname 10624**] coumadin was adjusted to 2.5 mg daily based on his 
+hospital INR levels. He needs his INR followed. His atenolol was 
+changed to low dose lopressor for heart rate parameters. He has 
+renal insufficiency at baseline. His pre-op hctz is being 
+started at 1/2 dose (12.5 daily) on discharge. It needs to be 
+increased to 25 mg daily if his creatinine remains stable. Today 
+he is being discharged to rehab with INR 2.1, tolerating regular 
+diet, with clean incisions, and ambulation. He needs rehab for 
+physical therapy. 
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day): while taking narcotic pain medication.  
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+3. Warfarin Sodium 1 mg Tablet Sig: as directed Tablet PO DAILY 
+(Daily): target INR 2-2.5.  
+4. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours) as needed.  
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4H (every 4 hours) as needed for pain.  
+6. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO HS (at bedtime) as needed for constipation.  
+7. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+PRN as needed for constipation.  
+8. Carbidopa-Levodopa[**MD Number 1653**] mg Tablet Sig: One (1) Tablet PO 
+TID (3 times a day).  
+9. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 
+ 
+10. Warfarin Sodium 1 mg Tablet Sig: One (1) 2.5 mg PO once a 
+day: 2.5 mg at bedtime every day. Follow INR.  
+11. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 25 mg PO BID (2 
+times a day): 12.5 mg twice a day.
+Hold for hr < 50 or sbp < 100.  
+12. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+once a day: 12.5 mg P.O. daily.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Lifecare Cente of [**Location 3070**]
+ 
+                             [**First Name11 (Name Pattern1) 34**] [**Last Name (NamePattern4) **] MD [**MD Number 1144**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number 10625**] [**2943-3-17**] @ 1101
+Signed electronically by: DR. [**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**2943-4-4**] 9:59 AM
+(End of Report)
+
+
+",,
+14420,6375,,,2943-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2943-3-8**] 2:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9232**]
+     Reason: post op                                                     
+     Admitting Diagnosis: AORTIC STENOSIS\AORTIC VALVE REPLACEMENT; DE-DO STERNOTOMY/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man s/p cabg/avr                                                    
+     REASON FOR THIS EXAMINATION:
+      post op                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable supine chest, [**2943-3-8**].
+     
+     CLINICAL INDICATION:  Status post coronary artery bypass surgery.
+     
+     There has been interval median sternotomy, aortic valve replacement, and
+     coronary artery bypass surgery.  An endotracheal tube, Swan-Ganz catheter, and
+     left-sided chest tube are in satisfactory position.  A nasogastric tube
+     terminates at the thoracoabdominal junction with the side port above the GE
+     junction level by several centimeters.  There is postoperative widening of the
+     cardiac and mediastinal contours.  There has been interval development of
+     perihilar and interstitial edema.  Bibasilar atelectatic changes are also new
+     in the interval.  Small pleural effusions are seen bilaterally superimposed
+     upon preexisting calcified pleural plaques.  No pneumothorax is evident on the
+     supine study.
+     
+     IMPRESSION:
+     
+     1)  Proximal location of nasogastric tube side port for which advancement is
+     suggested for more optimal placement.
+     
+     2)  Interstitial pulmonary edema, bibasilar atelectasis, and small bilateral
+     pleural effusions.
+                                                                           
+
+",,
+14420,6375,17922,0,2943-03-08 16:00:00 EST,2943-03-08 16:02:00 EST,3492,"N",54,"Nursing/Other",,"
+
+Resp. care note - Intubated pt. transffered from OR to CSRU. Pt. intubated with #7.5 OET, 21 at the lip, placed on the vent at this time.
+",,
+14420,6375,17922,0,2943-03-08 18:31:00 EST,2943-03-08 18:44:00 EST,4003,"N",54,"Nursing/Other",,"
+
+NEURO  SEDATED ON PROPOFOL PUPILS REMAIN PINPOINT PROPOFOL OFF 1730 REVERSED 1630 WAKING SLOWLY OPENING EYES TO VOICE ONLY 1830 
+
+C/V  APACED ON ARRIVAL TO CSRU WITH UNDERLYING SR 70S ON BRIEF RUN ? SVT 4-5BEATS PACER SET TO BACKUP 60 B/P STABLE ON NEO LOW DOSE OCC PVC CCO WITH CI DECREASED TO < 2 PACKED CELL AND FLUID GIVEN WITH GOOD EFFECT DECREASED B/P APACED NEO 8 BEAT RUN VT MAG GIVEN 5 BEAT RUN PA LINE PULLED BACK 3CM BY NP HR DECREASED TO 55 SB APACED 70S INCREASING B/P WITH WAKING SVO2 60S CI > 2 PALP PULSES 
+
+RESP  VENT DECREASED TO 40% TOL WELL LUNGS CLEAR CHEST TUBES DRAINING SMALL AMT SANG CREPITUS NOTED L SIDE INCISION MD AWARE NO INCREASE IN CREPITUS SINCE ADMIT OR CSRU SATS 100% ABG WNL 
+
+GU/GI  ABS SOFT OG COILED IN MOUTH REINSERTED DRAINING SMALL AMTS CLEAR BILIOUS LARGE U/O 
+
+PLAN  CONTINUE TO MONITOR FOR V ECTOPY WAKE AND WEAN IF REMIANS STABLE
+",,
+14420,6375,17922,0,2943-03-08 22:29:00 EST,2943-03-08 22:37:00 EST,4003,"N",54,"Nursing/Other",,"
+
+NEURO  PROPOFOL OFF REVERSAL GIVEN WAKING SLOWLY OPENS EYES TO REQUEST
+WIGGLES TOES AND WEAK SQEEZE TO BOTH HANDS NODS HEAD APPROPRIATLY AND FOLLOWS COMMANDS GOES BACK TO [**Doctor Last Name **] IF NOT STIMULATED 
+
+C/V  1830 SVT 148 B/P 90S SYSTOLIC LOPRESSOR 5MG GIVEN WITH HR DECREASE TO 120S B/P REMAINS 90S AWIRE TRACE AND EKG DONE NP PRESENT SVT ADENOSINE 6MG GIVEN WITH CONVERT TO SB APACED 80S B/P STABLE ON TITRATING DOSES OF NEO NO FURTHER V ECTOPY NOTED AWIRES FUNCTIONAL OVERSENSING AT .4 INCREASED [**Last Name (un) **] TO .8 WITH ADEQUATE SENSE CI 1.6 BY [**Name8 (MD) **] MD [**First Name (Titles) 329**] [**Last Name (Titles) **] DONE CI > 2 PAD AND CVP WNL 
+
+RESP  IMV CONTINUED OVERBREATHING BUT WITH LOW VOLUMES PT REMIANS LETHARGIC ABG WNL WITH CPAP WHEN MOVE AWAKE LUNGS CLEAR CHEST TUBE DRAINAGE MINIMAL SATS 98% 
+
+PLAN  CPAP WHEN MORE AWAKE  MONITOR EKG 
+",,
+14420,6375,17922,0,2943-03-09 07:27:00 EST,2943-03-09 07:36:00 EST,3892,"N",54,"Nursing/Other","11pm-7am update","
+11pm-7am update
+neuro:pt sleepy, opening eyes spontaneously. MAE and able to follow commands. PERRL
+
+CV: pt in NSR, rare PAC noted. pt also going in and out of junctional rhythm. pt initally on neo gtt. neo weaned off and started on nitro gtt this am for bp control. svo2 66-77. CI > 2.0. although CI once  dropped below 2.0 breifly after turning side to side. hct stable. pp by doppler
+
+resp: pt weaned to 40% CPAP with 10 PS and 5 peep. TV in the 300's, RR in the high 20's. see flowsheet for abg's and vent adjustments. RSBI 94 this am. CT with no airleak noted. CT draining serousanginous fluid
+
+gi/gu: BS absent. OGT draining billious fluid. foley draining clear yellow urine. UO low x 2 hours -> treated with 20 mg lasix x 1. creatinine 1.9  this am (baseline creatinine 2.4)
+
+endo: pt initally on insulin gtt. insulin gtt off this am for low bs
+
+plan: wean to extubate, monitor rhythm, monitor hemodynamcis, monitor lytes/creatinine
+",,
+14420,6375,17922,0,2943-03-09 16:33:00 EST,2943-03-09 16:57:00 EST,3240,"N",54,"Nursing/Other",,"
+
+CSRU NPN
+
+Neuro:  Alert.  Post extubation, pt oriented to self, confused to date and place.  Does not remember coming in for surgery and thought he was at home.  Did receive .25 mg IV ativan pre extubation for anxiety.  Able to lift legs off bed but could only minimally lift arms off bed (left more than right) and couldn't lift head off pillow.  Hand grasps strong bilat.  MD aware. Post extubation, pt states he can't lift his head off pillow d/t Parkinsons however he doesn't have any difficulty lifting head at home. Flat affect noted. Sinemet cont's.  Verbalizing nervousness about his condition and fears of dying->reassured of progress.
+
+CV:  NSR with occ PAC's, rare junctional beats.  Started lopressor with HR down to 60's 70's.  Pacer turned off d/t failure to sense properly.  CI and MVO2's stable->swan removed.  Ntg titrated accordingly for labile BP.  Hct stable.  CT's w/ minimal dng.  Lytes repleted prn.
+
+Resp:  ABG's good on CPAP 5/5, 40% FiO2.  Extubation delayed d/t pt's inability to lift head off pillow. Decision made by team to monitor pt for several more hours before extubating. AT 1400 repeat RSBI ~ 54 with stable ABG.  Extubated ~1610 to 50% face tent without difficulty.
+O2 sats 96% or greater.
+
+GI:  Abd soft.  Hypoactive BS.
+
+GU:  Lasix 20 mg started.  Mod diuresis from 1100 dose.
+
+Endo:  SSRI per protocol.
+
+ID:  Afebrile.  Abx cont.
+
+Comfort:  Denies pain however grimaces with position changes.  Tylenol given to prevent over sedation and help w/ extubation process.
+
+Social:  Companion and sister called->updated on pt's condition.
+
+A:  Hemodynamically stable. Extubated without difficulty.  Still with inability to lift head off pillow and minimal lifting of UE's.
+
+P:  Continue to monitor neuro status and mobility. Sinemet as ordered. Emotional support.  Ntg for bp control. Pulmonary hygiene.  SSRI.  Increase activity as tolerated.  
+
+",,
+14420,6375,17922,,2943-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2943-3-10**] 11:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9233**]
+     Reason: post chest tube removal                                     
+     Admitting Diagnosis: AORTIC STENOSIS\AORTIC VALVE REPLACEMENT; DE-DO STERNOTOMY/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man s/p cabg/avr                                                   
+       
+     REASON FOR THIS EXAMINATION:
+      post chest tube removal                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 77-year-old man status post CABG/AVR post chest tube removal.
+     
+     AP UPRIGHT PORTABLE CHEST [**2943-3-10**] AT 11:30 A.M.:  Since prior study on
+     [**2943-3-8**], all external support tubing with the exception of a right internal
+     jugular line have been removed.  The patient is in failure with bilateral
+     pleural effusions.
+                                                                           
+
+",,
+14420,6375,17922,0,2943-03-10 06:11:00 EST,2943-03-10 06:23:00 EST,4003,"N",54,"Nursing/Other",,"
+
+NEURO  ALERT ORIENTED ANSWERS QUESTIONS APPROPRIATLY CONFUSED AT TIMES STATES TO CLOSE HIS DOOR THINKS HE IS AT HOME REORIENTS EASILY MOVES ALL EXTREMETIES LIFT AND HOLD ONLY PT STATES THIS IS HIS BASELINE MOVES VERY SLOWLY AT HOME AND HAS COMPANION TO ASSIST WITH ADLS 
+
+RESP  OFM WITH MARGINAL ABG CONVERT TO 4L NC WITH GOOD RESULTS ABG WNL USING IS WITH MUCH ENCOURAGMENT LOW VOLUMES  LUNGS CLEAR PRODUCTIVE COUGH SMALL THIN SECRETIONS CHEST TUBES SMALL AMTS SEROSANG 
+
+C/V  NSR SB WITH PACS AND PVCS LOPRESSOR GIVEN HR DECREASE TO 50S AT TIME B/P STABLE NITRO OFF TO 140S SYSTOLIC WITH STIMULATION AND COUGHING ONLY PALP PULSES PACER OFF NOT SENSING 
+
+GU/GI  ABD SOFT SMALL AMT SOFT STOOL ADEQUATE URINE OUT TOL CLEAR LIQS WELL TAKING PILLS WITH MUCH DIFFICULY 
+
+PLAN  INCREASE ACTIVITY AND DIET TODAY 
+",,
+14420,6375,17922,0,2943-03-10 15:24:00 EST,2943-03-10 15:54:00 EST,3084,"N",54,"Nursing/Other","afib","
+afib
+D: pt in sr this am with periods of atrial bigemidy-occas pac's. sbp remained >100/ consistently.
+A: pt given magnesium and given his po lopressor.
+R: pt with lessened amt of atrial bigemidy, sbp did dip to 90's occas. D:at 12 noon pt noted to have short episode of afib rate 120's- subsided without tx.
+A: labs drawn-ca, k+, abg
+R: all within nl limitis, k 4.3, Ica 1.12, abg -wnl-po2 79.
+A: pt continued with good u/o- creat 2.4 today(baseline)pt giving another 20 mg KCL, Magnesium and Calcium gluconate.
+D: pt went into afib rate 100-120- intial bp dripped to 90's then up to 140/50.
+A: Dr [**Last Name (STitle) 6071**]=[**Doctor First Name **] made aware- total 10mg iv lopressor given, 
+R: no change, hr down to 90's, sbp remained >110/
+A: iv amiodarone bolus given and then drip started at 1 mg/min 
+
+
+
+",,
+14420,6375,17922,0,2943-03-10 18:52:00 EST,2943-03-10 19:10:00 EST,3084,"N",54,"Nursing/Other","update","
+update
+D: Pt POD #2 from AVR/cabg-slow to wake- extubated 2/19-1600, into afib today- on amiodarone. diuresing with lasix, po lopressor, restarted parkinson med immed after surgery.
+neuro: pt more awake as day progressed, oriented x 2-napped upon waking confused but easily re-oriented. changed to tylenol for pain.mae- lerthagic yet approp.
+cardiac: as noted in previous note- into afib on amiodarone.
+resp: pt weaned to 2l np-sat 97%, r/a sat dips to 90%, bs clear dim in bases, ""coughing with some raising of white sputum-
+gi: tol po's, positive gag, poor appetite, does experience some difficulty with taking pills-crushed and put in ice cream. abd soft, bs present, bm [**3-9**] small amt.
+gu: diuresing on lasix- u/o adeq- pt with cri- creat 2.4 today(baseline)
+inc: intact
+discomfort: pt appears sensitive to narcoctic--lethargic after taking, given po tylenol for pain
+activity: oob to chair x 3- slow to move but good on feet when he gets there-
+plan: pt to floor-= rehab a good possibilitiy, progress cardiac rehab- amiodarone for afib
+",,
+14420,6375,17922,0,2943-03-11 05:33:00 EST,2943-03-11 05:45:00 EST,4007,"N",54,"Nursing/Other",,"
+
+shift update:
+
+neuro:  a&o x2-3.  cooperative.  mae but very weak.  transfered back to bed w/assist of 2.  t&r w/max assist of 2.  c/o right shoulder pain relieved by repositioning.
+
+cardiac:  afib w/hr 70-90's->sb w/hr 40-50's->apaced at 60->nsr 60's.  amio gtt decreased to 0.5mg/min.  lopressor given as ordered.  sbp>140 ntg gtt restarted.  ?increasing po lopressor dose in am.   wires sense & capture appropriately.  pacer set for ademand at 50.  +pp bilat.  k+ & ca repleated.  
+
+resp:  lungs clear but diminished in bases.  sat's>96% on 2l nc.  cdb effectively.  + thick tan sputum.  
+
+gi/gu:  +bs.  +flatus.  tolerating clear liquids.  uop adequate.  good diuresis after lasix.
+
+endo:  no ssri required per ss.
+
+social:  companion called update given & spoke with pt.
+
+plan:  pain management.  cont to monitor hemodynamics.  ?change amio to po.  ?increase lopressor dose.  cont cardiac rehab.  encourage pulmonary toilet.  ?transfer to [**Hospital Ward Name 40**] 2.
+",,
+14420,6375,17922,0,2943-03-11 14:35:00 EST,2943-03-11 15:05:00 EST,4216,"N",54,"Nursing/Other","CSRU UPDATE","
+CSRU UPDATE
+NEURO: ALERT,ORIENTED. MIN MOVEMENT OF UE. STANDS/AMB SHORT DISTANCE W/ ASSIST OF 2. REQUIRE TOTAL LIFT TO BED AFTER AMB TO [**Doctor Last Name 99**].PT QUITE WEAK IN GENERAL. NEURO CONSULT OBTAINED. PT W/ PMH OF PARKINSONS W/ TREMORS. MOBILE AT HOME.
+
+CV: VS AS PER FLOWSHEET. NTG WEAN TO OFF, NORVASC BEGAN. AMIODARONE CHANGE TO PO. INITIALLY IN SINUS BRADY. EPISODES OF A-FIB TO 80'S. PRESENTLY RETURN TO SINUS BRADY LOW 50'S. HEPARIN BEGAN AT 600U/HR. 2+ GENERAL EDEMA. 
+
+RESP: LUNGS W/ CRACKLES LT BASE. STRONG COUGH PRODUCTIVE OF THICK YELLOW SECRETIONS. O2 2L N/C W/ SATS ~97%. IS TO 750CC. 
+
+GI/GU: APPETITE FAIR. DENIES NAUSEA. UOP QS, ON BID LASIX. 
+
+PAIN: DENIES PAIN. 
+
+ASSESS: STABLE DAY. EPISODES OF AFIB. OFF NTG/AMIO DRIPS. 
+
+PLAN: CONT TO INCREASE ACTIVITY. TRANSFER TO [**Hospital Ward Name **] 2 [**3-12**]. 
+
+
+
+
+",,
+14420,6375,17922,0,2943-03-12 04:49:00 EST,2943-03-12 05:06:00 EST,3228,"N",54,"Nursing/Other",,"
+
+NEURO-ALERT/ORIENTED X3. PLEASANT/CONVERSIVE WITH FLAT AFFECT D/T PARKINSONS. MAE-WEAKLY,HAS STRONG HAND GRASPS. 2 PERSON ASSIST OOB/BTB. SPPECH CLEAR.
+
+CV-AFIB-SB-> 40-50 -> A-PACED. HYPOTENSIVE WITH SB. HEPARIN GTT @ 600U/HR.PTT=45.2 AMIO PO.
+
+RESP-2LNC=98%.BIBASILAR CRACKLES,CLEARED WITH DIURESES. MOD.COUGH. RAISING THIN WHITE SPUTUM.
+
+GI-ABD SOFT. +FLATUS. ABLE TO SWALLOW PILLS WITHOUT DIFFICULTY.
+
+GU-DIURESING WELL FROM LASIX.
+
+LABS-K+ REPLETED X1.
+
+PAIN-DENIES
+
+PLAN-INCREASE ACTIVITY WITH ASSIST AS TOLERATED. CONTINUE TO MONITOR PTT,K+. TRANSFER TO [**Hospital Ward Name **] 2.
+
+",,

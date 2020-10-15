@@ -1,0 +1,219 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14722,18710,,,3391-05-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3391-5-2**]       Discharge Date:  [**3391-5-7**]
+
+Date of Birth:   [**3316-6-12**]       Sex:  M
+
+Service:  Cardiothoracic Surgery
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 74-year-old
+male with a history of hypertension, diabetes, and a long
+history of cigarette smoking; who was in his usual state of
+health until he developed some unstable angina.  The patient
+was transferred from an outside hospital for cardiac
+catheterization at our facility.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Diabetes.
+3.  Benign prostatic hypertrophy.
+4.  Peripheral neuropathy.
+5.  Osteoarthritis.
+6.  Lyme disease.
+7.  Asbestosis.
+8.  Colonic polyps.
+
+PAST SURGICAL HISTORY:   No previous past surgical history.
+
+ALLERGIES:  He has no known drug allergies.
+
+HOSPITAL COURSE:   This 74-year-old man, who was transferred
+to our facility, underwent cardiac catheterization.
+
+Catheterization revealed an 80% stenosis of the proximal left
+anterior descending artery, and an 80% stenosis of the obtuse
+marginal, with a normal left ventricular ejection fraction.
+
+Based on these findings, Cardiothoracic Surgery was consulted
+and the patient was deemed appropriate for a coronary artery
+bypass graft.  So, on [**3391-5-3**], the patient was taken
+to the operating room where he underwent a coronary artery
+bypass graft.  His grafts were left internal mammary artery
+to the second diagonal and saphenous vein graft to obtuse
+marginal.  The patient tolerated the procedure well, and
+there were no complications.
+
+Postoperatively, he was transferred to the Cardiothoracic
+Surgery Recovery Unit where he was maintained briefly on
+pressors.  The patient woke up extubated and was weaned off
+of his pressor support.
+
+On postoperative day two, he was transferred out of the
+Intensive Care Unit to the floor, where his chest tubes and
+Foley catheter were removed, and his pacing wires were
+removed.  His diet was advanced.  He worked with Physical
+Therapy, and he was deemed to be a candidate for
+rehabilitation and was to be discharged there on
+postoperative day four.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable.
+
+DISCHARGE STATUS:  To rehabilitation.
+
+MEDICATIONS ON DISCHARGE:
+1.  Lipitor 10 mg p.o. q.h.s.
+2.  Glucophage 500 mg p.o. b.i.d.
+3.  Acetylsalicylic acid 325 mg p.o. q.d.
+4.  Metoprolol 25 mg p.o. b.i.d.
+5.  Lasix 20 mg p.o. b.i.d. (for seven days).
+6.  Potassium chloride 20 mEq p.o. b.i.d. (for seven days).
+7.  Colace 100 mg p.o. b.i.d.
+8.  Zantac 150 mg p.o. b.i.d.
+
+DISCHARGE FOLLOWUP:   The patient was to follow up with his
+primary care doctor, Dr. [**Last Name (STitle) 2695**], in two to four weeks and
+with Dr. [**Last Name (STitle) 1142**] in Cardiothoracic Surgery in two to four
+weeks.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 34**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1144**]
+
+Dictated By:[**Last Name (NamePattern1) 1852**]
+MEDQUIST36
+
+D:  [**3391-5-7**]  11:40
+T:  [**3391-5-7**]  10:43
+JOB#:  [**Job Number 11108**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) **]
+ on: MON [**3391-5-9**] 11:33 AM
+(End of Report)
+
+
+",,
+14722,18710,,,3391-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-5-2**] 6:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11989**]
+     Reason: Preop for CABG in AM.  On bedrest until surgery.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with CAD.  Preop for CABG in AM.  On bedrest until surgery. To
+      be admitted to [**Wardname 11990**]  ~ 7PM.
+     REASON FOR THIS EXAMINATION:
+      Preop for CABG in AM.  On bedrest until surgery.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preoperative radiograph for CABG.
+     
+     CHEST, SINGLE VIEW:  The heart size is normal with an unfolded aorta.  There
+     is hyperinflation of the lungs with flattening of the diaphragms.  No focal
+     consolidations are identified.  There is apparent pleural thickening along the
+     lateral thoracic walls.  The osseous structures are unremarkable.
+     
+     IMPRESSION:  1)  Background emphysema, without radiographic evidence of acute
+     cardiopulmonary disease.  2)  Probable bilateral pleural thickening.  Does
+     this patient have a history of asbestos exposure?
+
+",,
+14722,18710,18296,0,3391-05-03 17:41:00 EST,3391-05-03 17:55:00 EST,3622,"N",54,"Nursing/Other","SHIFT UPDATE.","
+SHIFT UPDATE.
+PT. ASSESSMENT:
+
+NEURO:  INITIALLY ARRIVING ON PROPOFOL GTT, REVERSALS GIVEN AND PROPOFOL GTT OFF, FOLLOWING COMMANDS, C/O PAIN, MEDICATED WITH MSO4 TOTAL OF 6MG IVP, WITH GOOD EFFECT.  NO TORDOL GIVEN AT THIS TIME D/T.  AFTER EXTUBATION PT. A&OX3, SOFT WRIST RESTRAINTS D/C'D.
+CARDIAC:  INITIALLY A-PACED AT 80, INTRINSIC HR COMPETING, PACER TURNED OFF.  WEANED OFF NEO/NTG GTT, GIVEN TOTAL OF 2L LR FOR LOW U/O AND LOW CVP.  R IJ DOUBLE LUMEN CATH AND R RAD ALINE INTACT.
+RESP:  BS CONT. TO BE VERY DIMINISHED IN BASES AND COARSE IN UPPER AIRWAY, INITIALLY AMBUED, LAVAGED AND SUCTIONED FOR THICK YELLOW SECREATIONS.  ABLE TO WEAN AND EXTUBATE AT ~1700PM, PLACED ON NP WITH SAT'S >95%.  CT OUTPUT CONT. TO BE OOZY, DRAINING ~100CC/HR, ACT ELEVATED, TREATED WITH 50MG IVP PROTAMINE, DRAINAGE SLOWING.  
+GI/GU:  HOURLY URINES CONT. TO BE BOARDERLINE, IMPROVING AFTER FLUID.  - BS THRU-OUT, OGT->LCWSX DRAINING BILIOUS MATERIAL.  BS TREATED WITH S.S. INSULIN.
+SOCIAL:  LARGE FAMILY, UPDATES GIVEN AND VISITING HOURS INFORCED.  WIFES # ON BOARD IN ROOM.
+PLAN:  CONT. TO FAST TRACK, MONITOR CT OUTPUT, TREAT LABS AS NEEDED. 
+",,
+14722,18710,18296,0,3391-05-04 03:32:00 EST,3391-05-04 03:44:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**5-3**] 7P-7A; SHIFT SUMMARY;
+
+NEURO; INITALLY LETHARGIC BUT EASILY ARROUSABLE AND MORE ALERT THRU OUT THE NOC. SLEPT IN SHORT NAPS. FOLLOWS COMMANDS AND MAE'S WELL.
+
+RESP; EXTUBATED ON PREVIOUS SHIFT AND PT ON N/C AT 4L/M WITH 02 SAT'S RUNNING 100% AND RESP. RATES WNL.  LUNGS CLEAR DIM IN THE BASES AND CHEST TUBES DRAINING THIN SEROSANQ. DRAINAGE IN MINIMAL TO NORMAL HOURLY AMTS.
+
+CARDIOVAS; SR 80'S NO ECTOPY NOTED. BP STABLE BUT MAP DID DIP DOWN TO HIGH 50'S AND SBP DOWN TO 90'S WHEN IN SOUND [**Doctor Last Name **]. NEO RESTARTED AND RUNNING AT 0.25MCG/KG/MIN AT THIS TIME AND WILL ATTEMPT TO WEAN OFF THIS AM IF BP TOLERATES.
+
+GI; BS PRESENT. TAKING AND TOLERATING SIPS OF H20 WITH NO C/O'S NAUSEA
+
+GU; URINE OP WNL BUT NOTED IT TO BE SLOWING DOWN TO HIGH 20'S THIS AM.
+
+COMFORT;  C/O LOT OF DISCOMFORT AROUND CHEST TUBES INSERTION SITE AND MED WITH MS04 2MG IV WITH GOOD EFFECT AND ALSO STARTED PT ON TORADOL DURING THE NOC.
+
+PLAN;  WEAN NEO TO OFF TRANSFER TO [**Hospital Ward Name **] 6 IF REMAINS STABLE AND WHEN BED AVAILABLE.
+
+
+",,
+14722,18710,18296,0,3391-05-04 10:37:00 EST,3391-05-04 10:47:00 EST,3622,"N",54,"Nursing/Other","SHIFT UPDATE.","
+SHIFT UPDATE.
+PT. ASSESSMENT:
+
+NEURO:  A&OX3, MAE TO COMMANDS, DENIES PAIN AT THIS TIME.  OOB TO CHAIR WITH ASSIST X2, VERY STIFF AND SLIGHTLY UNSTEADY ON FEET.  
+CARDIAC:  CONT. TO BE IN NSR WITH NO ECTOPY, SYS B/P >90 & MAP'S >60 OFF NEO, ALINE AND NIV B/P CORRELATING.  R IJ DOUBLE LUMEN AND R RAD ALINE D/C'D WITHOUT INCIDENT.  2 PERIPH IV'S INTACT.  PACER ATTACHED BUT OFF, + BPPP.  
+RESP:  BS CONT. TO BE DIMINISHED IN BASES, COUGHING BUT NOT RAISING ANY SECREATIONS.  O2 AT 4L NP WITH SAT'S >95%.  CT'S CONT. TO OOZE SEREOUS DRAINAGE, + AIR LEAK, TUBES TO STAY TODAY.
+GI/GU:  HOURLY URINES CONT. TO BE >25CC.  + HYPOACTIVE BS THRU-OUT, TOLERATING REG DIET, BS CONT. TO BE TREATED WITH S.S. INSULIN.  
+SOCIAL:  LARGE FAMILY, NEEDING LOTS OF ENCOURAGEMENT AND REASSURANCE REGARDING PT'S CONDITION.  
+PLAN:  CONT. TO FAST TRACK, TX TO F6.
+",,
+14722,18710,,,3391-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-5-6**] 2:23 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11992**]
+     Reason: s/p chest tube removal-R/O PTX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with s/p cabg
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube removal-R/O PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P CABG and chest tube removal.  Rule out pneumothorax.
+     
+     COMPARISONS:  [**3391-5-6**] at 11:15 hours.
+     
+     PA AND LATERAL CHEST:  Sternotomy wires are unchanged.  Cardiac, mediastinal
+     and hilar contours are stable.  Pulmonary vascularity is normal.  Scattered
+     linear opacities in the lungs are suggestive of subsegmental atelectasis or
+     scarring. There is stable pleural thickening and calcified plaques with
+     associated blunting of bilateral CP angles, consistent with asbestos exposure.
+     Small bilateral pleural effusions are also possible. No pneumothorax is seen.
+     
+     IMPRESSION: No pneumothorax. No change from prior study performed 3 hrs prior.
+
+",,
+14722,18710,,,3391-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-5-6**] 11:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11991**]
+     Reason: s/p CABG w/air leak from chest tubes-now on water seal-R/O P
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with CAD.  
+     REASON FOR THIS EXAMINATION:
+      s/p CABG w/air leak from chest tubes-now on water seal-R/O PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post CABG with air leak from chest tube, evaluate for
+     pneumothorax.
+     
+     COMPARISON:  [**3391-5-2**].
+     
+     CHEST, SINGLE VIEW:  There is stable mild cardiomegaly with a slightly ____
+     aorta in patient status post CABG.  Again noted are the bilateral calcified
+     pleural plaques.  There is stable blunting of the right costophrenic angle.
+     No pneumothorax is identified.  ___Two mediastinal chest tubes are seen
+     overlying the mid and left mediastinal contours.  The soft tissues and osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  No evidence of pneumothorax.
+
+",,

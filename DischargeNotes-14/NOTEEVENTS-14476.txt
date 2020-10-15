@@ -1,0 +1,334 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14476,11588,,,3361-04-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3361-4-4**]     Discharge Date:  [**3361-4-7**]
+
+Date of Birth:   [**3286-11-21**]     Sex:  F
+
+Service:  Medical Intensive Care Unit Transferred to [**Hospital1 1337**].
+
+CHIEF COMPLAINT:  Shortness of breath, hypotension, and
+pneumonia.
+
+HISTORY OF PRESENT ILLNESS:  A 74-year-old female admitted to
+[**Hospital3 1141**] on [**3361-4-4**] for pneumonia.  While there
+ruled in for myocardial infarction.  The patient was then
+given aspirin and Lovenox, and subsequently dropped her
+hematocrit from 34 to 23.  She was given 2 units of packed
+red blood cells and then developed pulmonary edema subsequent
+to the transfusions, was intubated, and became hypotensive
+after intubation.  Patient was started on dopamine during
+hospital and transferred here to the Intensive Care Unit for
+further management.
+
+Upon arrival to [**Hospital1 10**], Medical
+Intensive Care Unit, the patient was extubated, remained
+stable with hematocrit of 38.2, drifting down to 28.8 with
+stable blood pressure.  Of note, the patient was guaiac
+positive, but had no bright red blood per rectum, no melena.
+She has a history of polyposis with total colectomy, history
+of polypectomies, and annual colonoscopy.  She is closely
+followed by outpatient gastroenterologist.
+
+PAST MEDICAL HISTORY:
+1. Diabetes mellitus on Avandia.
+2. Coronary artery disease with myocardial infarction back in
+[**3360-11-7**].  At that time, cardiac catheterization
+showed three vessel disease in left anterior descending
+artery, left circumflex, and right coronary artery, medically
+managed was opted at that time.  An echocardiogram showed an
+ejection fraction of 45% with apical hypokinesis.
+3. Hyperlipidemia.
+4. Cholecystectomy.
+5. Gastroesophageal reflux disease.
+6. Abdominal hernia status post mesh placement.
+7. Hypothyroidism.
+8. Urinary tract infection.
+
+ALLERGIES:  Anaspora and IV contrast.
+
+MEDICATIONS AT HOME:
+1. Aspirin 325 mg po q day.
+2. Levothyroxine 150 mg po q day.
+3. Lopressor 25 mg po bid.
+4. Lisinopril 5 mg po bid.
+5. Pepcid.
+6. Avandia 4 mg po q day.
+7. Lasix po q day.
+8. Potassium chloride 20 mEq po q day.
+
+MEDICATIONS ON TRANSFER FROM [**Hospital1 **]:
+1. Synthroid 150 q day.
+2. Benicar 20 q day.
+3. Lipitor 10 q day.
+4. Protonix 40 q day.
+5. Lopressor 12.5 mg po q day.
+6. Vancomycin 1 gram IV q12h.
+7. Levofloxacin 500 mg q24h.
+8. Timentin 3.1 grams q6h.
+9. Tylenol and Dopamine was discontinued.
+
+MEDICATIONS FROM INTENSIVE CARE UNIT:
+[**Unit Number **]. Captopril 6.25 mg po tid.
+2. Heparin subQ.
+3. Ciprofloxacin 500 mg q12h.
+4. Ceftazidime 1 gram IV q8h.
+5. Vancomycin IV 1 gram q12h.
+6. Metoprolol 12.5 mg po bid.
+7. Protonix.
+8. Lipitor 10 mg po q hs.
+9. Levothyroxine 150 mg po q day.
+
+PHYSICAL EXAMINATION:  On examination, she was 100.1
+temperature wise, blood pressure was 136/66, heart rate of
+92, respiratory rate of 20, and sating 96% on 2 liters.  She
+was in no acute distress.  Mucous membranes moist.  Pupils
+are equal, round, and reactive to light.  Oropharynx was
+clear.  Jugular venous pressure was about 8-9 cm.  She had
+coarse breath sounds on the right with egophony, and egophony
+and crackles at the left base.  Her heart was regular, rate,
+and rhythm, S1, S2 with 3/6 systolic murmur at the apex.
+Abdomen was soft with multiple healed scar.  She had
+normoactive bowel sounds, nontender abdomen, no clubbing,
+cyanosis, or edema of her extremities.  She was alert and
+oriented times three.
+
+LABORATORIES:  White count 6.5, hematocrit 27.8, INR 1.2, PTT
+38.0.  Sodium 135, potassium 3.4, chloride 105, bicarbonate
+20, BUN 22, creatinine 0.9, glucose 121, calcium 8.2,
+phosphate 2.9, magnesium 2.3, ALT and AST of 12 and 27, LDH
+362, total bilirubin 0.6.  CK 169, alkaline phosphatase 64,
+amylase 44.  Urinalysis showed greater than 58 red blood
+cells, 0-2 white blood cells, rare bacteria, 0-2 squamous
+epithelial cells.  CKs were 159, troponin 7.4, trending down
+to CK of 79 and troponin trended down to less than 0.3 by
+[**4-7**].  Patient continued to improve with improving O2
+saturation.  Her O2 saturation on the day of discharge was
+96% on room air.
+
+She remained stable.  Repeat chest x-ray showed congestive
+heart failure with some infiltrates.  Patient was given
+levofloxacin and Flagyl to cover for community acquired
+pneumonia versus aspiration pneumonia.  The patient reports a
+history of choking on pills and food, not coughing, but
+having trouble swallowing.  She underwent a video swallow
+evaluation that showed moderate impairment of upper
+esophageal sphincter, however, there was no aspiration.  The
+patient was cleared for full po and given tips on how to
+avoid choking on her pills.  Patient became afebrile and
+remained in stable condition.
+
+Cardiovascularly, CKs and troponins came down.  She was
+maintained on aspirin, beta blocker, ACE inhibitor, and
+Lasix.  She was given extra doses of Lasix for diuresis.  She
+was also given potassium repletion and magnesium repletion.
+She opted for medical management for now.  Was kept on
+Telemetry without any problems.  She was also given a unit of
+packed red blood cells to keep her hematocrit above 30.  Her
+hematocrit remained stable thereafter.
+
+Gastrointestinal issues:  Her blood was OB positive, but
+there was no gross melena and bright red blood per rectum.
+The patient was maintained on Protonix 40 mg po bid and to be
+followed up as an outpatient by her gastroenterologist.  She
+was maintained on her Avandia and levothyroxine, blood
+cultures and urine cultures were pending at the time of
+dictation.  Sputum cultures were contaminated with
+oropharyngeal flora.
+
+The patient was discharged in stable condition to be followed
+up by her primary care physician to get her potassium checked
+on Thursday.
+
+DISCHARGE DIAGNOSES:
+1. Pneumonia.
+2. Myocardial infarction.
+3. Congestive heart failure.
+
+FOLLOW-UP INSTRUCTIONS:  She is also to followup with her
+gastroenterologist.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE MEDICATIONS:
+1. Levothyroxine 150 mcg po q day.
+2. Lipitor 10 mg po q day.
+3. Protonix 40 mg po q12h.
+4. Guaifenesin syrup prn for cough.
+5. Levofloxacin 500 mg po q day for additional seven [**Known patient lastname 5001**].
+6. Metronidazole 500 mg po tid for seven additional [**Known patient lastname 5001**].
+7. Metoprolol 25 mg po bid.
+8. Aspirin 81 mg po q day.
+9. Avandia 4 mg po q day.
+10. Colace 100 mg po bid.
+11. Cough lozenges prn.
+12. Lasix 40 mg po q am and 20 mg po q pm to be adjusted by
+her primary care physician.
+13. Lisinopril 5 mg po q day.
+14. Potassium chloride 10 mEq po q day to be adjusted by her
+primary care physician after checking her potassium level on
+Thursday.
+
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 10725**]
+
+Dictated By:[**Name8 (MD) 2966**]
+
+MEDQUIST36
+
+D:  [**3361-4-7**]  17:07
+T:  [**3361-4-9**]  13:34
+JOB#:  [**Job Number 10726**]
+
+
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**3361-4-23**] 8:09 AM
+(End of Report)
+
+
+",,
+14476,11588,17996,,3361-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3361-4-5**] 10:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9810**]
+     Reason: eval for progression of pulm edema                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with pulm edema s/p MI                                        
+     REASON FOR THIS EXAMINATION:
+      eval for progression of pulm edema                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  History of SOB. 
+     
+     PORTABLE AP CHEST: The chest is rotated to the right. Allowing for technique,
+     there is probable cardiomegaly with pulmonary vascular engorgement and
+     bilateral interstitial/alveolar opacities right greater than left consistent
+     with pulmonary edema.  Surgical clips are present in the left mid abdomen.
+
+",,
+14476,11588,17996,,3361-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3361-4-5**] 8:27 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9811**]
+     Reason: change in infiltrate                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with pneumonia, ruled in for MI.                              
+     REASON FOR THIS EXAMINATION:
+      change in infiltrate                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE LATERAL VIEW
+     
+     This film confirms the presence of interstitial pulmonary edema and pleural
+     effusions consistent with CHF.  No PA film is available under this CLIP
+     number.  Surgical clips are present in the left mid-abdomen.
+
+",,
+14476,11588,17996,0,3361-04-05 05:46:00 EST,3361-04-05 06:42:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a/ MICU Orange Border","
+CCU Nursing Progress Note 7p-7a/ MICU Orange Border
+S: ""I feel much better than I did before""
+
+O: Please see FHP for further information
+
+Pt arrived to CCU via medflight from [**Hospital3 2475**] stable off Dopa gtt (had been on 4 mcg/kg/min). Received 100mcg Fentanyl and 1.5mg Versed during transport. Pt on mechanical ventilation IMV 40%/vt 500/ 40% Fio2/ PS 10 no peep. SBP up to 140s. Nitro gtt started and titrated to 0.80 mcg/kg/min. ABG 7.40/32/89/-[**3355-3-28**]. Pt successfully extubated @ 0015 without complication.
+
+Neuro: AAOx3. Cooperative w/care. Following commands. MAE without difficulty. Initially restrained upon admission to maintain airway. Soft restraints removed once pt was extubated. Pt denies pain. Hypothyroidism tx w/ Synthroid.
+
+CV: Rhythm ST-> WAP-> NSR following BB. HR ^124 down to 69-80 following Lopressor. Occ-rare PACs. NBP 137-78/54-21. Nitro weaned to off once pt became hypotensive @ 0500. HOB flattened and HO notified. Ordered for NS IVF bolus 500ccx1. SBP^ 90 following completion of bolus. Ordered for additional 500cc IVF over 1 hr. Currently NBP 99/42(60). H/H stable. K+ 3.6/ Mg 1.5/ Phos 2.0. Repleted w/ 2gm MgSO4. K Phos currently infusing over next 6 hrs. Pt denies any CP or discomfort. Cks 169 (300s)/Trop 7.4(2.7). Lactic acid 1.5.
+
+Resp: LS coarse/clr after coughing. Productive cough but minimal secretions. Secretions tan-light yellow. Pt using yanker sx. Rales present [**1-8**] way up. Diuresed w/ 40mg Lasix w/ gd effect. Extubated @ 0015, remains on Cool mist Face tent 70% FIO2. O2 sats 96-99%.
+
+GI/GU: Pt NPO. Tolerating fluids and po meds without difficulty. Abd soft. Slight RUQ tenderness. +BS. Guiac positive dk green liquid stool x 5. (Pt has been consistently guiac pos-> stools not maroon). Pt + UTI. Foley catheter changed. Minimal HUO. Urine initially yellow  w/ sediment. Hematuria present following catheter reinsertion. Clear yellow urine following 40mg Lasix. HUO increased to 200-440cc/hr. Pt remains -700cc LOS. BUN/CR 25/1.0.
+
+ID: Tmax 101.0 Po. TX w/ Tylenol 650mg w/ gd effect. AM temp 98.6. Bld and urine cultures sent. + UTI and + pna on CXRay @ OSH. Currently abx regimen includes Vanco, Cipro and Ceftriaxone. (Was also covered by Timentin @ OSH). WBC currently 7.7.
+
+Access: Both PIVs were lost during transport. Placed 2 PIVs upon arrival to CCU.
+
+Skin: Intact. No pressure sites noted.
+
+Disp: Full code
+
+Social: Husband,,daughter and sister visited. [**Name2 (NI) **] other visitors or calls overnoc.
+
+A/P: Pt w/ significant hx including worstening CHF-> flashed posttransfusion requiring intubation-> sent to [**Hospital1 10**] following family request. Arrived ? sepsis, Swan ganz placement,  MI, shock w/ cardiogenic component and pna. Pt stable upon arrival. Off all pressors. Successfully extubated. Started on Nitro weaned to off once pt became hypotensive early this am requiring IVF bolus 500x2 w/ adequate results. Cont to monitor BP. Increase BB as tolerated. Cont current abx regimen for UTI and pna. NIDDM pt, establish RISS and continue to monitor once diet advances. If pt remains stable call out
+",,
+14476,11588,17996,0,3361-04-05 05:47:00 EST,3361-04-05 06:42:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a/ MICU Orange Border","
+CCU Nursing Progress Note 7p-7a/ MICU Orange Border
+(Continued)
+ to floor once bed becomes available. Continued emotional support to pt and family as indicated.
+",,
+14476,11588,17996,0,3361-04-05 13:49:00 EST,3361-04-05 14:23:00 EST,-1,"N",1,"Nursing/Other","CCU NPN 7A-3P","
+CCU NPN 7A-3P
+Neuro: Alert and oriented x 3, MAE. OOB to chair and commode w/ 1 assist, tol well. Will attempt to have pt ambulate this afternoon. PT consult ordered.
+
+CV: Tele SR 60s-90s, no ectopy. SBP in the 80s this morning, neo gtt started. Weaned off by 1130. Now SBP 120s-130s, given 12.5mg lopressor and 6.25mg captopril, tol well. 
+
+Pulm:
+
+GI/GU: +BS, abd soft and non-tender. Taking PO meds and liquids w/o difficulty. Does not have her dentures here-family aware, will bring in today/tomorrow. Having frequent liquid green G+ BM, needs c-diff sent. Foley patent, draining cl yellow urine. Given 10mg IV lasix w/ good response-480cc out in 2 hours.
+
+ID: Afebrile, WBC 6.5. Receiving vanco and cipro, waiting for ID approval for ceftriaxone. 
+
+Social: Pt has 12 children and 28 grandchildren, few came in to visit this morning. Updated by RN.
+
+A/P: Hypotension this morning likely d/t too much diuresis. BP now stable, receiving low dose captopril and lopressor, diuresing well to lasix. C/O frequent liquid BMs, c-diff sample to be sent. Cont Abx, emotional support for pt and family. C/O to floor.
+",,
+14476,11588,17996,0,3361-04-05 16:53:00 EST,3361-04-05 16:58:00 EST,-1,"N",1,"Nursing/Other",,"
+
+Nursing note 3pm- transfer.
+
+Neuro: pt A & O, MAE, follows commands, OOB today to chair with assistance. Pt scheduled for swallow evaluation.
+
+CV: NSR, no ectopy noted. SBP 110-130. On Neo gtt this AM off now. good pulses, temp max 100.3.
+
+Resp: 3L NC, lungs diminshed in right base, with bilateral crackles. MD silver at bedside assessing pt. Productive cough, able to self suction thick yellow secretions.
+
+GI: Strict diet secondary to cysitis, No teeth currently so diet is limited.  Liquid stools, sent for CDIFF today, guiac +.
+
+GU: foley removed at 4:45pm. Hx of cystitis, with pain upon urination.
+
+SKIN: bottom excoriated. cream to perianal area.
+
+IV's 18g left arm, 20g right AC.
+
+Plan: transfer to [**Hospital Ward Name 40**] 7
+",,
+14476,11588,,,3361-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3361-4-6**] 10:04 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 9812**]
+     Reason: ?unilateral pharyngeal paralysis                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with ?aspiration pneumonia and h/o of choking and coughing 
+      after eating.
+     REASON FOR THIS EXAMINATION:
+      ?unilateral pharyngeal paralysis                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fluoroscopic guidance for video oropharyngeal swallow.
+     
+     Fluoroscopic guidance was provided for the swallowing service on patient who
+     is a 74 y/o woman with aspiration pneumonia and history of choking and
+     coughing while eating. From report from outside hospital of unilateral
+     pharyngeal paralysis.
+     
+     FINDINGS: Patient swallowed thin liquids, nectar thick liquids, pudding, and
+     cheerios without evidence of aspiration. There is impaired relaxation of the
+     upper esophageal sphincter, but with passage of liquids and cheerios with
+     slight hold up. There is a small amount of residual within the valleculae
+     after pudding. This clears well with thin liquids. There is symmetric movement
+     of the valleculae and vocal folds bilaterally.
+     
+     IMPRESSION: Impaired relaxation of the upper esophageal sphincter. No evidence
+     of aspiration. For details of this study, and description of oropharyngeal and
+     laryngeal motility, please see the full report from the swallowing service.
+
+",,

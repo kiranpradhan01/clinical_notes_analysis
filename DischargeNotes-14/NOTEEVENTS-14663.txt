@@ -1,0 +1,347 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14663,13581,,,3371-12-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3371-12-4**]              Discharge Date:   [**3371-12-9**]
+ 
+Date of Birth:  [**3295-12-12**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**Doctor Last Name 4795**] 
+Chief Complaint:
+Fatigue and dark stool
+ 
+Major Surgical or Invasive Procedure:
+EGD
+ 
+History of Present Illness:
+Mr. [**Name13 (STitle) 5655**] is a 75 yo M with a history of atrial fibrillation 
+(on coumadin), CHF, and metastatic bladder cancer, who presented 
+with progressive fatigue over 2 weeks prior to his admission, 
+and dark/black stool for one week prior to admission.  He denied 
+any other GI symptoms except mild nausea, but no vomiting.  In 
+his PCP's office, he was found to have a 12 point Hct drop since 
+[**9-28**] and admitted to the MICU for observation.  Of note, his NG 
+lavage was clear.  During his MICU stay, his coumadin was 
+stopped and he was transfused FFP and Vitamin K.  He also 
+received 3units PRBC.  An EGD was performed in the MICU which 
+was essentially negative for bleeding or varices, but he was 
+noted to have a tortuous esophagus. 
+*
+On transfer to the floor, his hematocrit was stable (since 
+admission), and he had not had further dark stools.  He denied 
+CP/SOB, N/V, dizziness, fatigue, or abdominal pain.  
+*
+Of note, the patient had a previous episode of GI bleeding in 
+[**12-27**].  He was treated at [**Hospital6 173**], and at 
+that time had an EGD which showed and AVM in the second portion 
+of the duodenum.
+ 
+Past Medical History:
+Metastatic bladder ca, refused chemotx  
+Prostate ca s/p xrt in [**3347**]'s  
+CAD, MIBI w/o ischemia in [**3370**]  
+CHF, last EF 49% on cardiac MRI  
+Pulmonary fibrosis  
+Paralyzed L hemidiaphragm  
+Afib, chronic on coumadin  
+UGIB [**2-/3370**] at [**Hospital1 717**]  
+*
+ALL: Penicillin
+
+ 
+Social History:
+lives with wife, retired consultant, former pipe smoker, 
+ 
+Family History:
+non-contributory
+ 
+Physical Exam:
+VS: P 92 (irreg)  BP 122/65  RR 20  Sat 96% 
+GEN: NAD, lying in bed
+HEENT: EOMI; PERRL bilaterally; MMM, OP clear
+NECK: no JVD appreciated
+CHEST: [**Hospital1 **]-basilar rales (L>R), no w/r
+CV: irregularly, irregular, no M/R/G
+ABD: soft, nt, nd, nabs
+EXT: 2+ DP pulses, no c,c,e
+
+ 
+Pertinent Results:
+[**3371-12-7**] 04:26AM BLOOD WBC-10.0 RBC-3.63* Hgb-9.6* Hct-28.7* 
+MCV-79* MCH-26.4* MCHC-33.4 RDW-19.2* Plt Ct-259
+[**3371-12-4**] 06:20PM BLOOD Neuts-70.5* Lymphs-18.6 Monos-8.4 Eos-2.3 
+Baso-0.3
+[**3371-12-7**] 04:26AM BLOOD Plt Ct-259
+[**3371-12-7**] 04:26AM BLOOD PT-15.1* PTT-32.2 INR(PT)-1.4
+[**3371-12-7**] 04:26AM BLOOD Glucose-92 UreaN-30* Creat-1.3* Na-139 
+K-3.4 Cl-101 HCO3-30* AnGap-11
+[**3371-12-7**] 04:26AM BLOOD Calcium-8.8 Phos-3.3 Mg-1.9
+[**3371-12-4**] 06:20PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3371-12-4**] 06:20PM BLOOD CK(CPK)-27*
+[**3371-12-5**] 02:59AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3371-12-5**] 02:59AM BLOOD CK(CPK)-26*
+[**3371-12-5**] 05:01PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3371-12-5**] 05:01PM BLOOD CK(CPK)-40
+*
+[**3371-12-6**] 4:23 am SEROLOGY/BLOOD
+HELICOBACTER PYLORI ANTIBODY TEST (Final [**3371-12-6**]): 
+      POSITIVE BY EIA. 
+      Reference Range:  Negative. 
+*
+EGD ([**3371-12-6**])
+Tortous esophagus consistent with presbyesophagus was noted.  No 
+evidence of bleeding noted up to 2nd portion of duodenum. 
+Gastroscope could not be advanced beyond this area due to loop 
+foprmation in the stoamch. Procedure was repeated with a 
+pediatric colonsocope. Due to tortuosity of the stomach, pylorus 
+could not be intubated despite multiple attempts, repositioning. 
+
+*
+CHEST (PA & LAT)  [**3371-12-7**] 9:24 PM
+No evidence of failure. Slight improvement from [**12-4**].
+
+ 
+Brief Hospital Course:
+75 year old man with h/o Atrial fib (on coumadin) and metastatic 
+bladder cancer, who presented with progressive fatigue and GI 
+bleeding (black stool).  
+*
+1) UPPER GI BLEED -  In the emergency department, an NG lavage 
+was performed which was clear.  The patient was admitted to the 
+MICU and was given FFP, and Vitamin K because he was on coumadin 
+as an outpatient.   He was also given 3 units of PRBCs and an IV 
+proton pump inhibitor.  An EGD was also performed in MICU, which 
+was essentially negative for bleeding or varices but showed a 
+tortuous esophagus.  After stabilizing, the patient was 
+transferred to the floor for further observation.  His 
+hematocrit remained stable and he had no further episodes of 
+melena.  Repeat endoscopy was deferred because the patient's 
+hematocrit was stable, and the diagnostic yield from a repeat 
+procedure was thought to be low.    
+*  
+2) ATRIAL FIBRILLATION - Mr. [**Name13 (STitle) 5655**] was taken off of his 
+coumadin on admission due to his bleeding.  Overall, he was rate 
+controlled, but intermittently tacycardic to the 140's.  This 
+was thought due to hypovolemia.  He was continued on carvedilol 
+and digoxin for rate control.   He was not restarted on his 
+coumadin at the time of discharge since this was the patient's 
+second GI bleed in the last year while on coumadin. 
+*  
+3) CAD - The patient had angina briefly in ED with rate related 
+ST depressions in the lateral and inferior leads.  The changes 
+resolved with IVF volume replacement. He was ruled out with 
+three sets of cardiac enzymes.  Serial EKG's were obtained.  His 
+aspirin was held due to his GI bleeding.
+*
+4) CHF - Mr. [**Name13 (STitle) 5655**] has a h/o CHF and was given Lasix following 
+his transfusion. After he was hemodynamically stable, his 
+zestril and coreg were all restarted with conservative hold 
+parameters.
+*
+5) FEN - The patient was maintained on a cardiac diet. 
+*
+6) CODE STATUS: The patient was DNR/DNI during this admission. 
+*
+
+ 
+Medications on Admission:
+digoxin 0.125
+coumadin5/2.5
+zesteril 7.5
+zocor 20
+nexium 40bid
+coreg 3.125bid
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+2. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Lisinopril 5 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).  
+4. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+5. Toprol XL 25 mg Tablet Sustained Release 24HR Sig: Three (3) 
+Tablet Sustained Release 24HR PO once a day.
+Disp:*90 Tablet Sustained Release 24HR(s)* Refills:*0*
+6. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.  
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+1) GI bleeding
+2) Metatstatic Bladder Cancer
+
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+Please call your doctor or return to the ER if [**Doctor First Name **] experience 
+black or bloody stools, severe dizziness or changes in vision, 
+chest pain, or difficulty breathing.  [**Doctor First Name 54**] should stop taking 
+your Coreg and take Toprol XL 75 mg daily instead (prescription 
+written for this medication).  [**Doctor First Name 54**] should also discontinue the 
+use of your coumadin.
+ 
+Followup Instructions:
+Please follow up with your primary care provider (Dr. [**Last Name (STitle) **]) as 
+necessary.  [**Doctor First Name 54**] may call him for an appointment.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 4799**] MD, [**MD Number 4800**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4433**] MD [**MD Number 4434**] [**3371-12-16**] @ 2248
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+ on: SUN [**3371-12-22**] 11:19 AM
+(End of Report)
+
+
+",,
+14663,13581,,,3371-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-12-4**] 9:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11366**]
+     Reason: please assess for evidence of acute CHF or pneumonia        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with CHF, crackles on exam                                      
+     REASON FOR THIS EXAMINATION:
+      please assess for evidence of acute CHF or pneumonia                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Congestive heart failure, crackles on exam.
+     
+     CHEST X-RAY, PORTABLE AP:  Comparison is made to a prior study of [**3369-11-13**].  The heart is enlarged.  The aorta is tortuous.  There is perihilar
+     haziness and diffuse interstitial opacities consistent with congestive heart
+     failure and interstitial edema.  There is an area of irregular pleural
+     thickening at the right lung apex.  Linear opacities are present extending
+     from this pleural thickening and there are several bubbly lucencies in this
+     region as well.  This finding was seen on the prior chest x-ray.  Interval
+     chest CT of [**3370-1-22**] demonstrated scarring with emphysematous change
+     in this region.  There is elevation of the left hemidiaphragm which is stable
+     in the interval.  The osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1.  Congestive heart failure and interstitial edema.
+     2.  Chronic changes as described above.
+     
+
+",,
+14663,13581,18222,0,3371-12-05 06:08:00 EST,3371-12-05 06:19:00 EST,5933,"N",69,"Nursing/Other","Admit Note 0100-0700 NPN","
+Admit Note 0100-0700 NPN
+NEURO:  neuro intact, MAE, interactive, clear on DNR wishes, likes to be informed about steps in care.  
+
+CV:  hr chronic afib 90-110's,with occ pac/pvc, denies cp, lopressor 2.5 mgm IV given per order, sys bp low 100's at baseline , occ. in 90's with maps 55-60 md aware, no action needed but cont. to observe.  Pt. defers foley, depends changed x 2 for large amt incont. urine. peripheral pulses x4 intact. skin cool dry, afebrile. 
+
+RESP:  clear at admit. more coarse in early am. lasix 20 mgm given in ER with blood products. pulm fibrosis in hx and ex smoker now coarse. will need careful monitoring of resp. status through day. CHF hx. 2 l iter nc for support. cough dry, sats 90's.
+
+GI:  Pt. with hx GIB, no stools this am. Hct in ER 21, after 2 units RBC on repeat at 0300 was 19.6. INR 2.7/ orders for 2 additional units of RBC and FFP given. 1 of 2 units of RBC up, 1 of 2 units FFP up at 0600. denies pain. abd flat, BT present. no nausea/vomiting
+
+GU:  bladder CA refuses foley, using depends with large amt output change of depends x 2 .  no blood in urine.
+
+SKIN:  intact
+
+ACCESS:  # 18 g and # 16 g r/l arms functional.
+
+SOCIAL:  wife is involved in care, health care proxy, would like to be here for egd this am. pt. would like us to make sure she is here. pt is very clear regarding DNR status and his diag./prognosis.
+
+PLAN:  Serial HCT q 6 hr and/or after blood products, care monitoring of cardiac/resp status with history CHF prob. lasix with blood products. plan EGD today. 
+",,
+14663,13581,18222,0,3371-12-05 16:45:00 EST,3371-12-05 17:06:00 EST,2147,"N",69,"Nursing/Other","NPN MICU-B 7AM-7PM","
+NPN MICU-B 7AM-7PM
+S/O: GI: AM HCT 21, after a total of 3units PC's since admit HCT up to 25.3, one additional unit PC's was given repeat HCT due @ 5pm. Also has rec'd a total of 3units FFP. for INR 3.5, last INR s/p 2 units was 2.7. No stool or N/V noted. NO [**Last Name (un) 555**] pain. Is NPO. Seen by GI, and they want to wait to do an EGD until his ct's are more stable. 
+
+Respir: On 2L NP with RR 25-30, L/S crackles 1/2 up bilat this AM. O2 sats 95-99%. Has rec'd a total of 80mg Lasix with excellent results. RR-20-22, not as labored. L/S improved. 
+
+GU: Has hx of Bladder and Prostrate Ca, did not want a foley cath placement, depends and several Condom caths attempted but with the high does of Lasix that was needed, was explained to pt that it was needed. A foley was placed and is draining lrge amts clear yellow urine. Has rec'd a Total of 80mg Lasix, with excellent response. Total I&O's are off due to the extrememly lrge amts of urine that he was incon of. Is over 2L neg so far. Na 144, K+-3.5 rec'd 40mEq PO. repeat Lytes due this evening. 
+
+C/V: BP 110-130/60 HR-80-90's A-fib. No c/CP. On R/O protocol CPK's flat so far. 
+
+ID: Afebrile. 
+
+Neuro: A&Ox3. 
+
+Social: Wife in most of day and was updated on pt's conditon.
+
+A/P: Continue to monitor HCT q6hr transfuse as needed, assess for s/s bleeding. Monitor VS's  and I&O's. 
+",,
+14663,13581,18222,0,3371-12-06 05:01:00 EST,3371-12-06 05:11:00 EST,2996,"N",69,"Nursing/Other",,"
+
+Neuro: Pt. is A&Ox3. Neurologicaly intact. Denies pain or dyscomfort.
+Resp: On 2 L NC sats high 90s, rr 16-20s, no SOB. LS crackles at the bases, upper clear.
+CV: HR 80s-100s, AF, no ectopy. Cont. of IV Lopressor 2.5mg per orders, BP 90s-110s/60s.  Adequate UO via foley cath. Pt. being transfused with 1 U PRBC for Hct 26, am labs pending. Tolerating well.
+Afebrile.
+GI/Gu: Abd. soft, nontender, denies nausea or vomiting, +BS, no BM.
+Remains NPO except for ice chips. Foley patent with clear yellow urine out.
+Social: Wife visited in the evening, updated on progress and plan of care.
+Possible EGD on this admission vs. outpatiently.
+Plan: continue serial Hct q 6 hrs.
+
+",,
+14663,13581,18222,0,3371-12-06 17:41:00 EST,3371-12-06 17:54:00 EST,2749,"N",69,"Nursing/Other","NPN 07:00-19:00 MICU","
+NPN 07:00-19:00 MICU
+*Please refer Carevue for additional patient information.
+Code Status: DNR/DNI
+
+Shift Events: 8 am Hct 26.5 (up from 26). Pt transfused w/ an additional unit of bld (4u PRBC's total since admit.)EGD done today, [**Name6 (MD) 17**] GI MD's they were unable to find source of bleeding. Pt tolerated procedure well. No bm today, VSS, receiving Lopressor 2.5mg IV for rate control [**2-25**] Atrial Fibrillation. Na+ this am 146, started on 1/2NS 75cc/hr, Ns at 16:00=145. [**Name6 (MD) **] GI MD's, pt able to be started on clear liquid diet.
+
+?c/o to floor 
+
+ROS: 
+Neuro:A/o x3, very pleasant. MAE's. No c/o pain, or discomfort. 
+CV: HR 86-103 A-fib, PVC's rare. BP 100's/60's, Afebrile. 
+Resp: 3.0L NC O2 sat's >95%, LS crackles througout (pt w/ pmh of pulmonary fibrosis)
+GI/GU: +BS, no bm, receiving protonix. Clear liquid diet. U/O wnl, clear yellow.
+Access: PIV x2, wnl.
+Social: Wife in to visit most of day, updated on pt's plan of care. 
+
+
+",,
+14663,13581,18222,,3371-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-12-7**] 9:24 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11367**]
+     Reason: chf?                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with o2 req s/p transfusions                                    
+     REASON FOR THIS EXAMINATION:
+      chf?                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Increased O2 requirements.  Status post transfusion.
+     Evaluate for failure.
+     
+     CHEST:  Comparison is made with the prior film from [**12-4**].  The
+     perihilar edema seen on the prior film has resolved and there is now no
+     evidence of failure.  Elevation of the left hemidiaphragm and right upper lobe
+     changes remain unaltered.
+     
+     IMPRESSION:  No evidence of failure.  Slight improvement from [**12-4**].
+
+",,
+14663,13581,18222,0,3371-12-07 04:32:00 EST,3371-12-07 04:43:00 EST,2996,"N",69,"Nursing/Other",,"
+
+Neuro: Pt. A&Ox3, cooperative,had to be reoriented to place after pt. woke up at 2300. No other neuro deficit noted, +PERRLA, +MAE, +gag/cough.
+Resp: Remains on 3 L NC with sats mid to high 90s, LS bibasilar crackles, clear anteriorly. Denies SOB or resp distress, rr 16-20s.
+CV: HR 80s-100s, AF with occasional PVCs, PACs. Medicated with Lasix 40 mg IVP with excellent diuresis (see careview for I&O). Lopressor held @ 0200 due to SBP in 90s per parameters. BP 90s-120s/60s.
+Strong pedal pulses, no peripheral edema noted.
+GI/GU: Abd. soft, nontender, +BS,no BM, denies nausea or vomiting. Tolerating CLs, awaiting for advancement in diet. Foley patent, kept overnight for diuresis, will d/c in AM. 
+Hct stable @ 28.2, will recheck in AM.
+Social: No contact from family on this shift.
+Pt. is called out to the floor, awaiting for bed. Transfer note initiated.
+
+",,

@@ -1,0 +1,2069 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2980-1-8**]     Discharge Date:  [**2980-1-22**]
+
+Date of Birth:   [**2891-12-22**]     Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Motor vehicle crash.
+
+HISTORY OF PRESENT ILLNESS:  Patient is an 82-year-old male
+involved in a high speech motor vehicle crash, which was
+head-on.  The patient was a driver of a vehicle that collided
+head-on into a tractor trailer.  The patient was
+unrestrained, and there was airbag deployment.  Patient was
+found unresponsive at the scene.  Patient was intubated
+without difficulty at the scene.  Patient had flaccid
+extremities during the initial assessment.  The patient was
+transferred to an outside hospital, stabilized, and then
+transferred to [**Hospital1 10**] for
+further treatment.
+
+PAST MEDICAL HISTORY:
+1. Coronary artery disease status post coronary artery bypass
+graft.
+2. Hypertension.
+3. Hypercholesterolemia.
+4. Benign prostate hyperplasia.
+
+MEDICATIONS:
+1. Atenolol 50 mg p.o. q.d.
+2. Terazosin 5 mg p.o. q.d.
+3. Plavix 75 mg p.o. q.d.
+4. Simvastatin 20 mg p.o. q.d.
+5. Finasteride 5 mg p.o. q.d.
+
+ALLERGIES:  Unknown.
+
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 96.6, pulse
+86, blood pressure 145/74, respiratory rate 20, and O2
+saturation is 100%, intubated.  General:  Patient is sedated,
+unresponsive to voice.  Eyes open spontaneously.  Pupils are
+equal and reactive, but sluggish 3 to 2 bilaterally.
+Oropharynx is clear.  Trachea is midline.  Regular rate and
+rhythm.  Patient was clear to auscultation with equal breath
+sounds.  Abdomen was soft, nontender, nondistended.  The
+pelvis was stable.  The back had no step-offs or deformities.
+Rectal tone was decreased, but guaiac negative.  Patient had
+footdrop bilaterally with cool feet.  Right knee was swollen
+and both knees had abrasions.
+
+LABORATORIES:  Initial white cell count 9.5, hematocrit 38.8,
+platelets 138.  Chem-7:  144, 4.2, 109, 24, 23, 1.1, glucose
+152, lactate 2.2.  The coags:  14, 29.2, and 1.3.  Fibrinogen
+225.  Amylase 145.
+
+Head CT at the outside hospital was negative.  C spine CT
+showed a C2 fracture.  Abdomen and pelvis CT showed 4 x 4.5
+cm intramural thrombus, but no extravasation.  The bladder
+was normal.
+
+X-rays of the right knee showed no fractures.  X-rays of the
+right hand show a questionable old fracture on the thumb.
+
+HOSPITAL COURSE:  The patient was admitted to the Trauma
+service and monitored in the Intensive Care Unit.
+Neurosurgery was consulted immediately.  The Neurosurgery
+service had strong concerns for a cervical cord contusion.
+They requested a stat MRI and that the blood pressure be
+controlled for greater than 120 systolic.  They also
+recommended the patient stay in the cervical collar, and that
+the Solu-Medrol be given per protocol.
+
+During the initial part of the patient's admission, he was
+hemodynamically stable.  He required initially fluid and
+pressors for blood pressure control, but stabilized within
+the first day.  This is most likely due to volume contraction
+and neurologic shock.  The MR of the neck showed a cord
+compression and contusion with a small epidural hematoma.
+Neurosurgery's recommendations included keeping his blood
+pressure above 120 and to his keep his coagulation studies in
+the normal range.
+
+Over the course of the next several days, the patient's
+neurologic status slightly improved.  He was alert, followed
+commands, but was still considered quadriplegic.  The patient
+can move his left side more than his right.  His strength in
+the knee left was roughly a [**2-25**].
+
+On [**1-10**], the patient's TLS were cleared
+radiographically.  Neurosurgery was slightly more optimistic
+in the sense that the patient can move his upper and lower
+extremities slightly more than previously.  The final read on
+the TLS films were concerning for a questionable old fracture
+at the T5-T6 level.  Orthopedics was consulted, and
+recommended logroll precautions, and a thoracic brace until
+the patient could be extubated and evaluated clinically.
+They felt that the fracture was an old fracture, and that he
+did not require acute interventions.
+
+Plastic Surgery also evaluated the patient for the right hand
+fracture, which was deemed to be an old injury.  Their
+recommendations were to follow the patient clinically, and
+there was pain in all, in the right thumb, to splint the
+extremity.
+
+On the [**1-11**], the patient was well enough to be
+extubated.  Due to the large amount of secretions, the
+patient was reintubated on the 21st.  At that time, the
+patient still remained pseudoquadriplegic.  He could breathe
+spontaneously and move his left upper extremity
+spontaneously, but had minimal movement in his legs or his
+right arm.
+
+On the 22nd, a family meeting was convened, and it was
+decided that the patient would continue with full support,
+and that we would hold on a tracheostomy and a PEG placement
+until the following week.  During that time, his neurologic
+status would be evaluated.  At that time, we would also have
+a better idea regarding his prognosis.
+
+On the [**1-14**], the patient had a lower extremity
+noninvasive ultrasound, which showed no evidence of DVTs.
+The patient also continued with aggressive diuresis, and his
+vent settings were changed to CPAP.  The patient continued to
+produce a large amount of secretions and required assist
+control for ventilation.  It was decided that the patient
+would require a tracheostomy as his chances of weaning off
+the vent are unrealistic.
+
+A second family meeting was held, and it was decided that the
+patient's wishes as dictated in his power of attorney would
+limit the ICU team's actions.  His power of attorney stated
+that the setting of the need for life support and/or heroic
+measures to keep him alive, his decision would be to withdraw
+support.
+
+After an extensive family meeting with the patient's son, it
+was decided that the patient will be made DNR/DNI, and the
+patient will be extubated.  If the patient was stable, he
+would continue with fully medical support.  If he became
+unstable, then he would be made CMO.  Patient was extubated
+and continued with respiratory distress due to the high
+secretions.
+
+On the [**1-22**], the patient continued with
+respiratory distress, continued with the pseudoquadriplegia,
+and was becoming hemodynamically unstable.  A decision
+between the Trauma team, the ICU team, and the family was to
+make the patient care measures only.
+
+On the [**1-22**], the patient expired.  The family was
+notified.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number **]
+
+Dictated By:[**Last Name (NamePattern4) 4221**]
+
+MEDQUIST36
+
+D:  [**2980-2-8**]  20:33
+T:  [**2980-2-9**]  05:56
+JOB#:  [**Job Number 10396**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: MON [**2980-3-6**] 6:10 AM
+(End of Report)
+
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 1:28 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8005**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: fluid/abnormalities                                         
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with c2/c3 fracture                                             
+     REASON FOR THIS EXAMINATION:
+      fluid/abnormalities                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb SAT [**2980-1-8**] 1:58 AM
+      No acute injury.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the lung bases through
+     pubic symphysis after the administration of IV contrast.
+     
+     IV CONTRAST: 150 cc of Optiray. Optiray per trauma protocol.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There is bibasilar atelectasis at the lung
+     bases.  Image quality through the abdomen is somewhat limited by artifact from
+     the patient's arms within the scanner.  The liver, spleen, pancreas, adrenal
+     glands, and loops of small and large bowel are normal.  The patient is status
+     post cholecystectomy.  There are two simple cysts in the right kidney, the
+     largest measuring approximately 2.5 cm in diameter.  The left kidney is
+     normal.  There is symmetric excretion of contrast and the ureters are normal.
+     There is an infrarenal abdominal aortic aneurysm with eccentric mural thrombus
+     which measures 3.2 x 4.5 cm in its largest axial dimensions.  There is also
+     ectasia of the iliac vessels, on the left the largest axial dimension is
+     1.8 cm.  There is no free fluid, free air, or lymphadenopathy.  There is
+     midline diastasis with associated nonobstructing herniation of sigmoid colon.
+     
+     CT PELVIS WITH IV CONTRAST: There are multiple sigmoid diverticula.  The
+     distal ureters and urinary bladder are unremarkable.  A Foley catheter is in
+     place.  The prostate gland is enlarged.  There is no free fluid or
+     lymphadenopathy.  There is bilateral osteoarthritis of the hip joints and SI
+     joints.  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1) No evidence of acute traumatic injury to the abdomen or pelvis.
+     
+     2) Abdominal aortic aneurysm measuring 4.5 cm.
+     
+     3) Sigmoid diverticulosis.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2980-1-8**] 1:28 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8005**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: fluid/abnormalities                                         
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 1:23 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 8004**]
+     Reason: fx                                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with c2/c3 fracture                                             
+     REASON FOR THIS EXAMINATION:
+      fx                                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb SAT [**2980-1-8**] 2:32 AM
+      Non displaced fx C2 VB (dens OK), fx C3 spinous process
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: ? C spine fracture on outside study in patient s/p trauma.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the skull base through
+     the T2-3 level without IV contrast. Sagittal and coronal reformations were
+     also obtained and reviewed.
+     
+     FINDINGS: There are linear lucencies running mostly in the vertical plane
+     through the C2 vertebral body consistent with fracture planes. There are
+     associated fractures through the left foramen transversarium. There is no
+     displacement of fracture fragments or compressive abnormality. Specifically,
+     there is no retropulsion of fracture fragments. There is also a posteriorly
+     displaced fracture of the spinous process of the C3 vertebra. There is
+     associated prominence of the prevertebral soft tissues anterior to the C2-3
+     level.  No other findings concerning for a fracture are seen. There is normal
+     alignment of the vertebral bodies of the cervical spine and normal lordotic
+     curvature. There is intervertebral disc space narrowing at C3-4 and C4-5 and
+     there are osteophytes at the C2 through C7 levels.  The spinal canal is widely
+     patent and there is no effacement of the CSF around the cord. There are
+     degenerative changes of the facet joints in the lower cervical spine.
+     
+     
+     IMPRESSION:
+     
+     1) Nondisplaced fractures within the C2 vertebral body and posteriorly
+     displaced fracture of the C3 spinous process.
+     
+     2) Multilevel degenerative changes as described.
+     
+     
+     
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 1:23 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 8004**]
+     Reason: fx                                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with c2/c3 fracture                                             
+     REASON FOR THIS EXAMINATION:
+      fx                                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb SAT [**2980-1-8**] 2:32 AM
+      Non displaced fx C2 VB (dens OK), fx C3 spinous process
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: ? C spine fracture on outside study in patient s/p trauma.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the skull base through
+     the T2-3 level without IV contrast. Sagittal and coronal reformations were
+     also obtained and reviewed.
+     
+     FINDINGS: There are linear lucencies running mostly in the vertical plane
+     through the C2 vertebral body consistent with fracture planes. There are
+     associated fractures through the left foramen transversarium. There is no
+     displacement of fracture fragments or compressive abnormality. Specifically,
+     there is no retropulsion of fracture fragments. There is also a posteriorly
+     displaced fracture of the spinous process of the C3 vertebra. There is
+     associated prominence of the prevertebral soft tissues anterior to the C2-3
+     level.  No other findings concerning for a fracture are seen. There is normal
+     alignment of the vertebral bodies of the cervical spine and normal lordotic
+     curvature. There is intervertebral disc space narrowing at C3-4 and C4-5 and
+     there are osteophytes at the C2 through C7 levels.  The spinal canal is widely
+     patent and there is no effacement of the CSF around the cord. There are
+     degenerative changes of the facet joints in the lower cervical spine.
+     
+     
+     IMPRESSION:
+     
+     1) Nondisplaced fractures within the C2 vertebral body and posteriorly
+     displaced fracture of the C3 spinous process.
+     
+     2) Multilevel degenerative changes as described.
+     
+     
+     
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 1:28 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8005**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: fluid/abnormalities                                         
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with c2/c3 fracture                                             
+     REASON FOR THIS EXAMINATION:
+      fluid/abnormalities                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb SAT [**2980-1-8**] 1:58 AM
+      No acute injury.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the lung bases through
+     pubic symphysis after the administration of IV contrast.
+     
+     IV CONTRAST: 150 cc of Optiray. Optiray per trauma protocol.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There is bibasilar atelectasis at the lung
+     bases.  Image quality through the abdomen is somewhat limited by artifact from
+     the patient's arms within the scanner.  The liver, spleen, pancreas, adrenal
+     glands, and loops of small and large bowel are normal.  The patient is status
+     post cholecystectomy.  There are two simple cysts in the right kidney, the
+     largest measuring approximately 2.5 cm in diameter.  The left kidney is
+     normal.  There is symmetric excretion of contrast and the ureters are normal.
+     There is an infrarenal abdominal aortic aneurysm with eccentric mural thrombus
+     which measures 3.2 x 4.5 cm in its largest axial dimensions.  There is also
+     ectasia of the iliac vessels, on the left the largest axial dimension is
+     1.8 cm.  There is no free fluid, free air, or lymphadenopathy.  There is
+     midline diastasis with associated nonobstructing herniation of sigmoid colon.
+     
+     CT PELVIS WITH IV CONTRAST: There are multiple sigmoid diverticula.  The
+     distal ureters and urinary bladder are unremarkable.  A Foley catheter is in
+     place.  The prostate gland is enlarged.  There is no free fluid or
+     lymphadenopathy.  There is bilateral osteoarthritis of the hip joints and SI
+     joints.  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1) No evidence of acute traumatic injury to the abdomen or pelvis.
+     
+     2) Abdominal aortic aneurysm measuring 4.5 cm.
+     
+     3) Sigmoid diverticulosis.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2980-1-8**] 1:28 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8005**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: fluid/abnormalities                                         
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 12:05 PM
+     T-SPINE; LUMBO-SACRAL SPINE (AP & LAT)                          Clip # [**Clip Number (Radiology) 8012**]
+     Reason: trauma- r/o fx.                                             
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      trauma- r/o fx.                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, rule out fracture.
+     
+     THORACIC SPINE:  Diffuse degenerative changes are appreciated.  Mid-thoracic
+     vertebral body, probably T5-T6 shows some loss of height and apparent
+     preservation of height posteriorly, likely osteoparotic compression fractures.
+     I do not clearly seen evidence for paravertebral soft tissue swelling.  If
+     suspicion for acute fracture remains, CT scan would be useful.
+     
+     LUMBAR SPINE:  Multiple views of the lumbar spine show significant
+     hypertrophic features laterally and anteriorly.  The vertebral bodies are
+     intact and normally aligned.  No evidence for fracture.
+     
+     IMPRESSION:  T-spine, probable old compression fracture at T4-5.  Plain films
+     are limited in their ability to distinguish acuity.
+     
+     Lumbar spine, degenerative features with no evidence for fracture.
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 7:34 AM
+     CHEST (PORTABLE AP); REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 8008**]
+     Reason: REPEAT BY RAD- [**Doctor Last Name 8009**]...PRE-SCREENING FOR MRI
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Prescreening chest prior to MRI. 
+     
+     PORTABLE AP CHEST AT 7:33:  The tip of the endotracheal tube is 6 cm above
+     the carina.  There is no acute cardiopulmonary disease, the patient is status
+     post mediansternotomy and aortic valve placement. The aorta is tortuous and
+     calcified and the right lateral costophrenic sulcus is cut off from view. The
+     pulmonary vascular markings are normal.
+     
+     IMPRESSION:
+     
+     No failure or pneumonia.  Median sternotomy wires and prosthetic aortic valve
+     identified.
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 1:28 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8005**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: fluid/abnormalities                                         
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with c2/c3 fracture                                             
+     REASON FOR THIS EXAMINATION:
+      fluid/abnormalities                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb SAT [**2980-1-8**] 1:58 AM
+      No acute injury.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the lung bases through
+     pubic symphysis after the administration of IV contrast.
+     
+     IV CONTRAST: 150 cc of Optiray. Optiray per trauma protocol.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There is bibasilar atelectasis at the lung
+     bases.  Image quality through the abdomen is somewhat limited by artifact from
+     the patient's arms within the scanner.  The liver, spleen, pancreas, adrenal
+     glands, and loops of small and large bowel are normal.  The patient is status
+     post cholecystectomy.  There are two simple cysts in the right kidney, the
+     largest measuring approximately 2.5 cm in diameter.  The left kidney is
+     normal.  There is symmetric excretion of contrast and the ureters are normal.
+     There is an infrarenal abdominal aortic aneurysm with eccentric mural thrombus
+     which measures 3.2 x 4.5 cm in its largest axial dimensions.  There is also
+     ectasia of the iliac vessels, on the left the largest axial dimension is
+     1.8 cm.  There is no free fluid, free air, or lymphadenopathy.  There is
+     midline diastasis with associated nonobstructing herniation of sigmoid colon.
+     
+     CT PELVIS WITH IV CONTRAST: There are multiple sigmoid diverticula.  The
+     distal ureters and urinary bladder are unremarkable.  A Foley catheter is in
+     place.  The prostate gland is enlarged.  There is no free fluid or
+     lymphadenopathy.  There is bilateral osteoarthritis of the hip joints and SI
+     joints.  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1) No evidence of acute traumatic injury to the abdomen or pelvis.
+     
+     2) Abdominal aortic aneurysm measuring 4.5 cm.
+     
+     3) Sigmoid diverticulosis.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2980-1-8**] 1:28 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8005**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: fluid/abnormalities                                         
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 1:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8003**]
+     Reason: TRAUMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma
+     
+     CHEST, PORTABLE: The cardiac and hilar contours are within normal limits.
+     The aortic knob is prominent.  The lungs are clear and there are no pleural
+     effusions or pneumothoraces. There is no evidence of fracture.  Patient is s/p
+     median sternotomy.  An endotracheal tube is positioned with the tip just at
+     the thoracic inlet.
+     
+     Note that trauma board artifact limits this study.
+     
+     IMPRESSION: No evidence of traumatic injury to the chest.  Prominent aortic
+     knob, consistent with tortuous aorta vs aneurysm.
+     
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 5:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8013**]
+     Reason: line placement(RSC)                                         
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      line placement(RSC)                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Line placement. 
+     
+     PORTABLE AP CHEST:  A right subclavian line is in place with the tip in the
+     SVC and pneumothorax.
+     
+     NG tube extends at least to the level of the EG junction but I am not clearly
+     seeing a tip.  The endotracheal tube is well above the carina and identical in
+     position versus prior.  There are no new infiltrates or effusions. Pulmonary
+     vascular markings are stable.
+     
+     IMPRESSION:   Right CVL in appropriate position - no PTX. No change in
+     cardiopulmonary structures.
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 12:05 PM
+     T-SPINE; LUMBO-SACRAL SPINE (AP & LAT)                          Clip # [**Clip Number (Radiology) 8012**]
+     Reason: trauma- r/o fx.                                             
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      trauma- r/o fx.                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, rule out fracture.
+     
+     THORACIC SPINE:  Diffuse degenerative changes are appreciated.  Mid-thoracic
+     vertebral body, probably T5-T6 shows some loss of height and apparent
+     preservation of height posteriorly, likely osteoparotic compression fractures.
+     I do not clearly seen evidence for paravertebral soft tissue swelling.  If
+     suspicion for acute fracture remains, CT scan would be useful.
+     
+     LUMBAR SPINE:  Multiple views of the lumbar spine show significant
+     hypertrophic features laterally and anteriorly.  The vertebral bodies are
+     intact and normally aligned.  No evidence for fracture.
+     
+     IMPRESSION:  T-spine, probable old compression fracture at T4-5.  Plain films
+     are limited in their ability to distinguish acuity.
+     
+     Lumbar spine, degenerative features with no evidence for fracture.
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 9:57 AM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8011**]
+     Reason: DWI and Flair scan.  MRI STAT!                              
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man s/p MVC ww/ quadraplegic S/S!                                   
+     REASON FOR THIS EXAMINATION:
+      DWI and Flair scan.  MRI STAT!                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Patient with MVA and quadriplegia, for further
+     evaluation.
+     
+     TECHNIQUE: T1 sagittal and FLAIR, T2, susceptibility and diffusion axial
+     images of the brain were obtained.
+     
+     FINDINGS:  The ventricles and extraaxial spaces are normal in size.  The
+     diffusion image shows no evidence of restricted diffusion to indicate acute
+     infarct.  A small subdural hematoma collection is identified on the left side
+     extending from frontal to the occipital region.  The subdural collection has
+     maximum width of 4 mm.  No significant mass effect is seen on the adjacent
+     brain.  No evidence of midline shift is seen.  Soft tissue swelling is seen in
+     the right scalp region.  Soft tissue changes are identified in the right
+     maxillary sinus, as well as in the ethmoid and sphenoid sinuses.  Retained
+     secretions are seen in the nasopharynx.
+     
+     IMPRESSION:  Left-sided subdural collection with maximum width of 4-5 mm from
+     frontal to occipital region without midline shift.  The patient had cervical
+     spine MRI on the same day, which demonstrated abnormalities.  Please correlate
+     with cervical spine MRI for further evaluation of cervical spine
+     abnormalities.
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 9:57 AM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 8010**]
+     Reason: MRI C-spine with IR images - r/o hematoma, large disc protru
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man s/p mva with C2 fracture on CT                                  
+     REASON FOR THIS EXAMINATION:
+      MRI C-spine with IR images - r/o hematoma, large disc protrusion, or cord 
+      compression
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     
+     88 year old man status post MVA and C2 fracture on CAT scan. To rule out cord
+     compression.
+     
+     Multiple sagittal T1 and T2 weighted images and inversion recovery images and
+     multiple axial gradient images of the cervical spine are performed without
+     administration of contrast.
+     
+     FINDINGS:
+     
+     The visualized portion of the brain parenchyma is unremarkable.
+     
+     The patient has known C2 vertebral body fracture. There is extremely severe
+     spinal stenosis/borderline cord compression at the level of C2 to C4. There is
+     increased signal in the cord at this location suggesting contusion versus cord
+     edema. In addition there is extensive increased signal noted in the FLAIR
+     images in the posterior soft tissues from the level of C2 to C4 representing
+     soft tissue edema/hemorrhage. Neural canal narrowing is also noted at the
+     level of C2-3, C3-4 and C4-5 secondary to degenerative changes.
+     
+     At the level of 5-6 and [**5-29**]:
+     
+     Small central disc protrusion noted with no significant central or neural
+     canal stenosis. 
+     
+     IMPRESSION:
+     
+     Known C2 fracture with associated degenerative disc changes at the level of
+     C2-3, C3-4 and C4-5 thereby causing extremely severe spinal stenosis/
+     borderline cord compression.
+     
+     2. Increased signal noted in the cord may represent contusion versus edema at
+     the level of C2 and C3.
+     
+     3. Increased signal is noted in the soft tissues along the posterior elements
+     to the level of C2 to C5 may represent edema versus hemorrhage.
+     
+     4. Extensive prevertebral soft tissue edema/hemorrhage noted from the level
+     of C2 to C4.
+     
+                                                                 (Over)
+
+     DATE: [**2980-1-8**] 9:57 AM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 8010**]
+     Reason: MRI C-spine with IR images - r/o hematoma, large disc protru
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     These findings were discussed with Dr. [**Last Name (STitle) 3771**], the resident in charge of this
+     patient at 2:30 PM on [**2980-1-8**].
+     
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 1:53 AM
+     HAND (AP, LAT & OBLIQUE) RIGHT                                  Clip # [**Clip Number (Radiology) 8007**]
+     Reason: fx                                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with right hand abnormality                                     
+     REASON FOR THIS EXAMINATION:
+      fx                                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hand laceration, ? foreign body.
+     
+     RIGHT HAND, THREE VIEWS: Demonstrate no evidence of fracture or dislocation.
+     There is joint space narrowing and some calcifications at the 1st
+     carpometacarpal joint consistent with osteoarthritis.  There is a linear
+     radio-opaque foreign body in the soft tissues along the volar aspect of the
+     distal phalynx of the thumb. There is also an osseous fragment at the volar
+     aspect of the first interphalangeal joint which appears well corticated.
+     
+     IMPRESSION: 1) Foreign body in soft tissues of thumb as described.
+     2) Possible fracture at first interphalangeal joint, though appears chronic --
+     clinical correlation is needed.
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 7:34 AM
+     CHEST (PORTABLE AP); REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 8008**]
+     Reason: REPEAT BY RAD- [**Doctor Last Name 8009**]...PRE-SCREENING FOR MRI
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Prescreening chest prior to MRI. 
+     
+     PORTABLE AP CHEST AT 7:33:  The tip of the endotracheal tube is 6 cm above
+     the carina.  There is no acute cardiopulmonary disease, the patient is status
+     post mediansternotomy and aortic valve placement. The aorta is tortuous and
+     calcified and the right lateral costophrenic sulcus is cut off from view. The
+     pulmonary vascular markings are normal.
+     
+     IMPRESSION:
+     
+     No failure or pneumonia.  Median sternotomy wires and prosthetic aortic valve
+     identified.
+
+",,
+14265,12357,,,2980-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-8**] 1:53 AM
+     KNEE (AP, LAT & OBLIQUE) RIGHT                                  Clip # [**Clip Number (Radiology) 8006**]
+     Reason: fx                                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with right hand abnormality                                     
+     REASON FOR THIS EXAMINATION:
+      fx                                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Knee swelling in patient s/p trauma.
+     
+     RIGHT KNEE, THREE VIEWS: Demonstrate no evidence of fracture, dislocation or
+     other osseous abnormality. There is no joint effusion.  There is edema noted
+     in the prepatellar soft tissues.
+
+",,
+14265,12357,17729,0,2980-01-08 04:48:00 EST,2980-01-08 05:14:00 EST,4422,"N",53,"Nursing/Other",,"
+
+ADMITION NOTE, NURSING
+ PT. S/P MVA ,  CARDIAC ARREST , CODED BY AMBULANCE, BROUGHT TO  OUTSIDE HOSPITAL. NECK-C2-C3 FRUCTURE BY CAT SCAN. TRANSFFERED TO [**Hospital1 **] FOR FUTHER WORK UP.CT BRAIN-NEG.
+PULM: PT CAME IN @ 3 AM FROM ER INTUBATED 23@LIP. ON FULL VENT SUPPORT KEEPS SO2 100%. HAS SOME SPON. BREATHING. LUNGS CLEAR
+
+NEURO: MOVES HIS HEAD SIDE TO SIDE, FOLLOWS COMANDS,NO MOVEMENT OF EXTREMETIES, +GAG,+COUGH, PERL,KEEPS EYES OPEN,? FOCCUSES.RESISTANT TO CARE.PLAN TO GO TO MRI.BED IS IN REVERSE TREND. IN FIELD [**Last Name (un) **]- REMAINS INTACT
+
+CV: IN S.BRADY MOSTLY,SBP IN 90s.HAS 4 PERIPHERAL IV LOCKS.GETTING NS @100/H.NO EDEMA,+ PEDAL PULSES
+
+GI: VOMITED APPROX.50 CC BILE LIKE SECRETIONS. OGT WAS PUT IN TO LWS-DRAINS SMALL AMOUNT.+ BOWEL SOUNDS(HYPO)
+
+GU: FOLEY PATENT,DRAINS >30CC/H CLEAR YELLOW
+
+SOCIAL: PT'S SON WAS CONTACTED BY PHONE,HE IS AWERE OF PT CONDITION 
+",,
+14265,12357,17729,0,2980-01-08 05:42:00 EST,2980-01-08 05:50:00 EST,4422,"N",53,"Nursing/Other",,"
+
+A-LINE IS INSERTED, PT W/D TO PAIN WHEN WAS STUCK. A LINE CORRELATED WELL WITH CUFF.
+PT IS ON SOLUMEDROL GTT-STARTED IN ED,CURRENTLY @5.4MCG/KG/H,
+ON ACCUCHECKS QID
+",,
+14265,12357,17729,0,2980-01-08 07:09:00 EST,2980-01-08 07:11:00 EST,3338,"N",53,"Nursing/Other","NURSING NOTE ADDENDUM","
+NURSING NOTE ADDENDUM
+PT WITH SBP DIPPING DOWN INTO THE 80'S. NEUROSURGERY AWARE AND PT NOW ON NEO GTT TO KEEP SBP BETWEEN 120-140. STILL AWAITING MRI TO BE DONE.
+",,
+14265,12357,17729,0,2980-01-08 16:09:00 EST,2980-01-08 16:11:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp. care note - Pt. transffered to MRI, XR, and back to TSICU without incident.
+",,
+14265,12357,17729,0,2980-01-08 20:05:00 EST,2980-01-08 20:28:00 EST,3246,"N",53,"Nursing/Other","T/SICU Nsg Note-","
+T/SICU Nsg Note-
+Brief ROS:
+Neuro- Pt. is unchanged over shift. He is awake, aware of speaker. Nods appropriately, sticks tongue out on command. He does not squeeze or push with hands or feet on command. He has, however moved his legs intermittantly throughout the shift. Notches his knees, shifts his feet- appears purposeful. Have not seen any movement of hands. Pt. c/o pain when questioned, his BP has been a concern this afternoon and he has not therefore rcv'd morphine for pain. Pupils equal and respond to light. +cough and gag. Hard collar changed over to [**Location (un) 14**] J. Solumedrol gtt in progress.
+
+CV- Pt. was started on neo early this am(6am) for BP support. He remained on neo through MRI and afternoon with adequate BP's but the plan was to switch him to dopamine as T/SICU tm had discussed on rounds. Changed over to dopa by 3pm while he also rcv'd 2 units of FFP, pt. did not tolerate the change well. BP dropped to the 70's, requiring multiple litres of NS for fld boluses. Increased dopa from 5mcg-10mcg-12mcg. Rcv'd additional 2units FFP. Slowly pt. appears to be responding. Triple lumen placed during this period of time and cvp monitored-14, to maintain above 10.  HR increased over shift, sinus, occ PVC. EKG done. CPK's in progress.
+
+Resp- Pt. has been vented all shift, he was put on a rate for his ""traveling"" but has since been returned to PSV, tolerated well. Sats have been adequate. Suctioned occ for thick bld tinged thick secretions. He has had a metabolic acidosis this afternoon, requiring fluid resuscitation. Rotated ETT today. 
+
+GI- NPO. OGT advanced to attempt improved placement. Abd soft and flat. No BM.
+
+GU- U/O dropped this afternoon with hypotensive episode, but had also drifted down previous couple of hours. Foley in place.
+
+Skin- Back is red in the center and over the coccyx, no breakdown. Lac overforehead. Knees with sml lacs, bilat. 
+
+Social- Son called multiple times, visited this afternoon. He drives a couple of hours to get here. Came down with his wife and his cousin also drove down. Son states that his father has been very independant and active with a significant number of friends, veterans. Pt. was in the service in WWII, stationed in [**Country 5906**]- POW in [**Country 5906**] for a year!
+",,
+14265,12357,17729,0,2980-01-09 04:20:00 EST,2980-01-09 04:22:00 EST,3681,"N",53,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds sl coarse suct sm-mod loose tan sput. No vent changes made overnoc. Pt in NARD on present settings. Cont PSV.
+",,
+14265,12357,17729,0,2980-01-09 07:56:00 EST,2980-01-09 08:08:00 EST,3063,"N",53,"Nursing/Other","T-SICU nsg note","
+T-SICU nsg note
+    Pt is alert with eyes open.  Nods to questions.  Consistently follows commands with his face - open, close eyes, stick out tongue, close lips.  Both feet extend to touch.  Occ spont pt raises both knees off bed.  Pt grimaces to nailbed pressure, but does not withdraw hands to nailbed pressure.  PERRL.  + corneals, + gag, strong cough.  Pt purposefully tongues ET tube out of position.
+    NSR to ST with frequent PVC's, occ episodes of vent bigemeny.  BP 100-130 sys, titrating dopamine to maintain sys BP > 110. 
+  Resp - pt on 5cm PSV above 5cm PEEP and now on 40% FIO2.  Pt able to hyperventilated to compensate for metabolic acidosis.  Strong cough prod of yellow sputum.
+   GU -  Fluid boluses for metabolic acidosis.  Lactate levels down from 8 to 3.7.  Repleting K+, Mag and Ca++.  U/O continues low at 20-40cc/hr despite fluids & dopamine.
+   GI - NPO, OG tube draining bilious to dk brown fluid.  Abd soft & flat.
+   Heme - Hct stable.  PT, PTT still elevated, despite FFP, but INR is trending down.
+   ID - afebrile, not on antibiotics.
+Social - no calls overnight.
+A: ALert, purposeful, breathing on minimal vent support, no arm movement.
+P: informational & emotional support to pt & family.  Continue to monitor glucose levels, lytes, lactate, INR, u/o.  Titrate dopamine.
+    Endo - insulin drip started.  Insulin drip up to 9u/hr with BS coming down.
+
+",,
+14265,12357,17729,0,2980-01-09 16:33:00 EST,2980-01-09 16:35:00 EST,3944,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated on ventilator with no vent changes this shift.
+bs: diminished, equal bilat. sxn'd x1 for sm. tan thick
+abg: adequately oxygenated metabolic acidosis, with resp. compensation
+continue current support.
+",,
+14265,12357,17729,0,2980-01-09 19:02:00 EST,2980-01-09 19:16:00 EST,3246,"N",53,"Nursing/Other","T/SICU NPN-","
+T/SICU NPN-
+Brief ROS:
+Neuro- Pt. has been more restful today from yesterday. He cont. to nod appropriately to questions, he stuck his tongue out consistantly this morning on command but this afternoon pt. seems less cooperative. He's nodded ""no"" to activities, appears to be sleeping in naps today. Pupils are equal and reactive. He occ moves his legs on the bed, spontaneously- notches his knees, shifts feet(bilat), moves legs when blanket is removed. He moves arms much less but has moved forearms sml amts,draws up arms toward chest-left more than rt.
+
+CV- BP more stable today, weaning dopamine slowly, presently on 5mcg. Hr, sinus occ PVC less this afternoon. Repleted calcium and potassium with gd effect. Stable cvp.
+",,
+14265,12357,17729,0,2980-01-09 19:33:00 EST,2980-01-09 19:48:00 EST,3246,"N",53,"Nursing/Other","T/SICU NPN cont'd","
+T/SICU NPN cont'd
+CV- Skin warm and dry, peripheral edema increasing from flds yesterday. Color pale. 
+
+Endo- See care vue for frequent FS BS and insulin gtt activity.
+
+Heme/ID- T max 100.9, trending up. Pt.'s had more secretions this afternoon, thick yellow- will obtain spec. No heme issues at present. No antibiotics ordered.
+
+GI- NPO. OGT drg is mod, bilious with a tinge of pink- see care vue for amt over the weekend. Abd soft, NT- minimal bs. 
+
+GU- U/O via foley is improving this shift, adequate amts hourly, see care vue.
+
+Integ- Back is intact. Added multipodus boots today, red heels- no breakdown. Head lac is covered. Healing sml lacs on knees. Noted(today) 3 sml lacs on rt hand, in the web between his thumb and 1st finger. Cleaned with NS and peroxide, antibiotic ointment applied and DSD. T/SICU HO aware.
+
+",,
+14265,12357,17729,,2980-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-10**] 3:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8017**]
+     Reason: Evalaute NGT placement!  Doppoff placed for feeding         
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         88 year old man s/p mvc                                                      
+       
+     REASON FOR THIS EXAMINATION:
+      Evalaute NGT placement!  Doppoff placed for feeding                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Dobhoff tube placed for feeding.  Check position.  Status post
+     motor vehicle collision.
+     
+     FINDINGS:  A single AP view of the lower thorax and upper abdomen.  Comparison
+     study dated [**2980-1-10**].  A Dobhoff NG feeding tube has not been inserted
+     and its tip is in the fundus of the stomach.  The preceding NG line is also
+     noted with its tip also in the fundus.  The heart again shows slight left
+     ventricular enlargement.  The lung bases appear clear.
+     
+     IMPRESSION:  The two NG lines have their distal ends in the fundus of the
+     stomach.  They could be advanced into the lower stomach if desired.
+
+",,
+14265,12357,17729,,2980-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-10**] 12:27 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8016**]
+     Reason: eval feeding tube placement                                 
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old man s/p mvc                                                        
+       
+     REASON FOR THIS EXAMINATION:
+      eval feeding tube placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Feeding tube placement.
+     
+     Feeding tube is not on the visualized portion of the film. The bowel gas
+     pattern is unremarkable.
+
+",,
+14265,12357,17729,,2980-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-10**] 10:30 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8015**]
+     Reason: eval dobhoff placement                                      
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man s/p mvc                                                         
+     REASON FOR THIS EXAMINATION:
+      eval dobhoff placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Dobbhoff tube placement.
+     
+     Tip of the Dobbhoff tube overlies the cardiac silhouette and probably is in
+     the left bronchial tree. Bowel gas pattern is unremarkable. Note that at the
+     time of interpretation I have seen subsequent films which later confirmed the
+     correct placement of the feeding tube.
+
+",,
+14265,12357,17729,,2980-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-10**] 6:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8014**]
+     Reason: eval progress                                               
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old man with                                                           
+       
+     REASON FOR THIS EXAMINATION:
+      eval progress                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     PORTABLE AP CHEST; [**2980-1-10**] @ 6:03.
+     
+     INDICATION:  Respiratory failure.
+     
+     COMPARISON:  [**2980-1-8**].
+     
+     FINDINGS:  Compared to prior study, the lines and tubes remain in place, and
+     there is no pneumothorax.  An increased amount of fluid appears to be layering
+     on the right-positioning differences contribute.  There also appears to be
+     slight coarsening of the upper lobe pulmonary vessels, suggesting worsening
+     fluid overload.  No definite new infiltrates are seen.  Cardiac and
+     mediastinal contours are unchanged.
+     
+     IMPRESSION:  Slight worsening of fluid status.
+     
+     
+
+",,
+14265,12357,17729,,2980-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-10**] 3:47 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8018**]
+     Reason: check dobhoff tube placement                                
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         88 year old man s/p mvc                                                      
+           
+     REASON FOR THIS EXAMINATION:
+      check dobhoff tube placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Dobbhoff tube
+     
+     The Dobhoff tube is now seen extending below the diaphragm with the tip in the
+     expected location of the antrum. Bowel gas pattern is nonspecific and
+     nonobstructive. 
+
+",,
+14265,12357,17729,0,2980-01-10 04:11:00 EST,2980-01-10 04:14:00 EST,3681,"N",53,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds coarse suct mod th pale yellow/white sput. ABGs stable. No vent changes made overnoc. Plan to extub in AM only question can pt protect airway?
+",,
+14265,12357,17729,0,2980-01-10 07:16:00 EST,2980-01-10 07:30:00 EST,4297,"N",53,"Nursing/Other",,"
+
+npn 7p-7a
+
+neuro:opens eyes,sticks tongue out on command.no mvmt of bilat ue. spont mvmt of bilat le w/ stimulation.withdraws bilat le only to pain. perrl.+gag,+cough.denies pain.logroll precautions.
+
+cv:sbp 120s.titrating dopamine gtt,5->3mcg.goal sbp 120-140s.cvp 9-11. repleted ca.
+
+resp:ps 5/peep 5.tv 500s,rr 20.no vent changes.abg wnl.sx for thick yellow sputum,mod amt.strong prod cough.
+
+gi:+bs,-bm.no nutrition started.ngt to lws,bilious to brown drg.
+
+gu:u/o adeq,>70ml/hr.
+
+skin:head lac sutured,covered by foam tape dsg.R hand lac pink,dsd intact.
+
+heme:inr 1.5.hct stable.
+
+id:tmax 101.5.pan cx.
+
+endo:insulin gtt off most of shift for bs<120.see carevue for bs.
+
+social:no family contact.
+",,
+14265,12357,17729,0,2980-01-10 14:12:00 EST,2980-01-10 14:27:00 EST,3933,"N",53,"Nursing/Other",,"
+
+NPN 0700-1500,
+
+NEURO; REMAINS ON LOGROLL. NO MOVEMENT OF UPPER LIMBS EVEN DURING MULTIPLE ATTEMPTS TO DROP DOBHOFF SPONTAEOUS MOVEMENTS OF BOTH LOWER EXTREMITIES TO STIMULATION . PERLA 2 MM/BRISK.
+
+RESP; REMAINS ON CPAP 5PS/5PEEP WITH GOOD TV/MV/ RATE 21/MIN. SUCTIONED FOR COPIUS AMOUNTS THICK WHITE SECRETIONS NOW BLOOD TINGED ? FROM TRAUMATIC DOBHOF INSERTIONS. LUNG COARSE WITH RHONCHI. DIMINISHED AT BASES.SATS 97%.
+
+CVS; TMAX 100.3 PO NSR 85-100 WITH ISCOLATED PVC'S. BP; MAINTAINED 120 -140 ON DOPAMINE [**2-21**] MCGS/KG/MIN. 
+
+GU; PASSING MOD AMOUNTS URINE VIA FOLEY. K PENDING.
+
+GI; NPO  BELLY SOFT BS PRESENT NO STOOL NO FLATUS. MULTIPLE ATTEMPTS MADE TO PLACE DOPBHOF. ALL UNSUCCESSFUL. HAS HAD SEVERAL KUB'S.
+ 
+ENDO REMAINS ON INSULIN DRIP. BS AT 102 , DRIP 3-1.5 UNITS INSULIN PER HR.
+
+HEME RECEIVED FFPX2 FOR INR 1.5 REPEAT PENDING.
+
+ SOC; NO FAMILY CONTACT TODAY.
+PLAN TO HAVE HAND SEVICE  COME AND EVALUATE ,ORTHO FOR BACK AND PLASTICS FOR HAND.
+
+",,
+14265,12357,17729,0,2980-01-10 16:29:00 EST,2980-01-10 16:31:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+SW met with pts son and daughter-in-law at bedside.  Son reports that pt is very independent and well liked in the community.  Pt is an antiques dealer who has a regular route of shops that he visits.  Pt is a veteran who served in the Phillipines and survived the Batan death march and was interred in prison camps in the Phillipines and [**Country 5906**].  Son appeared to be coping well with current crisis but acknowledged the significant stress of his father's accident.  Introduced role of SW and offered support.  SW to follow.  Pls pg prn.
+",,
+14265,12357,17729,0,2980-01-10 18:37:00 EST,2980-01-10 18:42:00 EST,3944,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+Pt. extubated from [**4-26**] following acceptable abgs/ audible cuff leak. Initially desaturated to 85%, fio2 increased to 100%. Pt. expectorated large amts. of thick blood tinged sputum. Spo2 back up to 95% then down again to 89%. Placed on 100% NRB currently NARD with spo2 96%.
+bs: ess. clear, no stridor noted.
+",,
+14265,12357,17729,0,2980-01-10 23:38:00 EST,2980-01-10 23:44:00 EST,3063,"N",53,"Nursing/Other","T-SICU Nsg NOte","
+T-SICU Nsg NOte
+  Pt exutbated at 1830.  Pt has spoken little since then.  Speech difficult to understand as pt does not have dentures in and also hoarse from beind intubated.  Pt reports feeling ""lousy"" and ""wants to move""  Pt denies recall of accident.  Follows commands with face.  Nods to questions and speaks in response.  PERRL.  Strong cough & gag.  Able to lift knees off bed, but not at will. No arm movement noted.
+      Strong cough, swallows sputum.  O2 sats 96-99% on non-rebreather mask.  Lung sounds coarse, clear with coughing.
+     Occ PVC's noted, CaGLuconate going in.  U/O qs via foley.
+  Pt had mod sized soft, brown stool tonight.  Pedi feeding tube in via L nare, currently clamped.  TO start TF later.
+   Repeat INR after FFP infusion still 1.4. Plan to repeat INR with am labs.
+    Insulin drip off most of shift.  On now at 1 u/hr, last glucose 127.
+A: Pt maintaining airway,  wants to move.
+P: Start TF as ordered.  Monintor BS and lytes.  Emotiional & informational support to pt & family.
+",,
+14265,12357,17729,,2980-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-11**] 5:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8019**]
+     Reason: eval                                                        
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        88 year old man s/p mvc                                                       
+     REASON FOR THIS EXAMINATION:
+      eval                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST OF [**2980-1-11**].
+     
+     CLINICAL INDICATION:  Status post motor vehicle accident.
+     
+     Comparison is made to prior studies of one day earlier.
+     
+     A feeding tube remains in place and has been advanced in the interval, now
+     terminating in the distal stomach.  The right subclavian basilar catheter
+     remains in satisfactory position.  The heart is upper limits of normal in size
+     for technique.  The aorta is tortuous.  There is prominence of the pulmonary
+     vascularity, as well as, bilaterally perihilar haziness.  Bilateral pleural
+     effusions are demonstrated.
+     
+     IMPRESSION:  Fluid overload and bilateral layering pleural effusions, right
+     greater than left.  Findings have progressed compared to the previous study.
+
+",,
+14265,12357,17729,,2980-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-11**] 9:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8020**]
+     Reason: reintubation- et tube placement                             
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          88 year old man s/p mvc                                                     
+         
+     REASON FOR THIS EXAMINATION:
+      reintubation- et tube placement                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Breast cancer.  Right partial mastectomy.
+     
+     FINDINGS:  Standard PA and left lateral views.  The appearances of the heart,
+     lungs, pleura and mediastinum are within normal limits.  The skeletal
+     structures are unremarkable.  In particular, there is no evidence of any
+     pulmonary infiltrates or focal abnormalities.
+     
+     IMPRESSION:  No acute cardiopulmonary abnormality.
+
+",,
+14265,12357,17729,0,2980-01-11 06:38:00 EST,2980-01-11 06:49:00 EST,3535,"N",53,"Nursing/Other",,"
+
+o. neuro lethagic but responsive inconsistently moves lower extremities does not move upper extremities pupils equal and reactive [**Location (un) **] J collar remains on pt in reverse trendelenberg 
+Resp weak cough productive o2 sats 88-94% sx q 1-2 hrs bldy tan secretions abg 100% NRB 7.37/42/69/25/0 placed on 4lnp and NRB with o2 sats 94% lungs exp wheezes faint throughout
+cardiac HR 70-80 nsr with occ pvc and apc bp 147/69 hct 28 down from 31 transfused with 1uprbc. Skin W+D PP+2
+GI TF on hold pnding ?reintubation abd SNT bs+ no stool
+GU u/o adequate BUN 50 cr 1.3
+ID afebrile lactic acid 1.3
+endo on insulin gtt
+access RUA 18 g, RLA 18g, [**Last Name (un) **] 18g, Rt R Aline multi RIJ
+A. poor o2 poor resp effort 
+anemia
+p. cont to attempt to sx and encourage pt to cough and deep breath repeat abg may need reintubation
+transfuse 1 uprbc
+
+",,
+14265,12357,17729,0,2980-01-11 17:21:00 EST,2980-01-11 17:35:00 EST,3259,"N",53,"Nursing/Other","SICU NPN","
+SICU NPN
+Pt reintubated this AM due to resp distress and worsening oxygenation.
+
+ROS:
+Neuro: Pt lethargic this AM prior to intubation, but able to answer simple questions. Pt then intubated, rec'd morphine and ativan, and has been more sedated this PM. Pt is able to wiggle toes on both feet, L>R, sl movement noted to command with L hand, pt grimaced to pain on R hand but no clear movements noted.  Pupils difficult to assess due to ? cataracts, but do react. C-collar remains on, C-spine stablization maintained during intubation. Thoracic extention placed this AM due to inability to obtain good exam for T4-5 fractures. Pt now able to sit up in bed. No siezure activity noted.
+
+Resp: PAO2 down to 63 this AM on 5LNP and 100% non-rebreather mask, pt with weak cough and gag despite NT suctioning. Pt electively intubated without difficulty.  Pt currently on CMV, 600X14, 8PEEP and 40%. Pt with occasional breaths above vent. Lungs noted to have bilat crackles, pt given lasix with some response.  Pt suctioned for mod ammt blood tinged sputum.
+
+CV: HR 60-80's, SR with occasional PACs. Pt noted to have run of SVT up to 140's during intubation, episode self limiting with stable BP throughout.  Pt rec'd 1U PRBCs this AM, repeat hct only up to 28.7 from 28, second unit ordered this PM.  BP stable, SBP 130-160's via A-line. Pt with mult periph IVs, some infiltrated and d/c'd-see carevue.  TLC site intact, CVP 4-8.  Extremities cool with weakly palpable pulses.
+
+GI: Abd soft, good BS throughout. Small BM noted this AM. TF initiated via feeding tube. Pt continues on pepcid for GI prophylaxis.
+
+GU/renal: IVF down to KVO due to fluid overloaded picutre on CXR. Pt rec'd 10mg lasix X1 this AM, will rec additional dose after blood this PM.  Lytes stable.
+
+Endo:Insulin gtt/D10 gtt both off all day, FS stable.
+
+ID: Pt with + blood culture from a-line- aerobic bottle only. MDs to repeat periph culture this PM via fem stick to r/o contamination. Low grade temps 99.3, WBC flat. Pt also noted to have? foreign body in R thumb area, will f/u with plastics.
+
+Ortho: OT consult obtained to fit pt for splint for R thumb fracture.  Thoracic extention fitted for [**Location (un) **] j. 
+
+Skin: grossly intact, lac to head healing. Lac to r hand/thumb area with sl odor, serosang drainage. MDs aware.
+
+Social: Pt's son phoned for update, unaware that pt had been extubated. He was updated on pt's status, reintubation status. Will plan for family meeting, discuss trach later in week.
+
+
+",,
+14265,12357,17729,0,2980-01-11 17:55:00 EST,2980-01-11 17:59:00 EST,3671,"N",53,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt received breathing spont on NRB & N/C, was. He was re-intubated due to resp distress & worsening oxygenation. We were removing bllod-tnged thick secretions. Last ABg acceptable. Will follow.
+",,
+14265,12357,17729,0,2980-01-12 03:43:00 EST,2980-01-12 03:45:00 EST,3681,"N",53,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds coarse suct mod th bldy sput. No vent changes made overnoc. ABGs stable. Cont mech vent support.
+",,
+14265,12357,17729,0,2980-01-12 05:02:00 EST,2980-01-12 05:13:00 EST,4206,"N",53,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Neuro:  Pt arousible to voice, pt nods, however inconsistantly follows commands.  Pt doesn't move UE, and withdrals LE to pain.  Pt written to OOB to chair.  Pt not sedated though requiring ativan to calm pt.  Pt will try to tongue ET tube.  PT has TLSO brace in place along with C-collar.
+
+Cardiac: Pt in SR HR 70-89 with rare PVC's.  BP ranges from 125-178/69-94 (calm-awake and agitated).  Pt recived 1 UPRBC from day shift and recived 10mg lasix s/p transfusion.  Hct now 32.2.  CVP 9-12.
+
+Resp:  Pt remains intubated AC .4% 14*600 8/.  Pts PaO2 is in the mid 70[**Name8 (MD) **] MD's aware.  Pt suctioned frequently for mod-cop amt of thick tan/blood tinged sputum.  BS clear bilaterally. O2 sat 93-96%.
+
+GI:  Pt on impact w/ fiber at 30 cc/hr, goal 90cc/hr can be increased if residuals low at 8000, see order in red book.  +BS, -BM.
+
+GU:  Pt has f/c with adequate u/o, pt recieved lasix s/p transfusion, marginal response.  Urine yellow and clear.
+
+ID:  Pt due to have repeat set of BC done by team via fem stick to r/o contamination of past bottle.  Pt has low grade temp.
+
+Skin:  PT has R hand/thumb lac OTA, ecchymotic and has slight odor.  Head lac.
+
+Endo:  Pt requiring coverage via RISS.
+
+",,
+14265,12357,17729,0,2980-01-12 08:18:00 EST,2980-01-12 08:23:00 EST,4439,"N",53,"Nursing/Other","RESPIRATORY","
+RESPIRATORY
+PT. ON CPAP PSV VENTILATION BEGAN AFTER 2HRS ON SAID MODE HAVING DIFFICULTY WITH MAINTAINING SATS ABOVE 88%. PEEP INCREASED TO 8CM WITH NO RESPONSE. PT. ALSO HAD RUNS OF ECTOPY FOR WHICH AT THAT TIME PT WAS PLACED BACK ON AC VENTILATION WITH GOOD CLINICAL RECOVERY.
+",,
+14265,12357,17729,0,2980-01-12 15:59:00 EST,2980-01-12 16:21:00 EST,3556,"N",53,"Nursing/Other",,"
+
+nursing progress note see careview for details
+
+neuro:neuro:pupils perl, ,opens eyes to command,nods to questions.Has no movement of upper extremities.Lower extremites questionable if there is movement on bed.Does not have consistant response to painful stimuli.Appears to move left toes to command at times,questionable if this is a reflex.Neuro team with DR.[**Last Name (STitle) **] present  examined Pt this am and are aware that activity of extremites appears to be less today and at this time did not want ct scan repeat.
+
+cv:remains in nsr hr 70 to 79 with pvcs .Had appears run of svt this am DR [**Last Name (STitle) **] was aware.Systolic bp 125 to 159,diastolic bp 60 to 82,map 100 to 110.bp has been discussed with DR.[**Last Name (STitle) 5907**].Extremites edematous,has bil dp and pt pulses by doppler.Temp 99.9 to 100 po,Blood cultures x2,urine culture and sputum culture was sent.
+
+resp:Remains intubated was suctioned for copious amounts of tan thick secretions.Spo2 desated to 88% while patient was on cpap with ps.Pt was placed back on ac,fio2 was increased to 60%,tv 600cc rr14 but total resp rate is 20 to 22.Pt remains on 8cm of peep and abgs were improved.Breath sounds coarse and diminished.
+
+gu:foley to cd draining clear yellow urine.Diuresed in response to lasix 20mg iv.
+
+gi:Abd soft with positive bowel sounds present.Feeding tube is post pyloric [**Name8 (MD) 17**] md [**First Name (Titles) **] [**Last Name (Titles) **].Appears to be tolerating tube feed at 40cc.Has not had any stool today.
+
+endocrine :was started on insulin gtt for blood sugar control.
+
+social:Son [**Name (NI) **] spoke with DR.[**Last Name (STitle) **] and was updated on fathers condition.Son [**Name (NI) **] took home fathers ring. 
+",,
+14265,12357,17729,0,2980-01-12 18:56:00 EST,2980-01-12 19:00:00 EST,3671,"N",53,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+ 
+Pt remain orally intubated. He was placed on SBT, but we had to put back on A/C with more PEEP and increase FIO2. Abg acceptable. Plan: Bedside trach with family meeting soon. 
+",,
+14265,12357,17729,,2980-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-13**] 3:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8022**]
+     Reason: eval for pna                                                
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           88 year old man s/p mvc, intubated.                                        
+                     
+     REASON FOR THIS EXAMINATION:
+      eval for pna                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     HISTORY:  Trauma and intubation.
+     
+     Endotracheal tube is 7 cm above the carina. Right subclavian central venous
+     line is in mid SVC. Feeding tube is in antrum of stomach. No pneumothorax.
+     There are bilateral pleural effusions and probable associated atelectases. The
+     left diaphragm is obscured likely due to a combination of
+     consolidation/atelectasis in left lower lobe and left pleural effusion.
+     
+     IMPRESSION: No pneumothorax and no significant change since prior study of
+     [**2980-1-11**].  Persistent bilateral pleural effusions and atelectases with probable
+     consolidation in left lower lobe.
+
+",,
+14265,12357,17729,,2980-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-13**] 11:32 AM
+     [**Last Name (un) 516**] DUP EXTEXT BIL (MAP/DVT) PORT                               Clip # [**Clip Number (Radiology) 8021**]
+     Reason: PROLONGED BEDREST
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man [**Hospital Unit Name 314**] pt, pneumoboots off for 2 days.                            
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Decreased mobility, high risk for DVT.
+     
+     FINDINGS:  Duplex and color Doppler show no DVT involving either lower
+     extremity, either acute or chronic.
+
+",,
+14265,12357,17729,0,2980-01-13 05:17:00 EST,2980-01-13 05:26:00 EST,3840,"N",53,"Nursing/Other",,"
+
+Altered Neuro Status
+
+Pt opens eyes to voice, follows commands to stick out tongue, shut eyes, nods slightly to questions. No spontaneous movement of extremities. Cervical collar with extension on. 
+
+SR with PVCs and PACs. KCL repleted. BP stable. Heparin SC. Vit K given. INR 1.3. HCT stable.
+
+No vent changes. Suctioned q2hr for moderate amt. tan, thick sputum. O2 sat 98%. Rarely breaths over vent. Diminished breath sounds.
+
+Impact with fiber advanced to 60cc/hr. Free water given for Na=150.  Abd. soft with positive bowel sounds, no stools.
+
+Urine output good.
+
+Sliding scale Insulin given.
+
+No calls from family.
+
+Plan: Continue with pulmonary hygiene. Monitor neuro status. 
+",,
+14265,12357,17729,0,2980-01-13 05:22:00 EST,2980-01-13 05:24:00 EST,4235,"N",53,"Nursing/Other",,"
+
+RESP CARE: Pt remains intubated/on mech vent per carevue. Lungs-dim. bilat. Sxd mod amt thick bld tinged sputum. No RSBI this am [**Name8 (MD) 17**] MD.
+",,
+14265,12357,17729,0,2980-01-13 15:42:00 EST,2980-01-13 15:49:00 EST,3671,"N",53,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt remain orally intubated. Md Team would like Pco2~35mmHg. Would try to optimize ventilation to acheive it. Still mod amt of tan-blood tinged secretions. Plan: Will follow.
+",,
+14265,12357,17729,0,2980-01-13 18:50:00 EST,2980-01-13 19:05:00 EST,3688,"N",53,"Nursing/Other","T-SICU NSG PROG NOTE 11A-7P","
+T-SICU NSG PROG NOTE 11A-7P
+Remains stable w/ ongoing concerns regarding paralysis, pneumonia, and subdural hematoma. Plan to continue care w/ discussions w/ pt and family regarding prognosis and disposition. 
+
+ROS:
+
+RESP: goal pc02 35-40 w/ management of alkalosis w/ diamox and kcl.
+Currently a/c/ 50%/700/ 8cm peep/ 20br. (To go down to 18br and have repeat abg..resp notified). Sx small-mod thick tan secretions. Dim bases but otherwise clear.
+
+GI: Post-pyloric peditube @ goal 90cc/hr impactw/ fiber.
+
+CARDIAC: No specific goal for b/p other than keep it >100. Running 125-176/60-90, hr 65-80 nsr w/ occ apc and rare couplet.
+
+NEURO: interacts well w/ nodding and facial expression. Consistently answers questions and follows commands appropriately. Moves head, spont resp efforts. no movement UE, slightly wiggles toes. Has +sensation upper and lower extremeties.
+
+RENAL: good u.o.
+
+ENDO: sliding scale coverage.
+
+Ortho: cervical collar w/ chest extension.
+
+ASSESS: stable w/ ongoing paralysis.
+
+PLAN; follow abg, pulmonary management, dimox w/ kcl.
+",,
+14265,12357,17729,,2980-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-14**] 3:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8024**]
+     Reason: RSC Line Change                                             
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             88 year old man s/p mvc, intubated.                                      
+                         
+     REASON FOR THIS EXAMINATION:
+      RSC Line Change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP PORTABLE SINGLE VIEW:
+     
+     INDICATION:  Status post MVC, now intubated.  This single AP view obtained
+     with patient in supine position is obtained approximately 4 hours during a
+     preceding examination.  The image field does not cover the entire chest but
+     one can identify unchanged position of the right subclavian approach central
+     venous line terminating in the SVC at the level of the carina.  An NG tube
+     (Dobhoff type) reaches the area of the stomach.  Currently the patient remains
+     intubated but the image field does not cover the upper area of the thorax.
+     Diffuse densities in the diaphragmatic areas are suggestive of bilateral
+     pleural effusion as was concluded on the previous portable chest examination.
+     
+
+",,
+14265,12357,17729,,2980-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-14**] 10:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8023**]
+     Reason: eval ett tube placement                                     
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            88 year old man s/p mvc, intubated.                                       
+                       
+     REASON FOR THIS EXAMINATION:
+      eval ett tube placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Endotracheal tube placement.
+     
+     Comparison to [**2980-1-13**] at 15:46.
+     
+     FINDINGS:  The endotracheal tube is located 9 cm above the carina, above the
+     medial ends of the clavicle.  A Dophoff tube is seen within the stomach.  A
+     right subclavian central venous line terminates in the lower SVC. Bilateral
+     effusions are unchanged.  There are no focal consolidations. There is no
+     pneumothorax.
+     
+     IMPRESSION:  Endotracheal tube proximally located.  Other lines and tubes
+     appear well placed.  Stable effusions and left retrocardiac opacity.
+
+",,
+14265,12357,17729,0,2980-01-14 06:07:00 EST,2980-01-14 06:09:00 EST,4235,"N",53,"Nursing/Other",,"
+
+RESP CARE: P tremains intubated/on vent per carevue. Lungs- clear bilat. Sx- small amts tan secretions. RSBI-42. No [**Name6 (MD) 3173**] [**Name8 (MD) 17**] MD. 
+",,
+14265,12357,17729,0,2980-01-14 06:42:00 EST,2980-01-14 07:06:00 EST,3438,"N",53,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S:
+O: Neuro: alert, opens eyes, focuses on speaker, nods to questions appropriately. C/o neck pain.  Medicated with morphine X 2 with good relief.  Cervical collar with extension in place continuously. No spontaneous movement of extremities, can move head.  Moves toes on L foot and small movement of L leg on bed with stimulation.  Legs have tone, arms are flaccid.  PERRLA.
+CVS: stable, sinus rhythm with occasional pvc, pac.  BP drops to 100 with morphine, cvp 6-8.
+RENAL: sodium has normalized and ph normalized with vent changes and addition of diamox.  BUN remains elevated at 40, cr normal at 0.9, K+ repleted, mag repleted. urine output adequate
+GI: tolerating goal tube feedings of impact @ 90/hr. Bowel sounds present, on famotidine, no stool
+RESP: cxr shows lll consolidation.  Abg acceptable on a/c 18 X 700 50% 8 peep.  Suctioned for thick tan secretions. Coarse breath sounds
+ID: low grade temp. On vanco, one + blood culture, +sputum and urine cultures.
+ENDO: SSRI
+Heme: platelet count remains low...on sq heparin, on pneumoboots, no obvious signs of bleeding
+SKIN: intact, though remains edematous, multipodus boots in place.
+SOCIAL: no calls from family tonight
+A: s/p trauma with quadraplegia, pneumonia, Elevated bun, +blood culture
+P: Family meeting on Monday to discuss plans, follow cultures and sensitivities, continue excellent pulmonary hygiene, morphine prn for neck pain
+",,
+14265,12357,17729,0,2980-01-14 15:32:00 EST,2980-01-14 15:33:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, no vent changes made at this time.
+",,
+14265,12357,17729,0,2980-01-14 15:35:00 EST,2980-01-14 15:52:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+Family meeting discussed with MD [**First Name8 (NamePattern2) 357**] [**Last Name (NamePattern1) **].  Will arrange for Monday btwn [**10-3**] am.  MDs [**First Name8 (NamePattern2) 833**] [**Last Name (NamePattern1) **] of ICU and Mark Goorman of neuro aware.  Neuro to inform RN of set time, as SW will not be available.  RN [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4751**] aware of this plan.  Pts son aware that he will be contacted with exact time.  Pls pg SW prn.
+",,
+14265,12357,17729,0,2980-01-14 17:32:00 EST,2980-01-14 17:47:00 EST,3259,"N",53,"Nursing/Other","SICU NPN","
+SICU NPN
+Pt remains intubated in the SICU s/p MVC
+Neuro: Pt awake, nods appropriately to yes and no questions. Pt with slight w/d noted to BLE, L>R; no movement noted with BUE. Pt also with slight internal rotation of L leg on command. Pt remains in C-collar and thoracic extention for spine stablization. Skin underneath collar intact. Pt medicated with morphine 1-2 mg PRN pain.
+
+CV: HR 70-80's, SR with occasional PVCs/PACs.  Pt with one episode of hypotention after lasix dose, given 500cc fluid bolus with good response.  BP otherwise stable all day. Extremities warm, well perfused. Heparin d/c'd and changed to lovenox.  TLC changed over wire, site with small ammt bloody drainage. A-line site intact. P-boots on all day.
+
+Resp: Lungs coarse, diminished in bilat bases. Pt suctioned frequently for copious ammts tan sputum. ETT rotated and advanced to 24 at the lip per CXR. No vent changes made today.
+
+GI: Abd soft, good BS noted. TF remain at goal. Pt given dulc suppos today with good results, pt with large ammt formed brown stool this eve. Pepcid changed to prevacid PO.
+
+GU/renal:  Pt with good u/o via foley catheter, lytes repleted PRN. Pt completed diamox today.
+
+Endo: SSIC, see flowsheet for coverage
+
+ID: Low grade temps; line changed over wire.  no new culture data. Pt continues on current abx.
+
+Social: Attempting to set up family meeting for Mon AM- awaiting time frame from neurosurg for meeting time. Pt's son updated on condition and plan of care.
+
+
+",,
+14265,12357,17729,0,2980-01-15 05:27:00 EST,2980-01-15 05:29:00 EST,3752,"N",53,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated on A/C overnoc. No vent changes this shift. See carevue. ABG acceptable. Suctioned thick tan sputum. RSBI 93 this am. 
+",,
+14265,12357,17729,0,2980-01-15 06:51:00 EST,2980-01-15 06:56:00 EST,3840,"N",53,"Nursing/Other",,"
+
+S/P MVA
+
+Neuro remains unchanged. Pt alert, and nods appropriately. MSO4 x1. Cervical collar with extension on.
+
+A/C-not breathing over vent much. Suctioned for thick white sputum in mod. amts. Sats 99%, breath sounds diminished in bases.
+
+SBP< 90 x2-responded well to 250cc bolus each time. CVP 8-12. Ectopy continues, lytes repleted.
+ 
+Impact at goal, sm. amt. brown stool.
+
+Pt continues to diurese.
+
+No contact with family overnight.
+
+Plan: Continue to monitor and support; family meeting on Monday.
+",,
+14265,12357,17729,0,2980-01-15 15:42:00 EST,2980-01-15 15:43:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, suctioned for lg. white secritiones, bs coares.
+",,
+14265,12357,17729,0,2980-01-16 05:44:00 EST,2980-01-16 05:55:00 EST,3338,"N",53,"Nursing/Other","nursing note 7p-7a","
+nursing note 7p-7a
+review of systems
+
+neuro: pt opens eyes to voice and following commands consistantly. pt sticks out tongue and blinking eyes to command. nodding to answer questions appropriately.pearl. no movement or sensation in extremeties. c collar and vest intact. medicated with morphine q2-3hr for c/o neck pain. 
+
+cv: hr 70's sr with freq pvcs at times. sbp 80-130. cvp 6-8. 500cc ns fluid bolusx1 for hypotension with some effect. ivf ns at 80cc/hr. +pp with skin warm and dry.
+
+resp: l/s coarse to clear in upper lobes and diminsihed at bases. conts on same vent settings with adequate abg. sx for mod>large amts of thick white sputum. orally sx for thick clear secretions. 
+
+gi: abd softly distended with +bs. tubefeeds held d/t high residuals of >240cc. ivf started. bm x2 liquid. rectal bag applied. peditube clamped at present.
+
+gu: u/o adequate. lytes repleted prn.
+
+heme: hct stable. conts on lovenox.
+
+endo: bs 140's rx'd with ss. 
+
+id: tmax 100.6.  conts on vancomycin and peak level sent. 
+
+skin: grossly intact.
+
+social: no contact with family. 
+
+plan: family meeting on monday. 
+",,
+14265,12357,17729,0,2980-01-16 14:00:00 EST,2980-01-16 14:07:00 EST,3688,"N",53,"Nursing/Other","T-SICU nsg prog note: 11-7","
+T-SICU nsg prog note: [**10-29**]
+Remains stable, intubated and ventilated, w/out neuro change. Plan for family meeting tomorrow to discuss disposition. 
+
+ROS:
+
+RESP: still quite a bit of secretions, requiring ns instillation to raise them. Strong cough and gag. Vent: A/C/700CCVT/50%/8CM PEEP/18br/
+appears comfortable w/out overbreating vent.
+
+GI: TF continue  @ 90c/hr Impact w/ fiber. Following residuals. Stooling yesterday.REctal bag intact.
+
+NEURO: He consistently nods his head appropriately to detailed questions. Follows commands consistently. No movement of upper or lower extremeties. He nods ""yes"" when sensation evaluated on each extremety. 
+
+PAIN: Experiencing neck pain relieved w/ small doses iv mso4
+
+CARDIAC: hr 70's nsr, no vea noted this shift. b/p 120/60; however, will drop b/p to 80's after sedation. Responds to lying flat.
+
+RENAL: good u.o., foley replaced w/out resistence or difficulty but resulted in hematuria.
+
+ASSESS : stable 
+
+PLAN: family meeting
+",,
+14265,12357,17729,,2980-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-17**] 4:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8025**]
+     Reason: eval                                                        
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              88 year old man s/p mvc, intubated.                                     
+                           
+     REASON FOR THIS EXAMINATION:
+      eval                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Post-MVA, intubated.
+     
+     SEMI-ERECT PORTABLE FRONTAL RADIOGRAPH: Comparison:  [**1-13**] & [**2980-1-14**].
+     
+     Again are noted an ET tube and right central venous catheter, unchanged in
+     position.  An NG tube is seen below the diaphragm.  There are persistent
+     bilateral pleural effusions with bilateral lower lobe
+     atelectasis/consolidation, unchanged from prior studies.  There are no new
+     focal consolidations.  There is no congestive heart failure.
+     
+     IMPRESSION:  Unchanged position of ET tube and right  central venous catheter.
+      Persistent bilateral pleural effusions with associated bibasilar
+     atelectasis/condolidation.
+     
+     
+
+",,
+14265,12357,17729,0,2980-01-17 04:38:00 EST,2980-01-17 04:41:00 EST,3752,"N",53,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated overnoc on A/C. No vent changes this shift. ABG acceptable. RSBI 47 this am. Plan family meeting today, cont. current vent settings. See carevue.
+",,
+14265,12357,17729,0,2980-01-17 05:13:00 EST,2980-01-17 05:27:00 EST,3438,"N",53,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S:
+O: Neuro: awake most of night.  Whenever I asked if he had pain he always nodded yes. Given 2 mg morphine X 5 with some relief. c/o pain in neck.  Able to move head side to side and can move L leg a small amount  and wiggle l toes. No movement of hands, arms or r leg.
+Cervical collar with thoracic extension remains in place.
+CVS: stable hemodynamics.  Occ pvc.
+RESP: adequate abg on a/c of 18 X 700 50%, 8 peep. Suctioned for thick tan secretions.  coarse breath sounds in all fields.  
+RENAL: urine output adequate. BUN 43, cr 0.8, lytes repleted. 
+GI: receiving goal feedings of impact with fiber @90/hr. Belly soft, no stool.
+ENDO: ssri
+Heme: no issues on boots, lovenox
+ID: wbc 9.2, on vanco and levo
+skin: laceration to R thumb open to air, no other breakdown
+SOCIAL: to have family meeting today to discuss further treatment plans.
+A: stable, new quadriplegic s/p C2-3 fx requiring vent support
+P: family meeting today.  Continue excellent pulmonary hygiene. ??other meds for pain...??change to po for better and longer pain control.
+",,
+14265,12357,17729,0,2980-01-17 17:14:00 EST,2980-01-17 17:21:00 EST,3349,"N",53,"Nursing/Other",,"
+
+Resp Care: Pt remains intubated via #7.5 ETT rotated and advaced 2cm to 27cm at lip (had been ~25cm, although it was documented as 24cm.). Cxray [**1-14**] reveals ""ETT 9cm above carina. Unchanged bilat eff."". [**1-17**] reveals ""ETT unchanged"". Sx'd freq for copious thick white and yellow sputum from ETT and p.o. Coughing audibly prior to advancing ETT. Changed to PSV and weaned PEEP to 5cm. Tol well.Please see carevue for further vent inquiries.
+",,
+14265,12357,17729,0,2980-01-17 17:33:00 EST,2980-01-17 18:06:00 EST,4258,"N",53,"Nursing/Other","7a-7p","
+7a-7p
+Neuro=Pt alert. Shakes head ""yes/No"" appropriately to questions. Wiggles left toes and moves left foot to command. Pt indicates he can feel sensation to feet/hands. PERRL at 3mm with brisk response bilat. gag reflex intact, strong cough. Pt frequently indicates pain present, morphine 2mg iv given 4 times today and 2mg iv ativan given x 1.
+
+CV=HR 80s-90s NSR with rare to occasional PVCs. BP 100s/40s, jumps to 130s/60s after suctioning and drops to 88/38 after pain meds given, then raises within 30-45 minutes. Right radial art line with sharp waveform. Right IJ TLC with all ports patent. 1+ generalized edema.
+
+RESP=pt vented on cpap with 50% fio2 5 peep, 10 ps, tv 600s-800s, sat 100%. ETT at 27cm at the lip. ETT rotated to left side of mouth today.
+pt has strong productive cough. copious thick tan/yellow secretions from ETT, thick tan/white secretions from mouth. Lungs coarse with diminished at bases.
+
+GI=Impact with fiber TF running at goal rate of 90cc per hour via left nare peditube. ABD SNT with hypoactive bowel sounds. Rectal pouch in place. No stool today. 
+
+GU= clear yellow urine via foley cathetar. Lasix given on nights produced 900cc urine (see flowsheet).
+
+Endo= ISS, 2 units given for FSBG of 131 and 132 during this shift.
+
+ID=tmax 100 orally. +staph in blood, UTI with enterecoccus. Vanco and levofloxacin on board.
+
+skin= skin dry and flaky. lac on right hand pink and dry. skin care done q 2 hours with turns. [**Location (un) 14**] J collar and thoracic brace in place. Collar care done.
+
+Soc= Family meeting today with pt's son, daughter, Social worker [**Doctor Last Name 1441**], SICU attending [**Doctor Last Name **], Neruo attending P., wherein family were told pt has less than 1% chance of any recovery from the spinal fx and that pt will probably be vent dependent.  Family requested the medical staff discuss this with patient as patient is alert and aware cognitively.  Pt shook head ""yes"" appropriately when asked numerous times during the conversation if he understood what was being explained. When asked if the patient wanted to have a trach/peg, he indicated he needed more time to think about it.  Medical staff and patient family agreed to readdress plan tomorrow.
+
+Plan= manage patient's pain throughout night while maintaining acceptable bp, provide emotional support to patient and family. Tomorrow, readdress patient wishes for either withdrawal of support or trach/peg and long term care placement.
+",,
+14265,12357,17729,0,2980-01-17 22:23:00 EST,2980-01-17 22:33:00 EST,4422,"N",53,"Nursing/Other",,"
+
+7p-11p
+ASSESSMENT AS NOTED(SEE CHART)
+PUT BACK ON AC,ABG DRAWN PCO2 IS DOWN TO 40.+ COUGH, MODERATE SECRETIONS IN ET.SUCTIONED Q1H
+PT C/O PAIN AND GOT MS [**First Name (Titles) 2264**] [**Last Name (Titles) 3828**]-SPB DIPPED TO 80S WITH PAIN MEDS, RECOVERED ON ITSELF IN 10 MIN.
+NEURO- FEELS ALL EXTTREMITIES, MOVES TOES BOTH FEET TO PAIN STIMULI.
+ONLY HEAD SPONT. MOVEMENT.[**Last Name (un) **] AND CHEST SPLINT ARE INTACT
+GOOD U/O- CLEAR YELLOW
++BS, NO BM SO FAR
+
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5908**], RN
+",,
+14265,12357,17729,0,2980-01-18 06:00:00 EST,2980-01-18 06:04:00 EST,3317,"N",53,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with A/C, no vent changes overnoc, good abg; BS rhonchorous, sxn freq lg amts thick white secretions, rsbi marginal, will cont support.
+",,
+14265,12357,17729,0,2980-01-18 06:58:00 EST,2980-01-18 07:08:00 EST,4422,"N",53,"Nursing/Other",,"
+
+7 AM
+REMAINS ON VENT AC,LS COARSE RHONHI+ A LOT OF SECRETIONS-YELLOW,THICK,  SOME SPONT. BREATHING-ESSPECIALLY WHEN IN PAIN.
+MEDICATED Q 2-3 HOURS WITH SBP DIPPING TO 90S-80S, RECOVERS IN 5-10 MINUTES.
+GOOD U/O>100/H
+TOLERATES T.FEEDING WELL,RECTAL BAG IS ON BUT ONLY SMALL AM. OF DARK STOOL
+SKIN WITH MULTIPLE ECCHYMOTIC AREAS,EDEMATOUS NO BREAK DOWN
+SENSATION INTACT ALL EXTREM. BUT ONLY W/D TOES TO PAIN STIMULI, NO OTHER MOVEMENT.NODS , FOLLOW COMMANDS.REMAINS IN [**Last Name (un) **] AND CHEST BRACE.[**Last Name (un) **] CARE DONE.
+BLOOD SUGAR-160 GOT 2U RI TWICE
+NO FEVER
+     [**Last Name (NamePattern4) 5909**] RN
+",,
+14265,12357,17729,0,2980-01-18 17:07:00 EST,2980-01-18 17:09:00 EST,3960,"N",53,"Nursing/Other","Respiratory","
+Respiratory
+Pt. remained on a/c no changes, stable. Suctioning large amts white
+[**Last Name (LF) 5910**], [**First Name3 (LF) 85**] attempt wean tommorrow.
+",,
+14265,12357,17729,0,2980-01-18 19:18:00 EST,2980-01-18 19:31:00 EST,3933,"N",53,"Nursing/Other",,"
+
+NPN [**10/2876**]
+NEURO; OPENS EYES SPONTANEOUSLY,  NODDING Y/N APPROPR.NO MOVEMENT IN UPPER ARMS ? MOVESTOES ON BOTH FEET TO NAILBED. / SPONTANEOUS  V REFLEX MOVEMENT AT KNEE ON LT. FOCUSES AND FOLLOWS, LT EYE RED.
+
+RESP; NO CHANGE IN VENT SETTINGS, SUCTIONED FOR COPIOUS AMOUNTS THICK WHITE SECRETIONS FREQUENTLY. SATS 99-100%LUNGS  SOUNDS COARSE RHONCHII
+
+CVS TMAX 100.4 PO NSR WIWWTH ISCO PAC AND PVC SINCE 1800.BP 114- 150 / RECEIVED FLUID BOLUS FOR BP 106.
+
+GU; CONTINUES WITH GOOD OUTPUT  VIA FOLEY.
+
+GI; TOLERATING T/F LARGE THICK SSTOOL TOO THICK FOR RECTAL BAG.THERFORE REMOVED. BS ON RISS,
+
+SKIN RASH UNDER NECK BRACE, SOME PRESSUR NOTED ON LT SIDE
+REPOSITIONED, WHEN CARE GIVEN
+
+SON CALLED AND ASKED IF DRS [**Last Name (STitle) **] SPOKEN WITH FATHER RE PROGNOSIS. OR HAD HE HAD ANY VISITORS.
+
+PLAN CONTINUE WITH OULMONARY AND SUPPORTIVE CARE.
+",,
+14265,12357,17729,,2980-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-19**] 4:19 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8027**]
+     Reason: eval for infiltrate                                         
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               88 year old man s/p mvc, intubated.                                    
+                             
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM.
+     
+     History of trauma and intubation with line placement.
+     
+     Endotracheal tube is 4 cm above carina.  Right subclavian CV line is in mid
+     SVC.  PICC line is in distal SVC.  A feeding tube is in stomach.  No
+     pneumothorax.  Heart size is normal for technique.  There is tortuosity of the
+     thoracic aorta.  There are bibasilar atelectases.  There could be a partially
+     layering right pleural effusion. 
+
+",,
+14265,12357,17729,,2980-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-19**] 2:51 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8026**]
+     Reason: please place PICC line, IV team failed at bedside.          
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man C-2 fx, intubated, long term care placment pending; has central 
+      line but would like to d/c today given low grade temp yesterday. 
+     REASON FOR THIS EXAMINATION:
+      please place PICC line, IV team failed at bedside.                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88 y/o gentleman with C2 fracture and intubated.  Has central line
+     but is running low-grade temps.  Requires PICC line for IV access, multiple
+     medications and possible TPN.
+     
+     PROCEDURE & FINDINGS:  The procedure was performed by Drs. [**Name5 (PTitle) 510**] &
+     [**Doctor Last Name 346**], who was present and supervising.  The patient's left upper arm
+     was prepped and draped in standard sterile fashion.  After infusion of 1%
+     Lidocaine, the left basilic vein was entered with a 21-gauge needle under
+     ultrasonograpic guidance.  A .018 guide wire was advanced into the SVC.  Based
+     on the markers on the guide wire, it was determined that a length of 58 cm
+     would be appropriate for the PICC line.  The PICC was cut to fit and advanced
+     over a 4 French introducer sheath.  The wire and sheath were removed.  The
+     line was flushed and heplocked.  It was secured with a Stat-lock.  Final chest
+     image confirmed appropriate positioning of the PICC tip in the distal SVC. The
+     patient tolerated the procedure well and there were no immediate post-
+     procedure complications.
+     
+     IMPRESSION:  Successful placement of left 58-cm total length dual-lumen PICC
+     line with tip in the distal SVC.  The line is ready for use.
+     
+     
+     
+     
+     
+     
+
+",,
+14265,12357,17729,,2980-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-19**] 2:51 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8026**]
+     Reason: please place PICC line, IV team failed at bedside.          
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man C-2 fx, intubated, long term care placment pending; has central 
+      line but would like to d/c today given low grade temp yesterday. 
+     REASON FOR THIS EXAMINATION:
+      please place PICC line, IV team failed at bedside.                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88 y/o gentleman with C2 fracture and intubated.  Has central line
+     but is running low-grade temps.  Requires PICC line for IV access, multiple
+     medications and possible TPN.
+     
+     PROCEDURE & FINDINGS:  The procedure was performed by Drs. [**Name5 (PTitle) 510**] &
+     [**Doctor Last Name 346**], who was present and supervising.  The patient's left upper arm
+     was prepped and draped in standard sterile fashion.  After infusion of 1%
+     Lidocaine, the left basilic vein was entered with a 21-gauge needle under
+     ultrasonograpic guidance.  A .018 guide wire was advanced into the SVC.  Based
+     on the markers on the guide wire, it was determined that a length of 58 cm
+     would be appropriate for the PICC line.  The PICC was cut to fit and advanced
+     over a 4 French introducer sheath.  The wire and sheath were removed.  The
+     line was flushed and heplocked.  It was secured with a Stat-lock.  Final chest
+     image confirmed appropriate positioning of the PICC tip in the distal SVC. The
+     patient tolerated the procedure well and there were no immediate post-
+     procedure complications.
+     
+     IMPRESSION:  Successful placement of left 58-cm total length dual-lumen PICC
+     line with tip in the distal SVC.  The line is ready for use.
+     
+     
+     
+     
+     
+     
+
+",,
+14265,12357,17729,,2980-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-19**] 2:51 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8026**]
+     Reason: please place PICC line, IV team failed at bedside.          
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man C-2 fx, intubated, long term care placment pending; has central 
+      line but would like to d/c today given low grade temp yesterday. 
+     REASON FOR THIS EXAMINATION:
+      please place PICC line, IV team failed at bedside.                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88 y/o gentleman with C2 fracture and intubated.  Has central line
+     but is running low-grade temps.  Requires PICC line for IV access, multiple
+     medications and possible TPN.
+     
+     PROCEDURE & FINDINGS:  The procedure was performed by Drs. [**Name5 (PTitle) 510**] &
+     [**Doctor Last Name 346**], who was present and supervising.  The patient's left upper arm
+     was prepped and draped in standard sterile fashion.  After infusion of 1%
+     Lidocaine, the left basilic vein was entered with a 21-gauge needle under
+     ultrasonograpic guidance.  A .018 guide wire was advanced into the SVC.  Based
+     on the markers on the guide wire, it was determined that a length of 58 cm
+     would be appropriate for the PICC line.  The PICC was cut to fit and advanced
+     over a 4 French introducer sheath.  The wire and sheath were removed.  The
+     line was flushed and heplocked.  It was secured with a Stat-lock.  Final chest
+     image confirmed appropriate positioning of the PICC tip in the distal SVC. The
+     patient tolerated the procedure well and there were no immediate post-
+     procedure complications.
+     
+     IMPRESSION:  Successful placement of left 58-cm total length dual-lumen PICC
+     line with tip in the distal SVC.  The line is ready for use.
+     
+     
+     
+     
+     
+     
+
+",,
+14265,12357,17729,,2980-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-19**] 4:19 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8027**]
+     Reason: eval for infiltrate                                         
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               88 year old man s/p mvc, intubated.                                    
+                             
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM.
+     
+     History of trauma and intubation with line placement.
+     
+     Endotracheal tube is 4 cm above carina.  Right subclavian CV line is in mid
+     SVC.  PICC line is in distal SVC.  A feeding tube is in stomach.  No
+     pneumothorax.  Heart size is normal for technique.  There is tortuosity of the
+     thoracic aorta.  There are bibasilar atelectases.  There could be a partially
+     layering right pleural effusion. 
+
+",,
+14265,12357,17729,0,2980-01-19 04:53:00 EST,2980-01-19 04:57:00 EST,3196,"N",53,"Nursing/Other",,"
+
+Respiratory Care:
+pt.remains on Mech vent as per CareVue. Pt continues to have significant secretions however toward the latter part of the shift,
+they have seemed to abate somewhat. RSBI = 53  No changes over noc
+",,
+14265,12357,17729,0,2980-01-19 06:58:00 EST,2980-01-19 07:08:00 EST,4422,"N",53,"Nursing/Other",,"
+
+7 am [**1-19**]
+
+ON VENT A/C 50%, KEEPS SO2>98.LARGE TO MODERATE AMOUNT OF SPUTUM IN ET
+BILATERAL COARSE T/O. ABG SAME AS DAY AGO
+
+PASSING STOOL-REGULAR SOFT, WAS SENT TO OB, NO OBVIOUS BLEEDING
+TOLERATES T. FEEDING  WELL, + BS, ABD. IS SOFT.RECTAL SWAB FOR MRSA WAS SENT
+
+GOOD U/O, MICRO HEMATURIA
+
+BP STABLE, GENERAL. EDEMA. TEMP.99+.A LINE INTACT, C LINE IS RED IN INSERTION SITE,MD IS AWARE.
+
+MGSO4 BOLUS AND K-PHOS WAS STARTED FOR LOW PHOS AND MG
+
+SKIN W/O MAJOR BREAKDOWNS.[**Last Name (un) **] CARE DONE , SOME RASH UNDER THE CLAM SHELL CHEST BRACE-MD AWARE
+
+[**Last Name (NamePattern4) 5911**],RN
+",,
+14265,12357,17729,0,2980-01-19 17:55:00 EST,2980-01-19 17:57:00 EST,3960,"N",53,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt. weaned to psv. [**9-26**], tol well. Pt transported to angio without event. suctioning large amts of white [**Month/Day (1) 5910**] from pt.
+",,
+14265,12357,17729,0,2980-01-19 18:05:00 EST,2980-01-19 18:17:00 EST,4370,"N",53,"Nursing/Other","TSICU NPN 0700-1500","
+TSICU NPN 0700-1500
+NEURO: Pt alert. Nods to yes or no questions. Can slightly wiggle left great toe. No movement to other extremities. MSO4 q2-4hr for pain with effect. Per neuro: ?need for fusion of c2-3 fx. Team unaware of date at this time.
+
+RESP: Changed to CP 10PS 5PEEP. ABG's WNL, pt appears more comfortable on this mode as opposed to SIMV. Sxn'd numerous times for thick white secretions. LS diminshed throughout all fields. Sats WNL.
+
+CV: BP 80s/40s once in AM. Resolved with 500cc bolus. BP stable for rest of day. HR 80s NSR no ectopy. 
+
+HEME: H/H stable. Lovenox and pboots for DVT prophylaxis.
+
+GI: TF impact with fiber at goal of 90. Minimal residuals. +BS. Lg soft BM X1 this shift. 
+
+GU: Foley with adequate amt clear yellow u/o. Lytes WNL. 
+
+ID: Low grade temp. WBC 14.3. Right TLCL red at site. Pt had Left PICC line placed, right TLCL to be removed. U/A sent. urine cx pnding. CXR to eval RLL infiltrate pnding.
+
+ENDO: FS WNL, covered with RISS.
+
+SOCIAL: son in for brief visit.
+
+ASMT: Pt s/p MVA with C2-3fx and quadrepalegia. Hemodynamically stable. Awaiting family decision re: ?trach/PEG vs CMO.
+
+PLAN: cont to monitor VS, neuro checks, pain mgmt, skin care, pulm toilet, monitor labs, f/u w/ family regarding plan of care for pt.
+
+",,
+14265,12357,17729,,2980-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2980-1-20**] 5:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8028**]
+     Reason: eval                                                        
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                88 year old man s/p mvc, intubated.                                   
+                               
+     REASON FOR THIS EXAMINATION:
+      eval                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88 y/o post MVA.  Assess ET tube.
+     
+     PORTABLE SUPINE FRONTAL RADIOGRAPH:  Comparison is made to study of 1 day
+     prior.
+     
+     FINDINGS:  Again are visualized an endotracheal tube and left sided PICC line,
+     unchanged in position.  The NG tube is still present and courses below the
+     diaphragm, though its tip is not visualized.  There has been interval removal
+     of a right subclavian central venous catheter.  The cardiac and mediastinal
+     contours are unchanged.  The pulmonary vasculature is somewhat prominent,
+     though decreased from the prior study.  There are persistent bilateral pleural
+     effusions and bibasilar atelectasis.
+     
+     IMPRESSION:
+     
+     Improved congestive heart failure.  Persistent bilateral pleural effusions and
+     bibasilar atelectasis.  Interval removal of right subclavian catheter with
+     stable position of remaining lines and tubes.
+     
+
+",,
+14265,12357,17729,0,2980-01-20 05:12:00 EST,2980-01-20 05:14:00 EST,3752,"N",53,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated on IPS 10 overnoc, VT 600, RR 18. Pt. had copious frothy white secretions towards end of shift. RSBI 106 this am. See carevue.
+",,
+14265,12357,17729,0,2980-01-20 07:59:00 EST,2980-01-20 08:16:00 EST,4211,"N",53,"Nursing/Other",,"
+
+Nursing Progress Note
+[**1-20**] 1900->0730
+
+S/O
+
+NEURO: Alert, acknowledges fear re: what's going to happen; discussed pt having choices, his not being alone or in pain during whichever processes he chooses. Ativan 2mg IV x1 for anxiety relief. MSO4 2mg IV x2, 1st for pain relief, 2nd for comfort after increased sxning needs over 75 minutes. Positive results with Rx.
+Pt moves BLE, left >right, bedns knee slightly. No movement noted in BUE. Remains in c-collar with brace.
+
+CV: Occ PVC. NO cardiac issues.
+
+RESP: LS clear, diminshed in bases until ~ 04:00. At that time, pt became audibly rhonchorous but was unable to cough up secretions. Nurse unable to sxn secretions with in-=line sxn cath -> deep sxn'd, and bright red bloody plug sxn'd. For next 60 minutes, pt required sxning ~q 5 minutes for copious amnts blood-tinged to brown frothy secretions. ? S3, unable to hear air movement in bases, so unable to rule out crackles. MSO4 given after repeated sxns, and respiratory distress resolved.
+ABG 7.44/51/124/36. See CareVue for details.
+
+GI: BM x1. Abd soft, distended. Pedi feeding tube patent and infusing with Impact /w fiber at goal rate of 90mL/hr.
+
+FEN: BS treated per RISS. No other repletions needed. 24horu I= 4050.9, O=3185.0.
+
+GU: U/O qs via foley.
+
+HAEM: WBC essentially unchanged; Hct down from 31.6 -> 29.0.
+
+ID: Continues with low-grade temps; WBC 12.9->12.7.
+
+
+A/P
+
+Assess pulmonary status. Monitor for re-occurence of respitaory distress. Continue current care.
+",,
+14265,12357,17729,0,2980-01-20 18:09:00 EST,2980-01-20 18:18:00 EST,4370,"N",53,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+NEURO: Pt alert. Nods to yes or no questions. c/o freq pain. Motrin 400mg q8 added to pain regimen. MSO4 prn with effect. Wiggles left toes to command. No other spontaneous movement. OOB to chair today X90min, tol well. PT in to consult and perform passive ROM. 
+
+RESP: Suctioned freq for thick yellow secretions. LS diminished throughout. CPAP 10PS 5PEEP 50%. Sats WNL. 
+
+CV: HR 80s w/ runs of vent trigemminy. Dr. [**Last Name (STitle) 2869**] aware. EKG taken, no changes noted per Dr. [**Last Name (STitle) 2869**]. Lytes repleted. Cont with freq runs PVCs. BP stable.
+
+HEME: H/H stable. Lovenox and pboots for DVT prophylaxis.
+
+GI: TF impact with fiber at 90 (goal). Tol well. Minimal residuals. BM X3. Reglan held d/t loose stools.
+
+GU: Foley with adequate u/o. Lytes repleted.
+
+ID: Temp 99-100. WBC 13.1, improving. Cont levaquin/vanco.
+
+ENDO: FS WNL, covered with RISS.
+
+SOCIAL: Friends in to visit, no calls from family.
+
+ASMT: Pt s/p MVA C2-3 fx, with quadrepalegia. Hemodynamically stable. Awaiting decision regarding plan of care from family.
+
+PLAN: Cont to monitor VS, pain mgmt, tele, labs, pulm toilet, f/u w/ family regarding POC. 
+",,
+14265,12357,17729,0,2980-01-21 04:02:00 EST,2980-01-21 04:05:00 EST,3681,"N",53,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds sl coarse suct mod-lge th yellow sput. No vent changes made overnoc. Cont mech vent wean PSV.
+",,
+14265,12357,17729,0,2980-01-21 05:06:00 EST,2980-01-21 05:15:00 EST,4330,"N",53,"Nursing/Other",,"
+
+Neuro:  Alert, nods head yes/no to questions asked. Does not move arms/hands. Wiggles left toes and moves foot on bed. Right leg moves to sole stroke. [**Location (un) 14**] J collar w/extenstion brace on. Awake (eyes open) most of shift. Even after pain medications given.
+
+CV: RSR w/occ PVCs noted. VSS see flow record. Right radial ABP line corralates w/ NIBP. Left PICC line. Generalized edema. Peripheral pulses weak.
+
+Resp: Remains orally intubated and on vent PS+P, 50%. SaO2 98->100%. Lungsounds coarse, sx thick yellow. No resp distress noted, equal rise and fall of chest. No ABGS checked.
+
+GI: Impact w/fiber infusing at 90cc/hr (goal). Abd soft rounded w/active BS. Large liq stool. Fecal incont bag applied.
+
+GU: Foley patent draining red -> pink urine in amt sufficiant. Occasional clott noted and bloody sediment. HO aware, and reports this started after last off the floor test.  Monitor.
+
+Endo: Accuchecks not requiring coverage w/SSI
+
+Labs: NO LABS scheduled
+",,
+14265,12357,17729,0,2980-01-21 15:29:00 EST,2980-01-21 15:32:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+Famly meeting held at beside.  Present were pts son and [**Name2 (NI) **] in law, MDs [**First Name4 (NamePattern1) 5912**] [**Last Name (NamePattern1) **] and [**First Name8 (NamePattern2) 357**] [**Last Name (NamePattern1) **], RN [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5913**] and SW.  Pts conditions and prognosis given by MD and question of direction of care addressed.  All questions answered by MDs.  
+
+Sw met with family to assist with decision making.  Family to talk with MDs later this afternoon re their decision.  SW will be available to family throughout the day, and will continue to follow.  Pls pg prn.
+",,
+14265,12357,17729,0,2980-01-21 18:46:00 EST,2980-01-21 19:01:00 EST,4324,"N",53,"Nursing/Other","npn 7a-7p; t/sicu; s/p mvc, nondisplaced c2-3","
+npn 7a-7p; t/sicu; s/p mvc, nondisplaced c2-3
+s: extubated and mouthing words.
+
+
+NEURO- OPENS EYES TO VOICE. ABLE TO FOLLOW SIMPLE COMMANDS. NO UE MOVEMENT BILATERALLY. MOVES L FOOT TO COMMAND.. PERLLA 3MM BILATERALLY.  
+
+CV- RRR, HR 80-100 SR-->ST, W OCCAS TRIGEMINY NOTED.  2+ DP/PT BILATERALLY. S1S2. SBP 70 AFTER LASIX 10MG IV. SBP 70-->180 AFTER FLD BOLUS OF 250CC'S. PMH CAD W CABG. R RAD A-LINE INTACT.
+
+RESP- HAD LONG DISCUSSION WITH SON [**Name (NI) 2123**]. HE UNDERSTANDS THAT THERE IS NO CHANCE FOR RECOVERY OF SPINAL FUNCTION. HE IS THE HEALTH CARE PROXY AND HIS ACTIONS ARE GUIDED BY AN ADVANCE DIRECTIVE. SOCIAL SERVICES IN ON FAMILY MEETING. IN THIS DIRECTIVE MR. [**Known patient lastname **] STATED HE WOULD NOT WANT LIFE SUPPORT. IN LIGHT OF THIS, WE WILL EXTUBATE AND MAKE DNR/DNI. MSO4 WILL BE USED AS COMFORT. IN THE EVENT HE BECOMES HEMODYNAMICALLY UNSTABLE, TREAT W CMO MEASURES. SEE CAREVIEW FOR DETAILS. POST EXTUBATION ABG'S WNL'S. LS COARSE IN UPPER LOBES W CONGESTION. WEAK COUGH ABLE TO EXPECTORATE SOME THK/WHITE SECRETIONS.
+
+GI- ABD SOFT, NT, ND. RECTAL BAG TAKEN OFF, COVERED W/ PADS D/T COMFORT MEASURES. TF HELD BEFORE EXTUBATION. L NARE PEDI TUBE CLAMPED OFF.
+
+GU-  U/A [**1-10**] ENTEROCOCCUS [**1-18**] NEGATIVE. LASIX 10MG IV GIVEN W/ 800 C DIURESED. PT DROPPED HIS PRESSURE AND 250CC NS BOLUS GIVEN. 
+
+LABS- WNL'S
+
+ENDO- RISS
+
+A- COMFORT MEASURES
+   ALT IN RESP D/T MOBILIZATION OF SECRETIONS AND WEAK COUGH
+
+PLAN- CONTINUE W PLAN ABOVE AS STATED IN CHART/PER TEAM.
+",,
+14265,,17729,0,2980-01-22 05:06:00 EST,2980-01-22 05:24:00 EST,4330,"N",53,"Nursing/Other",,"
+
+Neuro: Alert, follows commands w/left foot (wiggles toes) to command. No movement in other three extremities. Withdrawls right leg to sole stroke. Difficult to assess mentation/orientation as he speaks very very soft. PEARLA.  [**Location (un) 14**] J brace w/extenstion on
+
+CV: RSR/ST w/ frequent to occasional PVCs, PACs, and PJCs. Has right radial ABP. SBP 120 -> 220 HTN noted w/in need of sx. w/SBP returning to baseline p sx. Left PICC line.  Generalized edema. Peripheral pulses difficult to palpate
+
+Resp: 100% facetent (coolneb) SaO2 88-99%. SaO2 down once to 88 when sx required. HTN at this time as noted above during this time too. Frequently encouraged to cough, and cough is weak. Coughs up copious amt of thick white to pale yellow sputum. Sx w/yankauer this phlegm from back of mouth, as he is unable to expectorate it.  RR 20-30. Equal rise and fall of chest. Denies difficulty breathing.
+
+GI: TF, impact w/fiber resumed at 90cc/hr. No residuals. Abd soft distended w/active BS. Large loose -> semi loose stool. Reglan held per loose stools
+
+GU: Foley patent draining pink -> red urine w/ occasional pea sized clot and dark red sediment in. UO adequate.
+
+No Labs
+
+MSO4 given times one per request for discomfort
+
+Plan: DNR/DNI. CMO if becomes unstable. Continue current course of tx
+",,
+14265,,17729,0,2980-01-22 08:13:00 EST,2980-01-22 08:18:00 EST,4045,"N",53,"Nursing/Other",,"
+
+D: Pt unresponsive, dusky, diaphoretic with falling o2 sats/bp. Please see ekg strips/vs. Asystole noted at 8:07. Pt's son [**Name (NI) **] phoned in for update and notified that pt expired.
+",,

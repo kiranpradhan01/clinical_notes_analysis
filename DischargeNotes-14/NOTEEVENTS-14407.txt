@@ -1,0 +1,1030 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14407,,,,3244-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-18**] 6:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9136**]
+     Reason: post ETT                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      post ETT                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  84-year-old female after endotracheal tube placement.
+     
+     COMPARISON:  No prior study available.
+     
+     FINDINGS:  Single frontal view of the chest demonstrates endotracheal tube in
+     low position with tip at the carina.  It is suggested that this be pulled back
+     approximately 2-3 cm.  The heart is moderately enlarged in size.
+     Calcifications are noted of the aortic arch.  The lung parenchyma is clear.
+     There is no pleural effusion or pneumothorax.
+     
+     IMPRESSION:
+     1.  ET tube in low position.  It is suggested this be pulled back
+     2 to 3 cm.
+     2.  Cardiomegaly.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 4832**] at 7 p.m., [**3244-2-18**].
+
+",,
+14407,,,,3244-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ********************************* CPT Codes ********************************
+     * 37184 PRIMARY MECH THROMBECTOMY ART/ 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75665 CAROTID/CEREBRAL UNILAT       *
+     * -59 DISTINCT PROCEDURAL SERVICE                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with L MCA stroke and L MCA clot on CTA.                      
+     REASON FOR THIS EXAMINATION:
+      use of MERCI device for clot removal                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute left MCA stroke.
+     
+     TECHNIQUE:  Under general anesthesia, the patient's right groin was prepped
+     and draped in the usual sterile fashion.  A 5 Fr arterial sheath was
+     introduced into the right common femoral artery and followed by a 4 Fr
+     Berenstein II guide catheter which was used for cerebral angiography.  Under
+     fluoroscopic guidance, the catheter was navigated to the left internal carotid
+     artery, where angiography was performed in the frontal and lateral planes.
+     Based on the diagnostic findings, it was decided to proceed with intervention.
+     Using an exchange length guidewire, the catheter and arterial sheath were
+     removed and replaced by a 9 Fr Merci clot removal device which was advanced to
+     the proximal left internal carotid artery.  A 14X microcatheter was navigated
+     to the left middle cerebral artery and the X6 Merci device was deployed within
+     the left middle cerebral artery, with attempt at clot removal. Three passes
+     were made in attempt to remove the left middle cerebral artery thrombus.
+     Following removal of the Merci device, the guide catheter was replaced by a 9
+     Fr arterial sheath, which was sutured in place in the right groin.  The
+     patient was transferred, intubated to the recovery room, at her neurologic
+     baseline. There were no apparent complications.
+     
+     TASKS:
+     
+     1. Catheterization of the right common femoral artery.
+     
+     2. Catheterization of the left internal carotid artery.
+     
+     3. Superselective catheterization of the left middle cerebral artery.
+     
+     4. Deployment of the Merci device in the left middle cerebral artery, with
+     attempted clot extraction.
+     
+     5. Control angiography via the left internal carotid artery.
+     
+     PRIMARY ATTENDING:[**Last Name (NamePattern1) 9140**]     
+     FINDINGS:
+     
+                                                                 (Over)
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Injection of the left internal carotid artery revealed an abrupt cut-off of
+     the contrast column in the mid M1 arterial segment on the left, consistent
+     with occlusion by an acute thrombus.  Runoff in the anterior cerebral artery
+     candelabra was unremarkable.  Multiple attempts at clot extraction via
+     deployment of the Merci device in the distal M1 arterial segment were
+     unsuccessful and control angiography revealed continued presence of occlusion
+     of the M1 segment.
+     
+     IMPRESSION:  Unsuccesful attempt at extraction of a left MCA thrombus using
+     the Merci device.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+14407,,,,3244-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ********************************* CPT Codes ********************************
+     * 37184 PRIMARY MECH THROMBECTOMY ART/ 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75665 CAROTID/CEREBRAL UNILAT       *
+     * -59 DISTINCT PROCEDURAL SERVICE                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with L MCA stroke and L MCA clot on CTA.                      
+     REASON FOR THIS EXAMINATION:
+      use of MERCI device for clot removal                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute left MCA stroke.
+     
+     TECHNIQUE:  Under general anesthesia, the patient's right groin was prepped
+     and draped in the usual sterile fashion.  A 5 Fr arterial sheath was
+     introduced into the right common femoral artery and followed by a 4 Fr
+     Berenstein II guide catheter which was used for cerebral angiography.  Under
+     fluoroscopic guidance, the catheter was navigated to the left internal carotid
+     artery, where angiography was performed in the frontal and lateral planes.
+     Based on the diagnostic findings, it was decided to proceed with intervention.
+     Using an exchange length guidewire, the catheter and arterial sheath were
+     removed and replaced by a 9 Fr Merci clot removal device which was advanced to
+     the proximal left internal carotid artery.  A 14X microcatheter was navigated
+     to the left middle cerebral artery and the X6 Merci device was deployed within
+     the left middle cerebral artery, with attempt at clot removal. Three passes
+     were made in attempt to remove the left middle cerebral artery thrombus.
+     Following removal of the Merci device, the guide catheter was replaced by a 9
+     Fr arterial sheath, which was sutured in place in the right groin.  The
+     patient was transferred, intubated to the recovery room, at her neurologic
+     baseline. There were no apparent complications.
+     
+     TASKS:
+     
+     1. Catheterization of the right common femoral artery.
+     
+     2. Catheterization of the left internal carotid artery.
+     
+     3. Superselective catheterization of the left middle cerebral artery.
+     
+     4. Deployment of the Merci device in the left middle cerebral artery, with
+     attempted clot extraction.
+     
+     5. Control angiography via the left internal carotid artery.
+     
+     PRIMARY ATTENDING:[**Last Name (NamePattern1) 9140**]     
+     FINDINGS:
+     
+                                                                 (Over)
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Injection of the left internal carotid artery revealed an abrupt cut-off of
+     the contrast column in the mid M1 arterial segment on the left, consistent
+     with occlusion by an acute thrombus.  Runoff in the anterior cerebral artery
+     candelabra was unremarkable.  Multiple attempts at clot extraction via
+     deployment of the Merci device in the distal M1 arterial segment were
+     unsuccessful and control angiography revealed continued presence of occlusion
+     of the M1 segment.
+     
+     IMPRESSION:  Unsuccesful attempt at extraction of a left MCA thrombus using
+     the Merci device.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+14407,,,,3244-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ********************************* CPT Codes ********************************
+     * 37184 PRIMARY MECH THROMBECTOMY ART/ 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75665 CAROTID/CEREBRAL UNILAT       *
+     * -59 DISTINCT PROCEDURAL SERVICE                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with L MCA stroke and L MCA clot on CTA.                      
+     REASON FOR THIS EXAMINATION:
+      use of MERCI device for clot removal                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute left MCA stroke.
+     
+     TECHNIQUE:  Under general anesthesia, the patient's right groin was prepped
+     and draped in the usual sterile fashion.  A 5 Fr arterial sheath was
+     introduced into the right common femoral artery and followed by a 4 Fr
+     Berenstein II guide catheter which was used for cerebral angiography.  Under
+     fluoroscopic guidance, the catheter was navigated to the left internal carotid
+     artery, where angiography was performed in the frontal and lateral planes.
+     Based on the diagnostic findings, it was decided to proceed with intervention.
+     Using an exchange length guidewire, the catheter and arterial sheath were
+     removed and replaced by a 9 Fr Merci clot removal device which was advanced to
+     the proximal left internal carotid artery.  A 14X microcatheter was navigated
+     to the left middle cerebral artery and the X6 Merci device was deployed within
+     the left middle cerebral artery, with attempt at clot removal. Three passes
+     were made in attempt to remove the left middle cerebral artery thrombus.
+     Following removal of the Merci device, the guide catheter was replaced by a 9
+     Fr arterial sheath, which was sutured in place in the right groin.  The
+     patient was transferred, intubated to the recovery room, at her neurologic
+     baseline. There were no apparent complications.
+     
+     TASKS:
+     
+     1. Catheterization of the right common femoral artery.
+     
+     2. Catheterization of the left internal carotid artery.
+     
+     3. Superselective catheterization of the left middle cerebral artery.
+     
+     4. Deployment of the Merci device in the left middle cerebral artery, with
+     attempted clot extraction.
+     
+     5. Control angiography via the left internal carotid artery.
+     
+     PRIMARY ATTENDING:[**Last Name (NamePattern1) 9140**]     
+     FINDINGS:
+     
+                                                                 (Over)
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Injection of the left internal carotid artery revealed an abrupt cut-off of
+     the contrast column in the mid M1 arterial segment on the left, consistent
+     with occlusion by an acute thrombus.  Runoff in the anterior cerebral artery
+     candelabra was unremarkable.  Multiple attempts at clot extraction via
+     deployment of the Merci device in the distal M1 arterial segment were
+     unsuccessful and control angiography revealed continued presence of occlusion
+     of the M1 segment.
+     
+     IMPRESSION:  Unsuccesful attempt at extraction of a left MCA thrombus using
+     the Merci device.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+14407,,,,3244-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ********************************* CPT Codes ********************************
+     * 37184 PRIMARY MECH THROMBECTOMY ART/ 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75665 CAROTID/CEREBRAL UNILAT       *
+     * -59 DISTINCT PROCEDURAL SERVICE                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with L MCA stroke and L MCA clot on CTA.                      
+     REASON FOR THIS EXAMINATION:
+      use of MERCI device for clot removal                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute left MCA stroke.
+     
+     TECHNIQUE:  Under general anesthesia, the patient's right groin was prepped
+     and draped in the usual sterile fashion.  A 5 Fr arterial sheath was
+     introduced into the right common femoral artery and followed by a 4 Fr
+     Berenstein II guide catheter which was used for cerebral angiography.  Under
+     fluoroscopic guidance, the catheter was navigated to the left internal carotid
+     artery, where angiography was performed in the frontal and lateral planes.
+     Based on the diagnostic findings, it was decided to proceed with intervention.
+     Using an exchange length guidewire, the catheter and arterial sheath were
+     removed and replaced by a 9 Fr Merci clot removal device which was advanced to
+     the proximal left internal carotid artery.  A 14X microcatheter was navigated
+     to the left middle cerebral artery and the X6 Merci device was deployed within
+     the left middle cerebral artery, with attempt at clot removal. Three passes
+     were made in attempt to remove the left middle cerebral artery thrombus.
+     Following removal of the Merci device, the guide catheter was replaced by a 9
+     Fr arterial sheath, which was sutured in place in the right groin.  The
+     patient was transferred, intubated to the recovery room, at her neurologic
+     baseline. There were no apparent complications.
+     
+     TASKS:
+     
+     1. Catheterization of the right common femoral artery.
+     
+     2. Catheterization of the left internal carotid artery.
+     
+     3. Superselective catheterization of the left middle cerebral artery.
+     
+     4. Deployment of the Merci device in the left middle cerebral artery, with
+     attempted clot extraction.
+     
+     5. Control angiography via the left internal carotid artery.
+     
+     PRIMARY ATTENDING:[**Last Name (NamePattern1) 9140**]     
+     FINDINGS:
+     
+                                                                 (Over)
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Injection of the left internal carotid artery revealed an abrupt cut-off of
+     the contrast column in the mid M1 arterial segment on the left, consistent
+     with occlusion by an acute thrombus.  Runoff in the anterior cerebral artery
+     candelabra was unremarkable.  Multiple attempts at clot extraction via
+     deployment of the Merci device in the distal M1 arterial segment were
+     unsuccessful and control angiography revealed continued presence of occlusion
+     of the M1 segment.
+     
+     IMPRESSION:  Unsuccesful attempt at extraction of a left MCA thrombus using
+     the Merci device.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+14407,,,,3244-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ********************************* CPT Codes ********************************
+     * 37184 PRIMARY MECH THROMBECTOMY ART/ 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75665 CAROTID/CEREBRAL UNILAT       *
+     * -59 DISTINCT PROCEDURAL SERVICE                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with L MCA stroke and L MCA clot on CTA.                      
+     REASON FOR THIS EXAMINATION:
+      use of MERCI device for clot removal                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute left MCA stroke.
+     
+     TECHNIQUE:  Under general anesthesia, the patient's right groin was prepped
+     and draped in the usual sterile fashion.  A 5 Fr arterial sheath was
+     introduced into the right common femoral artery and followed by a 4 Fr
+     Berenstein II guide catheter which was used for cerebral angiography.  Under
+     fluoroscopic guidance, the catheter was navigated to the left internal carotid
+     artery, where angiography was performed in the frontal and lateral planes.
+     Based on the diagnostic findings, it was decided to proceed with intervention.
+     Using an exchange length guidewire, the catheter and arterial sheath were
+     removed and replaced by a 9 Fr Merci clot removal device which was advanced to
+     the proximal left internal carotid artery.  A 14X microcatheter was navigated
+     to the left middle cerebral artery and the X6 Merci device was deployed within
+     the left middle cerebral artery, with attempt at clot removal. Three passes
+     were made in attempt to remove the left middle cerebral artery thrombus.
+     Following removal of the Merci device, the guide catheter was replaced by a 9
+     Fr arterial sheath, which was sutured in place in the right groin.  The
+     patient was transferred, intubated to the recovery room, at her neurologic
+     baseline. There were no apparent complications.
+     
+     TASKS:
+     
+     1. Catheterization of the right common femoral artery.
+     
+     2. Catheterization of the left internal carotid artery.
+     
+     3. Superselective catheterization of the left middle cerebral artery.
+     
+     4. Deployment of the Merci device in the left middle cerebral artery, with
+     attempted clot extraction.
+     
+     5. Control angiography via the left internal carotid artery.
+     
+     PRIMARY ATTENDING:[**Last Name (NamePattern1) 9140**]     
+     FINDINGS:
+     
+                                                                 (Over)
+
+     DATE: [**3244-2-18**] 9:04 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9139**]
+     Reason: use of MERCI device for clot removal                        
+      Contrast: OPTIRAY Amt: 230
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Injection of the left internal carotid artery revealed an abrupt cut-off of
+     the contrast column in the mid M1 arterial segment on the left, consistent
+     with occlusion by an acute thrombus.  Runoff in the anterior cerebral artery
+     candelabra was unremarkable.  Multiple attempts at clot extraction via
+     deployment of the Merci device in the distal M1 arterial segment were
+     unsuccessful and control angiography revealed continued presence of occlusion
+     of the M1 segment.
+     
+     IMPRESSION:  Unsuccesful attempt at extraction of a left MCA thrombus using
+     the Merci device.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+14407,,,,3244-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-18**] 6:44 PM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 9137**]
+     Reason: Acute stroke protcol--on coumadin--right side weak          
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      Acute stroke protcol--on coumadin--right side weak                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 9138**] [**Doctor First Name 151**] [**3244-2-18**] 8:28 PM
+      noncontrast head ct: dense left mca sign, with evidence of sulcal effacement
+      in left mca territory
+      
+      cta: decreased filling in left mca, with decreased perfusion in left mca
+      territory
+      
+      findings c/w acute left mca stroke
+     WET READ AUDIT #1 [**First Name9 (NamePattern2) 9138**] [**Doctor First Name 151**] [**3244-2-18**] 8:21 PM
+      noncontrast head ct: dense left mca sign, with evidence of sulcal effacement
+      in left insular region
+      
+      cta: decreased filling in left mca, with decreased perfusion in left insular
+      region
+      
+      findings c/w acute stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old woman with right-sided weakness, on Coumadin, acute
+     stroke protocol, to evaluate the brain and circle of [**Location (un) **].
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE:  Non-contrast CT, MDCT angiography of the circle of [**Location (un) **] and CT
+     perfusion studies were performed with IV contrast.
+     
+     Preliminary report ""non-contrast head CT:  Dense left MCA sign, with evidence
+     of sulcal effacement in left MCA territory.  CTA:  Decreased filling in the
+     left MCA, with relatively decreased perfusion in the left MCA territory. 
+     Findings consistent with acute left MCA stroke.  K. [**Doctor Last Name 1345**]""
+     
+     FINDINGS:
+     
+     NON-CONTRAST CT OF THE HEAD:  Dense left MCA is noted, 47 Hounsfield units. 
+     There is sulcal effacement in the left temporal region.  No definite
+     hypodensity is noted in this area.  Ventricles and extra-axial ventricles are
+     unremarkable.  The posterior fossa structures are unremarkable.  The
+     visualized portions of the paranasal sinuses and the orbits are unremarkable. 
+     The patient is intubated.
+     
+     CT ANGIOGRAM OF THE CIRCLE OF [**Location (un) 4**]:
+     
+                                                                 (Over)
+
+     DATE: [**3244-2-18**] 6:44 PM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 9137**]
+     Reason: Acute stroke protcol--on coumadin--right side weak          
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT ANGIOGRAM OF THE HEAD AND NECK:  There is possible anomalous origin of left
+     common carotid artery from the innominate artery, more commonly known as the
+     bovine arch.  However, this is not completely evaluated on the present study. 
+     Atherosclerotic calcification is not involving the aortic arch, origins of the
+     left common carotid, left subclavian arteries.  Atherosclerotic calcification
+     is also noted at the right common carotid artery bifurcation as well as on the
+     left common carotid artery bifurcation.  However, no flow-limiting stenosis is
+     noted.  Bilateral intracranial carotid arteries, right ACA, MCA and left ACA
+     were patent and normal in caliber.  There is occlusion of the left MCA, distal
+     to the origin of the anterior temporal branch with nonvisualization of the
+     distal branches.  Bilateral vertebral arteries, basilar artery, left PCA were
+     patent.  The right vertebral artery is hypoplastic.  The right P1 segment of
+     the PCA is not visualized and is there is a fetal PCA on the right side.
+     
+     CT PERFUSION:  There is a large area of decreased blood flow and blood volume
+     with increased mean transit time in the left MCA territory, involving
+     predominantly the medial aspect of the left temporal lobe, consistent with
+     infarct core.  Lateral and posterior part of the left temporal lobe has
+     increased mean transit time with increased blood volume, corresponding to
+     ischemia, but not necessarily infarction.
+     
+     IMPRESSION:
+     1.  Left MCA embolic occlusion, distal to the origin of the anterior temporal
+     branch, with large infarct core, predominantly involving the medial temporal
+     lobe and an ischemic area involving the lateral and posterior portions of the
+     left temporal lobe.
+     2.  Atherosclerotic disease involving bilateral common carotid arteries, with
+     no flow-limiting stenosis.
+
+",,
+14407,,,,3244-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-18**] 6:44 PM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 9137**]
+     Reason: Acute stroke protcol--on coumadin--right side weak          
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      Acute stroke protcol--on coumadin--right side weak                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 9138**] [**Doctor First Name 151**] [**3244-2-18**] 8:28 PM
+      noncontrast head ct: dense left mca sign, with evidence of sulcal effacement
+      in left mca territory
+      
+      cta: decreased filling in left mca, with decreased perfusion in left mca
+      territory
+      
+      findings c/w acute left mca stroke
+     WET READ AUDIT #1 [**First Name9 (NamePattern2) 9138**] [**Doctor First Name 151**] [**3244-2-18**] 8:21 PM
+      noncontrast head ct: dense left mca sign, with evidence of sulcal effacement
+      in left insular region
+      
+      cta: decreased filling in left mca, with decreased perfusion in left insular
+      region
+      
+      findings c/w acute stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old woman with right-sided weakness, on Coumadin, acute
+     stroke protocol, to evaluate the brain and circle of [**Location (un) **].
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE:  Non-contrast CT, MDCT angiography of the circle of [**Location (un) **] and CT
+     perfusion studies were performed with IV contrast.
+     
+     Preliminary report ""non-contrast head CT:  Dense left MCA sign, with evidence
+     of sulcal effacement in left MCA territory.  CTA:  Decreased filling in the
+     left MCA, with relatively decreased perfusion in the left MCA territory. 
+     Findings consistent with acute left MCA stroke.  K. [**Doctor Last Name 1345**]""
+     
+     FINDINGS:
+     
+     NON-CONTRAST CT OF THE HEAD:  Dense left MCA is noted, 47 Hounsfield units. 
+     There is sulcal effacement in the left temporal region.  No definite
+     hypodensity is noted in this area.  Ventricles and extra-axial ventricles are
+     unremarkable.  The posterior fossa structures are unremarkable.  The
+     visualized portions of the paranasal sinuses and the orbits are unremarkable. 
+     The patient is intubated.
+     
+     CT ANGIOGRAM OF THE CIRCLE OF [**Location (un) 4**]:
+     
+                                                                 (Over)
+
+     DATE: [**3244-2-18**] 6:44 PM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 9137**]
+     Reason: Acute stroke protcol--on coumadin--right side weak          
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT ANGIOGRAM OF THE HEAD AND NECK:  There is possible anomalous origin of left
+     common carotid artery from the innominate artery, more commonly known as the
+     bovine arch.  However, this is not completely evaluated on the present study. 
+     Atherosclerotic calcification is not involving the aortic arch, origins of the
+     left common carotid, left subclavian arteries.  Atherosclerotic calcification
+     is also noted at the right common carotid artery bifurcation as well as on the
+     left common carotid artery bifurcation.  However, no flow-limiting stenosis is
+     noted.  Bilateral intracranial carotid arteries, right ACA, MCA and left ACA
+     were patent and normal in caliber.  There is occlusion of the left MCA, distal
+     to the origin of the anterior temporal branch with nonvisualization of the
+     distal branches.  Bilateral vertebral arteries, basilar artery, left PCA were
+     patent.  The right vertebral artery is hypoplastic.  The right P1 segment of
+     the PCA is not visualized and is there is a fetal PCA on the right side.
+     
+     CT PERFUSION:  There is a large area of decreased blood flow and blood volume
+     with increased mean transit time in the left MCA territory, involving
+     predominantly the medial aspect of the left temporal lobe, consistent with
+     infarct core.  Lateral and posterior part of the left temporal lobe has
+     increased mean transit time with increased blood volume, corresponding to
+     ischemia, but not necessarily infarction.
+     
+     IMPRESSION:
+     1.  Left MCA embolic occlusion, distal to the origin of the anterior temporal
+     branch, with large infarct core, predominantly involving the medial temporal
+     lobe and an ischemic area involving the lateral and posterior portions of the
+     left temporal lobe.
+     2.  Atherosclerotic disease involving bilateral common carotid arteries, with
+     no flow-limiting stenosis.
+
+",,
+14407,10007,,,3244-02-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3244-2-19**]              Discharge Date:   [**3244-2-21**]
+ 
+Date of Birth:  [**3159-10-29**]             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2683**] 
+Chief Complaint:
+Code stroke
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+84 year old woman with history of atrial fibrillation,
+hypertension, hyperchol who complained of a headache at 5 p.m. 
+Then at 5:45 p.m. she was sitting in a chair when her husband 
+saw
+that she suddenly stopped speaking, and could not move her right
+side.  She was brought immediately to the ED for further
+evaluation.
+   She has no prior history of stroke.  She was diagnosed with
+atrial fibrillation last December and placed on Coumadin.  Two
+days ago she underwent electrical cardioversion for treatment of
+the atrial fibrillation.
+   She was hospitalized recently for a gastroenteritis but has
+not been ill within the past couple of days. No recent falls or
+trauma.
+
+Review of systems: No fever, other details unknown but her
+children say she has not been sick over the past few days.
+
+ 
+Past Medical History:
+Past Medical History:
+Atrial fibrillation
+Syncopal episodes in the past
+Hyperthyroidism
+Hypertension
+Hypercholesterolemia
+GERD
+
+ 
+Social History:
+Social History: Lives with her 87 year old husband.  Son and
+daughter are closely involved.
+ 
+Family History:
+Family History: Not contributory
+
+ 
+Brief Hospital Course:
+The patient was admitted to the ICU and expired.
+ 
+Medications on Admission:
+Lipitor 10 mg daily
+Protonix 20 mg daily
+Inderal 10 mg TID
+Tapaxole 10 mg BID
+Lotrel 2.5/10
+Coumadin 2 mg daily
+
+ 
+Discharge Medications:
+Expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Expired
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+Expired
+ 
+Followup Instructions:
+Expired
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) **] MD, [**MD Number 2685**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2886**] MD [**MD Number 2887**] [**3244-4-12**] @ 1447
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: WED [**3244-4-27**] 12:38 PM
+(End of Report)
+
+
+",,
+14407,10007,,,3244-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-19**] 1:54 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9142**]
+     Reason: Please evaluate for bleed s/p MERCI clot retrieval          
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     The hyperdensity in the left basal ganglia can also be explained by persistent
+     contrast enhancement from the prior cerebral angiogram, as this finding can
+     occur in ischemia.
+
+
+     DATE: [**3244-2-19**] 1:54 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9142**]
+     Reason: Please evaluate for bleed s/p MERCI clot retrieval          
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with left MCA stroke s/p MERCI clot retrieval.                
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for bleed s/p MERCI clot retrieval                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old woman with left MCA stroke.  Status post MERCI clot
+     retrieval.  Please evaluate for intracranial hemorrhage.
+     
+     FINDINGS:  There are intraparenchymal hemorrhages within the left caudate head
+     and within the left basal ganglia.  The basal ganglia hemorrhage measures
+     approximately 1.5 cm.  There has been continued evolution of the large left
+     MCA territory infarct.  There is mass effect upon the ipsilateral lateral
+     ventricle without evidence of subfalcine herniation.
+     
+     As noted previously, there is an old left PCA territory infarct.
+     
+     Dr. [**First Name8 (NamePattern2) 9143**] [**Name (STitle) 5443**] was contacted with these findings at the time of dictation.
+     
+     IMPRESSION:  New left basal ganglia hemorrhage with mild mass effect.
+     Continued evolution of the large left MCA territory infarct.
+
+",,
+14407,10007,,,3244-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-19**] 9:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9141**]
+     Reason: stroke, now fever                                           
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with stroke                                                   
+     REASON FOR THIS EXAMINATION:
+      stroke, now fever                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 9:14 A.M., [**2-19**]
+     
+     HISTORY:  Stroke and fever.
+     
+     IMPRESSION:  AP chest compared to [**2-18**]:
+     
+     Small region of consolidation at the periphery of the right upper lung could
+     be pneumonia.  Remainder of the lungs show no evidence of infection or
+     aspiration, though there is pulmonary vascular congestion.  Mild-to-moderate
+     cardiomegaly stable.  No pleural effusion or pneumothorax.  ET tube in
+     standard placement.  Nasogastric tube is looped in the stomach.  Calcified
+     lymph node or thyroid nodule projects to the right of the trachea above the
+     level of the clavicles.
+                                                                           
+
+",,
+14407,10007,17907,0,3244-02-19 03:33:00 EST,3244-02-19 03:35:00 EST,660,"N",74,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt received from IR after intub with OETT, sedated and placed on mech vent as per Carevue. Lung sounds coarse improve with suct sm th off white sput. ABGs stable; able wean FIO2. Cont mech vent support.
+",,
+14407,10007,17907,0,3244-02-19 05:51:00 EST,3244-02-19 06:08:00 EST,7632,"N",74,"Nursing/Other","TSICU Nursing Admission Note","
+TSICU Nursing Admission Note
+84 yr female at home with family with sudden onset aphasia and right sided weakness.  EMS called, pt unresponsive upon arrival.  Intubated en route.  Arrived in [**Hospital1 10**] ER scanned found to have L MCA total occlusion.  Taken to INR for attempted removal of clot.  UNable to retrive clot x3 tries.  To TSICU for further evalutaion and treatment.
+Pt with hx of a-fib and was cardioverted ~2days PTA.  ON coumadin, with INR 3.1
+
+Neuro - Pt is intubated and sedated on propofol.  When lightened for Q1H neuro exams pt will ooccasionally open eyes to voice, otherwise to pain.  Right upper extremity with no movement upon admission, now with minimal movement ? posturing of this extremitiy.  Right LE with slight withdrawal to pain.  LUE withdraws and occasionally localizes.  LLE withdraws.  L>R throughout.  Impaired gag, intact cough.  PERRLA 3mm briskly reactive.  Pt does not appear to be in discomfort, no pain medication given.
+
+CV - HR 43-70 mostly with 2 short bursts into 120-130 range.  Pt with hx of a-fib.  Currently with very frequent multifocal PVC's with periods of trigeminy and quadgeminy.  Currently with L radial a-line and R femoral sheath which is transduced as second a-line.  This sheath is to be removed sometime today.  Both lines corrolating.  ABP 120-180 systolic.  Goal 110-160.  + peripheral pulses.  Extremities cool.  Magnesium repleated 2gm for 1.7.  Potassium 20 meq given prior to arrival while in INR, currently at 4.0
+
+Resp - remains intubated and on CMV.  Lungs clear throughout, diminished at bases.  Suctioned for small amount brown secretions.  ABG drawn WNL, and Fio2 dropped to 40%.  Will occasionally breath over vent.  Sats remain 100% on current settings.
+
+GI - Abdomen soft, nt/nd.  + bowel sounds throughout.  NGT to intermittent suction with scant amounts brown secretions.  Pt is currently NPO except meds. no BM.
+
+GU - Foley draining clear yellow urine in adequate amounts.
+
+Endo - Blood sugar 157 covered with 2 units regular insulin.
+
+Id - Tmax 101.  NOt currently on antibiotics.  MRSA admission swabs sent.
+
+Psych/social - No family contact since admission to ICU.  However family was present at event and spoke with EMS.  Family was also present in ED and were spoken to after completion of neuro procedure.
+
+A - s/p L MCA total occlusion with resulting R hemiparesis and aphasia.  
+
+Plan - Continue to monitor per routine.  Continue to monitor and treat for pain PRN.  Q1H neuro checks.  Maintain SBP 110-160.  Needs MRI/MRA and also repeat head CT.  Femoral sheath removal.  Closely monitor cardiac status.  Wean vent as tolerated.  Continue to update pt and family of current plan of care.
+",,
+14407,10007,17907,0,3244-02-19 15:57:00 EST,3244-02-19 15:58:00 EST,471,"N",74,"Nursing/Other",,"
+
+REsp. care note - Pt. remaines intubated and vented, weaned to PSV, transffered to CT and back to TSICU without incident.
+",,
+14407,10007,17907,0,3244-02-19 18:43:00 EST,3244-02-19 18:56:00 EST,8523,"N",74,"Nursing/Other","Nursing (0700-1900)","
+Nursing (0700-1900)
+See flowsheet for details.
+
+Neuro exam done hourly off propofol.  Pt. occasionally opens eyes to noxious stimuli, though not in past few hours, usually when turned in bed.  Pt. withdrawing to painful stimuli with bilateral left extremeties and right lower.  Right wrist inward flexion noted when nailbed pressure applied to right fingers.  Spontaneous left arm movement noted this afternoon, though ?purposeful vs. nonpurposeful.  Head CT done this afteroon.  Neuromed in and updated.  Pt's son updated by fellow this morning and then son and daughter updated via phone this evening by this ICU team.  Pt. made DNR following dicussion. 
+
+VS as documented.  Right femoral artery sheath remains in, transduced, site unremarkable with good distal perfusion.  Skin warm, dry, intact. BP remains in acceptable range.  Tylenol for fever per neuromed.
+
+Tolerating now 5peep and 5PSV.  Minimal secretions, though RUL PNA noted by CXR this afternoon.  Plan to start levoflox.
+
+UO adeq.  UA sent for septic, embolic w/u (along with BC's).
+
+Abd. benign.  Meds via NGT.
+
+Son in, upset when updated.  Emotional support offered.
+
+PLAN:
+Repeat Head CT in a.m. per neuromedicine.
+Re-evalaute neurological status.
+Family meeting tomorrow for possible withdrawal of care if neurological prognosis remains poor.
+Keep SBP 110-160.
+Monitor sheath site for signs of hematoma, monitor distal ciculation.
+Extubate in a.m. if pulmonary assessment remains stable.
+",,
+14407,10007,17907,,3244-02-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3244-2-20**] 12:37 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9144**]
+     Reason: hemorrhage? interval change?                                
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with left mca stroke                                          
+     REASON FOR THIS EXAMINATION:
+      hemorrhage? interval change?                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MMBn SAT [**3244-2-20**] 7:49 PM
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old female status post left MCA stroke.  Evaluate for
+     interval change.
+     
+     COMPARISON:  Non-contrast head CT dated [**3244-2-19**].
+     
+     TECHNIQUE:  Routine non-contrast head CT.
+     
+     FINDINGS:  High-density material within the left caudate head and left basal
+     ganglia appears slightly decreased in density and may represent
+     petecheal hemorhage.  Edema within the left frontoparietal region is
+     consistent with evolving left MCA territory infarction.  Mass effect on the
+     anterior [**Doctor Last Name 67**] of the left lateral ventricle, body of the lateral ventricle,
+     and third ventricle is slightly increased from one-day earlier.  At the level
+     of the septum pellucidum, there is a minimal increase in left to right
+     subfalcine herniation.  There is no evidence to suggest uncal herniation.  No
+     new intra- or extra-axial hemorrhage is identified.  The appearance of the
+     brain and adjacent soft tissues is otherwise unchanged.
+     
+     IMPRESSION:  Evolution of left MCA territory infarction with minimally
+     increased mass effect and left to right shift of normally midline structures
+     as described above.  Increased density in the left caudate head and basal
+     ganglia may suggest petecheal hemorrhage within infarct.  
+     Findings discussed with Dr. [**Last Name (STitle) 7250**] at 1:38 pm on [**3244-2-20**].
+     
+     
+     
+
+",,
+14407,10007,17907,0,3244-02-20 04:22:00 EST,3244-02-20 04:24:00 EST,660,"N",74,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub and on mech vent as per Carevue. Lung sounds sl coarse suct sm loose white sput. ABGs resp alkalosis with good oxygenation; no vent changes required since pt on minimal PSV settings. Cont PSV.
+",,
+14407,10007,17907,0,3244-02-20 06:22:00 EST,3244-02-20 06:35:00 EST,8748,"N",74,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+No Sig Events....
+
+Neuro: Exam done when pt off propofol. Pt will occasionally open eyes to pain (nailbed pressure). Generally does not follow verbal commands, ? following commands during one assessment (squeezed hand). PERRLA, 3-4 mm, brisk. L corneal impaired, R corneal intact. Pt MAE to nailbed pressure, withdrawal. Inward flexion in RUE to nailbed pressure. No s/s pain. 
+
+CV: NSR-SB. Frequent PVC's. Pt had one self limiting run of SVT, HO Frost aware. HR 50-70's. SBP 110-150's, maintaining <160. +PP. Lytes repleted as ordered. 
+
+Resp: Cpap [**3177-5-22**]. Sats 95-100%. RR mid 20's. LSCTAB. Sx several times producing scant amts thick white sputum. Plan for SBT this am. 
+
+GI: Abd soft, nt, nd. Hypoactive BS. NTG to LCS, draining sm amts bilious fluid. 
+
+GU: Foley draining adequate amts CYU. 
+
+Endo: FSBS per SS. coverage adequate. 
+
+ID: Tmax 100.4. Pt began levoflox last evening.
+
+Skin: No apparent issues.
+
+Social: No contact from fam this shift. 
+
+Plan: Repeat head CT this am. SBT this am before head CT. Replete lytes as ordered. Plan for family meeting at 0900, ?extubation/CMO. Cont to support pt and family. 
+",,
+14407,10007,17907,1,3244-02-20 06:22:00 EST,3244-02-20 06:36:00 EST,8748,"Y",74,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Neuro checks changed to q2hrs.
+",,
+14407,10007,17907,0,3244-02-20 17:53:00 EST,3244-02-20 18:16:00 EST,8523,"N",74,"Nursing/Other","Nursing (0700-1900)","
+Nursing (0700-1900)
+See flowsheet for details.
+
+Neuro exam done off propofol Q2hrs.  No changes in assessment throughout the day - pt. continues to withdraw to nailbed pressure in all extremeties, but does rotate right wrist inward as she withdraws.  Pt. has not opened eyes or followed commands today.  Right pupil larger than left, from very slightly to 1mm.  Head CT repeated without change.  Mannitol added to regimen for cerebral edema.
+
+After a family meeting with Dr. [**Last Name (STitle) 240**] this morning, the decision was made to extubate pt. after head CT.  The plan is to continue current treatment (though pt. DNR/I) unless pt. began to struggle with her breathing, or appear to have pain.  At which time a morphine gtt would be started and pt. would be CMO.  This would be at nursing and family's discretion.
+
+Pt. extubated at 1615 without incident.  She has since been hyperdynamic, treated with labetolol and hydralazine.  When no effects noted by SBP in 180's, HR 100, along with ongoing tachypnea in mid 30's with accessory use, 2mg morphine/hr started at this writer's and pt's son's discression.  Vital signs and respiratory assessment have since stabilized (after approximately 45mins.)  No signs of discomfort noted.  Nueromed. resident updated with these findings.
+
+Pt. on 70% face tent.  Prior to morphine gtt, she required frequent subglottal suctioning for copious secretions.  Presently resp's easy, LS less rhonchorous, but remain coarse.
+
+Abd. soft.  NGT left in for any PO meds, as pt. continues to be treated medically.
+
+UO as doc, brisk output following mannitol.
+
+Family in this a.m.  Priest in for SOS at noontime.  Son returned this afternoon and left at 1800.
+
+PLAN:
+Continue to communicate with family regarding pt's assessment, especially comfort.
+To be discussed with Dr. [**First Name (STitle) 1707**].
+Pt. is DNR/DNI.
+",,
+14407,,17907,0,3244-02-21 03:37:00 EST,3244-02-21 03:49:00 EST,495,"N",74,"Nursing/Other","Tsicu npn","
+Tsicu npn
+O: ROS
+
+Neuro: No change in NVS, Pupils 3mm bilat and reactive, L corneal absent, R corneal impaired.  - gag, impaired cough. No movement of RUE, withdraws to pain in LUE and BLE, L>R. Pt opens eyes spontaneously but does not focus, track or follow any commands. Cont on mannitol. Cont on ms04 gtt for comfort at 2mg/hr w/ no need for increase. 
+
+CV: HR 70-80's nsr with frequent unifocal pvc's, no runs. BP 100-120's/50-70. HTN with turning, quick recovery. Pedal pulses palpable. 
+
+Resp: Remains on 70% face tent. SRR 10-22 w/ regular pattern but w/ prolonged exp phase. Ls w/ coarse upper airways and diminished at bases. Maintaining stable abg and 02sats. 
+
+Renal: Adequate u/o. Body balance even overnoc. Lytes wnl. 
+
+GI: NPO w/ clamped ngt. Abd soft/distended w/ +bs, +flatus.
+
+Heme: Stable hct. INR down to 2.2 (3.6)
+
+ID: Stable, afebrile.
+
+Skin: Intact. 
+
+SH: No family contact overnoc. Will readdress plan of care in am. 
+
+A: No improvement in NVS. Maintaining stable 02sat and abg overnoc but SRR beginning to slow w/ prolonged exp phase.
+
+P: Pt remains DNR. Cont to monitor and support w/ noninvasive Tx. Maintain comfort and readdress plan of care in am. 
+",,

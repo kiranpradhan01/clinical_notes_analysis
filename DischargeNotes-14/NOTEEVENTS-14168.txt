@@ -1,0 +1,604 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14168,20430,,,3475-09-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3475-9-9**]              Discharge Date:   [**3475-9-21**]
+ 
+Date of Birth:  [**3387-4-2**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2460**] 
+Chief Complaint:
+Malaise, weakness, anorexia. 
+ 
+Major Surgical or Invasive Procedure:
+Placement of hemodialysis line.
+Placement of central line.
+ 
+History of Present Illness:
+88 yo F w/PMHx sx for HTN, hypercholesterolemia, CAD, CHF EF 
+15-20% with reversible defect on MIBI, and CRI who p/w lower 
+extremity swelling over the past few weeks. She describes 
+feeling listless and tired, unable to tolerate her normal 
+activities since the end of July. She also reports anorexia, 
+decreased PO intake, and mild post-prandial abdominal 
+pain/nausea. She denies fevers, chills, chest pain, shortness of 
+breath, cough, vomiting, dirrhea.  She says her normal weight is 
+125 pounds and she currently weighs 130 pounds. Patient had 
+difficulty giving history.
+.
+The patient's last hospitalization was for a CHF exacerbation. 
+Her echo at that time showed a  and she was discharged to rehab 
+in mid-[**Female First Name (un) 771**].  A note from her health care proxy reports that she 
+was seen by her cardiologist on [**7-8**] and found to have a 
+digoxin level of 7, which was treated in the ER of an OSH with 
+digoxin immune fab, and the digoxin was discontinued. On [**7-22**], she was discharged from rehab on Lasix 80mg am/60mg pm.  
+Since that time, she has had increasing leg edema, 
+uncontrollable with significant increases in the Lasix. She has 
+also been feeling very fatigued and having difficulty walking 
+secondary to thigh pain. 
+.
+Ms. [**Known patient lastname 923**] presented to vascular clinic on the day prior to 
+admission. In the clinic, her vascular grafts were patent. She 
+was admitted to the vascular surgery service, who found her to 
+have new renal failure with Cr 5.3 (from 2.3 earlier, baseline 
+0.9). In addition, she had hyperkalemia (K of 5.9), and CHF with 
+volume overload. Renal and cardiology were consulted. Pt was 
+oliguric despite large doses of lasix. She was transferred to 
+medicine.
+ 
+Past Medical History:
+Hypertension
+Hypercholesterolemia
+CAD s/p MI, CABG [**3466**]
+Bilateral total hip arthroplasty
+CHF with EF 15-20%,reversible defect on MIBI
+S/P Pacer
+Arthritis
+Crohn's disease
+Chronic renal insufficiency
+Single left kidney
+.
+PSH: Right axillary-bifemoral bypass and left profunda plasty 
+2006, Right deep femoral artery to anterior tibial artery bypass 
+with nonreversed and reversed composite greaterand lesser 
+saphenous vein 2003, Revision of right femoral to anterior 
+tibial artery bypass graft with vein patch angioplasty using 
+right greater saphenous vein 2003, and angioscopy, b/l THA, CABG
+ 
+Social History:
+Social Hx: Lives in assisted living facility, Brooksby House, in 
+[**Location (un) 6629**], MA. She does not have any children, but has a cousin 
+([**Name (NI) 446**]) who is very involved in her care, as well as a few 
+nephews. Denies TOB, etoh.
+ 
+Family History:
+N/C
+ 
+Physical Exam:
+VS-94.8 130/60 60 16 98%/RA
+Gen-elderly woman lying in bed in NAD
+HEENT-MM dry, OP clear without lesion or exudate
+Neck-supple, JVD (JVP at mid-ear), bilateral carotid bruits
+Pulm-fine bibasilar rales
+CV-RRR, no m/r/g
+Abd-+BS, soft, non-tender, non-distended, no HSM
+Ext-warm, DP/PT/popliteal pulses not palpable, non-pitting edema
+Neuro-AOx3
+.
+ 
+Pertinent Results:
+[**3475-9-9**] 07:39PM BLOOD WBC-5.3 RBC-4.15* Hgb-11.4* Hct-35.6* 
+MCV-86# MCH-27.3# MCHC-31.9 RDW-17.0* Plt Ct-101*
+[**3475-9-14**] 05:05AM BLOOD WBC-4.9 RBC-3.57* Hgb-10.1* Hct-30.2* 
+MCV-85 MCH-28.2 MCHC-33.3 RDW-17.2* Plt Ct-80*
+[**3475-9-21**] 06:30AM BLOOD WBC-4.0 RBC-3.14* Hgb-9.0* Hct-28.0* 
+MCV-89 MCH-28.7 MCHC-32.3 RDW-17.6* Plt Ct-107*
+[**3475-9-21**] 07:25PM BLOOD WBC-4.5 RBC-1.91*# Hgb-5.5*# Hct-17.1*# 
+MCV-89 MCH-28.9 MCHC-32.3 RDW-17.3* Plt Ct-85*
+[**3475-9-14**] 03:05PM BLOOD Neuts-70.7* Lymphs-20.8 Monos-7.1 Eos-1.4 
+Baso-0.1
+[**3475-9-9**] 07:39PM BLOOD PT-17.1* PTT-37.4* INR(PT)-1.6*
+[**3475-9-9**] 07:39PM BLOOD Plt Ct-101*
+[**3475-9-21**] 07:25PM BLOOD PT-19.8* PTT-41.2* INR(PT)-1.9*
+[**3475-9-21**] 07:25PM BLOOD Plt Smr-LOW Plt Ct-85*
+[**3475-9-14**] 03:05PM BLOOD Ret Aut-1.5
+[**3475-9-9**] 07:39PM BLOOD Glucose-131* UreaN-125* Creat-5.3*# 
+Na-133 K-5.9* Cl-97 HCO3-14* AnGap-28*
+[**3475-9-21**] 07:25PM BLOOD Glucose-127* UreaN-48* Creat-3.3* Na-142 
+K-5.1 Cl-110* HCO3-23 AnGap-14
+[**3475-9-9**] 07:39PM BLOOD Calcium-8.5 Phos-12.0*# Mg-3.0*
+[**3475-9-21**] 07:25PM BLOOD Calcium-6.9* Phos-3.1 Mg-1.7
+[**3475-9-13**] 01:33AM BLOOD calTIBC-302 Ferritn-27 TRF-232
+[**3475-9-14**] 12:35PM BLOOD Hapto-155
+[**3475-9-13**] 01:33AM BLOOD TSH-8.6*
+[**3475-9-14**] 05:05AM BLOOD T3-58* Free T4-0.8*
+[**3475-9-16**] 02:50PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE
+[**3475-9-10**] 12:00AM BLOOD Digoxin-<0.2*
+[**3475-9-16**] 02:50PM BLOOD HCV Ab-NEGATIVE
+[**3475-9-21**] 07:38PM BLOOD Lactate-4.6*
+[**3475-9-14**] 02:38PM BLOOD HEPARIN DEPENDENT ANTIBODIES-HEPDEP
+. 
+CHEST (PA & LAT)  [**3475-9-9**] 6:48 PM
+PA AND LATERAL CHEST RADIOGRAPH: Compared to prior radiograph 
+from [**3475-6-13**], previously seen increased interstitial edema 
+and upper zone redistribution and pulmonary blood flow appears 
+slightly improved. The heart size remains mildly enlarged but 
+stable. The left pleural effusion seen on prior radiograph 
+appears smaller in size with minimal blunting of the left 
+costophrenic sulci. The right CP angle is sharp. No 
+consolidations are present and there has been resolution of the 
+left retrocardiac opacity which was seen on prior radiograph 
+from [**3475-6-13**]. Left-sided pacemaker with leads terminating 
+in the right atrium and right ventricle are in stable position.
+IMPRESSION: Improved appearance of interstitial edema, 
+resolution of left pleural effusion and left retrocardiac 
+opacity.
+.
+RENAL U.S.  [**3475-9-10**] 3:08 PM
+The right kidney is absent. The left kidney measures 10.8 cm. 
+The left kidney is normal in appearance, with preserved cortical 
+thickness, no evidence of mass, stone, or hydronephrosis.
+IMPRESSION: Normal left kidney without evidence of 
+hydronephrosis. Absent right kidney.
+.
+CHEST PORT. LINE PLACEMENT  [**3475-9-16**] 12:35 PM
+FINDINGS: AP single view of the chest has been obtained with the 
+patient in sitting semi-upright position and analysis is 
+performed in direct comparison with a similar preceding study of 
+[**3475-9-14**]. Previously described right internal jugular 
+approach central venous line has apparently been changed for a 
+different catheter. The latter is now terminating overlying the 
+SVC at the level of the carina and no pneumothorax has 
+developed. Chest finding study includes status post sternotomy, 
+permanent pacer with dual electrode system and patient slightly 
+rotated to the right, all findings are unchanged.
+IMPRESSION: Uncomplicated central venous line exchange over 
+wire.
+.
+EKG [**9-21**]
+Ventricularly paced rhythm, rat 60 with probable underlying 
+atrial 
+fibrillation. Compared to the previous tracing of [**3475-9-20**] no 
+change.  
+  
+
+ 
+Brief Hospital Course:
+Ms. [**Name13 (STitle) **] is an 88 year old lady with history of CAD s/p MI and 
+CABG, CHF, and CRI who p/w acute on chronic renal failure and 
+decompensated CHF. Her hospital course is summarized below by 
+problem. Patient died on [**3475-9-21**] from massive upper GI bleed 
+upon transfer to the MICU. 
+.
+# Upper GI Bleed. Patient did not have a history of GI bleeding, 
+she did have a h/o Crohn's disease on mesalamine during this 
+admission. She was having normal light colored regular bowel 
+movements. On [**3475-9-21**] however, the patient had a marked change 
+in bowel movements, notable black and tarry, guaiac positive. 
+She had 3 BM over the course of the day. She was initially 
+hemodynamically stable although V-paced at 60 bpm, SBP ranging 
+90s-low 100s (baseline). She was OOBTC and feeling her usual 
+self. She was not on any GI ppx given that her plts were low. 
+She was temporarily on sucralfate which was also d/ced due to 
+interactions with dialysis. Given that she was eating three 
+meals per day and was OOBTC, GI ppx was not necessarily 
+warranted. A stat Hct was ordered, 2 units type and 
+crossmatched, IV PPI given. NG lavage was performed which 
+reveals coffee grounds ~300cc. She then began to have frank red 
+blood per rectum. D[**MD Number 278**] this time her BP dropped to 70s/30s, 
+still mentating well without complaints. She was placed in 
+Trendelenburg position, MICU evaluation was underway and a bed 
+was obtained in the ICU. Upon transfer to the ICU, IVF were 
+running through a rapid infusion, blood products running through 
+her HD line. She continued to have frank blood per rectum. GI 
+was aware and ready to intervene however she was hemodynamically 
+unstable with dropping blood pressure. She was placed on a NBR 
+for dropping saturations. DNR/DNI status was confirmed earlier 
+in the day. The patient passed away approximately 1 hour after 
+arrival in the intensive care unit. 
+.
+# Caridac.  
+--PUMP. Patient with known severe systolic/diastolic heart 
+failure, EF <20% patient presented grossly fluid overloaded, 
+worsening renal function. Initial attempts were make at tailored 
+therapy with IV lasix then gtt, Dobutamine and Nesiritide 
+infusion. She did not make urine however and the decision was 
+made after lengthy conversation with the patient to put a 
+temporary HD line and to initiate dialysis. On HD, the patient 
+made rapid improvement with progressively less edema, 
+improvement in shortness of breath, malaise and fatigue. She was 
+restarted on Carvedilol and ACEI while on HD. She continued to 
+make improvement and plans were initiated for rehab screening.  
+.  
+--Ischemia. s/p CABG, severe ischemic CMP. No CP throughout this 
+admission. Continued low dose ASA, beta blocker, Statin. 
+. 
+--Rhythm. V-paced. Questionable background of A.fib, no clear 
+p-waves on tele. EKG [**9-21**] probably a.fib. Patient was monitored 
+on telemetry throughout. She was not started on anticoagulation 
+for A.fib.   
+.  
+# Acute on chronic renal failure. Started HD, initially 
+temporary RIJ line placed, then tunnelled line. Discussions were 
+ongoing regarding AV fistula placement. her Cr improved from a 
+5.9 to 3.3 with HD. She was treated with sevelamer for phosphate 
+lowering and calcium supplements. Sucralfate was discontinued 
+per renal recommendations.
+.
+# Thrombocytopenia. On admission plts 100 (down from 160-170 in 
+[**6-8**]).  
+Heparin was then discontinued once it was noted that her 
+platelets were low. She received one dose of Bactrim on [**9-12**] for 
+UTI, but that was discontinued, likely due to her low platelets 
+as well. Her Asacol was discontinued on admission and she was 
+changed to mesalamine. Other ddx aside from meds includes 
+splenic sequestration/splenomegaly.  Patient's plts improved to 
+~100 with holding all plts products, PPI discontinued. HIT Ab 
+came back negative. 
+.  
+# UTI. Pansensitive Klebsiella. s/p 7 days of cipro, restarted 
+[**9-21**] due to +U/a again with epi/yeast cipro was restarted on 
+[**9-21**]. Urine Cx resent. Patient remained asymptomatic.   
+.  
+.
+#. Hyperkalemia. On admission was 5.9-->5.3 overnight. Etiology 
+likely acute renal failure.  No EKG changes visible with pacing. 
+Kayexalate 60 gm prn to reduce levels
+Potassium then remained stable. 
+.
+#. Vascular bypass grafts. Surveillance has been done, and shows 
+grafts are patent
+Plan was for outpatient vascular surgery follow up.
+.
+# Glaucoma. Continued betaxolol eye drops.
+.
+# Depression. D/ced Escitalopram [**2-4**] decreased GFR.
+.
+# Crohn's. Continued mesalamine DR 1200 PO BID. No evidence of 
+GI bleeding until [**3475-9-21**]. 
+.
+# Osteoporosis. Calcium supplements. 
+.
+#. PPx. Senna/colace. OOBTC, po diet with improved appetite s/p 
+HD. No heparin products given after plts found to be dropping. 
+PPI d/ced, Sucralfate d/ced. 
+. 
+# FEN. Cardiac, renal diet, 1.5 L fluid restriction, lytes 
+repleted as necessary.
+
+#. Code status: DNR/DNI confirmed multiple times with patient. 
+.
+#. Communication. HCP [**First Name8 (NamePattern2) 446**] [**Last Name (NamePattern1) 10234**] [**Telephone/Fax (1) 10235**]
+
+ 
+Medications on Admission:
+MEDS: (at home)  
+Aspirin  
+Furosemide 80 am 60 qpm  
+Carvedilol 12.5 mg bid  
+Captopril 12.5 mg qd  
+Asacol 400 mg bid  
+Escitalopram 10 mg qd  
+Betaxolol BID  
+Spironolactone 12.5 mg qhs  
+Simvastatin 10 mg qhs  
+Carafate with meals  
+.  
+Medications upon Transfer: 
+Aluminum Hydroxide Suspension 60 ml PO TID  
+Aspirin 81 mg PO DAILY  
+Betaxolol Hcl 0.25% 1 DROP OU BID  
+Carvedilol 12.5 mg PO BID
+Calcium Carbonate 500 mg PO BID  
+Ciprofloxacin HCl 500 mg PO Q24H Duration: 6 Days 
+1st day [**3475-9-11**]  
+Dolasetron Mesylate 100 mg PO PRN 
+Furosemide 80 mg IV ONCE Duration: 1 Doses Order date: [**9-14**]
+Mesalamine DR 1200 mg PO BID  
+Pantoprazole 40 mg PO Q24H  
+Sevelamer 1200 mg PO TID  
+Sucralfate 1 gm PO TID 
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Patient passed away [**3475-9-21**]
+ 
+Discharge Condition:
+Patient passed away [**3475-9-21**]
+ 
+Discharge Instructions:
+None
+ 
+Followup Instructions:
+None
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2462**] MD [**MD Number 2463**]
+ 
+Completed by: [**First Name4 (NamePattern1) 3732**] [**Last Name (NamePattern1) 3733**] MD [**MD Number 3734**] [**3475-9-22**] @ 1406
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1626**]
+ on: [**Doctor First Name 123**] [**3475-10-14**] 10:57 AM
+(End of Report)
+
+
+",,
+14168,20430,,,3475-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-9**] 6:48 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6967**]
+     Reason: pt with CHF / please assess                                 
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with difficulty breathing / also LE edema                     
+     REASON FOR THIS EXAMINATION:
+      pt with CHF / please assess                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Difficulty breathing, lower extremity edema.  Evaluate for
+     CHF.
+     
+     PA AND LATERAL CHEST RADIOGRAPH:  Compared to prior radiograph from [**3475-6-13**], previously seen increased interstitial edema and upper zone
+     redistribution and pulmonary blood flow appears slightly improved.  The heart
+     size remains mildly enlarged but stable.  The left pleural effusion seen on
+     prior radiograph appears smaller in size with minimal blunting of the left
+     costophrenic sulci.  The right CP angle is sharp.  No consolidations are
+     present and there has been resolution of the left retrocardiac opacity which
+     was seen on prior radiograph from [**3475-6-13**].  Left-sided pacemaker with
+     leads terminating in the right atrium and right ventricle are in stable
+     position.
+     
+     IMPRESSION:  Improved appearance of interstitial edema, resolution of left
+     pleural effusion and left retrocardiac opacity.
+                                                                           
+
+",,
+14168,20430,,,3475-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-10**] 3:08 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 6968**]
+     Reason: Please eval for hydronephrosis                              
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with congenital single kidney now with arf                    
+     REASON FOR THIS EXAMINATION:
+      Please eval for hydronephrosis                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RENAL ULTRASOUND
+     
+     HISTORY:  88-year-old female with congenital single left kidney, now with
+     acute renal failure.  Please evaluate for hydronephrosis.
+     
+     The right kidney is absent.  The left kidney measures 10.8 cm.  The left
+     kidney is normal in appearance, with preserved cortical thickness, no evidence
+     of mass, stone, or hydronephrosis.
+     
+     IMPRESSION:  Normal left kidney without evidence of hydronephrosis.  Absent
+     right kidney.
+                                                                           
+
+",,
+14168,20430,,,3475-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-14**] 6:21 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 6969**]
+     Reason: central line placement                                      
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with CHF exacerbation s/p RIJ placement                       
+     REASON FOR THIS EXAMINATION:
+      central line placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88-year-old female with congestive heart failure exacerbation,
+     status post right internal jugular central venous catheter placement. Evaluate
+     line placement.
+     
+     COMPARISON:  PA and lateral chest x-ray dated [**3475-9-9**].
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  There has been interval placement of a right
+     internal jugular central venous catheter which terminates in the right atrium.
+     A left-sided pacemaker is in unchanged position with leads adjacent to the
+     right atrium and right ventricle.  The patient is status post median
+     sternotomy with multiple intact sternal wires and sutures.  The cardiac
+     silhouette, mediastinal and hilar contours are unchanged.  A 3 mm opacity
+     within the right upper lung was not previously seen, and may be due to
+     overlying soft tissue or shadows.  The lungs are otherwise clear.  The
+     surrounding soft tissue and osseous structures are unchanged.
+     
+     IMPRESSION:
+     1.  Right internal jugular central venous catheter within the right atrium.
+     2.  No acute cardiopulmonary process.
+     3.  New 3 mm opacity within the right upper lobe was not previously seen, and
+     is likely related to overlying shadows.  Attention to this area should be paid
+     on subsequent followup.
+
+",,
+14168,20430,,,3475-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-14**] 8:46 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6970**]
+     Reason: please assess for central line repositioning; was first in R
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old woman with CHF exacerbation s/p RIJ placement                      
+       
+     REASON FOR THIS EXAMINATION:
+      please assess for central line repositioning; was first in RA; is it now in the 
+      SVC?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88-year-old female with CHF exacerbation status post right IJ
+     placement.  Evaluate for central line positioning.
+     
+     COMPARISON:  AP upright portable chest x-ray dated [**3475-9-14**].
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  A right internal jugular vein has been
+     pulled back, and now terminates within the distal SVC/RA junction.  Remainder
+     of the chest is unchanged.
+     
+     IMPRESSION:  Central venous catheter at right SVC/RA junction.
+                                                                           
+
+",,
+14168,20430,,,3475-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-14**] 8:46 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6970**]
+     Reason: please assess for central line repositioning; was first in R
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old woman with CHF exacerbation s/p RIJ placement                      
+       
+     REASON FOR THIS EXAMINATION:
+      please assess for central line repositioning; was first in RA; is it now in the 
+      SVC?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88-year-old female with CHF exacerbation status post right IJ
+     placement.  Evaluate for central line positioning.
+     
+     COMPARISON:  AP upright portable chest x-ray dated [**3475-9-14**].
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  A right internal jugular vein has been
+     pulled back, and now terminates within the distal SVC/RA junction.  Remainder
+     of the chest is unchanged.
+     
+     IMPRESSION:  Central venous catheter at right SVC/RA junction.
+                                                                           
+
+",,
+14168,20430,,,3475-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-16**] 12:35 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 6971**]
+     Reason: hd cath placed in r ij                                      
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        88 year old woman with CHF exacerbation s/p r hd cath changed over a wire     
+     REASON FOR THIS EXAMINATION:
+      hd cath placed in r ij                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP single view.
+     
+     INDICATION:  CHF exacerbation, status post right heart catheter changed over
+     wire.
+     
+     FINDINGS:  AP single view of the chest has been obtained with the patient in
+     sitting semi-upright position and analysis is performed in direct comparison
+     with a similar preceding study of [**3475-9-14**].  Previously described
+     right internal jugular approach central venous line has apparently been
+     changed for a different catheter.  The latter is now terminating overlying the
+     SVC at the level of the carina and no pneumothorax has developed.  Chest
+     finding study includes status post sternotomy, permanent pacer with dual
+     electrode system and patient slightly rotated to the right, all findings are
+     unchanged.
+     
+     IMPRESSION:  Uncomplicated central venous line exchange over wire.
+                                                                           
+
+",,
+14168,20430,,,3475-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14168,20430,,,3475-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-18**] 4:32 PM
+     UNILAT UP EXT VEINS US RIGHT                                    Clip # [**Clip Number (Radiology) 6972**]
+     Reason: RT FOREARM BRUSING AND SWELLING WITH SOME FIRM AREAS CONCERNING FOR CLOT
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right forearm bruising and swelling, firm areas concerning for
+     clot.
+     
+     TARGETED RIGHT UPPER EXTREMITY ULTRASOUND:  A catheter is seen in the right
+     subclavian artery.  The right subclavian vein has normal flow and Doppler
+     waveforms.  The right brachials, axillary, basilic show no evidence of
+     abnormality on compression, color flow, or Doppler imaging.
+     
+     IMPRESSION:  Limited, but no evidence of DVT in the distal right upper
+     extremity.
+
+",,
+14168,20430,,,3475-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-20**] 3:40 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 6974**]
+     Reason: check quinton cath position; r/o PTX                        
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         88 year old woman with CHF exacerbation s/p RIJ Quinton HD cath placement    
+     REASON FOR THIS EXAMINATION:
+      check quinton cath position; r/o PTX                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**3475-9-20**], AT 15:50.
+     
+     CHF exacerbation status post right IJ Quinton hemodialysis catheter placement.
+     
+     COMPARISION:  [**3475-9-16**].
+     
+     FINDINGS:  The patient is again rotated.  Markedly diminished lung volumes are
+     again seen but stable.  There is poor definition of the pulmonary vasculature
+     secondary to persistent underlying hydrostatic edema.  The large-bore dual
+     lumen dialysis catheter is again identified from a right internal jugular
+     approach with the distal tip approximately 2 cm proximal to the junction of
+     the right atrium and superior vena cava.  A dual chamber pacemaker is again
+     identified relatively stable in course and position.  No focal superimposed
+     pulmonary process is identified. 
+     
+     IMPRESSION:  Dialysis catheter, as above.  No significant interval change. 
+     Mild hydrostatic edema.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) 1684**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1685**]
+",,
+14168,20430,,,3475-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3475-9-20**] 3:21 PM
+     CHEST FLUORO WITHOUT RADIOLOGIST IN O.R.                        Clip # [**Clip Number (Radiology) 6973**]
+     Reason: VAD INSERTION
+     Admitting Diagnosis: BILATERAL LEG SWELLING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     A chest fluoro was performed without a radiologist present. 20 seconds of
+     fluoro time was used. No films submitted.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+14168,20430,17613,0,3475-09-21 19:36:00 EST,3475-09-21 19:47:00 EST,7641,"N",1,"Nursing/Other",,"
+
+88 yo female with severe systolic CHF(10-15%) admitted emergently to ICU at 1921 for massive upper GI bleed. Pt's BP on arrival to unir was SBP 60's, lactate 4.6. Pt was initiated on dopamine s/p 1unit PRBC, two units NS pt remained hypotensive. Pt had large maroon stool and became agonal pt then became apneic. Pt's family member ([**Name (NI) 963**], cousin of pt) came to see patient and took her belongings. 
+",,

@@ -1,0 +1,280 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14890,6983,,,2754-07-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2754-7-10**]     Discharge Date:  [**2754-7-11**]
+
+Date of Birth:   [**2660-3-19**]     Sex:  F
+
+Service:  #58
+
+HISTORY OF PRESENT ILLNESS:  Mrs. [**Known patient lastname 11359**] is a [**Age over 90 **] year-old
+woman with a past medical history of hypertension, coronary
+artery disease, status post myocardial infarction with
+pacemaker, who presented with 35 minutes of generalized tonic
+clonic activities suppressed by 15 mg of Valium.  The patient
+had reported been at her baseline in her usual state of
+health, interactive, fluent until the day of admission when
+she was last seen at 2:00 p.m.  She had been resting in her
+room and was found in convulsions at approximately 3:40 p.m.,
+unresponsive with a systolic blood pressure of approximately
+180 to 200.  Emergency medical services arrived within twenty
+minutes and she was given 5 mg of IM Valium followed by 10 mg
+of intravenous before resolution of her symptoms.  She was
+reported at this time to hve copious secretions.
+
+In the Emergency Room she was loaded with 1 gram of Dilantin
+and intubated for airway protection.  A left femoral central
+line was initially placed and then removed secondary to a
+hematoma, a right was later placed.
+
+Per nursing home staff and family she had not been ill prior
+to this.  She had no history of prior seizures.
+
+Upon admission to the Intensive Care Unit she was intubated
+and not responsive.
+
+PAST MEDICAL HISTORY:  1.  Hypertension.  2.  Tremor.  3.
+Coronary artery disease status post myocardial infarction.
+4.  Left humerus fracture.  5.  Hypercholesterolemia.  6.
+Status post cataract surgery.  7.  Status post pancreatic
+surgery.
+
+MEDICATIONS ON ADMISSION:  1.  Effexor 37.5 mg po q day.  2.
+Lipitor 10 mg po q day.  3.  Monopril 20 mg po q day.  4.
+Multivitamins.  5.  Plavix 75 mg po q day.  6. Prevacid 15 mg
+po q day.  7.  Pericolace one tab po b.i.d.  8.  Celebrex 100
+mg po q day.  9.  Senokot two tabs q.h.s.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs significant
+for a temperature of 98.8.  Blood pressure 150/75.  Heart
+rate 95, intubated, sating 100% on 40% FIO2.  Oral mucosa
+moist.  No lymphadenopathy.  Lungs with diffuse crackles.  No
+wheezing.  Cardiac examination with a 2 out of 6 systolic
+ejection murmur heard best at the apex.  Regular rate and
+rhythm.  No rubs.  No gallops.  Abdomen soft, nontender,
+nondistended with positive bowel sounds.  She was moving all
+four extremities.  She had a large left groin hematoma not
+firm or indurated.  She had no active bleeding at the site.
+Her right dorsalis pedis pulse was not palpable.  Posterior
+tibial was not dopplerable on the left.  Her dorsalis pedis
+pulse was dopplerable, but her posterior tibial pulse was not
+palpable or dopplerable.  Her skin was without rashes.
+Neurologically she was intubated and sedated.  She withdrew
+mildly to all extremities on examination.  She had positive
+dolls eyes.  No corneal reflex was noted upon initial
+examination.  She had a surgical pupil, both were reactive.
+Her tone was slightly increased.  She had mild intermittent
+tremor of the chin and right upper extremity when she tried
+to bring it midline.  Reflexes were 1+ and symmetric at
+biceps, triceps, brachial radialis bilateral in upper
+extremities 1+ at patellar and Achilles.  Her toes were up
+going bilaterally.
+
+Ventilator settings upon admission were pressor support of 10
+and 5, 40% FIO2, respiratory rates in the 20s with tidal
+volumes in the 300s.  Arterial blood gas at this point was
+7.37/46/187.
+
+ADMISSION FILMS:  CT of the head showing low attenuation with
+white matter at the junction of the right MCA and PCA
+territories.  Lack of associated mass factor atrophy
+suggesting a possible subacute watershed infarct.  Without
+prior films for comparison.  Acuity was noted to be difficult
+to ascertain.
+
+LABORATORIES ON ADMISSION:  White blood cell count of 8.0,
+hematocrit 33.2, platelets 162, sodium 142, potassium 3.6,
+chloride 104, bicarb 24, BUN 29, creatinine 1.1, glucose 151.
+Urinalysis with no nitrites and no ketones.
+
+HOSPITAL COURSE:  The patient was admitted to the Medical
+Intensive Care Unit for monitoring.  Left groin line placed
+in the Emergency Department was discontinued secondary to
+hematoma.  She was transfused with 2 units of packed red
+blood cells for a hematocrit drop in this setting.  Post
+transfusion hematocrit showed an appropriate bump.  A groin
+line was placed for access.
+
+Dilantin level was therapeutic after an initial load in the
+Emergency Department.  Potassium, magnesium and calcium were
+all repleted.  She remained hemodynamically stable throughout
+her Intensive Care Unit stay.  She remained intubated during
+her short stay in the Intensive Care Unit and extubation was
+deferred secondary to transfer to the outside hospital.  At
+the time of discharge the patient remained intubated,
+withdraws to painful stimulus in all extremities.  Toes are
+up going bilaterally and dolls eyes were intact.
+
+She is to be transferred to [**Hospital3 2255**] Neurological step
+down unit as all of her records are at [**Hospital3 2255**].
+
+DISCHARGE DIAGNOSES:
+1.  Cerebrovascular accident.
+2.  Coronary artery disease.
+3.  Hypertension.
+4.  Hypercholesterolemia.
+
+MEDICATIONS ON TRANSFER:  Protonix 40 mg intravenous q.d.
+Plavix 75 mg po/pngt q.d.  Dilantin 100 mg po/pngt b.i.d.
+Tylenol prn.
+
+DISPOSITION:  [**Hospital3 2255**] neurologic step down unit.
+
+
+
+
+
+
+                          [**Name6 (MD) 128**] [**Name8 (MD) 129**], M.D.  [**MD Number 130**]
+
+Dictated By:[**Name8 (MD) 3011**]
+
+MEDQUIST36
+
+D:  [**2754-7-11**]  15:05
+T:  [**2754-7-14**]  07:14
+JOB#:  [**Job Number 11360**]
+Signed electronically by: DR. [**First Name (STitle) 128**] [**Doctor Last Name 129**]
+ on: SUN [**2754-8-1**] 2:05 PM
+(End of Report)
+
+
+",,
+14890,6983,,,2754-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2754-7-10**] 6:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13233**]
+     Reason: s/p intubation  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with above.  
+     REASON FOR THIS EXAMINATION:
+      s/p intubation  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post intubation.
+     
+     COMPARISONS:  None.
+     
+     SUPINE AP CHEST:  The patient is rotated.  Endotracheal tube is 1.5 cm above
+     the carina.  There is a left-sided ICD with atrial and ventricular leads.
+     The heart is enlarged. There is bilateral increase in interstitial markings.
+     There are no pleural effusions.  Upper abdomen shows multiple slightly
+     prominent loops of gas filled small bowel, measuring up to 3.3 cm in
+     diameter.
+     
+     IMPRESSION:
+     1) ETT 1.5 cm above the carina.
+     2) Bilateral interstitial prominence could represent chronic fibrosis or acute
+     interstitial edema.  Clinical correlation is necessary as there are no prior
+     studies for comparison.
+     3) Mildly distended gas filled loops of small bowel in the upper abdomen.
+     Supine and upright KUB may be helpful for further evaluation.
+
+",,
+14890,6983,,,2754-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2754-7-10**] 6:10 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13234**]
+     Reason: new onset seizure, intubated
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with above.  
+     REASON FOR THIS EXAMINATION:
+      new onset seizure, intubated
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: New onset seizure.
+     
+     TECHNIQUE: Noncontrast axial images were obtained from the skull base to the
+     vertex.
+     
+     CT HEAD: Diffusely prominent sulci ventricles and basal cisterns consistent
+     with age appropriate involutional change. There is no mass effect, shift of
+     the normally midline structures, intraaxial or extraaxial hemorrhage, or
+     hydrocephalus.
+     
+     There is low attenuation in the periventricular white matter in the
+     periventricular region  consistent with chronic microvascular disease. There
+     is low attenuation in the white matter at the junction of the right MCA and
+     PCA territories. This may be due to a watershed infarct of undetermined
+     age. There is no adjacent mass effect disproportionate atrophy. There are
+     marked calcifications within the vertebral and basilar arteries. The osseous
+     structures are unremarkable. There is minimal mucosal thickening in the
+     ethmoid sinuses.
+     
+     IMPRESSION: 1. No evidence of acute hemorrhage. 2. ? right parietal
+     watershed infarct of undetermined age ( in absence of prior studies)
+     Consider MR [**First Name (Titles) 957**] [**Last Name (Titles) 8348**] images if further evaluation is clinically
+     indicated. 3. Severe changes of small vessel disease.
+
+",,
+14890,6983,18502,,2754-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2754-7-11**] 6:35 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13235**]
+     Reason: r/o SBO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with dialated loops of small bowel.  r/o SBO
+     REASON FOR THIS EXAMINATION:
+      r/o SBO
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Mildly distended small bowel loops on chest x ray of [**2754-7-10**].
+     
+     SUPINE PORTABLE ABDOMEN, 1 VIEW: Since the prior chest radiograph of 1 day
+     earlier, there has been interval placement of an NG tube, which is coiled
+     within the stomach, with bend likely in the antrum and possibly in the
+     proximal duodenum and tip in the distal stomach. The bowel gas pattern is
+     nonspecific. No dilated loops of small or large bowel are appreciated. There
+     is no evidence of free intraperitoneal air. The heart is enlarged. The lung
+     bases are clear.
+     
+     IMPRESSION: Interval NG tube placement as above. No evidence of obstruction or
+     free intraperitoneal air.
+
+",,
+14890,6983,18502,,2754-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2754-7-11**] 1:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13236**]
+     Reason: s/p adjustment of ETT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman s/p stroke, intubated, non-repsonsive
+     REASON FOR THIS EXAMINATION:
+      s/p adjustment of ETT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: ETT repositioning.
+     
+     PORTABLE AP CHEST: Comparison [**2754-7-10**]. There is an ETT 3.6 cm above the carina.
+     There is an NG tube coiled within the stomach. The patient is rotated. The
+     heart is enlarged. There is a dual lead pacer with lead tips in the region of
+     the RA and RV. Technique and slight respiratory artifact make it difficult to
+     evaluate for the lungs, however, the lung parenchyma does not appear
+     significantly changed.
+     
+     IMPRESSION: Interval placement of NG tube. Repositioning of ETT which is 3.6
+     cm above the carina.
+
+",,
+14890,6983,18502,0,2754-07-11 04:57:00 EST,2754-07-11 05:06:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+[**2754-7-11**] 6am 
+neuro: pt unresponsive inconsistently withdraws to painful stimuli, nonpurposeful movement of all exts noted. perrla, gag with oral suctioning. on q 1 hr neuro's
+cad b/p dec to <90 x2 rec'd  500cc ns bolus x 2 with good effect. hr 70's.
+resp vent ed on ps 40% tv 500. r 16-20'sputum cx sent.
+gi: ogt placed bs+
+gu: uo approx. 30cc/hr  ns at 125cc/hr x 1 liter infusing.
+id"" afebrile, 1 blood cx sent
+labs hct 24.2 pt is res. 1st of 2 units of blood, mag, ca and k+ repleted as ordered.
+plan: will be assessed by neuro in a.m. for prognosis, fmaily will make a decsion concerning withdrawal of care at that time, 2 nd uunit blood due with labs following
+",,

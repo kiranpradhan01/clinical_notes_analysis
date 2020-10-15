@@ -1,0 +1,2001 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14169,,,,2753-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-15**] 10:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6975**]
+     Reason: eval failure                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with SOB and fluid overload                                    
+                    
+     REASON FOR THIS EXAMINATION:
+      eval failure                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath and fluid overload.
+     
+     PORTABLE AP CHEST.
+     
+     COMPARISON:  [**2752-12-15**].
+     
+     There is moderate cardiomegaly.  Layering right-sided moderate pleural
+     effusion noted.  Right basilar and retrocardiac atelectasis persists.  The
+     left lung field is clear except the left midlung cannot be evaluated due to
+     overlying pacer.  The pacer lead tips in the right atrium, right ventricle,
+     and the coronary sinus.  The defibrillator leads along the right ventricle and
+     in the SVC.  Unfolded and calcified aortic knob.
+     
+     IMPRESSION:  Moderate right pleural effusion with right retrocardiac
+     atelectasis.
+                                                                           
+
+",,
+14169,,,,2753-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-16**] 2:44 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6976**]
+     Reason: please evaluate lead placement and interval changes         
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with CHF, HTN, DM, and biV pacemaker placement presents with 
+      inconsistent ventricular pacing. 
+     REASON FOR THIS EXAMINATION:
+      please evaluate lead placement and interval changes                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  CHF, diabetes, pacemaker malfunction.
+     
+     CHEST, PA AND LATERAL:
+     
+     An ICD device is present.  The position of the leads is unchanged since the
+     prior chest x-rays dating [**2751-6-18**].  The leads themselves appear intact.
+     
+     There has been no significant change since the prior chest x-ray of [**1-15**]. 
+     A moderate-to large-sized right pleural effusion is again seen.
+     
+     IMPRESSION:  Position of leads unchanged.  Wires appear intact.
+                                                                           
+
+",,
+14169,10917,,,2753-01-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2753-1-26**]              Discharge Date:   [**2753-2-9**]
+ 
+Date of Birth:  [**2667-2-1**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2891**] 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+s/p Thoracentesis on [**1-29**] and [**2-4**]
+
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 9794**] is an 85yo M w/ a PMH of CHF, CAD, afib, HTN, 
+dyslipidemia and PVD who presented to his regularly scheduled EP 
+appointment. At his appointment, it was felt that the patient 
+had worsened SOB, increased peripheral edema, and what looked 
+like a cellulitis vs. thrombophlebitis in his LUE. His radial 
+pulse was not palpable and it was felt that the patient needed 
+admission for management of his CHF and for vascular surgery's 
+evaluation of his LUE.  
+.  
+The patient and his son note that the patient had been well up 
+until 3 months ago when he was first admitted for pneumonia. 
+Since that time, it has been a downward spiral and the patient 
+has been bouncing in and out of rehab. The son notes that the 
+patient never had an issue with fluid management until then and 
+was on a steady dose of diuretics for approximately 4 years 
+prior to his admission 3 months ago.  
+.  
+He was most recently discharged from [**Hospital1 19**] on [**2753-1-21**] after a 6 
+day stay for CHF exacerbation. It was felt at the time that his 
+symptoms were due to miscommunication about his lasix doses (was 
+taking 80mg QD instead of 80 QAM/40 QPM). He was aggressively 
+diuresed with IV lasix and then switched back to PO lasix. Per 
+the son, the patient's left hand was starting to get a little 
+swollen prior to discharge.  
+.  
+Since discharge, the son feels that Mr. [**Known patient lastname 9794**] has steadily 
+declined. The rehab has commented on increased abdominal girth, 
+swelling in his ""mid section"" (the patient states that his 
+scrotum gets pinched by his clothes), as well as worsening 
+swelling in his legs and now left arm. He denies any orthopnea 
+or PND. Can not assess for DOE as pt is ambulating minimally 
+lately. He states that he has only minimal SOB and does not 
+require oxygen at the nursing home. However, he does state that 
+he sometimes finds it hard to catch his breathe. He denies any 
+chest pain or pressure. He denies any LH or dizziness. He denies 
+any pain in his left arm and does not think that he had an IV in 
+that arm d[**MD Number 278**] his last admission. He states that his arm is 
+sensitive to touch, but not frankly painful. Last night, the 
+patient notes that he had trouble sleeping but can't tell if it 
+was due to shortness of breath or discomfort. He spent the night 
+sitting up in a chair and feels like the rehab center just 
+wasn't able to take care of him anymore. He feels ""relieved"" 
+that he's here.  
+.
+On review of systems, he denies any prior history of stroke 
+(though son states head CT in past showed evidence of old 
+infarcts), TIA, deep venous thrombosis, pulmonary embolism, 
+bleeding at the time of surgery, myalgias, joint pains, cough, 
+hemoptysis, black stools or red stools. He denies recent fevers, 
+chills or rigors. He denies exertional buttock or calf pain. All 
+of the other review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+palpitations, syncope or presyncope. Is notable for significant 
+edema.  
+
+ 
+Past Medical History:
+# CHF: global hypokinesis, EF 30% in [**11-23**]  
+# Hypertension  
+# Afib on coumadin  
+# CAD: h/o MI approximately 7 years ago with stenting at [**Hospital1 717**]  
+- per son, had multiple angioplasties in [**2746**], then stent at [**Hospital1 717**] 
+ 
+# NIDDM: dx'd 1965  
+# s/p Guidant dual chamber ICD 2001, upgrade to BiV device in 
+[**6-21**]  
+# s/p Hernia repair  
+# CRI (baseline Cr 1.5)  
+# Bilateral CFA/PFA endarterectomies and patch angioplasties 
+[**2752-12-2**]  
+
+ 
+Social History:
+He is a widower who has been in rehab for 3 months; prior to 
+that, he lived with a girlfriend. Son [**Name (NI) **] is very involved in 
+his care, is his HCP. Pt is a retired calligrapher/artist 
+(retired last year). Smoked ~1ppd x 40 yrs, quit at age 60. Rare 
+glass of wine. 
+ 
+Family History:
+3 brothers, 2 sisters had heart attacks or ""heart trouble"". F 
+died of esophageal cancer at age 69, M died in her 60s after a 
+stroke. He is the last of his family members still alive. 
+ 
+Physical Exam:
+VS - T 96.9, BP 133/63, HR 68, RR 20, sats 95% on RA  
+Gen: WDWN elderly male in NAD. Oriented x3. Pleasant, 
+cooperative, but hard of hearing.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+Neck: Supple with JVP up to his jawline at 45 degrees.  
+CV: Irreg irreg, normal S1, S2. No thrills, lifts. No S3 or S4.  
+
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. Crackles at base on 
+left, decreased breath sounds approximately [**12-20**] of the way up on 
+the right.  
+Abd: Soft, NTND. Unable to determine HSM due to body habitus. + 
+BS throughout. + pitting edema in his flanks. No fluid wave.  
+Ext: LUE has open wound (covered by bandage) and is grossly 
+edematous. + erythematous and warm, extending from hand up to 
+his elbow. Radial pulse not palpable but is easily dopplerable. 
+RUE is not swollen but has multiple ecchymoses. Bilateral LE are 
+woody and swollen, with 2+ pitting edema up to his thighs. Shins 
+are erythematous, scaly and warm.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+.
+Pulses:  
+Right: Carotid 2+ DP dopplerable PT dopplerable  
+Left: Carotid 2+ DP dopplerable PT dopplerable  
+
+ 
+Pertinent Results:
+LABS on admission:
+[**2753-1-26**] 06:01PM BLOOD WBC-8.2 RBC-4.18* Hgb-12.6* Hct-39.3* 
+MCV-94 MCH-30.1 MCHC-31.9 RDW-15.6* Plt Ct-274
+[**2753-1-26**] 06:01PM BLOOD PT-23.8* PTT-33.3 INR(PT)-2.4*
+[**2753-1-26**] 06:01PM BLOOD Glucose-163* UreaN-48* Creat-1.6* Na-135 
+K-5.1 Cl-95* HCO3-30 AnGap-15
+[**2753-1-26**] 06:01PM BLOOD ALT-27 AST-37 LD(LDH)-308* AlkPhos-130* 
+TotBili-0.6
+[**2753-1-26**] 06:01PM BLOOD Albumin-3.9 Calcium-8.9 Phos-4.4 Mg-2.5
+[**2753-1-27**] 06:55AM BLOOD Digoxin-0.9
+.
+[**2753-2-3**] 11:25PM BLOOD CK-MB-NotDone cTropnT-0.14*
+[**2753-2-4**] 06:45AM BLOOD LD(LDH)-239 CK(CPK)-37* CK-MB-3 
+cTropnT-0.13*
+.
+[**2753-2-3**] 11:25PM BLOOD Hapto-137
+[**2753-1-27**] 06:55AM BLOOD Digoxin-0.9
+[**2753-2-3**] 10:34PM BLOOD Lactate-1.4
+[**2753-2-3**] 11:25PM BLOOD ALT-1 AST-17 LD(LDH)-196 CK(CPK)-37* 
+AlkPhos-89 TotBili-0.6
+.
+LABS on discharge:
+[**2753-2-8**] 06:00AM BLOOD WBC-7.4# RBC-3.45* Hgb-10.2* Hct-32.2* 
+MCV-93 MCH-29.6 MCHC-31.7 RDW-16.3* Plt Ct-280
+[**2753-2-8**] 06:00AM BLOOD PT-22.8* PTT-35.6* INR(PT)-2.3*
+[**2753-2-8**] 06:00AM BLOOD Glucose-125* UreaN-47* Creat-1.5* Na-139 
+K-4.4 Cl-101 HCO3-31 AnGap-11
+[**2753-2-8**] 06:00AM BLOOD Calcium-8.8 Phos-2.8 Mg-2.1
+.
+IMAGING:
+MICRO:  
+[**2753-1-26**] blood cx - no growth 
+[**2753-1-29**] urine cx - no growth 
+[**2753-1-29**] blood cx - no growth  
+[**2753-1-29**] sputum cx - gram stain >25 PMNs, <10 epis; 2+ GNR; resp 
+cx sparse growth OP flora, moderate growth yeast  
+[**2753-1-29**] pleural fluid cx - gram stain 1+ PMNs, no microorgs; 
+fluid cx no growth
+[**2753-2-1**] Blood culture - no growth
+[**2753-2-2**] Blood Cx - NGTD
+[**2753-2-2**] Urine cx - no growth
+[**2753-2-3**] Blood Cx x 2 - NGTD 
+[**2753-2-2**] sputum - sparse oropharyngeal flora
+[**2753-2-3**] Stool - C.Difficile negative
+[**2753-2-4**] Sputum Cx - mod oropharyngeal flora
+[**2753-2-4**] Pleural fluid - NGTD
+[**2753-2-8**] Urine Cx NGTD
+.  
+IMAGING:  
+EKG [**2753-1-26**] demonstrated ventricular pacing, with fusion beats; 
+rate 91; no ST or TW changes.    
+.  
+[**2753-1-26**] CXR: Moderately large right pleural effusion with 
+associated  
+atelectasis; right basilar consolidation cannot be excluded.  
+.  
+[**2753-1-26**] LUE U/S: No evidence of DVT in the left upper extremity. 
+ 
+.  
+[**2753-1-29**] CT head: No acute intracranial abnormalities. No 
+significant change since [**2751-9-11**] of encephalomalacia of the 
+left frontal  
+and right parietal lobes and right motor strip. No significant 
+change in enlargement of the ventricles.  
+.  
+[**2753-1-29**] XR LUE:  
+1. No definite acute fracture or dislocation.  
+2. Severe degenerative changes of the first MCP and first CMC 
+joints with prominent subchondral cyst formation. Additional 
+erosion of the carpus is also seen, nonspecific.  
+3. Unusual appearance of the soft tissues likely reflects an 
+external wrap or bandage.  
+4. Degenerative change of the acromioclavicular joint with 
+adjacent foci of mineralization that may reflect old trauma.  
+.
+[**2753-1-30**] ART DUPLEX:
+Duplex and color Doppler of both inguinal areas demonstrate 
+patent common femoral arteries. There is no evidence of graft 
+involving either inguinal region. There is a simple fluid 
+collection within the right and left inguinal regions noted.
+.
+[**2753-1-30**] LATERAL DECUB:
+Residual moderate right pleural effusion is apparently at least 
+partially loculated laterally lower right hemithorax and has an 
+intrafissural component as well.
+.
+[**2753-2-4**] Chest XRay: Large right pleural effusion, which is not 
+significantly changed accounting for differences in position. 
+There is associated opacity, suggesting atelectasis, although 
+underlying pneumonia is not excluded. No significant interval 
+change. 
+.
+[**2753-2-4**] Chest XRay (s/p thoracentesis): Significant interval 
+improvement in right pleural effusion consistent with interval 
+thoracentesis. Persistent small left pleural effusion and 
+pulmonary vascular congestion. 
+
+ 
+Brief Hospital Course:
+85yo M w/ PMH of ischemic CM (EF 30%), CAD, DM, HTN, afib and 
+PVD, presenting with CHF exacerbation and pleural effusion who 
+was also diagnosed with pneumonia, transferred to MICU for 
+hypotension possibly from sepsis and then transferred back to 
+Cardiology floor once hemodynamically stable.  
+.  
+# CV  
+1) CAD: Pt has known h/o CAD with multiple PCI and interventions 
+done in [**2746**]. No evidence of active ischemia during 
+hospitalization.  Continue aspirin, beta-blocker was decreased 
+from toprol 100 qday to metoprolol 37.5mg bid due to low blood 
+pressure.  Continued statin (ACEI held). 
+.  
+2) RHYTHM: V-paced currently, but irregular. V sensing and 
+pacing per interrogation [**1-27**].  Monitored on telemetry throuhout 
+hospitalization.  Had been on coumadin as an outpatient.  
+Transitioned to heparin for thoracenteses then transitioned back 
+to coumadin when INR therapeutic.  INR 2.3 on [**2753-2-9**].
+.
+3) CHF:  EF 30% on ECHO [**11-23**]. Peripheral edema, though 
+intravascularly euvolemic.  
+Continued digoxin.  Gently diuresed with prn iv lasix while an 
+inpatient.  Switched to lasix 40mg po bid for outpatient regimen 
+on [**2-8**].  This dose may need to be adjusted as an outpatient.
+.  
+# Hypotension/sepsis: Resolved now, s/p MICU stay and briefly on 
+dopa though off since [**2-4**]. Prior to MICU pt had fever without 
+leukocytosis. All Cx data negative or no growth to date 
+including pleural fluid from 2 thoracenteses.  CXR felt to be 
+consistent with possible pneumonia and given fever despite 
+antibiotics, his antibiotic coverage was broadened to zosyn in 
+addition to vancomycin (which was he was already on for possibl 
+cellulitis).  Thoracentesis on [**1-29**] and [**2-4**] consistent with 
+transudate with cultures no growth to date.  He passed his 
+cortisol stimulation test while in the MICU.  Blood pressure was 
+stable from [**2-5**] on. 
+.  
+# Hypoxemia: The patient had hypoxia likely related to both CHF, 
+pleural effusion, and pneumonia. He was satting well on 2L NC on 
+[**2-8**] and actually satting well (94-95%)on room air on day of 
+discharge.  Vancomycin was continued for 12 day course.  Zosyn 
+was added on [**2-3**] and to be stopped after 10 day course ([**2-3**] - 
+[**2-12**]).  Gently diuresed with prn lasix (as above).  s/p 
+thoracentesis on [**1-29**] and [**2-4**].
+.  
+# ID: The pt had PNA on CXR and on exam has bibasilar crackles. 
+Started on Zosyn [**2-3**] (change from levo) and has been on Vanco. 
+GPCs on sputum gram stain. Plan for 10 days of Zosyn in addition 
+to completed vancomycin course.  CDiff negative.  s/p 2 
+thoracenteses as above with evidence of infection/empyema.  
+Sputum and urine cultures no growth to date.  
+.  
+# Anemia: Pt has baseline hct 33, now stable at 31. pt had trace 
+guaiac positive stools earlier in admission. Hemolysis labs 
+negative.  Hematocrit remained stable.  
+.  
+# LUE Edema: Improved. Differential initially DVT vs. cellulitis 
+vs. thrombophlebitis vs. vascular insufficiency. s/p Vascular 
+surgery evaluation and it was felt that it was not arterial 
+insufficiency.  Left upper extremity was negative for deep 
+venous thrombosis and XRay negative for fracture.  Vascular 
+surgery recommended treating with Vancomycin and arm appear 
+improved with both antibiotics and ACE bandages.  
+.  
+# CRI: Baseline Cr is 1.5 and remains at baseline.  Renally 
+dosed medications.
+.  
+# Foot pain: No narcotics as caused mental status changes.  
+Continued tylenol and neurontin.
+.
+# Sundowning: patient was noted to be agitated at night.  His 
+[**Doctor Last Name 292**] wake cycle seemed to be off (awake at night and sleeping 
+off and on during the day).  Suspect that much of this is due to 
+being in the hospital setting.  Started zyprexa 2.5mg po qhs 
+prn.  
+.  
+# R heel ulcer: No evidence of infection. Per vascular imaging, 
+has poor perfusion to LE bilaterally.  Wound Care with wet to 
+dry dressings daily and aloe vesta applied.  Vascular surgery 
+consulted as [**Last Name (un) 10236**].    
+.  
+# DM: Holding glipizide while inpatient.  Covered with insulin 
+sliding scale and monitored finger sticks.
+.  
+# Access: PICC line (placed [**2-2**]) and in good position and 
+working order. 
+.  
+# PPX: anticoagulated, continued PPI and bowel regimen 
+.  
+# Code: DNR but can intubate as was discussed with son while 
+patient in MICU. (Code status was reversed from DNR/DNI, as 
+collaborated with attending) 
+.  
+# Dispo: to rehab to complete 10 day course of Zosyn (already 
+completed vancomycin).  He is to follow-up with cardiologist as 
+an outpatient.  His INR was stable on coumadin and should be 
+followed as outpatient (INR 2.3 on day of discharge)
+ 
+Medications on Admission:
+Atorvastatin 10 mg PO DAILY  
+Aspirin 81 mg PO DAILY  
+Pantoprazole 40 mg PO Q24H  
+Digoxin 125 mcg PO DAILY  
+Spironolactone 12.5 mg PO QOD  
+Metoprolol Succinate 100 mg PO DAILY  
+Docusate Sodium 100 mg PO BID  
+Ramipril 5 mg PO DAILY  
+Warfarin 2 mg PO HS  
+Furosemide 80 mg PO QAM, 40 mg PO QPM  
+Glipizide 2.5 mg PO BID  
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 
+hours) as needed for cough.  
+4. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day) as needed for cough.  
+5. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for agitation.  
+6. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2 
+times a day).  
+7. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+9. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+11. Zosyn 2.25 g Recon Soln Sig: One (1)  Intravenous every six 
+(6) hours for 3 days: last day [**2-12**].  
+12. Glipizide 5 mg Tablet Sig: 0.5 Tablet PO twice a day.  
+13. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+14. Warfarin 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). 
+ 
+15. Outpatient Lab Work
+Please have bloodwork drawn to check PT/INR 3-4 days after 
+discharge from the hospital.  Goal INR 2.0-3.0.
+16. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**First Name9 (NamePattern2) 10237**] [**Hospital1 **]
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Cellulitis
+CHF 
+Pneumonia
+.
+Secondary diagnosis:
+CAD
+PVD
+Afib
+DM
+CRI
+
+ 
+Discharge Condition:
+Good. Afebrile.   
+
+ 
+Discharge Instructions:
+[**Doctor First Name 54**] were admitted with a CHF exacerbation and cellulitis of your 
+left arm. [**Doctor First Name 54**] were diuresed and treated with IV antibiotics with 
+improvement in both medical issues. [**Doctor First Name 54**] were seen by vascular 
+surgery who monitored both your arm and your legs for healing. 
+.
+Weigh yourself every morning, [**Name8 (MD) 55**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1500mL/day
+.
+Please take all medications as prescribed. 
+.
+Please keep all follow-up appointments. 
+.
+Please call your PCP or go to the nearest ER if [**Doctor First Name **] develop any 
+of the following symptoms: fever, chills, shortness of breath, 
+difficulty breathing, worsening swelling of your legs or arms, 
+worsening pain in your feet, or any other worrisome symptoms. 
+.
+We have held your ramipril and spironolactone.
+ 
+Followup Instructions:
+Please keep all your follow-up appointments:
+VAS,BIOCARE VASCULAR LMOB (NHB) Date/Time:[**2753-3-26**] 1:00
+.
+[**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5899**] SURGERY (NHB) Date/Time:[**2753-3-26**] 
+2:00
+.
+Please schedule follow up appointment with Dr. [**Last Name (STitle) **] 2-3 weeks 
+after discharge from rehab ([**Telephone/Fax (1) 1381**].
+.
+Please schedule a follow-up appointment with your primary care 
+physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 6329**] [**Telephone/Fax (1) 10238**] within 2 weeks after 
+discharge from rehab.  
+.
+Please continue to have PT/INR checked, it should be checked [**1-18**] 
+days after discharge from the hospital.  INR was 2.3 on [**2-9**].  
+Goal range 2.0-3.0.
+
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 2897**] MD [**MD Number 2898**]
+ 
+Completed by: [**First Name8 (NamePattern2) 180**] [**Name8 (MD) 181**] MD [**MD Number 182**] [**2753-2-9**] @ 1516
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**2753-2-19**] 8:37 AM
+(End of Report)
+
+
+",,
+14169,10917,,,2753-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-26**] 7:53 PM
+     UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 6978**]
+     Reason: R/O DVT SWELLING
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with CHF (EF 30%), afib, PVD, p/w swollen L arm.                
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+     WET READ: MPtb MON [**2753-1-26**] 8:49 PM
+      No dvt in the LUE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old male with CHF, atrial fibrillation, and peripheral
+     vascular disease with swollen left arm and concern for DVT.
+     
+     LEFT UPPER EXTREMITY ULTRASOUND:  [**Doctor Last Name **]-scale, color, and pulse Doppler
+     sonograms of the left internal jugular, subclavian, axillary, brachial,
+     basilic, and cephalic veins were performed.  There is normal compressibility,
+     waveform, augmentation and wall-to-wall flow.  No intraluminal echogenic
+     material is identified.
+     
+     IMPRESSION:  No evidence of DVT in the left upper extremity.
+     
+     ED dashboard wet read placed at 8:30 p.m. on [**2753-1-26**].
+
+",,
+14169,10917,,,2753-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-26**] 6:10 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6977**]
+     Reason: eval for pulm edema, interval change in pleural effusion    
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with anasarca. Please eval for interval change in pleural 
+      effusion                                      
+     REASON FOR THIS EXAMINATION:
+      eval for pulm edema, interval change in pleural effusion                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW OF THE CHEST DATED [**2753-1-26**].
+     
+     HISTORY:  85-year-old man with anasarca; please evaluate for interval change
+     in pleural effusion.
+     
+     FINDINGS:  Bedside AP examination labels ""upright, 1815h"" is compared with the
+     study obtained ten days earlier.  There is a stable moderately large right
+     pleural effusion, layering laterally, with associated dense right basilar
+     opacity, representsing either compressive atelectasis, focal consolidation, or
+     both.  The heart is overall unchanged in size.  No significant pulmonary
+     vascular congestion or left pleural effusion is seen.  Left-sided dual-chamber
+     cardiac pacemaker with ICD lead has tips projected over the RA and RV apex (in
+     this single projection).
+     
+     IMPRESSION:  Moderately large right pleural effusion with associated
+     atelectasis; right basilar consolidation cannot be excluded.
+
+",,
+14169,10917,,,2753-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-29**] 12:34 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6979**]
+     Reason: r/o bleed                                                   
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with delta MS s/p fall off toilet. On heparin. r/o bleed.       
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT HEAD
+     
+     HISTORY:  85-year-old male with mental status change, status post fall off of
+     a toilet, on heparin.
+     
+     TECHNIQUE:  Contiguous 5 mm axial images were obtained from the skull base to
+     the vertex.
+     
+     FINDINGS:  There has been no significant change since [**2751-9-11**].  No
+     intracranial hemorrhages are seen.
+     
+     Again seen are areas of encephalomalacia involving the left frontal lobe,
+     right parietal lobe, and the right motor cortex, as before.  Again seen is
+     minimal amount of cerebral periventricular white matter hypodensities, which
+     likely represent small vessel chronic infarcts.  A chronic lacunar infarction
+     of the anterior limb of the right internal capsule is again noted.
+     
+     There is enlargement of the ventricles, as before.
+     
+     Atherosclerotic calcifications of the internal carotid arteries are seen
+     bilaterally.
+     
+     There are no suspicious bony abnormalities or skull fractures.  Incidental
+     note is made of a left-sided nasal septal spur.  There is also an air-fluid
+     level of the left maxillary sinus with thickening of the sinus walls, which
+     likely represents acute-on-chronic sinusitis changes.
+     
+     On the scout images, there is minimal anterior spondylolisthesis of C4 on C5,
+     which likely is degenerative in origin.  This is unchanged since the prior
+     study.
+     
+     IMPRESSION:  
+     
+     No acute intracranial abnormalities.
+     
+     No significant change since [**2751-9-11**] of encephalomalacia of the left frontal
+     and right parietal lobes and right motor strip.  No significant change in
+     enlargement of the ventricles.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2753-1-29**] 12:34 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6979**]
+     Reason: r/o bleed                                                   
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14169,10917,,,2753-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-29**] 4:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6981**]
+     Reason: please r/o pneumothorax, eval residual effusion             
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with CAD, CHF, AF, R-sided pleural effusion s/p thoracentesis  
+                                         
+     REASON FOR THIS EXAMINATION:
+      please r/o pneumothorax, eval residual effusion                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  Coronary artery disease, CHF, atrial fibrillation, right-sided
+     pleural effusion, status post thoracocentesis.  Evaluate for possible
+     pneumothorax.
+     
+     FINDINGS:  AP single view of the chest has been obtained with the patient in
+     upright sitting position.  Analysis is performed in direct comparison with a
+     similar study dated [**2753-1-26**].  The previously described right-sided
+     pleural effusion is practically unchanged in appearance.  It blunts the right-
+     sided diaphragmatic contours and pleural sinus completely and reaches up to
+     the minor fissure.  There is no evidence of pneumothorax on either right or
+     left side.  Previously described cardiomegaly and the presence of a left-sided
+     permanent pacer with right atrial and biventricular pacing electrodes is
+     unchanged.
+     
+     IMPRESSION:  No evidence of pneumothorax after thoracocentesis.Unchanged
+     right-sided pleural effusion.
+     
+
+",,
+14169,10917,,,2753-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-29**] 1:41 PM
+     SHOULDER 1 VIEW LEFT; FOREARM (AP & LAT) LEFT                   Clip # [**Clip Number (Radiology) 6980**]
+     WRIST(3 + VIEWS) LEFT
+     Reason: eval for fracture                                           
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with MMP, p/w LUE swelling and tenderness. ? fracture           
+     REASON FOR THIS EXAMINATION:
+      eval for fracture                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LEFT SHOULDER, LEFT WRIST, AND LEFT FOREARM, EIGHT VIEWS
+     
+     INDICATION:  85-year-old man with multiple medical problems, now presenting
+     with left upper extremity swelling and tenderness.  Evaluate for fracture.
+     
+     FINDINGS:  There is an AICD device seen projecting over the left anterior
+     chest wall with leads extending into the chest, incompletely evaluated.  There
+     is degenerative change of the acromioclavicular joint, with numerous foci of
+     mineralization adjacent to AC joint, which may reflect site of old trauma.  No
+     acute proximal humeral fracture is seen.  In the wrist, there are numerous
+     erosions seen including an erosion of the carpus.  Prominent cyst formation is
+     seen at the first MCP and first CMC joints.  Severe degenerative changes are
+     seen in these locations as well.  Mineralization is seen adjacent to the
+     medial humeral epicondyle which could reflect small intraarticular loose
+     bodies versus mineralization in the proximal aspect of the common flexor
+     tendon. Osseous irregularity of the lateral humeral epicondyle is also seen.
+     
+     IMPRESSION:
+     
+     1.  No definite acute fracture or dislocation.
+     
+     2.  Severe degenerative changes of the first MCP and first CMC joints with
+     prominent subchondral cyst formation.  Additional erosion of the carpus is
+     also seen, nonspecific.
+     
+     3.  Unusual appearance of the soft tissues likely reflects an external wrap
+     or bandage.
+     
+     4.  Degenerative change of the acromioclavicular joint with adjacent foci of
+     mineralization that may reflect old trauma.
+
+",,
+14169,10917,,,2753-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-29**] 1:41 PM
+     SHOULDER 1 VIEW LEFT; FOREARM (AP & LAT) LEFT                   Clip # [**Clip Number (Radiology) 6980**]
+     WRIST(3 + VIEWS) LEFT
+     Reason: eval for fracture                                           
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with MMP, p/w LUE swelling and tenderness. ? fracture           
+     REASON FOR THIS EXAMINATION:
+      eval for fracture                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LEFT SHOULDER, LEFT WRIST, AND LEFT FOREARM, EIGHT VIEWS
+     
+     INDICATION:  85-year-old man with multiple medical problems, now presenting
+     with left upper extremity swelling and tenderness.  Evaluate for fracture.
+     
+     FINDINGS:  There is an AICD device seen projecting over the left anterior
+     chest wall with leads extending into the chest, incompletely evaluated.  There
+     is degenerative change of the acromioclavicular joint, with numerous foci of
+     mineralization adjacent to AC joint, which may reflect site of old trauma.  No
+     acute proximal humeral fracture is seen.  In the wrist, there are numerous
+     erosions seen including an erosion of the carpus.  Prominent cyst formation is
+     seen at the first MCP and first CMC joints.  Severe degenerative changes are
+     seen in these locations as well.  Mineralization is seen adjacent to the
+     medial humeral epicondyle which could reflect small intraarticular loose
+     bodies versus mineralization in the proximal aspect of the common flexor
+     tendon. Osseous irregularity of the lateral humeral epicondyle is also seen.
+     
+     IMPRESSION:
+     
+     1.  No definite acute fracture or dislocation.
+     
+     2.  Severe degenerative changes of the first MCP and first CMC joints with
+     prominent subchondral cyst formation.  Additional erosion of the carpus is
+     also seen, nonspecific.
+     
+     3.  Unusual appearance of the soft tissues likely reflects an external wrap
+     or bandage.
+     
+     4.  Degenerative change of the acromioclavicular joint with adjacent foci of
+     mineralization that may reflect old trauma.
+
+",,
+14169,10917,,,2753-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-29**] 1:41 PM
+     SHOULDER 1 VIEW LEFT; FOREARM (AP & LAT) LEFT                   Clip # [**Clip Number (Radiology) 6980**]
+     WRIST(3 + VIEWS) LEFT
+     Reason: eval for fracture                                           
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with MMP, p/w LUE swelling and tenderness. ? fracture           
+     REASON FOR THIS EXAMINATION:
+      eval for fracture                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LEFT SHOULDER, LEFT WRIST, AND LEFT FOREARM, EIGHT VIEWS
+     
+     INDICATION:  85-year-old man with multiple medical problems, now presenting
+     with left upper extremity swelling and tenderness.  Evaluate for fracture.
+     
+     FINDINGS:  There is an AICD device seen projecting over the left anterior
+     chest wall with leads extending into the chest, incompletely evaluated.  There
+     is degenerative change of the acromioclavicular joint, with numerous foci of
+     mineralization adjacent to AC joint, which may reflect site of old trauma.  No
+     acute proximal humeral fracture is seen.  In the wrist, there are numerous
+     erosions seen including an erosion of the carpus.  Prominent cyst formation is
+     seen at the first MCP and first CMC joints.  Severe degenerative changes are
+     seen in these locations as well.  Mineralization is seen adjacent to the
+     medial humeral epicondyle which could reflect small intraarticular loose
+     bodies versus mineralization in the proximal aspect of the common flexor
+     tendon. Osseous irregularity of the lateral humeral epicondyle is also seen.
+     
+     IMPRESSION:
+     
+     1.  No definite acute fracture or dislocation.
+     
+     2.  Severe degenerative changes of the first MCP and first CMC joints with
+     prominent subchondral cyst formation.  Additional erosion of the carpus is
+     also seen, nonspecific.
+     
+     3.  Unusual appearance of the soft tissues likely reflects an external wrap
+     or bandage.
+     
+     4.  Degenerative change of the acromioclavicular joint with adjacent foci of
+     mineralization that may reflect old trauma.
+
+",,
+14169,10917,,,2753-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-30**] 2:48 PM
+     CHEST (LAT DECUB ONLY)                                          Clip # [**Clip Number (Radiology) 6983**]
+     Reason: eval for layering of remaining effusion                     
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with persistent R sided pleural effusion s/p thoracentesis. 
+      Eval for loculated effusion
+     REASON FOR THIS EXAMINATION:
+      eval for layering of remaining effusion                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT LATERAL DECUBITUS CHEST RADIOGRAPH OF [**2753-1-30**].
+     
+     COMPARISON:  AP portable chest of [**2753-1-29**].
+     
+     INDICATION:  Status post thoracentesis.  Reevaluate right pleural effusion.
+     
+     Residual moderate right pleural effusion is apparently at least
+     partially loculated laterally lower right hemithorax and has an intrafissural
+     component as well.
+
+",,
+14169,10917,,,2753-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-30**] 1:40 PM
+     ART DUP EXT LOW/BILAT COMP; ART EXT (REST ONLY)                 Clip # [**Clip Number (Radiology) 6982**]
+     Reason: Please assess bypass graft in groin for flow, stenosis or an
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      Please assess bypass graft in groin for flow, stenosis or aneurysm.             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ARTERIAL STUDY OF THE LOWER EXTREMITIES
+     
+     HISTORY:  Lower extremity bypass graft.
+     
+     FINDINGS:  Duplex and color Doppler of both inguinal areas demonstrate patent
+     common femoral arteries.  There is no evidence of graft involving either
+     inguinal region.  There is a simple fluid collection within the right and left
+     inguinal regions noted.
+                                                                           
+
+",,
+14169,10917,,,2753-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14169,10917,,,2753-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-1-30**] 1:40 PM
+     ART DUP EXT LOW/BILAT COMP; ART EXT (REST ONLY)                 Clip # [**Clip Number (Radiology) 6982**]
+     Reason: Please assess bypass graft in groin for flow, stenosis or an
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      Please assess bypass graft in groin for flow, stenosis or aneurysm.             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ARTERIAL STUDY OF THE LOWER EXTREMITIES
+     
+     HISTORY:  Lower extremity bypass graft.
+     
+     FINDINGS:  Duplex and color Doppler of both inguinal areas demonstrate patent
+     common femoral arteries.  There is no evidence of graft involving either
+     inguinal region.  There is a simple fluid collection within the right and left
+     inguinal regions noted.
+                                                                           
+
+",,
+14169,10917,,,2753-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-1**] 10:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6984**]
+     Reason: Please eval for infiltrate vs consolidation                 
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with CAD, CHF, AF, R-sided pleural effusion s/p 
+      thoracentesis, now spiking fevers                                    
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrate vs consolidation                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE UPRIGHT CHEST OF [**2753-2-1**].
+     
+     INDICATION:  Spiking fevers.
+     
+     ICD/pacing device is unchanged in position.  Cardiac silhouette remains
+     enlarged and there is upper zone vascular redistribution and mild interstitial
+     edema present.  Moderate right pleural effusion appears slightly larger, with
+     adjacent atelectasis.  No left pleural effusion is evident.
+                                                                           
+
+",,
+14169,10917,,,2753-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-2**] 11:11 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 6985**]
+     Reason: please check placement r bas for abx (48 cm) call beeper [**Pager number **]
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old man with CAD, CHF, AF, R-sided pleural effusion s/p  
+      thoracentesis, now spiking fevers                                    
+     REASON FOR THIS EXAMINATION:
+      please check placement r bas for abx (48 cm) call beeper [**Pager number 1918**] with wet read 
+      asap thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right PICC placement for antibiotics.  History of CAD, CHF and
+     AF.
+     
+     COMPARISON:  [**2753-2-1**].
+     
+     SINGLE AP SEMI-UPRIGHT BEDSIDE CHEST RADIOGRAPH:  Right PICC enters the SVC,
+     though the tip cannot be delineated due to overlapping pacemaker leads.  The
+     ICD/pacing device is in unchanged position.  Mild cardiomegaly, vascular
+     engorgement, mild interstitial edema, and moderate right pleural effusion are
+     unchanged.  No left-sided pleural effusion.
+     
+     IMPRESSION:  Right PICC enters the SVC, but tip is not clearly visualized. For
+     definitive localization, PA and lateral views are recommended.  Otherwise
+     unchanged appearance of the chest.
+
+",,
+14169,10917,,,2753-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-2**] 1:09 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6986**]
+     Reason: please check placement r bas picc (48 cm) tip could not be s
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with CHF, HTN, DM, and biV pacemaker placement presents with  
+      inconsistent ventricular pacing. 
+     REASON FOR THIS EXAMINATION:
+      please check placement r bas picc (48 cm) tip could not be seen on prev film    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  PA and lateral chest.
+     
+     INDICATION:  PICC line placement.
+     
+     PA and lateral views of the chest are obtained [**2753-2-2**] at 12:16 hours and
+     compared with the film taken approximately 45 minutes earlier.  A right-sided
+     PICC line is visualized on the current examination appears to have its tip
+     projected over at the distal SVC just proximal to the cavoatrial junction. The
+     remainder of the examination is essentially unchanged since the prior study,
+     with cardiomegaly, vascular engorgement and right-sided pleural effusion.
+     
+     IMPRESSION:
+     
+     Right-sided PICC line appears to have its tip projected over the distal SVC.
+
+",,
+14169,10917,,,2753-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-3**] 5:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6987**]
+     Reason: r/o pneumonia                                               
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with CAD, CHF, AF, R-sided pleural effusion now w/ fever and 
+      resp distress.                               
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old man with CAD, CHF, atrial fibrillation, right-sided
+     pleural effusion, presenting with fever and respiratory distress.
+     
+     COMPARISON:  Multiple radiographs, most recent dated [**2753-2-2**].
+     
+     AP CHEST:  The degree of cardiomegaly is essentially unchanged.  Again noted
+     upper zone vascular redistribution and mild interstitial edema.  Right- sided
+     pleural effusion has increased in size from previous examination.  The
+     underlying pneumonia cannot be entirely excluded.  The position of the
+     pacemaker leads is unchanged.
+     
+     The position of the tip of the PICC is difficult to visualize, as it is
+     obscured by pacemaker leads and multiple external wires.
+     
+     IMPRESSION:
+     1.  Interval increase in size of moderate right-sided pleural effusion,
+     underlying pneumonia cannot be entirely excluded.
+     2.  Unchanged degree of cardiomegaly and vascular engorgement and upper zone
+     redistribution.
+
+",,
+14169,10917,17614,,2753-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-4**] 11:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6988**]
+     Reason: assess for ETT placement - tube was replaced                
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with CAD, CHF, AF, R-sided pleural effusion now w/ fever and  
+       resp distress.                               
+     REASON FOR THIS EXAMINATION:
+      assess for ETT placement - tube was replaced                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old woman with coronary disease, CHF, and right-sided
+     pleural effusion, now with fever and respiratory distress. 
+     COMPARISON:  [**2753-2-3**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There is a persistent large right, and smaller
+     left, layering pleural effusion, which accounting for differences in position,
+     is unchanged. There is associated opacity at the right lung base, which may
+     represent atelectasis, though associated consolidation cannot be excluded.
+     There is stable globular enlargement of the cardiac silhouette. Stable mild
+     pulmonary vascular congestion.  Again seen is a right PICC in the upper SVC,
+     and a left-sided pacemaker.
+     
+     IMPRESSION:  Large right pleural effusion, which is not significantly changed
+     accounting for differences in position.  There is associated opacity,
+     suggesting atelectasis, although underlying pneumonia is not excluded.  No
+     significant interval change.
+
+",,
+14169,10917,17614,,2753-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-4**] 7:16 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6989**]
+     Reason: S/P Right thoracentesis, please assess for pneumothorax.    
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 y.o. male with CHF and pleural effusions.                                    
+     REASON FOR THIS EXAMINATION:
+      S/P Right thoracentesis, please assess for pneumothorax.                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  86-year-old male with CHF and pleural effusions, status post right
+     thoracentesis with concern for pneumothorax.
+     
+     COMPARISON:  Study earlier today at 11:26 a.m.
+     
+     FINDINGS:  Single frontal view of the chest was obtained but does not include
+     the right costophrenic sulcus entirely in the field of view.  There has been
+     significant improvement if not complete resolution of the right pleural
+     effusion consistent with interval thoracentesis.  There has been no
+     significant change in a small left pleural effusion which layers posteriorly.
+     Moderate cardiomegaly is stable.  There is stable mild pulmonary vascular
+     congestion.  Right-sided PICC catheter terminates near the cavoatrial
+     junction.  Left-sided dual-lead pacemaker is unchanged.
+     
+     IMPRESSION:  Significant interval improvement in right pleural effusion
+     consistent with interval thoracentesis.  Persistent small left pleural
+     effusion and pulmonary vascular congestion.
+
+",,
+14169,10917,17614,,2753-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-4**] 7:16 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6989**]
+     Reason: S/P Right thoracentesis, please assess for pneumothorax.    
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 y.o. male with CHF and pleural effusions.                                    
+     REASON FOR THIS EXAMINATION:
+      S/P Right thoracentesis, please assess for pneumothorax.                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  86-year-old male with CHF and pleural effusions, status post right
+     thoracentesis with concern for pneumothorax.
+     
+     COMPARISON:  Study earlier today at 11:26 a.m.
+     
+     FINDINGS:  Single frontal view of the chest was obtained but does not include
+     the right costophrenic sulcus entirely in the field of view.  There has been
+     significant improvement if not complete resolution of the right pleural
+     effusion consistent with interval thoracentesis.  There has been no
+     significant change in a small left pleural effusion which layers posteriorly.
+     Moderate cardiomegaly is stable.  There is stable mild pulmonary vascular
+     congestion.  Right-sided PICC catheter terminates near the cavoatrial
+     junction.  Left-sided dual-lead pacemaker is unchanged.
+     
+     IMPRESSION:  Significant interval improvement in right pleural effusion
+     consistent with interval thoracentesis.  Persistent small left pleural
+     effusion and pulmonary vascular congestion.
+
+",,
+14169,10917,17614,0,2753-02-04 04:39:00 EST,2753-02-04 04:42:00 EST,7782,"N",54,"Nursing/Other","REspiratory Care","
+REspiratory Care
+Pt seen for routine adm. of atrovent via SVN. BS with fine bibasiler inspiratory rales and few scattered exp wheezes, decreased aeration T/O.  No appreciable benefit after treatment.  Wheezes may benefit better with use of a beta adrenergic, thou at this time albuterol being held due to concern for tachycardia.  Respiratory CAre to contiue to follow as ordered.
+",,
+14169,10917,17614,0,2753-02-04 05:06:00 EST,2753-02-04 05:10:00 EST,3273,"N",54,"Nursing/Other",,"
+
+NPN (NOC):
+
+PLEASE SEE FHPA AND FLOW SHEET FOR DETAILS OF PMHX, HPI AND ASSESSMENT.  BRIEFLY, PT IS AN 85 Y/O MAN WHO PRESENTED TO THE MICU LAST EVENING FOR HYPOXIA/HYPOTENSION.  HE IS OXYGENATING BETTER ON 100% CN AND SBP'S ARE BETTER ON 3 MCG'S OF DOPAMINE.  WORKING DIAGNOSIS IS CHF EXACERBATION IN THE SETTING OF SEPSIS.  PT WAS CX'D ON THE FLOOR AND IS GETTING ANTI'B'S.  WE ARE LIMITED IN THE AMT OF FLUIDS WE CAN GIVE D/T CHF.  HE IS DNR BUT WOULD BE INTUBATED FOR REVERSIBLE CAUSES.  SON IS HIS PROXY AND HAS BEEN UPDATED ON PT'S CONDITION BY THE TEAM.      
+",,
+14169,10917,17614,0,2753-02-04 14:49:00 EST,2753-02-04 15:50:00 EST,9093,"N",54,"Nursing/Other","MICU 6 Nurse Progress Note 7a-7p","
+MICU 6 Nurse Progress Note 7a-7p
+pt is an 85 yo male admitted to MICU [**2753-2-3**] with hypotension/ hypothermia from [**Hospital Ward Name **] 6 where he was admitted [**2753-1-26**] from his reg sched EP appt with worsening SOB, increased peripheral edema, and LUE worsening cellulitis vs thrombophlebitis. PMH: CHF w/ ef 30%; HTN; a-fib (on coumadin); CAD; hx MI '[**45**]; NIDDM dx in [**2710**]; BiV ICD device in 08/05. s/p hernia repair; CRI w/ baseline cr 1.5; Bilat CFA/PFA endarterectomies and patch angioplasties [**2752-12-2**]. Presented to MICU [**2-3**] at 23:00 with sbp's in the 80's and temp 94-95 po. pt placed on dopamine for ~5min but his b/p returned to baseline for approx 5h when he became hypotensive again.  He was again placed on dopamine for 1 1/2-2hours until b/p again returned to baseline, the dopa was D/C'ed 5:30am- His B/P remains at baseline at this time. CXR and US shows a large right pleural effusion and ?PNA. 
+
+Events: pt off dopamine since 5:30 am with b/p at baseline. CXR and US show large RLL pleural effusion, thoracentesis pending. Pt was on Heparin drip at 850 units/hr with theraputic PTT. Heparin stopped at 10:00 pending thoracentesis.
+
+Pulm: CXR shows RLL effusion, and ?pna. US done, thoracentsis planned for RLL effusion. pt on face tent at 100% which was decreased to 70% at 9am and remains there at this time with rr 16-24 and 02 sats 98-100%. LS rhonchi throughout, pt NT suctioned for large amount of tan creamy secretions. sputum culture ordered. Pt remains on Vancomycin and Zosyn for tx of pna.
+
+Cardiac: on cardiac monitor afib/vpacing with rare PVC's. ABP 100-129/44-59. hr 70's-80's. off dopammine since 5:30 am. PTT 76.4, heparin drip stopped and pt recieved 1 unit FFP for INR of 1.8 and pending thoracentesis. CPK 37, troponin 0.14 (pt has had increased troponin 0.09-.15 since [**10-22**]. WBC's 5.6.  
+
+Neuro: pt was alert cooperative at start of shift but became increasingly fatigued/ lethargic as the day wore on. Pt is oriented x3. 
+
+GI/GU: remains NPO except for meds r/t ?asp pna. abd soft and non tender with normal BS x4 quads, no stool noted yet this shift.  Foley cath patent/ intact draining clear yellow urine at 25-130ml/hr. fluid balance negative approx 500ml this shift.
+
+Endocrine: FSBS in mid 100's, maintained on HISS.
+
+Skin: placed on air mattress r/t risk for breakdown. also pt has dime size open area on achillies tendon, wet-moist dressing applied. No evidence of LUE cellulitis noted. 
+
+Access: R DL PICC placed [**2-3**] patent WNL, R Aline patent dsg intact.
+
+Social: son and neice in to visit. Son gave consents for ICU admit, blood products, and thoracentesis.
+
+Plan: Diagnostic thoracentesis, restart anticoagulation for a-fib, monitor b/p and tx with pressors as needed, continue IV abx for tx of pna, and restart PO diet when pt able to tolerate.
+   
+",,
+14169,10917,17614,0,2753-02-04 17:06:00 EST,2753-02-04 17:08:00 EST,7975,"N",54,"Nursing/Other",,"
+
+Respiratory Care:pt seen for neb txs. Lung sounds crackles throughout lung fields. Pt with weak cough, NT suctioned by RN. Pt tolerated txs well.
+",,
+14169,10917,17614,0,2753-02-04 17:56:00 EST,2753-02-04 18:00:00 EST,9093,"N",54,"Nursing/Other","addendum","
+addendum
+thoracentesis done at 18:30. pt tolerated procedure well. 02 sat 90-92% on 70% facemask, 02 increased to 100% facemask during procedure, with iimediate increase in 02 sat to 98-100%. abp 115-130/ 40-60 during procedure. pt denied pain or sob throughout procedure. 1400ml pleural fluid removed, all pleural fluid labs sent a/o. 
+",,
+14169,10917,17614,,2753-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-5**] 2:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6990**]
+     Reason: assess for interval change in infiltrate/effusion           
+     Admitting Diagnosis: PULMONARY INFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with CAD, CHF, AF, R-sided pleural effusion now w/ fever and  
+      resp distress.                               
+     REASON FOR THIS EXAMINATION:
+      assess for interval change in infiltrate/effusion                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CAD, CHF, afib and right pleural effusion, now with fever.
+     Evaluate infiltrate or effusion.
+     
+     COMPARISON:  [**2753-1-7**] at  7:30 p.m.
+     
+     SINGLE AP UPRIGHT BEDSIDE CHEST RADIOGRAPH:  Small right pleural effusion has
+     increased slightly in size, while the left-sided effusion appears nearly
+     completely resolved.  Decreasing vascular engorgement and perihilar haze
+     suggest improved volume status.  Mild cardiomegaly is stable.  AICD/pacer
+     wires are in unchanged position projecting over the right atrium, ventricle,
+     and coronary sinus.  Surgical clips are noted in the right upper quadrant.
+     
+     IMPRESSION:  Small increasing right effusion and resolving left effusion.  No
+     confluent opacities to suggest pneumonia.
+     
+
+",,
+14169,10917,17614,0,2753-02-05 02:29:00 EST,2753-02-05 02:43:00 EST,4270,"N",54,"Nursing/Other","MICU nursing progress note 7P-7A","
+MICU nursing progress note 7P-7A
+S/P thorocentesis [**2-4**], 1.4 cc fluid removed. F/U CXR showed marked improvement R pleural effusion, persistent sm LLL effusion. Herparin gtt restarted @ 2200 @ 850 U/hr without bolus per HO.
+
+Neuro - A&O x 3, denies pain. Slept most of night, easily arousable. Very deconditioned, unable to assist with turns. 
+
+Resp - Received on 100% FT S/P thorocentesis, weaned FiO2 4L NC. Sats have been 97-100%. RR teens. Lungs occ Exp wheezes RML, crackles at bases, otherwise clear. Occ non-productive cough. Nebs q 6 hrs.
+
+CV - ABP decreased 72/32 last night, correlated with NBP. Gentle 250cc fluid bolus over 1 hr given with ABP^^ 100s-120s/40s. V-paced with rare PVC in 70s. Herparin gtt ^^ 2200, will check PTT at 4am. Peripheral edema in all extremities. LUE dark red--looks like chronic cellulitis with small scabbed area on upper arm. 
+
+GI - NPO x for meds which pt takes whole one at a time, HOB^^ 90. Abd soft, +BS. No stool/flatus. FSBS covered by HISS.
+
+GU - UOP 30-80cc/hr clear yellow urine. Pt 2L neg at midnite (including 1400cc removed by tap). Now running about even.
+
+Skin - Dsg on LLL D&I, w->moist dsg qd to ulcer on achilles heel. On air mattress.
+
+ID - Hypothermic, T 94 ax since adm MICU. Covered with blankets, T ^^ 95 ax. HO aware, skin is W&D, pt feels warm. On zosyn, vanco.
+
+Plan - Nebs. I&O. Heparin gtt for afib, check PTT 4AM. Antibx.
+",,
+14169,10917,17614,0,2753-02-05 05:06:00 EST,2753-02-05 05:10:00 EST,7782,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt seen for routine administration of bronchodilator therapy via SVN. BS fair aeration with fine bibasilar inspiratory rales. No wheezes appreciated pre or post treatment, BS appear unaffected by treatment. Strong congested cough able to C/R swallow secretions. Oxygenation improved over last 24 hours, pt appears a good deal stronger able to clear airways w/o need for sx. Respiratory Care to continue and follow as ordered.
+",,
+14169,10917,17614,0,2753-02-05 15:27:00 EST,2753-02-05 15:47:00 EST,6579,"N",54,"Nursing/Other",,"
+
+0700-1900 NPN:
+
+PLEASE SEE CAREVUE FLOWSHEET FOR OBJECTIVE DATA AND FURTHER SHIFT DOCUMENTATION. PT CALLED OUT TO FLOOR, AWAIT AVAILABLE BED. PLEASE SEE TRANSFER NOTE. PT ALERT AND ORIENTED X3, PLEASANT/COOPERATIVE W/ CARE, MAE, HOH. PT DENIES PAIN. S/P RIGHT THORACENTESIS [**2-4**] WITH 1.4L OF FLUID REMOVED. PT WEANED FROM 100% NRB TO 2L N/C. RR= 16-25. 02 SAT 96-100%. LS= COARSE/ BIBASILAR CRACKLES.  PT HAD COUGHING EPISODE THIS SHIFT FOR OVER 30MINS W/ INCREASED TO 100-110 AND SBP 10 130-140. PT DENIED CP. SWALLOW EVAL DONE R/T POSSIBLE ASPIRATION PNA, PT PASSED EVAL AND ATE LUNCH W/O DIFFICULTY. APPROX 1 HR LATER PT BEGAN W/ COUGHING SPELL. RT ASSESSED AND PT NT SXN FOR THICK TAN SPUTUM, ALBUTEROL/ATROVENT HHN GIVEN, AND IV LASIX 20MG ADMIN AS ORDERED. MICU TEAM MADE AWARE AND PT ASSESSED BY DR [**First Name (STitle) 5795**] [**Doctor Last Name 5796**]. COUGHING EPISODE RESOLVED. V-PACED @ 71-100. TEMP 95.3 AXILLARY, MICU TEAM AWARE ON LOW TEMP. RIGHT RADIAL ALINE INTACT, ABP= 95-130/37-51. PMH OF AICD, CAD, EF 20-30%, CHF, COPD, MI, HTN, AND ARRHYTHMIAS. PT REQUIRED DOPAMINE GTT X FEW HRS UPON ARRIVAL FROM FLOOR TO MICU ON [**2-4**] EVENING. RIGHT ANTECUB DUAL LUMEN PICC INTACT. IV ZOSYN GIVEN FOR POSSIBLE ASPIRATION PNA AND IV VANCO GIVEN FOR LUE CELLULITIS. ABD SOFT/ NONDISTENDED. PRESENT BS, NO BM. FOLEY CATH INTACT DRAINING CLEAR YELLOW URINE UOP 30-100CC/HR. AWAIT TOTAL DIURESIS FROM LASIX GIVEN @ 1600. FS QID ON S/S COVERAGE. LEFT LOWER LEG ULCERATION WET TO DRY DRSG CHANGED THIS SHIFT, DRY AND INTACT AT THIS TIME. PT ASSISTED OOB TO CHAIR W/ ASSIST X2, TOL FAIR. PT'S FAMILY VISITED THIS SHIFT AND UPDATED ON PT'S CONDITION.
+
+PLAN- ASSESS RESP STATUS, WEAN 02 AS TOLERATED. ADMIN ALBUTEROL AND ATROVENT HHN AS ORDERED. CONTINUE IV ABX AS ORDERED. ADMIN COUMADIN TONIGHT X1 DOSE, AND TRANSITION TO HEPARIN IN NEXT 24HRS. TRANSFER TO FLOOR WHEN BED AVAILABLE.
+",,
+14169,10917,17614,0,2753-02-05 16:34:00 EST,2753-02-05 16:42:00 EST,3196,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE:
+PT ON ATROVENT Q6H AND ALBUTEROL Q6PRN, GICEN BOTH BY RN Q6H.IN THE PM
+AROUND 1600 HE HAD A COUGHING JAG AND WAS DETERMINED TO BE SLIGHTLY RONCHOROUS ON THE R., WITH RAHLES BILATERALLY. I NTSX'D HIM FOR A SMALL AMOUNT OF LOOSE CLEAR SECRETION WITH SOME PALE YELLOW STREAKS
+HE WAS GIVEN A NEB TX WITH A/A AND ALSO RECIEVED LASIX. OVER THE NEXT HOUR HE WAS MUCH BETTER. STILL TO GET Q6H TX'S AND HAS BEEN CALLED OUT TO FLOOR.
+",,
+14169,10917,17614,0,2753-02-05 21:16:00 EST,2753-02-05 21:18:00 EST,7864,"N",54,"Nursing/Other","Update","
+Update
+See careview for details...
+Assessment unchanged, pt to transfer to floor. A line D/C'd, cont on heparin gtt, VSS, transfer note complete.
+",,
+14169,,,,2753-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-21**] 7:50 PM
+     CHEST (PA & LAT); CHEST (LAT DECUB ONLY)                        Clip # [**Clip Number (Radiology) 6991**]
+     Reason: please eval for pleural effusion                            
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with CHF, HTN, DM, and biV pacemaker placement presents with 
+      ? reaccumulated pleural effusion
+     REASON FOR THIS EXAMINATION:
+      please eval for pleural effusion                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  PA and lateral chest.
+     
+     INDICATION:  Congestive heart failure.
+     
+     PA and lateral views of the chest are obtained on [**2753-2-21**] at 1955 hours and
+     compared with the most recent radiograph performed on [**2753-2-5**].  The patient
+     has developed a large right-sided pleural effusion.  There are also increased
+     interstitial markings in the perihilar location, particularly marked on the
+     right side.  The findings are consistent with congestive failure.  In
+     addition, there is complete loss of the right hemidiaphragm shadow with
+     increased density in the right lower lobe which is likely largely due to the
+     effusion but associated atelectasis/airspace disease at the right base cannot
+     be excluded.  Small left pleural effusion is present.  There is a transvenous
+     AICD device with leads in appropriate position.
+     
+     IMPRESSION:
+     
+     Large right pleural effusion developing since prior examination.  Small left
+     pleural effusion.  Findings consistent with congestive failure.
+     
+     Dr. [**First Name8 (NamePattern2) 6992**] [**Last Name (NamePattern1) 6046**] was notified by telephone at the time of this dictation.
+     
+
+",,
+14169,,,,2753-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-21**] 7:50 PM
+     CHEST (PA & LAT); CHEST (LAT DECUB ONLY)                        Clip # [**Clip Number (Radiology) 6991**]
+     Reason: please eval for pleural effusion                            
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with CHF, HTN, DM, and biV pacemaker placement presents with 
+      ? reaccumulated pleural effusion
+     REASON FOR THIS EXAMINATION:
+      please eval for pleural effusion                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  PA and lateral chest.
+     
+     INDICATION:  Congestive heart failure.
+     
+     PA and lateral views of the chest are obtained on [**2753-2-21**] at 1955 hours and
+     compared with the most recent radiograph performed on [**2753-2-5**].  The patient
+     has developed a large right-sided pleural effusion.  There are also increased
+     interstitial markings in the perihilar location, particularly marked on the
+     right side.  The findings are consistent with congestive failure.  In
+     addition, there is complete loss of the right hemidiaphragm shadow with
+     increased density in the right lower lobe which is likely largely due to the
+     effusion but associated atelectasis/airspace disease at the right base cannot
+     be excluded.  Small left pleural effusion is present.  There is a transvenous
+     AICD device with leads in appropriate position.
+     
+     IMPRESSION:
+     
+     Large right pleural effusion developing since prior examination.  Small left
+     pleural effusion.  Findings consistent with congestive failure.
+     
+     Dr. [**First Name8 (NamePattern2) 6992**] [**Last Name (NamePattern1) 6046**] was notified by telephone at the time of this dictation.
+     
+
+",,
+14169,,,,2753-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-23**] 7:33 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6994**]
+     Reason: rule out pneumothorax s/p R thoracentesis                   
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        86 y.o. male with CHF and pleural effusions, now s/p R thoracentesis.         
+       
+     REASON FOR THIS EXAMINATION:
+      rule out pneumothorax s/p R thoracentesis                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86-year-old man with right thoracentesis.
+     
+     Comparison is made to prior study done six hours earlier.
+     
+     Since prior study, there has been significant reduction in the right pleural
+     effusion.  The moderately enlarged heart is unchanged.  Mediastinal and hilar
+     contours are unremarkable.  Left lung is clear.  There are some areas of
+     atelectasis at right lung base.  The patient is status post three-lead
+     pacemaker in proper position.  No pneumothorax is detected.  Cholecystectomy
+     clips in the right upper quadrant.
+     
+     Status post right thoracentesis with significant reduction in the right-sided
+     pleural effusion and no pneumothorax.  The remainder of the study is unchanged
+     compared to prior studies.
+                                                                           
+
+",,
+14169,,,,2753-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-23**] 7:33 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 6994**]
+     Reason: rule out pneumothorax s/p R thoracentesis                   
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        86 y.o. male with CHF and pleural effusions, now s/p R thoracentesis.         
+       
+     REASON FOR THIS EXAMINATION:
+      rule out pneumothorax s/p R thoracentesis                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86-year-old man with right thoracentesis.
+     
+     Comparison is made to prior study done six hours earlier.
+     
+     Since prior study, there has been significant reduction in the right pleural
+     effusion.  The moderately enlarged heart is unchanged.  Mediastinal and hilar
+     contours are unremarkable.  Left lung is clear.  There are some areas of
+     atelectasis at right lung base.  The patient is status post three-lead
+     pacemaker in proper position.  No pneumothorax is detected.  Cholecystectomy
+     clips in the right upper quadrant.
+     
+     Status post right thoracentesis with significant reduction in the right-sided
+     pleural effusion and no pneumothorax.  The remainder of the study is unchanged
+     compared to prior studies.
+                                                                           
+
+",,
+14169,,,,2753-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-23**] 1:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6993**]
+     Reason: PNA?                                                        
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 y.o. male with CHF and pleural effusions, now worsening expectoration and 
+      rising WBC                                 
+     REASON FOR THIS EXAMINATION:
+      PNA?                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86-year-old man with CHF and pleural effusions, now with
+     worsening expectoration and leukocytosis.
+     
+     COMPARISON:  PA and lateral chest x-ray dated [**2753-2-21**].
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  A left chest wall triple lead pacemaker is
+     seen with leads adjacent to the right atrium, right ventricle, and within the
+     coronary sinus.  The cardiac silhouette is upper limits of normal but stable.
+     A right PIC catheter terminates in the mid SVC.  A large, layering right
+     pleural effusion is stable in size.  There is a new small left pleural
+     effusion, with opacification at the left lung base.  Cholecystectomy clips in
+     the right upper quadrant.  Degenerative changes along the thoracic spine.
+     
+     IMPRESSION:  New small left pleural effusion, with left lower lobe
+     consolidation.  Underlying pneumonia is not excluded.  Stable large right
+     pleural effusion.
+
+",,
+14169,,,,2753-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-24**] 2:06 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6995**]
+     Reason: -Assess for new stroke causing left facial droop.           
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with questionable new onset of left facial droop. PMHx notable 
+      for CHF, Afib, CAD, CKD, DM2.  Ct head 3 days PTA revealed left 
+      frontal/parietal hypodensities.
+     REASON FOR THIS EXAMINATION:
+      -Assess for new stroke causing left facial droop.                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86-year-old man with questionable new onset of left facial drop.
+     Patient has history of CHF, a-fib, CAD, CKD, DM.
+     
+     COMPARISON:  [**2753-1-29**], demonstrating areas of encephalomalacia involving
+     the left frontal lobe, right parietal lobe, and right motor cortex.
+     
+     TECHNIQUE:  Contiguous 5-mm axial images were obtained from the skull base to
+     the vertex.
+     
+     CT HEAD WITHOUT CONTRAST:  Motion artifact degrades the quality of the study.
+     Since prior examination, there has been no significant interval change.  Again
+     noted, in the left frontal lobe, right parietal lobe, and right motor cortex
+     are areas of encephalomalacia, unchanged when compared to the prior study.
+     Unchanged minimal cerebral periventricular white matter hypodensities likely
+     represent chronic microvascular infarcts.  Unchanged lacunar infarction in the
+     anterior limb of the right internal capsule is seen.
+     
+     The ventricles appear enlarged and unchanged in configuration. Left maxillary
+     sinus fluid level with thickening of the bony sinus walls likely represents
+     acute supermiposed upon on chronic sinusitis, and unchanged from prior
+     examination. Stable grade 1 degenerative spondylolisthesis of C4 on C5 seen on
+     the scout images is again noted.
+     
+     IMPRESSION:
+     1.  No acute intracranial abnormalities.
+     2.  Stable encephalomalacia involving the left frontal and right parietal
+     lobes, as well as the right motor cortex.
+     
+     
+     
+     
+     
+
+",,
+14169,,,,2753-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-24**] 6:08 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 6996**]
+     Reason: Assess for pneumonia and malignant process (mesothelioma) th
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with chronic right pleural effusions requiring several 
+      thoracenteses.  CHF and smoking history.
+     REASON FOR THIS EXAMINATION:
+      Assess for pneumonia and malignant process (mesothelioma) that could contribute 
+      to chronic effusions.
+     CONTRAINDICATIONS for IV CONTRAST:
+      elevated Creatinine
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of pleural effusion.
+     
+     TECHNIQUE:  Unenhanced MDCT of the chest from thoracic inlet to upper abdomen
+     was obtained with subsequent 1.25- and 5-mm collimations axial and 5-mm
+     coronal reformations reviewed.
+     
+     COMPARISON:  Serial chest radiographs from [**12-15**] to [**2753-2-23**].
+     
+     FINDINGS:
+     
+     Bilateral pleural effusion is small to moderate partially loculated on the
+     right and small on the left. No pleural mass or pleural thickening were
+     identified on this non- enhanced study.
+     
+     The airways are patent to the level of segmental bronchi with predominately
+     lower lobe bronchial thickening as well as narrowing of the origin of bronchus
+     intermedius, right middle and right lower lobe bronchi, suggesting
+     bronchomalacia.
+     
+     Ground glass opacities in the upper lobes most likely represent congestive
+     heart failure, also the right lower lobe patchy consolidation might be either
+     related to the same process or could represent infection or aspiration.
+     
+     The heart size is markedly enlarged, involving all 4 [**Doctor Last Name 6997**].  Coronary
+     calcification is severe and an LAD stent is present.  Three pacemaker leads
+     terminate in the right atrium, right ventricle and a left epicardial vein.
+     Mitral valve and aortic annulus calcifications are severe. There is no
+     pericardial effusion.
+     
+     Multiple mediastinal lymph nodes involve all mediastinal stations, ranging up
+     to 1.2 cm in subcarinal area and might be related to the longstanding heart
+     failure as well as to the longstanding pleural effusion.
+     
+     Imaged portion of the upper abdomen demonstrates perisplenic fluid, most
+     likely representing ascites.  The patient is after cholecystectomy. Low-
+     density (16 Hounsfield units), super-5-mm, round lesion in the upper pole of
+     the left kidney may represent cortical cyst.
+     
+                                                                 (Over)
+
+     DATE: [**2753-2-24**] 6:08 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 6996**]
+     Reason: Assess for pneumonia and malignant process (mesothelioma) th
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There are no bone lesions suspicious for malignancy.
+     
+     IMPRESSION:
+     1.  Bilateral, loculated, right more than left, pleural effusion with no
+     pleural masses or pleural thickening demonstrated on this unenhanced study.
+     
+     2.  Ground glass opacities and lower lobe consolidation may be related to
+     congestive heart failure, but infection, aspiration, or hemorrhage likely in
+     the right lower lobe.
+     
+     3.  Severe  coronary artery disease.
+     
+     4.  Cardiomegaly.
+     
+     5.  Ascites.
+     
+
+",,
+14169,,,,2753-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-25**] 10:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6998**]
+     Reason: please assess NG tube placement                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 y.o. male with CHF and pleural effusions, now status post NG tube placement 
+                
+     REASON FOR THIS EXAMINATION:
+      please assess NG tube placement                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess NG tube placement.
+     
+     PORTABLE CHEST:  NG tube courses below the diaphragm with tip below the edge
+     of the film. Leads of a biventricular pacer are unchanged. Compared to [**2-23**], small bilateral pleural effusions persist, right greater than left.
+     Opacity in the right mid and lower lung fields and left base have progressed
+     since the 9th. No pneumothorax. Moderate enlargement of the cardiac silhouette
+     is unchanged.
+     
+     IMPRESSION:
+     1.  Multifocal opacity which may represent an infectious process vs asymmetric
+     edema.
+     2.  Persistent small bilateral pleural effusions.
+
+",,
+14169,,,,2753-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-26**] 10:36 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 7003**]
+     Reason: Assesment of NG tube                                        
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        86 y.o. male with CHF and pleural effusions, now status post NG tube 
+      placement            
+     REASON FOR THIS EXAMINATION:
+      Assesment of NG tube                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  86-year-old male with CHF and pleural effusion.  Now status
+     post NG tube placement.  Assess NG tube.
+     
+     AP CHEST RADIOGRAPH:  Compared to radiograph obtained two hours prior, There
+     has been placement of a NG tube with tip terminating in the stomach.  Allowing
+     for technical differences, there is no significant change of bilateral lung
+     opacity and pleural effusions.  Cardiomediastinal contour is stable.
+                                                                           
+
+",,
+14169,,,,2753-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-26**] 10:36 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 7003**]
+     Reason: Assesment of NG tube                                        
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        86 y.o. male with CHF and pleural effusions, now status post NG tube 
+      placement            
+     REASON FOR THIS EXAMINATION:
+      Assesment of NG tube                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  86-year-old male with CHF and pleural effusion.  Now status
+     post NG tube placement.  Assess NG tube.
+     
+     AP CHEST RADIOGRAPH:  Compared to radiograph obtained two hours prior, There
+     has been placement of a NG tube with tip terminating in the stomach.  Allowing
+     for technical differences, there is no significant change of bilateral lung
+     opacity and pleural effusions.  Cardiomediastinal contour is stable.
+                                                                           
+
+",,
+14169,,,,2753-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-26**] 8:20 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 7001**]
+     Reason: SOB RULE OUT HEPATIC / HYDROTHORAX ASSESS FOR ASCITES
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with persistent pleural effusion of [**Last Name (un) 7002**] etiology. Rule out 
+      hepatic hydrothorax
+     REASON FOR THIS EXAMINATION:
+      Rule out hepatic hydrothorax, assess for ascites in abdomen                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Abdominal ultrasound.
+     
+     CLINICAL HISTORY:  86-year-old man with persistent pleural effusion of unknown
+     etiology.  Rule out hepatic hydrothorax.  Assess for ascites in abdomen.
+     
+     Comparison made to prior stress CT of the chest dated [**2753-2-24**].
+     
+     FINDINGS:  There are bilateral pleural effusions, right greater than left.  A
+     small pocket of ascites is seen in the right upper quadrant adjacent to the
+     liver.  No other significant areas of ascites are seen in the remainder of the
+     abdomen.
+     
+     Limited evaluation of the kidneys reveals the presence of cysts in the lower
+     pole of the right kidney and in the upper pole of the left kidney, the latter
+     of which corresponds to CT findings.
+     
+     IMPRESSION:
+     
+     1.  Bilateral pleural effusions, right greater than left.
+     
+     2.  Small pocket of ascites in right upper quadrant.
+                                                                           
+
+",,
+14169,,,,2753-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-26**] 8:18 AM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 7000**]
+     Reason: R LE ULCER
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with CHF, CAD, DM, p/w pleural effusion and R LE ulcer         
+                                                    
+     REASON FOR THIS EXAMINATION:
+      please do ABI-PVR to assess vascular disease                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with CHF, CAD, DM.  Presenting with right lower
+     extremity ulcer.
+     
+     RADIOLOGIST:  The study was read by Dr. [**First Name (STitle) 608**] [**Name (STitle) 609**].
+     
+     TECHNIQUE:  Noninvasive evaluation of the arterial system in the lower
+     extremities was performed with Doppler signal, pulse volume recording, and
+     segmental limb pressure measurements.
+     
+     FINDINGS:  Doppler signal recording showed monophasic waveforms bilaterally at
+     the femoral, popliteal, posterior tibial and dorsalis pedis arteries.
+     
+     Pulse volume recordings showed symmetrically reduced amplitudes bilaterally. 
+     The right ABI was 0.69 and the left ABI was 1.69.  However, the left ABI is
+     probably artifactually increased.
+     
+     COMPARISON:  Compared to the noninvasive arterial study obtained on [**2753-1-30**],
+     there appears to be mild progression of disease on the left side.
+     
+     IMPRESSION:  Moderate bilateral inflow and outflow arterial insufficiency in
+     the lower extremities.
+
+",,
+14169,,,,2753-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-26**] 7:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6999**]
+     Reason: assess pleural effusion                                     
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 y.o. male with CHF and pleural effusions, now status post R thoracentesis.   
+              
+     REASON FOR THIS EXAMINATION:
+      assess pleural effusion                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Followup after right thoracocentesis.
+     
+     COMPARISON:  Chest radiograph from [**2753-2-25**].
+     
+     The current chest radiograph again demonstrates bilateral basilar right more
+     than left pulmonary consolidations accompanied by bilateral pleural effusion. 
+     The heart size is moderately enlarged but stable.  The mild degree of
+     pulmonary edema is unchanged.  There is no change also in the bilateral small
+     pleural effusions.  The three-lead pacemaker is again demonstrated in
+     unchanged position.  The NG tube was pulled out in the meantime interval.  The
+     right PICC line tip terminates in mid SVC.
+                                                                           
+
+",,
+14169,,,,2753-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-27**] 9:05 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7004**]
+     Reason: fell out of bed? if hit head, r/o bleed                     
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with h/0 failure to thrive                                      
+     REASON FOR THIS EXAMINATION:
+      fell out of bed? if hit head, r/o bleed                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86-year-old man with history of fall.  Rule out bleed.
+     
+     COMPARISON:  [**2753-2-24**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     CT HEAD WITHOUT CONTRAST:  Since prior exam, there has been no significant
+     interval change.  Again noted, areas of encephalomalacia involving the left
+     frontal lobe, right parietal lobe, and right motor cortex, unchanged when
+     compared to the prior study.  Unchanged periventricular white matter
+     hypodensities, nonspecific, likely chronic microvascular infarcts.  Stable
+     appearance of the ventricles.  Unchanged lacunar infarction in the anterior
+     limb of the right internal capsule.  Left maxillary sinus fluid level with
+     thickening of the bony sinus walls is unchanged and likely represents acute on
+     chronic sinusitis.  C4-C5 grade I spondylolisthesis seen on scout images is
+     also unchanged.
+     
+     IMPRESSION:  No significant interval change.  No acute intracranial
+     abnormalities. Stable areas of encephalomalacia as described above.
+     
+
+",,
+14169,,,,2753-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-27**] 5:44 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7006**]
+     Reason: eval NG placement                                           
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         86 y.o. male with CHF and pleural effusions, now status post NG tube  
+      placement            
+     REASON FOR THIS EXAMINATION:
+      eval NG placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  86-year-old male with CHF, pleural effusions, now status
+     post NG tube placement.  Evaluate NG tube.
+     
+     COMPARISON:  [**2753-2-26**].
+     
+     AP CHEST RADIOGRAPH:  The lungs demonstrate bibasilar opacities, right greater
+     than left, not significantly changed from prior radiograph.  The  right
+     pleural effusion is increased in size.  The left CP angle has been excluded.
+     The moderately enlarged cardiac sillouette as the degree of upper zone
+     redistribution and pulmonary edema is unchanged. The leads from a three- lead
+     pacemaker are in standard position.  Tip of the NG tube is seen within the
+     stomach. The right PIC line terminates in the mid SVC.
+     
+     IMPRESSION:  Asymmetric bibasilar opacity and increased right pleural
+     effusion, which likely represents worseing CHF, however airspace disease
+     within the right lower lobe cannot be excluded.
+
+",,
+14169,,,,2753-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-27**] 12:37 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 7005**]
+     Reason: aspiration risk                                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with aspiration, need for NG tube multiple times, please eval 
+      for aspiration
+     REASON FOR THIS EXAMINATION:
+      aspiration risk                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     VIDEO OROPHARYNGEAL SWALLOW
+     
+     INDICATION:  86-year-old male with aspiration, evaluate for aspiration.
+     
+     TECHNIQUE:  An oral and pharyngeal swallow video fluoroscopy was performed
+     today in collaboration with speech and swallow pathologist.  Thin liquid,
+     nectar- thick liquid, and two teaspoons of pureed consistency barium were
+     administered.
+     
+     FINDINGS:  The oral phase was noted for moderate deficits with regard to
+     weakened AP tongue movement via the posterior pharyngeal wall during swallow.
+     Bolus formation was difficult with moderate oral residue along the tongue and
+     base of tongue.  The pharyngeal phase noted for moderate-to-severe deficits
+     with regard to decreased hyolaryngeal excursion, bolus propulsion, and
+     vallecular greater than piriform sinus residue.  There is mild-to-moderate
+     penetration during swallowing of thick liquid due to premature spillover.
+     Penetration occurred during the swallow with both thin and nectar-thick
+     liquids.  Moderate aspiration occurred during the swallow of both thin and
+     thick liquids due to decreased airway closure.
+     
+     IMPRESSION:  Penetration and aspiration occurred during thin and nectar-thick
+     liquids.
+     
+     Please see detailed report by speech and swallow pathology in CareWeb from the
+     same date.
+     
+     
+     
+
+",,
+14169,,,,2753-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14169,,,,2753-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-2-28**] 10:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7007**]
+     Reason: Assess if NGT tip in stomach.                               
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          86 y.o. male with CHF and pleural effusions, now status post NG tube   NGT 
+      may have moved, so will reassess position.           
+     REASON FOR THIS EXAMINATION:
+      Assess if NGT tip in stomach.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST X-RAY PORTABLE
+     
+     HISTORY:  CHF and pleural effusions, nasogastric tube position.
+     
+     One portable view.  Comparison with the previous study done [**2753-2-27**].  There is
+     continued evidence of pulmonary vascular congestion and a moderate-to-large
+     right pleural effusion.  An underlying focal infiltrate in the right lung
+     cannot be excluded.  The heart and mediastinal structures are unchanged.  A
+     nasogastric tube ICD and PICC line remain in place.  The nasogastric tube has
+     been pulled back somewhat but still appears to terminate in the region of the
+     body of the stomach.  There is no other significant change.
+     
+     IMPRESSION:  Nasogastric tube terminates in the region of the stomach.  Apart
+     from change in nasogastric tube position, the examination appears stable.
+                                                                           
+
+",,
+14169,,,,2753-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-3-3**] 4:57 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7008**]
+     Reason: Assess fluid collection over past week, in comparison to las
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old man with chronic right pleural effusions requiring several  
+      thoracenteses.  CHF and smoking history.Pleural tap on [**2-23**].  Assess change over 
+      past week.
+     REASON FOR THIS EXAMINATION:
+      Assess fluid collection over past week, in comparison to last week's chest CT.  
+      Status post pleural tap last week.
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal insufficiency
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  86-year-old male with chronic right-sided pleural effusion requiring
+     several thoracentesis, CHF, and smoking history.  Assess for interval change
+     from last week.
+     
+     Comparison is made to prior CT examination dated [**2753-2-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images were obtained through the chest without
+     oral or intravenous contrast.  Coronal reformations were evaluated.
+     
+     CT OF THE CHEST WITHOUT INTRAVENOUS CONTRAST:  There has been marked interval
+     progression of right pleural effusion, now large and partially loculated, with
+     slight increase in small to moderate-sized left pleural effusion.  There is
+     complete collapse of the right lower and right middle lobes due to the
+     surrounding effusion with areas of ground glass opacity within the right upper
+     lobe and left base, which may represent early atelectasis or
+     inflammatory/infectious etiologies.  There is a stable appearance to dense
+     coronary artery calcification and slightly prominent mediastinal lymph nodes,
+     with artifact from pacemaker leads again identified.  There is also stable
+     appearance to cardiomegaly.
+     
+     Limited examination of the upper abdomen displays stable appearance to small
+     amount of perisplenic ascites and a 3 x 3.2 cm left upper pole renal cyst with
+     a probable right interpolar right renal cyst.  The patient is again noted to
+     be status post cholecystectomy.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are identified.  There
+     are mild degenerative changes in the spine.
+     
+     IMPRESSION:
+     1.  Marked increase in right pleural effusion, now large and causing
+     compressive atelectasis of the right middle and right lower lobes with
+     apparent small loculated component, medially.
+     
+     2.  Slight increase in small-moderate left pleural effusion.
+     
+     3.  Ground glass opacity within the aerated right upper lobe and portions of
+     the left lower lobe, a non-specific finding which may represent pulmonary
+                                                                 (Over)
+
+     DATE: [**2753-3-3**] 4:57 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7008**]
+     Reason: Assess fluid collection over past week, in comparison to las
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     edema, or a variety of infectious or inflammatory etiologies.
+     
+     4.  Stable appearance to cardiomegaly, coronary artery disease, and ascites.
+
+",,
+14169,,,,2753-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14169,,,,2753-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2753-3-4**] 4:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7009**]
+     Reason: Assess if NGT in stomach.                                   
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           86 y.o. male with CHF and pleural effusions, now status post NG tube   NGT 
+       may have moved, so will reassess position.           
+     REASON FOR THIS EXAMINATION:
+      Assess if NGT in stomach.                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation after nasogastric (NG) tube placement.
+     
+     TECHNIQUE AND FINDINGS:  Portable AP chest radiograph compared to [**2753-2-28**].
+     
+     The NG tube tip passes below the diaphragm and terminates out of the field of
+     view with its sidehole demonstrated within the stomach, thus the tip is either
+     in the distal stomach or in the duodenum. The cardiomegaly, the bilateral
+     right more than left pleural effusion, the bibasilar atelectasis, the position
+     of the right PICC line are unchanged with the tip of the PICC line terminating
+     in the mid portion of the superior vena cava.  The left-sided three-lead
+     pacemaker terminates in the right atrium, right ventricle, and the left
+     epicardial vein. The previous cholecystectomy surgical clips are noted.
+
+",,
+14169,,,,2753-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

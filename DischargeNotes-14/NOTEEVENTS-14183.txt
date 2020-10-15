@@ -1,0 +1,2891 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14183,2532,,,2757-07-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2757-7-13**]     Discharge Date:  [**2757-7-23**]
+
+Date of Birth:   [**2721-3-6**]     Sex:  M
+
+Service:  Blue Surgery
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 7963**] is a 36-year-old
+male with a past medical history of Hodgkin's lymphoma
+treated approximately 15 years ago with staging laparotomy,
+splenectomy and nodal sampling followed by x-ray radiation
+therapy, the subsequent diagnosis two years ago of ITP with
+evidence of splenosis by CT scan, which was treated with
+Prednisone IgG, and recently treated with Rituxan with good
+effect.  He presented approximately one month ago with severe
+abdominal pain and was diagnosed with portal vein thrombosis and
+started on coumadin after being heparinized. He presented to the
+Emergency Room at [**Hospital1 10**] on
+[**2757-3-13**] with 2-3 day history of increasing abdominal pain on
+the right side.  At this time he denies nausea, vomiting,
+positive flatus and still had a bowel movement at that time.
+CT scan was obtained from an outside hospital which
+demonstrated a focal area of small bowel wall thickening, portal
+vein thrombosis and superior mesenteric vein thrombosis.  It was
+felt at that time that patient was experiencing worsening
+mesenteric ischemia and was admitted for exploratory
+laparotomy to assess the viability of his small bowel.
+
+PAST MEDICAL HISTORY:  1) Hodgkin's lymphoma diagnosed 15
+years ago.  2) ITP diagnosed two years ago treated with IgG
+and Prednisone, recently treated with Rituxan approximately
+one week prior to admission.  3) Portal vein thrombosis
+diagnosed approximately one month ago.  4) Hypothyroidism.
+5) Restless leg syndrome.  6) Anxiety.
+
+MEDICATIONS:  Dilaudid 4 mg q 4 hours, Prevacid 30 mg q day,
+Levoxyl 250 mcg q day, Mysoline 125 mg q d, Paxil 40 mg q
+day, Permax .015 mg q day, Coumadin 5 mg q day.
+
+SOCIAL HISTORY:  A [**12-30**] pack per day smoker times
+approximately 15 years, denies current alcohol use.
+
+PHYSICAL EXAMINATION:  Temperature 97, blood pressure 172/91,
+respiratory rate 22, oxygen saturation 93% on room air.  He
+is an uncomfortable white male in apparent distress.
+Respiratory exam was clear to auscultation bilaterally.
+Cardiac, regular rate and rhythm, S1 and S2 appreciated.
+Abdominal exam showed a firm abdomen with right sided
+tenderness, no shake tenderness, no cough tenderness.
+Extremities were warm with palpable pulses distally.  His
+rectal showed normal tone, and was guaiac negative at that
+time.
+
+LABORATORY DATA:  On admission the patient had a white count
+of 13.1, hematocrit of 39.1, platelet count 148,000.
+Electrolytes, sodium 141, potassium 3.3, BUN and creatinine
+14 and 0.9, glucose 112.  At the time of admission
+prothrombin time of 23.3 and INR was 2.0.  His liver function
+tests were all within normal limits with albumin of 3.2.  The
+CAT scan on admission from the outside hospital again showed
+small bowel wall thickening, portal vein thrombosis and
+superior mesenteric vein thrombosis.
+
+HOSPITAL COURSE:  The patient was admitted on [**2757-7-13**] for
+emergent exploratory laparotomy.  He was evaluated by the
+general surgery service and the vascular surgery
+service.  On admission the patient was begun on a Heparin drip,
+IV antibiotics.  The patient was taken for a repeat CT angiogram.
+This scan showed new free fluid within the abdomen with the same
+focal area of small bowel showing signs of ischemia.  Given the
+severe pain and clinical exam as well as CT findings, consent was
+obtained to proceed with the exploratory laparotomy.  Exploratory
+laparotomy was performed with the preoperative diagnosis of
+ischemic bowel.  Approximately a 50 cm segment of small bowel was
+found to be thickened/congested in the mid to distal ileum. It
+was found that all other small and large bowel was viable .  The
+patient was admitted postoperatively from the
+operating room to the surgical ICU.  The patient was left
+intubated following his operation, given his bowel edema and
+otherwise guarded status.  Upon admission to the surgical
+Intensive Care Unit the patient was noted to have laboratory
+values of white count 16.3, hematocrit 33.1, platelet count
+99,000.  Coags, PT 15.5, PTT 29.2, INR 1.7, BUN and
+creatinine were stable as were his liver function tests.
+Once admitted to the surgical ICU the patient was sedated on
+Morphine and Propofol.  Systolic blood pressure was
+maintained with fluid boluses and he was left intubated.  He
+was admitted with an NG tube, central venous access.  His
+coag values were followed q 6 hours and Heparin drip was
+begun on the patient.
+
+Overnight in the surgical ICU from [**2757-7-13**] to [**2757-7-14**] the
+patient was left intubated on Morphine and Propofol drip.  It
+was decided during the morning of [**2757-7-14**] to begin to wean
+his sedation.   At that time it was also decided to pursue
+extubation of the patient.  The patient's sedation was
+weaned.  His ventilator support was weaned as well.  In the
+surgical ICU on [**2757-7-14**] values drawn at midnight showed a PT
+of 16.1, PTT 29.9, INR 1.8.  On the patient's Heparin drip PT
+was found to increase at 4 a.m. to 12.0, PTT was found to be
+39.9 and the patient's INR was 2.0.  On [**2757-7-14**] hematology
+consult was obtained.  Hematology/Oncology was asked to see
+the patient for management of his portal vein and splenic
+vein thrombosis and his new diagnosis of superior mesenteric
+vein thrombosis given his history of Hodgkin's disease and
+ITP.  At that time hematology/oncology service recommended
+continuation of the Heparin drip for anticoagulation.  It was
+unclear at this time why the patient developed spontaneous
+portal vein and splenic vein thrombosis.  At that time they
+also decided to obtain the patient's outpatient records from
+[**Hospital 607**] Hospital and spoke with his hematologist, Dr. [**First Name (STitle) **].
+At that time the patient's goal PTT should be 55, to maintain
+adequate anticoagulation given his venous thrombosis.
+
+Overnight from [**2757-7-14**] to [**2757-7-15**] the patient was extubated
+and began to complain of pain at incision.  He was also
+transferred from the ICU to the floor overnight between
+[**2757-7-14**] to [**2757-7-15**].  On exam the morning of [**2757-7-15**] the
+patient was found to be stable, good urine output, we
+continued to check hematocrit q 6 hours.  It was decided at
+this time to start TPN on the patient to increase his Heparin
+to maintain a goal PTT of 55 to 70.  Heparin previously at
+1400 units had only elevated his PTT to a value of 45.2.  The
+patient was also noted to have a declining platelet count
+from 88 to 66.  There is concern at this time that given the
+patient's history of prior exposure to Heparin, his current
+Heparin drip, the patient might be experiencing Heparin
+induced thrombocytopenia.  Complicating this picture was also
+the patient's history of ITP.  Hematology/Oncology was again
+asked to address this issue.  At this time a Heparin induced
+thrombocytopenia panel was obtained.  This was eventually
+shown to be negative.  The patient continued to do well the
+day of [**2757-7-15**] with continued complaints of incisional pain.
+At this time the patient's Dilaudid PCA was increased to
+cover his pain.  On exam the patient's abdomen was found to
+be markedly distended.  The plan at the time was just to
+await return of bowel function with this patient.  We
+continued to check his hematocrit q 6 hours which was found
+to be fairly stable throughout his hospitalization.  During
+the day, however, his platelet count continued to decline to
+a value in the 50's.
+
+Overnight from [**2757-7-15**] to [**2757-7-16**] the patient was noted to
+have a mild amount of delirium.  The patient spontaneously
+pulled his nasogastric tube which was replaced on the floor
+without difficulty.  It was felt at the time the delirium was
+probably secondary to the Ativan that was being given at that
+time and to hold the Ativan.  On [**2757-7-16**] laboratory values
+demonstrated a platelet count of 30 with coags demonstrating
+an adequate PTT of 55.  Given the concern about the patient's
+possible platelet decline being due to Heparin induced
+thrombocytopenia, the patient was begun on Lepirudin on
+Tuesday, [**2757-7-15**] and was continued to [**2757-7-16**].  At this time
+patient's PTT value of 55 was found to be adequate with a
+prudent anticoagulation.  On day of [**2757-7-16**] the patient
+continued to do well, his pain was better controlled with
+increased PCA dose.  Dressing was removed.  The incision was
+found to be dry and intact.  The patient continued with good
+urine output, had a moderate amount of NG output.  The NG
+tube was putting out approximately 640 cc on the 19th, 350 cc
+overnight from [**7-15**] to [**2757-7-16**] after the tube was replaced.
+
+Overnight from [**2757-7-16**] to [**2757-7-17**] the patient continued to do
+well.  The patient's platelet count, however, was noted to be
+declining to a value of 16 from 20 from the previous check.
+The patient's PTT was also found to be declining to a value
+of 49 and it was decided at this point to increase the
+patient's Lepirudin dose.  Also on [**2757-7-17**] the patient's
+Heparin induced thrombocytopenia came back negative and it
+was decided to restart his Heparin at that time.  The
+patient's NG tube continued to have a moderate amount of
+output, putting out approximately 1220 cc total overnight
+from [**2757-7-16**] to [**2757-7-17**].  The patient was also noted to be
+coughing up a small amount of bright red blood on [**7-17**] and it
+was felt at this time this was old clot and did not represent
+active bleeding in this patient.  The patient's hematocrit
+continued to be stable at 26.3.  On [**2757-7-17**] the patient's
+negative Heparin induced thrombocytopenia panel was felt that
+his platelet drop was most likely due to recurrence of his
+ITP and it was decided at that time to give IVIG of 1 gm/kg
+in a divided dose over approximately two days.
+
+Overnight from [**2757-7-17**] to [**2757-7-18**] the patient continued to do
+well.  He was comfortable, however, his bowel function was
+slow to return.  He was still without flatus.  His pain
+control continued to be with a Dilaudid PCA.  Half his dose
+of IVIG was given on [**2757-7-17**] with the other half given on
+[**2757-7-18**].  The patient's platelet count was found to respond
+to this IVIG regimen increasing to a value of 53.  The
+patient was also restarted on his Heparin drip which was
+elevated to 1800 units per hour at which time was found to
+have a PTT of 47.9 and it was decided at this point to
+increase Heparin dose to 2000 units per hour.  On the day of
+8-22 the patient continued to do well, however, his bowel
+function was again found to be slow to return.  He denied
+flatus over the day of [**2757-7-18**].  His NG output was noted to
+be moderately decreased over the day and it was decided at
+that point to discontinue his Foley catheter and continue to
+try and get his Heparin to a therapeutic PTT value.
+
+Overnight from [**2757-7-18**] to [**2757-7-19**] the patient continued to do
+well, however, he was still found to be without flatus.  He
+was burping with NG tube clamped.  He was having low
+residuals from his NG tube, however, his abdomen was still
+distended.  His platelets continued to respond well to the
+IVIG treatment increasing to a value of 86 from 53 the day
+before.  It was felt at that time that his low platelets were
+truly consistent with ITP.  On [**2757-7-19**] the patient continued
+to do well.  However, complained of increased abdominal
+distention during the day.  He was having low residuals from
+his clamped NG tube but it was at that time just replaced
+back to continue suction.  After replacing the tube to
+continuous suction approximately 200 cc of bilious fluid was
+obtained.
+
+Overnight from [**2758-7-19**] to [**2757-7-20**] the patient continued to do
+well.  He was found to be more comfortable although he was
+still without flatus.  The morning of [**2757-7-20**] the patient was
+given a Dulcolax suppository which induced good bowel
+function.  The patient had a bowel movement shortly after
+insertion of the Dulcolax suppository.
+
+Overnight from [**2757-7-20**] to [**2757-7-21**] the patient continued to do
+well, continued to have bowel movements, was reporting good
+flatus. It was decided on the morning of [**2757-7-21**] to
+discontinue the patient's NG tube.  The patient's Heparin
+dose was running at a value of 2100 units per hour, PTT was
+found to be value of 52.2.  The patient was showing good
+signs of bowel function and it was decided at that time to
+also start the patient on a clear liquid diet.  The patient
+was noted to have elevated white count to a value of 24 on
+[**2757-7-21**].  It was decided at that time to change his central
+line to check a clostridium difficile toxin assay.  The
+patient was also started on Flagyl 500 mg tid.  The patient's
+central line was changed on [**2757-7-21**].  Culture of the central
+line tip was negative.  Additionally, the patient's
+clostridium difficile toxin assay was negative.  Following
+changing the patient's central line, chest x-ray was
+obtained.  This demonstrated the new central line to be
+positioned within the right atrium.  The line was withdrawn 3
+cm and was used again.  Following the patient's procedure,
+central line was changed.  The patient's Heparin was stopped
+for approximately two hours.  Laboratory values after
+changing this line demonstrated PTT of 26.3 and the patient
+was restarted on his usual dose of Coumadin.  A recheck of
+the patient's PTT several hours later demonstrated a value of
+46.  It was decided at this time to increase the patient's
+Heparin drip to a value of 2400 units per hour, rechecking
+the laboratory values on the morning of [**2757-7-22**] demonstrating
+PTT of 60.6.  The patient's hematocrit was again noted to be
+stable.  The patient was tolerating his clear liquid diet.
+On the morning of [**2757-7-22**] it was decided to advance the
+patient's diet to a full liquid diet with a regular house
+diet to begin that evening.  The patient continued to do
+well, continued to pass flatus and bowel function was thought
+to be good.  At this time the patient was started on his home
+medications of Paxil and Permax.
+
+On the evening of [**2757-7-22**] it was also decided to begin
+patient back on his dose of Coumadin for consideration of
+long-term anticoagulation.  The patient was given a dose of
+7.5 mg of Coumadin this evening.
+
+Overnight from [**2757-7-22**] to [**2757-7-23**] the patient continued to do
+well.  He was tolerating a solid diet and it was decided at
+this time to discharge the patient home on Lovenox and
+Coumadin with follow-up until his Coumadin is therapeutic.
+The patient is to continue taking his Lovenox.  The patient
+demonstrated good bowel function.  On [**2757-7-23**] the patient's
+staples were taken out and the plan was discussed with
+Hematology Oncology for long-term anticoagulation in this
+otherwise complex patient.
+
+CONDITION ON DISCHARGE:  Good.  He was tolerating full liquid
+diet, his pain control is with oral pain medications, he is
+therapeutic on a Heparin drip with a PTT value of 84 this
+morning.
+By review of systems:
+1.  From a GI standpoint the patient is status post
+exploratory laparotomy with resection of 50 cm of mid to
+distal ileum for mesenteric ischemia, most likely induced by
+venous congestion.  The patient is currently taking a regular
+diet with good bowel function.  Pathology showed no evidence of
+recurrent lymphoma.
+
+2.  Hematology:  The patient has ITP.  The patient had a low
+platelet count down into the value of the teens.  This was
+treated with IVIG with good response.  The patient was to
+follow-up with his regular hematology oncologist as an
+outpatient for consideration of Rituxan treatment.
+
+3.  From an anticoagulation standpoint the patient was noted
+to have PTT value with a slightly elevated stay into the
+80's.  It was decided that the patient will need long-term
+anticoagulation given his history of a portal venous splenic
+vein thrombosis and superior mesenteric vein thrombosis.
+This will be accomplished with Coumadin as per the hematology
+oncology service who has been in touch with his regular
+hematologist, Dr. [**First Name (STitle) **].  Currently the patient has just begun
+on his dose of Coumadin.
+
+The patient is to be discharged on a dose of 1 mg/kg,
+approximately 120 mg of Lovenox q 12 hours to be injected
+subcutaneously.  Until his Coumadin dose is therapeutic with
+an INR of 2.5.  The patient is to follow-up at [**Hospital 607**]
+Hospital for laboratory draws tomorrow.  The patient has a
+follow-up appointment with his hematologist, Dr. [**First Name (STitle) **] on
+Thursday morning at approximately 7:15.
+
+The patient's wife has demonstrated proficiency with
+administering the subcutaneous Lovenox in the past.  She has
+administered this to both the patient's father and the
+patient.  The patient was given his first dose of Lovenox
+here in the hospital.  The patient's wife demonstrated that
+she was able to give the dose to the patient with the nurse
+present.  It was decided at this time the patient will not
+need VNA services for administration of Lovenox.  He is to
+follow-up with his regular hematologist tomorrow.
+
+DISCHARGE MEDICATIONS:  Percocet 5/325 mg 1-2 tabs po q 4
+hours prn pain, Colace 100 mg po bid prn constipation,
+Lovenox 120 mg q 12 hours to be administered subcutaneously,
+Coumadin 5 mg q day, Protonix 40 mg q day.  Patient's home
+medications which he is to begin taking again include Paxil
+40 mg q day, Permax .01 mg q day, Levoxyl 250 mcg q day.
+
+FOLLOW-UP:  With Dr. [**First Name (STitle) **] and Dr. [**First Name (STitle) **].
+
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 5651**]
+
+Dictated By:[**Doctor Last Name 8143**]
+
+MEDQUIST36
+
+D:  [**2757-7-23**]  11:56
+T:  [**2757-7-29**]  19:57
+JOB#:  [**Job Number 10270**]
+
+cc:[**Telephone/Fax (1) 10271**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**2757-8-1**] 11:40 AM
+(End of Report)
+
+
+",,
+14183,2532,,,2757-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-7-13**] 10:12 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7130**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN, H/O SPLENECTOMY
+     Field of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man w/ portal and splenic vv. thromboses, w/ increasing abdominal
+      pain, thickened small bowel.  h/o Hodgkins, s/p splenectomy  15 years ago, w/
+      ITP for 3 years, on prednisone/rituxan.
+     REASON FOR THIS EXAMINATION:
+      CT Angiogram with arterial and venous phases needed to delineate portal and
+      splenic vein thromboses.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Known portal and splenic vein thromboses with recent acute
+     abdominal pain.
+     
+     COMPARISON: Outside hospital abdominal CT [**2757-7-12**].
+     
+     TECHNIQUE: Multiple axial images of the abdomen and pelvis were obtained after
+     the administration of intravenous contrast.
+     
+     CONTRAST: 150 cc of Optiray were administered due to study requirement for
+     fast rate of infusion.  No complications.
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST: There is bibasilar atelectasis. There
+     are no pleural effusions.  There is new ascites which is mainly perihepatic
+     and extends along the right paracolic gutter. The liver and gallbladder are
+     normal in appearance.  Multiple surgical clips are seen in the left upper
+     quadrant and there is a small splenule adjacent to the stomach.  The left
+     kidney is atrophic.  Both kidneys enhance and excrete contrast normally.  A
+     filling defect is again seen within the main portal vein and extending from
+     the superior mesenteric vein.  There is some adjacent stranding within the
+     surrounding fat.  Multiple small vessels are seen in the porta and are
+     suggestive of cavernous transformation.  The proximal small bowel fills
+     normally with contrast. There is no free air within the abdomen.
+     
+     CT PELVIS WITH INTRAVENOUS CONTRAST: Within the right lower quadrant are
+     multiple dilated loops of small bowel with wall thickening.  There is
+     prominent mucosal enhancement of these loops and periluminal fluid which
+     tracks down into the lower pelvis.  No pneumatosis is present.  The sigmoid
+     colon, rectum, prostate and bladder are normal. There is a Foley catheter
+     within the bladder.
+     
+     The soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1. New ascites and abnormally thickened small bowel loops in the right lower
+     quadrant.  In the setting of SMV thrombosis, the findings are worrisome for
+     focal small bowel ischemia.
+                                                                 (Over)
+
+     DATE: [**2757-7-13**] 10:12 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7130**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN, H/O SPLENECTOMY
+     Field of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2. Main portal vein and SMV thrombosis with suggestion of cavernous
+     transformation.
+     Findings were communicated to the surgical staff at the time of study.
+
+",,
+14183,2532,,,2757-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-7-13**] 10:12 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7130**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN, H/O SPLENECTOMY
+     Field of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man w/ portal and splenic vv. thromboses, w/ increasing abdominal
+      pain, thickened small bowel.  h/o Hodgkins, s/p splenectomy  15 years ago, w/
+      ITP for 3 years, on prednisone/rituxan.
+     REASON FOR THIS EXAMINATION:
+      CT Angiogram with arterial and venous phases needed to delineate portal and
+      splenic vein thromboses.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Known portal and splenic vein thromboses with recent acute
+     abdominal pain.
+     
+     COMPARISON: Outside hospital abdominal CT [**2757-7-12**].
+     
+     TECHNIQUE: Multiple axial images of the abdomen and pelvis were obtained after
+     the administration of intravenous contrast.
+     
+     CONTRAST: 150 cc of Optiray were administered due to study requirement for
+     fast rate of infusion.  No complications.
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST: There is bibasilar atelectasis. There
+     are no pleural effusions.  There is new ascites which is mainly perihepatic
+     and extends along the right paracolic gutter. The liver and gallbladder are
+     normal in appearance.  Multiple surgical clips are seen in the left upper
+     quadrant and there is a small splenule adjacent to the stomach.  The left
+     kidney is atrophic.  Both kidneys enhance and excrete contrast normally.  A
+     filling defect is again seen within the main portal vein and extending from
+     the superior mesenteric vein.  There is some adjacent stranding within the
+     surrounding fat.  Multiple small vessels are seen in the porta and are
+     suggestive of cavernous transformation.  The proximal small bowel fills
+     normally with contrast. There is no free air within the abdomen.
+     
+     CT PELVIS WITH INTRAVENOUS CONTRAST: Within the right lower quadrant are
+     multiple dilated loops of small bowel with wall thickening.  There is
+     prominent mucosal enhancement of these loops and periluminal fluid which
+     tracks down into the lower pelvis.  No pneumatosis is present.  The sigmoid
+     colon, rectum, prostate and bladder are normal. There is a Foley catheter
+     within the bladder.
+     
+     The soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1. New ascites and abnormally thickened small bowel loops in the right lower
+     quadrant.  In the setting of SMV thrombosis, the findings are worrisome for
+     focal small bowel ischemia.
+                                                                 (Over)
+
+     DATE: [**2757-7-13**] 10:12 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7130**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN, H/O SPLENECTOMY
+     Field of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2. Main portal vein and SMV thrombosis with suggestion of cavernous
+     transformation.
+     Findings were communicated to the surgical staff at the time of study.
+
+",,
+14183,2532,,,2757-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-7-13**] 10:12 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7130**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN, H/O SPLENECTOMY
+     Field of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man w/ portal and splenic vv. thromboses, w/ increasing abdominal
+      pain, thickened small bowel.  h/o Hodgkins, s/p splenectomy  15 years ago, w/
+      ITP for 3 years, on prednisone/rituxan.
+     REASON FOR THIS EXAMINATION:
+      CT Angiogram with arterial and venous phases needed to delineate portal and
+      splenic vein thromboses.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Known portal and splenic vein thromboses with recent acute
+     abdominal pain.
+     
+     COMPARISON: Outside hospital abdominal CT [**2757-7-12**].
+     
+     TECHNIQUE: Multiple axial images of the abdomen and pelvis were obtained after
+     the administration of intravenous contrast.
+     
+     CONTRAST: 150 cc of Optiray were administered due to study requirement for
+     fast rate of infusion.  No complications.
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST: There is bibasilar atelectasis. There
+     are no pleural effusions.  There is new ascites which is mainly perihepatic
+     and extends along the right paracolic gutter. The liver and gallbladder are
+     normal in appearance.  Multiple surgical clips are seen in the left upper
+     quadrant and there is a small splenule adjacent to the stomach.  The left
+     kidney is atrophic.  Both kidneys enhance and excrete contrast normally.  A
+     filling defect is again seen within the main portal vein and extending from
+     the superior mesenteric vein.  There is some adjacent stranding within the
+     surrounding fat.  Multiple small vessels are seen in the porta and are
+     suggestive of cavernous transformation.  The proximal small bowel fills
+     normally with contrast. There is no free air within the abdomen.
+     
+     CT PELVIS WITH INTRAVENOUS CONTRAST: Within the right lower quadrant are
+     multiple dilated loops of small bowel with wall thickening.  There is
+     prominent mucosal enhancement of these loops and periluminal fluid which
+     tracks down into the lower pelvis.  No pneumatosis is present.  The sigmoid
+     colon, rectum, prostate and bladder are normal. There is a Foley catheter
+     within the bladder.
+     
+     The soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1. New ascites and abnormally thickened small bowel loops in the right lower
+     quadrant.  In the setting of SMV thrombosis, the findings are worrisome for
+     focal small bowel ischemia.
+                                                                 (Over)
+
+     DATE: [**2757-7-13**] 10:12 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7130**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN, H/O SPLENECTOMY
+     Field of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2. Main portal vein and SMV thrombosis with suggestion of cavernous
+     transformation.
+     Findings were communicated to the surgical staff at the time of study.
+
+",,
+14183,2532,,,2757-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-7-13**] 4:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7131**]
+     Reason: S/P or PLEASE R/O PTX AFTER R LINE PLACEMENT AND ASSESS ETT 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      S/P or PLEASE R/O PTX AFTER R LINE PLACEMENT AND ASSESS ETT                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     IMPRESSION:   The tip of the endotracheal tube is slightly higher 2 cm above
+     the thoracic inlet. The tip of the right sided IV catheter in the superior
+     vena cava, no pneumothorax.
+     
+     COMMENT:  Portable AP chest is reviewed.  No prior studies are available for
+     comparison.
+     
+     The tip of the endotracheal tube is identified 2 cm higher than the thoracic
+     inlet. The tip of the right sided IV catheter is identified in the vena cava.
+     No pneumothorax is seen.
+     
+     The lungs are clear except for minimal patchy atelectasis in the left lung
+     base. The heart is normal in size. Multiple staples are seen in the left upper
+     quadrant of the abdomen.
+
+",,
+14183,2532,17629,0,2757-07-14 02:32:00 EST,2757-07-14 02:40:00 EST,3214,"N",54,"Nursing/Other","ADMISSION NOTE","
+ADMISSION NOTE
+   RECEIVED FROM PACU @ 0030, REMAINS INTUBATED ON MECHANICAL VENTILATION. SEDATED ON PROPOFOL GTTS, PAIN MANAGED BY MSO4 GTTS. SURGICAL TEAM REQUEST PT REMAIN HEAVILY SEDATED OVERNOC.  HEPARIN GTTS STARTED @ 0200 AT 800U/H, LABS THIS AM PENDING. HOURLY URINE OUTPUT ONLY 10CC AMBER @ 0300, DR [**Last Name (STitle) 2763**] NOTIFIED, NS 500CC BOLUS GIVEN AS ORDERED, ALSO RECIEVING MAINTENANCE IVF NS @ 150CC/H.  ABDOMEN DISTENDED BUT SOFT, INITIAL DSD INTACT, NO EVIDENCE OF DRAINAGE @ WOUND.
+",,
+14183,2532,17629,0,2757-07-14 16:20:00 EST,2757-07-14 16:44:00 EST,3775,"N",54,"Nursing/Other","TRANSFER NOTE","
+TRANSFER NOTE
+D: 36 YO MAN WITH HX OF HODGKINS LYMPHOMA X 15 YRS TREATED WITH XRT.  S/P SPLENECTOMY WITH STAGING LAPAROTOMY. (STAGE II) RECENTLY HAD 4 LYMPH NODES REMOVED FROM GROINS AND BX NEGATIVE.   DIAGNOSED WITH ITP 2 YRS AGO  JULY: CT SCAN REVEALED PORTAL AND SPLENIC THROMBOSIS. TREATED WITH HEPARIN AND THEN COUMADIN.  ^ABD PAIN [**7-12**] PT WENT TO OSH AND TRANFERED HERE [**7-13**] PT NOTED TO HAVE SUPERIOR MESENTERIC VEIN THROMBOSIS. UNDERWENT EXP LAP WITH RESECTION OF ISCHEMIC SM BOWEL.
+UNCOMPLICATED POST OP COURSE. LOW GRADE TEMP 100.3 TACHYCARDIC 115-130 IV'S AT 150CC/HR AND HAS RECEIVED BOLUSES OF FLUID.  BP 124-145/60'S
+EXTUBATED AT 8:00 LUNGS CLEAR. POST EXT ABG'S 7.38 44 115 27  PAIN WAS NOT WELL CONTROLLED WITH MS GTT AT 8MG.   PT WAS TAKING DILAUDID 4MG QID AT HOME.  ABD DSG D+I  NO AUDIBLE BS NOTED  ABD  DIFFUSELY TENDER TO TOUCH.  HEPARIN GTT ^ 1200U 
+A:  MONITORED PTT, 55.1 AND GTT REMAINS AT 1200U SERIAL HCTS Q 6HRS 
+STARTED DILAUDID PCA FOR PAIN CONTROL AND EFFECTIVE DB+C  ARTERIAL LINE D/C'D
+R:  PAIN MUCH BETTER CONTROLLED AND ABLE TO MOVE 1250-1500CC VOLUME WITH SPIROCARE  HCT STABLE AT 31.6  
+PLAN:  CONTINUE TO MONITOR PTT/HCT Q 6HRS  EVALUATE PAIN CONTROL ON PCA  ENCOURAGE DB+C  TO TRANSFER TO FLOOR WHEN BED AVAILABLE 
+TO CONTINUE IV FLUID AT 150CC/HR WITH NO ADD'L FLUID AT THIS TIME 
+MONITOR HR (CURRENTLY 130) AND HUO (35-70CC TODAY)    
+",,
+14183,2532,,,2757-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-7-21**] 6:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7132**]
+     Reason: please evaluate line position s/p change over a wire        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       36 year old man with recent CVL line change                                    
+                             
+     REASON FOR THIS EXAMINATION:
+      please evaluate line position s/p change over a wire                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  For CV line placement.
+     
+     Jugular CV is in the region of cavoatrial junction.  No pneumothorax.  There
+     are linear atelectases at the left base.  Surgical clips are present in the
+     upper abdomen.
+     
+
+",,
+14183,19731,,,2757-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-4**] 9:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7133**]
+     Reason: r/o pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       36 year old man with brain lesion
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY: Brain lesion. To evaluate for pneumonia.
+     
+     Heart size is within normal limits. Lungs are clear. Surgical clips are
+     present in the upper abdomen.
+     
+     IMPRESSION: No evidence for pneumonia.
+
+",,
+14183,19731,,,2757-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-4**] 10:36 PM
+     CT HEAD W/ & W/O CONTRAST; CT HEAD W/ CONTRAST                  Clip # [**Clip Number (Radiology) 7134**]
+     LAB RECONSTRUCTIONS; CT 150CC NONIONIC CONTRAST
+     Reason: r/o progression of bleed, assess vessel in head
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with right frontal/temporal bleed now with worsening HA
+     REASON FOR THIS EXAMINATION:
+      r/o progression of bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb MON [**2757-8-5**] 2:21 AM
+      R epidural hematoma. stable comp to outside study.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CT SCAN OF THE BRAIN, [**2757-8-4**]:
+     
+     INDICATION:  History given is headache with known right frontotemporal
+     hemorrhage. Evaluate for progression of bleed.
+     
+     There are no previous studies available for comparison.
+     
+     Axial noncontrast CT scans of the brain were obtained.
+     
+     FINDINGS:
+     
+     There is a large rounded extra-axial collection of blood along the inner table
+     of the right temporal bone, indenting and displacing the right temporal lobe.
+     In its greatest width, the hemorrhage extends roughly 2.3 cm into the middle
+     cranial fossa.  There is a hematocrit level within this large loculated
+     component.  There is also subdural blood inferior and posterior to the right
+     temporal lobe.  The uncus is medially displaced.  The suprasellar cistern is
+     slightly narrowed but preserved.  The temporal [**Doctor Last Name 67**] of the right lateral
+     ventricle is compressed.  There is anterior displacement of the inferior
+     sylvian fissure and associated vessels as well.
+     
+     Brain parenchymal attenuation appears normal.  [**Doctor Last Name **]-white matter
+     differentiation is preserved.  The left lateral ventricle is not dilated.  The
+     third ventricle is flattened and slightly bowed to the left.  Posterior fossa
+     structures appear normal.
+     
+     No skull fractures or calvarial abnormalities are detected.  The skull base
+     appears normal.
+     
+     There is mild ethmoid sinus mucosal thickening.
+     
+     IMPRESSION:  There is a large right extra-axial hemorrhage, primarily
+     extending into the middle cranial fossa and medially displacing the temporal
+     lobes.  There is clearly a subdural component and there may be an epidural
+     component to the hemorrhage as well.
+     
+     CT ANGIOGRAPHY:
+                                                                 (Over)
+
+     DATE: [**2757-8-4**] 10:36 PM
+     CT HEAD W/ & W/O CONTRAST; CT HEAD W/ CONTRAST                  Clip # [**Clip Number (Radiology) 7134**]
+     LAB RECONSTRUCTIONS; CT 150CC NONIONIC CONTRAST
+     Reason: r/o progression of bleed, assess vessel in head
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     INDICATION:  Right frontotemporal hemorrhage with worsening headache.
+     
+     TECHNIQUE:  CT angiography was performed with dynamic contrast enhancement of
+     the intracranial vessels.  Multiplanar reformatted images are provided for
+     review.
+     
+     FINDINGS:  There is normal enhancement of the superior cervical carotid and
+     vertebral arteries.  Intracranial and vertebral arterial vessels have normal
+     morphology.  The basilar artery appears normal.  Anterior, middle and
+     posterior cerebral arteries are normally enhancing.  No aneurysms are detected
+     and no abnormal vascular channels are seen.  Intracranial venous structures
+     are also normally enhancing.
+     
+     IMPRESSION:  There are no signs of arteriovenous malformation or aneurysm.
+     There is symmetric enhancement of intracranial arteries and veins.
+     
+
+",,
+14183,19731,,,2757-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-4**] 10:36 PM
+     CT HEAD W/ & W/O CONTRAST; CT HEAD W/ CONTRAST                  Clip # [**Clip Number (Radiology) 7134**]
+     LAB RECONSTRUCTIONS; CT 150CC NONIONIC CONTRAST
+     Reason: r/o progression of bleed, assess vessel in head
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with right frontal/temporal bleed now with worsening HA
+     REASON FOR THIS EXAMINATION:
+      r/o progression of bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb MON [**2757-8-5**] 2:21 AM
+      R epidural hematoma. stable comp to outside study.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CT SCAN OF THE BRAIN, [**2757-8-4**]:
+     
+     INDICATION:  History given is headache with known right frontotemporal
+     hemorrhage. Evaluate for progression of bleed.
+     
+     There are no previous studies available for comparison.
+     
+     Axial noncontrast CT scans of the brain were obtained.
+     
+     FINDINGS:
+     
+     There is a large rounded extra-axial collection of blood along the inner table
+     of the right temporal bone, indenting and displacing the right temporal lobe.
+     In its greatest width, the hemorrhage extends roughly 2.3 cm into the middle
+     cranial fossa.  There is a hematocrit level within this large loculated
+     component.  There is also subdural blood inferior and posterior to the right
+     temporal lobe.  The uncus is medially displaced.  The suprasellar cistern is
+     slightly narrowed but preserved.  The temporal [**Doctor Last Name 67**] of the right lateral
+     ventricle is compressed.  There is anterior displacement of the inferior
+     sylvian fissure and associated vessels as well.
+     
+     Brain parenchymal attenuation appears normal.  [**Doctor Last Name **]-white matter
+     differentiation is preserved.  The left lateral ventricle is not dilated.  The
+     third ventricle is flattened and slightly bowed to the left.  Posterior fossa
+     structures appear normal.
+     
+     No skull fractures or calvarial abnormalities are detected.  The skull base
+     appears normal.
+     
+     There is mild ethmoid sinus mucosal thickening.
+     
+     IMPRESSION:  There is a large right extra-axial hemorrhage, primarily
+     extending into the middle cranial fossa and medially displacing the temporal
+     lobes.  There is clearly a subdural component and there may be an epidural
+     component to the hemorrhage as well.
+     
+     CT ANGIOGRAPHY:
+                                                                 (Over)
+
+     DATE: [**2757-8-4**] 10:36 PM
+     CT HEAD W/ & W/O CONTRAST; CT HEAD W/ CONTRAST                  Clip # [**Clip Number (Radiology) 7134**]
+     LAB RECONSTRUCTIONS; CT 150CC NONIONIC CONTRAST
+     Reason: r/o progression of bleed, assess vessel in head
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     INDICATION:  Right frontotemporal hemorrhage with worsening headache.
+     
+     TECHNIQUE:  CT angiography was performed with dynamic contrast enhancement of
+     the intracranial vessels.  Multiplanar reformatted images are provided for
+     review.
+     
+     FINDINGS:  There is normal enhancement of the superior cervical carotid and
+     vertebral arteries.  Intracranial and vertebral arterial vessels have normal
+     morphology.  The basilar artery appears normal.  Anterior, middle and
+     posterior cerebral arteries are normally enhancing.  No aneurysms are detected
+     and no abnormal vascular channels are seen.  Intracranial venous structures
+     are also normally enhancing.
+     
+     IMPRESSION:  There are no signs of arteriovenous malformation or aneurysm.
+     There is symmetric enhancement of intracranial arteries and veins.
+     
+
+",,
+14183,19731,,,2757-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-4**] 10:36 PM
+     CT HEAD W/ & W/O CONTRAST; CT HEAD W/ CONTRAST                  Clip # [**Clip Number (Radiology) 7134**]
+     LAB RECONSTRUCTIONS; CT 150CC NONIONIC CONTRAST
+     Reason: r/o progression of bleed, assess vessel in head
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with right frontal/temporal bleed now with worsening HA
+     REASON FOR THIS EXAMINATION:
+      r/o progression of bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb MON [**2757-8-5**] 2:21 AM
+      R epidural hematoma. stable comp to outside study.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CT SCAN OF THE BRAIN, [**2757-8-4**]:
+     
+     INDICATION:  History given is headache with known right frontotemporal
+     hemorrhage. Evaluate for progression of bleed.
+     
+     There are no previous studies available for comparison.
+     
+     Axial noncontrast CT scans of the brain were obtained.
+     
+     FINDINGS:
+     
+     There is a large rounded extra-axial collection of blood along the inner table
+     of the right temporal bone, indenting and displacing the right temporal lobe.
+     In its greatest width, the hemorrhage extends roughly 2.3 cm into the middle
+     cranial fossa.  There is a hematocrit level within this large loculated
+     component.  There is also subdural blood inferior and posterior to the right
+     temporal lobe.  The uncus is medially displaced.  The suprasellar cistern is
+     slightly narrowed but preserved.  The temporal [**Doctor Last Name 67**] of the right lateral
+     ventricle is compressed.  There is anterior displacement of the inferior
+     sylvian fissure and associated vessels as well.
+     
+     Brain parenchymal attenuation appears normal.  [**Doctor Last Name **]-white matter
+     differentiation is preserved.  The left lateral ventricle is not dilated.  The
+     third ventricle is flattened and slightly bowed to the left.  Posterior fossa
+     structures appear normal.
+     
+     No skull fractures or calvarial abnormalities are detected.  The skull base
+     appears normal.
+     
+     There is mild ethmoid sinus mucosal thickening.
+     
+     IMPRESSION:  There is a large right extra-axial hemorrhage, primarily
+     extending into the middle cranial fossa and medially displacing the temporal
+     lobes.  There is clearly a subdural component and there may be an epidural
+     component to the hemorrhage as well.
+     
+     CT ANGIOGRAPHY:
+                                                                 (Over)
+
+     DATE: [**2757-8-4**] 10:36 PM
+     CT HEAD W/ & W/O CONTRAST; CT HEAD W/ CONTRAST                  Clip # [**Clip Number (Radiology) 7134**]
+     LAB RECONSTRUCTIONS; CT 150CC NONIONIC CONTRAST
+     Reason: r/o progression of bleed, assess vessel in head
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     INDICATION:  Right frontotemporal hemorrhage with worsening headache.
+     
+     TECHNIQUE:  CT angiography was performed with dynamic contrast enhancement of
+     the intracranial vessels.  Multiplanar reformatted images are provided for
+     review.
+     
+     FINDINGS:  There is normal enhancement of the superior cervical carotid and
+     vertebral arteries.  Intracranial and vertebral arterial vessels have normal
+     morphology.  The basilar artery appears normal.  Anterior, middle and
+     posterior cerebral arteries are normally enhancing.  No aneurysms are detected
+     and no abnormal vascular channels are seen.  Intracranial venous structures
+     are also normally enhancing.
+     
+     IMPRESSION:  There are no signs of arteriovenous malformation or aneurysm.
+     There is symmetric enhancement of intracranial arteries and veins.
+     
+
+",,
+14183,19731,,,2757-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-4**] 10:36 PM
+     CT HEAD W/ & W/O CONTRAST; CT HEAD W/ CONTRAST                  Clip # [**Clip Number (Radiology) 7134**]
+     LAB RECONSTRUCTIONS; CT 150CC NONIONIC CONTRAST
+     Reason: r/o progression of bleed, assess vessel in head
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with right frontal/temporal bleed now with worsening HA
+     REASON FOR THIS EXAMINATION:
+      r/o progression of bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb MON [**2757-8-5**] 2:21 AM
+      R epidural hematoma. stable comp to outside study.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CT SCAN OF THE BRAIN, [**2757-8-4**]:
+     
+     INDICATION:  History given is headache with known right frontotemporal
+     hemorrhage. Evaluate for progression of bleed.
+     
+     There are no previous studies available for comparison.
+     
+     Axial noncontrast CT scans of the brain were obtained.
+     
+     FINDINGS:
+     
+     There is a large rounded extra-axial collection of blood along the inner table
+     of the right temporal bone, indenting and displacing the right temporal lobe.
+     In its greatest width, the hemorrhage extends roughly 2.3 cm into the middle
+     cranial fossa.  There is a hematocrit level within this large loculated
+     component.  There is also subdural blood inferior and posterior to the right
+     temporal lobe.  The uncus is medially displaced.  The suprasellar cistern is
+     slightly narrowed but preserved.  The temporal [**Doctor Last Name 67**] of the right lateral
+     ventricle is compressed.  There is anterior displacement of the inferior
+     sylvian fissure and associated vessels as well.
+     
+     Brain parenchymal attenuation appears normal.  [**Doctor Last Name **]-white matter
+     differentiation is preserved.  The left lateral ventricle is not dilated.  The
+     third ventricle is flattened and slightly bowed to the left.  Posterior fossa
+     structures appear normal.
+     
+     No skull fractures or calvarial abnormalities are detected.  The skull base
+     appears normal.
+     
+     There is mild ethmoid sinus mucosal thickening.
+     
+     IMPRESSION:  There is a large right extra-axial hemorrhage, primarily
+     extending into the middle cranial fossa and medially displacing the temporal
+     lobes.  There is clearly a subdural component and there may be an epidural
+     component to the hemorrhage as well.
+     
+     CT ANGIOGRAPHY:
+                                                                 (Over)
+
+     DATE: [**2757-8-4**] 10:36 PM
+     CT HEAD W/ & W/O CONTRAST; CT HEAD W/ CONTRAST                  Clip # [**Clip Number (Radiology) 7134**]
+     LAB RECONSTRUCTIONS; CT 150CC NONIONIC CONTRAST
+     Reason: r/o progression of bleed, assess vessel in head
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     INDICATION:  Right frontotemporal hemorrhage with worsening headache.
+     
+     TECHNIQUE:  CT angiography was performed with dynamic contrast enhancement of
+     the intracranial vessels.  Multiplanar reformatted images are provided for
+     review.
+     
+     FINDINGS:  There is normal enhancement of the superior cervical carotid and
+     vertebral arteries.  Intracranial and vertebral arterial vessels have normal
+     morphology.  The basilar artery appears normal.  Anterior, middle and
+     posterior cerebral arteries are normally enhancing.  No aneurysms are detected
+     and no abnormal vascular channels are seen.  Intracranial venous structures
+     are also normally enhancing.
+     
+     IMPRESSION:  There are no signs of arteriovenous malformation or aneurysm.
+     There is symmetric enhancement of intracranial arteries and veins.
+     
+
+",,
+14183,19731,17630,,2757-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-5**] 9:37 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7138**]
+     Reason: f/u hematoma                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       36 year old man with right frontal/temporal bleed now with worsening HA        
+     REASON FOR THIS EXAMINATION:
+      f/u hematoma                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Right frontal temporal hemorrage with worsening headache. 
+     
+     CT SCAN OF THE BRAIN:
+     
+     TECHNIQUE:   Axial noncontrast CT scans of the brain were obtained.
+     
+     Comparison is made to previous films from [**2757-7-4**] and MR of the brain on
+     [**2757-8-5**].
+     
+     FINDINGS:  There is no change in the size or extent of right middle cranial
+     fossa extra-axial hemorrhage. Again noted is a subdural component of the
+     hemorrhage which extends under and around the right temporal lobe.  There is
+     no further displacement of the right temporal lobe and the basal cisternal
+     spaces are still visible. Brain parenchymal attenuation is maintained. The
+     ventricles are not dilated.
+     
+     IMPRESSION:  Stable appearance of the right middle cranial fossa hemorrhage,
+     compared to previous examinations.
+
+",,
+14183,19731,17630,,2757-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-5**] 12:06 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 7135**]
+     MR-ANGIO HEAD
+     Reason: assess arteries and veins to head
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with epidural bleed from coumadin
+       
+      neurosurg wants MRA, MRV
+     REASON FOR THIS EXAMINATION:
+      assess arteries and veins to head
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN, MR ANGIOGRAPHY AND MR VENOGRAPHY, [**2757-8-5**]:
+     
+     INDICATION:  Epidural bleed from Coumadin.  Evaluate vascular structures.
+     
+     TECHNIQUE:  Multiplanar T1 and T2W imaging of the brain was performed.
+     Diffusion weighted scans are provided.
+     
+     2D TOF MR venography was performed.  3D TOF MR angiography was performed.
+     Reformatted multiplanar images of both venous and arterial structures are
+     provided for review.  Diffusion weighted scans are also included.
+     
+     FINDINGS:  As described on the CT scan of [**2757-7-4**], there is a right middle
+     cranial fossa extra-axial hemorrhage and there is also subdural blood along
+     the surface of the right frontal and temporal lobes.  There is mild midline
+     displacement to the left with flattening of the right lateral ventricle and
+     there is displacement of the right uncus toward the midline, where it contacts
+     the right cerebral peduncle.  The basal cisternal spaces are otherwise open.
+     There are no areas of restricted diffusion identified within the brain.  There
+     is no parenchymal susceptibility artifact.  There are no areas of T2 signal
+     abnormality within the brain and no clear evidence of edema in the right
+     temporal lobe.
+     
+     MR [**First Name (Titles) 7136**] [**Last Name (Titles) 2614**] normal flow signal in the superior sagittal sinus,
+     transverse, sigmoid, and jugular veins, in the straight sinus, vein of [**Male First Name (un) 3062**],
+     internal cerebral veins, and basal veins of [**Doctor Last Name 7137**].  No abnormal venous
+     structures are identified.
+     
+     MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] normal arterial flow signal in both intracranial
+     carotid arteries, in the vertebral arteries, the basilar arteries, and in the
+     anterior, middle and posterior cerebral arteries.  There is elevation of the
+     right middle cerebral branches, due to the presence of underlying hematoma. No
+     abnormal arterial branches or aneurysms are detected.
+     
+     IMPRESSION:  MRI of the brain demonstrates the known extra-axial hemorrhage in
+     the right middle cranial fossa.  There is no change in the extent of
+     hemorrhage or degree of mass effect, compared to the previous CT of [**2757-7-4**].
+     
+     MR [**First Name (Titles) 7136**] [**Last Name (Titles) 2614**] flow in the major intracranial venous branches.
+     
+                                                                 (Over)
+
+     DATE: [**2757-8-5**] 12:06 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 7135**]
+     MR-ANGIO HEAD
+     Reason: assess arteries and veins to head
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] superior displacement of the right sylvian
+     branches of the middle cerebral artery, consistent with the presence of a
+     right temporal region ""mass"".  There is flow in all of the major arterial
+     branches of the Circle of [**Location (un) **].  There are no abnormal arterial or venous
+     channels identified and no aneurysms are seen.
+     
+     
+     
+
+",,
+14183,19731,17630,,2757-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-5**] 12:06 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 7135**]
+     MR-ANGIO HEAD
+     Reason: assess arteries and veins to head
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with epidural bleed from coumadin
+       
+      neurosurg wants MRA, MRV
+     REASON FOR THIS EXAMINATION:
+      assess arteries and veins to head
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN, MR ANGIOGRAPHY AND MR VENOGRAPHY, [**2757-8-5**]:
+     
+     INDICATION:  Epidural bleed from Coumadin.  Evaluate vascular structures.
+     
+     TECHNIQUE:  Multiplanar T1 and T2W imaging of the brain was performed.
+     Diffusion weighted scans are provided.
+     
+     2D TOF MR venography was performed.  3D TOF MR angiography was performed.
+     Reformatted multiplanar images of both venous and arterial structures are
+     provided for review.  Diffusion weighted scans are also included.
+     
+     FINDINGS:  As described on the CT scan of [**2757-7-4**], there is a right middle
+     cranial fossa extra-axial hemorrhage and there is also subdural blood along
+     the surface of the right frontal and temporal lobes.  There is mild midline
+     displacement to the left with flattening of the right lateral ventricle and
+     there is displacement of the right uncus toward the midline, where it contacts
+     the right cerebral peduncle.  The basal cisternal spaces are otherwise open.
+     There are no areas of restricted diffusion identified within the brain.  There
+     is no parenchymal susceptibility artifact.  There are no areas of T2 signal
+     abnormality within the brain and no clear evidence of edema in the right
+     temporal lobe.
+     
+     MR [**First Name (Titles) 7136**] [**Last Name (Titles) 2614**] normal flow signal in the superior sagittal sinus,
+     transverse, sigmoid, and jugular veins, in the straight sinus, vein of [**Male First Name (un) 3062**],
+     internal cerebral veins, and basal veins of [**Doctor Last Name 7137**].  No abnormal venous
+     structures are identified.
+     
+     MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] normal arterial flow signal in both intracranial
+     carotid arteries, in the vertebral arteries, the basilar arteries, and in the
+     anterior, middle and posterior cerebral arteries.  There is elevation of the
+     right middle cerebral branches, due to the presence of underlying hematoma. No
+     abnormal arterial branches or aneurysms are detected.
+     
+     IMPRESSION:  MRI of the brain demonstrates the known extra-axial hemorrhage in
+     the right middle cranial fossa.  There is no change in the extent of
+     hemorrhage or degree of mass effect, compared to the previous CT of [**2757-7-4**].
+     
+     MR [**First Name (Titles) 7136**] [**Last Name (Titles) 2614**] flow in the major intracranial venous branches.
+     
+                                                                 (Over)
+
+     DATE: [**2757-8-5**] 12:06 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 7135**]
+     MR-ANGIO HEAD
+     Reason: assess arteries and veins to head
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] superior displacement of the right sylvian
+     branches of the middle cerebral artery, consistent with the presence of a
+     right temporal region ""mass"".  There is flow in all of the major arterial
+     branches of the Circle of [**Location (un) **].  There are no abnormal arterial or venous
+     channels identified and no aneurysms are seen.
+     
+     
+     
+
+",,
+14183,19731,17630,,2757-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-5**] 12:06 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 7135**]
+     MR-ANGIO HEAD
+     Reason: assess arteries and veins to head
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with epidural bleed from coumadin
+       
+      neurosurg wants MRA, MRV
+     REASON FOR THIS EXAMINATION:
+      assess arteries and veins to head
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN, MR ANGIOGRAPHY AND MR VENOGRAPHY, [**2757-8-5**]:
+     
+     INDICATION:  Epidural bleed from Coumadin.  Evaluate vascular structures.
+     
+     TECHNIQUE:  Multiplanar T1 and T2W imaging of the brain was performed.
+     Diffusion weighted scans are provided.
+     
+     2D TOF MR venography was performed.  3D TOF MR angiography was performed.
+     Reformatted multiplanar images of both venous and arterial structures are
+     provided for review.  Diffusion weighted scans are also included.
+     
+     FINDINGS:  As described on the CT scan of [**2757-7-4**], there is a right middle
+     cranial fossa extra-axial hemorrhage and there is also subdural blood along
+     the surface of the right frontal and temporal lobes.  There is mild midline
+     displacement to the left with flattening of the right lateral ventricle and
+     there is displacement of the right uncus toward the midline, where it contacts
+     the right cerebral peduncle.  The basal cisternal spaces are otherwise open.
+     There are no areas of restricted diffusion identified within the brain.  There
+     is no parenchymal susceptibility artifact.  There are no areas of T2 signal
+     abnormality within the brain and no clear evidence of edema in the right
+     temporal lobe.
+     
+     MR [**First Name (Titles) 7136**] [**Last Name (Titles) 2614**] normal flow signal in the superior sagittal sinus,
+     transverse, sigmoid, and jugular veins, in the straight sinus, vein of [**Male First Name (un) 3062**],
+     internal cerebral veins, and basal veins of [**Doctor Last Name 7137**].  No abnormal venous
+     structures are identified.
+     
+     MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] normal arterial flow signal in both intracranial
+     carotid arteries, in the vertebral arteries, the basilar arteries, and in the
+     anterior, middle and posterior cerebral arteries.  There is elevation of the
+     right middle cerebral branches, due to the presence of underlying hematoma. No
+     abnormal arterial branches or aneurysms are detected.
+     
+     IMPRESSION:  MRI of the brain demonstrates the known extra-axial hemorrhage in
+     the right middle cranial fossa.  There is no change in the extent of
+     hemorrhage or degree of mass effect, compared to the previous CT of [**2757-7-4**].
+     
+     MR [**First Name (Titles) 7136**] [**Last Name (Titles) 2614**] flow in the major intracranial venous branches.
+     
+                                                                 (Over)
+
+     DATE: [**2757-8-5**] 12:06 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 7135**]
+     MR-ANGIO HEAD
+     Reason: assess arteries and veins to head
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] superior displacement of the right sylvian
+     branches of the middle cerebral artery, consistent with the presence of a
+     right temporal region ""mass"".  There is flow in all of the major arterial
+     branches of the Circle of [**Location (un) **].  There are no abnormal arterial or venous
+     channels identified and no aneurysms are seen.
+     
+     
+     
+
+",,
+14183,19731,17630,0,2757-08-05 07:05:00 EST,2757-08-05 07:16:00 EST,-1,"N",54,"Nursing/Other","NSG ADMIT NOTE B:","
+NSG ADMIT NOTE B:
+ROS: 
+NEURO: Arrived to floor at 0210 A&O x3. C/o (R) frontal/temporal HA and pressure behind OD. Dilaudid prn for pain mod relief of pain. Becomes sleepy after painmed admin. MAE, good strength all [**Last Name (LF) 5805**], [**First Name3 (LF) **] 3mm brisk. Denies photophobia. Nauseau only when pain level >5 resolves when dilaudid takes effect.
+CV: ST no ectopy. SBP 140-150's. K 3.5 repleted. 2units FFP given. Repeat INR 1.7. Dr. [**Last Name (STitle) 5806**] notified.
+RESP: CTA. Encouraging deep breaths. W/A Pox 94-97% on RA.
+GI: NPO. Last BM [**8-4**] am formed. No emesis.
+GU: Voided yellow urine sitting on side of bed.
+SKIN: Midline abd inc healed.
+
+PLAN: Head CT today. 4units FFP. Cont w/ current plan of care.
+
+",,
+14183,19731,17630,0,2757-08-05 16:53:00 EST,2757-08-05 17:04:00 EST,-1,"N",54,"Nursing/Other","focus update note","
+focus update note
+afebrile 95-106 NSR- ST no ectopy- SBP 130-150/50-70s aline placed left radial today. rec'd total of 8 units FFP (INR now 1.3) rec'd vitamin K .5mg
+
+resp: 2 liters N/C o2sat 94-100% LSC
+
+GI/GU: 100LR/hr, u0 clear yellow foley placed at 1600- total out3 liters, no Bm , BS +- NPO maintained all day, + nausea today neurosurg aware(100 emesis out) pt given 4 mg zofran with excellent effect, last FS at 1600 98
+
+neuro: a+O X 3 GCS= 15 neuro checked q 1 hour- pupils 3mm/brisk strength normal, MAE +, c/o headache level of 5 hourly rec'd 4 mg dilaudid q 3-4 hours, head CT this am- no change per report
+
+skin: intact- midline incision healed
+
+social: family very supportive - visited with family all day
+
+plan: pt to go to OR for evacuation of epidural haematoma/crainiotomy- tonight 
+
+
+",,
+14183,19731,17630,,2757-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-6**] 10:00 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7139**]
+     Reason: post-op eval s/p evacuation of epidural hematoma            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        36 year old man with right frontal/temporal bleed now with worsening HA       
+       
+     REASON FOR THIS EXAMINATION:
+      post-op eval s/p evacuation of epidural hematoma                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Status post evacuation of right/temporal epidural hematoma.
+     
+     COMPARISON:  Head CT from [**8-4**] and [**2757-8-5**], as well as head MR from [**2757-8-5**].
+     
+     TECHNIQUE:  Contiguous axial images of the brain were performed in the absence
+     of injected contrast.
+     
+     HEAD CT WITHOUT IV CONTRAST:  The epidural hematoma identified previously in
+     the right frontoparietal area has been evacuated.  No new areas of intra or
+     extraaxial hemorrhage are identified.  There is no hydrocephalus.
+     Postoperative changes are demonstrated in the area of the previous epidural
+     hematoma, including a small amount of intracranial gas, as well as gas and
+     soft tissue swelling in the adjacent soft tissues outside the skull.  There is
+     no mass effect or shift of the normally midline structures.
+     
+     IMPRESSION:
+     
+     Postoperative changes in the skull after evacuation of epidural hematoma..
+     There are no new areas of hemorrhage and no hydrocephalus.
+     
+
+",,
+14183,19731,17630,0,2757-08-06 03:54:00 EST,2757-08-06 04:04:00 EST,3439,"N",54,"Nursing/Other","s/p crani w/ evac. of sdh","
+s/p crani w/ evac. of sdh
+data/action: returned from or @ 2200(3hr case) a&o x3. mae's w/ good strenght. c/o constant h/a([**6-5**]) requiring dilaudid 1-2mg q1-2hrs.
+head dsg intact. inr-1.4 rec'd vit k .5mg iv and 2uffp->inr pending.
+k+/mg+ repleted.  to have repeat head ct today. tolerated sips of h20 and ice chips w/ no n/v. 
+",,
+14183,19731,17630,0,2757-08-06 16:14:00 EST,2757-08-06 16:21:00 EST,3441,"N",54,"Nursing/Other","nsg progrss note","
+nsg progrss note
+Neuro-  pt is a+o x3, moves all [**Last Name (LF) **], [**First Name3 (LF) **]. dilantin 100 tid-iv changed to po. head ct done this am. Mannitol 25 gm iv q4.
+
+Pain- c/o headache [**5-3**] on 1-10 scale. rx with dialudid 1-2 mg prn. fiorecet [**11-28**] po started with good effect.
+
+Diet/Nutrition- ivf lr 80/hr, tol clear liq. Diet increased to gen.  
+
+",,
+14183,19731,17630,,2757-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-7**] 10:46 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7140**]
+     Reason: s/p rt. temporal epidural hematoma evacuation now w/ left-si
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         36 year old man with right frontal/temporal bleed now with worsening HA      
+         
+     REASON FOR THIS EXAMINATION:
+      s/p rt. temporal epidural hematoma evacuation now w/ left-sided weakness        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  36-year-old man with right frontal/temporal bleed S/P
+     evaccuation, now with worsening headache and left-sided weakness.
+     
+     COMPARISONS:  Multiple prior head CT's, the most recent being a non-infused
+     head CT from [**2757-8-6**].
+     
+     TECHNIQUE: Non-contrast head CT scan.
+     
+     HEAD CT WITHOUT IV CONTRAST:  Post-operative changes are again observed in the
+     right frontal/temporal region.  There is a mild amount of mass effect present,
+     with mild compression of the right lateral ventricle and effacement of sulci,
+     the amount of which is unchanged since the patient's prior scan.  No new
+     infarcts are visualized.  There is still air density present near the skull
+     adjacent to the surgical site as well as subcutaneous air.
+     
+     IMPRESSION:  No new areas of hemorrhage or infarct are demonstrated.
+     
+     
+
+",,
+14183,19731,17630,0,2757-08-07 01:21:00 EST,2757-08-07 01:47:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p-7a: Full assessment in flowsheet.
+
+neur: A+OX3. MAE - strong, bilaterally, equally. Clear speech. Good cough and gag reflex. c/o headache (R. side), R. neck side (muscle spasm), Left fingers tingle - all relief with pain med (Dilaudid ivp and fioricet po) and warm (neck) and cold pack (head). PERL -3mm -brisk. Swallow without difficulty. [**Doctor Last Name **] on and off most of the night. Suture sites - dressing intact, scant serosangious drainage. 
+
+cv: NSR/ST without ectopy. BP 95-130/45-60. Temp max 99. Warm, dry, no edema.
+
+resp: Lung sound clear in upper lobes, dimish at lower lobes. Nasal cannula - 97-100%. RR 14-22. Encough deep breathing and cough. 
+
+gu/gi: soft abd. +BSX4. abd heal incision site intact. Foley patent - yellow/clear urine - >100cc/hr.
+
+int: skin intact.
+
+Comfort verbally. Answer all questions.  
+
+Coag - please see lab. INR < 1.4. Fingerstick <140. Osmality <300 - mannitol given.  
+
+Plan: Neurological monitor and bleeding and clot precaution. AM lab.  
+",,
+14183,,,,2757-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-31**] 2:14 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 7141**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 34 yo male h/o of ischemic bowel and sma/portal vein thrombo
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man w/ portal and splenic vv. thromboses, w/ increasing abdominal
+      pain, thickened small bowel.  h/o Hodgkins, s/p splenectomy  15 years ago, w/
+      ITP for 3 years, on prednisone/rituxan.
+     REASON FOR THIS EXAMINATION:
+      34 yo male h/o of ischemic bowel and sma/portal vein thrombosis with abdominal
+      pain, r/o ischemic bowel
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of ischemic bowel, SMA and portal vein thrombosis.  New
+     abdominal pain.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained before and
+     after the administration of 150 cc of Optiray per fast bolus technique.
+     
+     Comparison with prior study from [**2757-7-13**].
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  There are bibasilar dependent
+     atelectases right side greater than left.  There are linear opacities in the
+     lung bases related to discoid atelectasis.  The heart is normal in size. There
+     are no focal liver lesions.  The portal vein is not visualized.  The
+     appearance is unchanged compared to the prior study.  The gallbladder is
+     collapsed.  The pancreas is normal.  There are clips in the left upper
+     quadrant.  There are several splenules.  The adrenals are normal.  Again seen
+     is asymmetry of the kidney size right greater than left and stable compared to
+     the prior study.
+     
+     There are a few dilated loops of small bowel in the right lower quadrant with
+     air-fluid levels.  These loops of bowel appear matted and there is
+     irregularity of the wall.  Compared to the prior study the wall edema in these
+     loops of bowel has improved in the interval.  There is a small amount of fluid
+     in the mesentery and mild stranding.  There has been interval resorption of
+     the ascites.  The colon is unremarkable.  There is normal flow in the aorta,
+     celiac, superior mesenteric and inferior mesenteric arteries.  The superior
+     mesenteric vein is not well seen.  There are a few nonpathologically enlarged
+     mesenteric lymph nodes.
+     
+     CT OF THE PELVIS WITHOUT AND WITH IV CONTRAST:  The bladder and distal ureters
+     are normal.  There is no pelvic fluid.  The prostate is unremarkable.  There
+     is contrast in the colon.  There are a few diverticula, no evidence of
+     inflammatory changes.  The bones are unremarkable.
+     
+     Coronal reformations demonstrate normal flow in the celiac, superior
+     mesenteric and inferior mesenteric arteries.  Advance 3D reformations are not
+     available and an addendum will be added when these are performed.
+     
+                                                                 (Over)
+
+     DATE: [**2757-8-31**] 2:14 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 7141**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 34 yo male h/o of ischemic bowel and sma/portal vein thrombo
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:  1.  Evolution of acute-to-chronic stasis/ischemia in the small
+     bowel, persistent stranding and fluid in the mesentery.  No evidence of bowel
+     obstruction since the air-fluid levels are limited to the abnormal loops of
+     bowel in the right lower quadrant.
+     
+     2.  Nonvisualization of the portal vein and superior mesenteric vein
+     consistent with known diagnosis of portal vein thrombosis.  The findings are
+     unchanged in the interval.  Findings were discussed with clinical team at the
+     time of the exam.
+
+",,
+14183,,,,2757-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-31**] 2:14 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 7141**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 34 yo male h/o of ischemic bowel and sma/portal vein thrombo
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man w/ portal and splenic vv. thromboses, w/ increasing abdominal
+      pain, thickened small bowel.  h/o Hodgkins, s/p splenectomy  15 years ago, w/
+      ITP for 3 years, on prednisone/rituxan.
+     REASON FOR THIS EXAMINATION:
+      34 yo male h/o of ischemic bowel and sma/portal vein thrombosis with abdominal
+      pain, r/o ischemic bowel
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of ischemic bowel, SMA and portal vein thrombosis.  New
+     abdominal pain.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained before and
+     after the administration of 150 cc of Optiray per fast bolus technique.
+     
+     Comparison with prior study from [**2757-7-13**].
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  There are bibasilar dependent
+     atelectases right side greater than left.  There are linear opacities in the
+     lung bases related to discoid atelectasis.  The heart is normal in size. There
+     are no focal liver lesions.  The portal vein is not visualized.  The
+     appearance is unchanged compared to the prior study.  The gallbladder is
+     collapsed.  The pancreas is normal.  There are clips in the left upper
+     quadrant.  There are several splenules.  The adrenals are normal.  Again seen
+     is asymmetry of the kidney size right greater than left and stable compared to
+     the prior study.
+     
+     There are a few dilated loops of small bowel in the right lower quadrant with
+     air-fluid levels.  These loops of bowel appear matted and there is
+     irregularity of the wall.  Compared to the prior study the wall edema in these
+     loops of bowel has improved in the interval.  There is a small amount of fluid
+     in the mesentery and mild stranding.  There has been interval resorption of
+     the ascites.  The colon is unremarkable.  There is normal flow in the aorta,
+     celiac, superior mesenteric and inferior mesenteric arteries.  The superior
+     mesenteric vein is not well seen.  There are a few nonpathologically enlarged
+     mesenteric lymph nodes.
+     
+     CT OF THE PELVIS WITHOUT AND WITH IV CONTRAST:  The bladder and distal ureters
+     are normal.  There is no pelvic fluid.  The prostate is unremarkable.  There
+     is contrast in the colon.  There are a few diverticula, no evidence of
+     inflammatory changes.  The bones are unremarkable.
+     
+     Coronal reformations demonstrate normal flow in the celiac, superior
+     mesenteric and inferior mesenteric arteries.  Advance 3D reformations are not
+     available and an addendum will be added when these are performed.
+     
+                                                                 (Over)
+
+     DATE: [**2757-8-31**] 2:14 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 7141**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 34 yo male h/o of ischemic bowel and sma/portal vein thrombo
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:  1.  Evolution of acute-to-chronic stasis/ischemia in the small
+     bowel, persistent stranding and fluid in the mesentery.  No evidence of bowel
+     obstruction since the air-fluid levels are limited to the abnormal loops of
+     bowel in the right lower quadrant.
+     
+     2.  Nonvisualization of the portal vein and superior mesenteric vein
+     consistent with known diagnosis of portal vein thrombosis.  The findings are
+     unchanged in the interval.  Findings were discussed with clinical team at the
+     time of the exam.
+
+",,
+14183,,,,2757-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-31**] 2:14 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 7141**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 34 yo male h/o of ischemic bowel and sma/portal vein thrombo
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man w/ portal and splenic vv. thromboses, w/ increasing abdominal
+      pain, thickened small bowel.  h/o Hodgkins, s/p splenectomy  15 years ago, w/
+      ITP for 3 years, on prednisone/rituxan.
+     REASON FOR THIS EXAMINATION:
+      34 yo male h/o of ischemic bowel and sma/portal vein thrombosis with abdominal
+      pain, r/o ischemic bowel
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of ischemic bowel, SMA and portal vein thrombosis.  New
+     abdominal pain.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained before and
+     after the administration of 150 cc of Optiray per fast bolus technique.
+     
+     Comparison with prior study from [**2757-7-13**].
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  There are bibasilar dependent
+     atelectases right side greater than left.  There are linear opacities in the
+     lung bases related to discoid atelectasis.  The heart is normal in size. There
+     are no focal liver lesions.  The portal vein is not visualized.  The
+     appearance is unchanged compared to the prior study.  The gallbladder is
+     collapsed.  The pancreas is normal.  There are clips in the left upper
+     quadrant.  There are several splenules.  The adrenals are normal.  Again seen
+     is asymmetry of the kidney size right greater than left and stable compared to
+     the prior study.
+     
+     There are a few dilated loops of small bowel in the right lower quadrant with
+     air-fluid levels.  These loops of bowel appear matted and there is
+     irregularity of the wall.  Compared to the prior study the wall edema in these
+     loops of bowel has improved in the interval.  There is a small amount of fluid
+     in the mesentery and mild stranding.  There has been interval resorption of
+     the ascites.  The colon is unremarkable.  There is normal flow in the aorta,
+     celiac, superior mesenteric and inferior mesenteric arteries.  The superior
+     mesenteric vein is not well seen.  There are a few nonpathologically enlarged
+     mesenteric lymph nodes.
+     
+     CT OF THE PELVIS WITHOUT AND WITH IV CONTRAST:  The bladder and distal ureters
+     are normal.  There is no pelvic fluid.  The prostate is unremarkable.  There
+     is contrast in the colon.  There are a few diverticula, no evidence of
+     inflammatory changes.  The bones are unremarkable.
+     
+     Coronal reformations demonstrate normal flow in the celiac, superior
+     mesenteric and inferior mesenteric arteries.  Advance 3D reformations are not
+     available and an addendum will be added when these are performed.
+     
+                                                                 (Over)
+
+     DATE: [**2757-8-31**] 2:14 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 7141**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 34 yo male h/o of ischemic bowel and sma/portal vein thrombo
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:  1.  Evolution of acute-to-chronic stasis/ischemia in the small
+     bowel, persistent stranding and fluid in the mesentery.  No evidence of bowel
+     obstruction since the air-fluid levels are limited to the abnormal loops of
+     bowel in the right lower quadrant.
+     
+     2.  Nonvisualization of the portal vein and superior mesenteric vein
+     consistent with known diagnosis of portal vein thrombosis.  The findings are
+     unchanged in the interval.  Findings were discussed with clinical team at the
+     time of the exam.
+
+",,
+14183,,,,2757-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-8-31**] 2:14 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 7141**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 34 yo male h/o of ischemic bowel and sma/portal vein thrombo
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man w/ portal and splenic vv. thromboses, w/ increasing abdominal
+      pain, thickened small bowel.  h/o Hodgkins, s/p splenectomy  15 years ago, w/
+      ITP for 3 years, on prednisone/rituxan.
+     REASON FOR THIS EXAMINATION:
+      34 yo male h/o of ischemic bowel and sma/portal vein thrombosis with abdominal
+      pain, r/o ischemic bowel
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of ischemic bowel, SMA and portal vein thrombosis.  New
+     abdominal pain.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained before and
+     after the administration of 150 cc of Optiray per fast bolus technique.
+     
+     Comparison with prior study from [**2757-7-13**].
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  There are bibasilar dependent
+     atelectases right side greater than left.  There are linear opacities in the
+     lung bases related to discoid atelectasis.  The heart is normal in size. There
+     are no focal liver lesions.  The portal vein is not visualized.  The
+     appearance is unchanged compared to the prior study.  The gallbladder is
+     collapsed.  The pancreas is normal.  There are clips in the left upper
+     quadrant.  There are several splenules.  The adrenals are normal.  Again seen
+     is asymmetry of the kidney size right greater than left and stable compared to
+     the prior study.
+     
+     There are a few dilated loops of small bowel in the right lower quadrant with
+     air-fluid levels.  These loops of bowel appear matted and there is
+     irregularity of the wall.  Compared to the prior study the wall edema in these
+     loops of bowel has improved in the interval.  There is a small amount of fluid
+     in the mesentery and mild stranding.  There has been interval resorption of
+     the ascites.  The colon is unremarkable.  There is normal flow in the aorta,
+     celiac, superior mesenteric and inferior mesenteric arteries.  The superior
+     mesenteric vein is not well seen.  There are a few nonpathologically enlarged
+     mesenteric lymph nodes.
+     
+     CT OF THE PELVIS WITHOUT AND WITH IV CONTRAST:  The bladder and distal ureters
+     are normal.  There is no pelvic fluid.  The prostate is unremarkable.  There
+     is contrast in the colon.  There are a few diverticula, no evidence of
+     inflammatory changes.  The bones are unremarkable.
+     
+     Coronal reformations demonstrate normal flow in the celiac, superior
+     mesenteric and inferior mesenteric arteries.  Advance 3D reformations are not
+     available and an addendum will be added when these are performed.
+     
+                                                                 (Over)
+
+     DATE: [**2757-8-31**] 2:14 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 7141**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 34 yo male h/o of ischemic bowel and sma/portal vein thrombo
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:  1.  Evolution of acute-to-chronic stasis/ischemia in the small
+     bowel, persistent stranding and fluid in the mesentery.  No evidence of bowel
+     obstruction since the air-fluid levels are limited to the abnormal loops of
+     bowel in the right lower quadrant.
+     
+     2.  Nonvisualization of the portal vein and superior mesenteric vein
+     consistent with known diagnosis of portal vein thrombosis.  The findings are
+     unchanged in the interval.  Findings were discussed with clinical team at the
+     time of the exam.
+
+",,
+14183,,,,2757-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-2**] 10:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7142**]
+     Reason: r/o ptx                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         36 year old man s/p CVL attempt X3                                           
+       
+     REASON FOR THIS EXAMINATION:
+      r/o ptx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post three attempts of insertion of central venous line.
+     
+     COMPARISON:  [**2757-8-4**].
+     
+     PORTABLE AP CHEST:  There is no pneumothorax.  There is a small amount of
+     apical pleural thickening on the right.  The cardiomediastinal silhouette is
+     normal.  The pulmonary vasculature is normal.  The lungs are clear.  Surgical
+     clips are noted in the upper abdomen.
+     
+     IMPRESSION:  No pneumothorax.
+
+",,
+14183,,,,2757-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-2**] 9:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7143**]
+     Reason: r/o ptx                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          36 year old man s/p CVL                                                     
+     REASON FOR THIS EXAMINATION:
+      r/o ptx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY: CV line placement. To evaluate for pneumothorax.
+     
+     Left subclavian CV line is in distal SVC. No pneumothorax. Heart size is
+     within normal limits. The lungs are clear. Surgical clips are present in the
+     upper abdomen.
+
+",,
+14183,,,,2757-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-3**] 10:49 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7144**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: CT abd and pelvis with oral and IV contrast. eval for mesent
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with SMV and portal vein thrombosis now with mesenteric 
+      ischemia
+     REASON FOR THIS EXAMINATION:
+      CT abd and pelvis with oral and IV contrast. eval for mesenteric ischemia. 
+      Please complete ASAP. Likely to OR [**9-3**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  36 y/o man with SMV and portal vein thrombosis with mesenteric
+     ischemia. Follow up.
+     
+     TECHNIQUE:  Helical scanning was performed from the diaphragms to the
+     symphysis during dynamic injection of 150 cc Optiray.  Comparison is made to
+     prior study dated [**2757-8-31**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  A small right pleural effusion is noted. There
+     is atelectasis at the right lung base. The liver, gallbladder, pancreas,
+     adrenal glands and right kidney are unremarkable. The patient is status post
+     splenectomy.  Several splenules are seen in the left upper quadrant. The left
+     kidney is small but enhances homogeneously.  There is normal perfusion of the
+     celiac trunk and SMA.  The portal vein is not well visualized as is the SMV.
+     Within the right lower quadrant in the area where previously abnormal loops
+     were identified there is no bowel wall thickening. Oral contrast is seen
+     passing into the cecum.  No dilated loops of bowel are noted. There is mild
+     stranding in the mesenteric fat which is unchanged in appearance.
+     
+     CT PELVIS WITH IV CONTRAST:  Normal appearance of large and small bowel loops.
+     There is no free fluid in the pelvis. A Foley catheter is seen within the
+     bladder.
+     
+     IMPRESSION:
+     
+     1. In comparison to prior study dated [**2757-8-31**] the appearance of the bowel
+     loops in the right lower quadrant is improved.  There is no wall thickening in
+     this region.  No bowel dilatation is noted.
+     2. persistent stranding of the mesentery, stable in appearance.
+     3. Portal vein and superior mesenteric vein are not visualized consistent with
+     known diagnosis of portal vein thrombosis.  This is also unchanged. Findings
+     were discussed with the surgical team at time of examination.
+
+             DR. [**First Name8 (NamePattern2) 6631**] [**Last Name (NamePattern1) **]
+",,
+14183,,,,2757-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-3**] 10:49 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7144**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: CT abd and pelvis with oral and IV contrast. eval for mesent
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with SMV and portal vein thrombosis now with mesenteric 
+      ischemia
+     REASON FOR THIS EXAMINATION:
+      CT abd and pelvis with oral and IV contrast. eval for mesenteric ischemia. 
+      Please complete ASAP. Likely to OR [**9-3**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  36 y/o man with SMV and portal vein thrombosis with mesenteric
+     ischemia. Follow up.
+     
+     TECHNIQUE:  Helical scanning was performed from the diaphragms to the
+     symphysis during dynamic injection of 150 cc Optiray.  Comparison is made to
+     prior study dated [**2757-8-31**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  A small right pleural effusion is noted. There
+     is atelectasis at the right lung base. The liver, gallbladder, pancreas,
+     adrenal glands and right kidney are unremarkable. The patient is status post
+     splenectomy.  Several splenules are seen in the left upper quadrant. The left
+     kidney is small but enhances homogeneously.  There is normal perfusion of the
+     celiac trunk and SMA.  The portal vein is not well visualized as is the SMV.
+     Within the right lower quadrant in the area where previously abnormal loops
+     were identified there is no bowel wall thickening. Oral contrast is seen
+     passing into the cecum.  No dilated loops of bowel are noted. There is mild
+     stranding in the mesenteric fat which is unchanged in appearance.
+     
+     CT PELVIS WITH IV CONTRAST:  Normal appearance of large and small bowel loops.
+     There is no free fluid in the pelvis. A Foley catheter is seen within the
+     bladder.
+     
+     IMPRESSION:
+     
+     1. In comparison to prior study dated [**2757-8-31**] the appearance of the bowel
+     loops in the right lower quadrant is improved.  There is no wall thickening in
+     this region.  No bowel dilatation is noted.
+     2. persistent stranding of the mesentery, stable in appearance.
+     3. Portal vein and superior mesenteric vein are not visualized consistent with
+     known diagnosis of portal vein thrombosis.  This is also unchanged. Findings
+     were discussed with the surgical team at time of examination.
+
+             DR. [**First Name8 (NamePattern2) 6631**] [**Last Name (NamePattern1) **]
+",,
+14183,,,,2757-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-3**] 10:49 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7144**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: CT abd and pelvis with oral and IV contrast. eval for mesent
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with SMV and portal vein thrombosis now with mesenteric 
+      ischemia
+     REASON FOR THIS EXAMINATION:
+      CT abd and pelvis with oral and IV contrast. eval for mesenteric ischemia. 
+      Please complete ASAP. Likely to OR [**9-3**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  36 y/o man with SMV and portal vein thrombosis with mesenteric
+     ischemia. Follow up.
+     
+     TECHNIQUE:  Helical scanning was performed from the diaphragms to the
+     symphysis during dynamic injection of 150 cc Optiray.  Comparison is made to
+     prior study dated [**2757-8-31**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  A small right pleural effusion is noted. There
+     is atelectasis at the right lung base. The liver, gallbladder, pancreas,
+     adrenal glands and right kidney are unremarkable. The patient is status post
+     splenectomy.  Several splenules are seen in the left upper quadrant. The left
+     kidney is small but enhances homogeneously.  There is normal perfusion of the
+     celiac trunk and SMA.  The portal vein is not well visualized as is the SMV.
+     Within the right lower quadrant in the area where previously abnormal loops
+     were identified there is no bowel wall thickening. Oral contrast is seen
+     passing into the cecum.  No dilated loops of bowel are noted. There is mild
+     stranding in the mesenteric fat which is unchanged in appearance.
+     
+     CT PELVIS WITH IV CONTRAST:  Normal appearance of large and small bowel loops.
+     There is no free fluid in the pelvis. A Foley catheter is seen within the
+     bladder.
+     
+     IMPRESSION:
+     
+     1. In comparison to prior study dated [**2757-8-31**] the appearance of the bowel
+     loops in the right lower quadrant is improved.  There is no wall thickening in
+     this region.  No bowel dilatation is noted.
+     2. persistent stranding of the mesentery, stable in appearance.
+     3. Portal vein and superior mesenteric vein are not visualized consistent with
+     known diagnosis of portal vein thrombosis.  This is also unchanged. Findings
+     were discussed with the surgical team at time of examination.
+
+             DR. [**First Name8 (NamePattern2) 6631**] [**Last Name (NamePattern1) **]
+",,
+14183,,,,2757-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-3**] 10:49 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7144**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: CT abd and pelvis with oral and IV contrast. eval for mesent
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with SMV and portal vein thrombosis now with mesenteric 
+      ischemia
+     REASON FOR THIS EXAMINATION:
+      CT abd and pelvis with oral and IV contrast. eval for mesenteric ischemia. 
+      Please complete ASAP. Likely to OR [**9-3**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  36 y/o man with SMV and portal vein thrombosis with mesenteric
+     ischemia. Follow up.
+     
+     TECHNIQUE:  Helical scanning was performed from the diaphragms to the
+     symphysis during dynamic injection of 150 cc Optiray.  Comparison is made to
+     prior study dated [**2757-8-31**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  A small right pleural effusion is noted. There
+     is atelectasis at the right lung base. The liver, gallbladder, pancreas,
+     adrenal glands and right kidney are unremarkable. The patient is status post
+     splenectomy.  Several splenules are seen in the left upper quadrant. The left
+     kidney is small but enhances homogeneously.  There is normal perfusion of the
+     celiac trunk and SMA.  The portal vein is not well visualized as is the SMV.
+     Within the right lower quadrant in the area where previously abnormal loops
+     were identified there is no bowel wall thickening. Oral contrast is seen
+     passing into the cecum.  No dilated loops of bowel are noted. There is mild
+     stranding in the mesenteric fat which is unchanged in appearance.
+     
+     CT PELVIS WITH IV CONTRAST:  Normal appearance of large and small bowel loops.
+     There is no free fluid in the pelvis. A Foley catheter is seen within the
+     bladder.
+     
+     IMPRESSION:
+     
+     1. In comparison to prior study dated [**2757-8-31**] the appearance of the bowel
+     loops in the right lower quadrant is improved.  There is no wall thickening in
+     this region.  No bowel dilatation is noted.
+     2. persistent stranding of the mesentery, stable in appearance.
+     3. Portal vein and superior mesenteric vein are not visualized consistent with
+     known diagnosis of portal vein thrombosis.  This is also unchanged. Findings
+     were discussed with the surgical team at time of examination.
+
+             DR. [**First Name8 (NamePattern2) 6631**] [**Last Name (NamePattern1) **]
+",,
+14183,,,,2757-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-8**] 8:48 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 7145**]
+     Reason: please perform upright and supine KUB. please complete stat.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man s/p LOA, small bowel resection with increasing abdominal pain.  
+     REASON FOR THIS EXAMINATION:
+      please perform upright and supine KUB. please complete stat.s/p LOA, small 
+      bowel resectio with increasing abd pain.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of increasing abdominal pain in patient status post lysis
+     of adhesions.
+     
+     There is gas and retained contrast throughout the colon.  There are a few
+     loops of gas filled small bowel with small air fluid levels and one  larger
+     air fluid level in the right lower quadrant.  No free intraperitoneal gas.
+     Surgical clips are present in the upper and mid abdomen.
+     
+     IMPRESSION:  Findings are not diagnostic for intestinal obstruction at this
+     time, but correlate clinically and with follow up if indicated.  There are
+     scattered air fluid levels in the nondilated small bowel and one large air
+     fluid level in the right lower quadrant as described.
+
+",,
+14183,,,,2757-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-11**] 11:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7146**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please complete abd ct with PO and IV contrast. s/p ex lap (
+     Field of view: 40 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       36 year old man with SMV and portal vein thrombosis now with mesenteric  
+      ischemia
+     REASON FOR THIS EXAMINATION:
+      please complete abd ct with PO and IV contrast. s/p ex lap (POD8) with LOA and 
+      10 cm small bowel resection with continuing inactive bowel function.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  FMD and portal vein thrombosis, mesenteric ischemia, postop Day 8
+     after lysis of adhesions and resection of 10 cm of small bowel.  Elevated
+     white count.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained after
+     administration of 150 cc Optiray per patient's request.
+     
+     COMPARISON with prior study from [**2757-9-3**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are linear opacities in the lung bases
+     consistent with subsegmental atelectases.  There are small bilateral pleural
+     effusions.  There are small bibasilar areas of consolidation.
+     
+     There are no focal liver lesions. The gallbladder is partially distended.  The
+     portal vein is not seen, consistent with known history of portal vein
+     thrombosis.  The superior mesenteric vein is not enhancing; it appears
+     slightly enlarged, also consistent with known history of superior mesenteric
+     vein thrombosis.  The pancreas is unremarkable.  There is no intra or
+     extrahepatic ductal dilatation.  There are clips in the splenic fossa.  Again
+     seen are small splenules, which are unchanged.  Both adrenal glands appear
+     slightly enlarged when compared to the prior study. The left one measures 5.3
+     x 2 cm.  Again seen is asymmetry in the size of the right kidney when compared
+     to the left, unchanged compared to the prior study.  There is symmetric
+     excretion; the ureters are not dilated.  Loops of small bowel are not dilated.
+     Contrast is seen in the right hemicolon.
+     
+     There is a fluid collection in the midline of the anterior abdominal cavity,
+     which extends along the site of the midline incision. The collection has rim
+     enhancing borders and a few air droplets in the more inferior portion, as well
+     as a few air droplets in the more superior portion.  The greatest measurement
+     is 10.5 x 2.4 cm.  Inferiorly this collection also extends in the right
+     anterior abdominal cavity, anterior to the right ascending colon. A smaller
+     collection is seen posterior to the previously described collection, adjacent
+     to a loop of small bowel; it measures 3.2 x 4.8 cm.  It does not seem to
+     communicate with the larger collection.  There is a small amount of fluid
+     within the mesentery in the lower abdominal cuts.
+     
+     CT PELVIS WITH IV CONTRAST:  The bladder and both ureters are normal.  The
+                                                                 (Over)
+
+     DATE: [**2757-9-11**] 11:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7146**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please complete abd ct with PO and IV contrast. s/p ex lap (
+     Field of view: 40 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     rectum is decompressed. The prostate is unremarkable.  The bones are
+     unremarkable.
+     
+     Coronal reformations were obtained and confirm the presence of a
+     multiloculated interloop collection, the largest component measuring 13 x 7.7
+     cm in the coronal plane.  The more inferior component may not be connected to
+     this larger collection and it measures 3.8 x 7.7 cm.
+     
+     IMPRESSION:
+     
+     1. New collection in the anterior abdominal cavity, adjacent to loops of small
+     bowel.   The largest collection is amenable to CT or ultrasound guidance.
+     
+     2. No change in portal and superior mesenteric vein thrombosis.
+     
+     3. No evidence of bowel obstruction.
+     
+     4. Bilateral slight adrenal enlargement, no evidence of focal masses.
+     
+     
+
+",,
+14183,,,,2757-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-11**] 3:30 PM
+     CT PERITONEAL DRAINAGE; CT GUIDANCE DRAINAGE                    Clip # [**Clip Number (Radiology) 7147**]
+     CT LOC DRAINAGE
+     Reason: please complete CT or U/S guided drain placement and culture
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        36 year old man with s/p lysis of adhesions and small bowel resection         
+     REASON FOR THIS EXAMINATION:
+      please complete CT or U/S guided drain placement and culture for anterior 
+      abdominal abscess. Pt s/p lysis of adhesions and small bowel resection.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  S/P lysis of adhesions and small bowel resection, evaluate for
+     anterior peritoneal abscess.
+     
+     TECHNIQUE:  CT guidance for drainage, CT localization for needle placement, CT
+     guided aspiration of two collections.
+     
+     CT GUIDANCE FOR DRAINAGE:  A grid was placed in the anterior abdomen and the
+     patient was scanned without IV contrast in the mid abdomen.  Again seen is a
+     collection in the anterior abdominal cavity, anterior to loops of small bowel.
+     A second collection was seen in the inferior peritoneal cavity, at
+     approximately the level of the iliac crest.
+     
+     CT GUIDANCE FOR NEEDLE LOCALIZATION:  The patient signed the consent after
+     full explanation of risks and benefits.  Using sterile technique, CT
+     fluoroscopic guidance  and Lidocaine as local anesthesia, a 20 g. needle was
+     introduced in the upper abdominal collection, approximately at the level of
+     the right mid kidney.
+     
+     A second needle was placed in an anterior peritoneal collection located in the
+     inferior abdominal cavity, at approximately the level of the iliac crest also
+     using CT fluoroscopic guidance. 
+     
+     CT GUIDED ASPIRATION OF TWO COLLECTIONS:  Approximately 1.5 cc of
+     serosanguineous fluid were aspirated from each collection and samples were
+     sent for culture.  The collections were not completely drained due to
+     viscosity of the fluid and size of the needle.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Samples were obtained from a superior anterior peritoneal
+     collection and also from an inferior anterior peritoneal collection, fluid was
+     sent to the Lab for cultures.  The fluid is compatible with a resolving
+     hematoma and if there is further need for a drainage the procedure can be
+     guided by CT . At the present time the patient still has oral contrast in the
+     stomach and conscious sedation cannot be administered . Findings were
+     discussed with clinical team.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2757-9-11**] 3:30 PM
+     CT PERITONEAL DRAINAGE; CT GUIDANCE DRAINAGE                    Clip # [**Clip Number (Radiology) 7147**]
+     CT LOC DRAINAGE
+     Reason: please complete CT or U/S guided drain placement and culture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14183,,,,2757-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-11**] 3:30 PM
+     CT PERITONEAL DRAINAGE; CT GUIDANCE DRAINAGE                    Clip # [**Clip Number (Radiology) 7147**]
+     CT LOC DRAINAGE
+     Reason: please complete CT or U/S guided drain placement and culture
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        36 year old man with s/p lysis of adhesions and small bowel resection         
+     REASON FOR THIS EXAMINATION:
+      please complete CT or U/S guided drain placement and culture for anterior 
+      abdominal abscess. Pt s/p lysis of adhesions and small bowel resection.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  S/P lysis of adhesions and small bowel resection, evaluate for
+     anterior peritoneal abscess.
+     
+     TECHNIQUE:  CT guidance for drainage, CT localization for needle placement, CT
+     guided aspiration of two collections.
+     
+     CT GUIDANCE FOR DRAINAGE:  A grid was placed in the anterior abdomen and the
+     patient was scanned without IV contrast in the mid abdomen.  Again seen is a
+     collection in the anterior abdominal cavity, anterior to loops of small bowel.
+     A second collection was seen in the inferior peritoneal cavity, at
+     approximately the level of the iliac crest.
+     
+     CT GUIDANCE FOR NEEDLE LOCALIZATION:  The patient signed the consent after
+     full explanation of risks and benefits.  Using sterile technique, CT
+     fluoroscopic guidance  and Lidocaine as local anesthesia, a 20 g. needle was
+     introduced in the upper abdominal collection, approximately at the level of
+     the right mid kidney.
+     
+     A second needle was placed in an anterior peritoneal collection located in the
+     inferior abdominal cavity, at approximately the level of the iliac crest also
+     using CT fluoroscopic guidance. 
+     
+     CT GUIDED ASPIRATION OF TWO COLLECTIONS:  Approximately 1.5 cc of
+     serosanguineous fluid were aspirated from each collection and samples were
+     sent for culture.  The collections were not completely drained due to
+     viscosity of the fluid and size of the needle.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Samples were obtained from a superior anterior peritoneal
+     collection and also from an inferior anterior peritoneal collection, fluid was
+     sent to the Lab for cultures.  The fluid is compatible with a resolving
+     hematoma and if there is further need for a drainage the procedure can be
+     guided by CT . At the present time the patient still has oral contrast in the
+     stomach and conscious sedation cannot be administered . Findings were
+     discussed with clinical team.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2757-9-11**] 3:30 PM
+     CT PERITONEAL DRAINAGE; CT GUIDANCE DRAINAGE                    Clip # [**Clip Number (Radiology) 7147**]
+     CT LOC DRAINAGE
+     Reason: please complete CT or U/S guided drain placement and culture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14183,,,,2757-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-11**] 3:30 PM
+     CT PERITONEAL DRAINAGE; CT GUIDANCE DRAINAGE                    Clip # [**Clip Number (Radiology) 7147**]
+     CT LOC DRAINAGE
+     Reason: please complete CT or U/S guided drain placement and culture
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        36 year old man with s/p lysis of adhesions and small bowel resection         
+     REASON FOR THIS EXAMINATION:
+      please complete CT or U/S guided drain placement and culture for anterior 
+      abdominal abscess. Pt s/p lysis of adhesions and small bowel resection.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  S/P lysis of adhesions and small bowel resection, evaluate for
+     anterior peritoneal abscess.
+     
+     TECHNIQUE:  CT guidance for drainage, CT localization for needle placement, CT
+     guided aspiration of two collections.
+     
+     CT GUIDANCE FOR DRAINAGE:  A grid was placed in the anterior abdomen and the
+     patient was scanned without IV contrast in the mid abdomen.  Again seen is a
+     collection in the anterior abdominal cavity, anterior to loops of small bowel.
+     A second collection was seen in the inferior peritoneal cavity, at
+     approximately the level of the iliac crest.
+     
+     CT GUIDANCE FOR NEEDLE LOCALIZATION:  The patient signed the consent after
+     full explanation of risks and benefits.  Using sterile technique, CT
+     fluoroscopic guidance  and Lidocaine as local anesthesia, a 20 g. needle was
+     introduced in the upper abdominal collection, approximately at the level of
+     the right mid kidney.
+     
+     A second needle was placed in an anterior peritoneal collection located in the
+     inferior abdominal cavity, at approximately the level of the iliac crest also
+     using CT fluoroscopic guidance. 
+     
+     CT GUIDED ASPIRATION OF TWO COLLECTIONS:  Approximately 1.5 cc of
+     serosanguineous fluid were aspirated from each collection and samples were
+     sent for culture.  The collections were not completely drained due to
+     viscosity of the fluid and size of the needle.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Samples were obtained from a superior anterior peritoneal
+     collection and also from an inferior anterior peritoneal collection, fluid was
+     sent to the Lab for cultures.  The fluid is compatible with a resolving
+     hematoma and if there is further need for a drainage the procedure can be
+     guided by CT . At the present time the patient still has oral contrast in the
+     stomach and conscious sedation cannot be administered . Findings were
+     discussed with clinical team.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2757-9-11**] 3:30 PM
+     CT PERITONEAL DRAINAGE; CT GUIDANCE DRAINAGE                    Clip # [**Clip Number (Radiology) 7147**]
+     CT LOC DRAINAGE
+     Reason: please complete CT or U/S guided drain placement and culture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14183,,,,2757-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-11**] 11:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7146**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please complete abd ct with PO and IV contrast. s/p ex lap (
+     Field of view: 40 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       36 year old man with SMV and portal vein thrombosis now with mesenteric  
+      ischemia
+     REASON FOR THIS EXAMINATION:
+      please complete abd ct with PO and IV contrast. s/p ex lap (POD8) with LOA and 
+      10 cm small bowel resection with continuing inactive bowel function.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  FMD and portal vein thrombosis, mesenteric ischemia, postop Day 8
+     after lysis of adhesions and resection of 10 cm of small bowel.  Elevated
+     white count.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained after
+     administration of 150 cc Optiray per patient's request.
+     
+     COMPARISON with prior study from [**2757-9-3**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are linear opacities in the lung bases
+     consistent with subsegmental atelectases.  There are small bilateral pleural
+     effusions.  There are small bibasilar areas of consolidation.
+     
+     There are no focal liver lesions. The gallbladder is partially distended.  The
+     portal vein is not seen, consistent with known history of portal vein
+     thrombosis.  The superior mesenteric vein is not enhancing; it appears
+     slightly enlarged, also consistent with known history of superior mesenteric
+     vein thrombosis.  The pancreas is unremarkable.  There is no intra or
+     extrahepatic ductal dilatation.  There are clips in the splenic fossa.  Again
+     seen are small splenules, which are unchanged.  Both adrenal glands appear
+     slightly enlarged when compared to the prior study. The left one measures 5.3
+     x 2 cm.  Again seen is asymmetry in the size of the right kidney when compared
+     to the left, unchanged compared to the prior study.  There is symmetric
+     excretion; the ureters are not dilated.  Loops of small bowel are not dilated.
+     Contrast is seen in the right hemicolon.
+     
+     There is a fluid collection in the midline of the anterior abdominal cavity,
+     which extends along the site of the midline incision. The collection has rim
+     enhancing borders and a few air droplets in the more inferior portion, as well
+     as a few air droplets in the more superior portion.  The greatest measurement
+     is 10.5 x 2.4 cm.  Inferiorly this collection also extends in the right
+     anterior abdominal cavity, anterior to the right ascending colon. A smaller
+     collection is seen posterior to the previously described collection, adjacent
+     to a loop of small bowel; it measures 3.2 x 4.8 cm.  It does not seem to
+     communicate with the larger collection.  There is a small amount of fluid
+     within the mesentery in the lower abdominal cuts.
+     
+     CT PELVIS WITH IV CONTRAST:  The bladder and both ureters are normal.  The
+                                                                 (Over)
+
+     DATE: [**2757-9-11**] 11:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7146**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please complete abd ct with PO and IV contrast. s/p ex lap (
+     Field of view: 40 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     rectum is decompressed. The prostate is unremarkable.  The bones are
+     unremarkable.
+     
+     Coronal reformations were obtained and confirm the presence of a
+     multiloculated interloop collection, the largest component measuring 13 x 7.7
+     cm in the coronal plane.  The more inferior component may not be connected to
+     this larger collection and it measures 3.8 x 7.7 cm.
+     
+     IMPRESSION:
+     
+     1. New collection in the anterior abdominal cavity, adjacent to loops of small
+     bowel.   The largest collection is amenable to CT or ultrasound guidance.
+     
+     2. No change in portal and superior mesenteric vein thrombosis.
+     
+     3. No evidence of bowel obstruction.
+     
+     4. Bilateral slight adrenal enlargement, no evidence of focal masses.
+     
+     
+
+",,
+14183,,,,2757-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-11**] 11:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7146**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please complete abd ct with PO and IV contrast. s/p ex lap (
+     Field of view: 40 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       36 year old man with SMV and portal vein thrombosis now with mesenteric  
+      ischemia
+     REASON FOR THIS EXAMINATION:
+      please complete abd ct with PO and IV contrast. s/p ex lap (POD8) with LOA and 
+      10 cm small bowel resection with continuing inactive bowel function.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  FMD and portal vein thrombosis, mesenteric ischemia, postop Day 8
+     after lysis of adhesions and resection of 10 cm of small bowel.  Elevated
+     white count.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained after
+     administration of 150 cc Optiray per patient's request.
+     
+     COMPARISON with prior study from [**2757-9-3**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are linear opacities in the lung bases
+     consistent with subsegmental atelectases.  There are small bilateral pleural
+     effusions.  There are small bibasilar areas of consolidation.
+     
+     There are no focal liver lesions. The gallbladder is partially distended.  The
+     portal vein is not seen, consistent with known history of portal vein
+     thrombosis.  The superior mesenteric vein is not enhancing; it appears
+     slightly enlarged, also consistent with known history of superior mesenteric
+     vein thrombosis.  The pancreas is unremarkable.  There is no intra or
+     extrahepatic ductal dilatation.  There are clips in the splenic fossa.  Again
+     seen are small splenules, which are unchanged.  Both adrenal glands appear
+     slightly enlarged when compared to the prior study. The left one measures 5.3
+     x 2 cm.  Again seen is asymmetry in the size of the right kidney when compared
+     to the left, unchanged compared to the prior study.  There is symmetric
+     excretion; the ureters are not dilated.  Loops of small bowel are not dilated.
+     Contrast is seen in the right hemicolon.
+     
+     There is a fluid collection in the midline of the anterior abdominal cavity,
+     which extends along the site of the midline incision. The collection has rim
+     enhancing borders and a few air droplets in the more inferior portion, as well
+     as a few air droplets in the more superior portion.  The greatest measurement
+     is 10.5 x 2.4 cm.  Inferiorly this collection also extends in the right
+     anterior abdominal cavity, anterior to the right ascending colon. A smaller
+     collection is seen posterior to the previously described collection, adjacent
+     to a loop of small bowel; it measures 3.2 x 4.8 cm.  It does not seem to
+     communicate with the larger collection.  There is a small amount of fluid
+     within the mesentery in the lower abdominal cuts.
+     
+     CT PELVIS WITH IV CONTRAST:  The bladder and both ureters are normal.  The
+                                                                 (Over)
+
+     DATE: [**2757-9-11**] 11:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7146**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please complete abd ct with PO and IV contrast. s/p ex lap (
+     Field of view: 40 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     rectum is decompressed. The prostate is unremarkable.  The bones are
+     unremarkable.
+     
+     Coronal reformations were obtained and confirm the presence of a
+     multiloculated interloop collection, the largest component measuring 13 x 7.7
+     cm in the coronal plane.  The more inferior component may not be connected to
+     this larger collection and it measures 3.8 x 7.7 cm.
+     
+     IMPRESSION:
+     
+     1. New collection in the anterior abdominal cavity, adjacent to loops of small
+     bowel.   The largest collection is amenable to CT or ultrasound guidance.
+     
+     2. No change in portal and superior mesenteric vein thrombosis.
+     
+     3. No evidence of bowel obstruction.
+     
+     4. Bilateral slight adrenal enlargement, no evidence of focal masses.
+     
+     
+
+",,
+14183,,,,2757-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-9-11**] 11:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7146**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please complete abd ct with PO and IV contrast. s/p ex lap (
+     Field of view: 40 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       36 year old man with SMV and portal vein thrombosis now with mesenteric  
+      ischemia
+     REASON FOR THIS EXAMINATION:
+      please complete abd ct with PO and IV contrast. s/p ex lap (POD8) with LOA and 
+      10 cm small bowel resection with continuing inactive bowel function.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  FMD and portal vein thrombosis, mesenteric ischemia, postop Day 8
+     after lysis of adhesions and resection of 10 cm of small bowel.  Elevated
+     white count.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained after
+     administration of 150 cc Optiray per patient's request.
+     
+     COMPARISON with prior study from [**2757-9-3**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are linear opacities in the lung bases
+     consistent with subsegmental atelectases.  There are small bilateral pleural
+     effusions.  There are small bibasilar areas of consolidation.
+     
+     There are no focal liver lesions. The gallbladder is partially distended.  The
+     portal vein is not seen, consistent with known history of portal vein
+     thrombosis.  The superior mesenteric vein is not enhancing; it appears
+     slightly enlarged, also consistent with known history of superior mesenteric
+     vein thrombosis.  The pancreas is unremarkable.  There is no intra or
+     extrahepatic ductal dilatation.  There are clips in the splenic fossa.  Again
+     seen are small splenules, which are unchanged.  Both adrenal glands appear
+     slightly enlarged when compared to the prior study. The left one measures 5.3
+     x 2 cm.  Again seen is asymmetry in the size of the right kidney when compared
+     to the left, unchanged compared to the prior study.  There is symmetric
+     excretion; the ureters are not dilated.  Loops of small bowel are not dilated.
+     Contrast is seen in the right hemicolon.
+     
+     There is a fluid collection in the midline of the anterior abdominal cavity,
+     which extends along the site of the midline incision. The collection has rim
+     enhancing borders and a few air droplets in the more inferior portion, as well
+     as a few air droplets in the more superior portion.  The greatest measurement
+     is 10.5 x 2.4 cm.  Inferiorly this collection also extends in the right
+     anterior abdominal cavity, anterior to the right ascending colon. A smaller
+     collection is seen posterior to the previously described collection, adjacent
+     to a loop of small bowel; it measures 3.2 x 4.8 cm.  It does not seem to
+     communicate with the larger collection.  There is a small amount of fluid
+     within the mesentery in the lower abdominal cuts.
+     
+     CT PELVIS WITH IV CONTRAST:  The bladder and both ureters are normal.  The
+                                                                 (Over)
+
+     DATE: [**2757-9-11**] 11:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7146**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please complete abd ct with PO and IV contrast. s/p ex lap (
+     Field of view: 40 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     rectum is decompressed. The prostate is unremarkable.  The bones are
+     unremarkable.
+     
+     Coronal reformations were obtained and confirm the presence of a
+     multiloculated interloop collection, the largest component measuring 13 x 7.7
+     cm in the coronal plane.  The more inferior component may not be connected to
+     this larger collection and it measures 3.8 x 7.7 cm.
+     
+     IMPRESSION:
+     
+     1. New collection in the anterior abdominal cavity, adjacent to loops of small
+     bowel.   The largest collection is amenable to CT or ultrasound guidance.
+     
+     2. No change in portal and superior mesenteric vein thrombosis.
+     
+     3. No evidence of bowel obstruction.
+     
+     4. Bilateral slight adrenal enlargement, no evidence of focal masses.
+     
+     
+
+",,
+14183,,,,2757-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-10-20**] 3:55 PM
+     CHEST (PRE-OP AP ONLY)                                          Clip # [**Clip Number (Radiology) 7148**]
+     Reason: r/o free air
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with ITP, portal vein thrombosis s/p small bowel resection 1
+      month ago now with acute abd pain
+     REASON FOR THIS EXAMINATION:
+      r/o free air
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     FRONTAL CHEST RADIOGRAPH [**2757-10-20**].
+     
+     INDICATION:  ITP, portal venous thrombosis, acute abdominal pain.  Evaluate
+     for free intraperitoneal air.
+     
+     COMPARISON:  [**2757-9-2**].
+     
+     The right costophrenic angle has been clipped in this view.  There is no
+     evidence of free intraperitoneal air.  The heart size, mediastinal and hilar
+     contours are normal.  There is slight opacity at the left lung base, probably
+     representing atelectasis.  Metallic clips overlie the mid-epigastrium.
+     
+     IMPRESSION:  No evidence of free intraperitoneal air.
+     
+
+",,
+14183,,,,2757-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-10-20**] 5:22 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 7149**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: HX PORTAL VEIN THROMBOSIS.BOWEL ISHCEMIA.S/P RESECTION
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with hx portal vein thrombosis, bowel ischemia, s/p resection
+     REASON FOR THIS EXAMINATION:
+      r/o ischemia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  36 year old man with portal vein thrombosis, history of bowel
+     ischemia, presents with severe abdominal pain.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained before and
+     after the administration of IV contrast.  Comparison with prior multiple
+     studies from August and [**2757-8-27**]. 
+     
+     There are bibasilar dependent atelectases.  There is a small amount of right
+     pleural fluid.  There has been interval resolution of the left small pleural
+     effusion.  Multiple clips are seen in the left upper quadrant and the anterior
+     abdomen.
+     
+     There are no focal liver lesions.  Again seen is cavernous transformation of
+     the portal vein.  There is a collateral vessel adjacent to the gallbladder.
+     The gallbladder is partially distended and unremarkable.  The pancreas, left
+     adrenal and right kidney are normal.  Again seen is a small left kidney which
+     is unchanged in the interval.  There is a small amount of fluid adjacent to
+     the right adrenal gland.  The superior mesenteric vein is not clearly
+     identified in the present study.  Normal flow is seen in the celiac, superior
+     mesenteric and inferior mesenteric arteries.  There are no enlarged
+     retroperitoneal lymph nodes.
+     
+     The stomach is distended with fluid.  The duodenum and small portion of the
+     jejunum are not dilated.  There is a long segment of mid-jejunum which is
+     dilated measuring up to 4 cm in greatest dimension.  There are air-fluid
+     levels within the dilated loops of small bowel, no evidence of pneumatosis.
+     There is a small amount of fluid in the mesentery adjacent to the dilated
+     loops of small bowel.  There are nondilated loops of small bowel in the ileum.
+     There is no evidence of free air in the abdomen.  Again seen are multiple
+     surgical sutures in the small bowel.  There is mild stranding of the mesentery
+     inferior to the dilated loops of bowel.  The colon is unremarkable.  Again
+     seen are multiple small splenules.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter within the
+     bladder.  There is a tiny amount of pelvic fluid.  The prostate is
+     unremarkable.  The bones are normal.
+     
+     Multiplanar reformations confirm the above findings.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2757-10-20**] 5:22 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 7149**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: HX PORTAL VEIN THROMBOSIS.BOWEL ISHCEMIA.S/P RESECTION
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1. Focally dilated loops of small bowel in the left hemiabdomen with
+     surrounding mesenteric stranding and a small amount of fluid in the mesentery.
+     new in comparison to the prior study. While the findings could be due to small
+     bowel obstruction from adhesions, ischemia cannot be excluded. Findings were
+     discussed with surgical team at the time of the study.
+     
+
+",,
+14183,,,,2757-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-10-20**] 5:22 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 7149**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: HX PORTAL VEIN THROMBOSIS.BOWEL ISHCEMIA.S/P RESECTION
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with hx portal vein thrombosis, bowel ischemia, s/p resection
+     REASON FOR THIS EXAMINATION:
+      r/o ischemia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  36 year old man with portal vein thrombosis, history of bowel
+     ischemia, presents with severe abdominal pain.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained before and
+     after the administration of IV contrast.  Comparison with prior multiple
+     studies from August and [**2757-8-27**]. 
+     
+     There are bibasilar dependent atelectases.  There is a small amount of right
+     pleural fluid.  There has been interval resolution of the left small pleural
+     effusion.  Multiple clips are seen in the left upper quadrant and the anterior
+     abdomen.
+     
+     There are no focal liver lesions.  Again seen is cavernous transformation of
+     the portal vein.  There is a collateral vessel adjacent to the gallbladder.
+     The gallbladder is partially distended and unremarkable.  The pancreas, left
+     adrenal and right kidney are normal.  Again seen is a small left kidney which
+     is unchanged in the interval.  There is a small amount of fluid adjacent to
+     the right adrenal gland.  The superior mesenteric vein is not clearly
+     identified in the present study.  Normal flow is seen in the celiac, superior
+     mesenteric and inferior mesenteric arteries.  There are no enlarged
+     retroperitoneal lymph nodes.
+     
+     The stomach is distended with fluid.  The duodenum and small portion of the
+     jejunum are not dilated.  There is a long segment of mid-jejunum which is
+     dilated measuring up to 4 cm in greatest dimension.  There are air-fluid
+     levels within the dilated loops of small bowel, no evidence of pneumatosis.
+     There is a small amount of fluid in the mesentery adjacent to the dilated
+     loops of small bowel.  There are nondilated loops of small bowel in the ileum.
+     There is no evidence of free air in the abdomen.  Again seen are multiple
+     surgical sutures in the small bowel.  There is mild stranding of the mesentery
+     inferior to the dilated loops of bowel.  The colon is unremarkable.  Again
+     seen are multiple small splenules.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter within the
+     bladder.  There is a tiny amount of pelvic fluid.  The prostate is
+     unremarkable.  The bones are normal.
+     
+     Multiplanar reformations confirm the above findings.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2757-10-20**] 5:22 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 7149**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: HX PORTAL VEIN THROMBOSIS.BOWEL ISHCEMIA.S/P RESECTION
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1. Focally dilated loops of small bowel in the left hemiabdomen with
+     surrounding mesenteric stranding and a small amount of fluid in the mesentery.
+     new in comparison to the prior study. While the findings could be due to small
+     bowel obstruction from adhesions, ischemia cannot be excluded. Findings were
+     discussed with surgical team at the time of the study.
+     
+
+",,
+14183,,,,2757-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-10-20**] 5:22 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 7149**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: HX PORTAL VEIN THROMBOSIS.BOWEL ISHCEMIA.S/P RESECTION
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with hx portal vein thrombosis, bowel ischemia, s/p resection
+     REASON FOR THIS EXAMINATION:
+      r/o ischemia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  36 year old man with portal vein thrombosis, history of bowel
+     ischemia, presents with severe abdominal pain.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained before and
+     after the administration of IV contrast.  Comparison with prior multiple
+     studies from August and [**2757-8-27**]. 
+     
+     There are bibasilar dependent atelectases.  There is a small amount of right
+     pleural fluid.  There has been interval resolution of the left small pleural
+     effusion.  Multiple clips are seen in the left upper quadrant and the anterior
+     abdomen.
+     
+     There are no focal liver lesions.  Again seen is cavernous transformation of
+     the portal vein.  There is a collateral vessel adjacent to the gallbladder.
+     The gallbladder is partially distended and unremarkable.  The pancreas, left
+     adrenal and right kidney are normal.  Again seen is a small left kidney which
+     is unchanged in the interval.  There is a small amount of fluid adjacent to
+     the right adrenal gland.  The superior mesenteric vein is not clearly
+     identified in the present study.  Normal flow is seen in the celiac, superior
+     mesenteric and inferior mesenteric arteries.  There are no enlarged
+     retroperitoneal lymph nodes.
+     
+     The stomach is distended with fluid.  The duodenum and small portion of the
+     jejunum are not dilated.  There is a long segment of mid-jejunum which is
+     dilated measuring up to 4 cm in greatest dimension.  There are air-fluid
+     levels within the dilated loops of small bowel, no evidence of pneumatosis.
+     There is a small amount of fluid in the mesentery adjacent to the dilated
+     loops of small bowel.  There are nondilated loops of small bowel in the ileum.
+     There is no evidence of free air in the abdomen.  Again seen are multiple
+     surgical sutures in the small bowel.  There is mild stranding of the mesentery
+     inferior to the dilated loops of bowel.  The colon is unremarkable.  Again
+     seen are multiple small splenules.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter within the
+     bladder.  There is a tiny amount of pelvic fluid.  The prostate is
+     unremarkable.  The bones are normal.
+     
+     Multiplanar reformations confirm the above findings.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2757-10-20**] 5:22 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 7149**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: HX PORTAL VEIN THROMBOSIS.BOWEL ISHCEMIA.S/P RESECTION
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1. Focally dilated loops of small bowel in the left hemiabdomen with
+     surrounding mesenteric stranding and a small amount of fluid in the mesentery.
+     new in comparison to the prior study. While the findings could be due to small
+     bowel obstruction from adhesions, ischemia cannot be excluded. Findings were
+     discussed with surgical team at the time of the study.
+     
+
+",,
+14183,,,,2757-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-10-20**] 5:22 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 7149**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: HX PORTAL VEIN THROMBOSIS.BOWEL ISHCEMIA.S/P RESECTION
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with hx portal vein thrombosis, bowel ischemia, s/p resection
+     REASON FOR THIS EXAMINATION:
+      r/o ischemia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  36 year old man with portal vein thrombosis, history of bowel
+     ischemia, presents with severe abdominal pain.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained before and
+     after the administration of IV contrast.  Comparison with prior multiple
+     studies from August and [**2757-8-27**]. 
+     
+     There are bibasilar dependent atelectases.  There is a small amount of right
+     pleural fluid.  There has been interval resolution of the left small pleural
+     effusion.  Multiple clips are seen in the left upper quadrant and the anterior
+     abdomen.
+     
+     There are no focal liver lesions.  Again seen is cavernous transformation of
+     the portal vein.  There is a collateral vessel adjacent to the gallbladder.
+     The gallbladder is partially distended and unremarkable.  The pancreas, left
+     adrenal and right kidney are normal.  Again seen is a small left kidney which
+     is unchanged in the interval.  There is a small amount of fluid adjacent to
+     the right adrenal gland.  The superior mesenteric vein is not clearly
+     identified in the present study.  Normal flow is seen in the celiac, superior
+     mesenteric and inferior mesenteric arteries.  There are no enlarged
+     retroperitoneal lymph nodes.
+     
+     The stomach is distended with fluid.  The duodenum and small portion of the
+     jejunum are not dilated.  There is a long segment of mid-jejunum which is
+     dilated measuring up to 4 cm in greatest dimension.  There are air-fluid
+     levels within the dilated loops of small bowel, no evidence of pneumatosis.
+     There is a small amount of fluid in the mesentery adjacent to the dilated
+     loops of small bowel.  There are nondilated loops of small bowel in the ileum.
+     There is no evidence of free air in the abdomen.  Again seen are multiple
+     surgical sutures in the small bowel.  There is mild stranding of the mesentery
+     inferior to the dilated loops of bowel.  The colon is unremarkable.  Again
+     seen are multiple small splenules.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter within the
+     bladder.  There is a tiny amount of pelvic fluid.  The prostate is
+     unremarkable.  The bones are normal.
+     
+     Multiplanar reformations confirm the above findings.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2757-10-20**] 5:22 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 7149**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: HX PORTAL VEIN THROMBOSIS.BOWEL ISHCEMIA.S/P RESECTION
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1. Focally dilated loops of small bowel in the left hemiabdomen with
+     surrounding mesenteric stranding and a small amount of fluid in the mesentery.
+     new in comparison to the prior study. While the findings could be due to small
+     bowel obstruction from adhesions, ischemia cannot be excluded. Findings were
+     discussed with surgical team at the time of the study.
+     
+
+",,
+14183,,,,2757-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2757-12-10**] 12:53 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7150**]
+     Reason: evaluate epidural hematoma.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with right-sided epidural hematoma s/p craniotomy [**2757-8-5**]. hx
+      Hodgkins's disease, ITP, protein S deficiency, on Coumadin. 
+     REASON FOR THIS EXAMINATION:
+      evaluate epidural hematoma.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Right sided epidural hematoma, status post craniotomy [**2757-8-5**].
+     Evaluate epidural hematoma.
+     
+     TECHNIQUE:  Noncontrast CT exam of the head.
+     
+     COMPARISONS: Head CT of [**2757-8-7**].
+     
+     FINDINGS:  Again noted are changes consistent with a previous craniotomy of
+     the right temporal region. There is no associated intra/extra axial hemorrhage
+     or effacement of the adjacent sulci.  There has been interval resolution of
+     the previously described air density adjacent to the surgical site. The
+     ventricles are normal in appearance. There is no shift of the midline
+     structures. There is no evidence of major or minor vascular territorial
+     infarcts. The remaining osseous structures, soft tissues and paranasal sinuses
+     are unremarkable.
+     
+     IMPRESSION:  Status post right temporal craniotomy with interval resolution of
+     the epidural hematoma, and postoperative changes described on the exam of
+     [**2757-8-7**].
+     
+     
+
+",,

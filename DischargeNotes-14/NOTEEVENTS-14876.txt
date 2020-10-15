@@ -1,0 +1,503 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14876,23084,,,3379-04-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3379-4-16**]              Discharge Date:   [**3379-4-22**]
+ 
+Date of Birth:  [**3299-9-6**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides)
+ 
+Attending:[**First Name3 (LF) 606**] 
+Chief Complaint:
+PNA, rapid A fib, SDH 
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+79 yo man with DM, A fib (not on coumadin), who presented to 
+[**Hospital1 **] around 9 pm c/o 1 day h/o fever (Tm104) and cough. 
+Earlier that morning he syncopized while getting up from a chair 
+and had head trauma. He proceeded to become more lethargic 
+throughout the day after the fall. At [**Hospital1 **] he was diagnosed 
+with RML PNA and diffuse sinusitis (given Ceftriaxone, 
+Zithromax, 1L IVF), A fib with RVR at [**Street Address 11342**] 
+depressions, and an acute 1.3 cm R tentorial subdural hematoma. 
+He was transferred to [**Hospital1 19**] for further evaluation. Seen by 
+neurosurg who felt that given location of hematoma and normal 
+neuro exam, treatment would be conservative with serial neuro 
+exams and repeat head CT later today.  
+.  
+Patient currently denies chest pain, palpitations, 
+lightheadedness, or any pain. He does have some ""rattling"" in 
+his chest but denies SOB.  
+
+ 
+Past Medical History:
+- A fib  
+- DM 2  
+- HTN  
+- h/o PNA with resultant pulm scarring  
+
+ 
+Social History:
+visiting from upstate [**State 3255**] 
+ 
+Physical Exam:
+Tm 99.0, HR 98, BP 96/50, RR 13, 85% on 3L  
+GEN - NAD, A&Ox3  
+HEENT - PERRL, EOMI, OP clear, mucosa dry  
+LUNGS - rales diffusely with egophany R base and R side, 
+expiratory wheezes in upper zones  
+HEART - irreg irreg, no murmurs appreciated  
+ABD - soft, NT/ND, NABS, no hsm  
+EXT - no edema, 2+ pedal pulses  
+
+ 
+Pertinent Results:
+[**3379-4-16**] 12:50AM BLOOD WBC-13.0* RBC-4.59* Hgb-14.6 Hct-42.3 
+MCV-92 MCH-31.7 MCHC-34.4 RDW-13.5 Plt Ct-171
+[**3379-4-22**] 06:39AM BLOOD WBC-11.1* RBC-3.43* Hgb-11.1* Hct-31.9* 
+MCV-93 MCH-32.4* MCHC-34.8 RDW-13.6 Plt Ct-228
+[**3379-4-16**] 12:50AM BLOOD Neuts-62 Bands-16* Lymphs-11* Monos-6 
+Eos-1 Baso-0 Atyps-2* Metas-2* Myelos-0 NRBC-1*
+[**3379-4-19**] 06:50AM BLOOD Neuts-83.9* Lymphs-12.6* Monos-3.3 Eos-0 
+Baso-0.2
+[**3379-4-16**] 04:45AM BLOOD PT-12.4 PTT-27.3 INR(PT)-1.0
+[**3379-4-16**] 12:50AM BLOOD Glucose-185* UreaN-19 Creat-1.4* Na-137 
+K-3.9 Cl-97 HCO3-27 AnGap-17
+[**3379-4-21**] 05:59AM BLOOD Glucose-93 UreaN-22* Creat-0.9 Na-142 
+K-3.3 Cl-103 HCO3-31* AnGap-11
+[**3379-4-16**] 12:50AM BLOOD Calcium-8.9 Phos-4.3 Mg-1.3*
+[**3379-4-22**] 06:39AM BLOOD Calcium-8.9 Phos-4.0 Mg-1.9
+[**3379-4-16**] 08:10AM BLOOD Type-ART Temp-35.6 O2 Flow-2 pO2-75* 
+pCO2-40 pH-7.35 calHCO3-23 Base XS--3 Intubat-NOT INTUBA 
+Comment-NASAL [**Last Name (un) **]
+[**3379-4-16**] 01:04AM BLOOD Lactate-2.1*
+[**3379-4-16**] 04:45AM BLOOD CK-MB-3 cTropnT-0.03*
+[**3379-4-16**] 05:13PM BLOOD CK-MB-5 cTropnT-<0.01
+#########################################################
+CXR:  Parenchymal infiltrate in right-sided mid lung field 
+probably representing acute infection, follow up is recommended 
+as there exist no previous chest examinations in our records for 
+comparison.
+#########################################################
+CT HEAD:  There is a small amount of blood tracking primarily 
+along the right falx and tentorium. There may be a small amount 
+along the left tentorium. A small amount of subarachnoid blood 
+may be present along the anterior frontal lobes, as there is 
+mildly increased attenuation in the frontal extraaxial spaces. A 
+small amount is noted more laterally on the right as well. There 
+is no mass effect, shift of normally midline structures, 
+hydrocephalus or major vascular territorial infarct. 
+Hypoattenuation in the periventricular white matters is 
+consistent with chronic microvascular angiopathy. Lacune is 
+noted in the left lentiform nucleus. The density values of the 
+brain parenchyma are preserved. There is significant mucosal 
+thickening and fluid in the paranasal sinuses, most prominent in 
+the ethmoid and maxillary sinuses. Osseous structures are 
+unremarkable.  IMPRESSION: Small amount of subdural blood 
+tracking primarily along the right falx and tentorium. Possible 
+small amount of subarachnoid blood in the frontal lobes.
+##########################################################
+TTE:  The left atrium is mildly dilated. The right atrium is 
+moderately dilated.  Left ventricular wall thicknesses are 
+normal. The left ventricular cavity size is normal. There is 
+mild regional left ventricular systolic dysfunction with 
+infero-lateral hypokinesis. The right ventricular cavity is 
+mildly dilated. Right ventricular systolic function is 
+borderline normal. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. Trace aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Mild (1+) mitral 
+regurgitation is seen. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion.  IMPRESSION: 
+Mild regional LV hypokinesis c/w CAD. Mildly dilated RV cavity 
+with borderline RV systolic function. Mild pulmonary 
+hypertension.  
+############################################################
+ 
+Brief Hospital Course:
+SUBDURAL HEMATOMA:  visualized on CT of head.  No neurologic 
+deficits throughout hospitalization.  Neurosurgery evaluation, 
+no intervention.
+.
+ARF:  Cr normalized with IVF.  Likely secondary to hypoperfusion 
+in setting of septic shock.
+.
+SEPTIC SHOCK:  RML PNA on CXR.  BPs improved with 4L NS IVF 
+boluses.  Stress dose steroids given.  Underlying cause i.e., 
+PNA, treated with Abx.
+.
+PNA:  gram negative rods in sputum.  Txed with ceftriaxone and 
+azithromycin.  Fever curve and symptoms improved with Abx.  Also 
+received respiratory PT and nebulizaer treatments.  Still 
+required minimal supplemental oxygen at time of discharge.
+.
+CHF:  TTE showed biventricular systolic dysfunction with 
+regional wall motion abnormalities suggestive of coronary 
+disease and developing cor pulmonale.  After normalization of 
+BPs, titrated up his beta-blocker and ACE, continued aspirin and 
+diuresis with lasix improved dyspnea.
+.
+HTN:  continued metoprolol and lisinopril with adequate control.
+.
+AFIB:  RVR.  rate controlled with increased BB and added 
+digoxin.  No anticoagulation for past year given fall risk.  
+.
+PULM FIBROSIS:  thought to be secondary to PNA of a year ago.  
+On prednisone 20 mg QD at home.  Stress dose given on this 
+hospitalization, titrating down at time of discharge.
+.
+DM2:  continued glargine + metformin + ISS.
+.
+OSTEOPENIA:  gave calcium, vitamin D, and alendronate
+ 
+Medications on Admission:
+- insulin lantus 25 U SC qam  
+- actos  
+- atenolol ? 25 mg po qd  
+- crestor qhs  
+- metformin bid  
+- prednisone  
+- amitriptyline  
+- digoxin  
+- ASA 325 mg po qd  
+
+ 
+Discharge Medications:
+1. Azithromycin 250 mg Capsule Sig: Two (2) Capsule PO Q24H 
+(every 24 hours) for 6 days.
+Disp:*12 Capsule(s)* Refills:*0*
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO QID (4 times a day) as needed.
+Disp:*120 Tablet, Chewable(s)* Refills:*2*
+3. Combivent 103-18 mcg/Actuation Aerosol Sig: Two (2)  
+Inhalation every six (6) hours.
+Disp:*1 1* Refills:*2*
+4. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Alendronate Sodium 5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Lisinopril 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR 
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+9. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily): take two tablets daily for 4 days then resume taking 
+one tablet daily.
+Disp:*30 Tablet(s)* Refills:*2*
+11. Furosemide 20 mg Tablet Sig: one half Tablet PO once a day.
+Disp:*15 Tablet(s)* Refills:*2*
+12. Rosuvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+13. oxygen
+O2 at 2-3L, O2sat at rest is 95% on 3L and 86% on RA with 
+activity.  Please keep resting and ambulating O2sats > 93%
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+PRIMARY:
+--Septic shock
+--PNA (RML)
+--subdural hematoma (1.3 cm tentorial)
+--ARF
+SECONDARY:
+--AFIB w/ RVR
+--DM2
+--Pulmonary fibrosis
+
+ 
+Discharge Condition:
+ambulating, o2sats in 90s on RA
+
+ 
+Discharge Instructions:
+--Take all medications as prescribed
+--Seek immediate medical attention if experiencing fever, 
+shortness of breath, chest pain.
+--Follow-up on all appointments
+ 
+Followup Instructions:
+Pt to follow-up with his PCP in [**Name9 (PRE) 3255**] when he returns within 
+a week after discharge
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 611**] MD, [**MD Number 612**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **] MD [**MD Number 4255**] [**3379-9-13**] @ 1032
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 613**] [**Doctor Last Name **]
+ on: FRI [**3379-9-24**] 4:59 PM
+(End of Report)
+
+
+",,
+14876,23084,,,3379-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3379-4-16**] 8:21 AM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 13128**]
+     Reason: eval for progression of SDH                                 
+     Admitting Diagnosis: SUBDURAL HEMATOMA-PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with acute SDH [**4-15**] 1.3 cm tentorial.                           
+     REASON FOR THIS EXAMINATION:
+      eval for progression of SDH                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate for progression of subdural hematoma.
+     
+     Contiguous axial images were obtained through the brain.  No contrast was
+     administered.  Comparison to a head CT of earlier on [**3379-4-16**].  
+     
+     FINDINGS:  There have been no significant changes since the study performed 6
+     hours earlier.  Again identified is a subdural hematoma along the tentorium
+     and the right side of the falx.  There is no evidence of mass effect.  There
+     is no midline shift.  Again identified is partial opacification of the
+     maxillary sinuses bilaterally with air fluid levels as well as partial
+     opacification of the ethmoid and sphenoid sinuses.
+     
+     CONCLUSION:  No change since [**3379-4-16**] at 2:00 a.m.  Stable right falcine and
+     tentorial subdural hematoma.
+                                                                           
+
+",,
+14876,23084,,,3379-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3379-4-16**] 1:33 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13126**]
+     Reason: evaluate size of subdural                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with history of subdural                                        
+     REASON FOR THIS EXAMINATION:
+      evaluate size of subdural                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JCT FRI [**3379-4-16**] 2:08 AM
+      small amount of subdural blood tracking primarily along the right falx and
+      tentorium. Small amount of anterior subarachnoid blood. No midline shift or
+      mass effect.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  79-year-old man with history of subdural hematoma.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is a small amount of blood tracking primarily along the right
+     falx and tentorium.  There may be a small amount along the left tentorium.  A
+     small amount of subarachnoid blood may be present along the anterior frontal
+     lobes, as there is mildly increased attenuation in the frontal extraaxial
+     spaces. A small amount is noted more laterally on the right as well.  There is
+     no mass effect, shift of normally midline structures, hydrocephalus or major
+     vascular territorial infarct. Hypoattenuation in the periventricular white
+     matters is consistent with chronic microvascular angiopathy.  Lacune is noted
+     in the left lentiform nucleus.  The density values of the brain parenchyma are
+     preserved. There is significant mucosal thickening and fluid in the paranasal
+     sinuses, most prominent in the ethmoid and maxillary sinuses.  Osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  Small amount of subdural blood tracking primarily along the right
+     falx and tentorium.  Possible small amount of subarachnoid blood in the
+     frontal lobes.
+     Sinusitis.
+     
+     
+                                                                           DFDgf
+
+",,
+14876,23084,,,3379-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3379-4-16**] 8:21 AM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 13128**]
+     Reason: eval for progression of SDH                                 
+     Admitting Diagnosis: SUBDURAL HEMATOMA-PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with acute SDH [**4-15**] 1.3 cm tentorial.                           
+     REASON FOR THIS EXAMINATION:
+      eval for progression of SDH                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate for progression of subdural hematoma.
+     
+     Contiguous axial images were obtained through the brain.  No contrast was
+     administered.  Comparison to a head CT of earlier on [**3379-4-16**].  
+     
+     FINDINGS:  There have been no significant changes since the study performed 6
+     hours earlier.  Again identified is a subdural hematoma along the tentorium
+     and the right side of the falx.  There is no evidence of mass effect.  There
+     is no midline shift.  Again identified is partial opacification of the
+     maxillary sinuses bilaterally with air fluid levels as well as partial
+     opacification of the ethmoid and sphenoid sinuses.
+     
+     CONCLUSION:  No change since [**3379-4-16**] at 2:00 a.m.  Stable right falcine and
+     tentorial subdural hematoma.
+                                                                           
+
+",,
+14876,23084,,,3379-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3379-4-16**] 6:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13127**]
+     Reason: eval of infiltrate                                          
+     Admitting Diagnosis: SUBDURAL HEMATOMA-PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with pna                                                        
+     REASON FOR THIS EXAMINATION:
+      eval of infiltrate                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP PORTABLE SINGLE VIEW.
+     
+     INDICATION:  History of pneumonia, evaluate lungs.
+     
+     FINDINGS:  AP single view of the chest obtained with patient in semi-erect
+     position demonstrates mild cardiac enlargement without typical configurational
+     abnormality.  The thoracic aorta is moderately widened and demonstrates linear
+     calcium deposits in the wall mostly at the level of the arch.  There is no
+     conclusive evidence for any pulmonary vascular congestion but increased
+     interstitial markings are noted in the bases consistent with interstitial
+     fibrosis.  In the right mid lung field, patchy confluenting densities are
+     present which indicate the presence of acute parenchymal infiltrates.  There
+     is no evidence of pleural effusions as the lateral pleural sinuses remain free
+     on this portable examination.
+     
+     IMPRESSION:  Parenchymal infiltrate in right-sided mid lung field probably
+     representing acute infection, follow up is recommended as there exist no
+     previous chest examinations in our records for comparison.
+                                                                           
+
+",,
+14876,23084,18485,0,3379-04-16 04:38:00 EST,3379-04-16 04:49:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Pt is a 79 y/o man brought to ED from OSH. Had suffered a fall at home, brought to [**Hospital3 **] Hosp where he was found to have a temp of 104.2, obtunded, SBP in 70's. Head CT postive for subdural hematoma. Tx to [**Hospital1 10**] for further workup/treatment. 
+
+Neuro: Pt is on Q1hr neuro checks, MAE with good strength, follows commands consistently, A+Ox3, PERRL, tounge with no deviation, no facial droop noted. Pleasant/cooperative. Head CT today. 
+
+Resp: Lung sounds decreased throughout with exp wheezes, O2 sat in high 90's on 2L O2. Coughing up copious amts of thick green sputum. Sample sent. On Albuterol/atrovent nebs q6hrs. 
+
+Cardiac: B/P somewhat labile 80's-100's/ 50-30. Afib (old), rare pvc's, ST depressions on ER EKG. Enzymes pending. Pt is on digoxin at home wife will be in later with dosage. EKG ordered for am. ECHO ordered for today. 
+
+GI: NPO x ice   ABD soft/nontender, hypoactive bowel sounds. 
+
+GU: Urine pink via foley, U/A sent. lytes pending
+
+Derm: Grossly intact. Aline site benign, PIV x2 patent. 
+
+Social: wife is HCP. Pt lives in upstate NY
+
+Plan: Q1hr neuro checks, wife will be in with list of home meds and dosages, Head CT, Echo, IV abx. Full Code. 
+",,
+14876,23084,18485,0,3379-04-16 04:58:00 EST,3379-04-16 05:00:00 EST,1813,"N",69,"Nursing/Other",,"
+
+resp care
+Pt given alb/atr neb as ordered. BS coarse rhonchi with exp wheeze bil. Cough strong and nonprod. Slight improvement after neb. 3l cannnula. will follow.
+",,
+14876,23084,18485,0,3379-04-16 16:25:00 EST,3379-04-16 16:36:00 EST,1623,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+
+REVIEW OF SYSTEMS:
+NEURO: alert oriented times three, speech clear, tongue midline, strength equal throughout, repeat head ct this am, oob to chair with 1 assist
+
+CV: HR 70-90 AF, rare to occas PVC's, BP 110-140/'s, po atenolol added, ck 800 mb 3, trop 0.03, 3rd ck pending, no c/o chest pain
+
+RESP: congested tight cough, mobilizing thick [**Last Name (un) 2211**] sputum, breath sounds rhonchorous on right, I/E wheezes on left, albuterol and atrovent nebs x2, CPT x3, given incentive spirometer with instruction  on use, O2 3l n/c with o2 sat >98%, o2 changed to 40% face tent for humidification
+
+GI: abd soft +bs, large BM ob-, eating diabetic diet ithout difficulty
+
+GU: foley intact, +hematuria, UA sent this am
+
+ENDO: cont hydrocortisone, QFs with SSI and qam lantus provided, FS 300-200, 
+
+SKIN: grossly intact
+
+ID: afebrile, temp 96, wbc 12.5 with 31%bands, cont azithromycin and ceftriaxone for community acquired pneumonia
+
+SOCIAL: wife and son visit throughout the afternoon, wife is staying at sons house in [**Location (un) **]
+
+PLAN: pulmonary toilet, increase activity as tolerates, PT following
+follow blood sugars
+
+
+",,
+14876,23084,,,3379-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3379-4-17**] 10:06 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13129**]
+     Reason: please assess for status of pna                             
+     Admitting Diagnosis: SUBDURAL HEMATOMA-PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with pna, sdh, and right middle lobe pna                        
+     REASON FOR THIS EXAMINATION:
+      please assess for status of pna                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old man with pneumonia, shortness of breath.
+     
+     COMMENTS:  PA and lateral radiographs of the chest are reviewed and compared
+     to the previous study of yesterday.
+     
+     The patient has underlying pulmonary emphysema.  There is increase in patchy
+     opacity in the right lower lobe indicating pneumonia.  There is worsening of
+     congestive heart failure with cardiomegaly.  No pneumothorax is identified. 
+     There is small bilateral pleural effusion.
+     
+     IMPRESSION:  Worsening right lower lobe pneumonia.  Increased congestive heart
+     failure with cardiomegaly.
+                                                                           
+
+",,
+14876,23084,,,3379-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3379-4-19**] 9:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13130**]
+     Reason: infiltrate, effusions -- compare to [**3379-4-17**]                
+     Admitting Diagnosis: SUBDURAL HEMATOMA-PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with pna                                                        
+     REASON FOR THIS EXAMINATION:
+      infiltrate, effusions -- compare to [**3379-4-17**]                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   79-year-old with pneumonia.
+     
+     FINDINGS:  Comparison is made to the prior examination of [**3379-4-17**].  The
+     right lower lobe infiltration appears to be less pronounced at this time. 
+     Bilateral pleural effusion and bilateral pulmonary vascular congestion. 
+     Cardiomegaly is unchanged.  No evidence of pneumothoraces.
+     
+     IMPRESSION:  Bilateral pleural effusion and bilateral pulmonary vascular
+     congestion are suggestive of congestive heart failure.  The right lower lobe
+     infiltration, however, is less pronounced at this time.
+                                                                           
+
+",,

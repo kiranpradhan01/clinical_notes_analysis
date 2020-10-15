@@ -1,0 +1,2073 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14038,25116,,,3016-12-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3016-12-5**]              Discharge Date:   [**3016-12-14**]
+ 
+Date of Birth:  [**2935-9-16**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1053**] 
+Chief Complaint:
+shortness of breath/fatigue
+
+ 
+Major Surgical or Invasive Procedure:
+pheresis catheter placement
+thoracentesis
+leukopheresis
+ 
+History of Present Illness:
+81 yo M with T-cell positive CLL (flow cytometry [**3016-7-1**] 
+revealed expanded, abnormal T-cell population consistent with 
+high grade T-cell lymphoproliferation) s/p leukophoresis x3 at 
+[**Hospital6 **] (last [**12-4**]), h/o resected chest wall 
+melenoma, and DM presents with WBC count of 678 requiring 
+emergent leukophoresis and hypoxia (O2 sat 75% on RA).  He notes 
+increased fatigue and shortness of breath this am.  He reports 
+decreased appetite x2 weeks.  He denies fever, chills, cough, 
+chest pain, belly pain, N/V/D, dysuria.  Of note he was started 
+on Fludarabine this week; he received a dose on Mon, Tues, and 
+Weds. 
+.
+Since [**6-16**] pt has had an increased WBC count and bilateral 
+pleural effusions.  He was treated in July-August-October with 
+Pentostatin which initially controlled his wbc count, however, 
+recently his WBC count has increased to over 600K requiring 3 
+sessions of leukophoresis to date.  He was started on 
+fludarabine last week.  
+.  
+In the ED pt noted to be SOB with RA O2 sat of 75%, improved to 
+95% on a NRB.  He was given combivent and Solumedrol.  CT Chest 
+revealed large right-sided pleural effusion with near total 
+collapse of RLL and partial collapse of RML, Smaller left-sided 
+pleural effusion with associated compressive atelectasis.  (He 
+was given mucomyst and bicarb prior to the contrast CT).  
+.
+Pt was evaluated by the BMT service.  Plt count noted to be 26K 
+(baseline ~30K recently).  He received 2 bags of plts with an 
+increase in his plt count to 55 and vit k x1.  He underwent a 
+thoracentesis by Dr. [**Last Name (STitle) **] with 1.5 liters of serosanginous 
+fluid removed.  He had a phoresis catheder placed in his right 
+groin by general surgery.  Post-procedure CXR revealed 
+improvement in right effusion w/o PTX.  His K was noted to be 
+6.3 without ECG changes; he received kayexalate.  Upon arrival 
+to the FICU he was started on leukophoresis by the transfusion 
+service.    
+
+ 
+Past Medical History:
+- T cell leukemia with flow cytometry compatible with a pro 
+lymphocytic leukemia; morphology and performance looks more like 
+chronic lymphocytic leukemia 
+- h/o left sided chest wall melanoma recently resected w/out 
+apparent metastases (Nodal dissections not carried out; 
+Metastatic work up negative to date)
+- diabetes    
+- h/o right knee arthritis
+
+ 
+Social History:
+Denies current tob or illicit drug use.  Quit tob 21 yrs ago; 
+previously smoked 2ppd.  EtOH - One drink per week.  Married x58 
+yrs; lives with his wife. 
+ 
+Family History:
+Mother died at 86 of Alzheimer's. Father died at 52 of an 
+accident.  Brother died at 67 of lung cancer.  Sister age 71, 
+alive and well.
+
+ 
+Physical Exam:
+Tc 97.5    BP 124/58    HR 86    RR 14    Sat 97% NRB 
+Gen:  pleasant elderly appearing male, NAD
+HENNT:  MMM, anicteric, PERRL, EOMI
+Neck:  no LAD, no JVD
+CV:  RRR, nl S1S2,  No M/R/G
+Lungs: anteriorly - decreased breath sounds right base o/w clear
+Abd:  soft, NT/ND, +BS, + splenomegaly
+Ext:  no edema, strong DP/PT pulses bilaterally, phoresis cath 
+in right groin w/o hematoma 
+Neuro:  A&Ox3, moving all extremeties
+
+ 
+Pertinent Results:
+REPORTS:
+[**12-4**] Plural fluid cytology:
+Monomorphic population of small lymphocytes, consistent with 
+involvement by low grade lymphoma. 
+.
+[**12-6**] FLOW CYTOMETRY REPORT:
+INTERPRETATION:
+Immunophenotypic findings consistent with involvement by:  A 
+T-cell lymphoproliferative disorder, CD4 positive, with aberrant 
+loss of pan-T marker CD3.
+.
+CT Chest [**3016-12-5**]: 
+1. No evidence of pulmonary embolism. 
+2. Large right-sided pleural effusion with near total collapse 
+of the RLL and partial collapse of the RML. Smaller left-sided 
+pleural effusion with associated compressive atelectasis. 
+3. Mediastinal and axillary lymph[**MD Number 285**] as described above. 
+4. Apparent ascites. 
+5. Tiny hypodense lesion in the liver is incompletely evaluated. 
+
+6. Splenomegaly. 
+.
+CXR [**3016-12-7**]: Cardiomegaly, Bilateral pleural effusions (R>L) 
+with hazy parenchymal opacity over the right mid lung zone. 
+.
+CT Abd [**3016-12-2**]:  Massive splenomegaly, increased in size 
+compared to prior exam.  Development of small amount of ascites 
+seen adjacent to the liver and spleen.  Left renal cyst present. 
+ Numerous diverticula present in the sigmoid colon, unchanged.  
+There is some fascia plane thickening present surrounding the 
+sigmoid colon.  There is no evidence of bowel obstruction 
+present.
+. 
+CXR (s/p first thoracentesis) [**3016-12-5**]:  No PTX, improvement in 
+right pleural fluid
+.
+ECG:  NSR, rate 98, nl intervals, nl axis, no ST-T changes
+.
+[**12-11**] CXR:
+IMPRESSION: AP chest compared to [**12-9**] and 29.
+Moderate-sized right pleural effusion is reaccumulating. Small 
+left pleural effusion and left basal atelectasis are stable. 
+Heart size is normal. No pneumothorax.
+.
+[**12-13**] CXR (s/p second thoracentesis):
+IMPRESSION: Decrease in right pleural effusion following 
+thoracentesis with no evidence of pneumothorax.
+.
+LABS:
+
+[**3016-12-14**] 06:55AM BLOOD WBC-216.6* RBC-2.73* Hgb-8.4* Hct-25.9* 
+MCV-95 MCH-30.9 MCHC-32.5 RDW-22.9* Plt Ct-35*
+[**3016-12-13**] 07:10AM BLOOD WBC-195.7* RBC-2.86* Hgb-9.0* Hct-26.1* 
+MCV-91 MCH-31.6 MCHC-34.6 RDW-21.4* Plt Ct-50*
+[**3016-12-12**] 06:57AM BLOOD WBC-204.4* RBC-2.46*# Hgb-8.3*# Hct-23.4* 
+MCV-95 MCH-33.7* MCHC-35.4* RDW-23.1* Plt Ct-41*
+[**3016-12-11**] 11:21AM BLOOD Hct-21.0* Plt Ct-52*
+[**3016-12-11**] 01:42AM BLOOD Hct-19.5*
+[**3016-12-11**] 12:13AM BLOOD WBC-203.6* RBC-1.96* Hgb-6.4* Hct-19.0*# 
+MCV-97 MCH-32.5* MCHC-33.5 RDW-23.5* Plt Ct-26*
+[**3016-12-10**] 01:05AM BLOOD WBC-237.2* Hct-29.0*# Plt Ct-21*
+[**3016-12-9**] 01:43PM BLOOD WBC-223.3* Hct-22.0* Plt Ct-21*
+[**3016-12-9**] 03:52AM BLOOD WBC-209.7* Hct-24.0* Plt Ct-20*
+[**3016-12-8**] 04:51PM BLOOD WBC-200.7* Hct-24.0* Plt Ct-24*
+[**3016-12-8**] 03:49PM BLOOD WBC-186.0*
+[**3016-12-8**] 01:44PM BLOOD WBC-237.0*
+[**3016-12-8**] 02:30AM BLOOD WBC-288.9* RBC-2.42* Hgb-7.9* Hct-23.8* 
+MCV-98 MCH-32.5* MCHC-33.1 RDW-23.6* Plt Ct-29*
+[**3016-12-7**] 04:20PM BLOOD WBC-263.1* Hct-23.5* Plt Ct-28*
+[**3016-12-7**] 11:56AM BLOOD Hct-23.9*
+[**3016-12-7**] 03:49AM BLOOD WBC-223.0* RBC-2.57* Hgb-8.5* Hct-24.6* 
+MCV-96 MCH-33.1* MCHC-34.6 RDW-23.8* Plt Ct-26*
+[**3016-12-6**] 09:14PM BLOOD WBC-201.6* RBC-2.11* Hgb-7.2* Hct-21.0* 
+MCV-100* MCH-34.0* MCHC-34.2 RDW-22.2* Plt Ct-30*
+[**3016-12-6**] 07:28PM BLOOD WBC-242.6*
+[**3016-12-6**] 05:42PM BLOOD WBC-322.5*
+[**3016-12-6**] 03:18PM BLOOD WBC-316.0* RBC-2.5* Hgb-8.2* Hct-25.2*# 
+MCV-100* MCH-32.7* MCHC-32.5# RDW-22.6* Plt Ct-46*
+[**3016-12-6**] 05:07AM BLOOD WBC-375.4* Hct-35.0* Plt Ct-53*
+[**3016-12-6**] 03:45AM BLOOD WBC-342.0*
+[**3016-12-6**] 01:49AM BLOOD WBC-422.9*
+[**3016-12-6**] 12:24AM BLOOD WBC-528.0* Hct-38.0*# Plt Ct-79*
+[**3016-12-5**] 01:30PM BLOOD WBC-678*# Hct-28* Plt Ct-26*#
+[**3016-12-13**] 07:10AM BLOOD Neuts-1* Bands-0 Lymphs-88* Monos-0 Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Other-11*
+[**3016-12-11**] 12:13AM BLOOD Neuts-3* Bands-0 Lymphs-22 Monos-1* Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Other-74*
+[**3016-12-10**] 01:05AM BLOOD Neuts-3* Bands-0 Lymphs-19 Monos-0 Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Other-78*
+[**3016-12-9**] 03:52AM BLOOD Neuts-2* Bands-0 Lymphs-17* Monos-0 Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Other-81*
+[**3016-12-8**] 02:30AM BLOOD Neuts-1* Bands-0 Lymphs-11* Monos-2 Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Other-86*
+[**3016-12-7**] 04:20PM BLOOD Neuts-3* Bands-0 Lymphs-22 Monos-0 Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Other-75*
+[**3016-12-7**] 03:49AM BLOOD Neuts-2* Bands-0 Lymphs-16* Monos-1* 
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 Promyel-81*
+[**3016-12-6**] 05:07AM BLOOD Neuts-1* Bands-0 Lymphs-23 Monos-0 Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Other-76*
+[**3016-12-6**] 12:24AM BLOOD Neuts-2* Bands-0 Lymphs-0 Monos-0 Eos-0 
+Baso-0 Atyps-0 Metas-0 Myelos-0 Other-98*
+[**3016-12-14**] 06:55AM BLOOD Plt Ct-35*
+[**3016-12-14**] 06:55AM BLOOD PT-13.2 PTT-23.1 INR(PT)-1.2
+[**3016-12-13**] 07:10AM BLOOD Plt Ct-50*
+[**3016-12-13**] 07:10AM BLOOD PT-12.5 PTT-24.4 INR(PT)-1.0
+[**3016-12-12**] 06:57AM BLOOD Plt Ct-41*
+[**3016-12-12**] 04:49AM BLOOD PT-13.0 PTT-23.8 INR(PT)-1.1
+[**3016-12-11**] 11:21AM BLOOD Plt Ct-52*
+[**3016-12-11**] 05:38AM BLOOD Plt Ct-47*#
+[**3016-12-11**] 12:13AM BLOOD Plt Ct-26*
+[**3016-12-11**] 12:13AM BLOOD PT-12.9 PTT-25.9 INR(PT)-1.1
+[**3016-12-10**] 01:05AM BLOOD Plt Ct-21*
+[**3016-12-10**] 01:05AM BLOOD PT-13.1 PTT-28.2 INR(PT)-1.2
+[**3016-12-9**] 01:43PM BLOOD Plt Ct-21*
+[**3016-12-9**] 03:52AM BLOOD Plt Ct-20*
+[**3016-12-9**] 03:52AM BLOOD PT-13.3 PTT-25.9 INR(PT)-1.2
+[**3016-12-8**] 04:51PM BLOOD Plt Ct-24*
+[**3016-12-8**] 04:51PM BLOOD PT-13.6* PTT-24.5 INR(PT)-1.2
+[**3016-12-8**] 02:30AM BLOOD Plt Smr-VERY LOW Plt Ct-29*
+[**3016-12-8**] 02:30AM BLOOD PT-13.2 PTT-21.7* INR(PT)-1.2
+[**3016-12-7**] 04:20PM BLOOD Plt Smr-VERY LOW Plt Ct-28*
+[**3016-12-7**] 04:20PM BLOOD PT-13.3 PTT-22.1 INR(PT)-1.2
+[**3016-12-7**] 03:49AM BLOOD Plt Ct-26*
+[**3016-12-7**] 03:49AM BLOOD PT-13.5* PTT-21.7* INR(PT)-1.2
+[**3016-12-6**] 09:14PM BLOOD Plt Ct-30*
+[**3016-12-6**] 03:18PM BLOOD Plt Ct-46*
+[**3016-12-6**] 03:18PM BLOOD PT-13.9* PTT-23.7 INR(PT)-1.3
+[**3016-12-6**] 05:07AM BLOOD Plt Ct-53*
+[**3016-12-6**] 05:07AM BLOOD PT-14.1* PTT-22.8 INR(PT)-1.3
+[**3016-12-6**] 12:24AM BLOOD Plt Ct-79*
+[**3016-12-6**] 12:24AM BLOOD PT-13.8* PTT-21.2* INR(PT)-1.3
+[**3016-12-5**] 01:30PM BLOOD Plt Ct-26*#
+[**3016-12-5**] 01:30PM BLOOD PT-14.2* PTT-26.2 INR(PT)-1.4
+[**3016-12-9**] 03:52AM BLOOD FDP-40-80
+[**3016-12-9**] 03:52AM BLOOD Fibrino-83*
+[**3016-12-8**] 04:51PM BLOOD FDP-40-80
+[**3016-12-8**] 04:51PM BLOOD Fibrino-93*
+[**3016-12-8**] 02:30AM BLOOD FDP-80-160*
+[**3016-12-8**] 02:30AM BLOOD Fibrino-78* D-Dimer-7560*
+[**3016-12-7**] 04:20PM BLOOD Fibrino-69*
+[**3016-12-7**] 03:49AM BLOOD FDP-10-40
+[**3016-12-7**] 03:49AM BLOOD Fibrino-64*
+[**3016-12-6**] 03:18PM BLOOD Fibrino-83*
+[**3016-12-6**] 05:07AM BLOOD FDP-10-40
+[**3016-12-6**] 05:07AM BLOOD Fibrino-78* D-Dimer-2398*
+[**3016-12-6**] 12:24AM BLOOD FDP-10-40
+[**3016-12-6**] 12:24AM BLOOD Fibrino-98* D-Dimer-2056*
+[**3016-12-14**] 06:55AM BLOOD [**Last Name (un) **] Ct-3130
+[**3016-12-13**] 07:10AM BLOOD [**Last Name (un) **] Ct-3870
+[**3016-12-7**] 03:49AM BLOOD Ret Aut-1.9
+[**3016-12-14**] 06:55AM BLOOD Glucose-90 UreaN-24* Creat-1.0 Na-141 
+K-3.8 Cl-106 HCO3-28 AnGap-11
+[**3016-12-13**] 07:10AM BLOOD Glucose-94 UreaN-28* Creat-0.9 Na-143 
+K-3.6 Cl-107 HCO3-30 AnGap-10
+[**3016-12-12**] 04:49AM BLOOD Glucose-107* UreaN-35* Creat-1.0 Na-142 
+K-3.7 Cl-106 HCO3-29 AnGap-11
+[**3016-12-11**] 12:13AM BLOOD Glucose-114* UreaN-31* Creat-1.0 Na-141 
+K-4.0 Cl-105 HCO3-31 AnGap-9
+[**3016-12-10**] 01:05AM BLOOD Glucose-187* UreaN-29* Creat-1.0 Na-141 
+K-3.9 Cl-105 HCO3-31 AnGap-9
+[**3016-12-9**] 03:52AM BLOOD Glucose-122* UreaN-28* Creat-1.0 Na-143 
+K-4.0 Cl-105 HCO3-34* AnGap-8
+[**3016-12-8**] 04:51PM BLOOD Glucose-131* K-3.8
+[**3016-12-8**] 02:30AM BLOOD Glucose-102 UreaN-31* Creat-1.0 Na-144 
+K-4.3 Cl-106 HCO3-32 AnGap-10
+[**3016-12-7**] 04:15PM BLOOD K-3.9
+[**3016-12-7**] 03:49AM BLOOD Glucose-112* UreaN-31* Creat-1.1 Na-145 
+K-3.5 Cl-104 HCO3-34* AnGap-11
+[**3016-12-6**] 03:18PM BLOOD Glucose-156* UreaN-31* Creat-1.3* Na-144 
+K-3.9 Cl-104 HCO3-32 AnGap-12
+[**3016-12-6**] 05:07AM BLOOD Glucose-169* UreaN-27* Creat-1.5* Na-144 
+K-3.7 Cl-103 HCO3-32 AnGap-13
+[**3016-12-6**] 12:24AM BLOOD Glucose-195* UreaN-28* Creat-1.6* Na-143 
+K-4.2 Cl-103 HCO3-29 AnGap-15
+[**3016-12-5**] 02:00PM BLOOD K-4.6
+[**3016-12-5**] 01:30PM BLOOD Glucose-135* UreaN-23* Creat-1.7* Na-142 
+K-5.2* Cl-104 HCO3-28 AnGap-15
+[**3016-12-14**] 06:55AM BLOOD ALT-15 AST-33 LD(LDH)-794* AlkPhos-82 
+TotBili-0.8
+[**3016-12-13**] 07:10AM BLOOD ALT-15 AST-26 LD(LDH)-654* AlkPhos-86 
+TotBili-0.8
+[**3016-12-12**] 04:49AM BLOOD ALT-13 AST-26 LD(LDH)-649* AlkPhos-82 
+TotBili-0.8
+[**3016-12-11**] 12:13AM BLOOD ALT-14 AST-24 LD(LDH)-567* AlkPhos-72 
+TotBili-0.4
+[**3016-12-10**] 01:05AM BLOOD ALT-15 AST-23 LD(LDH)-551* AlkPhos-73 
+TotBili-0.4
+[**3016-12-9**] 03:52AM BLOOD LD(LDH)-626*
+[**3016-12-8**] 04:51PM BLOOD LD(LDH)-635*
+[**3016-12-7**] 03:49AM BLOOD LD(LDH)-605* TotBili-0.8 DirBili-0.3 
+IndBili-0.5
+[**3016-12-6**] 05:07AM BLOOD LD(LDH)-800* TotBili-0.5
+[**3016-12-6**] 12:24AM BLOOD ALT-23 AST-39 LD(LDH)-952* AlkPhos-97 
+TotBili-0.6
+[**3016-12-14**] 06:55AM BLOOD Albumin-3.0* Calcium-7.5* Phos-2.9 Mg-2.0 
+UricAcd-2.6*
+[**3016-12-13**] 07:10AM BLOOD Albumin-3.3* Calcium-7.4* Phos-3.3 Mg-2.1 
+UricAcd-2.7*
+[**3016-12-12**] 04:49AM BLOOD Albumin-2.9* Calcium-7.2* Phos-4.0 Mg-2.1 
+UricAcd-2.4*
+[**3016-12-11**] 12:13AM BLOOD Albumin-2.6* Calcium-6.8* Phos-4.0 Mg-2.2 
+UricAcd-2.1*
+[**3016-12-10**] 01:05AM BLOOD Albumin-2.9* Calcium-7.0* Phos-3.6 Mg-2.0 
+UricAcd-2.1*
+[**3016-12-9**] 03:52AM BLOOD Calcium-7.5* Phos-3.8 Mg-2.1
+[**3016-12-8**] 04:51PM BLOOD Calcium-7.7* Phos-3.8 Mg-1.9 UricAcd-2.1*
+[**3016-12-8**] 02:30AM BLOOD Calcium-7.3* Phos-4.4 Mg-2.0
+[**3016-12-7**] 03:49AM BLOOD Calcium-7.6* Phos-5.2* Mg-1.9 
+UricAcd-2.8*
+[**3016-12-6**] 03:18PM BLOOD Calcium-7.5* Phos-5.1* Mg-2.0
+[**3016-12-6**] 05:07AM BLOOD Calcium-8.3* Phos-5.7* Mg-2.1 
+UricAcd-3.1*
+[**3016-12-6**] 12:24AM BLOOD TotProt-5.9* Albumin-3.6 Globuln-2.3 
+Calcium-8.0* Phos-5.6*# Mg-2.1 UricAcd-3.2*
+[**3016-12-11**] 12:13AM BLOOD Hapto-54
+[**3016-12-7**] 03:49AM BLOOD Hapto-44
+[**3016-12-6**] 05:30PM BLOOD Type-[**Last Name (un) **] pH-7.42
+[**3016-12-5**] 02:14PM BLOOD Lactate-1.5 K-6.3*
+[**3016-12-6**] 05:30PM BLOOD freeCa-1.00*
+.
+MICRO:
+.
+[**3016-12-5**] 1:30 pm BLOOD CULTURE      VENIPUNCTURE #1. 
+
+                            **FINAL REPORT [**3016-12-11**]**
+
+   AEROBIC BOTTLE (Final [**3016-12-11**]):    NO GROWTH. 
+
+   ANAEROBIC BOTTLE (Final [**3016-12-11**]):    NO GROWTH. 
+.
+[**3016-12-5**] 11:00 pm PLEURAL FLUID
+
+   GRAM STAIN (Final [**3016-12-6**]): 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final [**3016-12-9**]):    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final [**3016-12-12**]):    NO GROWTH. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   ACID FAST SMEAR (Final [**3016-12-6**]): 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Pending): 
+
+ 
+Brief Hospital Course:
+81 yo M with T-cell positive CLL s/p leukophoresis x3 at NEBH,  
+h/o melenoma, and DM who presented with WBC count of 678 
+requiring emergent leukophoresis, and hypoxia secondary to 
+pleural effusions.
+.
+#) Leukocytosis (600K) secondary to T-cell positive CLL:  Pt had 
+a leukophoresis catheter placed in his right groin by surgery.  
+He then underwent emergent leukophoresis, with good response, 
+and was admitted to the ICU. He was leukophoresed a total of 3 
+times during the admission.  He also underwent chemo with 
+cytoxan and fludarabine, and tolerated this well.  His WBC count 
+decreased to 216.6 on the day of discharge, and he did not have 
+any signs of tumor lysis syndrome.  Pt's pleural fluid was 
+negative for infection, fluid WBC count was elevated, and 
+cytology was c/w low grade lymphoma.  Pt was continued on 
+allopurinol, although at a lower dose given elevated creatinine 
+on admission.  The day before discharge, the pt's leukophoresis 
+catheter was removed by surgery, with adequate hemostasis.  Pt 
+was instructed to follow up with his oncologist immediatley 
+after discharge to discuss the possible administration of 
+neupogen or nulasta.
+.
+#)  Hypoxia: Pt was satting in 70's upon arrival to the ED, 
+likely secondary to large right sided pleural effusion and 
+leukostasis.  Pt underwent a diagnostic/therapeutic 
+thoracentesis in the ED (fluid non-infectious, but malignant), 
+and then had reaccumulation of the R sided fluid seen on CXR 
+over the next several days.  He then had a second therapeutic 
+thoracentesis, and 1700 cc of serosanguinous fluid was removed 
+from his R lung.  On the day of discharge, the pt was satting 
+well on room air.  CXR the day before d/c did not show a 
+pneumothorax s/p thoracentesis.
+.
+#)  Acute Renal Failure, Cr 1.7 on admission (baseline Creat 
+0.9): Was likely secondary to leukostasis.  
+- pt was given bicarb and mucomyst prior to chest CT
+- pt was hyrdated gently and Cr decreased to 1.0 on day of 
+discharge
+. 
+#) DM: Pt's metformin was held during the admisssion and on 
+discharge. His blood sugars were controlled with sliding scale 
+insulin.
+.
+#)  Anemia/Thrombocytopenia related to CLL and chemo:  Pt has 
+received procrit with Pentostatin in the past.  He was supported 
+during this admission with blood and platelet transfusions 
+(total 4 U PRBC's, 5 U platelets), with goal platelets >50 
+before procedures and goal hct>25.  Pt bumped appropriately s/p 
+blood and platelet transfusions.
+ 
+Medications on Admission:
+-Metformin 500 mg p.o. daily
+-Allopurinol 300 mg p.o. daily
+-Cozaar 50 mg p.o. daily
+-s/p Pentostatin 2-4 per meter squared q1-2 wks x2-3 mos with 
+procrit
+-s/p Cytoxan 500 mg per meter squared
+
+ 
+Discharge Medications:
+1. Losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+CLL
+pleural effusions
+
+ 
+Discharge Condition:
+Stable. Satting in mid 90's on RA. Ambulating.
+
+ 
+Discharge Instructions:
+Please seek medical attention immediately if [**Doctor First Name **] experience 
+fatigue, chest pain, shortness of breath, nausea, vomiting, 
+fevers, or chills.
+
+Please take all medications as prescribed.  Please do not take 
+your metformin until [**Doctor First Name **] see Dr. [**Last Name (STitle) **] on Monday.
+
+Please attend all follow-up appointments.  [**Doctor First Name 54**] should call your 
+oncologist, Dr. [**Last Name (STitle) **], as soon as [**Doctor First Name **] get home to make a 
+follow-up appointment for this Monday morning. [**Doctor First Name 54**] had 
+chemotherapy with cytoxan and fludarabine during the admission, 
+and [**Doctor First Name **] might need a shot of Neupogen or Neulasta on Monday.  
+[**Doctor First Name 54**] should discuss this with Dr. [**Last Name (STitle) **].
+
+[**Doctor First Name 54**] should also follow up with the lung doctors to discuss [**Name5 (PTitle) **] 
+to manage the fluid in your lungs.
+ 
+Followup Instructions:
+Please call your oncologist, Dr. [**Last Name (STitle) **], as soon as [**Doctor First Name **] get home 
+to make a follow-up appointment for monday.
+
+Please follow-up with the lung doctors (clinic phone # 
+[**Telephone/Fax (1) 2054**]) to further discuss the treatment for the fluid in 
+your lungs.
+
+Please call your PCP on [**Name9 (PRE) 275**] to make a follow-up appointment.
+
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 1058**] MD [**MD Number 855**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3341**] MD [**MD Number 3342**] [**3016-12-18**] @ 1850
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 15**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: SAT [**3017-2-1**] 11:28 PM
+(End of Report)
+
+
+",,
+14038,25116,,,3016-12-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-5**] 5:02 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 5739**]
+     Reason: eval for PE                                                 
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with acute onset SOB w/sats 75% on RA, afebrile w/o cough, 
+      lymphoma w/WBC in 600's
+     REASON FOR THIS EXAMINATION:
+      eval for PE                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 5740**] [**Doctor First Name 151**] [**3016-12-5**] 5:58 PM
+      No evidence of PE.
+      Large right pleural effusion with near total collape of the right lower lobe
+      and partial collapse of the right middle lobe.
+      Smaller left pleural effusion with compressive atelectasis of the left lower
+      lobe.
+      Splenomegaly.
+      Scattered mediastinal and axillary lymph nodes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute shortness of breath.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the chest were obtained before and after
+     the administration of IV contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is a calcified left thyroid nodule.
+     There is no evidence of pulmonary embolism. There is a large right- sided
+     effusion with near total collapse of the right lower lobe and partial collapse
+     of the right middle lobe.  There is a smaller left-sided pleural effusion with
+     associated atelectasis of the left lower lobe.  Images of the lung parenchyma
+     are degraded by motion.  No definite pulmonary nodules or masses are seen.
+     There are multiple mediastinal lymph nodes, the 3 largest measuring 7 mm in
+     the right paratracheal region, 10 mm in the AP window, and 10 mm in the
+     prevascular regions, all measured in short axis diameter.  There is a 10-mm
+     (short axis diameter) lymph node in the left axilla and a 10-mm right axillary
+     lymph node. No central obstructing mass can be appreciated.  No pneumothorax.
+     Limited non-contrast images of the abdomen demonstrate ascites and
+     splenomegaly.. Bone windows demonstrate no suspicious lytic or sclerotic
+     lesions.
+     
+     MULTIPLANAR REFORMATTED IMAGES:  The coronal and sagittal reformatted images
+     were useful in delineating the above findings.  There is apparent ossification
+     of the anterior longitudinal ligament.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism.
+     2.  Large right-sided pleural effusion with near total collapse of the right
+     lower lobe and partial collapse of the right middle lobe.  Smaller left-sided
+     pleural effusion with associated compressive atelectasis is also noted.
+                                                                 (Over)
+
+     DATE: [**3016-12-5**] 5:02 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 5739**]
+     Reason: eval for PE                                                 
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3.  Mediastinal and axillary lymph nodes as described above.
+     4.  Ascites.
+     5.  Small hypodense lesion in the liver is incompletely evaluated.
+     6.  Splenomegaly.
+     
+
+",,
+14038,25116,,,3016-12-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-5**] 5:02 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 5739**]
+     Reason: eval for PE                                                 
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with acute onset SOB w/sats 75% on RA, afebrile w/o cough, 
+      lymphoma w/WBC in 600's
+     REASON FOR THIS EXAMINATION:
+      eval for PE                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 5740**] [**Doctor First Name 151**] [**3016-12-5**] 5:58 PM
+      No evidence of PE.
+      Large right pleural effusion with near total collape of the right lower lobe
+      and partial collapse of the right middle lobe.
+      Smaller left pleural effusion with compressive atelectasis of the left lower
+      lobe.
+      Splenomegaly.
+      Scattered mediastinal and axillary lymph nodes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute shortness of breath.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the chest were obtained before and after
+     the administration of IV contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is a calcified left thyroid nodule.
+     There is no evidence of pulmonary embolism. There is a large right- sided
+     effusion with near total collapse of the right lower lobe and partial collapse
+     of the right middle lobe.  There is a smaller left-sided pleural effusion with
+     associated atelectasis of the left lower lobe.  Images of the lung parenchyma
+     are degraded by motion.  No definite pulmonary nodules or masses are seen.
+     There are multiple mediastinal lymph nodes, the 3 largest measuring 7 mm in
+     the right paratracheal region, 10 mm in the AP window, and 10 mm in the
+     prevascular regions, all measured in short axis diameter.  There is a 10-mm
+     (short axis diameter) lymph node in the left axilla and a 10-mm right axillary
+     lymph node. No central obstructing mass can be appreciated.  No pneumothorax.
+     Limited non-contrast images of the abdomen demonstrate ascites and
+     splenomegaly.. Bone windows demonstrate no suspicious lytic or sclerotic
+     lesions.
+     
+     MULTIPLANAR REFORMATTED IMAGES:  The coronal and sagittal reformatted images
+     were useful in delineating the above findings.  There is apparent ossification
+     of the anterior longitudinal ligament.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism.
+     2.  Large right-sided pleural effusion with near total collapse of the right
+     lower lobe and partial collapse of the right middle lobe.  Smaller left-sided
+     pleural effusion with associated compressive atelectasis is also noted.
+                                                                 (Over)
+
+     DATE: [**3016-12-5**] 5:02 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 5739**]
+     Reason: eval for PE                                                 
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3.  Mediastinal and axillary lymph nodes as described above.
+     4.  Ascites.
+     5.  Small hypodense lesion in the liver is incompletely evaluated.
+     6.  Splenomegaly.
+     
+
+",,
+14038,25116,,,3016-12-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-5**] 11:13 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 5741**]
+     Reason: eval s/p thoracentesis                                      
+     Admitting Diagnosis: LYMPHOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with sob and effusion                                           
+     REASON FOR THIS EXAMINATION:
+      eval s/p thoracentesis                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORT LINE PLACEMENT.
+     
+     Comparison to AP upright [**12-5**].
+     
+     INDICATION:  Status post thoracentesis.
+     
+     Right pleural effusion is significantly smaller.  Tiny bilateral pleural
+     effusions persist.  No pneumothoraces are present.  No consolidations are
+     seen.  Some atelectasis at the left lower lung.  The cardiac silhouette and
+     mediastinal contours are normal.
+                                                                           
+
+",,
+14038,25116,,,3016-12-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-5**] 11:13 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 5741**]
+     Reason: eval s/p thoracentesis                                      
+     Admitting Diagnosis: LYMPHOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with sob and effusion                                           
+     REASON FOR THIS EXAMINATION:
+      eval s/p thoracentesis                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORT LINE PLACEMENT.
+     
+     Comparison to AP upright [**12-5**].
+     
+     INDICATION:  Status post thoracentesis.
+     
+     Right pleural effusion is significantly smaller.  Tiny bilateral pleural
+     effusions persist.  No pneumothoraces are present.  No consolidations are
+     seen.  Some atelectasis at the left lower lung.  The cardiac silhouette and
+     mediastinal contours are normal.
+                                                                           
+
+",,
+14038,25116,,,3016-12-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-5**] 2:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5738**]
+     Reason: effusion, chf?                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with hypoxia, 79RA, h/o lymphoma                                
+     REASON FOR THIS EXAMINATION:
+      effusion, chf?                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Hypoxia and history of lymphoma.
+     
+     CHEST, UPRIGHT AP PORTABLE: The heart appears enlarged.  There are bilateral
+     pleural effusions, greater on the right than the left.  The left costophrenic
+     sulcus is not fully visualized.  Hazy opacity overlying the left mid zone
+     could be partly from the layering effusion, with compressive atelectasis. The
+     pulmonary vascularity appears normal, however.
+     
+     IMPRESSION:
+     1.  Cardiomegaly.
+     2.  Bilateral pleural effusions, greater on the right than the left, with
+     compressive atelectasis.
+     
+
+",,
+14038,25116,17459,,3016-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-6**] 8:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5742**]
+     Reason: Eval for infiltrate, effusion                               
+     Admitting Diagnosis: LYMPHOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with T-CLL, with shortness of breath, with WBC 678,000, 
+      underwent leukopheresis [**12-5**]                                          
+     REASON FOR THIS EXAMINATION:
+      Eval for infiltrate, effusion                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  CLL, SOB.
+     
+     CHEST, PA UPRIGHT
+     
+     The cardiac size is normal.  No evidence of failure or infiltrates are seen. 
+     The right and left-sided effusions are present.  There has been no significant
+     change since the prior film of the day before.
+     
+     IMPRESSION:  Bilateral effusions, no significant change.
+                                                                           
+
+",,
+14038,25116,17459,0,3016-12-06 06:09:00 EST,3016-12-06 06:28:00 EST,251,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: ALERT AND ORIENTED X3. DENIES PAIN. DOZING INTERMITTENTLY. SKING APPROPIATE QUESTIONS. INTACT.
+
+CARDIAC: HR 101-84 ST/SR WITH OCCASIONAL PVC'S. BP 112-130/51-63. HCT 38/35, PLTS 79/53, FIBRINOGEN 98/78. DIC SCREEN SENT. NO SIGNS OF BLEEDING. PPP.
+
+RESP: RECEIVED ON 100% NRB AND ABLE TO WEAN DOWN TO 50% VENTI MASK. RR 13-20 WITH RR 100%-93%. WILL DESAT TO MID 80'S WITH O2 OFF. LS CLEAR WITH DIMINISHED BASES L>R. DENIES SOB. 
+
+GI/GU: ABD SOFT AND DISTENDED WITH +BS. NO STOOL. VOIDING VIA URINAL, AMBER AND CLEAR. CREAT 1.6/1.5. RECEIVED ONE DOSE MUCOMYST AND TO RECEIVE ANOTHER DOSE THIS MORNING.
+
+FEN: LYTES PER CAREVUE. FS 195/168 AND RECEIVED 2UNITS REGULAR EACH TIME. ORDERED FOR DIABETIC DIET WHEN RESP STATUS ALLOWS. 
+
+ID: TMAX 97.5 AXILLARY. WBC AT START OF LEUKOPHARESIS 528, MIDWAY THROUGH TREATMENT 423, AND AT THE END OF TREATMENT 342. AM WBC 375. HAS BLOOD AND THORACENTESIS CX'S PENDING.
+
+SKIN: W/D/I.
+
+ACCESS: PIV X1, RIGHT FEM PHARESIS LINE WITH SEPARATE MED PORT.
+
+SOCIAL/DISPO: FULL CODE. WIFE AND 2 CHILDREN UP TO VIVT BRIEFLY. UPDATED ON POC. PLAN IS FOR ANOTHER TREATMENT OF PHARESIS THIS MORNING WITH GOAL OF WBC <300...TITRATE O2 REQUIREMENTS AS TOLERATED...GIVE 2ND DOSE MUCOMYST...MONITOR BS, METAFORMIN ON HOLD [**2-14**] ^CREAT...WILL TRANSFUSE FOR PLTS <10 OR IF BLEEDING, HCT <25 FIBRINOGEN DROPPING ?DIC, MAY NEED CRYO...WILL NEED TO BE ON BEDREST [**2-14**] FEM LINE.
+",,
+14038,25116,17459,0,3016-12-06 16:39:00 EST,3016-12-06 16:58:00 EST,1291,"N",69,"Nursing/Other",,"
+
+
+
+NURSING NOTE 0700HRS - 1700HRS
+
+
+ADMIT [**12-5**] WITH EXCERBATION OF CLL AND HIGH K...
+
+
+
+EVENTS....UNBABLE TO WEAN FIO2 TODAY THEREFORE FOR REPEAT PHERESIS TO COMMENCE THIS EVE....ALL REPEAT L TAKEN @ 1500HRS PENDING
+
+
+
+NEURO..VERY PLEASANT CO-OPERATIVE DENIES PAIN
+
+
+CVS..BP 105-120 SYSTOLIC MAPS >70 HR 75-85BPM WITH OCCASSIONAL PVCS, K REPLETED PO THIS AM...
+B/S AS CHARTED, ON S/S...USUALLY ON METFORMIN BUT HELD AT PRESENT DUE TO RENAL FUNCTION [ SEE BELOW]
+AFEBRILE...THORANCETESIS AND BLOOD CULTURES PENDING
+
+
+RESP...RECEIVED ON FACE MASK @ 50% SATS >95% SWITCHED TO FACE TENT, REQUIRING 70% TO MAINTAIN SATS >95% ,WHEN RESTING AND OR EATING SATS REDUCE TO 88%...CXR BASICALLY CLEAR POST PLEURAL TAP THEREFORE ? OXYGEN REQUIREMENT REALTED TO ^WBC THEREFORE FOR REPEAT PHERSIS THIS PM...NO COMPLAINTS OF RESP DISTRESS FROM PATIENT...ABG ATTEMPTED X2 BUT UNABLE TO GET
+
+
+HAEM....WBC > 600 ON ADMISSION ...POST PHERESIS OVERNIGHT DOWN TO > 300..PREVIOUSLY RECEIVED PLATELETS [ FOR PLEURAL TAP AND LINE PLACEMENT] AND ?? FOR CYRO AS FIBRINOGEN LEVELS ALSO DECLINING... ALL PM LABS PENDING...FOR BLOOD TRANSFUSSION IF HCT < 25 AND PLATELETS <10...
+
+
+GI...TOTAL OF 450CC OUTPUT SINCE 0700HRS TEAM AWARE FLUIDS ENCOURAGED...CREAT IMPROVING  AND HAS RECEIVED SECOND DOSE OF MUCOMYST [ POST CT WITH CONTRAST]
+
+
+GU..BOWEL SOUNDS, TAKEN DIET WELL
+
+
+SKIN....RASH ACROSS TORSO TEAM AWARE APPARENTLY CONSISTENT WITH CLL..PRESSURE AREAS INTACT..BEDREST SECONDARY TO PHEREIS LINE IN GROIN
+
+
+LINES....PHERESIS LINE IN GROIN WITH SEPERATE MED PORT
+
+
+SOCIAL...WIFE SON VISITED AND UPDATED
+
+
+PLAN....FOLLOW LABS.. PHERESIS THIS EVE..WEAN O2 AS TOLLERATED
+
+
+
+ 
+",,
+14038,25116,17459,0,3016-12-06 17:52:00 EST,3016-12-06 17:56:00 EST,1291,"N",69,"Nursing/Other",,"
+
+
+
+ADDENDUM..HCT DOWN TO 25 [ FROM 35] ALL TEAMS AWARE ? RELATED TO PHERESIS FOR CHECK POST PHERSESIS TONIGHT, NO CLINICAL SIGNS OF BLEEDING..WBC AND FIBRINOGEN PENDING, PLTS @ 42
+CREAT IMPROVING , K STABLE , IONIZED CALCIUM LOW @ 1.0... TO BE REPLACED WHILST ON PHERESIS BY NURSE
+RECEIVED 500 BOLUS N/SALINE FOR TOTAL URINE OUTPUT ON THE DAY..TO OBSERVE 
+
+",,
+14038,25116,17459,0,3016-12-07 04:57:00 EST,3016-12-07 05:06:00 EST,830,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT ALERT AND ORIENTED X 3. NO C/O PAIN. ASKING APPROP QUESTIONS. MUST STAY ON BEDREST UNTIL PHARESIS LINE REMOVED. ABLE TO [**Doctor Last Name **] FOR A FEW HOURS OVERNIGHT. 
+
+RESP: PT REMAINS ON 70% FACE TENT, UNABLE TO WEAN FI02. O2 SAT'S IN MID TO HIGH 90'S BUT WILL DROP SIGNIFICANTLY IF MASK REMOVED. LUNG SOUNDS CLEAR DIMINISHED AT THE BASES. 
+
+CV: HR IN NSR WITH RATES IN THE 70'S - 80'S. RARE PVC NOTED. BP WITHIN NORMAL LIMITS. AFEBRILE. PT PHARESED THIS EVENING AND ENDED AROUND 9PM. POST PHARESIS WBC 212, HCT 21. PT TRANSFUSED WITH 1 UNIT OF PACKED RED CELLS. WILL PROBABLY HAVE PHARESIS AGAIN IN THE AM. PLTS 30 BUT NOT TRANSFUSED. 
+
+GI: PT TAKING IN CLEAR LIQ WITHOUT DIFF. ABD SOFT NON TENDER, NO STOOL OVERNIGHT. 
+
+GU: PT VOIDS IN URINAL MOD AMT'S OF CLEAR AMBER URINE. 
+
+ENDO: HAS NOT REQUIRED SSRI OVERNIGHT. 
+
+IV ACCESS. ONE PERIPHERAL LINE AND RIGHT FEM PHARESIS LINE WITH SIDE PORT. 
+
+SOCIAL: WIFE AND SON IN VISITING AND HAVE BEEN UPDATED. 
+
+PLAN TO CONT TO GET WBC DONE AND FIO2 DOWN. 
+",,
+14038,25116,17459,0,3016-12-07 18:24:00 EST,3016-12-07 18:30:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP:BS'S CLEAR. O2 CHANGED TO 4L NP WITH O2 SATS AT 97-98%> NO C/O SOB. 
+GI: APPETITE FAIR. STATES THAT FOOD DOESN'T TASTE GOOD.
+RENAL: VOIDING IN SMALL AMTS. TAKING INCREASING AMTS OF PO'S. 
+NEURO: ALERT AND ORIENTATED. 
+ENDOC: SSI GIVEN FOR 18PM BS. K+ REPLETED AND RECHECKED AT 17:30PM. 
+HEM: HCT 23.9 AT 11AM AND RECHECKED.
+ACCESS: R GROIN LINE BLEEDING., OTHERWISE INTACT. 
+PLAN: TX IF HCT <21, PLTS <10. PHERESIS HELD FOR TODAY. IF WBC'S INCREASE WOULD CONSIDER PHERESIS THIS EVENING. 
+SOCIAL: FAMILY INTO VISIT. UPDATED BY HO. 
+",,
+14038,25116,17459,,3016-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-8**] 5:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5743**]
+     Reason: eval for fluid overload, infiltrate                         
+     Admitting Diagnosis: LYMPHOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81 year old man with T-CLL, with shortness of breath, with WBC 678,000,  
+      underwent leukopheresis [**Date range (1) 5744**]                                        
+     REASON FOR THIS EXAMINATION:
+      eval for fluid overload, infiltrate                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  CLL, now short of breath.
+     
+     CHEST, SUPINE:  Cardiac size is within normal limits.  There is increased
+     haziness over the right lower lung and I suspect the presence of an enlarging
+     effusion on the right side.  The left costophrenic angle is not included in
+     the films.  No other evidence of failure or infiltrates are seen.
+     
+     IMPRESSION:  Increasing right-sided effusion, supine film.
+                                                                           
+
+",,
+14038,25116,17459,0,3016-12-08 03:41:00 EST,3016-12-08 04:11:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see also carevue flownotes for objective data)
+
+dx: CLL; leukophoresis; pleural effusions--s/p Rt tap;
+   pt s/p blood product transfusions this admission;
+
+Pt remains a/o x3; vss; needs assist for repositioning in bed d/t weakness from illness;
+
+Pt's overriding issue is hematological stability; pt remains on serial hcts, previous drawn at 17:30, therefore next due approx 2a; A.M. labs drawn at 2a.m., results very stable and similar to previous results; plt ct, hct essentially unchanged; Fribrinogen slightly up, 78 this a.m. from previous of 60's;
+   Pt's PIV site and Rt fem phoresis access site continue to ooze; 
+Unable to draw labs for side central port although able to flush w/ NS fairly easily; therefore labs drawn from Rt a.c. venous plebotomy;
+
+Resp:
+Pt's O2 sat adequate when awake on 4 l n.c.;
+However, each night, pt observed to drop O2 sat during [**Doctor Last Name 8**]; pt mouth breathing, and possibly with some [**Doctor Last Name 8**] apnea; therfore face tent applied during [**Doctor Last Name 8**], with good result--pt's O2 sats quit dipping to 80's;
+
+Pt voiding per urinal, medium yellow clear urine; creatinine stable from yesterday's results;
+
+Turned, given back care; no breaknown observed;
+
+Pt given PO K+, 20 mEq as ordered last eve; a.m. serum K+ wnl's;
+
+No stool this night; 12a FS 108;
+
+PLAN:
+1) 3rd serial hct due 10a
+2) transfuse for hct <21; also for plts ct <10
+3) return pt's O2 delivery to nasal cannula when awake
+4) metformin on hold
+5) assist pt w/ ADL's
+6) thrombocytopenic precautions
+",,
+14038,25116,17459,0,3016-12-08 17:57:00 EST,3016-12-08 18:06:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S CLEAR. PLACED ON NP AT 2.0L. O2 SATS 97%. CXR FROM [**12-7**] SHOWED NO RE-ACCUMULATION BEYOND THE SMALL BIL. PLEURAL EFFUSIONS. NO EVIDENCE OF CHF/PE. NO C/O SOB. 
+GI: APPETITE IMPROVED. DIET CHANGED TO HOUSE DIET, SO THAT PT. CAN GET WHAT HE WANTS, AS IT'S DIFFICULT TO ORDER FOOD WITH THIS NEW SYSTEM. GIVEN PO LAXATIVE, BUT NO BM. 
+RENAL: VOIDING IN FAIR AMTS. INCREASED PO FLUIDS. 
+ENDOC: NO SSI REQUIRED. REPEAT LYTES SENT AT 17PM. AWAITING RESULTS. 
+HEM: WBC'S 288.0 THIS AM AND PT. WAS PHERESISED FROM 1PM-4PM. TOL. WELL. WBC'S 186.0 POST. GIVEN CA+ GLUC. DURING THIS TIME. 
+CV: NOTED TO HAVE 1 RUN OF SVT DURING THE PROCEDURE. 
+ID: TEMP 99.4 PO THIS AFTERNOON, WHICH IS NEW FOR HIM. AWAITING CX RESULTS FROM THORENCENTESIS. 
+NEURO: ALERT AND ORIENTATED. SLEPT POORLY LAST NIGHT AND TRAZADONE ORDERED FOR TODAY. SLEPT IN SHORT NAPS THIS AM. 
+ACCESS: R GROIN DRSG. CHANGED. SMALL AMT OF CLOT REMOVED. AREA CONT. TO OOZE. NEED TO FLUSH IV PORT PRIOR TO LAB DRAWS. 
+SOCIAL: FAMILY INTO VISIT. 
+PLAN: ? OF TRANSFER TO THE [**Hospital1 **] TOMORROW.
+",,
+14038,25116,17459,,3016-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-9**] 5:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5745**]
+     Reason: Eval for evolution of leukopheresis, any infiltrates        
+     Admitting Diagnosis: LYMPHOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         81 year old man with T-CLL, with shortness of breath, with WBC 678,000,   
+      underwent leukopheresis [**Date range (1) 5744**]                                        
+     REASON FOR THIS EXAMINATION:
+      Eval for evolution of leukopheresis, any infiltrates                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CLL.
+     
+     IMPRESSION:  AP chest compared to [**12-6**] and 27th.
+     
+     Moderate sized bilateral pleural effusions, right greater than left, continue
+     to enlarged.  Heart is normal size and the mediastinum is midline.  Lungs are
+     clear.  No pneumothorax.
+                                                                           
+
+",,
+14038,25116,17459,0,3016-12-09 05:33:00 EST,3016-12-09 05:50:00 EST,251,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: ALERT AND ORIENTED X3. DENIES PAIN. INTACT. TRAZADONE FOR [**Doctor Last Name **] WITH GOOD EFFECT.
+
+CARDIAC: HR 71-87 SR WITH NO ECTOPY. BP 93-130/44-58. ON COZAAR DIALY. EXTREMITIES WARM. HCT STABLE @24. PLTS NOW 20 (24) AND FIBRINOGEN 83 (93). CONTINUES TO OOZE FROM RIGHT FEM PHARESIS SITE. HARDENED AREA PALPATED SUPERIOR TO SITE. MD NOTIFIED AND EVALUATED. WILL CONTINUE TO MONITOR. 
+
+RESP: RECEIVED ON 2L N/C WITH SATS IN THE 90'S. ONCE ASLEEP IS A MOUTH BREATHER AND PLACED 50% FACE TENT AS HE WILL DESAT TO <80%. WILL OCCASIONALLY DIP SATS AS WELL ON FACE TENT. RR 13-19. LS CLEAR AND OCCASIONAL NONCONGESTED COUGH. DENIES SOB. CXR FROM [**12-8**] SHOWS INCREASING RIGHT SIDED EFFUSION IN SUPINE POSITION. SCHEDULED FOR CXR THIS AM. 
+
+GI/GU: ABD SOFT AND DISTENDED WITH +BS. NO STOOL. VOIDING VIA URINAL, AMBER AND CLEAR. CREAT STABLE @1.0.
+
+FEN: EVENING K+ AND MAG REPLETED. Q6HR FS W/SSRI. TAKING PO'S WELL.
+
+ID: TMAX 98.3 PO WITH WBC 210, UP FROM 201 LAST EVENING. NO CURRENT ID ISSUES. NGTD FROM PLEURAL/BLOOD CX'S.
+
+SKIN: RASH OVER TORSO, THOUGHT TO BE R/T CLL.
+
+ACCESS: PIV IN LEFT HAND. RIGHT FEM PHARESIS LINE.
+
+SOCIAL/DISPO: FULL CODE. NO CONTACT FROM FAMILY. PLAN TODAY MAY BE TO REMOVE PHARESIS LINE AND ? TRANSFER TO NEBH OR CALL OUT TO THE FLOOR. TRANSFER NOTE WRITTEN. REFERRAL STARTED IF HE IS TO BE TRANSFERRED OUT. MONITOR CBC/COAGS, TRANSFUSE HCT<21, PLTS <10, FIBRINOGEN <50, OR IF BLEEDING.
+",,
+14038,25116,17459,0,3016-12-09 15:20:00 EST,3016-12-09 15:29:00 EST,117,"N",69,"Nursing/Other","MICU NPN Transfer to floor:","
+MICU NPN Transfer to floor:
+Pt with stable vital signs awaiting bed assignment on the floor.
+
+Neuro: Awake. alert and oriented times three. MAE. Denies pain except for c/o constipation at this time. Pt with periods of being discouraged at not being able to go home. Frustrated by the fact that he is not able to move around in the bed well or get up to commode to move his bowels due to his central line.
+
+CV: BP 110-140/50-60. HR 70-80 NSR no chest pain.
+
+Resp: Remains on 2L N/C. Lungs clear with deminished sounds at bases. CXR shows bilateral pleural effusions which are increasing in size. As long as pt breathing is stable will hold off on tapping effusions. RR 20's.
+
+GI: Tolerated diet well this AM and has had c/o constipation since then. Unable to go so far on the bedpan. Given dulcolax suppository. Now ordered for lactulose. Abdomen soft distended.
+
+Endo: Required SSRI coverage at noon. May need to be restarted on PO regimen.
+
+GU: Voids amber urine in urinal.
+
+ID: afebrile
+
+Social: Family visited and aware of the plan. His daughter [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5619**] cell number is [**Telephone/Fax (1) 5620**] in cas eof emergency.
+
+Heme: Hct check this afternoon shows hct 22 down from 24 and WBC 223 up from 210. Plan to leave pharesis line in tonight and to take out tomorrow if labs are stable. Plt count stable Groin line still oozing blood, team aware.
+
+Plan: Pt called out to the floor and is awaiting bed assignment. Continue to follow labs, vital signs. Assist pt with bowel regimen since pt has not moved his bowels since last Wednesday. Transfer to floor when bed available.
+",,
+14038,25116,17459,0,3016-12-09 17:40:00 EST,3016-12-09 17:43:00 EST,117,"N",69,"Nursing/Other","NPN UPdate/Plan:","
+NPN UPdate/Plan:
+Pt has a bed assignment on 11R to the BMT unit and is planned to continue on chemotherapy this evening. Evening labs show Plt count 23 and hct 22 and WBC slightly higher at 223. Plan to leave in pheresis line for one more day and d/c tomorrow if he does not need treatment. Line continues to ooze blood in moderate amts. Last changed dressing at 1700. Still trying to go pass stool on the bedpan, given lactulose as ordered.
+",,
+14038,25116,,,3016-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-10**] 8:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5746**]
+     Reason: Please evaluate size of effusions                           
+     Admitting Diagnosis: LYMPHOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with CLL and enlarging pleural effusions                        
+     REASON FOR THIS EXAMINATION:
+      Please evaluate size of effusions                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Portable AP chest.
+     
+     COMPARISON:  Comparison  to [**12-9**] at 06:36.
+     
+     INDICATION:  Enlarging pleural effusions.  Please assess change.
+     
+     There has been no significant change in the size of the pleural effusions,
+     right much greater than left allowing for differences in the technique.  No
+     pneumothoraces.  The cardiac silhouette and mediastinal contours are
+     unchanged.
+     
+     IMPRESSION:  Unchanged bilateral pleural effusions, right much greater than
+     left.
+                                                                           
+
+",,
+14038,25116,,,3016-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-11**] 9:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5747**]
+     Reason: evaluate status of effusions.                               
+     Admitting Diagnosis: LYMPHOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with CLL and pleural effusions, s/p thoracentesis on 
+      admission.
+     REASON FOR THIS EXAMINATION:
+      evaluate status of effusions.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST AT 9:07 A.M. ON [**12-11**]
+     
+     HISTORY:  CLL and pleural effusion.  Status post thoracentesis.
+     
+     IMPRESSION:  AP chest compared to [**12-9**] and 29.
+     
+     Moderate-sized right pleural effusion is reaccumulating.  Small left pleural
+     effusion and left basal atelectasis are stable.  Heart size is normal.  No
+     pneumothorax.
+                                                                           
+
+",,
+14038,25116,,,3016-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-12-13**] 2:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5748**]
+     Reason: r/o pneumothorax.                                           
+     Admitting Diagnosis: LYMPHOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81 year old man with CLL and pleural effusions, s/p thoracentesis.            
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3016-12-13**]
+     
+     COMPARISON:  [**3016-12-11**].
+     
+     INDICATION:  Status post thoracentesis.
+     
+     There is no evidence of pneumothorax.  A right pleural effusion has
+     significantly decreased in size in the interval with only a small effusion
+     remaining.  Note is also made of a small left pleural effusion, incompletely
+     imaged due to exclusion of the left costophrenic sulcus from the radiograph. 
+     Atelectatic changes are noted at the left base adjacent to the pleural
+     effusion.
+     
+     IMPRESSION:  Decrease in right pleural effusion following thoracentesis with
+     no evidence of pneumothorax.
+                                                                           
+
+",,
+14038,20734,,,3017-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-5**] 12:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5751**]
+     Reason: ? pneumonia, effusions                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with CLL here with weakness.  decreased BS on right.            
+     REASON FOR THIS EXAMINATION:
+      ? pneumonia, effusions                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CLL with weakness, decreased breath sounds on right.
+     
+     CHEST, SINGLE AP VIEW.
+     
+     There is a moderately large right effusion extending into the minor fissure,
+     new compared with [**3016-12-13**], with underlying collapse and/or consolidation.
+     There is prominence of the right pulmonary hilum, similar to that seen on
+     previous exams.  This could reflect either pulmonary lymphadenopathy or
+     pulmonary hypertension.  There is atelectasis at the left lung base, but no
+     left effusion.  No CHF.  Suspect underlying hyperinflation.
+     
+     IMPRESSION:  New moderate-sized right pleural effusion, with underlying
+     collapse and/or consolidation.  Atelectasis at left base. Prominent right
+     hium -- see comment.
+     
+
+",,
+14038,20734,,,3017-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-5**] 11:50 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5750**]
+     Reason: eval for bleed                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with fall, head injury                                          
+     REASON FOR THIS EXAMINATION:
+      eval for bleed                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: ACKe SUN [**3017-1-5**] 12:30 PM
+      tiny (mm-sized) left subdural collection.  right hemisphere is slightly
+      edematous but no frank midline shift.  several nodules throughout brain
+      (largest 7mm) suggesting metastasis - history of underlying malignancy??
+      
+      no fractures.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old man with fall and head injury.  History of CLL.
+     
+     TECHNIQUE:  Non-contrast head CT without priors for comparison.
+     
+     FINDINGS:  Multiple small nodules are seen in the brain, the largest measuring
+     7 mm.  One is in the left cerebellar peduncle, one in the inferior left
+     frontal lobe, one in the left temporoparietal region, one in the right
+     temporoparietal region, and one in the right frontal lobe adjacent to the
+     cingulate gyrus.  These nodules are all high in density, though not of the
+     density to suggest bleed, however, the multiplicity suggests a metastatic
+     process.  Additionally, there is a tiny, approximately millimeter sized extra-
+     axial fluid collection along the right cerebral convexity, but without
+     significant mass effect on the underlying cerebral cortex.  Multiple subtle
+     low density lesions are seen scattered throughout the white matter of both
+     cerebral hemispheres, and the right cerebral hemisphere appears slightly
+     edematous compared to the left, with mild effacement of sulci, and narrowing
+     of the lateral ventricle, though without midline shift. No intra- axial
+     hemorrhage is identified.  No acute major vascular territorial infarct is
+     seen.
+     
+     Bony structures are intact. polyp vs retention is noted in the right maxillary
+     sinus. The reminader of the sinuses are clear. There is calcification of the
+     vertebral and basilar arteries and of the choroid plexus.
+     
+     IMPRESSION:
+     
+     1.  High density nodules and multiple ill-defined hypodensities scattered
+     throughout the brain, suggestive of a metastatic process.
+     
+     2.  Very small (approximately 1 mm) right extra-axial fluid collection, with
+     associated mild edema of the right hemisphere, but without midline shift.
+     
+     An MRI of the brain is recommended for further evaluation of these findings.
+     
+     Preliminary findings were relayed to the ED dashboard at 12:30 p.m., 25
+                                                                 (Over)
+
+     DATE: [**3017-1-5**] 11:50 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5750**]
+     Reason: eval for bleed                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**3016-12-12**].
+
+",,
+14038,20734,,,3017-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-5**]  
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 5749**]
+     Reason: assess line placement                                       
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         81 year old man with CLL and pleural effusions, s/p thoracentesis.           
+       
+     REASON FOR THIS EXAMINATION:
+      assess line placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CLL, pleural effusion status post thoracentesis, assess line.
+     
+     CHEST, SINGLE AP VIEW.
+     
+     A right IJ central line is present -- allowing for rotation, the tip overlies
+     the proximal SVC.  No pneumothorax is detected.  Again seen is a moderate-to-
+     moderately large layering right pleural effusion.  Also again seen is left
+     lower lobe collapse and/or consolidation.  There is some upper zone
+     redistribution and possible mild pulmonary vascular plethora, likely
+     accentuated by supine positioning.  Attention to mediastinal positioning on
+     followup films is requested, as alignment on this film is somewhat atypical,
+     raising the question of subtle shift. 
+     
+     IMPRESSION:  Right IJ central line tip over mid SVC.  No pneumothorax
+     detected.
+
+",,
+14038,20734,,,3017-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-5**]  
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 5749**]
+     Reason: assess line placement                                       
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         81 year old man with CLL and pleural effusions, s/p thoracentesis.           
+       
+     REASON FOR THIS EXAMINATION:
+      assess line placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CLL, pleural effusion status post thoracentesis, assess line.
+     
+     CHEST, SINGLE AP VIEW.
+     
+     A right IJ central line is present -- allowing for rotation, the tip overlies
+     the proximal SVC.  No pneumothorax is detected.  Again seen is a moderate-to-
+     moderately large layering right pleural effusion.  Also again seen is left
+     lower lobe collapse and/or consolidation.  There is some upper zone
+     redistribution and possible mild pulmonary vascular plethora, likely
+     accentuated by supine positioning.  Attention to mediastinal positioning on
+     followup films is requested, as alignment on this film is somewhat atypical,
+     raising the question of subtle shift. 
+     
+     IMPRESSION:  Right IJ central line tip over mid SVC.  No pneumothorax
+     detected.
+
+",,
+14038,20734,,,3017-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-5**] 5:51 PM
+     CT HEAD W/O CONTRAST; -76 BY SAME PHYSICIAN                     [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 5752**]
+     Reason: interval change from previous study                         
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with small right subdural, low platelets (15)                   
+     REASON FOR THIS EXAMINATION:
+      interval change from previous study                                             
+     CONTRAINDICATIONS for IV CONTRAST:
+      acute renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right subdural seen on previous CT scan.  Follow-up.
+     
+     TECHNIQUE:  Noncontrast head CT, compared with the examination of the same day
+     at 12:00 p.m.
+     
+     FINDINGS:  There has been no significant interval change.  The minimal right
+     extra-axial collection has not changed in size.  There is no midline shift.
+     The multiple round high density lesions seen scattered throughout the brain
+     are again identified, as are the multiple low density lesions in the white
+     matter.  These findings are most concerning for an underlying metastatic
+     process, which can be better evaluated with an MRI. Other etiologies cannot
+     be excluded.
+
+",,
+14038,20734,,,3017-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-5**] 5:51 PM
+     CT HEAD W/O CONTRAST; -76 BY SAME PHYSICIAN                     [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 5752**]
+     Reason: interval change from previous study                         
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with small right subdural, low platelets (15)                   
+     REASON FOR THIS EXAMINATION:
+      interval change from previous study                                             
+     CONTRAINDICATIONS for IV CONTRAST:
+      acute renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right subdural seen on previous CT scan.  Follow-up.
+     
+     TECHNIQUE:  Noncontrast head CT, compared with the examination of the same day
+     at 12:00 p.m.
+     
+     FINDINGS:  There has been no significant interval change.  The minimal right
+     extra-axial collection has not changed in size.  There is no midline shift.
+     The multiple round high density lesions seen scattered throughout the brain
+     are again identified, as are the multiple low density lesions in the white
+     matter.  These findings are most concerning for an underlying metastatic
+     process, which can be better evaluated with an MRI. Other etiologies cannot
+     be excluded.
+
+",,
+14038,20734,17460,,3017-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-6**] 4:31 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5753**]
+     Reason: evidence of change in size in subdural                      
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with new subdural s/p fall, no change in neuro exam             
+     REASON FOR THIS EXAMINATION:
+      evidence of change in size in subdural                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  New subdural hemorrhage after fall, followup.
+     
+     COMPARISON:  [**3017-1-5**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     HEAD CT WITHOUT IV CONTRAST:  There has been no significant interval change
+     since the prior examination.  Again demonstrated is a tiny right extra-axial
+     fluid collection, unchanged since the prior exam, consistent with a small
+     subdural hemorrhage.  There is no mass effect, shift of midline structures, or
+     new intra- or extra-axial hemorrhage identified.  Again seen are multiple
+     round high-density lesions within the right frontal, right temporal/parietal
+     lobes, and left cerebellar hemispheres.  Stable periventricular and
+     subcortical white matter hypodensities are again noted, consistent with
+     chronic microvascular angiopathy.  The ventricles and sulci are stable in
+     configuration, and there is no evidence of hydrocephalus. Visualized paranasal
+     sinuses and mastoid air cells are clear.  Multiple skin staples are seen
+     overlying the right occipital scalp.
+     
+     IMPRESSION:  No interval change in the appearance of the brain.  Stable tiny
+     right subdural hemorrhage.  Unchanged appearance of multiple high attenuation
+     lesions scattered within the brain concerning for metastasis.
+     
+                                                                           DFDdp
+
+",,
+14038,20734,17460,1,3017-01-06 06:20:00 EST,3017-01-06 07:08:00 EST,7570,"Y",1,"Nursing/Other",,"
+
+correc hct not up to 30 post pharesis, hct remains 23
+",,
+14038,20734,17460,0,3017-01-06 06:20:00 EST,3017-01-06 06:47:00 EST,7570,"N",1,"Nursing/Other",,"
+
+CCU NURSING PROGRESS NOTE 1900-0700,
+
+81 y/o male w/ hx of CLL, last treated w/ chemo on [**1-3**]. Admitted to ccu w/ worsening weakness and s/p fall at home this am. + head injury, 4 stables intact, Head ct + for 1mm SDH, repeat Head CT not significant for changes in SDH. WBC 815.7, rec's pharesis at NEB regulary. 
+
+S/O: Pt a&o x's 3, denies pain. 
+see carevue
+
+Neuro: Neuro check done frequently. No MS changes. Multiple nodules seen on Head CT, suggestive of metastasis. SDH unchanged per 2nd CT scan. Received 400 mg of po dilantin in ew, w/ additional 600mg IV, for complete dilatan load of 1000mg. No sz activity noted.
+
+CV: hr nsr w/ occ pvc's. NSVT occured x's one w/ placement of Pharesis catheter in R IJ. NIBP stable see carevue. 
+
+Heme: Plt ct UP to 50 s/p 12units of plts (2 6unit bags). HCT read at 22 in accurate w/ wbc ct up to 815.7, pharesis done this shift via RIJ, line ok to use per xray. Calcium repleated w/ pharesis run
+post pharesis wbc down to 517., post hct up to 30. 
+
+labs sent thi am.
+
+Resp: ls diminished Right mid to lower lobe. Chest cxr sig for large plueral effusion on right. O2 sat's drop to 88 on O2 via nc WHILE SLEEPING. new home O2 requirment since d/c on friday.
+
+GI/GU: voiding via urinal, + BS, + ascites.  abd NT to palp. diet NPO.
+
+skin: intact
+Social family visited last nigt up dated on plan of care
+
+a/P: Pt tolerated Pharesis w/ adrop in wbc, stable hct, Pharesis line placed w/o complication.
+MS stable, neuro exam unchanged. o2 sat drop w/ [**Doctor Last Name 8**] at times. 
+?plan for thoracentisis, and/or paracentisis. Follow plt ct/wbc count.
+
+",,
+14038,20734,,,3017-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-7**] 2:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5754**]
+     Reason: ? etiology of slight desat                                  
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          81 year old man with CLL and pleural effusions, s/p thoracentesis.          
+         
+     REASON FOR THIS EXAMINATION:
+      ? etiology of slight desat                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old with CLL status post thoracentesis.
+     
+     COMPARISON:  [**3017-1-5**].
+     
+     AP PORTABLE CHEST RADIOGRAPH: Again seen is a double lumen central venous
+     catheter with tip in the SVC.  Cardiomediastinal silhouette is stable.  There
+     is decreasing   mild congestive heart failure.  There is a decreasing moderate
+     sized right pleural effusion.  Again seen is left lower lobe collapse and/or
+     consolidation.  There is a small left pleural effusion.  Rounded lucencies are
+     noted in the left clavicle and scapula.
+     
+     
+     IMPRESSION:
+     
+     1.  Mild congestive heart failure somewhat improved compared to the last chest
+     radiograph with moderate sized right pleural effusion and small left pleural
+     effusion.  Left lower lobe atelectasis and/or consolidation.
+     
+     2.  Rounded lucencies in the left clavicle and scapula.  Clinically correlate
+     and follow-up as necessary.
+
+",,
+14038,20734,,,3017-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-7**] 1:07 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 5755**]
+     Reason: eval for brain mass                                         
+     Admitting Diagnosis: SUBDURAL BLEED
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with h/o CLL s/p fall with SDH with CT concerning for brain 
+      lesions
+     REASON FOR THIS EXAMINATION:
+      eval for brain mass                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  History of chronic lymphatic leukemia, status post fall
+     with subdural hematoma on CT.
+     
+     MRI OF THE BRAIN WITH GADOLINIUM
+     
+     Exam compared to the patient's CT scan of [**3017-1-6**].
+     
+     FINDINGS:  There is some abnormal signal material surrounding the brain, most
+     notably adjacent to the right hemisphere, but also present in the left
+     occipital and left frontal regions consistent with subdural hemorrhage.  There
+     are multiple abnormal signal foci on the susceptibility sequence within the
+     brain.  These are various in size and in location.  The pattern suggests
+     amyloid angiopathy.  There is no definite evidence of territorial infarction.
+     There are multiple T2 high signal intensity foci consistent with microvascular
+     angiopathy.  There is one abnormal signal focus in the left parietal region,
+     which corresponds to a somewhat permeative appearance on the patient's CT scan
+     represent a possible infiltrative lesion such as malignancy.  There is a small
+     lipoma over the left frontal region.
+     
+     IMPRESSION:  Small subdural hematomas as described.  Findings consistent with
+     amyloid angiopathy.  Some of these appear to correspond to the areas of
+     slightly increased intensity seen on the patient's CT scan.  Possible lytic
+     lesion in the left parietal region.
+
+",,
+14038,20734,,,3017-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-7**] 1:07 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 5755**]
+     Reason: eval for brain mass                                         
+     Admitting Diagnosis: SUBDURAL BLEED
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with h/o CLL s/p fall with SDH with CT concerning for brain 
+      lesions
+     REASON FOR THIS EXAMINATION:
+      eval for brain mass                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  History of chronic lymphatic leukemia, status post fall
+     with subdural hematoma on CT.
+     
+     MRI OF THE BRAIN WITH GADOLINIUM
+     
+     Exam compared to the patient's CT scan of [**3017-1-6**].
+     
+     FINDINGS:  There is some abnormal signal material surrounding the brain, most
+     notably adjacent to the right hemisphere, but also present in the left
+     occipital and left frontal regions consistent with subdural hemorrhage.  There
+     are multiple abnormal signal foci on the susceptibility sequence within the
+     brain.  These are various in size and in location.  The pattern suggests
+     amyloid angiopathy.  There is no definite evidence of territorial infarction.
+     There are multiple T2 high signal intensity foci consistent with microvascular
+     angiopathy.  There is one abnormal signal focus in the left parietal region,
+     which corresponds to a somewhat permeative appearance on the patient's CT scan
+     represent a possible infiltrative lesion such as malignancy.  There is a small
+     lipoma over the left frontal region.
+     
+     IMPRESSION:  Small subdural hematomas as described.  Findings consistent with
+     amyloid angiopathy.  Some of these appear to correspond to the areas of
+     slightly increased intensity seen on the patient's CT scan.  Possible lytic
+     lesion in the left parietal region.
+
+",,
+14038,20734,,,3017-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-10**] 9:04 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5756**]
+     Reason: Evaluate size of pleural effusions.                         
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with CLL here with weakness.  decreased BS bilaterally.        
+     REASON FOR THIS EXAMINATION:
+      Evaluate size of pleural effusions.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST
+     
+     DATE OF EXAM:  [**3017-1-10**].
+     
+     INDICATION:  81-year-old male with CLL, with new-onset weakness and decreased
+     breath sounds in the lung bases bilaterally.
+     
+     FINDINGS:  As seen on [**3017-1-7**], there is a large right-sided pleural
+     effusion, and a small-to-moderate left pleural effusion.  The airspace within
+     the right lung base and retrocardiac region cannot be evaluated due to
+     underlying effusions, and therefore pneumonia is not excluded.  The upper
+     lungs are better aerated.  The right IJ central venous catheter tip projects
+     at the SVC/right atrial junction.  There is no pneumothorax.  The previously
+     seen possible lucencies within the left clavicle and scapula are not included
+     on this film.  Osseous structures are otherwise unchanged.
+     
+     IMPRESSION:  Stable large right and moderate left pleural effusions.
+                                                                           
+
+",,
+14038,20734,,,3017-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-12**] 5:25 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 5759**]
+     Reason: r/o PNA and worsening SOB                                   
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            81 year old man with CLL and pleural effusions.  New fever and SOB.       
+               
+     REASON FOR THIS EXAMINATION:
+      r/o PNA and worsening SOB                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest, performed on [**3017-1-12**].
+     
+     HISTORY:  81-year-old man with CLL and pleural effusions.  Now with new fever
+     and shortness of breath.  Evaluate for pneumonia.
+     
+     FINDINGS:  Comparison is made to the previous study from [**3017-1-12**], at
+     5:35 a.m.
+     
+     There is again seen a right-sided central venous catheter with distal tip in
+     the SVC, unchanged.  There is persistent large pleural effusion on the right
+     side with opacification of the right lung base.  A left retrocardiac opacity
+     is also identified, which may be secondary to underlying infiltrate or fluid.
+     The left CP angle has been cut off from the study.  These findings are
+     essentially unchanged since the previous study.
+     
+     
+     
+
+",,
+14038,20734,,,3017-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-12**] 3:54 PM
+     UNILAT UP EXT VEINS US RIGHT PORT; ABDOMEN U.S. (COMPLETE STUDY) PORTClip # [**Telephone/Fax (1) 5758**]
+     Reason: please assess for clot                                      
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with CLL on campath therapy p/w R upper ext. swelling, 
+      weakness.  Please evaluate for clot in R upper extremity vasculature
+     REASON FOR THIS EXAMINATION:
+      please assess for clot                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old male with CLL and DIC presenting with right upper
+     extremity swelling.  The patient also has abdominal distention and also acute
+     renal failure.
+     
+     RIGHT UPPER EXTREMITY DVT STUDY:  The study is limited due to bandage
+     overlying the right IJ and the right subclavian vein.  Grayscale and Doppler
+     sonograms of the right axillary vein and right brachial veins were performed.
+     There is normal flow, compressibility and augmentation of these vessels.  No
+     intraluminal thrombus was identified.
+     
+     ABDOMINAL ULTRASOUND:  The study is very limited due to distended bowel
+     including very distended and air-containing stomach.  This limits the
+     visualization of the intra-abdominal structures.  There is a moderate-to-large
+     amount of ascites around the liver and in the pelvis.
+     
+     RENAL ULTRASOUND:  The right kidney measures 10.3 cm.  The left kidney
+     measures 10.3 cm.  There are multiple simple cysts in the kidneys bilaterally.
+     There is no evidence of hydronephrosis.  The echogenicity of the kidneys is
+     within normal limits.
+     
+     IMPRESSION:
+     
+     1.  No evidence of DVT in the right upper extremity.
+     
+     2.  No evidence of hydronephrosis.
+     
+     3.  Distended loops of bowel containing air.
+     
+     4.  Moderate-to-large amount of ascites around the liver and in the pelvis.
+     
+
+",,
+14038,20734,,,3017-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-12**] 3:54 PM
+     UNILAT UP EXT VEINS US RIGHT PORT; ABDOMEN U.S. (COMPLETE STUDY) PORTClip # [**Telephone/Fax (1) 5758**]
+     Reason: please assess for clot                                      
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with CLL on campath therapy p/w R upper ext. swelling, 
+      weakness.  Please evaluate for clot in R upper extremity vasculature
+     REASON FOR THIS EXAMINATION:
+      please assess for clot                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old male with CLL and DIC presenting with right upper
+     extremity swelling.  The patient also has abdominal distention and also acute
+     renal failure.
+     
+     RIGHT UPPER EXTREMITY DVT STUDY:  The study is limited due to bandage
+     overlying the right IJ and the right subclavian vein.  Grayscale and Doppler
+     sonograms of the right axillary vein and right brachial veins were performed.
+     There is normal flow, compressibility and augmentation of these vessels.  No
+     intraluminal thrombus was identified.
+     
+     ABDOMINAL ULTRASOUND:  The study is very limited due to distended bowel
+     including very distended and air-containing stomach.  This limits the
+     visualization of the intra-abdominal structures.  There is a moderate-to-large
+     amount of ascites around the liver and in the pelvis.
+     
+     RENAL ULTRASOUND:  The right kidney measures 10.3 cm.  The left kidney
+     measures 10.3 cm.  There are multiple simple cysts in the kidneys bilaterally.
+     There is no evidence of hydronephrosis.  The echogenicity of the kidneys is
+     within normal limits.
+     
+     IMPRESSION:
+     
+     1.  No evidence of DVT in the right upper extremity.
+     
+     2.  No evidence of hydronephrosis.
+     
+     3.  Distended loops of bowel containing air.
+     
+     4.  Moderate-to-large amount of ascites around the liver and in the pelvis.
+     
+
+",,
+14038,20734,,,3017-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-12**] 5:25 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 5759**]
+     Reason: r/o PNA and worsening SOB                                   
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            81 year old man with CLL and pleural effusions.  New fever and SOB.       
+               
+     REASON FOR THIS EXAMINATION:
+      r/o PNA and worsening SOB                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest, performed on [**3017-1-12**].
+     
+     HISTORY:  81-year-old man with CLL and pleural effusions.  Now with new fever
+     and shortness of breath.  Evaluate for pneumonia.
+     
+     FINDINGS:  Comparison is made to the previous study from [**3017-1-12**], at
+     5:35 a.m.
+     
+     There is again seen a right-sided central venous catheter with distal tip in
+     the SVC, unchanged.  There is persistent large pleural effusion on the right
+     side with opacification of the right lung base.  A left retrocardiac opacity
+     is also identified, which may be secondary to underlying infiltrate or fluid.
+     The left CP angle has been cut off from the study.  These findings are
+     essentially unchanged since the previous study.
+     
+     
+     
+
+",,
+14038,20734,,,3017-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-12**] 5:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5757**]
+     Reason: r/o new infiltrate                                          
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           81 year old man with CLL and pleural effusions.  New fever.                
+     REASON FOR THIS EXAMINATION:
+      r/o new infiltrate                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest [**3017-1-12**].
+     
+     HISTORY:  81-year-old man with CLL and pleural effusions.  New fever, evaluate
+     for pneumonia.
+     
+     FINDINGS:  Comparison is made to previous study from [**3017-1-10**].
+     
+     There is a right-sided IJ central venous catheter, with the distal tip in the
+     SVC, unchanged.  There is again seen a large right-sided pleural effusion
+     likely layering and a left-sided pleural effusion which is moderated sized.
+     These are unchanged from previous.  There is no evidence for overt pulmonary
+     edema.  There is a left retrocardiac opacity.  This finding is unchanged.
+     Underlying pneumonia would be difficult to exclude given the retrocardiac
+     opacity and the large pleural effusions.
+     
+     
+
+",,
+14038,20734,,,3017-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-12**] 5:35 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 5760**]
+     Reason: abd pain                                                    
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with abd pain                                                   
+     REASON FOR THIS EXAMINATION:
+      abd pain                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP abdomen performed on [**3017-1-12**].
+     
+     HISTORY:  81-year-old man with abdominal pain.
+     
+     FINDINGS:  There are no prior studies available for comparison.
+     
+     There are several air-filled loops of mildly distended small bowel within the
+     mid abdomen.  There is some air seen within the expected location of the
+     ascending colon as well as in the rectum.  Gas is also seen within a
+     moderately distended stomach.
+     
+     IMPRESSION:
+     
+     There is a nonspecific bowel gas pattern.  There is some mildly distended
+     loops of air-filled small bowel within the abdomen.  However, gas is seen
+     within the rectum and small portions of the colon.  This may represent an
+     early small-bowel obstruction versus ileus.  Followup films is recommended.
+     
+     
+
+",,
+14038,20734,,,3017-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-14**]  
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5761**]
+     Reason: Pt s/p pleurocentesis evaluate for signs of pneumothorax    
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             81 year old man with CLL and pleural effusions.  New fever and SOB.      
+                 
+     REASON FOR THIS EXAMINATION:
+      Pt s/p pleurocentesis evaluate for signs of pneumothorax                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with CLL and pleural effusions.  No fever and shortness
+     of breath.  Status post pleurocentesis.  Evaluate for pneumothorax.
+     
+     COMPARISON:  [**3017-1-12**].
+     
+     UPRIGHT AP CHEST:  Right internal jugular central venous catheter is in
+     unchanged position.  Heart size is normal.  Mediastinal and hilar contours are
+     unchanged.  The right lateral chest is excluded from the image.  The right
+     pleural effusion has decreased in the interim, secondary to pleurocentesis. 
+     No definite pneumothorax is visualized.  Left pleural effusion has increased
+     in the interim, now moderate.
+     
+     IMPRESSION:  No evidence of pneumothorax, status post pleurocentesis. 
+     Increasing left effusion.
+                                                                           
+
+",,
+14038,20734,,,3017-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-16**] 3:14 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5762**]
+     Reason: Assess for changes in subdural and for any acute intracrania
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with subdural and AMS                                           
+     REASON FOR THIS EXAMINATION:
+      Assess for changes in subdural and for any acute intracranial path              
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Subdural and altered mental status.  Assess for changes in
+     subdural and any intracranial path.
+     
+     COMPARISON:  [**3017-1-6**].
+     
+     FINDINGS:  There is a new moderate sized mixed density subdural fluid
+     collection on the right.  The lateral ventricle is completely compressed
+     indicating mass effect from the subdural fluid collection as well as a 3 mm
+     shift of the normally midline structures.  The mixed intensity of the
+     collection likely consists of blood and other fluid given the mixed densities.
+     The previously identified high-density lesions are subsiding indicating that
+     these were most likely hemorrhages rather than amyloid angiopathy.
+     
+     IMPRESSION:  New moderate right subdural fluid collection, with mass effect
+     and midline shift.  Dr. [**Last Name (STitle) **] and I discussed the urgency of these findings at
+     3:45 p.m. on [**3017-1-16**].
+
+",,
+14038,20734,,,3017-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-17**] 8:02 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5763**]
+     Reason: assess changes                                              
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with subdural                                                   
+     REASON FOR THIS EXAMINATION:
+      assess changes                                                                  
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE BRAIN, [**3017-1-17**]:
+     
+     INDICATION:  Subdural hematoma.  Evaluate for change.
+     
+     TECHNIQUE:  Axial non-contrast CT scans of the brain were obtained.
+     
+     Comparison is made to the previous CT scan of [**3017-1-16**].
+     
+     FINDINGS:
+     
+     There is no change in the size or configuration of the right-sided subdural
+     hemorrhage.  Denser blood products are layering posteriorly.  The hematoma
+     extends under the right temporal lobe, which is slightly elevated and medially
+     displaced.  However, the basal cisternal spaces retain their normal
+     configuration.  There is mild shift of midline structures to the left,
+     unchanged since the previous day's examination.  Brain parenchymal attenuation
+     is also stable.
+     
+     IMPRESSION:  Stable right subdural hematoma.  Findings were reported by
+     telephone to Dr. [**Last Name (STitle) **] at 9:20 a.m. on [**3017-1-17**].
+                                                                           
+
+",,
+14038,20734,,,3017-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-18**] 12:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5764**]
+     Reason: Assess for fluid reaccumulation. Please take picture as upri
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with CLL and pleural effusions. s/p 1.5L drainage 3d ago with 
+      increasing O2 requirements. 
+     REASON FOR THIS EXAMINATION:
+      Assess for fluid reaccumulation. Please take picture as upright as possible to 
+      look for fluid layering.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  CLL, pleural effusions, status post 1.5-liter drainage three days
+     ago with increasing oxygen requirements.
+     
+     CHEST:  A single portable upright view is compared to previous examination of
+     [**3017-1-14**].  There are bilateral small pleural effusions with bibasilar
+     atelectasis. The lungs are clear.  The heart size is within normal limits.
+     There is right IJ central venous catheter with the tip in distal SVC.
+     
+     IMPRESSION:  Bilateral small pleural effusions.
+
+",,
+14038,20734,,,3017-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-20**] 4:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5765**]
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with CLL and pleural effusions now sob w/ blood products, 
+      sounds wet on exam. please assess for increasing chf, effusions
+     REASON FOR THIS EXAMINATION:
+      assess for interval change                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old with CML and pleural effusions, now with shortness of
+     breath.  
+     
+     CHEST X-RAY, AP PORTABLE VIEW.
+     
+     COMPARISON:  [**3017-1-18**].
+     
+     FINDINGS:  Cardiomediastinal silhouette is stable.  A moderate right and small
+     left pleural effusion are stable.  Lung fields are clear.  The right
+     subclavian catheter tip is in the mid SVC.  There is no pneumothorax.
+     Persistent left basilar atelectasis.
+     
+     IMPRESSION:
+     
+     1) Moderate right and a small left pleural effusions.     
+     
+     2)  Persistent bibasilar atelectasis.
+     
+     
+     
+
+",,
+14038,20734,,,3017-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-20**] 9:12 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5766**]
+     Reason: Assess interval changes                                     
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with subdural and AMS                                           
+     REASON FOR THIS EXAMINATION:
+      Assess interval changes                                                         
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Subdural with acute mental status, assess interval change.
+     
+     COMPARISON:  Comparison to [**3017-1-17**] at 8:06 a.m.
+     
+     TECHNIQUE:  Axial noncontrast head CT.
+     
+     FINDINGS:  There is no significant change in the size or configuration of the
+     right-sided subdural hemorrhage extending under the right temporal lobe. 
+     There is mild shift of the midline structures to the contralateral side that
+     has worsened slightly.  The basal cistern spaces; however, retain their normal
+     configuration.  The [**Doctor Last Name 63**]-white matter distinction is preserved.
+     
+     IMPRESSION:  Stable right subdural hematoma with slight progression of mass
+     effect and shift of midline structures.
+                                                                           
+
+",,
+14038,20734,,,3017-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-23**] 3:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5767**]
+     Reason: please assess for interval changes                          
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81 year old man with CLL and pleural effusions now sob w/ blood products,  
+      sounds wet on exam. 
+     REASON FOR THIS EXAMINATION:
+      please assess for interval changes                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3017-1-23**]
+     
+     COMPARISON:  [**3017-1-20**].
+     
+     INDICATION:  Shortness of breath.
+     
+     The cardiac silhouette is upper limits of normal in size for technique.  There
+     are bilateral moderate-sized layering pleural effusions on the supine
+     radiograph.  There is slightly more confluent areas of hazy opacification
+     centrally in the perihilar regions, right greater than left, likely reflecting
+     a component of perihilar edema.  Additionally, there is a suggestion of
+     anasarca and probable ascites.
+                                                                           
+
+",,
+14038,20734,,,3017-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-26**] 3:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5768**]
+     Reason: Eval for infiltrates, effusions                             
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         81 year old man with CLL and pleural effusions now sob.                      
+     REASON FOR THIS EXAMINATION:
+      Eval for infiltrates, effusions                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST DATED [**3017-1-26**].
+     
+     COMPARISON:  [**3017-1-23**].
+     
+     INDICATION:  CLL.
+     
+     Central venous catheter remains in satisfactory position.  The cardiac
+     silhouette is upper limits of normal in size and stable.  There are bilateral
+     moderate-sized layering pleural effusions, right greater than left.  Overall,
+     both effusions appear slightly larger in the interval.  There has been
+     interval decrease in the degree of perihilar haziness attributed to improving
+     pulmonary edema.  There remains a suggestion of ascites and anasarca.
+                                                                           
+
+",,
+14038,20734,,,3017-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-29**] 8:30 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5769**]
+     Reason: Assess interval changes.                                    
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with subdural hematoma, mass effect and midline shift.          
+     REASON FOR THIS EXAMINATION:
+      Assess interval changes.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known subdural hematoma, please evaluate for mass effect and
+     midline shift.
+     
+     COMPARISON:  [**3017-1-20**].
+     
+     TECHNIQUE:  Axial non-contrast head CT.
+     
+     FINDINGS:  There has been some slight improvement in both the size of these
+     right subdural hematoma and associated mass effect.  The configuration of the
+     hemorrhage along the right cerebral convexity surface is unchanged.  There
+     still remains mass effect, as shown by  compression of the right lateral
+     ventricle and contralateral shift of the normally midline structures.  The
+     basal cisternal spaces, however, have retained their normal configuration. The
+     [**Doctor Last Name 63**]- white matter distinction is preserved.  No new intracranial hemorrhages
+     are identified.  Mucosal thickening within the right maxillary sinus is stable
+     and the other paranasal sinuses are clear.  Note of posterior scalp skin
+     staples that are unchanged.
+     
+     IMPRESSION:  Slightly improved right subdural hematoma and associated mass
+     effect, with lessened contralateral shift of normally midline structures.
+     
+     
+     
+
+",,
+14038,20734,,,3017-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3017-1-30**] 4:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5770**]
+     Reason: acute worsening of SOB. ? Pulmonary edema                   
+     Admitting Diagnosis: SUBDURAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          81 year old man with CLL and pleural effusions now sob.                     
+       
+     REASON FOR THIS EXAMINATION:
+      acute worsening of SOB. ? Pulmonary edema                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CLL, pleural effusions, with shortness of breath.  Evaluate
+     pulmonary edema.
+     
+     TECHNIQUE:  Single portable AP view of the chest was compared with examination
+     from four days ago.
+     
+     FINDINGS:  Again seen is right-sided IJ central venous catheter, extending to
+     the lower SVC.  There is significant worsening of the pleural effusions, and
+     allowing for the increased effusion, probably no significant change in the
+     pulmonary parenchymal pattern.  The cardiac silhouette is difficult to
+     distinguish given the amount of effusion, but the visualized portions are
+     probably unchanged.
+     
+     IMPRESSION:  Significant increase in pleural effusions.
+
+",,

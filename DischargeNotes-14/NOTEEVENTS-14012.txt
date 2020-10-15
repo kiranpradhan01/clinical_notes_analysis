@@ -1,0 +1,1128 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14012,12609,,,3299-07-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3299-7-18**]       Discharge Date:  [**3299-8-6**]
+
+Date of Birth:   [**3230-1-3**]       Sex:  M
+
+Service:  ACOVE
+
+HISTORY OF PRESENT ILLNESS:  This is a 69-year-old male with
+a history of renal cell cancer with metastasis to the right
+lower lobe status post resection in [**3290**], who presented to
+[**Hospital6 2076**] on [**7-16**] with complaints of several
+days of hemoptysis.  Work-up there including a chest CT scan
+showed a large mass obstructing the right mainstem bronchus.
+
+The patient was transferred to [**Hospital6 102**] for interventional bronchoscopy.  At bronchoscopy, the
+patient had Argon laser destruction of the right mainstem
+mass, and a stent was placed in the bronchus to maintain
+patency.  During the procedure, a significant amount of
+bleeding, approximately 600 cc, was noted and controlled.
+
+Following the procedure, the patient remained in the PACU
+where his blood pressure had dropped to an SBP in the 70s.
+He did received a 500 cc normal saline bolus and was started
+on a Neo-Synephrine drip to maintain to his blood pressure.
+He was then transferred to the Intensive Care Unit for
+further management.
+
+PAST MEDICAL HISTORY:  1.  Coronary artery disease status
+post myocardial infarction in [**3294**] and 1995, with discovered
+left anterior descending disease and stent placement.
+Echocardiogram in [**3295-9-19**] showed an ejection fraction
+of 25%, mild aortic stenosis, 2+ mitral regurgitation, 1+
+tricuspid regurgitation, and increased pulmonary artery
+systolic pressure.  2.  Hypertension.  3.  Renal cell
+carcinoma status post right nephrectomy in [**3273**] with
+metastasis to the right lower lobe status post partial
+resection in [**3290**].  No history of chemotherapy or
+immunotherapy.  4.  Congestive heart failure.  5.  Type 2
+diabetes mellitus.  6.  Gout.  7.  Chronic renal
+insufficiency.  8.  History of detached left retina from
+prior trauma.
+
+ALLERGIES:  ASPIRIN WITH UNCLEAR SIDE AFFECT, ERYTHROMYCIN
+WITH UNKNOWN ADVERSE REACTION.
+
+MEDICATIONS ON ADMISSION:  Allopurinol 300 mg p.o. q.d.,
+Lipitor 10 mg p.o. q.d., Lasix 80 mg p.o. q.d., Avandia 8 mg
+p.o. q.d., Toprol XL 25 mg p.o. q.d., Ceftriaxone 1 g IV q.24
+hours.
+
+SOCIAL HISTORY:  The patient has a 30 pack-year history of
+smoking; he quit in [**3282**].  Rare alcohol use.  The patient
+denied other drug use.
+
+PHYSICAL EXAMINATION:  Vital signs:  On admission temperature
+was 96.3��, heart rate 79, blood pressure 107/55 on
+Neo-Synephrine, Propofol drip, respirations 8, oxygen
+saturation 100% on SIMV, 600/8/5/60%.  General:  The patient
+was a sedated, intubated male.  HEENT: Left surgical pupil
+and right pupil reactive to light.  Neck:  No jugular venous
+distention.  No bruit.  Supple.  Lungs:  Decreased breath
+sounds on the right side anteriorly.  Cardiovascular:  Faint
+S1 and S2.  There was a 2 out of 6 systolic murmur at the
+left upper sternal border.  Regular, rate and rhythm.
+Abdomen:  Soft, nontender, nondistended.  Positive bowel
+sounds.  Extremities:  No clubbing, cyanosis, or edema.
+There were 2+ distal pulses bilaterally.
+
+LABORATORY DATA:  On admission white count was 8.9,
+hematocrit 31.9, platelet count 228; INR 1.1, PT 13.0, PTT
+26.6; electrolytes with a sodium of 145, potassium 4.2,
+chloride 108, bicarb 25, BUN 35, creatinine 1.9, glucose 189;
+arterial blood gas with pH of 7.35, pCO2 49, pO2 206.
+
+IMPRESSION:  This was a 69-year-old male with a distant
+history of renal cell carcinoma of the right kidney status
+post resection in [**3273**] with recurrence in [**3289**] to the right
+lower lobe status post wedge resection with new mass
+obstructing the right mainstem bronchus, likely from
+recurrence of renal cell carcinoma.
+
+HOSPITAL COURSE:  1.  Pulmonary:  After discovery of a mass
+obstructing the right mainstem bronchus, the patient was
+brought to [**Hospital6 273**] for
+debridement of the mass and right mainstem bronchus stenting
+on [**7-18**].
+
+A repeat bronchoscopy done on [**7-19**] showed that the stent
+remained in good position.  The patient was started on a
+course of intravenous Solu-Medrol per the instructions of the
+Interventional Pulmonary Team.  This was later changed to a
+Prednisone taper to address issues of airway edema.
+
+The patient was placed on a course of antitussive agents
+including Benzonatate and Robitussin AC to suppress his
+persistent cough.  Photodynamic therapy was used for further
+treatment of this obstructing lesion on [**7-28**].  A
+photosensitizing [**Doctor Last Name 11**] was administered, and laser treatment
+through bronchoscopy was done on [**7-30**].  Bronchoscopy
+for debridement was done on [**7-31**].
+
+Repeat bronchoscopy and laser treatment was accomplished on
+[**8-3**] with subsequent debridement again on [**8-5**].  Serial chest x-rays showed improved right lung aeration.
+
+The patient was maintained on 2 L oxygen nasal cannula
+throughout the majority of his stay, and then was ultimately
+weaned to room air.
+
+2.  Oncology:  Radiation/Oncology was consulted, and they
+administered a course of palliated radiation therapy that
+included a total of 14 treatments beginning on [**7-19**].
+The cumulative dose of the treatments was 3600 cgy to his
+chest area for the treatment of this right mainstem bronchus
+mass.
+
+On [**7-28**], the Hematology/Oncology Team was consulted,
+and it was determined that this patient was not a candidate
+for immunotherapy or investigational protocol at this time
+due to his multiple other medical problems including
+decompensated congestive heart failure.  A referral was made
+to the Biologics Clinic to discuss further options regarding
+ongoing treatment for this likely metastatic renal cell
+carcinoma.
+
+The pathology report of the tissue obtained from the initial
+bronchoscopy showed that the findings were compatible with a
+metastatic renal cell carcinoma, especially considering the
+patient's history; however, the possibility of a lung primary
+or of other origin could not be excluded.
+
+3.  Hematology:  The patient requires Erythropoietin at
+baseline for anemia related to his chronic renal
+insufficiency.  He did require 2 U of packed red blood cells
+following the initial bronchoscopy due to significant
+intraoperative bleeding.  Following that transfusion, his
+hematocrit did remain above 30 throughout the remainder of
+his hospital stay.
+
+4.  Endocrine:  The patient has a history of type 2 diabetes.
+He was kept on a regular Insulin sliding scale throughout his
+hospital stay for control of his blood sugar.  He was begun
+on a course of Glipizide in preparation for discharge.
+
+5.  Cardiovascular:  The patient has a known history of
+congestive heart failure with a poor ejection fraction.  The
+patient was markedly fluid overloaded on arrival to the
+Medicine Floor.  He was aggressively diuresed with
+intravenous Lasix b.i.d., reaching a dose of 80 mg b.i.d.
+
+The patient was kept on a fluid restriction of less than 1500
+cc/day.  He was also continued on his usual beta-blocker
+regimen and the ACE inhibitor.  Lisinopril was started, as
+the patient reached euvolemia.
+
+A Cardiology consult was obtained for further recommendations
+in the treatment of his congestive heart failure.  Follow-up
+with his private cardiologist was arranged.  He was continued
+on Lipitor throughout his hospital stay for his coronary
+artery disease.
+
+6.  Renal:  The patient did have acute on chronic renal
+failure during his hospital stay which did improve with
+ongoing treatment through diuresis that likely improved his
+systolic function.  Nephrotoxic medications were withheld
+during this period.  The patient was at his baseline renal
+function upon discharge.
+
+7.  Infectious disease:  Pneumonia was suspected on the
+patient's initial chest x-ray, but the patient never had a
+fever, elevated white count or significant productive cough
+throughout his hospital stay.  The initial course of
+Ceftriaxone was discontinued when chest x-ray no longer
+supported evidence of consolidation.
+
+8.  Psychiatry:  The patient did gain insight into the
+terminal nature of his disease.  He was at times despondent
+but did improve throughout his hospital stay with the help of
+the Oncology Social Worker and the support of his family
+members.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE DIAGNOSIS:
+1.  Pulmonary mass.
+2.  Acute on chronic renal failure.
+3.  Congestive heart failure.
+4.  Hemoptysis.
+5.  Renal cell carcinoma.
+6.  Type 2 diabetes mellitus.
+
+DISCHARGE MEDICATIONS:  Lipitor 10 mg p.o. q.d., Toprol XL 25
+mg p.o. q.d., Lisinopril 5 mg p.o. q.d., Glipizide 5 mg �� tab
+p.o. b.i.d., Lasix 20 mg 3 tab p.o. b.i.d., Benzonatate 100
+mg p.o. t.i.d. as needed for cough, Procrit as previously
+prescribed by his physician, [**Name Initial (NameIs) 9982**] 90 mcg aerosol 1-2
+puffs inhaled q.4-6 hours as needed for shortness of breath
+or wheezing, Colace 100 mg p.o. b.i.d., Allopurinol 300 mg ��
+tab p.o. q.d., Acetaminophen 325 mg [**11-20**] tab p.o. q.4-6 hours
+as needed for pain.
+
+FOLLOW-UP:  The patient was advised to keep the following
+appointments:  1.  Appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 8572**],
+cardiologist, [**Last Name (LF) 275**], [**3308-8-11**]:30.  2.  Appointment
+with Dr. [**First Name8 (NamePattern2) 194**] [**Last Name (NamePattern1) 9983**], primary care physician, [**Name10 (NameIs) 4131**],
+[**3307-8-12**]:20 a.m..  The patient was advised to ask Dr.
+[**Last Name (STitle) 9983**] for a referral to a pulmonologist.  3.  Dr. [**First Name4 (NamePattern1) 3000**]
+[**Last Name (NamePattern1) 9432**], the patient's nephrologist, Thursday, [**8-13**],
+2:40 p.m.  4.  Appointment in the Biologics Clinic at [**Hospital6 291**], [**8-17**], 1 p.m., with
+Dr. [**Last Name (STitle) 416**] and Dr. [**Last Name (STitle) **].
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 611**], M.D.  [**MD Number 1007**]
+
+Dictated By:[**Last Name (NamePattern1) 9984**]
+MEDQUIST36
+
+D:  [**3299-8-24**]  11:38
+T:  [**3299-8-24**]  11:40
+JOB#:  [**Job Number 9985**]
+
+cc:[**9-15**]
+
+",,
+14012,12609,,,3299-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-7-18**] 11:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5577**]
+     Reason: s/p rigid bronch and stent of RMSB obstrxn                  
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with massive hemoptysis and RMSB obstrxn                        
+     REASON FOR THIS EXAMINATION:
+      s/p rigid bronch and stent of RMSB obstrxn                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post rigit bronch and stent of RMSB obstruction.
+     
+     CHEST, SINGLE AP VIEW:
+     
+     There is opacification of the right lung, with shift of the trachea and main
+     stem bronchi to the right.  The ET tube is in satisfactory position
+     approximately 4 cm above the carina.  The cardiac silhouette does not appear
+     shifted. There is pulmonary vascular plethora on the left, with slight
+     prominence of the left hilum, but the left lung is otherwise grossly clear.
+     
+     IMPRESSION:  Near-complete opacification of the right lung, with suggestion of
+     tiny foci of air at the apex.  Rightward shift of trachea, with cut-off
+     appearance to the right main stem bronchus.
+
+",,
+14012,12609,,,3299-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-7-19**] 6:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5578**]
+     Reason: evaluate for pna / effusions                                
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old man with massive hemoptysis and RMSB obstrxn                       
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate for pna / effusions                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Massive hemoptysis and RMSV obstruction.  Evaluate for pneumonia,
+     effusions.
+     
+     CHEST, SINGLE AP PORTABLE VIEW:
+     
+     The right lung is completely opacified.  The left lung demonstrates upper zone
+     redistribution.  In addition, there is patchy retrocardiac density, increased
+     with the film from several hours earlier.  There is also pleural thickening
+     along the left chest wall inferiorly, consistent with either pleural
+     thickening or, more likely, a small left-sided pleural effusion.
+     
+     IMPRESSION:
+     
+     1. Right--near complete opacification of the right lung.
+     2. Left--upper zone redistribution, patchy left lower lobe collapse and/or
+     consolidation and small left effusion.
+
+",,
+14012,12609,17427,0,3299-07-19 03:03:00 EST,3299-07-19 03:16:00 EST,2487,"N",69,"Nursing/Other",,"
+
+Please refer to admission history for PMH and events prior to admission.  In brief pt is a 69 y/o male admitted s/p rigid bronch in OR complicated by difficult stent placement and bleeding.  Pt admitted to MICU for intubation overnight and bedside bronch in am.  
+  Allergy to ASA and erythromycin
+  Neuro:  Pt arrived from [**Location **] sedated on propofol at 60 mcg/kg/min.  Pt withdraws to pain, but otherwise unresponsive.  Goal is for pt to have no spont respirations--propofol weaned down to 45 mcg/kg/min in hopes of relieving hypotension.  L pupil 2m/reactive, R pupil s/p cataract surgery.  Bilat soft wrist restraints X 2 maintained for pt safety while intubated.
+  CV:  Pt sl. hypothermic with T current=96.5.  Blankets applied.  Pt in NSR, rate 70's with freq PVC/PAC.  Pt on neo gtt for BP support--weaning to keep MAP > 55.  Pt recieved 2 500 cc NS fluid boluses, but neo requirement has persisted.  It is running peripherally at through this time--newly placed #20 PIV with good blood return.  Dr. [**First Name (STitle) 602**] aware of peripherally running vasopressor, plan is to aggressively wean neo, but place central line if it is needed.  Hct s/p surgery WNL at 31.  Will recheck am labs shortly.  No s/sx of active bleeding.  
+  Pulm:  Pt recieved intubated on AC/10/600/5/60%.  On these settings ABG with PCO2 49 and PO2 > 200.  Settings changed to AC 12/600/5/40% per Dr. [**First Name (STitle) 602**].  No spontaneous respirations.  Lungs CTA.  
+  GI:  Pt NPO at this time.  If pt is not extubated later this morning he will need OGT.  ABD benign.  No stool.
+  GU:  Foley to gravity.  will f/u UOP closely
+",,
+14012,12609,17427,0,3299-07-19 03:42:00 EST,3299-07-19 03:45:00 EST,2536,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt intubated from PACU and placed on [**Last Name (un) **] settings of a/c 10/600/+5/60%.  Alarms on and functioning.  Amub/syringe @ hob.  BS auscultated reveal clear with diminished bases.  ABG's drawn 7.35/49/205/28.  Vent changes as follows:  ^ rr to 12, decrease fi02 to 40%.  No additional ABG's taken.  Pt remains of present settings.  sat's @ 100%.  No further changes noted.
+",,
+14012,12609,,,3299-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-7-21**] 10:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5579**]
+     Reason: ?consolidation/ pulmonary edema                             
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old man with RCC s/p RLL lobectomy for metastasis who had massive 
+      hemoptysis, a RMSB obstrxn, and now s/p RMSB stent                         
+     REASON FOR THIS EXAMINATION:
+      ?consolidation/ pulmonary edema                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Renal cell carcinoma s/p right lower lobe lobectomy and right main
+     stem bronchus stent. Evaluate for consolidation and pulmonary edema.
+     
+     VIEWS: Portable upright AP view, comparison with AP chest from [**3299-7-19**].
+     
+     FINDINGS: There has been interval improvement after removal of ETT, with the
+     right apex now well aerated. Bilateral pleural effusions persist along with
+     the previously noted densities at both bases. The left diaphragm remains
+     obscured. A linear opacity is seen overlying the right 6th and 7th ribs which
+     likely represents artifact.
+     
+     IMPRESSION: Improved aeration of the right upper lobe following ETT removal.
+     Persistent bibasilar opacification with bilateral pleural effusions.
+
+",,
+14012,12609,,,3299-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-7-22**] 4:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5580**]
+     Reason: ?CHF, ?pneumonia, Right lobe aeration                       
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         69 year old man with RCC s/p RLL lobectomy for metastasis who had massive  
+      hemoptysis, a RMSB obstrxn, and now s/p RMSB stent                         
+     REASON FOR THIS EXAMINATION:
+      ?CHF, ?pneumonia, Right lobe aeration                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P right lower lobe lobectomy for renal cell cancer metastasis
+     S/P right main stem bronchial stent please evaluate right lobe aeration CHF
+     versus pneumonia.
+     
+     VIEWS:  Single AP portable view, comparison dated [**3299-7-21**].
+     
+     FINDINGS:  The heart size mediastinal contour and pulmonary vasculature appear
+     unchanged without congestive heart failure.  The previously seen dense opacity
+     of the right middle and lower lung fields appears unchanged.  There is
+     slightly improved aeration of the right upper lung zone.  Stable bilateral
+     pleural effusions.  The previously seen left lower lobe opacity obscuring the
+     medial portion of the left hemidiaphragm appears slightly improved.  The
+     visualized osseous structures are unchanged.
+     
+     IMPRESSION:  Slight improved aeration of the right upper lung fields with
+     persistent unchanged opacity of the right middle and lower lung zones.
+     Improving left lower lobe collapse and consolidation.  Stable bilateral
+     pleural effusions.
+
+",,
+14012,12609,,,3299-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14012,12609,,,3299-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-7-30**] 11:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5581**]
+     Reason: ?CHF, right lung aeration                                   
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with RCC with mets obstructing RMSB s/p stent with ongoing CHF  
+     REASON FOR THIS EXAMINATION:
+      ?CHF, right lung aeration                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST RADIOGRAPH:
+     
+     INDICATION:  Placement of stent within right main stem bornchus.
+     
+     Comparison to [**3299-7-22**].
+     
+     FINDINGS:  The lung volumes remain low.  There is complete collapse of the
+     right middle and lower lobes.  There is hyperexpansion of the right upper
+     lobe.  A stent is seen within the right main stem bronchus.  There is
+     increased aeration of the left lung with decreased retrocardiac opacification.
+     There is no redistribution of the pulmonary vasculature.  There is probably a
+     small right-sided pleural effusion.  There is no pneumothorax.
+     
+     IMPRESSION:  Persistent collapse of the right middle and lower lobes.  No CHF.
+     Interval improved aeration of the left lung base.
+
+",,
+14012,12609,,,3299-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-7-31**] 4:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5582**]
+     Reason: ?CHF, ?right lung aeration                                  
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with RCC s/p RLL lobectomy for metastasis who had massive 
+      hemoptysis, a RMSB obstrxn, and now s/p RMSB stent                         
+     REASON FOR THIS EXAMINATION:
+      ?CHF, ?right lung aeration                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Right main stem bronchus stent.  Evaluate for congestive
+     heart failure and for right lung collapse.
+     
+     Comparison is made to previous study of 1 day earlier.
+     
+     A stent remains in place in the right main stem bronchus.  There is a large
+     rounded opacity in the region of the right hilum and there is persistent
+     collapse of the right middle and right lower lobe.  The heart size is enlarged
+     but stable.  The aorta is tortuous.  The pulmonary vascularity appears
+     slightly engorged but there is no overt evidence of pulmonary edema.  There
+     has been interval improvement and left retrocardiac opacity with minimal
+     patchy opacity remaining in this region.
+     
+     Surgical clips are noted in the right hemithorax.  A small right pleural
+     effusion is unchanged.
+     
+     IMPRESSION:  1)  Right main stem bronchus stent is in place with persistent
+     collapse of right middle and right lower lobes.  There is an unusual rounded
+     opacity in the central portion of the right lung which is suspicious for a
+     neoplastic mass.
+      Correlative CT imaging may be helpful for a more complete assessment.
+     
+     2)  Small right pleural effusion.
+
+",,
+14012,12609,,,3299-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-8-3**] 8:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5583**]
+     Reason: ?CHF, ?right lung aeration                                  
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old man with RCC s/p RLL lobectomy for metastasis who had massive  
+      hemoptysis, a RMSB obstrxn, and now s/p RMSB stent                         
+     REASON FOR THIS EXAMINATION:
+      ?CHF, ?right lung aeration                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3299-8-3**]
+     
+     CLINICAL INDICATION:  Status post stent.
+     
+     Comparison is made to [**7-30**] and [**7-31**] radiographs.
+     
+     A right main stem bronchus stent remains in place.  There is persistent
+     collapse of the right middle and right lower lobes and there remains a mass-
+     like area of opacity centrally in the right hilar region.  A small right
+     pleural effusion is unchanged.
+     
+     The cardiac and mediastinal contours are stable.  The imaged portion of the
+     left lung appears clear.  Please note that the left costophrenic angle region
+     has been excluded from the study and cannot be assessed.
+     
+     IMPRESSION:  A right main stem bronchus stent remains in place, and there is
+     persistent collapse of the right middle and right lower lobes.  This may be
+     post-obstructive as there is an apparent central mass in the right hilar
+     region.  Correlative CT imaging may be helpful.
+     
+
+",,
+14012,12609,,,3299-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-8-4**] 2:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5584**]
+     Reason: ?CHF, ?right lung aeration                                  
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old man with RCC s/p RLL lobectomy for metastasis who had massive   
+      hemoptysis, a RMSB obstrxn from met tumor, and now s/p RMSB stent, XRT, and PDT 
+      therapy                         
+     REASON FOR THIS EXAMINATION:
+      ?CHF, ?right lung aeration                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old man with S/P right lower lobectomy for metastasis and
+     massive hemoptysis.
+     
+     FINDINGS:  Comparison is made with a comparable film dated [**8-3**] at
+     8:27am.  There has been no significant change in the overall appearance of the
+     chest.  The right bronchial stent is noted again and the right lower lobe and
+     middle lobe collapse is unaltered.
+
+",,
+14012,12609,,,3299-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-8-6**] 12:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5586**]
+     Reason: ?chf, ?RIGHT LUNG AERATION                                  
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         69 year old man with RCC s/p RLL lobectomy for metastasis who had massive    
+      hemoptysis, a RMSB obstrxn from met tumor, and now s/p RMSB stent, XRT, and PDT 
+       therapy                         
+     REASON FOR THIS EXAMINATION:
+      ?chf, ?RIGHT LUNG AERATION                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of renal cell CA status post right lower lobectomy for
+     mets, massive hemoptysis, status post right main stem bronchus stent secondary
+     to metastases.  ? congestive heart failure and aeration of right lung.
+     
+     VIEWS:  Single AP portable upright view, comparison dated [**3299-8-4**].
+     
+     FINDINGS:  No change in opacification of the right lower lung field with
+     rounded contour at right hilum suggestive of possible right hilar mass.  The
+     aeration of the right upper lobe appears unchanged.  The left lung field
+     remains clear without effusions or consolidation.  The heart size and
+     mediastinal contours are unchanged.  A stent is seen in the right main stem
+     bronchus, in unchanged position.  The visualized osseous structures are
+     unremarkable.
+     
+     IMPRESSION:  No change in appearance of opacification of right lower lung
+     field consistent with collapse of right middle lobe as well as postoperative
+     changes at the site of previous right lower lobectomy.  Right main stem
+     bronchial stent in stable position.  Rounded contour at the level of the right
+     hilum may represent obstructing mass.
+
+",,
+14012,12609,,,3299-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-8-6**] 8:17 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5585**]
+     Reason: ?metastasis of renal cell carcinoma, Please note that patien
+     Admitting Diagnosis: RT. MAIN STEM TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with hx RCC carcinoma s/p RLL resection for metastasis with new 
+      mass obstructing RMSB
+     REASON FOR THIS EXAMINATION:
+      ?metastasis of renal cell carcinoma, Please note that patient is 
+      photosensitive!
+     CONTRAINDICATIONS for IV CONTRAST:
+      elevated Cr
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  History of renal cell carcinoma with new mass in the
+     lung.
+     
+     NON-CONTRAST HEAD CT
+     
+     FINDINGS:  There is no mass effect or hemorrhage.  There is no definite
+     evidence of a focal extra-axial lesion or fluid collection.  The ventricles
+     and sulci are not remarkable.  The [**Doctor Last Name 63**] and matter are no unsual.  The
+     visualized paranasal sinuses are clear.
+     
+     IMPRESSION: Negative study.  Note: A non-contrast study is not sensitive to
+     the presence of small metastatic lesions.  CT is not as sensitive as MR for
+     this consideration.
+
+",,
+14012,,,,3299-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-10-8**] 1:32 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5587**]
+     Reason: hemoptysis, history lung CA evaluate for hemothorax.        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      hemoptysis, history lung CA evaluate for hemothorax.                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hemoptysis and history of lung cancer.
+     
+     COMPARISON:  [**3299-8-3**].
+     
+     PA AND LATERAL CHEST:  Surgical clips overlie the right lower lung consistent
+     with history of partial lower lobe resection.  There is no interval change in
+     the degree of right middle and right lower lobe collapse and right pleural
+     effusion.  The right main stem bronchus stent is unchanged in position.  The
+     right upper lung and left lung are clear.  There is no left pleural effusion
+     and there are no pneumothoraces.  The pulmonary vasculature is within normal
+     limits.
+     
+     IMPRESSION:  Right middle and right lower lobe collapse and associated right
+     pleural effusion.  No change from [**3299-8-6**].
+     
+
+",,
+14012,,,,3299-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-10-12**] 5:07 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5588**]
+     Reason: assess for pleural effusions                                
+     Admitting Diagnosis: HEMOPTYSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old man with metastatic renal cell CA to lung, now s/p bronchial stent 
+      and photodynamic therapy.                                                       
+         
+     REASON FOR THIS EXAMINATION:
+      assess for pleural effusions                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, TWO VIEWS:
+     
+     INDICATION;  Metastatic renal cell carcinoma.  S/P stent placement.
+     
+     A stent remains in place in the right main stem bronchus intermedius.  There
+     is persistent collapse of the right middle and right lower lobes, as well as a
+     small right pleural effusion.  There is a worsening interstitial pattern in
+     the left lung with associated vascular engorgement.
+     
+     IMPRESSION:
+     1)  Persistent collapse of the right middle and right lower lobe with
+     bronchial stent in place.  Rounded convexity lateral to the right hilum is
+     concerning for a mass in this region.
+     
+     2)  Worsening interstitial pattern in the left lung with associated vascular
+     engorgement, most likely due to pulmonary edema.  Atypical infection is also
+     in the differential diagnosis.
+     
+     
+     
+
+",,
+14012,,,,3299-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-10-14**] 3:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5589**]
+     Reason: assess for infiltrate                                       
+     Admitting Diagnosis: HEMOPTYSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with shortness of breath, s/p right bronchial stent for 
+      metastatic CA
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bronchial stent placement in patient with metastatic
+     cancer and shortness of breath.
+     
+     There is cardiomegaly and tortuosity of the thoracic aorta.  There is a right
+     pleural effusion with associated atelectasis in the right lower zone unchanged
+     since the prior study of [**3299-10-12**].  Prominence of right hilum is also
+     unchanged.  No pneumothorax.  No new lung lesion.  Stent in right main
+     bronchus as previously noted.
+     
+     IMPRESSION:  No significant change in the right-sided pleural effusion and
+     associated  atelectasis the right lung base or in the prominence of the right
+     hilar density.  No new lesions.  No pneumothorax.
+
+",,
+14012,27967,,,3300-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-25**] 3:48 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 5590**]
+     Reason: assess for tumor burden, collapse                           
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with right bronchial stent, tumor obstructing per OSH report. 
+      CT without contrast please.
+     REASON FOR THIS EXAMINATION:
+      assess for tumor burden, collapse                                               
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal insufficiency
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Right bronchial stent with tumor obstructing per outside
+     hospital report. Elevated creatinine. 
+     
+     CT CHEST WITHOUT CONTRAST:
+     
+     COMPARISON; The outside chest CT is not available for comparison.
+     
+     FINDINGS:   There is a stent within the right mainstem bronchus. There is a
+     fluid level within the stent and there is soft tissue opacification in the
+     distal portion of the stent. There is evidence of prior partial lung resection
+     on the right and there is marked volume loss on the right. There is dense
+     opacity with air bronchograms throughout the right lower and middle lobes.
+     There is residual aeration towards the apex, but with consolidative change
+     present within it.  Evaluation is somewhat limited on this noncontrast study.
+     There are a few prominent lymph nodes in the right paratracheal region
+     superiorly measuring 12 mm on image 13 of series 4 and in the right tracheal
+     bronchial region adjacent to but not compressing the stent measuring 8 mm.
+     There is no real subcarinal adenopathy.  There is no effusion on the right.
+     There is a 1 cm right sided pericardial lymph node  as well. There is motion
+     artifact degrading detail and evaluation of the left lung which is largely
+     clear apart from compressive atelectatic changes adjacent to a small dependent
+     pleural effusion.  There are two small nodules in the right lower lobe, each
+     less than 4 mm.  There are no masses or areas of consolidation. There is
+     extensive coronary artery calcification and the heart appears enlarged. There
+     is no pneumothorax.  There is some thickening of the left adrenal gland. There
+     is a 1.8 cm exophytic lesion with hounsfield units of 33 arising from the
+     superior pole of the left kidney. This is not well characterized on this
+     noncontrast exam. The remainder of the upper abdomen reveals no suspicious
+     findings. The bones are unrevealing.
+     
+     IMPRESSION:
+     
+     1.  Postoperative changes with collapse and consolidative changes throughout
+     the right lung.  No discrete mass is identified on this noncontrast exam,
+     however.
+     2.  A few prominent mediastinal lymph nodes meeting criteria for enlargment
+     but no bulky adenopathy and no extrinsic mass effect upon the bronchial stent.
+     3.  Small left sided pleural effusion and two small left lower lobe pulmonary
+     nodules.
+                                                                 (Over)
+
+     DATE: [**3300-1-25**] 3:48 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 5590**]
+     Reason: assess for tumor burden, collapse                           
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     4.  Exophytic renal lesion on the left not well characterized. Additional
+     imaging to confirm cystic nature should be considered (ultrasound).
+
+",,
+14012,27967,,,3300-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-26**] 1:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5591**]
+     Reason: eval. for pneumomediastinum or ptx.                         
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with renal cell ca. s/p endobronchial stent removal             
+     REASON FOR THIS EXAMINATION:
+      eval. for pneumomediastinum or ptx.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   Removal of endobroncheal stent.  Renal cell carcinoma.
+     
+     AP UPRIGHT CHEST:  Comparison is made with [**3299-10-14**].  There is almost complete
+     collapse of the right lung, with minimal residual aeration.  This is
+     significantly changed from prior chest radiograph, but similar to the scout
+     image on the CT of the chest on the same day.  There is no pneumothorax or
+     pneumomediastinum.  There is deviation of the trachea towards the right.  The
+     left lung is grossly clear, but evaluation is slightly limited due to
+     respiratory motion.  No left pleural effusion.  An endobroncheal stent is no
+     longer visualized.  
+     
+     IMPRESSION:
+     
+     Near complete collapse of the right lung.  This is likely due to to post-
+     obstructive collapse and pneumonitis.  No pneumothorax or pneumomediastinum.
+     
+     
+
+",,
+14012,27967,,,3300-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-26**] 3:36 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5592**]
+     Reason: LUE WEAKNESS R/O BLEED
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with acute LUE weakness                                         
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left upper extremity weakness.
+     
+     COMPARISON:  [**3299-8-6**].
+     
+     TECHNIQUE:  Axial noncontrast head CT.
+     
+     CT HEAD W/O CONTRAST:  There is no evidence of intracranial hemorrhage,
+     hydrocephalus, space-occupying mass lesions or shift of normally midline
+     structures.  The [**Doctor Last Name 63**]-white matter differentiation appears intact except for a
+     small area of hypoattenuation within the right frontal lobe within the centrum
+     semiovale.  This is an old infarction and was present on the previous study.
+     
+     Note is made of fluid and insusscipated secretions within bilateral maxillary,
+     ethmoid and frontal air cells.
+     
+     IMPRESSION:  No acute intracranial hemorrhage.
+
+",,
+14012,27967,,,3300-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-27**] 1:25 AM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 5593**]
+     MR CONTRAST GADOLIN
+     Reason: assess circulation with ? stroke                            
+     Admitting Diagnosis: LUNG CANCER
+      Contrast: MAGNEVIST Amt: 15CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with new left sided weakness                                    
+     REASON FOR THIS EXAMINATION:
+      assess circulation with ? stroke                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Left-sided weakness.
+     
+     TECHNIQUE: Multiplanar T1- and T2-weighted imaging of the brain was performed.
+     Diffusion-weighted scans and postgadolinium T1-weighted images are provided.
+     
+     3D time of flight MR angiography of the circle of [**Location (un) **] was performed.
+     Multiplanar reformatted images source image data are reviewed.
+     
+     FINDINGS: Images are of nondiagnostic quality due to patient motion. There is
+     slightly increased signal identified along the cortical margin of the left
+     high frontal and parietal lobes on the diffusion-weighted scan, but this could
+     be artifact.
+     
+     3D time of flight angiography demonstrates flow signal in both intracranial
+     internal carotid arteries and in the proximal branches of the anterior and
+     middle cerebral arteries. There is flow in the vertebral arteries, basilar
+     artery and posterior cerebral arteries.
+     
+     The left vertebral artery appears to end as a posterior-inferior cerebellar
+     artery.
+     
+     IMPRESSION:
+     1. MRI of the brain is essentially nondiagnostic for infarction since motion
+     artifact blurs detail. There is no evidence of hydrocephalus or major shift of
+     intracranial structures.
+     2. 3D time of flight MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] flow in the proximal branches
+     of the circle of [**Location (un) **].
+
+",,
+14012,27967,,,3300-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-27**] 11:34 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5594**]
+     Reason: ACUTE WEAKNESS, SEIZURES. R/O BLEED
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old man with acute LUE weakness , new seizure this AM, assess for 
+      bleed hemorrhage                                        
+     REASON FOR THIS EXAMINATION:
+      assess for bleed                                                                
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal insufficiency
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Left upper extremity weakness, new seizure in the morning,
+     evaluate for hemorrhage and infarction.
+     
+     TECHNIQUE: Axial non-contrast CT scans of the brain were obtained.
+     
+     Comparison is made to the previous CT scan of [**3300-1-26**].
+     
+     FINDINGS:
+     
+     There is no change in the appearance of the brain, compared to the previous
+     day's examination. There is no loss of grey white matter differentiation to
+     indicate acute infarction. An old area of encephalomalacia in the superior
+     right frontal lobe is again identified.
+     
+     The ventricles are not dilated. There is no shift of structures. There is no
+     evidence of acute intracranial hemorrhage.
+     
+     There is some fluid within the sphenoid and right maxillary sinuses.
+     
+     IMPRESSION: No evidence of acute intracranial hemorrhage or new infarction.
+
+",,
+14012,27967,,,3300-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-27**] 1:25 AM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 5593**]
+     MR CONTRAST GADOLIN
+     Reason: assess circulation with ? stroke                            
+     Admitting Diagnosis: LUNG CANCER
+      Contrast: MAGNEVIST Amt: 15CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with new left sided weakness                                    
+     REASON FOR THIS EXAMINATION:
+      assess circulation with ? stroke                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Left-sided weakness.
+     
+     TECHNIQUE: Multiplanar T1- and T2-weighted imaging of the brain was performed.
+     Diffusion-weighted scans and postgadolinium T1-weighted images are provided.
+     
+     3D time of flight MR angiography of the circle of [**Location (un) **] was performed.
+     Multiplanar reformatted images source image data are reviewed.
+     
+     FINDINGS: Images are of nondiagnostic quality due to patient motion. There is
+     slightly increased signal identified along the cortical margin of the left
+     high frontal and parietal lobes on the diffusion-weighted scan, but this could
+     be artifact.
+     
+     3D time of flight angiography demonstrates flow signal in both intracranial
+     internal carotid arteries and in the proximal branches of the anterior and
+     middle cerebral arteries. There is flow in the vertebral arteries, basilar
+     artery and posterior cerebral arteries.
+     
+     The left vertebral artery appears to end as a posterior-inferior cerebellar
+     artery.
+     
+     IMPRESSION:
+     1. MRI of the brain is essentially nondiagnostic for infarction since motion
+     artifact blurs detail. There is no evidence of hydrocephalus or major shift of
+     intracranial structures.
+     2. 3D time of flight MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] flow in the proximal branches
+     of the circle of [**Location (un) **].
+
+",,
+14012,27967,,,3300-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-27**] 1:25 AM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 5593**]
+     MR CONTRAST GADOLIN
+     Reason: assess circulation with ? stroke                            
+     Admitting Diagnosis: LUNG CANCER
+      Contrast: MAGNEVIST Amt: 15CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with new left sided weakness                                    
+     REASON FOR THIS EXAMINATION:
+      assess circulation with ? stroke                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Left-sided weakness.
+     
+     TECHNIQUE: Multiplanar T1- and T2-weighted imaging of the brain was performed.
+     Diffusion-weighted scans and postgadolinium T1-weighted images are provided.
+     
+     3D time of flight MR angiography of the circle of [**Location (un) **] was performed.
+     Multiplanar reformatted images source image data are reviewed.
+     
+     FINDINGS: Images are of nondiagnostic quality due to patient motion. There is
+     slightly increased signal identified along the cortical margin of the left
+     high frontal and parietal lobes on the diffusion-weighted scan, but this could
+     be artifact.
+     
+     3D time of flight angiography demonstrates flow signal in both intracranial
+     internal carotid arteries and in the proximal branches of the anterior and
+     middle cerebral arteries. There is flow in the vertebral arteries, basilar
+     artery and posterior cerebral arteries.
+     
+     The left vertebral artery appears to end as a posterior-inferior cerebellar
+     artery.
+     
+     IMPRESSION:
+     1. MRI of the brain is essentially nondiagnostic for infarction since motion
+     artifact blurs detail. There is no evidence of hydrocephalus or major shift of
+     intracranial structures.
+     2. 3D time of flight MR [**First Name (Titles) 3885**] [**Last Name (Titles) 2614**] flow in the proximal branches
+     of the circle of [**Location (un) **].
+
+",,
+14012,27967,17428,0,3300-01-27 17:29:00 EST,3300-01-27 17:42:00 EST,2378,"N",69,"Nursing/Other",,"
+
+70 y.o. with renal cell carcinoma with lung mets s/p recent displaced endobronchial stent removal with new stroke and seizures.
+
+NEURO: Pt post-ictal upon arrival to floor. Pt opens eyes to voice/stimuli and occ follows simple commands. Cont with L sided weakness. Cough/gag intact. +L facial droop noted. No seizure activity noted. Recieved fosphentoin and to start on Dilantin Q8hr this eve. Pt had eeg at bedside. 
+CV: Monitor shows NSR with rare pac and pvc noted. L radial aline inserted by Dr [**Last Name (STitle) **] with good waveform analysis, +csm noted and correlates with NIBP. Most recent echo with EF 20%. 
+RESP: LS coarse L side and diminished R base. Accepted on 100% NRB and weaned to 4l np. [**Last Name (un) 572**] stoke repirations noted on arrival to floor. No periods of apnea noted. ABG sent and pending...please see carevue. 
+GI: Abd soft and nontender. +BS noted. NPO. 
+GU: Condom catheter intact and patent draining yellow urine without difficulty.
+F-E-N: I/1 NS infusing @ 50 cc/hr. 
+SKIN: Coccyx pink and intact. T+R.
+PSY-SOC: No phone calls or visitors this shift. Dr. [**First Name (STitle) 67**] stated that dtr plans to visit this eve. Pt is DNR but would be intubated.
+",,
+14012,27967,17428,0,3300-01-28 04:41:00 EST,3300-01-28 05:11:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. very lethargic @ start of shift but arousable to voice.  At this [**Last Name (un) **] opened eyes to voice, R pupil sluggishly reactive @ 3mm, L pupil is irregular/surgical and non-reactive.  Follows commands inconsistently- able to squeeze R hand, very weak grip to L hand, moves toes of bilat. LE's but not on command.  Unable to determine sensory status in extremities.  Pt. able to state last name, knows he's @ the ""[**Hospital1 **]"", ? if knows month or not as pt. becomes lethargic rapidly and dozes while being spoken to.  Received 100mg IV Dilantin @ 23:00- Dilantin level subtherapeutic @ 20:00- 8.6.  Dilantin level with a.m. labs 20.  Witnessed 45 second seizure @ 2:50 a.m.  Pt. alert @ this time, was communicating verbally though minimally.  Began to have forceful tremors to q 4 extremities, more pronounced to LUE.  Responded when called by first name during seizure, was able to track with eyes.  Notified team who eval'd. pt. shortly after seizure.  Seizure broke on its own.  Origin of seizures likely stroke but unknown if stroke is embolic is watershed in origin. MRI done yesterday was poor image d/t extensive artifact. 
+
+CV:  HR 70's-80's NSR w/o ectopy.  SBP low 90's-low 100's- unchanged during seizure.  Palpable peripherals, 2+-3+ edema to q 4 extremities.  Last echo. on record here @ [**Hospital1 10**] dates [**9-/3295**]- shows EF 20%.  ? L ICA stenosis per US, poor CEA candidate.  Neuro. would like to keep HOB as close to flat as possible but pt. is very high aspiration risk.
+
+Resp:  Received pt. on 50% humidified face mask, able to wean down to 40% o/n and will cont. to wean.  ABG sent @ 1:00 d/t difficulty arousing pt.- responding only to sternal rub.  Became more awake and opended eyes when shouted at.  ABG @ this time WNL- please see Carevue.  Lungs had diffuse expiratory wheezes @ start of shift but very clear towards end of shift.  O2Sats 99%-100%, did de'Sat to high 80's during seizure. Pt. expectorated copious amnts. very thick, tenacious, tan sputum.  Bronched. [**3300-1-26**] for displaced stent which was removed- RUL slightly re-inflated as result.
+
+Heme/lytes/micro:  Labs WNL this a.m.  FSBG qid.    Afebrile.  ? need for LP per neuro. but already covered by Vanco./Ceftriaxone.
+
+GI:  NPO.  + BS, No BM this shift.
+
+GU:  Condom cath. draining clear amber urine.
+
+Derm:  D&I.
+
+Social:  DNR but WOULD BE INTUBATED.  Dgtr. here @ start of shift.  
+
+
+",,
+14012,27967,17428,0,3300-01-28 06:57:00 EST,3300-01-28 06:59:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+6:40 this a.m. pt. found to be experiencing very forceful shoulder convulsions with tongue prodtruding.  Was unresponsive/unable to track when spoken to during this episode.  This lasted for 3 minutes.  4mg Ativan IV given.  Team notified.
+",,
+14012,27967,17428,0,3300-01-28 15:45:00 EST,3300-01-28 16:20:00 EST,2147,"N",69,"Nursing/Other","NPN MICU-B 7AM-7PM","
+NPN MICU-B 7AM-7PM
+S/O: NEURO: Was fairly unresponsive this AM s/p sz and had rec'd Ativan 4mg to stop the sz. Increased alertness noted, able to respond to verbal stimuli and answer simple questions, AxOx2. Opens eyes spon. R pupil 3mm sluggishly reactive, L unable to assess reaction. L sided facial droop noted and speech is garbled. Moves all extremites on command and to voice. No seizure activity noted, remains on IV Dilantin. Impaired gag and cough. 
+
+Status: When was unresponsive and in status s/p seizure in the AM, daughter was called to discuss the possibilty intubating and starting other anti-seizure meds but was decided that would be a DNI in-addition to being a DNR. 
+
+Respir: Remains on 40% cool neb with O2 sats 94-99%, L/S course [**First Name9 (NamePattern2) 5561**] [**Last Name (un) 666**]-trached suctioning times 2 in the AM for copious amts thick tan sputum. Over the course fo the day L/S have improved but still has occ productive cough of thick tan secretions requiring oral suctioning. RR-18-28. Does desat quickly with O2 off. 
+
+GU: Condom cath remains in place, with adequate u/o. Remains on 1/2NS @ 50cchr. 
+
+GI: Remains NPO, unable to swallow has very poor gag. 
+
+ID: Temp 97.2 ax max, remains on IV Vanco and Ceftriaxone q24hrs. 
+
+Social: Daughter and other fmaily members in visiting today and was updated on pt's condition and plan of care. 
+
+A/P: Continue to assess Neuro status, observe for seizure activity monitor Dilantin levels. Assess respir status, [**Last Name (un) 666**]-trach suction if needed. Monitor VS and I&O's. Update family members as needed. 
+",,
+14012,27967,17428,,3300-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-29**] 8:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5595**]
+     Reason: Eval for worsening lung collapse, ?pneumonia                
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old man with renal cell ca. s/p endobronchial stent removal, retaining 
+      co2           
+     REASON FOR THIS EXAMINATION:
+      Eval for worsening lung collapse, ?pneumonia                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY: Endobronchial stent removal.
+     
+     AP SEMI-UPRIGHT CHEST: Comparison is made with [**3300-1-26**]. There is
+     persistent opacification of the right hemithorax cobsistent with
+     collaps/consolidatione of the right lung with slight shift of the trachea and
+     mediastinum to the right. There is a new left basilar patchy opacity.
+     Otherwise, no significant change.
+     
+     IMPRESSION: 1) Persistent collapse/consolidation of the right lung. 2) New
+     opacity within the left lower lung, which could represent an evolving
+     pneumonia or aspiration. Clinical correlation is recommended.
+
+",,
+14012,27967,17428,0,3300-01-29 05:11:00 EST,3300-01-29 05:21:00 EST,2378,"N",69,"Nursing/Other",,"
+
+70 y.o with renal cell carcinoma, lung mets s/p recent displaced endobronchial stent removal with new stroke and seizures.
+NEURO: Pt agitated, yelling out most of shift and unable to reorient  (oriented to person only). Pt occ follows simple commands. +MAE noted R>L. R pupil reactive, L pupil surgical and nonreactive. +facial droop noted. No seizure activity noted. Cont on Dilantin IV Q8hr. Gag/cough impaired. 
+CV: Monitor shows NSR with occ pvc's noted. L radial aline with good waveform analysis and +csm noted. 
+RESP:  LS coarse throughout. Pt initially able to expectorate secretions for mod amts thick tan/bld tinged secretions. As shift has progressed cough is much weker. CPT Q4hr with improvement. NT sxn x1 for sm amts thick tan secretions.
+GI: Abd soft and nontender. +BS noted. Remains NPO...?speech and swalllow eval [**12-21**] impaired gag and recent stroke. 
+GU: Condom catheter intact and draining yellow urine without sedimentation noted. 
+SKIN: D+I with no open areas noted. 
+I-D: Afebrile. Remains on Vanco and Ceftriaxome for MRSA pna.  
+PSY-SOC: Dtr called x1 and updated on status and plan of care. 
+",,
+14012,27967,,,3300-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-30**] 9:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5596**]
+     Reason: r/o effusion or collapse                                    
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old man with renal cell ca. s/p endobronchial stent removal, 
+      retaining  co2.         
+     REASON FOR THIS EXAMINATION:
+      r/o effusion or collapse                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Renal cell carcinoma.  CO2 retention.
+     
+     CHEST:  There is a complete white out of the right chest unchanged from the
+     prior chest x-ray.  The left lower lobe infiltrate is again seen but it is
+     less marked than on the prior chest x-ray.
+     
+     IMPRESSION:  Slight reduction in left lower lobe opacification.  Total white
+     out of right chest.
+
+",,
+14012,27967,,,3300-01-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-1-31**] 1:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5597**]
+     Reason: CHF                                                         
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 year old man with renal cell ca. s/p endobronchial stent removal,  
+      retaining  co2.         
+     REASON FOR THIS EXAMINATION:
+      CHF                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Renal cell carcinoma.  Retaining CO2.
+     
+     CHEST:  Complete white out of the right chest remains.  The degree of
+     pulmonary plethora present on the prior chest of [**1-30**] is somewhat
+     better.  The costophrenic angle is sharper indicating reduction in the
+     effusion.
+     
+     IMPRESSION:  Improvement in failure since prior chest x-ray.
+
+",,

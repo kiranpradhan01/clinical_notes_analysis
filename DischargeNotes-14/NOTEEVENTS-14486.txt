@@ -1,0 +1,1194 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14486,15141,,,2857-02-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2857-2-14**]       Discharge Date:  [**2857-3-7**]
+
+Date of Birth:   [**2783-11-30**]       Sex:  M
+
+Service:  Neurosurgery
+
+HISTORY OF PRESENT ILLNESS:  A 73-year-old man presented to
+the [**Hospital1 10**] with complaint of
+decreased level of consciousness earlier on [**2857-2-15**].
+The patient complained of headache earlier that evening as
+well.  The patient became obtunded and presented at
+First Health Alliance in [**Location (un) 462**] for treatment.  The
+patient became less responsive over there and was transferred
+to [**Hospital1 10**] for treatment.
+
+PAST MEDICAL HISTORY:
+1. Status post myocardial infarction five years ago.
+2. Hypertension.
+3. History of mastoid surgery.
+
+MEDICATIONS:
+1. Isosorbide.
+2. Baby aspirin.
+
+SOCIAL HISTORY:  The patient lives with his wife, and is a
+retired Marine.  The patient denies any alcohol use, but uses
+tobacco.
+
+PHYSICAL EXAMINATION:  Patient's blood pressure is 219/103 on
+presentation, pulse was 72.  Patient was lethargic, was
+awoken easily and followed commands.  The patient was alert
+to person and date, but not to place. Patient's pupils were
+equal, round, and reactive to light.  Patient's extraocular
+movements were intact.  Patient's lungs were clear bilaterally.
+Patient's heart was regular, rate, and rhythm.  Patient's abdomen
+was soft, nontender, and nondistended.  Patient had good bowel
+sounds.  Patient's extremities showed no edema.  Patient had
+no pronator drift.  Patient's cranial nerve examinations were
+grossly intact.  Patient's motor examinations are normal.
+The patient follows commands, had normal speech.
+
+STUDIES:  CT scan, showed a right intraventricular
+hemorrhage, with bleeding also in the third and fourth
+ventricle as well.
+
+HOSPITAL COURSE:  The patient was admitted to the
+Neurosurgery/ICU service for management.  The patient had
+repeat head CT scan on [**2-16**], and the patient was
+started on Nipride for blood pressure control.  Patient's
+blood pressure gradually returned to acceptable range.  A
+ventriculostomy drain to monitor intracranial pressure.
+
+On [**2-27**], the patient had episodes of hypoxia.
+Pulmonary consult was obtained.  Patient was intubated for
+hypoxia.  Patient also had altered mental status, which was
+contributed to possible meningitis.  The patient was started
+on Vancomycin and ceftriaxone.
+
+Infectious Disease consult was also obtained, which
+recommended patient continue with the Vancomycin and
+ceftriaxone.  Patient's CSF returned as Enterobacter
+meningitis.  The patient also has had a coagulase negative
+Staphylococcus aureus growing in blood.  Patient gradually
+became septic and was made comfort measures only on [**2857-3-7**].
+
+The patient expired on 5:25 pm on [**3-7**],medial 2003.
+
+DISCHARGE CONDITION:  Expired.
+
+DISCHARGE STATUS:  Morgue.
+
+
+
+
+                            [**Name6 (MD) 331**] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1756**]
+
+Dictated By:[**Last Name (NamePattern1) 9373**]
+MEDQUIST36
+
+D:  [**2857-3-7**]  19:19
+T:  [**2857-3-8**]  05:55
+JOB#:  [**Job Number 10739**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 331**] [**Name (STitle) **]
+ on: WED [**2857-4-11**] 9:16 AM
+(End of Report)
+
+
+",,
+14486,15141,,,2857-02-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2857-2-15**] 8:21 AM
+     CTA HEAD W&W/O C & RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 9880**]
+     Reason:   PLEASE DO CT ANGIO OF HEAD.  HA AN INTRAVENTRICULAR BLEED, A
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with Intra ventricular hgh                                      
+     REASON FOR THIS EXAMINATION:
+      Please do CT angio of head. Ha an intra ventricular bleed, and has H/O 
+      posssible metallic FB in the ear. There fore, MRI/ MRA is on hold. Hence would 
+      like  CT angio of head to assess .
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT angiography [**2857-2-15**].
+     
+     INDICATION:  Intraventricular hemorrhage, evaluate for vascular abnormality.
+     
+     TECHNIQUE:  Axial noncontrast CT scans of the brain were obtained.
+     Subsequently, contrast enhanced CT angiographic images were acquired and
+     limited two-dimensional reformatted views are provided.
+     
+     This study was returned for dictation on [**2859-5-7**].
+     
+     FINDINGS:
+     
+     There is blood within the ventricles, especially in the right lateral
+     ventricle, which is dilated.  A small amount of subarachnoid blood is also
+     evident in the right sylvian fissure.
+     
+     [**Doctor Last Name **]-white matter differentiation is preserved.  There is no shift of normally
+     midline structures.
+     
+     There is a left mastoidectomy defect with a small amount of debris within it.
+     There is mucosal thickening and fluid in the maxillary sinuses.
+     
+     CT angiography demonstrates an occluded right internal carotid artery from the
+     level of the skull base through the cavernous portion.  There is
+     reconstitution of the right anterior and middle cerebral arteries and a
+     complete circle of [**Location (un) **] is visualized.  There are no aneurysms identified
+     and no arteriovenous malformation is seen.
+     
+     IMPRESSION:
+     1)  CT of the brain demonstrates an intraventricular hemorrhage and right
+     ventricular dilatation.  There is sinusitis.
+     
+     2)  CT angiography is somewhat limited but reveals no arteriovenous
+     malformation or aneurysm.  There is an occluded right intracranial internal
+     carotid artery.
+                                                                 (Over)
+
+     DATE: [**2857-2-15**] 8:21 AM
+     CTA HEAD W&W/O C & RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 9880**]
+     Reason:   PLEASE DO CT ANGIO OF HEAD.  HA AN INTRAVENTRICULAR BLEED, A
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14486,15141,18006,0,2857-02-15 03:26:00 EST,2857-02-15 04:00:00 EST,3144,"N",53,"Nursing/Other","S/P INTRAVENTRIC. HEMMORHAGE-T/SICU NSG ADM NOTE","
+S/P INTRAVENTRIC. HEMMORHAGE-T/SICU NSG ADM NOTE
+PT IS A 73 Y/O GENTLEMAN WHO C/O HA [**2-14**] PM,VOMITED & WENT FOR A NAP.4 HRS LATER FAMILY HAD DIFFICULTY AROUSING PT.EMS WAS CALLED AND PT WAS BROUGHT TO [**Hospital **] HOSPITAL.CT SCAN REVEALED LARGE INTRAVENTRICULAR HEMMORHAGE.PT SENT TO [**Hospital1 10**] FOR NEUROSURG EVAL.PT ARRIVED TO T/SICU @ ~1:30AM W/ 2 PERIPHERAL IV'S AND AN INDWELLING FOLEY CATH.A-LINE PLACED BY SICU HO AFTER ARRIVAL.
+
+PMHX:HTN 
+     S/P MI 5YRS AGO
+     MASTOID SURGERY
+     [**Doctor Last Name **] ORANGE EXPOSURE
+
+PRE-ADMIT MEDS:ZESTRIL
+               BABY ASA
+
+NKDA
+
+CURRENT REVIEW OF SYSTEMS:
+
+NEURO-PT SLEEPY BUT EASILY AROUSABLE,MAE'S EQUALLY STRONG,PERRLA 3-4MM,A+O X 3.CALM COOPERATIVE,OCCAS PICKING @ CLOTHING/LINES.
+
+CV-SBP 120'S-160'S ON SNP GTT .8-1.4MCG/KG/MIN.HR 70'S-90'S NSR,RARE VEA.2+DP/PT BLE.
+
+RESP-PT LS CTA TO BASES,O2 SATS95-98% ON RA,RR 14-20,NARD,PT DENIES SOB.
+
+GI/GU-PT ABD SOFT +BS,NO N/V NOTED,NPO,U/O ADEQ AMTS CLEAR YELLOW URINE VIA FOLEY.
+
+SKIN-GROSSLY INTACT.
+
+SOC-PT'S SON [**Name (NI) **] IN THIS AM,WENT HOME TO [**Location (un) 4803**]~3A.UNIT PHONE NUMBER GIVEN.PT LIVES W/ WIFE IN [**Name2 (NI) 4803**].PT IS RETIRED MARINE [**Doctor Last Name 6152**] SGT.
+
+A-ALT NEURO STATUS SECONDARY TO INTRAVENTRICULAR HEMMORHAGE.
+
+P-NEURO CHECKS/ORDERS,SNP GTT TO KEEP SBP<150>100,VS,I+O,MONITOR SKININTEGRITY QS AND PRN,AWAITING MRI/MRA,PLAN REPEAT HEAD CT IN AM.
+",,
+14486,15141,18006,0,2857-02-15 18:36:00 EST,2857-02-15 19:11:00 EST,3259,"N",53,"Nursing/Other","sicu npn","
+sicu npn
+Pt with labile blood pressure and neuro exam today, s/p head CT X2, ICP placement X2
+
+Neuro: Pt's neuro status up and down today, at times alert and oriented X2-3, other times confused and sedate.  Pt brought down to CT angio this AM due to inability to obtain MRI.  After head CT, R ventric drain placed with some difficulty, no drainage noted except small ammt clotted blood. Repeat head CT obtained immediately afterwards to assess position and asses L ventricle.  Neurosurg back up to place second ICP drain, now to L ventricle, R ICP d/c'd.  ICPs ranging [**1-11**], good waveform and fluctuance noted in tubing, draining small ammts bloody CSF.  Pt agitated most of day, constantly pulling at IV tubing, a-line, foley EKG, etc.  Pt restrained at all times, able to sit and almost reach head toward hand despite mitts/restraints. Pt with episode of extreme agitation, sitting up in bed, trying to climb out, pulled out IV, so SICU HO in to eval and 2mg midaz given per order. Pt responded well, slept approx 40 minutes. Pt able to wake to stimulation/voice, able to answer simple questions and follow simple commands despite midaz.  Pupils 2-3mm and reactive all day, pt with present cough and gag, moving all extremities equally.   Pt rec'd 25gm mannitol this AM per Dr. [**Last Name (STitle) **], also started on Dilantin (rec'd load in OSH).  no siezure acticity noted.
+
+Resp: Lungs CTAB, sl congested cough which pt clears and swallows.  Pt placed on 2LNP as sats drift to 94% when asleep.
+
+CV: Extremely labile BP this AM, SBP 100-150's most of day with swings down to 90's and up to 180's.  Nipride gtt titrated accordingly, see carevue for doses.  HR 60's this AM, occasionally down to 50's with rare ectopy noted. EKG obtained this AM and CPKs cycled to r/o MI due to hypertensive bleed situation.  R radial A-line leaking d/t pt constantly pulling at site. Pt pulled out 2 IVs, 2 18 G ivs placed today without difficulty.  Pulses easily palpable, pt on P-boots while in bed.
+
+GI: ABd soft, bs present throughout. Pt remains NPO
+
+GU/renal: Good u/o via foley catheter, lytes stable
+
+Endo: Hyperglycemic today, started on SSIC
+
+ID: Afebrile, kefzol for drain coverage
+
+Social: Family in to visit, updated by dr. [**Last Name (STitle) **] and dr [**Last Name (STitle) 6153**]
+
+",,
+14486,15141,18006,0,2857-02-16 05:14:00 EST,2857-02-16 05:46:00 EST,3144,"N",53,"Nursing/Other","S/P INTRAVENTRICULAR BLEED-T/SICU NPN 7P-7A","
+S/P INTRAVENTRICULAR BLEED-T/SICU NPN 7P-7A
+S-""[**Doctor First Name **] [**Known patient lastname 6154**]""
+O-NEURO-PT INITIALLY COMBATIVE,VERY AGGITATED,ATTEMPTING TO GET OOB,PULLING @ LINES/TUBES,SICU HO IN TO EVAL/NEUROSURG CONTACTED. IV HALDOL ORDERED + GIVEN W/ MOD EFECT,PT A+ O X 1 THROUGH NOC OBEYS COMMANDS INCONSISTENTLY,PERRLA 2-3MM,HALDOL 5-10MG/HR PRN FOR AGGITATION.MAE'S.VENTRICULAR DRAIN DRAINING 10-15CC/HR BLOODY CSF.ICP'S [**3-15**].CONT ON DILANTIN-LEVEL 2 OVER NOC
+CV-SBP LABILE 120'S-180'S ON SNP GTT 1-2MCG/KG/MIN.HR 60'S-90's NSR NO VEA NOTED,[**1-8**]+DP/PP BLE.
+GI/GU-PT ABD SOFT + HYPOACTIVE,U/O ~30-40CC/HR VIA  FOLEY CATH,URINE CLEAR YELLOW.
+SKIN-NO NEW ISSUES
+ID-AFEBRILE,CONT ON CEFAZ FOR DRAIN PROPHALAXIX.
+ENDO-FS BS AND SS INSULIN /ORDERS.
+A-ALT NEUROSTATUS R/T INTERCRAINAIL HEMMORHAGE
+P-CONT NEURO CHECKS,IVF/ORDERED,I+O,VS,IV ABX/ORDERS,MONITOR LABS PRN/ORDERS.SNP GTT TO KEEP SBP<160>100.
+",,
+14486,15141,18006,0,2857-02-16 18:17:00 EST,2857-02-16 19:05:00 EST,-1,"N",53,"Nursing/Other",,"
+
+NPN0700-1900;
+
+NEURO; LOC WAXES ANS WANES DUE TO LEVEL OF SEDATION.HADOL D/CD AS IN 1D AVB AND QTC INCREASING. GIVEN INTERMITTENT DOSES OF VERSED .5MGS I.V  WITH GOOD EFFECT. PT LETHARGIC ORIENTATED TO NAME  AT TIMES REFUSES TO TELL [**Doctor First Name **] HIS NAME, [**Last Name (un) 6155**] SAYS [**First Name8 (NamePattern2) **] [**Male First Name (un) **] TO PRES.SWEARS OCCASSIONALLY SPEECH SLURRED AT TIMES ? DUE TO SEDATION, AND DRY MOUTH S/B NEURO FELT THAT THERE WAS  NO SIGNIFICANT CHANGE  FROM PREVIOUS EXAM.MAE WITH SURPRISIING SRENGHT AND AGILITY. RETURNED TO 4 POINT RESTRAINTS AFTER ONE ATTEMPT AT REMOVING LL RESTRAINTS.PERLA  2-3 MM.BRISK.
+HEAT CT SHOWED NO CHANGE PER NEURO.REQUIRED I MMMG VERSED FFFOR PPROCEDURE.
+
+CVS;  TMAX 98.8,PO 1D AVB,RATE 66-110 WHEN AGITATED. LABILE BP HYDRALAZINE ADDED IN AN ATTEMPT TO WEAN NIPRIDE., GIVEN 2 DOSES SO FAR, NIPRIDE WEANED TO .45 MGS/KG/MIN, BUT BACK TO 1,5 AS BECOMING INCREASINGLY AGITATED. AIMIING TO MAINTAIN BP 110-160, AND TO GET NIPRIDE OF ASAP.
+
+GU; U/O 100-200/HR  CLEAR YELLOW WITH OCC PINK TINGE AND CLOT FROM PULLING FOLEY.
+
+GI; NPO  BELLY SOFT POS BOWEL SOUNDS, POS FLATUS NO STOOL.MMMMOUTH EXTREMELY DRY DENTURES REMOVED FREQUENT MOUTH CARE ATTEMPTED.
+
+VENT DRAIN 10 CMS ABOVE [**Last Name (un) **]. [**5-13**]  DRAINING 35-6 CC SEROSANQUINOUS DRAINAGE,
+
+FAMILY INTO VISIT AND UPDATED WITH PT CURRENT CONDITION, BY T [**Doctor Last Name 2370**].ASKING APPROPRIATE QUESTIONS BUT DISTRESSED BY SEEING PT RESRAINED AND CONFUSED.
+
+PLAN TO ADD OTHER [**Doctor Last Name **] TO CONTROL HYPERTENSION,AAND WEAN NIPRIDE, CONTINUE WITH CLOSE NEURO OBS. 
+
+
+
+
+",,
+14486,15141,18006,0,2857-02-17 06:20:00 EST,2857-02-17 06:46:00 EST,-1,"N",53,"Nursing/Other",,"
+
+3/14B:Neuro- pt. is confused and speech slurred and garbled. Pt. understands [**Doctor First Name **] and follows simple commands inconsistently. Because pt's speech is so garbled it is diff. to asses? confusion. ICP's OK. Ventric draining bld. tinged fluid. Dsg. CDI.
+
+CV: ON nipride to keep SBP<160. Have titrated up to 2mcg, however pt is restless and agitated. Haldol given per Dr.[**First Name (STitle) **]. Given liberally with mild response.
+
+Resp:pt. had an incident where he had so much dried phlem at the back of his throat that he became stridorous. NT sx done with little return from trachea but lots from oral cavity.Pt. put on cool mist scoop. Cough has become looser and pt is coughing and raising. 
+
+GU: urine output dropping off. Marginal.Placement checked.OK. 
+",,
+14486,15141,18006,0,2857-02-17 17:36:00 EST,2857-02-17 18:05:00 EST,3127,"N",53,"Nursing/Other","T-SICU NSG PROGRESS NOTE","
+T-SICU NSG PROGRESS NOTE
+
+S:"" [**Known patient lastname **]"" (In response to ""What is your last name?"")
+
+O:
+   NEURO: Pt. w/ garbled speech, but able to identify his last name when asked. MAE's  spontaneously and to command. Pupils 2-3mm and reactive. Vent drain open at 10cm above tragus, and draining blood tinged drng. IV  dilantin cont. No sxs of seizures.ICP:[**7-16**].
+
+   CV: HR:88-120 SR/ST, No ectopy, SBP:145-165 on nipride drip. Attempted to add hydralazine q6hr in order to wean nipride off, but still unable given parameters. ? add lopressor. Note a-line dampens frequently, and needs constant adjustment. Nipride weaned via cuff pressures.
+
+   RESP: RR:188-30, coarse b.s. throughout. [**Last Name (un) **], prod. cough.+ gag.
+NTS x 2 for mod amts of thick blood tinged secretions. Neb on most of day, now on NC only w/ o2 sat:98-100%. ABG wnl.
+
+   GI: Abd soft, non-tender. Multiple attempts to place NGT were unsuccessful. IVF at 75cc/hr. PO meds on hold.-BM/fllatus.
+
+   GU: U.O.:40-70 cc/hr of clear yellow urine.
+
+   HEME/ID: no further labs sent. Tmax:101.0. IV Cefaz as ordered.
+
+   ENDO: blood glucose:140's, covered per s.s.
+
+   SKIN: Intact. Dsg to ventric. drain intact.
+
+   SOCIAL: Pt's wife and sons in to see pt, talk to nsg, and MD.
+
+A: Pt. remains nipride dependent Maximal anti-hypertensive therapy not yet acheived.
+
+P: Cont. to monitor neuro status per plan . Haldol prn. NTS as needed. ? NGT placement in radiology [**2-18**]. Follow temp curve. 
+",,
+14486,15141,18006,0,2857-02-18 06:40:00 EST,2857-02-18 06:51:00 EST,-1,"N",53,"Nursing/Other",,"
+
+3/15B:Neuro- Pt. cont. to have garbled speech but has improved thru noc. Answers questions approp. Cont. to have restless spells and attempts to pull at things. Haldol given with less freq. tonite and it  has been beneficial. Ventric at 10 and min. drainage.
+
+CV:Aline is positional. Per SICU resident nipride dc'd @ 0500. Pt.appears to be tolerating. Receiving lopressor q6h. Temp.elevated 101.1 @2100. Pt. was pan CX. 
+
+Resp: 2L NC. Sats 98%. Cont to have loose, productive cough. Mouth extremely dry. Freq. mouth care done. BS coarse but clear with coughing.
+
+GI: NG tube placed. Xray to confirm placement done. May need to advance. Passing gas.NG output bldy initially but has cleared.
+
+GU: urine output adequate.
+",,
+14486,15141,18006,0,2857-02-18 15:51:00 EST,2857-02-18 16:11:00 EST,3127,"N",53,"Nursing/Other","T-SICU NSG PROGRESS NOTE","
+T-SICU NSG PROGRESS NOTE
+S/O:
+
+ NEURO: Pt markedly more awake and responsive today. Able to follow all commands consistently. Able to identify needs d/t improved speech. Pt. oriented [**12-7**]. Pupils 2-3mm and equally reactive. Vent drain remains open to 10 above tragus, and draining 8-12cc/hr of blood tinged drng. Dilantin level:8.4...dose increased to q8hr. No seizure activity noted.
+
+ CV: HR 66-110 SR/ST w/ occas. APC's. No VEA. K:3.9,,,,repletion added to maintenance IVF. A-Line remains dampened and unreliable. NBP:140-180/50-70. Nipride gtt remains off. Hydralazine q4hr w/o effect . Lopressor  added w/ improved BP control. ? increase lopressor and d/c hydralazine.
+
+ RESP: RR 8-26, lungs clear but diminished at bases. Has strong productive cough.O2 sat:98-100% on 2lnc . TC&DB Q4HR.
+
+ GI: Abd softly distended. +B.S. NGT advanced and confirmed via CXR. impact w/ fiber started at 10cc/hr w/ low residuals. Will plan to advance per order.
+
+ GU: Foley patent for 20-50cc/hr clear yellow urine. Famotidine adjusted to QD for elevated CR.
+
+ HEME/ID: No further labwork. Afeb on IV cefaz. Cx's pending.
+
+ ENDO: Blood sugars:117-140, coverage per s.s.
+
+ SKIN: Intact. Vent. drain dsg intact.
+
+ SOCIAL: No contact from family today.
+
+A: Improved neuro exam.
+
+P: Cont to monitor neuro exam. Optimize anti-hypertensives. Support pt as needed. Maintain pt safety. Follow residuals and advance TF per order.
+",,
+14486,15141,18006,0,2857-02-19 05:43:00 EST,2857-02-19 06:16:00 EST,-1,"N",53,"Nursing/Other",,"
+
+3/16B:
+
+Neuro: Pt. speech becoming more clear. Pt. is also becoming more frustrated. He is coonfused about where he is and why.He remembers having a headache but not what happened after. He bears close watching as he tries to climb oob and pull at tubes. Haldol given with some rest periods achieved. Ventric cont. to drain bldy. drainage.
+
+
+CV: BP labile. Aline very positional. Responds well to lopressor. 4am dose held due to freq. SB with rates <60. BP climbed to the 170's-180's. Dr. [**Last Name (STitle) **] ordered the lopressor to be given as well as an extra 10 of hydralazine. Pt. had good response. 
+ 
+
+Resp: Cont. to cough productively and swallows most of sputum. BS essentially clear. ON 2L NC.
+
+GI: passing gas. Had sm.amt. liq. stool. Attempted to use bedpan but was unable to have BM. Tol. tube feeds. Have advanced to 40/hr. With increase in tube feeds insulin requirements have gone up.
+
+
+GU: urine output adequate.
+",,
+14486,15141,18006,0,2857-02-19 16:05:00 EST,2857-02-19 16:15:00 EST,-1,"N",53,"Nursing/Other","7a-3p","
+7a-3p
+pt lethargic and inconsistently answers questions/follows commands. frequently swears when turned or restrained. PERRL at 4mm bilat. icp 3-8 with 8-10cc per hour bloody drainage from vd at 10cm above tagus. hr 60s-100s with no ectopy noted. 2 perph iv in left arm patent with good blood return. radial and pedal pulses palp bilat. inspiratory and expiratory wheezes in lower lobes bilat with clear to wheezes in upper lobes. weak/moderate productive cough. normal breathing with sats 98-100. NG tube to left nare with tube feeds/Impact with fiber at 40cc per hour. scant residual refed. placement checked. bowel sounds present, abd soft. medium loose brown stool today. full bath and linen change. urine output 40-60cc per hour amber clear. meatus with small skin tear r/t pt pulling at foley prior to restraints. pt remains aggitated with wrist restraints and mittens as pt attempts to pull lines/tubes. pt family met with case manager today regarding rehab/assistance with pt after discharge. pt inadvertently given 100units reg insulin bolus at 1430. HO notified and at bedside and gave pt 50gm dextrose. blood sugars monitored frequently - see flowsheet. 
+",,
+14486,15141,18006,0,2857-02-20 06:26:00 EST,2857-02-20 06:43:00 EST,-1,"N",53,"Nursing/Other",,"
+
+3/17B: pt. less agitated tonite. Did not give any haldol. Pt. remains confused as to where he is and what day it is. Answers questions approp. Pleasantly confused. Ventric cont. to drain bldy.drainage. Remains @10cm.
+
+Resp.BS coarse. Coughs and raises.
+
+GI:tol.tube feeds. Freq.stools tonite.
+
+GU:u/o adequate.NG curled at back of throat. Advanced and xray done.
+
+Metabolic: D10 dc'd. Insulin resumed for elevated BS. Currently @3U/hr. 
+
+CV:Aline remains positional and very diff. to draw off. HR stable. BP on high side.Lopresspr 10mgq4hr with  good response though short. Pt. received first dose of lisinopril last evening. 
+",,
+14486,15141,18006,0,2857-02-20 18:31:00 EST,2857-02-20 18:56:00 EST,3338,"N",53,"Nursing/Other","t/sicu nursing note 7a-7p","
+t/sicu nursing note 7a-7p
+review of systems
+
+neuro: aox1-2. moving all extremeties with equal strength. following commands consistantly. garbled speech noted. pupils 2mm/bsk bilat. weak cough and +corneals. weak gag. ventriculostomy drain 10cm above tragus. icp 5-9 draining bloodtinged csf. dilantin d/c. 
+
+cv: hr 90-100sr-st with no ectopy. sbp 140-170. nipride gtt restarted to keep sbp<160. lopressor and lisonpril increased. hydralazine conts. +pp with skin wram and dry. Piv x3. 
+
+resp: l/s coarse to clear in upper lobes with occ wheezes and diminished at bases. facetent on for humidification with sats 98-100% congested cough noted with occ production of thick yellow sputum. albuterol rx given for wheezing. upper airway congestion noted. 
+
+gi: abd softly distended with +bs. ngt infusing impact with fiber with minimal residuals. no stool this shift. 
+
+gu: u/o adequate. lytes wnl.
+
+heme: sq heparin started today. hct stable.
+
+endo: insulin gtt titrated to keep bs<140.
+
+id: tmax 101.6. wbc 15 today. pan cx and vancomycin started for gram +cocci in 3/15 sputum and ? infiltrate on cxr. 
+
+skin: no issues.
+
+social: spoke to both sons today via telephone. updated on days events.
+
+Plan: cont neuro and hemodynamic monitoring, cont to change dosages of antihypertensives to acheive better bp control and wean nipride, f/u cx results, aggressive cpt and pulm toilet, and cont to support family.
+",,
+14486,15141,18006,0,2857-02-21 04:54:00 EST,2857-02-21 05:15:00 EST,3144,"N",53,"Nursing/Other","S/P INTRAVENTRICULAR HEMMORHAGE-T/SICU NPN 7P-7A","
+S/P INTRAVENTRICULAR HEMMORHAGE-T/SICU NPN 7P-7A
+S-""[**Doctor First Name **] [**Known patient lastname 6154**],I'M RIGHT HERE,IT'S 1973""
+O-NEURO-PT A+O X 1 OVER NOC,FOLLOWS SIMPLE COMMANDS,MAE'S,PERRLA 2-3MM,RESTLESS @ TIMES,[**E-mail address 6156**] STRONG COUGH EFFORT,WEAK GAG.VENTRICULOSTOMY REMAINS 10CM ABOVE TRAGUS,DRAIN SM AMTS BLOOD TINGED CSF.ICP'S [**3-17**].CPP WNL
+CV-PT SBP 130'S-170'S,HR 80'S-100'S NSR-ST.NO VEA NOTED,3+DP/PT BLE,A-LINE CONTINUES TO DAMPEN.
+RESP-PT LS CTA DECREASED BASES,MOD STRONG COUGH AS NOTED.O2 SATS96-100% ON 50% FT.RR 18-26. ABG RESP ALKALOSIS.
+GI/GU-PT ABD SOFTLY DIST LOOSE BROWN STOOL SM AMT X 2 OVER NOC.+BS,NGT SELF DC'D BY PT @ CHANGE OF SHIFT,[**Hospital1 **] SUMP REPLACED PLACEMENT CONFIRMED BY XRAY THIS AM-TF RESTARTED @ 80CC/HR IMPACT W/ FIBER.U/O ADEQ AMTS CLEAR YELLOW URINE VIA FOLEY CATH.
+SKIN-NO NEW ISSUES.PT'S BACK AND BUTTOCK GROSSLY INTACT.
+SOC-PT'S SON PHONED X 1.
+ENDO- FSBS 100'S-140'S INSULIN GTT @ 0-3 U/HR.
+ID- TMAX 105
+A-ALT NEUROSTATUS SECONDARY TO INTRAVENTRICULAR HEMMORHAGE
+P-CONT NEURO CHECKS,VS,I+O,MONITOR SKIN INTEGRITY QS AND PRN,INSULIN GTT PRN,IV ABX/ORDERS,MONITOR CX DATA QD AND PRN.
+",,
+14486,15141,18006,0,2857-02-21 14:32:00 EST,2857-02-21 14:44:00 EST,3725,"N",53,"Nursing/Other","NSG NOTE","
+NSG NOTE
+ROS:
+
+    CV:NIPRIDE DC'D,HYDRALAZINE INCREASED,ON LOPRESSOR Q4HRS.STARTED ON CLONIDINE.SYS BP 140-170.CPP 79-103.PU7LSE IN 90'S WITHOUT ECTOPI.
+T MAX 100.9 PO.(PANCULTURED [**2-20**])
+
+    RESP:WEANED TO RA WITH SAT 96-98.STRONG PRODUCTIVE COUGH,SWALLOWS SPUTUM.NT SX AT 2PM FOR MOD AMT THICK YELLOW SPUTUM JUST TO MAKE SURE PT WAS CLEAR.
+
+    GU:UO ADEQUATE,NO MAINT IVF EXCEPT CARRIER FOR INSULIN.
+
+    GI:ON GOAL TF WITH LOW ASP.PASSING LARGE AMT FLATUS,NO STOOL. 
+
+    NEURO:ALERT/ORIENTATED X 1.DID KNOW WIFE AND SON,BUT UNAWARE OF PLACE/CIRCUMSTANCES SURROUNDING ADMISSION.GENERALLY COOPERATIVE,BUT RUBS NOSE AND FINGERS NT  WHEN ARMS UNRESTRAINED.FOLLOWS COMMANDS,SLEEPING A LOT,NEEDS TO BE STIMULATED TO AWAKEN.ICP 5-9,DRAINING BLD TINGED FLD.
+
+     ENDO:BS 127 ON 4U INSULIN QTT.
+
+    FALILY:WIFE AND SON IN,HE SEEMED TO RECOGNIZE THEM.THEY THINK HE LOOKS AND ACTS BETTER.PLEASED WITH CARE AND INFORMATION GIVEN.
+
+
+
+
+
+
+
+
+
+    ENDO:BS 127 ON 4UNITS INSULIN QTT.
+",,
+14486,15141,18006,0,2857-02-21 23:06:00 EST,2857-02-21 23:35:00 EST,3210,"N",53,"Nursing/Other","T/SICU NSG PROGRESS NOTE","
+T/SICU NSG PROGRESS NOTE
+1500>>2300
+
+NEURO- PERRL @ 3MM/BRISK; MAE'S AND FOLLOWS COMMANDS. COOPERATIVE AND CALM MOST OF EVENING. DRIFTS EASILY INTO [**Doctor Last Name **]. BECAME AGITATED AND RESISTIVE UPON BEING WOKEN FROM SOUND [**Doctor Last Name **]. REMAINS RESTRAINED D/T CONSTANTLY PULLING AT NGT AND FOLEY. HAS NOT RECEIVED ANY SEDATION...WILL SETTLE DOWN ON OWN SO FAR.
+...SPEECH REMAINS GARBLED BUT HE HAS BECOME EASIER TO UNDERSTAND AS LONG AS HE SPEAKS SLOWLY. HE IS ABLE TO RESPOND APPROPRIATELY TO QUESTIONS BUT IS ORIENTED ONLY TO SELF. WAS ABLE TO STATE THAT HE WAS IN A HOSPITAL X1, BUT CAN NOT REMEMBER WHY DESPITE FREQUENT EXPLANATIONS OF EVENTS. 
+...ICP <10; OPEN TO DRAIN @ 10CM ABOVE TRAGUS, DRAINAGE REMAINS BLOOD TINGED.
+
+CVS- RESPONDING TO ANTIHYPERTENSIVE AGENTS AND DOSE ADJUSTMENTS MADE TODAY; BP REMAINS <170/SYSTOLIC. HR- NSR W/O ECTOPY @ RATES 80-90.
+
+RENAL- ADEQUATE U/O
+
+RESP- RR MID TEENS WITH CLEAR DIMINISHED BREATH SOUNDS. SATS MID 90'S ON RA. NP COUGH THIS EVENING. NTS X1 TO STIMULATE STRONGER COUGH AND ASSESS FOR RETAINED SECRETIONS...COUGH REMAINED DRY. CPT TO LEFT LUND(AREA OF INFILTRATE)..NO SECRETIONS PRODUCED.. DRY COUGH.
+
+ID- CONT ON VANCO FOR GPC & GPR IN SPUTUM. TEMP 100.4 PO
+
+GI- TOLERATING TUBE FEEDS AT GOAL RATE (80) WITH MINIMAL RESIDUALS. ABD IS SOFT/DISTENDED W/+ BOWEL SOUNDS AND FLATUS, BUT NO STOOL TONIGHT.
+
+ENDO- REMAINS ON INSULIN DRIP @ 4U/HR >>>REDUCED TO 3U/HR @ 2230 FRO BLOOD GLUCOSE OF 98.
+
+SKIN- RIGHT LOWER ARM ABRAISION REMAINS RED WITH XEROFORM QUAZE AND DSD. NO NEW SKIN ISSUES. WARM MOIST SKIN WITH +2 PERIPHERAL PULSES.
+..COMPRESSION BOOTS AND MULTIPODUS BOOTS IN USE.
+
+ASSESS- S/P INTRAVENTRICULAR BLEED X 1WEEK WITH VENTRICULOSTOMY IN PLACE. SOMULENT BUT RESPONDS TO VOICE AND FOLLOWS COMMANDS, MAE'S.
+        HYPERTENSIVE REQUIRING AGGRESSIVE BP MNGMNT
+
+PLAN- PER NS- CONT VENTRICULOSTOMY DRAIN AT CURRENT LEVEL AND MNGMNT
+              REPEAT HEAD CT IN AM TO ASSESS RESIDUAL VENTRICULAR BLOOD.        CONT WITH CURRENT MONITORING AND MNGMNT OF NEUROHEMODYNAMICS.
+              CONT WITH AGGRESSIVE PULMONARY TOILET
+              MONITOR FOR TEMP SPIKE; CULTURE PER ROUTINE
+
+",,
+14486,15141,18006,0,2857-02-22 04:31:00 EST,2857-02-22 04:47:00 EST,3144,"N",53,"Nursing/Other","S/P INTRAVENTRICULAR HEMORRHAGE-T/SICU NPN 11P-7A","
+S/P INTRAVENTRICULAR HEMORRHAGE-T/SICU NPN 11P-7A
+S-""[**Doctor First Name **] [**Known patient lastname 6154**],1983,I'M @ THE MILITARY BASE""
+O-NEURO-PT A+O X 1,NAME ONLY,MOD STRONG SPONT COUGH,WEAK GAG,PERRLA 3MM,SLEPT OFF + ON,ICP 6-10,VENTRICULOSTOMY DRAINING SM-MOD AMTS BLOOD TINGED CSF.
+CV-HR 80'S-90'S NSR,NO VEA,SBP 150'S-190'S,SNP GTT BACK ON BREIFLY OVER NOC,EXTRA 5MG LOPRESSOR X 1 IV,1"" NTP X1 TO CW,SICU HO AWARE +IN TO EVAL.CLONODINE /NGT ^^ .4 MG TID,EXTRA 2MG CLONODINE @ 2A,LABETELOL /NGT ADDED + GIVEN @ 4 AM.3+DP/PT BLE.
+RESP-PT LS CTA DECREASED BASES,O2 SATS 94-97% ON RA,RR 16-24.NARD.
+GI/GU-PT ABD SOFTLY DIST + BS/FLATUS,TF IMPACT W/ FIBER @ GOAL 80CC/HR,LOW RESID.U/O ADEQ AMTS CLEAR TO CLOUDY YELLOW URINE VIA FOLEY,SM AMT CLOT NOTED IN URINEMETER X 1.
+SKIN-NO NEW ISSUES.
+ENDO-INSULIN GTT @ 3-4U/H,FSBS 110-130'S
+SOC-NO FAMILY CONTACT OVER NOC.
+A-ALT NEURO STATUS SECONDARY TO INTRAVENTRICULAR HEMMORHAGE
+P-CONT TO MONITOR NEURO STATUS/ORDERS,VENTRICULAR DRAINAGE/ORDERS,VS ,I+O,MONITOR SKIN INTEGRITY QS AND PRN.
+",,
+14486,15141,18006,0,2857-02-22 18:04:00 EST,2857-02-22 18:20:00 EST,-1,"N",53,"Nursing/Other","7a-7p","
+7a-7p
+  Pt oriented to self. speech garbled and pt less alert today. inconsistently follows commands. PERRL at 3mm. grips strong and equal bilat. Vent drain remains open at 10cm above tagus for 4-10cc blood tinged drainage per hour. ICP 3-8. Dressing with old bloody drainage.
+  HR 70-80s with no ectopy noted. radial pulses weak bilat, pedal pulses strong bilat. perph saline lock right hand with no redness at iv site, but hand red. perph iv left AC WNL. SBP maintained below 160 per orders with hydralazine, metoprolol, labetolol and clonidine.
+  Lungs started clear/diminished and then coarse with exp wheezes right lower lobe.
+  NT tube to left nare, placement confirmed, impact with fiber running at goal of 80cc per hour. 10 cc residual x 2 refed. Abdomen soft and slightly distended. no bm today. foley with slight abrasion to meatus, urine yellow with sediment noted 40-100cc per hour.
+  No skin breakdown or excoriation noted at perineum. skin warm, [**Last Name (un) 5508**] and intact. no edema noted.
+NPH 30units Q12 started today with IV insulin titrated to keep blood glucose 100-120. Latest blood glucose 140 and insulin gtt increased to 3units per hour.  
+  Wife and son visited today x 2.
+",,
+14486,15141,18006,0,2857-02-23 06:11:00 EST,2857-02-23 06:27:00 EST,3144,"N",53,"Nursing/Other","S/P INTRAVENTRICULAR HEMORRHAGE-T/SICU NPN 11P-7A","
+S/P INTRAVENTRICULAR HEMORRHAGE-T/SICU NPN 11P-7A
+S-""[**Known patient firstname 435**] [**Known patient lastname 6154**]""
+O-NEURO-PT INITIALLY DIFF TO AROUSE,FEBRILE TO 102.SICU HO AWARE AND INTO EVAL,N-[**Doctor First Name **] NOTIFIED-INTO EVAL.PERRLA 3MM,MAE'S,NOW INCONSISTENTLY FOLLOWS SIMPLE COMMANDS.STRONG SPONT COUGH,+GAG W/ DEEP ORAL SXN.ICP 3-11,NO VENTRICULOSTOMY OUTPUT OVER NOC,DRAIN @ 15CM ABOVE TRAGUS.
+CV-PT LOPRESSOR IV HELD @ 12 D/T SBP<100,HYDRALIZINE HELD 4 AM GIVEN @ 6A,HR60'S-90'S NSR NO VEA,SBP 85-160'S.3+DP/PT BLE.
+RESP-PT LS CTA DECREASED BASES,O2 SATS 94-100%,O2 BREIFLY ON INITIALLY D/T ALT MS,RR 16-26 ,NARD,PT NT SXN X 1 FOR MOD YELLOW THICK SPEC SENT.CURRENTLY ON RA.
+GI/GU-PT ABD SOFTLY DIST +BS/+FLATUS,SM LIQ DARK BROWN STOOL X 1,U/O ADEQ AMTS CLEAR YELLOW  URINE VIA FOLEY CATH.TF @ GOAL  80CC/HR IMPACT W/ FIBER.
+SKIN-NO NEW ISSUES
+SOC-NO FAMILY CONTACT OVER NOC
+ENDO-INSUL GTT @ 2-5U/HR,FSBS 105-160'S.
+ID-PT T MAX 102 @ 12A,SICU HO NOTIFIED,PT PAN CX'D,N-[**Doctor First Name **] UP TO DRAW CSF CX,PT CONT'S ON VANCO 1 GM Q 12HR.
+A-ALT MS SECONDARY TO  INTRAVENTRICULAR HEMORRHAGE.
+P-CONT NEURO CHECKS,VENTRIC./ORDERS,VS,I+O,ANTIHYPERTENSIVES/ORDERS,MONITOR SKIN INTEGRITY QS AND PRN,FAMILY SUPPORT PRN,IV ABX/ORDERS,MONITOR CX DATA QD AND PRN.
+",,
+14486,15141,18006,0,2857-02-23 18:17:00 EST,2857-02-23 18:29:00 EST,-1,"N",53,"Nursing/Other",,"
+
+NPN (0700-1930) Review of systems:
+
+Neuro: Pt alert at times, lethargic at times, opens eyes, follows commands inconsistantly, answers questions inconsistantly. AAO to person only, confused and agitated at times. Garbled speecd. Pupils 2-3mm briskly reactive. +corneals, gag and cough. Ventriculostomy 15cm above the tragus and drained total of 2cc all shift, blood tinged. DSd reinforced. ICP=[**5-15**]. Head CT done this am, pt given IV haldol for agitation and restlessness. Restraints and hand mitt maintained for saftey.
+
+CV: ST c hr=60-90s. SBP=110-170s c goal sbp<160. IV hydralizine, po clonidine, po labetalol continue. IV lopressor prn. Color pink, skin warm and dry, palpable pulses. Venodynes intact.
+
+Resp: LS dm/congested. SaO2=96-100% RA. +NPC.
+
+GI: Abd softly distended, +BSx4. Impact with fiber at goal of 80cc/hr infusing via ngt. No bm. +flatus. Po colace and po zantac.
+
+GU: Indwelling foley intact and drainind clear yellow urine. Sufficent UO. U/A sent.
+
+Heme: Am hct=33.7. Heparin SQ.
+
+ID: Tmax=100.9po. Last pan Cx [**2-23**] am. IV vanco continues.
+
+Endo: BG=87-130. Insulin drip titrated to maintain goal bg=100-120. NPH increased to 40u Q12 hours.
+
+Skin: Skin warm and dry. No significant issues.
+
+Activity: Pt oob to chair c slide board and pt tol well.
+
+Soc: Pt's wife and daughter in, update given and questions answered.
+
+Plan: Continue support as above. Maintain saftey precautions.
+
+",,
+14486,15141,18006,0,2857-02-24 08:12:00 EST,2857-02-24 08:22:00 EST,-1,"N",53,"Nursing/Other",,"
+
+Nursing Progress Note
+[**2-24**]->0730
+
+S/O
+NEURO: Interactive and assisting with care at times; picking at lines/tubes and drains immed upon having hands released from restraints. Two episodes of increased v-drain drainage; otherwise, no drainage output. Garbled speech but spontaneously appropriate remarks, oriented only to person, but is aware he does not know where he is. Moves all extremities -> see flow sheet.
+Neuro team clamped drain at 0710.
+
+CV: BP drops after clonidine. hydralazine given x1, held x2 due to BP less than parameters. Lopressor given for elevated BPx2 with effect.
+
+RESP: LS initially coarse. Strong, productive cough; vibes and assist with coughing initially, then able to cough and clear on own. LS currently clear, tho diminished at bases. Episode of decreasing SpO2 when febrile -> placed on nc 2 2LPM.
+
+GI: Tolerating TF. Dulcolax supp given; passed copious amnts RF and scant amnt mucus without stool. Abd non-tender; BS positive.
+
+FEN: See flow sheet for insulin gtt titrations; BS remians labile.
+
+GU: U/O qs.
+
+ID: Spiked; no cx, [**Name8 (MD) 17**] MD. Cooled with pneumoboots and multimodus bots off, blankets off. Given Tylenol x1 due to T hovering 101.1-101.3, for comfort and to decrease metabolic rate d/t fever.
+
+
+Skin: Right forearm abrasion clean, redressed with xeroform and DSD.
+
+O/A
+Keep drain clamped unless ICP elevated x 25minutes, per Neuri [**Doctor First Name 146**].
+Continue current care.
+",,
+14486,15141,18006,0,2857-02-24 17:26:00 EST,2857-02-24 17:37:00 EST,-1,"N",53,"Nursing/Other",,"
+
+NPN (0700-1930) Review of Systems:
+
+Neuro: Neuro unchanged. AAO to person only, alert at times and lethargic/sleepy at times. Follows commands [**Last Name (LF) 4686**], [**First Name3 (LF) 34**], PERRL. Ventriculostomy site intact, level changed to 20cm above the tragus and drain clamped. ICP 5-10 all shift.
+
+CV: Hr=70-100 NSR, sbp=100-160s c goal sbp<160. Po clonidine decreased, IV hydralizine changed to po. Po labetalol continues. No CV meds held and no prn cv meds needed this shift, bp better controlled. Color pink, skin warm and dry. Palpable pulses.
+
+Resp: LS dm at bases, SaO2=95-96% RA. +congested NPC.
+
+GI: Abd softly distended, +bsx4. NPO. Impact with fiber at goal of 80cc/hr infusing via ngt, residuals 5-10cc. Pt swallowed sip of h2o s difficulty, consider speech and swallow. No BM. Colace and zantac continue.
+
+Gu: Indwelling foley intact and draining clear yellow urine, sufficient UO. 
+
+Heme: No new issues, SQ heparin continues.
+
+ID: Tmax=101.0po and tylenol given. Last pan cx [**2-23**]. IV vanco continues, changed to Q18 h, please check peak and trough with 3rd dose.
+
+Endo: NPH increased to 60u q12 hours. Insuling drip 1-6u/h and titrated for goal bg=100-120 (see careview).
+
+Skin: No new issues.
+
+Activity: PT oob to chair via slide board, attempted to have pt stand and pt did not tol well.
+
+Soc: Pt's wife and son in, reports pt takes two eye gtts at home, levobunolol and travoprost. Trovoprost is not formulary.
+
+Plan: Continue support as aobve. Continue to monitor neuro exam. Vanco peak/trough c third dose. Increase activity as tolerated. ? d/c of vent drain tomorrow. ?speech and swallow.
+",,
+14486,15141,18006,0,2857-02-25 06:32:00 EST,2857-02-25 06:46:00 EST,3136,"N",53,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+S/O- NEURO- PT EASLIY AROUSE ALL NOC, AWKE FOR LONG PERIODS OF TIME, ORIENTED TO SELF, AND OCC KNOW THAT HE IS IN THE HOSPITAL. FOLLOWS COMMANDS WITH GOOD STRENGTH WITH ALL EXTREMITIES. DRAIN REMAINS CLAMPED AND BEING TRANSDUCED ICP 8-12. , OLD BLOOD UNDER TRANSPARENT DSG. 
+CV- PT LESS HYPERTENSIVE ON PO REGIMENT, DID NOT REQUIRE ANY PRN IV MEDICATION. PT REMAINS IN NSR WITH NO ECTOPI. 
+RESP- PT ON RA WITH GOOD SATS, PT HAS GOOD SPONTANEOUS COUGH ESP WITH TURNING AND APPEARS TO BE CLEARING SECRETIONS, BREATHS SOUNDS CLEAR TO DIMINISHED. 
+GI- PT TOL TF AT GOAL OF IMPACT WITH FIBER, GIVEN DUCOLX WITH ONLY MUCOID RESULTS, PASSING A LOT OF FLATUS, ABD SOFT AND NOW DISTENDED. 
+GU- ADEQUATE U/O. 
+ID- TMAX 100.1, PT ON VANCOMYCIN, DUE FOR PEAK AND TROUGH NEXT DOSE. 
+ENDO- PT RECEIVING NPH 60U BID, CONT ON INSULIN GTT NOW AT .5U HR, Q1-2 FS LAST FS WAS 92. 
+SKIN- PT HAS PINK RASH ON BUTUCKS, PT HAS VERY WHITE TONGUE
+A/P- PT MORE ALERT, SPEECH MORE UNDERSTANDABLE, [**Last Name (un) **] AROUSED, B/P BETTER CONTROLLED.  
+
+
+",,
+14486,15141,18006,0,2857-02-26 05:31:00 EST,2857-02-26 05:40:00 EST,-1,"N",53,"Nursing/Other",,"
+
+NPN (0700-1930) REVIEW OF SYSTEMS:
+
+NEURO: PT ALERT & AWAKE ALL NIGHT, REMAINS CONFUSED ORIENTED TO PERSON ONLY, RESTLESS AND AGITATED AT TIMES. FOLLOWS COMMANDS [** **]. MAE. PERRL. OLD VENTRICULOSTOMY SITE D&I.
+
+CV: NSR C HR=70-90S, NO ECTOPY. SBP=140-160S WITH EPISODE SBP UP TO 200S. DR [**Last Name (STitle) **] AWARE AND 20MG IV LABETALOL GIVEN X3 C EFFECT. PO CLONIDINE ANDPO LABETALOL CONTINUE. COLOR PINK. PALPABLE PULSES.
+
+RESP: LS DM AT BASES, SAO2=98-100% ON RA. 
+
+GI: ABD SOFTLY DISTENDED, +BSX4. IMPACT WITH FIBER INFUSING VIA NGT AT GOAL OF 80C/HR, RESIDUALS=10-15CC. PR DOULOCAX GIVEN S EFFECT. COLACE AND ZANTAC CONTINUE.
+
+GU: INDWELLING FOLEY INTACT AND DRAINING CLEAR YELLOW URINE, SUFFICENT UO.
+
+HEME: AM LABS PENDING.
+
+ID: TMAX=99.4PO. IV VANCO CONTINUES, PEAK AND TROUGH DONE.
+
+ENDO: RISS AND NPH BID. PT C EPISODE BG=68, DR [**Last Name (STitle) 6157**] AWARE AND [**12-7**] AMP D50 GIVEN C EFFECT.
+
+SKIN; SKIN WARM AND DRY, TURNED AND REPOSITIONED.
+
+ACTIVITY: PT IN CHAIR ALL EVENING AND TOL WELL. ATTEMPTED TO HAVE OT STAND C ASSIST AND PT UNABLE TO AND NOT FOLLOWING COMMANDS. 
+
+PLAN: ? TRANSFER TO FLOOR C SITTER. ? SPEECH AND SWALLOW STUDY.
+
+ 
+",,
+14486,15141,,,2857-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2857-2-27**] 11:14 AM
+     CTA CHEST W&W/O C &RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 9881**]
+     Reason: ACUTE TACHYPNEA,R/O PE
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man intracranial bleed, now with acute tachypnea                    
+     REASON FOR THIS EXAMINATION:
+      r/o PE                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intracranial bleed, now with acute tachypnea.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained through
+     the pulmonary vasculature after the administration of 100 cc of Optiray due to
+     patient debility.  Multiplanar reformatted images were obtained.
+     
+     CTA OF THE CHEST:  No pulmonary emboli are identified.  There is no
+     pericardial or pleural effusion.  There are atherosclerotic changes in the
+     aorta.  The heart and great vessels are unremarkable.  There are coronary
+     artery calcifications.  A tube is seen in the esophagus.  The patient is not
+     intubated.  Small mediastinal lymph nodes are seen, none of which individually
+     meet the size criteria for pathologic enlargement.  There is no axillary or
+     hilar adenopathy.
+     
+     On lung windows, there is complete collapse of the left lower lobe with a
+     soft-tissue density in the bronchus going to the left lobe compatible with a
+     mucous plug.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are seen.
+     
+     Multiplanar reformatted images support the above findings.
+     
+     IMPRESSION:
+     
+     1) No pulmonary emboli.
+     
+     2) Mucous plugging in the airways extending to the left lower lobe resulting
+     in left lower lobe collapse.
+     
+     3) Nonspecific mediastinal lymph nodes.
+     
+     4) Coronary artery calcifications and atherosclerotic changes in the aorta.
+
+",,
+14486,15141,18007,0,2857-02-28 02:27:00 EST,2857-02-28 03:45:00 EST,-1,"N",69,"Nursing/Other","PMICU Nursing Admit/Progress Note 7p-7a","
+PMICU Nursing Admit/Progress Note 7p-7a
+Full Code
+Allergies
+PMH- 
+
+ 73 y/o man transferred to PMICU (as a SICU border) from [**Hospital Ward Name **] 5 for mental status changes. He was previously in NSICU for tx of an ICH, the drain was removed yesterday morning. The pt was noted by nsg on flr to have diminished LOC, tachypneic (50s) and hypertensive . Repeat CT done of head (negative) and chest. Chest noted to have LLL atelectasis and mucus plug. Transferred to PMICU for supportive care and possible intubation/bronch. Upon arrival, pt remained unresponsive and tachypneic. ICU attending present; pt intubated w/ out complication, RIJ and L radial aline placed. Pt found to be febrile (102.2 rectal) on arrival, bld cx's sent. LP done- ? meningitis.
+
+ROS- 
+
+Neuro- Pt sedated w/ propofol gtt-25/mcg/kg/min.  Occasionally withdraws to pn, not following commands. PERRLA, 2, sluggish.  
+
+CV- HR 70's, NSR, no ectopy noted.  BP 140-50/60's while on PO clonidine, q 4 hr IVP labetolol and propofol. Labetolol gtt not started. AM labs pending. Last HCT 32. 
+
+Resp-  Current vent settings PS 20x 5PEEPx30%, TV 500-800, RR 12-14. Sats 96%. Suctioned for thick white sputum. LS coarse in upper lobes, diminshed bases. Copiuos amt of yellow/white caked thrush noted on tonque. PLease cont vigorous mouth care. Am ABG pending.
+
+GI- Abd soft, +BS, no BM. NPO except meds. BG covered w/ SSI.    
+
+GU- Adequate u/o/hr, clr, yellow. IVF infusing @ 75 cc/hr. Please refer to CV for FB.
+
+ID- Max temp 102.2, bld and LP sent for cx. Pt recieved 650 mg of Tylenol.  Presently on IVAB-vanco,ceftriaxone. WBC 20- ? meinigitis, please follow all cx results w/ team.                           
+ 
+Skin- Intact, warm and dry.
+
+Plan- Cont supportive care, pt's son updated on status by nsg o/n.
+",,
+14486,15141,18007,0,2857-02-28 17:22:00 EST,2857-02-28 17:41:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NPN  0700-1900
+see careview for details
+
+NUERO:L ventricular drain inserted this AM. ICP to be transduced 5cms above tragus. ICP readings [**5-12**]. Drain out put of ~ 50 cc this shift.No change in LOC noted. On and off profofol throughout the day for Nueros checks.Presently off prof for over 1 hour. No response to painful stimuli. Pupils non reactive, HO aware.
+
+C/V: SR-SB labile BP w/ goal of 120's systolically. Initially started on Nipride GTT, with  labatolol Q 4 hr IV w/ good effect.Hydralizine started @ noon,able to d/c nipride after hydralizine tx started.
+
+RESP:On Mv PS 20/5 of PEEP,40% fio2 RR 20 -30. Suctioned for scant amts white secretions.
+
+F/E/N: on IV maint NSS @ 75cc /hr. Tf started Impact @ 10cc hr ,Cont on NPH BID w/ SS coverage. UO 30-40 cc/hr  no stool.
+
+I&D: pt found to have gram -rods in spinal fluid, one set of gram + cocci pairs/clumps from A line. Is presently on Vanco and ceftaz. Needs vanco level w/ AM dose.
+
+PLAN : maintain BP w/goal 1teens -120's not to exceed 150's  , monitor ICP  via vent drain .
+",,
+14486,15141,18007,,2857-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2857-3-1**] 10:06 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 9882**]
+     Reason: 73 YOM WITH IV HEMORRAGE,MENINGITIS, EVAL FOR STROKE
+      Contrast: MAGNEVIST Amt: 20CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old man with IVhemorrhage, Meningitis                                  
+       
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for stroke and or abcess.                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Evaluate for stroke or abscess in a patient with intraventricular
+     hemorrhage and meningitis.
+     
+     COMPARISON: Head CT [**2857-2-27**].
+     
+     TECHNIQUE:  Multiplanar T1 weighted, T2 weighted, FLAIR and susceptibility MRI
+     of the brain without and with IV gadolinium.  3D time of flight MR angiogram
+     of the brain with multiplanar reformatted images.
+     
+     FINDINGS:  There is stable ventriculomegaly again with hemorrhage within both
+     lateral ventricles and along the left frontal drainage tract.  Diffuse
+     weighted images demonstrate restricted diffusion in the distribution of the
+     right anterior cerebral artery, compatible with evolving infarct.  Post
+     contrast images demonstrate periventricular enhancement and enhancement along
+     the ependymal surface of the lateral ventricles and cervicomedullary junction.
+     There is moderate leftward shift of the septum pellucidum.  There is slight
+     mucosal thickening of the left maxillary sinus.
+     
+     MRA OF THE BRAIN:  There is no flow demonstrated within the right internal
+     carotid artery.  Flow is seen is within both middle cerebral arteries,
+     posterior cerebral arteries, and anterior cerebral arteries.  The vertebral
+     arteries and basilar artery are patent.
+     
+     IMPRESSION:
+     
+     1.   Evolving infarct in the right anterior cerebral artery territory.
+     
+     2.   Ventriculomegaly with intraventricular hemorrhage and leftward shift of
+     the septum pellucidum, not grossly changed compared with the recent CT scan.
+     
+     3.   Periventricular enhancement may partially be explained as a reactive
+     phenomena to the intraventricular hemorrhage.  However, enhancement along the
+     surface of the ventricles cervicomedullary junction and the cerebellum may be
+     related to meningitis, as well.
+     
+     4.  No flow is demonstrated within the right internal carotid artery.
+     This finding was also noted on a prior CT angiogram. 
+     
+                                                                 (Over)
+
+     DATE: [**2857-3-1**] 10:06 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 9882**]
+     Reason: 73 YOM WITH IV HEMORRAGE,MENINGITIS, EVAL FOR STROKE
+      Contrast: MAGNEVIST Amt: 20CC
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+14486,15141,18007,0,2857-03-01 06:23:00 EST,2857-03-01 06:42:00 EST,-1,"N",69,"Nursing/Other",,"
+
+
+Neuro:  Unresponsive.  Moves feet to tactile stim, grimaces w/ suctioning.  Pupils 2mm/nonreactive. On Dilantin 100mg q8 after loading dose of 1gm.  Ventric drain at 5cm above tragus - 21cc serosang fluid.  ICP=[**5-12**].
+
+Cardiac:  HR=50s, SB no ectopy.  BP=100-120/50s.  After 15mg Hydralazine, (scheduled for 30mg), SBP down to 80-90/.  + periph pulses, extrems warm.  Not recieving lopressor.
+
+Resp:  CPAP/PS 20/5 40% w/ 02sat 97%.  Lungs clear to occ coarse, diminished in bases.  Sputum spec sent - very thick light yellow secretions.  Earlier in the night - not able to suction ANY secretions.  ABG=7.50-26-83-21.
+
+GI:  hypo BS, Abd round, no BM.  TF Impact currently at 30cc/hr (goal-70cc).  No resids.
+
+GU:  foley cath, clear yellow urine, 30-40cc/hr.
+
+Blood sugars remain elevated - last one =329.  He is on NPH 40 units BID and sliding scale.  K=3.6.  Team to evaluate.
+
+Plan:  monitor neuro status.  Start insulin gtt as ordered replete lytes as ordered.
+
+
+
+
+",,
+14486,15141,18007,0,2857-03-01 15:40:00 EST,2857-03-01 16:08:00 EST,-1,"N",69,"Nursing/Other","Transfer to TSICU Note.","
+Transfer to TSICU Note.
+
+RESP: Pt received on MV c CPAP/PS of 18/5 c 40% FiO2 in place.  Pt tachypneic c a resp alkalosis all day despite vent changes.  Last ABG @ 14:00 values = 7.53-24-67 -- HO notified.  Pt currently on 5 of PEEP c flow by on and 50% FiO2 in place.  RR currently in the mid-30's despite an IV Propofol gtt started today and titrated up to suppress resp drive.  Current Propofol rate of 40mcg/kg/min via TLC (per HO, 10mcg/kg/min was all that was needed to suppress tachypnea).  Pt has small amounts of moderately thick and yellow sec per ETT.  LS are coarse to auscultation, but clear c effective sxn'ing.  Sat presently 97%, TVol's in the 400-500 range and a minute vol of 14-20 Liters all day despite Propofol gtt and MV setting changes.  HO presently ordering a repeat CXR to assess the pt lungs status.  
+
+MS: Unresponsive all day to verbal stimuli and minimally responsive to noxious/tactile stimulation.  +Blink responce, pupils equal and unresponsive to light.  The pt does not follow commands and is not purposeful in any way.  Pt started on Propofol gtt today to decrease RR, no success thus far--but will cont to titrate up as long as his BP can tolerate.  IV Dilantin admin as ordered, no evidence of acute/overt seizures evident.  Pt scheduled to receive a brain MRI later today, MRI checklist completed and faxed to MRI suite and he is suitable to be an MRI candidate per Neurology service.  Unrestrained.
+Ventriculostomy in place c bloody/pussey drainage noted via tubing.  Mean ICP values in the 4-6 range today.  Team expected to perform an additional LP for cultures later today.  
+
+CV: NSR, no ectopy.  Pt was pan C&S today (including blood C&S times two, urine and sputum).  Low grade temp all AM (93-94.0), bear hugger applied c last oral temp = 95.8.  Blood clot type/cross drawn/labeled/sent to BB for analysis -- pt slatted to receive two units of PRBC's later today per renal service (AM HCT = 26.2).  L A-Line d/c'ed per team request ([**3-9**] blood C&S + from this site), a new R radial A-Line was subsequently placed c good pleth.  One liter Lactated Ringers fluid bolus provided per team 2nd probable sepsis and hypovolemia (spot UA c highly concentrated urine).  Vanco trough sent prior to 16:00 IV Vanco dose due, currently awaiting results -- Vanco dosing to be based on serum drug levels per team (Cr cont to rise c an AM value of 1.8).  CVP values today in the 5-9 range.  R IJ TLC in place, dsg changes -- site is C/D/I.  AM K value = 3.6, repleted c 40MEQ KCL IV -- repeat AM K = 4.2.
+
+GU: Adequate UO c approx 60-80ml/hr.  Pt currently + 2.7 liters input @ this time (team aware).  Spot UA sent for analysis today.
+
+FAMILY: Wife and son visited @ the BS and were kept up to date c POC/pt status.  MRI checklist completed c son/wife.  The pt is a full code @ this time.
+
+OTHER: Please see CareVue for additional pt care data/comments.  Universal isolation is currently in place.  
+",,
+14486,15141,18007,0,2857-03-01 19:15:00 EST,2857-03-01 19:27:00 EST,3259,"N",53,"Nursing/Other","SICU NPN","
+SICU NPN
+Please see MICU transfer note. Briefly, pt is a 71 yr old male who was previously in the T-SICU after ICH (due to HTN). Pt had been treated in the ICU for hypertention and with ICP drain/monitor. Pt was transferred out to the floor, then readmitted to the MICU due to change in mental status and tachypnea. Pt was intubated for airway protection and due to tachypnea, ICP drain placed and pt lined up.  Pt transferred down to T-SICU today for further management.
+
+ROS: Neuro: Pt remains unresponsive, slight flexion noted in BLE to pain only.  Pupils 2-3mm and sluggish to react, impaired cough and gag. No spont movement noted. ICP drain at 5cm above the tragus, open to drain with ICP transduced Q1hour. ICPs [**5-13**]. Drainage from ICP is bloody with some purulent matter noted. **WBC from ICP drianage >63,000** Pt continues on dilantin. Propofol gtt started in MICU to manage tachypnea, weaned off and changed to MSO4 Q1 hour for tachypnea.
+
+CV: HR 80's, SR without ectopy. PO HTN meds had been held due to boarderline BP with propofol infusing.  Currently SBP 120-140's. Low hct today, pt receiving first of 2 U prbcs. Extremities warm and well perfused, weakly palpable pulses noted.  R A-line new today, RIJ site intact.  CVP 4-6.  Periph IV placed on arrival.
+
+Resp: Tachypnea persists despite many vent changes. Currently pt is on 5PEEP/0PS with 50%.  ABG sl improved after MSO4 and suctioning. Lungs ronchorous throughout, suctioned for moderate ammts thick yellow sputum. ETT retaped on arrival.
+
+GI: Abd round, distended with good BS throughout. TF at 50cc/hr.
+
+GU/renal: Low u/o via foley catheter, LR fluid bolus given. Repeat lytes also sent due to hypernatremia, high serum osmos.  
+
+Endo: Elevated glucose all day, insulin gtt titrated to manage sugars.
+
+ID: Extremely high WBC from CSF fluid. ID recommended new IV ABX, awaiting meds from pharmacy.  plan for MRI to r/o cerebral abscess. 
+
+Social: No family contact since admission to SICU, family aware of transfer.
+
+P: MRI this evening to r/o cerebral abscess vs. stroke. Continue with supportive care, IV abx, insulin gtt...
+",,
+14486,15141,18007,0,2857-03-02 05:39:00 EST,2857-03-02 05:55:00 EST,3438,"N",53,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S:
+O: Neuro: unresponsive to voice or verbal stimuli.  Opens eyes spontaneously but does not track or appear to focus.  Grimaces with mouth care.  No spontaneous movement of arms or legs, also none to movement.  Pupils small and sluggishly reactive.  L sided ventriulostomy in place, leveled at 5 at the tragus and open.  Drainage is both bloody and purulent. ICPs [**4-18**]  Transported to MRI where he had mri of head with and without contrast. Neuro surgery reviewed films and per sicu ho felt the only treatment is to continue current regimen. On dilantin, with no seizure activity.
+CVS: sinus rhythm with controlled rate and bp. CVP4-10
+RESP: continues with tachypnea and discoordinate resp pattern.  Changed to psv 10, 5 peep 50% with apparent less work of breathing.  CO2 remains a little low but acceptable.  Weak cough.  Has thick yellow sputum.  Coarse breath sounds.
+RENAL: BUN and cr elevated.  Receiving D5W @ 100/hr for free water repletion.  Sodium elevated to 150. Urine output adequate.
+GI: on goal tube feeding, fs impact with fiber @ 70/hr without high residuals.  Belly soft and distended.  No stool.
+ENDO: on insulin gtt titrating in effort to keep bs <130. NPH to be added this am.
+ID: ID following, antiobiotics changed. Vanco dose decreased to 750mg q 12 because of high trough level, ceftaz continues and meropenum added.  WBC down to 14.  CSF culture from yesterday growing gram neg rods. Hypothermic
+SKIN: no evidence of breakdown.  Nystatin used on thrush in mouth
+Social: son called several times and was updated with condition.  Family appropriately worried.
+A: impaired neuro status with ++csf culture after intercranial bleed
+glucose intolerance.  Free water deficit with impending renal failure.
+P: continue close monitoring, drainage of csf and administration on antibiotics.  Add nph insulin to gtt for bs control.  Continue free water instillation with monitoring of serum sodium.  Support family during this difficult time.
+
+",,
+14486,15141,18007,0,2857-03-02 14:30:00 EST,2857-03-02 14:38:00 EST,3454,"N",53,"Nursing/Other",,"
+
+SOCIAL WORK NOTE:
+
+Received RN referral for family support.  Pt is a 73 year old married man who lives in [**Location **] with his wife of 48 years, Aline.  Pt admitted to [**Hospital1 10**] two+ weeks ago with ICH.  Pt transferred out to floor following T-SICU stay and then transferred to MICU and then here.  Pt is a retired Marine [**Doctor Last Name **] Srgt. who retired in [**2824**] and then worked in civil service for 20 years.  Family reports that he is a very active man and remains involved with retired Marine Corps.  Pt and his wife have 3 adult children and 6 grandchildren.
+
+Family meeting held this afternoon with pt's wife, Aline, dtr, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6158**], [**First Name3 (LF) **], [**Last Name (LF) **], [**First Name3 (LF) **], [**Doctor First Name **], and dtr-in-law ([**Name (NI) 6159**] wife), [**Doctor First Name **].  This SW, RN [**First Name8 (NamePattern2) 205**] [**Last Name (NamePattern1) 6160**], Dr. [**Last Name (STitle) **] (neurosurg) and Dr. [**Last Name (STitle) **] (T-SICU team) were present at meeting.  Pt has infection and possible seizure issues.  Dr. [**Last Name (STitle) **] wants to try to address seizures before making further care plan decisions.  He wants to readdress pt's condition within next couple days as needed.  He indicated clearly to family that pt's condition may not improve.  Family seemed relieved that they were not being asked to make major decisions today and they clearly remain hopeful.
+
+This SW will f/u following weekend to offer continued support.  Pager [**Pager number 117**].
+",,
+14486,15141,18007,0,2857-03-02 18:04:00 EST,2857-03-02 18:23:00 EST,3144,"N",53,"Nursing/Other","S/P INTRAVENTRICULAR HEMMORRHAGE/ACUTE BACTERIA","
+S/P INTRAVENTRICULAR HEMMORRHAGE/ACUTE BACTERIA
+MENINGITIS-T/SICU NPN 7A-7P.
+S-PT UNRESPONSIVE/INTUBATED
+O-NEURO-PT UNRESPONSIVE TO NOXIOUS STIM,PUPILS 3MM SLUGGISH->NONREACTIVE.WEAK COUGH EFFORT TO DEEP ET SXN.+CORNEALS,EYES OPEN SPONT W/O STARTLE REFLEX.ICP 6-19,VENTRICULOSTOMY @ 5CM ABOVE TRAGUS DRAINING PURULENT RED DRAINAGE.EEG TODAY-NO SEIZURES/HO.LOW VOLTAGE ENCEPHALOPATHY.NO GAG.
+CV-VSS,SEE FLOWSHEET FOR DETAILS.
+RESP-LS CTA DECREASED @ BASE OCCAS INSP/EXP WHEEZING,O2 SATS 98-100%,RR 28-38, VT'S 400'S-500'S,SEE RESP FLOWSHEET FOR VENT DETAILS,NO ABG'S ORDERED TODAY.
+GI/GU-PT ABD SOFTLY DIST +HYPOACTIVE BS,NO STOOL TODAY,TF IMPACT W/ FIBER ^^ TO 75 CC/HR VIA NGT,RESID 0-5CC.FREE WATER BOLUS' STARTED TODAY @ 250CC Q4HRS/NGT NOW ^^ TO 400CC Q 4HR/NGT,U/O ADEQ AMTS CLEAR YELLOW URINE VIA FOLEY.D5W GTT ->KVO THIS AM.
+SKIN-PT BACK AND BUTTOCK GROSSLY INTACT.ANASARCA
+ID-AFEBRILE,PT CONT'S ON VANCO/MEROPENUM/CEFTAZ.ID TM CONT'S TO FOLLOW,CSF + FOR ENTEROBACTER.
+ENDO-SEE FLOWSHEET FOR INSULIN GTT CHANGES AND FSBS RESULTS,INSULIN GTT 0-22 U/HR DURING DAY.
+SOC-FAMILY MTG TODAY W/ DR [**Last Name (STitle) 247**],DR [**Last Name (STitle) 918**],PT'S FAMILY,NSG + SOC WORK.FAMILY UPDATED ON PT'S CONDITION,PLAN TO REASSESS IN 24-48HRS.CONT CURRENT PLAN OF CARE.
+A-ALT MS R/T INTRAVENTRICULAR HEMORRHAGE + ACUTE BACTERIA MENINGITIS(ENTEROBACTER)
+P-CONT TO MONITOR MS,IV ABX/ORDERS,VS,I+O,LABS/ORDERS,MONITOR LAB PRN/ORDERS,MONITOR SKIN INTEGRITY QS AND PRN,BS CONTROL/ORDERS.FAMILY SUPPORT PRN.SOC WORK PRN.
+",,
+14486,15141,18007,0,2857-03-03 05:30:00 EST,2857-03-03 05:47:00 EST,3325,"N",53,"Nursing/Other","T-SICU NURSING PROGRESS NOTE","
+T-SICU NURSING PROGRESS NOTE
+Neuro:  Unresponsive to noxious stimuli.  Occas with eye opening, no tracking, impaired corneals, no gag.  Pupils 3mm bilat and non-reactive.  Strong cough.  ICPs [**5-18**], CSF remains purulent and blood tinged.
+
+CV:  HR 70s-80s, NSR, no ectopy noted.  Approximately 1 hour after 8pm dose of labetolol pt's BP down to 100-110/60 with MAP 70, CPP down to 55-60.  Neurosrugery aware, 12a and 2a doses of antihypertensives held, SBP now running 130s-140s.  CVP 2-5. 
+
+Resp:  At start of shift, pt's resp rate up to 40s, spontaneous tidal volumes 200-500cc on 10 PSV.  PSV increased to 15 with improvement in resp rate and work of breathing.  Resp rate now 18-28.  Breath sounds clear in upper lobes, diminished in the bases bilat.  Suctioned for small amts of thick white secretions.
+
+GI:  Abdomen distended but soft, hypoactive bowel sounds.  Tolerating tube feeds at goal of 75cc/hr, residuals 20cc.  Dulcolax given, results pending
+
+GU:  Na+ remains at 149.  Receiving free water boluses q4h.  Creatinine down to 1.7 from 1.8)
+
+Heme:  Hct stable at 31.0
+
+ID:  Afebrile, WBC 15.1 (from 14). No new culture data.  Continues on meropenem and flagyl.  Vanco held last evening for trough level of 25. Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 96**] aware
+
+Endo:  Insulin gtt titrated down to 2 units/hr, glucose levels 
+
+A:  Unresponsive to noxious stimuli, BP with improved control on multiple meds
+
+P:  Continue to follow neuro exam, follow cx's, continue antibiotics, provide support to patient and family
+",,
+14486,15141,18007,0,2857-03-03 05:31:00 EST,2857-03-03 05:35:00 EST,3659,"N",53,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on Psv. RR increasing to 40's. Psv increased from 10 to 15. Resp status improving. Vent settings Psv 15, Cpap 5, Fio2 50%. Spont vols 500-600's with RR mid to high 20's. Pt. appears comfortable. Bs clear R lung/Coarse L lung. Sx'd for sm amount of thick white sputum. Albuterol MDI given Q4hr. No further changes made. Continue with Psv as tolerated. 
+",,
+14486,15141,18007,0,2857-03-03 19:33:00 EST,2857-03-03 20:00:00 EST,3706,"N",53,"Nursing/Other","T/SICU NPN: 0700-1900","
+T/SICU NPN: 0700-1900
+S/O:  SYSTEM REVIEW
+
+NEURO:  remains unresponsive  opens eyes spontaneously  no eye contact
+pupils 3mm with no reaction  no extemity movement to any noxious stimuli  no gag  weak sporadic cough  no seizure activity  
+continues on 200mg dilantin q8hrs  ICP's [**5-24**]
+ventricular drain at 5cm tragus  draining at times purulent blood tinged csf <10cc/2hrs  
+
+CVS:  HR 70-80's NSR with no ectopy  SBP 130-150's  SBP up to 170-180's with stimulation  clonidine drecreased to .1mg tid  
+continues on labetolol 20mg q4hrs  no hydralazine required  
++ palpable pedal pulses
+
+Respiratory:  remains intubated and ventilated on psv  ps=15
+rr 10-20's with irregular breathing pattern   tv's ranging from 600-1000cc  sao2 > 99%  lungs coarse to clear, decreased at bases
+suctioned for small to moderate amounts of thick white secretions
+
+Renal:  foley patent and draining clear yellow urine  80-160cc/hr
+continues on free water boluses--400cc q4hrs  last NA 148  last serum
+osmolarity 335  
+
+GI:  abdomen remains distended although soft  +bs  +flatus  +bm--small
+clear mucoid stool  continues on colace   fs impact/fiber at 75cc/hr
+minimal residuals
+
+Endocrine:  NPH 40units bid  rising BS's  up to 150-160's
+regular insulin drip increased to 9u/hr  
+
+Heme:  on pneumoboots  on heparin sq
+
+ID:  tmax 97.4  continues on meropenum and ceftazidime  random vanco level 18.3  received 750mg vancomycin at 1530  CSF sent for cx
+
+Skin:  back and buttocks intact with no redness  
+
+Psychosocial:  wife and 2 of pt's children in for visit  updated on clinical situation and questions answered  family felt that pt looked better today--they remain hopeful  
+
+A:  neurologically unchanged  increased insulin requirement  
+slowly improving free water deficit  
+
+P:  continue to monitor above parameters
+",,
+14486,15141,18007,0,2857-03-04 05:08:00 EST,2857-03-04 05:46:00 EST,3144,"N",53,"Nursing/Other","S/P INTRAVENTRICULAR HEMORRAHGE/ACUTE BACTERIAL","
+S/P INTRAVENTRICULAR HEMORRAHGE/ACUTE BACTERIAL
+MENINGITIS-T/SICU NPN 7P-7A
+S-PT INTUBATED/UNRESPONSIVE
+O-NEURO-PT PUPILS 3MM NONREACTIVE,ICP 13-32 HO AWARE,NO MOVMENT TO NOXIOUS STIM.MIN COUGH NO GAG NOTED,CONT'S ON DILANTIN 200MG Q8RHS IV.,VENTRICULOSTOMY DRAINING SM AMTS RED PURULENT DRAINAGE.
+CV-SEE FLOWSHEET FOR VS FOR DETAILS.
+RESP-SEE RESP FLOW FOR VENT DETAILS,O2 SATS 98-100% ON 15PSV VT'S ~ 700'S->1L RR14-30.PT SXN'D Q2-4HRS FOR SM AMTS THICK WHITE->YELLOW THICK SPUTUM.
+GI/GU-PT ABD SOFTLY DIST + HYPOACTIVE BS,NO STOOL OVER NOC,U/O ADEQ AMTS CLEAR YELLOW URINE VIA FOLEY CATH.TF IMPACT  W/ FIBER @ 75CC/HR.
+ENDO-FSBS 78-120'S INSULIN GTT 0-12U/HR
+ID-AFEBRILE,CONT'S ON MEROPENUM,VANCO,CEFTAZ.
+SOC-PT'S SON [**Name (NI) **] CALLED THIS AM.
+A-ALT NEURO STATUS SECONDARY TO INTRAVENTRICULAR BLEED + ACUTE BACTERIAL MENINGITIS.
+P-CONT TO MONITOR NEURO STATUS,VS,I+O,VENT/ORDERS,IV ABX/ORDERS,MONITOR SKIN INTEGRITY QS AND PRN.FAMILY SUPPORT PRN.
+",,
+14486,15141,18007,0,2857-03-04 05:40:00 EST,2857-03-04 05:43:00 EST,3659,"N",53,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on Psv. Current vent settings Psv 15, Cpap 5, Fio2 40%. Spont vols 600-800's with RR 16-mid 20's. Abg results 7.48, 33, 142, 25. Bs relatively clear bilaterally. Sx'd for sm amount of thick white sputum. Spont vols improving. No further changes made. Plan: Continue with Psv as tolerated. 
+",,
+14486,15141,18007,0,2857-03-04 19:30:00 EST,2857-03-04 19:37:00 EST,3875,"N",53,"Nursing/Other",,"
+
+[**2857-3-4**]  nursing progress note
+
+c-v=hr, 70-80's, bp controlled with multiple meds.  cvp 8-11.
+neuro=no response to verbal or noxious stimuli, pupils nr. no spontaneous movement. icp <20, draining little bloody-tinged secretions. head dressing d/i
+resp=irregular resp., c-pap 15/5, 40%, rr=20-30. suctioned for small amounts, 1cc added to cuff.  02 sats 99%.
+gi/gu=tf 75cc/hr, no residuals.  u/o adequate. no stool.
+endo=bs=112-200, insulin drip shut off x 1 1/2 hours, turned back on at 5u/hr.  nph 40 units given at 1800.
+social-no calls or family in.
+
+a. neuro unchanged. vss. tolerating tf.
+p. continue monitoring icp, drainage. bp.
+",,
+14486,15141,18007,0,2857-03-05 04:55:00 EST,2857-03-05 05:02:00 EST,3659,"N",53,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on Psv. Current settings Psv 15, Cpap 5, Fio2 40%. Tolerating well with spont vols 800-900's. RR 15-low 20's. Pt. appears to have hicups at times. Bs slightly coarse bilaterally. Albuterol/Atrovent MDI's given Q4hr. Increased secretions. Pt. sx'd for moderate amounts of thick white/clear secretions. Abg results this am 7.48, 32, 154, 25,+ 1. No further changes made. Plan: Continue with Psv and wean Psv as tolerated. 
+",,
+14486,15141,18007,0,2857-03-05 05:47:00 EST,2857-03-05 05:58:00 EST,3144,"N",53,"Nursing/Other","ACUTE BACTERIAL MENINGITIS T/SICU NPN 7P-7A","
+ACUTE BACTERIAL MENINGITIS T/SICU NPN 7P-7A
+S-UNRESPONSIVE/INTUBATED
+O-NEURO-NO SIGNIFICANT CHANGE,INTRATHECAL GENTAMYCIN 5MG INSTILLED BY NEUROSURG @ 11P-DRAIN CLAMPED X 30"".SEE FLOWSHEET FOR ASSESSMENT DETAILS.
+CV-VSS,SEE FLOWSHEET FOR DETAILS.
+RESP-NO VENT CHANGES OVER NOC,SEE RESP FLOWSHEET FOR DETAILS.
+GI/GU-SEE FLOWSHEET FOR I+O +ASSESSMENT DETAILS,U/O ADEQ.
+SKIN-PT BACK AND BUTTOCK REMAIN GROSSLY INTACT.
+ENDO-SEE LAB FLOWSHEET FOR FSBS,INSULIN GTT/ORDERS.
+SOC-PT'S SON [**Name (NI) **] PHONED X 2 OVER NOC.
+ID-GENTA ADDED LAST NOC.
+A-ALT MS R/T MENINGITIS
+P-CONT TO MONITOR NEURO STATUS,VS,I+O,VENT/ORDERS,LABS/ORDERS,MONITOR SKIN INTEGRITY QS AND PRN,FAMILY SUPPORT PRN,?FAMILY MTG AGAIN TODAY,IV ABX/ORDERS,MONITOR CX DATA QD AND PRN.
+",,
+14486,15141,18007,0,2857-03-05 14:44:00 EST,2857-03-05 14:56:00 EST,3325,"N",53,"Nursing/Other","T-SICU NURSING PROGRESS NOTE","
+T-SICU NURSING PROGRESS NOTE
+Neuro:  Eyes open when turned but not tracking, no corneal reflex.  Pupils 3mm bilat and non-reactive.  Slight movement of head with mouth care, no other spontaneous movement noted.  No movement of UEs to noxious stimuli, slight withdrawl of LEs with noxious stimuli.  ICP 12-25, drain flushed by neurosurg this am for very dampened trace.  ICP draining minimal amt of cloudy, slightly blood tinged CSF.  Awaiting MRI today.
+
+CV:  HR 60s, NSR, no ectopy noted.  CPP down to mid 50s after am dose of labetolol (ICP up to 22-25).  Neurosurg notified, 500cc NS bolus given and anti-hypertensives held this afternoon.  Now maintaining CPPs 65-70.  
+
+Resp:  No vent changes made, remains on PSV 12, 5 PEEP, 40% fi02.  Irregular respiratory pattern, tidal volumes 200-1.3 L, rate 18-36.  ABG within acceptable limits.  Breath sounds clear in upper lobes, diminished in the bases bilaterally.  Suctioned for small amts of thick white secretions.  
+
+Renal:  Adequate u/o, free water boluses d/c'd, Na+ 138 today.  
+
+GI:  Abd softly distended, hypoactive bowel sounds.  Small mucoid stool after dulcolax this am.  Tolerating tube feeds at goal of 75cc/hr
+
+Heme:  No issues
+
+ID:  Afebrile, continues on gentamycin, meropenem and ceftaz.  Random vanco level 28.0.  Continues on gentamycin intrathecally (to be administered by neurosurgery team)
+
+Skin:  No issues
+
+Endo:  Insulin gtt titrated down to 1.5units/hr, NPH increased to 70 units BID
+
+Social:  Pt's family in to visit, awaiting results of MRI/update from team
+
+A:  73 yo male s/p IVH, course c/b enteroccus in CSF
+
+P:  Continue with current management, MRI today to evaluate neuro status, family meeting to discuss MRI results/ treatment plan
+",,
+14486,15141,18007,0,2857-03-05 15:20:00 EST,2857-03-05 15:21:00 EST,3454,"N",53,"Nursing/Other",,"
+
+SOCIAL WORK NOTE:
+Spoke with pt's wife, Aline, and dtr, [**Doctor First Name 422**] (and her husband) this morning to offer continued support.  Family expressed sense of disappointment that pt's condition has not improved but they remain hopeful.  They knew that pt would be having an MRI today and are eagerly awaiting the results of this process.  This SW remains available as needed for support and assistance.  Pager [**Pager number 117**].
+",,
+14486,15141,18007,0,2857-03-05 22:11:00 EST,2857-03-05 22:21:00 EST,3063,"N",53,"Nursing/Other","T-SICU Nsg Note","
+T-SICU Nsg Note
+  Neurosurg injected 5mg Gent via ventriculostomy at 21:15.  IV GENT started at 22:00.
+   Neuro - pupils about 3mm, non-reactive.  Has spont cough, but impaired cough to suctioning.  Impaired gag.  Occ spont chewing motions.  Once during shift L arm & L leg had slight extension and internal rotation to nailbed pressure.  Otherwise no movement.  BP goes up with suctioning.  Ventriculostomy drainig bloody fluid only 28cc out in 8 hrs.  Ventriculostomy open at all times except to take a reading.  ICP 7-12.
+      Resp pattern is irregular.  Small, rapid breaths, big breath, pause.  Vt 500-1200cc on 12cm PSV above 5cm PEEP.  Suctioned for mod amt thick white sputum.  Lots of clear to white oral secretions.
+      No stool this shift.  Tube feedings continue at 75cc/hr, abd lg, soft.
+    Pt a bit hypothermic - 96 F both PO and ax.  Blankets applied and head covered, but temp same.
+    First dose of 70u NPH insulin at 18:00.  Insulin drip titrated up to 4u/hr.
+  Pt's son [**Name (NI) **] called for update.  Son wants to be hopeful, but also asking what happens if pt can't get better.
+A: Neuro unchanged.  Son [**Name (NI) **] thinking about pt's condition and looking at options.
+P: MRI tonight.  Titrate insulin drip to BS 70-130.  Continue antibiotics.  Gent level 1hr after 22:00 dose.  Continue informational & emotional support to family.
+",,
+14486,15141,18007,,2857-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2857-3-6**] 12:58 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 9883**]
+     Reason: with DWI and perfusion, evaluate for evolution of stroke on 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old man with IVhemorrhage, Meningitis                                 
+         
+     REASON FOR THIS EXAMINATION:
+      with DWI and perfusion, evaluate for evolution of stroke on prior MRI           
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     MRI SCAN OF THE BRAIN WITH DIFFUSION WEIGHTED IMAGES
+     
+     HISTORY:  Meningitis. Evaluate for evolving infarction suspected in the area
+     of the anterior cerebral artery as noted on an MR scan of a few days ago.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted brain imaging was obtained with
+     diffusion weighted scans.
+     
+     FINDINGS:  The area of abnormal diffusion in the right anterior cerebral
+     artery territory is redemonstrated. However, additional areas of restricted
+     diffusion are also redemonstrated within the inferior aspect of both
+     cerebellar hemispheres and in relationship to the periventricular white matter
+     of the left lateral ventricle. All of these areas also show elevated T2
+     signal, suggesting that a pathological process is at least subacute in age.
+     The areas of susceptibility relating to the intraventricular hemorrhage and
+     along the tract of the drainage catheter do not appear to have altered
+     substantially. No gross change in ventricular size is appreciated, either.
+     
+     CONCLUSION:  Little change in markedly abnormal study as defined above.
+     
+     MR ANGIOGRAPHY OF THE CIRCLE OF [**Location (un) 4**] AND ITS TRIBUTARIES:
+     
+     TECHNIQUE:  3-dimensional time-of-flight imaging with multiplanar
+     reconstructions.
+     
+     FINDINGS:  Since the prior MRA of [**3-1**], there has been interval
+     development of marked stenosis of the distal half of the basilar artery. There
+     also appears to be markedly reduced flow in the distal intracranial portion of
+     the right vertebral artery, aside from a short segment joining the distal left
+     vertebral artery. The rapid change in vascular caliber over a few days would
+     be consistent with vasospasm. There remains very poor cross-filling into the
+     right middle cerebral artery. In fact, there does appear to be less prominent
+     flow signal within the anterior cerebral artery complexes, likely a function
+     of vasospasm, likely in the vicinity of the anterior communicating artery.
+     
+     CONCLUSION:
+     Worsening of vascular flow patterns, suggesting interval development of
+     vasospasm.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2857-3-6**] 12:58 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 9883**]
+     Reason: with DWI and perfusion, evaluate for evolution of stroke on 
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+14486,15141,18007,0,2857-03-06 05:36:00 EST,2857-03-06 05:48:00 EST,-1,"N",53,"Nursing/Other",,"
+
+NPN (2300-0700) Review of Systems:
+
+Neuro: Remains unresponisve, no spontaneous movement noted except for infrequent mouth movements. Pupils 3mm NR.Ventriculostomy 5cm above tragus, draining bld tinged fluid, site D&I. ICP=[**7-20**] CPP=60-70s. IV dilantin continues, dilantin level pending. MRI obtained, results pending.
+
+Cv: NSR c hr=60-70s, no ectopy. SBP=130-140s. Po clonidine, IV labetalol continue, IV hydralizine held per parameters. Color pink, skin warm and dry. 
+
+Resp: LS course to dm at bases. CPAP c PS=12 40% fio2 c fair ABG. Pt c irregular breathing pattern c rr=[**10-2**], unhcanged all shift.  Pt suctioned for sm amts thick white secretions. 
+
+GI: Abd soft, + hypoactive BS x4. Impact with fiber at goal of 75cc/hr, residuals=5-15cc. No BM. Po colace and IV pepcid continue.
+
+GU: Indwelling foley intact and draining clear yellow urine, sufficient UO. 
+
+Heme: Am labs pending. SQ heparin continues.
+
+ID: Temp=96.6-97.2 po. Blankets and temp up in room. IV gent, IV vanco, IV ceftaz and IV meropenem continue.
+
+Endo: Insulin gtt off 2' BG=55. [**12-7**] amp D50 given c effect. Dr [**Last Name (STitle) **] aware.
+
+Skin: Skin warm and dry. Pt turned and repositioned and skin care provided.
+
+SOC: No contact from family overnight. Plan for family meeting ?today or tomorrow.
+
+Plan: Continue full support. Follow neuro exam. follow up c MRI results. ? family meeting.
+",,
+14486,15141,18007,0,2857-03-06 12:19:00 EST,2857-03-06 12:22:00 EST,3454,"N",53,"Nursing/Other",,"
+
+SOCIAL WORK NOTE:
+Family and team interested in meeting tomorrow to readdress pt's condition and plan of care.  This SW will be out of hospital tomorrow.  Coverage available via my pager during today tomorrow.  Pager [**Pager number 117**].
+",,
+14486,15141,18007,0,2857-03-06 17:14:00 EST,2857-03-06 17:35:00 EST,-1,"N",53,"Nursing/Other","T/SICU RN Progress Note","
+T/SICU RN Progress Note
+Neuro:  Remains unchanged, no response to any stimuli.  Pupils 3-4mm equal and NR, no gag, occasional cough.  Vent drain remains at 5 above tragus.  ICP's [**5-17**].  Dilantin IV Q8hrs.
+
+CV:  HR 70's NSR no ectopy noted.  SBP 120's-150's.  P-boots on and SQ Heparin BID.
+
+Resp:  Remains intubated no vent changes today.  Resp pattern still irregular, tube rotated.  Suctioned for small yellow thick secretions.  Sats remain 100%.
+
+GU/GI:  Foley clear yellow QS, Abd soft distended +hypoactive bowel sounds.  TF remain at goal.  Small liquid mucous stool.  Duc. PR given awaiting results.
+
+Endo:  Remains on bid doses of NPH and RISS.
+
+ID:  Afebrile remains on genta, ceftaz, vanco IV and genta intra-theical dose by n-[**Doctor First Name **] nightly.
+
+Code Status:  Spoke on phone with son and wife patient made a DNR today by Dr. [**Last Name (STitle) 209**] per family's request.
+
+Social:  Spoke by phone with son and wife, set up family meeting for tomorrow am at 930, made DNR via phone per request of family.  Family requesting priest to give last rights priest up at 4pm and sacrament given.
+
+Plan:  Cont to monitor neuro, hemodynamics, resp status, plan for family meeting in am to discuss plan.  Cont to monitor, support patient and family, and follow plan of care. 
+",,
+14486,15141,18007,0,2857-03-07 05:46:00 EST,2857-03-07 05:57:00 EST,3438,"N",53,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S:
+O: neuro: opens eyes with noxious stimulation or turning. Does not focus. +weak cough, - gag, +corneal on R, - on left.  Slight head rotation, otherwise no other movement. Ventriculostomy open, leveled at 5 at the tragus, intrathecal gent given by neurosurgery.  CSF has cleared visually from last week. Remains on dilantin, but level low.
+CVS: heart rate stable.  Continues on antihypertensives with good bp control.
+RESP: has jerky, hiccough type respiratory motions.  Pressure support increased to 18cm and peep to 7.5 with visual increase in pt. compfort. Thick sputum.
+RENAL: bun 66, cr 1.3, urine output adequate. 
+GI: tolerating tube feedings at goal of fs impact with ficer @ 75cc/hr.  Incontinent of thick mucoid stool X 3.  Belly slightly distended.
+ENDO: bid nph plus sliding scale insulin given 
+ID: wbc down to 10, afebrile.  On vanco, gent, meropenum, and ceftazadine.  + csf culture for enterobacter but csf from [**2857-3-6**] no growth to date, no bacteria just leukocytes noted.
+skin:  thrush in mouth, otherwise intact.
+Heme: hct down to 27.5
+A: impaired neuro status s/p intercranial  bleed.
+P: family meeting today to discuss status, ??withdrawal of care. Continue current treatment plan for now.
+",,
+14486,15141,18007,0,2857-03-07 13:53:00 EST,2857-03-07 13:58:00 EST,-1,"N",53,"Nursing/Other","T/SICU RN Progress Note","
+T/SICU RN Progress Note
+Family Meeting is am at 915 with Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 209**].  Family told of very poor prognosis.  Family agreed together that Mr. [**Known patient lastname **] would never want to be in nursing home or dependent on anything or anyone.  Family made decision to make him comfort measures only.  Family in to see patient prior to extubation and starting morphine gtt.  Family then when home and asked to be called when patient passes away.
+
+Neuro: Remains unresponsive on MSO4 gtt titrated to comfort level.
+
+CV:  HR NSR no ectopy, ABP systolic 120-140's
+
+Resp:  Extubated with irregular breathing patterns Sats 88-93%.
+
+GU/GI:  TF stopped, NGT d/c'd, foley draing clear yellow urine.
+
+Plan:  Cont to provide comfort measures to patient with MSO4 gtt titrated as needed.  Offer support to family as needed.  
+",,
+14486,15141,18007,0,2857-03-07 15:29:00 EST,2857-03-07 15:30:00 EST,3672,"N",53,"Nursing/Other","Respiratory note:","
+Respiratory note:
+Given pt's prognosis he was extubated and changed to CMO status.
+",,
+14486,15141,18007,0,2857-03-07 17:28:00 EST,2857-03-07 17:29:00 EST,3826,"N",53,"Nursing/Other",,"
+
+Pt expired at 5:25pm. See carevue. Pt's sons [**Name (NI) **] & [**Name2 (NI) **] notified.
+",,

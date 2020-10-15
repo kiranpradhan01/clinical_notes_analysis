@@ -1,0 +1,1206 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14315,19715,,,2903-11-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2903-11-5**]              Discharge Date:   [**2903-11-14**]
+ 
+Date of Birth:  [**2855-9-23**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Haldol
+ 
+Attending:[**First Name3 (LF) 1397**] 
+Chief Complaint:
+DKA, intubation for seizure
+ 
+Major Surgical or Invasive Procedure:
+EGD
+ 
+History of Present Illness:
+48yo M with history of cirrhosis presumed alcoholic, diabetes 
+and schizophrenia who was transferred from Caritas [**Hospital3 **] 
+for DKA with severe acidosis and intubated post seizure. History 
+is extremely limited as patient was transported by Medflight 
+without accompanying family members. According to wife on a 
+later conversation, she called EMS because he was tachypneic, 
+lethargic and delirious. She did not recall any abdominal 
+pain/chest pain.  
+.  
+Patient presented to Caritas [**Hospital3 **] with several weeks of 
+nausea and vomiting (vomiting blood for couple of days), 
+abdominal pain and shortness of breath. He was reportedly 
+transported to the hospital by EMS. On arrival, he complained of 
+[**8-5**] abdominal pain, lethargic but cooperative and answering 
+questions. On arrival: BP 132/77 P 132 R 40 T 96.7 O2 98% RA.  
+He was found to be in DKA. Patient then noted to have seizure 
+and was intubated, followed by coffee gound emesis. Patient was 
+profoundly acidotic with positive acetone. His initial ABG was 
+6.8/24/470 then 6.91/31/548 with AG 26. He also had increased 
+creatinine 1.8 and increased WBC 15.8 with 6% bands with left 
+shift. Patient recieved: unasyn, 1amp HCO3, insulin gtt, 
+humiulin reg IV 5u. He also recieved protonix for coffee ground 
+ememsis and vit K 5mg for high INR. He also had a negative tox 
+screen (urine and serum) and negative cardiac enzymes.  
+
+ 
+Past Medical History:
+chronic schizophrenia  
+EtOH cirrhosis x 10 years, alcoholic for 25 years in and out 
+detox  
+DM type 1??  
+UGIB 4 years ago requiring MICU admission and cauterized  
+Depression  
+hypothyroid  
+ 
+Social History:
+neg smoking, drinks etoh excessively x 25 years, married with 2 
+children. 
+ 
+Family History:
+father alcoholic, mother CAD passed at 66, h/o rheimatic fever 
+ 
+Physical Exam:
+99.8 140/82 84 RR 24 95% RA  
+FS 280, 260, 228, 113, 259, 188, 167  
+HEENT- anicteric, oral mucosa dry, neck supple  
+CV- tachycardic, no r/m/g  
+resp- CTAB from anterior exam  
+abdomen- soft, nt/nd +bs  
+extremities- no edema  
+skin- no rash  
+
+ 
+Pertinent Results:
+[**2903-11-14**] 05:05AM BLOOD WBC-2.6* RBC-2.72* Hgb-9.2* Hct-25.1* 
+MCV-92 MCH-33.9* MCHC-36.8* RDW-16.8* Plt Ct-88*
+[**2903-11-12**] 06:05AM BLOOD WBC-2.9* RBC-2.93* Hgb-9.9* Hct-27.1* 
+MCV-93 MCH-33.9* MCHC-36.6* RDW-16.3* Plt Ct-86*
+[**2903-11-11**] 06:00AM BLOOD WBC-2.9* RBC-2.80* Hgb-9.4* Hct-25.5* 
+MCV-91 MCH-33.6* MCHC-37.0* RDW-15.9* Plt Ct-93*
+[**2903-11-10**] 06:43AM BLOOD WBC-2.7* RBC-2.97* Hgb-10.0* Hct-27.5* 
+MCV-93 MCH-33.8* MCHC-36.5* RDW-15.4 Plt Ct-85*
+[**2903-11-9**] 06:00AM BLOOD WBC-3.3* RBC-2.93* Hgb-9.8* Hct-26.8* 
+MCV-91 MCH-33.3* MCHC-36.4* RDW-15.2 Plt Ct-83*
+[**2903-11-8**] 04:32AM BLOOD WBC-3.3* RBC-3.13* Hgb-10.5* Hct-27.8* 
+MCV-89 MCH-33.7* MCHC-37.9* RDW-15.2 Plt Ct-77*
+[**2903-11-7**] 08:50PM BLOOD WBC-4.0# RBC-3.20* Hgb-10.7* Hct-28.3* 
+MCV-89 MCH-33.3* MCHC-37.6* RDW-15.2 Plt Ct-86*
+[**2903-11-6**] 01:06AM BLOOD WBC-2.7* RBC-3.15* Hgb-10.4* Hct-27.8* 
+MCV-88 MCH-33.1* MCHC-37.5* RDW-15.1 Plt Ct-50*
+[**2903-11-5**] 07:29PM BLOOD WBC-4.6 RBC-3.37* Hgb-11.6* Hct-30.0* 
+MCV-89 MCH-34.4* MCHC-38.7* RDW-14.8 Plt Ct-73*
+[**2903-11-5**] 03:50PM BLOOD WBC-7.3 RBC-4.15* Hgb-13.8* Hct-37.1* 
+MCV-89 MCH-33.2* MCHC-37.1* RDW-14.8 Plt Ct-111*
+[**2903-11-5**] 03:50PM BLOOD Neuts-84.1* Lymphs-9.9* Monos-5.8 Eos-0.1 
+Baso-0.2
+[**2903-11-14**] 05:05AM BLOOD Plt Ct-88*
+[**2903-11-11**] 06:00AM BLOOD Plt Ct-93*
+[**2903-11-9**] 06:00AM BLOOD Plt Ct-83*
+[**2903-11-7**] 04:59AM BLOOD Plt Ct-53*
+[**2903-11-6**] 01:06AM BLOOD Plt Ct-50*
+[**2903-11-5**] 03:50PM BLOOD Plt Ct-111*
+[**2903-11-5**] 03:50PM BLOOD PT-16.2* PTT-32.0 INR(PT)-1.8
+[**2903-11-12**] 06:05AM BLOOD PT-14.3* PTT-28.3 INR(PT)-1.4
+[**2903-11-14**] 05:05AM BLOOD Glucose-136* UreaN-3* Creat-0.8 Na-142 
+K-3.2* Cl-107 HCO3-28 AnGap-10
+[**2903-11-12**] 06:05AM BLOOD Glucose-165* UreaN-4* Creat-0.8 Na-140 
+K-3.8 Cl-107 HCO3-24 AnGap-13
+[**2903-11-9**] 09:21PM BLOOD Glucose-245* UreaN-7 Creat-0.7 Na-144 
+K-3.7 Cl-109* HCO3-24 AnGap-15
+[**2903-11-6**] 11:07AM BLOOD Glucose-122* UreaN-6 Creat-0.8 Na-149* 
+K-3.5 Cl-122* HCO3-20* AnGap-11
+[**2903-11-5**] 03:50PM BLOOD Glucose-433* UreaN-15 Creat-1.3* Na-142 
+K-3.1* Cl-107 HCO3-LESS THAN 
+[**2903-11-12**] 06:05AM BLOOD ALT-9 AST-21 LD(LDH)-227 AlkPhos-83 
+TotBili-2.3*
+[**2903-11-6**] 05:02AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2903-11-5**] 09:06PM BLOOD cTropnT-<0.01
+[**2903-11-5**] 07:29PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2903-11-12**] 06:05AM BLOOD Albumin-3.0* Calcium-8.5 Phos-3.1 Mg-1.5*
+[**2903-11-12**] 06:05AM BLOOD Hapto-49
+[**2903-11-9**] 11:10AM BLOOD calTIBC-146* Ferritn-466* TRF-112*
+[**2903-11-5**] 07:29PM BLOOD TSH-0.35
+[**2903-11-9**] 06:00AM BLOOD T4-5.1
+
+CT head [**11-5**]: IMPRESSION:
+1. No intracranial hemorrhage or mass effect.
+2. No fractures identified.
+
+EEG [**11-6**]: IMPRESSION: This is a markedly abnormal routine EEG 
+due to the presence of very low voltage and slow background with 
+bursts of generalized slowing in the delta frequency range. This 
+finding suggests a deep, midline subcortical dysfunction and are 
+consistent with a severe 
+encephalopathy. Medication, metabolic disturbance, and infection 
+are 
+among the most common causes. There were no epileptiform 
+discharges 
+seen. Sinus tachycardia was noted. 
+
+CT [**11-8**]: IMPRESSION:
+1. Findings consistent with hepatic cirrhosis and portal 
+hypertension with splenomegaly, ascites, and recanalization of 
+the umbilical vein.
+2. Distended gallbladder containing gallstones. This could be 
+further evaluated with right upper quadrant ultrasound.
+3. Bilateral pleural effusions and bibasilar atelectasis.
+4. Trace abdominal ascites.
+5. Tiny, rounded, hypodense lesion within the lower pole of the 
+left kidney is too small to accurately characterize.
+
+ 
+Brief Hospital Course:
+DKA - In the ICU, he was extubated and DKA was treated with an 
+insulin drip and IVF.  His anion gap was monitored and closed 
+with the insulin treatments.  The electrolytes were closely 
+monitored and repleted as needed.  [**Hospital 720**] clinic was consulted 
+for better glucose control, which was achieved with Lantus and 
+an insulin sliding scale after the insulin drip was 
+discontinued.  K was monitored and repleted on the day of 
+discharge.
+.
+Seizure-type acitivity - Neuro was consulted for shaking 
+activity at presentation and thought that it was likely 
+secondary to hyperglycemia or etoh withdrawal. An eeg was neg 
+for epileptiform activity and c/w metabolic encephalopathy.  No 
+meds necessary.
+.
+Emesis - pt experience coffee-ground emesis during his stay.  GI 
+was consulted and he had an egd on [**11-6**], which was negative for 
+any obvious inciting etiology, showing esophagitis and mild 
+varices.  He was continued on protonix and his HCT was 
+monitored.  The HCT trended down slowly and iron studies were 
+ordered.  These were consistent with anemia of chronic disease, 
+HCT was stable at 27.  There was no evidence of active bleeding. 
+ This will need to be monitored as outpatient.  Platelets 
+trended down to 80's after starting protonix and this was 
+switched to ranitidine and considered a possible cause of the 
+thrombocytopenia.  The decrease in platelets did not correlate 
+with a heparin induced mechanism, althoug heparin was held 
+following this.  Plts were stable over the last several days of 
+admission in 80s, without any evidence of bleeding.  CBC will 
+need to be followed-up and measured after discontinuation of 
+caspofungin to make sure they are stable.
+.
+Peripheral blood cultures from [**11-5**] grew out [**Female First Name (un) 929**] in 1/8 
+bottles.  Pt was started on IV caspofungin on [**2903-11-7**] and 
+planned to complete a 2 week course.  Pt had an abdominal/pelvic 
+CT to investigate for sources, however no sources of infection 
+were found.  Pt's portal hypertension and cirrhosis in 
+combination with the diabetes were considered the resposible 
+risk factors.  Opthalmology saw the patient and there was no 
+ocular evidence of fungemia.  
+.  
+Cirrhosis - unknown etiology, but presumed to be [**2-28**] etoh. 
+- LFTS were within normal limits.  Total Bili trended up 
+slightly, but his HCT remained stable and there was no evidence 
+of hemolysis.  This likely represents a metabolic insult from 
+DKA, fungemia.  It can be followed-up as outpatient.  Patient 
+did not have any RUQ pain or tenderness.  If he develops any, 
+cholecystitis can be considered given the findings of gall 
+stones on the U/S.
+.
+Hypothyroidism - this hx was vague and did not correlate with a 
+TSH of 0.35, free T4 was checked and found to be 5.1(wnl). No 
+medications indicated at current time.  
+.  
+Schizophrenia/Depression - psychiatry was consulted to evalute.  
+Pt was restarted on risperidone at 1mg qHS, and will need to 
+titrate back up to 6mg PO qHS by 1mg daily.  Seroquel was 
+continued at outpient doses.
+Patient was not restarted on Zoloft given his report that he had 
+discontinued this medication for a month, and there was no clear 
+benefit reported.  This can be discussed with outpatient 
+psychiatrist to determine if it should be restarted.
+.  
+Acccess - PICC line placed before discharge on [**11-12**] for 
+completion of IV antibiotics for 6 additional days.
+ 
+Discharge Medications:
+1. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Quetiapine 100 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)).  
+3. Caspofungin 50 mg Recon Soln Sig: One (1) Recon Soln 
+Intravenous  Q24H (every 24 hours) for 6 days.  
+4. Risperidone 1 mg Tablet Sig: Three (3) Tablet PO HS (at 
+bedtime): increase by 1mg daily until back to usual dose of 6mg 
+qHS.  
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.  
+6. Cepacol Sore Throat 3 mg Lozenge Sig: [**1-28**] lozenges Mucous 
+membrane  prn as needed for sore throat.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Primary: Diabetic Ketoacidosis
+Candidemia
+Respiratory failure
+Metabolic encephalopathy
+Secondary: Diabetes type II
+Schizophrenia
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Please follow-up with your primary care physician as scheduled.  
+Take your medications as prescribed.  Please call or report to 
+the closest hospital if [**Doctor First Name **] develop fever, chills, nausea, 
+vomiting, or any other concerning symptoms.  Take your insulin 
+as prescribed and check your blood sugars frequently.  Please 
+discuss with your psychiatrist about restarting the Zoloft.
+ 
+Followup Instructions:
+Dr. [**Last Name (STitle) 10452**]: Monday [**11-26**] 3:00 PM, tel# ([**Telephone/Fax (1) 10453**])
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1408**] MD [**MD Number 1409**]
+ 
+Completed by: [**Name6 (MD) 3966**] [**Name8 (MD) 3967**] MD [**MD Number 3968**] [**2903-11-14**] @ 1546
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: FRI [**2904-1-4**] 7:17 PM
+(End of Report)
+
+
+",,
+14315,19715,,,2903-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-5**] 6:27 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8462**]
+     Reason: Please evaluate for SDH or ICH                              
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with cirrhosis and DKA, s/p seizure                             
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for SDH or ICH                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp MON [**2903-11-5**] 6:58 PM
+      no intracranial hemorrhage or mass effect. air fluid levels in maxillary and
+      left sphenoid sinuses without fractures.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cirrhosis, diabetic ketoacidosis, status post seizure.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     HEAD CT WITHOUT IV CONTRAST:  There is no intra or extra-axial hemorrhage,
+     mass effect, or shift of midline structures.  Differentiation of the [**Doctor Last Name 63**] and
+     white matter is preserved.  The ventricles and basal cisterns are
+     unremarkable, and there is no evidence of hydrocephalus. Air- fluid levels are
+     demonstrated within both maxillary sinuses and left sphenoid sinus, with mild
+     mucosal thickening seen involving the ethmoid air cells and right maxillary
+     sinus. The patient is intubated. The mastoid air cells are well aerated.  No
+     fractures are identified. Surrounding soft tissue structures are unremarkable.
+     There is deviation of the nasal septum towards the left.
+     
+     IMPRESSION:
+     1.  No intracranial hemorrhage or mass effect.
+     2.  No fractures identified.
+     
+                                                                           DFDdp
+
+",,
+14315,19715,,,2903-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-5**] 6:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8463**]
+     Reason: line placement                                              
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with DKA and seizure, s/p central IJ access                     
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of DK and seizure, status post central IJ access.
+     
+     COMPARISON:  None.
+     
+     PORTABLE AP SUPINE RADIOGRAPH:  A right IJ central venous catheter is seen,
+     with the tip positioned within the right atrium, and should be withdrawn by 4
+     cm. An NG tube is seen, with the tip positioned within the stomach.  An ET
+     tube is seen, with the tip positioned approximately 4 cm above the carina.
+     There is a poor inspiratory effort, but the pulmonary vasculature appears
+     normal. No pleural effusions are seen.  The cardiac and mediastinal contours
+     are within normal limits.  The osseous structures are normal.
+     
+     IMPRESSION:  Right IJ catheter, with the tip positioned within the right
+     atrium, which should be withdrawn by 4 cm.  No pneumothorax is seen.  ET tube
+     and NG tube as described above.  Covering resident was paged with these
+     results at 10:15 PM on 10/10/5.
+
+",,
+14315,19715,17791,,2903-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-6**] 9:22 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 8464**]
+     Reason: pls evaluate for ascites and mark appropriate spot for parac
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with cirrhosis presents with DKA                                
+     REASON FOR THIS EXAMINATION:
+      pls evaluate for ascites and mark appropriate spot for paracentesis entry       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND OF ABDOMEN
+     
+     INDICATION:  To evaluate for ascites and to mark spot.
+     
+     TECHNIQUE:  Grayscale imaging of four quadrants was performed to evaluate for
+     ascites.
+     
+     REPORT:
+     There is only a minute amount of ascites present, unsuitable for bedside or
+     ultrasound-guided paracentesis.  Incidental note of splenomegaly and coarsened
+     liver is made.
+     
+     CONCLUSION:
+     Trace ascites only.
+                                                                           
+
+",,
+14315,19715,17791,,2903-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-6**] 2:41 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8465**]
+     Reason: NG tube placement                                           
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       48 year old man with DKA and seizure, s/p central IJ access                    
+       
+     REASON FOR THIS EXAMINATION:
+      NG tube placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  NG tube placement.
+     
+     COMPARISON:  [**2903-11-5**].
+     
+     Tip of the endotracheal tube remains in adequate position 4.3 cm above the
+     carina.  Tip of the right IJ line is in the right atrium and could be pulled
+     back approximately 4.6 cm.  Tip of the NG tube is in the stomach although the
+     proximal port is above the GE junction.  This could be advanced approximately
+     5 cm.  The lungs are clear.
+     
+     IMPRESSION:  Tubes and lines as described above.
+                                                                           
+
+",,
+14315,19715,17791,0,2903-11-06 04:16:00 EST,2903-11-06 04:18:00 EST,7439,"N",69,"Nursing/Other",,"
+
+Resp Care
+Pt from ER transferred from OSH in DKA. Pt intubated on A/C. Pt FIO2 dropped from 100 to 40%. No other changes made.
+",,
+14315,19715,17791,0,2903-11-06 04:21:00 EST,2903-11-06 04:50:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT ADMITED TO MICU AT 1915 FROM EW. PT PRESENTED TO OSH FROM HOME C/O N/V ABD PAIN, LETHARGIC. PT HAS PMH IDDM, GIB, SCHOZOPHRENIA, ETOH, CIRRHOSIS. ALLERGY TO HALDOL. AT OSH BS GREATER THAN 500, DKA. PT INTUBATED POST SEIZURE, FOLLOWED BY COFFEE GROUND EMISIS. IN OSH NEG TOX SCREEN. PT STARTED ON INSULIN GTT, GIVEN BICARB AND TRANSFERED TO [**Hospital1 10**] EW. HEAD CT DONE AT [**Hospital1 **], NEGATIVE. PT TRANSFERED TO MICU. 
+
+NEURO: PT RECEIVED ON PROPOFOL GTT. CHANGED TO FENTANYL AND VERSED GTT. FENTANYL 75MCG/HR AND VERSED 3MG/HR. GTT DECREASED FOR SHORT PERIOD OF TIME FOR NEURO CONSULT EXAM. PT BECAME AGITATED, WAS ABLE TO FINISHED EXAM. WHEN LIGHTENED, ALERT, NOT FOLLOWING COMMANDS, PURPOSFUL MVTS IN ALL EXTREMITIES, PT SITTING UP IN BED. NO SEIZURE ACTIVITY. 
+
+RESP: PT INTUBATED, ONLY CHANGES MADE DECREASE IN FIO2 TO 40%. RR 14-24. O2 SATS 100%. LS CLEAR. PT SUCTIONED FOR THICK SECREATIONS, BROWN, W/ COFFEE GROUND APPEARENCE. 
+
+CV: HR 90-120'S ST. EKG DONE. SBP 100-130'S. AFEBRILE. BCX2 SENT. VIT. K GIVEN FOR INR 1.7. LAST HCT 27 FROM ADMIT 37. 3 UNITS PRBC'S ON HOLD IN BLOOD BANK. ? DILUTIONAL. PT RECEIVED 4L NS, 1L D5W W/ 150MEQ BICARB. IN ADDITIOIN TO ALL MEDS AND REPLEATIONS, PT IS POS 7L. PLEASE SEE CARVUE FOR LAB DATA. PT CA+, MAG, +K+, AND PHOS HAVE BEEN REPLEATED THROUGHT OUT NIGHT. LAST LABS SENT AT 0515 PENDING. PLATELET COUNT DECREASED TO 50 FROM ADMIT 110. 1 BAG PLATELETS GIVEN. NO HEPARIN PRODUCTS GIVEN. 
+
+GI/GU: ABD SOFT/DISTENDED, +BS, NO BM. RECTAL EXAM DONE BY GI, GUIAC NEG. OGT LAVAGED NOT ABLE TO CLEAR COFFEE GROUNDS. NO EVIDENCE OF ACTUTE BLEED. OGT CLAMPED. FOLEY INTACT DRAINING CLEAR YELLOW URINE. 
+
+ENDO: PT RECEIVED ON 5U/HR INSULIN GTT . PT CURRENTLY ON 11.5 U/HR W/ LAST BS 124. BICARB AS LOW AS 7, LAST 16. 
+
+ACCESS: PT HAS 2 PIV, RIGHT IJ TLC. 
+
+DISPO: PLAN IS FOR EGD TODAY, NEURO CONSULTING, CONT. FREQUENT LAB DRAWS, LYTE REPLEATION, MONITOR HCT. WILL TRANSFUSE LESS THAN 27. MONITOR MS, WATCH FOR S/S WITHDRAWL. TEAM SPOKE WITH PT'S WIFE OVER PHONE. NO OTHER CONTACT FROM FAMILY. PT IS A FULL CODE. 
+
+ 
+",,
+14315,19715,17791,0,2903-11-06 15:19:00 EST,2903-11-06 15:53:00 EST,2393,"N",69,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+
+Neuro: Pt sedated on fentanyl 125 mcg/ hr and versed 3 mg/ hr drips. Does awaken at times and is very agitated, and responds well to 50mcg bolus of fentanyl. MAE on the bed, but does not follow commands. PERL @2mm. EEG this afternoon. 
+
+Resp: Intubated, AC 650/12/40% and PEEP of 5.  RR 12-high teens.  LS clear, brown sxn.  
+
+CV: HR 90s-120s, ST, no ectopy.  BP 1teens/ 50s-60s.  Total of 320 meq of potasium given since admission last evening given to replete losses, which is currently @ 3.5.  HCT currently @ 29, down from 37.  Phosphate also given for the critical 0.29 that he was @ earlier.  PLTs in the 80s, after pt received a unit last night. 
+
+GI/GU: Pt had EGD earlier,  grade 1 esophageal varices detected, but not bleeding.  Abdomen soft/ distended, BS positive, no BM.  OGT clamped, coffee ground emesis indicates GI bleed.  Foley patent with yellow, clear urine output over 100 cc/hr.  Abdominal ultrasound this afternoon, negative for ascites.  
+
+Endo: Insulin drip set @ 9 u/hr.  Blood sugars stable. Adjusted according to [**Last Name (un) 211**] protocol. 
+
+Access: 2 PIV, right IJ TLC. 
+
+Skin: Intact.
+
+ID: Unasyn. Spiked temp to 101.5 at 1400. Dr [**Last Name (STitle) 5955**] aware. 
+
+Dispo Full code.
+
+Social: Wife has been updated by RN twice today.
+
+
+PLan: continue repleting lytes, lab draws Q 2 hrs, watch for withdrawal from ETOH.  Resume antipsychotic medications, begin weaning off ventilator.  Plan for extubation in am.
+",,
+14315,19715,17791,0,2903-11-06 17:36:00 EST,2903-11-06 17:37:00 EST,2393,"N",69,"Nursing/Other","addendum","
+addendum
+
+Pt will be transitioned off insulin gtt tonite. Will be given 30 units Lantus and then wean insulin gtt off.
+
+
+",,
+14315,19715,17791,0,2903-11-06 17:48:00 EST,2903-11-06 17:50:00 EST,2235,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ 7.5 ORAL ETT IN PLACE.
+REMAINS ON AC MODE AS PER CV. ABG C/W A PART.
+COMP. METABOLIC ACIDOSIS AND STABLE OXYGENATION.
+SX FOR BROWN SPUTUM. C/W AC MODE WHILE DKA BEING
+TX'D.
+",,
+14315,19715,17791,,2903-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-7**] 2:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8466**]
+     Reason: CHF?                                                        
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ______________________________________________________________________________
+     CLINICAL INFORMATION & QUESTIONS TO BE ANSWERED:
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST.
+     
+     HISTORY:  Increasing O2 requirement.
+     
+     COMPARISON:  [**2903-11-6**].
+     
+     Since the prior study, the patient has been extubated.  Tip of the right IJ
+     line is in the distal SVC.  The patient is rotated to the right.  There has
+     been interval development of bilateral pleural effusions.  There has also been
+     interval development of left lower lobe opacity consistent with atelectasis or
+     infiltrate.  The lung volumes are decreased.
+     
+     IMPRESSION:  New bilateral pleural effusions.  Left lower lobe opacity
+     consistent with atelectasis or infiltrate.  There is right lower lobe volume
+     loss as well.
+                                                                           
+
+",,
+14315,19715,17791,,2903-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14315,19715,17791,0,2903-11-07 05:29:00 EST,2903-11-07 05:32:00 EST,2827,"N",69,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt remains intubated and fully ventilated on AC settings.  No vent changes made during the noc.  RSBI completed on PS 5=25.  BLBS are coarse and diminished in the bases.  Sxn for moderated to large amount thin tan secretions.
+
+                               [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT
+",,
+14315,19715,17791,0,2903-11-07 05:57:00 EST,2903-11-07 06:03:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+NEURO: PT SEDATED ON FENTANYL 100MCG/HR AND VERSED 3MG/HR. PT AT TIMES SITTING UP, OPEING EYES TO PAIN STIMULI. PT RESPONSE WELL TO BOLUSES FOR 50 FENT AND 2 VERSED. PT STARTED ON PSCHY MEDS LAST NIGHT. NO SEIZURE ACTIVITY. 
+
+RESP: NO CHANGES MADE TO VENT. SATS 100%. PT SUCTIONED FOR SMALL AMT THICK BROWN SPUTUM. 
+
+CV: HR 70-100 NSR. SBP 90-130'S. PT AFEBRILE. IVF CHANGED TO LR AT 100CC/HR. PLEASE SEE CARVUE FOR LAB DATA. PT'S K+, MAG, CA+ AND PHOS REPLEATED MULTIPLE TIMES OVERNIGHT. 
+
+GI/GU: ABD SOFT/DISTENDED, +BS, NO BM. PT REMAINS NPO. OGT BILIOUS, W/ SOME RESIDUAL COFFEE GROUNDS. FOLEY INTACT DRAINING AMBER CLEAR URINE. 
+
+ENDO: PT GIVEN 30 UNITS LANTUS AT 2200. INSULIN GTT OFF AT 2400 W/ BS 74. AM BS AT 0600 280 COVERED W/ RISS. 
+
+ACCESS: PT HAS TLC IN RIJ, ONE PIV. 2ND PIV D/C'D. 
+
+DISPO: PLAN TO CONT TO MONITOR LYTES, BS. PT'S WIFE CALLED FOR UPDATE. PT IS A FULL CODE. 
+",,
+14315,19715,17791,0,2903-11-07 15:39:00 EST,2903-11-07 15:56:00 EST,2070,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt received intubated and vented on settings as per resp flowsheet. RSBI 25 this morning, so Pt placed on SBT. Did well and after 1 1/2hrs, pt extubated. pt was sxn for thick tan secretions prior to extubation. Episode of decreased sats, placed on nonrebreather with sats now 100%. NTS x1 for tannish secretions. Follow closely for ability to clear secretions.
+",,
+14315,19715,17791,0,2903-11-07 15:55:00 EST,2903-11-07 16:14:00 EST,2393,"N",69,"Nursing/Other","npn 7-7pm","
+npn 7-7pm
+
+Pt was extubated at 1130 am. + cuff leak. Was placed on open face mask at 40% and needed to be increased to 70%. At 2 pm he became tachycardic to 130, tachypneic to 30's, and sats dropped to 88%. Was placed on 100% NRB, abg, CXR, 10mg IV lasix. Respiratory status did improve. 
+
+neuro: Lethargic, difficult to understand speech. Is not oriented. MAE, does not follow commands. Bilateral soft wrist restraints in place for the safety of patient and staff. If pt does become agitated ativan is ordered. Pt is allergic to haldol. Safety sitter ordered for the night shift.
+
+resp: 100% NRB with sats of 100%. LS coarse.
+
+cv: ST 110-120, BP stable. 
+
+access: TLC dc'd and tip sent. 2 piv.
+
+gi/gu: Belly is soft. distended and hypoactive BS. Patent foley with large u/o today.
+
+id: Tmax 102.2. BC from yesterday showed budding yeast. Pt seen by ID and started on caspofungin.
+
+skin:Intact.
+
+endo: Insulin gtt was resumed this afternoon for a BS of 322 and previous of 288. Currently at 8mg/h.
+
+social: RN updated wife several times today.
+
+dispo: Full code.
+
+Plan: Monitor respiratory status. Insulin gtt, caspofungin load tonite and start with 50mg IV tommorrow.
+",,
+14315,19715,17791,0,2903-11-07 17:09:00 EST,2903-11-07 17:12:00 EST,2393,"N",69,"Nursing/Other","npn addendum","
+npn addendum
+
+Please give Lantus 34 units [**Last Name (LF) **], [**First Name8 (NamePattern2) 17**] [**Last Name (un) 211**] recs.
+
+Pt had an opthamology consult this evening b/c of fungemia. No fungus noted. They will return tommorrow to check ocular movements and vision. Eyes were dilated (6mm) and will be that way until 2400. If not normal by the morning please make opthamology team aware. 
+",,
+14315,19715,17791,,2903-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-8**] 11:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8468**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please eval for ?source of fungemia                         
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with DKA and fungemia                                           
+     REASON FOR THIS EXAMINATION:
+      please eval for ?source of fungemia                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diabetic ketoacidosis and fungemia, evaluate for source of
+     fungemia.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubis
+     symphysis following the administration of 150 cc of intravenous Optiray.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There are moderate bilateral
+     pleural effusions, right greater than left, and adjacent atelectasis within
+     the lower lobes bilaterally. The visualized portion of the heart and
+     pericardium appear unremarkable.
+     
+     The liver contour is diffusely nodular consistent with cirrhosis.  No definite
+     focal intrahepatic lesions are identified.  Note is made of recanalization of
+     the umbilical vein, which is distended, and measures up to 1.5 cm in diameter.
+     There is splenomegaly.  The gallbladder is distended and contains multiple
+     calcified gallstones.  There is no pericholecystic fluid collection or
+     gallbladder wall thickening. The common bile duct is nondilated.
+     
+     There are multiple punctate calcifications within the pancreatic head.  The
+     pancreas appears somewhat atrophic.  The portal vein is patent.  The adrenal
+     glands appear unremarkable. There are symmetric nephrograms bilaterally.
+     Rounded, hypodense lesion is seen within the lower pole of the left kidney,
+     too small to accurately characterize. There is no hydronephrosis.  The ureters
+     are nondilated.  The aorta is normal in caliber with mural calcifications
+     consistent with atheromatous disease. There are multiple subcentimeter
+     mesenteric and retroperitoneal lymph nodes, which do not individually meet
+     criteria for pathologic enlargement.  A trace amount of abdominal ascites is
+     present.  The large and small bowel loops are normal in caliber, and there is
+     no definite abnormal bowel wall thickening.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  A Foley catheter is in place
+     within the bladder, and there are multiple foci of gas, likely trapped within
+     bladder trabeculae as the bladder is decompressed.  The prostate and seminal
+     vesicles, rectum and sigmoid colon appear unremarkable.  There is a small
+                                                                 (Over)
+
+     DATE: [**2903-11-8**] 11:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8468**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please eval for ?source of fungemia                         
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     amount of ascites layering within the pelvis.  Prominent varices from the
+     recanalized umbilical vein are seen to the level of the right common femoral
+     vein.  There is no pathologic appearing pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Bone windows demonstrate no evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     IMPRESSION:
+     
+     1.  Findings consistent with hepatic cirrhosis and portal hypertension with
+     splenomegaly, ascites, and recanalization of the umbilical vein.
+     
+     2.  Distended gallbladder containing gallstones.  This could be further
+     evaluated with right upper quadrant ultrasound.
+     
+     3.  Bilateral pleural effusions and bibasilar atelectasis.
+     
+     4.  Trace abdominal ascites.
+     
+     5.  Tiny, rounded, hypodense lesion within the lower pole of the left kidney
+     is too small to accurately characterize.
+     
+
+",,
+14315,19715,17791,,2903-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-8**] 8:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8467**]
+     Reason: eval for interval change                                    
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         48 year old man with DKA and seizure, increased O2 requirement               
+       
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  DKA and seizure, increased oxygen requirement.
+     
+     STUDY:  Bedside AP chest.
+     
+     COMPARISON:  [**2903-11-7**].
+     
+     FINDINGS:  The lung volumes are low, however, the lung bases appear more clear
+     than on the prior study, suggesting decreased atelectasis.  Mild interstitial
+     prominence suggesting mild pulmonary edema.  Small pleural effusions appear
+     decreased.  Heart size is unchanged.  The spleen appears enlarged.
+     
+     IMPRESSION:  Improvement in lung aeration with clearing of bibasilar
+     opacities.  Likely mild interstitial edema.  Likely splenomegaly.
+
+",,
+14315,19715,17791,,2903-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-8**] 11:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8468**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please eval for ?source of fungemia                         
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with DKA and fungemia                                           
+     REASON FOR THIS EXAMINATION:
+      please eval for ?source of fungemia                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diabetic ketoacidosis and fungemia, evaluate for source of
+     fungemia.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubis
+     symphysis following the administration of 150 cc of intravenous Optiray.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There are moderate bilateral
+     pleural effusions, right greater than left, and adjacent atelectasis within
+     the lower lobes bilaterally. The visualized portion of the heart and
+     pericardium appear unremarkable.
+     
+     The liver contour is diffusely nodular consistent with cirrhosis.  No definite
+     focal intrahepatic lesions are identified.  Note is made of recanalization of
+     the umbilical vein, which is distended, and measures up to 1.5 cm in diameter.
+     There is splenomegaly.  The gallbladder is distended and contains multiple
+     calcified gallstones.  There is no pericholecystic fluid collection or
+     gallbladder wall thickening. The common bile duct is nondilated.
+     
+     There are multiple punctate calcifications within the pancreatic head.  The
+     pancreas appears somewhat atrophic.  The portal vein is patent.  The adrenal
+     glands appear unremarkable. There are symmetric nephrograms bilaterally.
+     Rounded, hypodense lesion is seen within the lower pole of the left kidney,
+     too small to accurately characterize. There is no hydronephrosis.  The ureters
+     are nondilated.  The aorta is normal in caliber with mural calcifications
+     consistent with atheromatous disease. There are multiple subcentimeter
+     mesenteric and retroperitoneal lymph nodes, which do not individually meet
+     criteria for pathologic enlargement.  A trace amount of abdominal ascites is
+     present.  The large and small bowel loops are normal in caliber, and there is
+     no definite abnormal bowel wall thickening.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  A Foley catheter is in place
+     within the bladder, and there are multiple foci of gas, likely trapped within
+     bladder trabeculae as the bladder is decompressed.  The prostate and seminal
+     vesicles, rectum and sigmoid colon appear unremarkable.  There is a small
+                                                                 (Over)
+
+     DATE: [**2903-11-8**] 11:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8468**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please eval for ?source of fungemia                         
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     amount of ascites layering within the pelvis.  Prominent varices from the
+     recanalized umbilical vein are seen to the level of the right common femoral
+     vein.  There is no pathologic appearing pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Bone windows demonstrate no evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     IMPRESSION:
+     
+     1.  Findings consistent with hepatic cirrhosis and portal hypertension with
+     splenomegaly, ascites, and recanalization of the umbilical vein.
+     
+     2.  Distended gallbladder containing gallstones.  This could be further
+     evaluated with right upper quadrant ultrasound.
+     
+     3.  Bilateral pleural effusions and bibasilar atelectasis.
+     
+     4.  Trace abdominal ascites.
+     
+     5.  Tiny, rounded, hypodense lesion within the lower pole of the left kidney
+     is too small to accurately characterize.
+     
+
+",,
+14315,19715,17791,,2903-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-8**] 11:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8468**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please eval for ?source of fungemia                         
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with DKA and fungemia                                           
+     REASON FOR THIS EXAMINATION:
+      please eval for ?source of fungemia                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diabetic ketoacidosis and fungemia, evaluate for source of
+     fungemia.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubis
+     symphysis following the administration of 150 cc of intravenous Optiray.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There are moderate bilateral
+     pleural effusions, right greater than left, and adjacent atelectasis within
+     the lower lobes bilaterally. The visualized portion of the heart and
+     pericardium appear unremarkable.
+     
+     The liver contour is diffusely nodular consistent with cirrhosis.  No definite
+     focal intrahepatic lesions are identified.  Note is made of recanalization of
+     the umbilical vein, which is distended, and measures up to 1.5 cm in diameter.
+     There is splenomegaly.  The gallbladder is distended and contains multiple
+     calcified gallstones.  There is no pericholecystic fluid collection or
+     gallbladder wall thickening. The common bile duct is nondilated.
+     
+     There are multiple punctate calcifications within the pancreatic head.  The
+     pancreas appears somewhat atrophic.  The portal vein is patent.  The adrenal
+     glands appear unremarkable. There are symmetric nephrograms bilaterally.
+     Rounded, hypodense lesion is seen within the lower pole of the left kidney,
+     too small to accurately characterize. There is no hydronephrosis.  The ureters
+     are nondilated.  The aorta is normal in caliber with mural calcifications
+     consistent with atheromatous disease. There are multiple subcentimeter
+     mesenteric and retroperitoneal lymph nodes, which do not individually meet
+     criteria for pathologic enlargement.  A trace amount of abdominal ascites is
+     present.  The large and small bowel loops are normal in caliber, and there is
+     no definite abnormal bowel wall thickening.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  A Foley catheter is in place
+     within the bladder, and there are multiple foci of gas, likely trapped within
+     bladder trabeculae as the bladder is decompressed.  The prostate and seminal
+     vesicles, rectum and sigmoid colon appear unremarkable.  There is a small
+                                                                 (Over)
+
+     DATE: [**2903-11-8**] 11:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8468**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please eval for ?source of fungemia                         
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     amount of ascites layering within the pelvis.  Prominent varices from the
+     recanalized umbilical vein are seen to the level of the right common femoral
+     vein.  There is no pathologic appearing pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Bone windows demonstrate no evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     IMPRESSION:
+     
+     1.  Findings consistent with hepatic cirrhosis and portal hypertension with
+     splenomegaly, ascites, and recanalization of the umbilical vein.
+     
+     2.  Distended gallbladder containing gallstones.  This could be further
+     evaluated with right upper quadrant ultrasound.
+     
+     3.  Bilateral pleural effusions and bibasilar atelectasis.
+     
+     4.  Trace abdominal ascites.
+     
+     5.  Tiny, rounded, hypodense lesion within the lower pole of the left kidney
+     is too small to accurately characterize.
+     
+
+",,
+14315,19715,17791,,2903-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-8**] 11:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8468**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please eval for ?source of fungemia                         
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with DKA and fungemia                                           
+     REASON FOR THIS EXAMINATION:
+      please eval for ?source of fungemia                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diabetic ketoacidosis and fungemia, evaluate for source of
+     fungemia.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubis
+     symphysis following the administration of 150 cc of intravenous Optiray.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There are moderate bilateral
+     pleural effusions, right greater than left, and adjacent atelectasis within
+     the lower lobes bilaterally. The visualized portion of the heart and
+     pericardium appear unremarkable.
+     
+     The liver contour is diffusely nodular consistent with cirrhosis.  No definite
+     focal intrahepatic lesions are identified.  Note is made of recanalization of
+     the umbilical vein, which is distended, and measures up to 1.5 cm in diameter.
+     There is splenomegaly.  The gallbladder is distended and contains multiple
+     calcified gallstones.  There is no pericholecystic fluid collection or
+     gallbladder wall thickening. The common bile duct is nondilated.
+     
+     There are multiple punctate calcifications within the pancreatic head.  The
+     pancreas appears somewhat atrophic.  The portal vein is patent.  The adrenal
+     glands appear unremarkable. There are symmetric nephrograms bilaterally.
+     Rounded, hypodense lesion is seen within the lower pole of the left kidney,
+     too small to accurately characterize. There is no hydronephrosis.  The ureters
+     are nondilated.  The aorta is normal in caliber with mural calcifications
+     consistent with atheromatous disease. There are multiple subcentimeter
+     mesenteric and retroperitoneal lymph nodes, which do not individually meet
+     criteria for pathologic enlargement.  A trace amount of abdominal ascites is
+     present.  The large and small bowel loops are normal in caliber, and there is
+     no definite abnormal bowel wall thickening.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  A Foley catheter is in place
+     within the bladder, and there are multiple foci of gas, likely trapped within
+     bladder trabeculae as the bladder is decompressed.  The prostate and seminal
+     vesicles, rectum and sigmoid colon appear unremarkable.  There is a small
+                                                                 (Over)
+
+     DATE: [**2903-11-8**] 11:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8468**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: please eval for ?source of fungemia                         
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     amount of ascites layering within the pelvis.  Prominent varices from the
+     recanalized umbilical vein are seen to the level of the right common femoral
+     vein.  There is no pathologic appearing pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Bone windows demonstrate no evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     IMPRESSION:
+     
+     1.  Findings consistent with hepatic cirrhosis and portal hypertension with
+     splenomegaly, ascites, and recanalization of the umbilical vein.
+     
+     2.  Distended gallbladder containing gallstones.  This could be further
+     evaluated with right upper quadrant ultrasound.
+     
+     3.  Bilateral pleural effusions and bibasilar atelectasis.
+     
+     4.  Trace abdominal ascites.
+     
+     5.  Tiny, rounded, hypodense lesion within the lower pole of the left kidney
+     is too small to accurately characterize.
+     
+
+",,
+14315,19715,17791,0,2903-11-08 04:43:00 EST,2903-11-08 04:51:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+NEURO: PT LETHARGIC, FOLLOWS COMMANDS, OX1. PT REFUSING TO TAKE PO'S AT TIMES. NO WANTING TO FINISHE TAKING MEDS. PT AGITATED W/ STAFF IN REGUARDS TO PIV ATTEMPT, BLOOD DRAWS, PT CARE. SITTER IN ROOM. NO SEDATION MEDS GIVEN. 
+
+RESP: PT RECEIVED ON 100% NRB. ABLE TO WEAN PT DOWN TO 4LNC W/ SATS 93-96%. LS COARSE. PT HAS A NONPRODUCTIVE CONGESTED COUGH. 
+
+CV: HR 80-90'S NSR, SBP 120-140'S. LOW GRADE TEMPS. EVENING K+ 2.7, PT WOULD ONLY TAKE 20MEQ PO. 40MEQ GIVEN IV VIA PIV. AM K+ 3.0. 15MMOL KPHOS GIVEN FOR PHOS 2.2, AM PHOS 2.2. MAG REPLEATED. AWAITING REPLEATION ORDERS. 
+
+GI/GU: ABD SOFT, +BS, NO BM. PT TOLERATES JUICE, PILLS. PT DOESN'T WANT TO TAKE THEM. FOLEY INTACT DRAINING AMBER TO ORANGE URINE. 
+
+ACCESS: 2 PIV INFILTRATED IN LEFT ARM. LEFT ARM SWOLLEN, ELEVATED ON PILLOWS. 2 NEW PIV PLACED W/ DIFFICULT. IV NURSE PLACED LAST PIV. TEAM AWARE OF PT'S NEED FOR CL, DOES NOT WISH TO PLACE ONE AT THIS TIME DUE TO PT'S FUNGEMIA. 
+
+ENDO: PT RECEIVED ON INSULIN GTT. 2100 BS 62. PT GIVEN JUICE, GTT OFF. 2200 LANTUS GIVEN. 2400 BS 259 COVERED BY RISS. WILL CHECK BS AT 0600. 
+
+DISPO: PLAN TO MONITOR LYTES. NEED TO READRESS LINE ISSUE. PT'S WIFE CALLED FOR UPDATE. PT IS A FULL CODE. 
+",,
+14315,19715,17791,0,2903-11-08 15:10:00 EST,2903-11-08 15:33:00 EST,5918,"N",69,"Nursing/Other","Npn 7a-7p","
+Npn 7a-7p
+***Full Code***
+C/O to floor, awaiting bed
+
+Neuro: Pt Lethargic, AOx1. Follows commands, occ. refuses PO meds. Perrl 3-4mm/bsk. Admit w/ seizures  & in DKA, seizures believed to be [**2-28**] metabolic disturbance. no evidence of seizures today. EEG done with out epelectic changes. 
+
+Resp: Weaned from NC 4L to RA. Sats 93-95%. RR 19-31. LS clear upper, coarse lower. Non-productive, cough noted. 
+
+CV: NSR 80-89, no ectopy noted. sbp 112-136. Repleted 40mEq of KCL and 30 mmol of Kphos today. PM lytes pending at present. 
+
+GI/GU: clear liquid diet, able to advance as tol, however Pt not interested in eating at this point. abd soft, distended, +BS. No BM today. Intermittent c/o of mild abd cramping. Plan to have abd CT to r/u fungemia masses in abd. CT ordered w/ contrast. Pt intermittently refusing sips, slow process but will drink some. Foley patent draining adeq. amounts of amber, colored, clear urine. 
+
+Endo: off insulin gtt since last night. ON RISS and lantus SD. [**Last Name (un) 211**] following. Gap closed. 
+Skin: Left arm swollen [**2-28**] infiltrated iv's. 
+ID: tmax 100.3. bld cx from [**11-5**] w/ budding yeast.  Caspofungin started yesterday per ID. wbc 3.3. 
+A/P: Cont. to monitor lytes Q6/hrs. Replet prn. to have abd ct once bari cat  completed. Cont. to monitor BS. Called out to floor. 
+",,
+14315,19715,,,2903-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-10**] 4:41 PM
+     UNILAT UP EXT VEINS US RIGHT                                    Clip # [**Clip Number (Radiology) 8469**]
+     Reason: PAIN R/O DVT
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with pain, firmness at previous IV site                         
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+     WET READ: JHjc SAT [**2903-11-10**] 7:41 PM
+      no evidence of DVT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pain, firmness at previous IV site.
+     
+     No prior studies are available for comparison.
+     
+     FINDINGS:  [**Doctor Last Name **]-scale and Doppler sonograms of the right internal jugular,
+     axillary, brachial and subclavian veins was performed.  The basilic vein could
+     not be visualized.  Normal flow, compressibility, augmentation and waveforms
+     were demonstrated.  No intraluminal thrombus is identified.
+     
+     IMPRESSION:  No evidence of DVT.
+                                                                           
+
+",,
+14315,19715,,,2903-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-12**] 9:54 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8470**]
+     Reason: please place PICC line                                      
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with candidemia, needs IV antibiotics                           
+     REASON FOR THIS EXAMINATION:
+      please place PICC line                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Candidemia, with need for IV antifungals. IV nurse unable to place
+     PICC at bedside.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 263**]
+     d'Othee, the attending radiologist, present and supervising.
+     
+     PROCEDURE AND FINDINGS: The patient was placed supine left upper arm was
+     prepped and draped in sterile fashion. Since no suitable superficial veins
+     were visible, ultrasound was used for localization of a suitable vein. Hard
+     copy ultrasound images were obtained, demonstrating the left brachial vein to
+     be patent and compressible. After local anesthesia with 3 cc of 1% lidocaine,
+     the left brachial vein was entered under ultrasonographic guidance with a 21-
+     gauge needle. A 0.018 guidewire was advanced under fluoroscopy into the
+     superior vena cava. Based on the markers on the guidewire, it was determined
+     that a length of 48 cm would be suitable. The PICC line was trimmed to length
+     and advanced over a 4-French introducer sheath under fluoroscopic guidance
+     into the superior vena cava. The sheath was removed. The catheter was flushed.
+     A final fluoroscopic spot image of the chest demonstrates the tip to be in the
+     superior vena cava. The line is ready for use. A StatLock was applied and the
+     line was heplocked.
+     
+     IMPRESSION: Successful placement of a 48 cm long 4-French single lumen PICC
+     line with the tip in the superior vena cava, ready for use.
+
+",,
+14315,19715,,,2903-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-12**] 9:54 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8470**]
+     Reason: please place PICC line                                      
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with candidemia, needs IV antibiotics                           
+     REASON FOR THIS EXAMINATION:
+      please place PICC line                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Candidemia, with need for IV antifungals. IV nurse unable to place
+     PICC at bedside.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 263**]
+     d'Othee, the attending radiologist, present and supervising.
+     
+     PROCEDURE AND FINDINGS: The patient was placed supine left upper arm was
+     prepped and draped in sterile fashion. Since no suitable superficial veins
+     were visible, ultrasound was used for localization of a suitable vein. Hard
+     copy ultrasound images were obtained, demonstrating the left brachial vein to
+     be patent and compressible. After local anesthesia with 3 cc of 1% lidocaine,
+     the left brachial vein was entered under ultrasonographic guidance with a 21-
+     gauge needle. A 0.018 guidewire was advanced under fluoroscopy into the
+     superior vena cava. Based on the markers on the guidewire, it was determined
+     that a length of 48 cm would be suitable. The PICC line was trimmed to length
+     and advanced over a 4-French introducer sheath under fluoroscopic guidance
+     into the superior vena cava. The sheath was removed. The catheter was flushed.
+     A final fluoroscopic spot image of the chest demonstrates the tip to be in the
+     superior vena cava. The line is ready for use. A StatLock was applied and the
+     line was heplocked.
+     
+     IMPRESSION: Successful placement of a 48 cm long 4-French single lumen PICC
+     line with the tip in the superior vena cava, ready for use.
+
+",,
+14315,19715,,,2903-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-12**] 9:54 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8470**]
+     Reason: please place PICC line                                      
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with candidemia, needs IV antibiotics                           
+     REASON FOR THIS EXAMINATION:
+      please place PICC line                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Candidemia, with need for IV antifungals. IV nurse unable to place
+     PICC at bedside.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 263**]
+     d'Othee, the attending radiologist, present and supervising.
+     
+     PROCEDURE AND FINDINGS: The patient was placed supine left upper arm was
+     prepped and draped in sterile fashion. Since no suitable superficial veins
+     were visible, ultrasound was used for localization of a suitable vein. Hard
+     copy ultrasound images were obtained, demonstrating the left brachial vein to
+     be patent and compressible. After local anesthesia with 3 cc of 1% lidocaine,
+     the left brachial vein was entered under ultrasonographic guidance with a 21-
+     gauge needle. A 0.018 guidewire was advanced under fluoroscopy into the
+     superior vena cava. Based on the markers on the guidewire, it was determined
+     that a length of 48 cm would be suitable. The PICC line was trimmed to length
+     and advanced over a 4-French introducer sheath under fluoroscopic guidance
+     into the superior vena cava. The sheath was removed. The catheter was flushed.
+     A final fluoroscopic spot image of the chest demonstrates the tip to be in the
+     superior vena cava. The line is ready for use. A StatLock was applied and the
+     line was heplocked.
+     
+     IMPRESSION: Successful placement of a 48 cm long 4-French single lumen PICC
+     line with the tip in the superior vena cava, ready for use.
+
+",,
+14315,19715,,,2903-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2903-11-12**] 9:54 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8470**]
+     Reason: please place PICC line                                      
+     Admitting Diagnosis: SEIZURE;DIABETIC KETOACIDOSIS;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with candidemia, needs IV antibiotics                           
+     REASON FOR THIS EXAMINATION:
+      please place PICC line                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Candidemia, with need for IV antifungals. IV nurse unable to place
+     PICC at bedside.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 263**]
+     d'Othee, the attending radiologist, present and supervising.
+     
+     PROCEDURE AND FINDINGS: The patient was placed supine left upper arm was
+     prepped and draped in sterile fashion. Since no suitable superficial veins
+     were visible, ultrasound was used for localization of a suitable vein. Hard
+     copy ultrasound images were obtained, demonstrating the left brachial vein to
+     be patent and compressible. After local anesthesia with 3 cc of 1% lidocaine,
+     the left brachial vein was entered under ultrasonographic guidance with a 21-
+     gauge needle. A 0.018 guidewire was advanced under fluoroscopy into the
+     superior vena cava. Based on the markers on the guidewire, it was determined
+     that a length of 48 cm would be suitable. The PICC line was trimmed to length
+     and advanced over a 4-French introducer sheath under fluoroscopic guidance
+     into the superior vena cava. The sheath was removed. The catheter was flushed.
+     A final fluoroscopic spot image of the chest demonstrates the tip to be in the
+     superior vena cava. The line is ready for use. A StatLock was applied and the
+     line was heplocked.
+     
+     IMPRESSION: Successful placement of a 48 cm long 4-French single lumen PICC
+     line with the tip in the superior vena cava, ready for use.
+
+",,

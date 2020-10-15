@@ -1,0 +1,1284 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14574,19975,,,2912-01-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2912-1-1**]              Discharge Date:   [**2912-1-18**]
+ 
+Date of Birth:  [**2831-5-25**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1765**] 
+Chief Complaint:
+Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. [**Known patient lastname 1057**] is an 80yo female with PMH significant for Alzheimers 
+and HTN. She initially presented on [**1-1**] with blood tinged, 
+mucoid stools. She was found to have proctitis on CT scan. She 
+was placed on Cipro and Flagyl but this was changed to 
+Levaquin/Flagyl/Vancomycin. On [**1-7**] the patient was found to be 
+choking and she progressively became more tachypneic and 
+unresponsive. She was transferred to the MICU for closer 
+management. Given her respiratory failure she was intubated. Her 
+acute decline in respiratory status was thought to be due to a 
+possible aspiration pneumonia vs. mucus plugging. Patient 
+improved and was successfully extubated yesterday. She is now 
+being transferred to the medical floor.
+ 
+Past Medical History:
+1)Alzheimers  
+2)Hypertension  
+3)R hip fracture  
+4)s/p TAH/BSO 
+
+ 
+Social History:
+Retired pathologist. No etoh, tobacco, drugs. Niece and daughter 
+are primary care givers. 
+ 
+Family History:
+NC
+ 
+Physical Exam:
+vitals T 97.5 BP 124/90 AR 99 RR 20 O2 sat 94% RA
+Gen: Pt awake but not responsive to commands
+HEENT: MM dry
+Heart: nl s1/s2, no s3/s4, no m,r,g
+Lungs: poor exam due to position
+Abdomen: soft, NT/ND, +BS
+Extremities: no edema, 2+ DP/PT pulses bilaterally
+ 
+Pertinent Results:
+[**2912-1-1**] 07:19AM   LACTATE-1.9
+[**2912-1-1**] 06:51AM   GLUCOSE-111* UREA N-26* CREAT-0.7 SODIUM-138 
+POTASSIUM-3.6 CHLORIDE-103 TOTAL CO2-24 ANION GAP-15
+[**2912-1-1**] 06:51AM   CALCIUM-8.0* PHOSPHATE-3.1 MAGNESIUM-2.7*
+[**2912-1-1**] 06:51AM   WBC-15.7* RBC-4.02* HGB-12.6 HCT-38.0 MCV-94 
+MCH-31.3 MCHC-33.1 RDW-12.9
+[**2912-1-1**] 06:51AM   NEUTS-90* BANDS-4 LYMPHS-3* MONOS-3 EOS-0 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2912-1-1**] 06:51AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-1+ 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-1+ 
+ELLIPTOCY-OCCASIONAL
+[**2912-1-1**] 06:51AM   PLT SMR-NORMAL PLT COUNT-261
+[**2912-1-1**] 03:23AM   LACTATE-3.1*
+[**2912-1-1**] 02:00AM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 302**]-1.021
+[**2912-1-1**] 02:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-12* PH-6.5 LEUK-TR
+[**2912-1-1**] 02:00AM URINE  RBC-0-2 WBC-0-2 BACTERIA-OCC YEAST-NONE 
+EPI-0-2
+[**2912-1-1**] 02:00AM URINE  GRANULAR-<1 HYALINE-0-2
+[**2912-1-1**] 12:57AM   LACTATE-4.2*
+[**2912-1-1**] 12:40AM   GLUCOSE-190* UREA N-32* CREAT-1.1 SODIUM-138 
+POTASSIUM-4.8 CHLORIDE-96 TOTAL CO2-31 ANION GAP-16
+[**2912-1-1**] 12:40AM   estGFR-Using this
+[**2912-1-1**] 12:40AM   estGFR-Using this
+[**2912-1-1**] 12:40AM   LIPASE-10
+[**2912-1-1**] 12:40AM   ALBUMIN-4.0
+[**2912-1-1**] 12:40AM   WBC-19.0*# RBC-4.37 HGB-14.1 HCT-40.4 MCV-93 
+MCH-32.3* MCHC-34.9 RDW-13.0
+[**2912-1-1**] 12:40AM   NEUTS-95.1* LYMPHS-2.2* MONOS-2.5 EOS-0 
+BASOS-0.2
+[**2912-1-1**] 12:40AM   PLT COUNT-314
+.
+[**1-1**] KUB
+IMPRESSION:
+1. Lack of distal sigmoid colon and rectum included on 
+radiograph limits evaluation for distal impaction. Slightly 
+prominent loops of large bowel with non-dilatation of small 
+bowel. Recommend repeat radiograph for better evaluation.
+2. Probable multilevel compression fractures of unclear 
+chronicity.
+.
+[**1-2**] CXR
+IMPRESSION:
+Developing density at both bases, particularly on the left side 
+consistent with atelectasis/airspace disease with likely 
+superimposed early edema. Findings discussed with Dr. [**First Name8 (NamePattern2) **] 
+[**Last Name (NamePattern1) **].
+ 
+Brief Hospital Course:
+Ms. [**Known patient lastname 1057**] is an 80 yo female with PMH significant for dementia 
+who initially presented with bloody/mucoid diarrhea, fevers and 
+leukocytosis, found to have proctitis. She was transferred to 
+the MICU for respiratory failure and intubated. She returns to 
+the medical floor extubated.
+
+1)Diarrhea: Most likely infectious in context of fever, 
+leukocytosis, and mucoid-bloody stool. CT scan suggests 
+proctitis. She was initially started on cipro/flagyl on 
+admission, but given her continued fevers, her coverage was 
+broadened with Vancomycin on [**1-3**] and subsequently devervesced.  
+All stool cultures have been negative to date. Her antibiotic 
+regimen was changed to Levaquin/Flagyl/Vancomycin, per GI, and 
+she completed a 2 week course. Her diarrhea resolved and the 
+family refused any further procedures (i.e. sigmoidoscopy).
+  
+2)Respiratory failure: Likely occurred secondary to aspiration 
+(pt was choking) vs. mucous plugging. Patient was transferred to 
+the MICU and was intubated. She is now successfully extubated 
+and oxygen saturations remain stable. She was placed on a 35% FM 
+to help decrease oral secretions.
+
+3)Hypertension: Patient was placed on HCTZ and Lisinopril on 
+admission and has been able to tolerate regimen well.  
+
+4)Dementia: She was continued on Risperidone 1mg daily.
+  
+5)Nutrition: Patient has had difficulty taking PO since her 
+admission. An NGT was placed by IR and was able to tolerated 
+tube feeds well. When she was transferred to the medical floor, 
+she self d/c'ed the NGT. The family decided that they wanted the 
+patient to remain full code and a PEG tube was placed by IR. 
+
+6)Code status: Given mental status and decline in patient's 
+health, palliative care was consulted to address goals of care. 
+Health care proxy would like patient to remain full code and as 
+a result could not qualify for hospice care.   
+ 
+Medications on Admission:
+Metronidazole 500 mg IV Q8H  
+Heparin 5000 UNIT SC TID  
+Risperidone 1 mg PO DAILY  
+Hydrochlorothiazide 25 mg PO DAILY 
+Insulin SC 
+Levofloxacin 500 mg IV DAILY 
+Vancomycin HCl 1000 mg IV Q24H 
+Lisinopril 20 mg PO DAILY 
+ 
+Discharge Medications:
+1. Insulin Regular Human 100 unit/mL Solution Sig: Per sliding 
+scale  Injection ASDIR (AS DIRECTED).  
+2. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 481**]: One (1) 
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).  
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.  
+6. Potassium & Sodium Phosphates [**Telephone/Fax (3) 1830**] mg Packet Sig: One 
+(1) Packet PO TID (3 times a day).  
+7. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2) 
+ML Intravenous DAILY (Daily) as needed.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) 3494**] House
+ 
+Discharge Diagnosis:
+1.  Infectious proctitis.
+
+Secondary diagnoses
+Alzheimers
+Hyeprtension
+Right hip fracture
+
+ 
+Discharge Condition:
+Stable, vital signs stable, pain free, diarrhea resolved.
+
+ 
+Discharge Instructions:
+[**Doctor First Name 54**] were admitted for diarrhea which was due to an infection in 
+your colon.  [**Doctor First Name 54**] were treated with antibiotics.  If [**Doctor First Name **] notice 
+recurrence of diarrhea, fevers, abdominal pain or any other 
+concerning symptoms, please contact your physician or report to 
+the Emergency room.
+ 
+Followup Instructions:
+Please follow-up with your primary care physician.
+
+ 
+                             [**Name6 (MD) 296**] [**Name8 (MD) 297**] MD [**MD Number 1775**]
+ 
+Completed by: [**Name6 (MD) 1522**] [**Name8 (MD) 1523**] MD [**MD Number 1524**] [**2912-1-18**] @ 1557
+Signed electronically by: DR. [**First Name (STitle) 296**] [**Name (STitle) 297**]
+ on: [**First Name8 (NamePattern2) 1125**] [**2912-1-19**] 8:00 AM
+(End of Report)
+
+
+",,
+14574,19975,,,2912-01-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-1**] 12:50 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 10654**]
+     Reason: assess for colonic distention                               
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with distended abd, ? impactation                             
+     REASON FOR THIS EXAMINATION:
+      assess for colonic distention                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old female with distended abdomen.  Assess for impaction.
+     
+     No prior comparison exams are available.
+     
+     TECHNIQUE:  Limited single portable abdominal supine radiograph.
+     
+     Exam is limited due to patient being nonresponsive to positioning and breath
+     requests per technologist's note.
+     
+     Mildly prominent loops of large bowel are identified within the abdomen;
+     however, the distal sigmoid and rectal region was not included on radiograph
+     to assess for fecal impaction.  No small bowel dilatation is identified.
+     Multiple vertebral bodies within the lower thoracic and upper lumbar spine
+     appear to have lost vertebral body height, likely relating to compression
+     fractures; however, full evaluation is limited on this single AP radiograph.
+     Lung bases appear clear, and the aorta is tortuous.
+     
+     IMPRESSION:
+     1.  Lack of distal sigmoid colon and rectum included on radiograph limits
+     evaluation for distal impaction.  Slightly prominent loops of large bowel with
+     non-dilatation of small bowel.  Recommend repeat radiograph for better
+     evaluation.
+     
+     2.  Probable multilevel compression fractures of unclear chronicity.
+     
+     Findings discussed with the ordering physician, [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) 6052**], on date of exam at
+     approximately 3:45 p.m.
+
+",,
+14574,19975,,,2912-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-2**] 2:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10655**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with persistent fever                                         
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Persistent fever.
+     
+     Single AP view of the chest was obtained on [**2912-1-2**] at 14:30 hours.  No prior
+     chest films are available for comparison.  The heart is not enlarged.  There
+     is arteriosclerosis and tortuosity of the aorta.  There are multiple healed
+     rib fractures on the right side.  There is mild pulmonary vascular prominence
+     together with patchy increased density at both bases, particularly on the left
+     side.  No prior chest films are available for comparison.  There is an AP
+     abdomen from [**2912-1-1**] which showed clear lung bases.  The findings likely
+     represent some developing infiltrate at the bases likely superimposed early
+     interstitial edema.
+     
+     IMPRESSION:
+     Developing density at both bases, particularly on the left side consistent
+     with atelectasis/airspace disease with likely superimposed early edema. 
+     Findings discussed with Dr. [**First Name8 (NamePattern2) 3626**] [**Last Name (NamePattern1) **].
+                                                                           
+
+",,
+14574,19975,,,2912-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-3**] 2:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10656**]
+     Reason: NG placement                                                
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old woman with persistent fever, s/p NG placement                      
+     REASON FOR THIS EXAMINATION:
+      NG placement                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW, ON [**1-3**]
+     
+     HISTORY:  Fever, NG tube placement.
+     
+     FINDINGS:  No NG tube is visualized.  There is left lower lobe volume loss and
+     infiltrate with small left effusion.  The amount of retrocardiac opacity is
+     increased compared to the film from the prior day.  There is improved aeration
+     of the right lower lobe.  Old right rib fractures are again seen.
+     
+     IMPRESSION:  Left greater than right infiltrate.
+                                                                           
+
+",,
+14574,19975,,,2912-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-5**] 9:41 AM
+     [**Last Name (un) **]-INTESTINAL TUBE PLACEMENT (W/FLUORO)                       Clip # [**Clip Number (Radiology) 10657**]
+     Reason: NG tube placement under fluoro, thank [**Doctor First Name 1041**]                   
+     Admitting Diagnosis: DIARRHEA
+      Contrast: CONRAY Amt: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with persistent fever, diarrhea, unable to place NG tube 
+      yesterday with multiple attempts, please place NG under fluoro.  
+     REASON FOR THIS EXAMINATION:
+      NG tube placement under fluoro, thank [**Doctor First Name 1041**]                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with persistent fevers, diarrhea, unable to
+     place NG tube after multiple attempts.
+     
+     TECHNIQUE/FINDINGS:  Using lidocaine jelly and Hurricaine spray for local
+     anesthesia, an 8 French [**Location (un) 1111**]-[**Known patient lastname 925**] tube was advanced through the right
+     naris.  Under constant fluoroscopic guidance, the tip of the tube was advanced
+     post-pylorically.  Small amount of contrast was injected through the tube
+     confirming the tip to be within the third portion of the duodenum.
+     
+     IMPRESSION:  Successful placement of post-pyloric feeding tube.
+
+",,
+14574,19975,,,2912-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-5**] 2:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10658**]
+     Reason: ? ischemic colitis                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with abdominal pain, mucoid, bloody diarrhea, fever           
+     REASON FOR THIS EXAMINATION:
+      ? ischemic colitis                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old female with abdominal pain and mucoid/bloody diarrhea
+     and fever.  Question ischemic colitis.
+     
+     Comparison is made to prior portable radiograph dated [**2912-1-1**].
+     
+     TECHNIQUE:  Axial acquired CT images were obtained through the abdomen and
+     pelvis with oral and intravenous contrast.  Coronal and sagittal reformations
+     were displayed with 5 mm slice thickness and used for better anatomic
+     localization of disease.
+     
+     CT OF THE ABDOMEN AND PELVIS.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  Limited examination of the lung
+     bases displays bilateral pleural effusions, left greater than right side as
+     well as dependent atelectasis within the left lung base.  A calcified nodule
+     is identified within the right middle lobe, likely sequela of prior
+     granulomatous disease.  The right lung parenchyma displays diffuse
+     interstitial thickening, which may relate to mild pulmonary edema with
+     infectious etiology including aspiration pneumonia/pneumonitis also included
+     within the differential.  Note is made of a small pericardial effusion.  The
+     liver displays multiple hypoattenuating lesions within the right lobe, some of
+     which are too small to characterize but likely cystic in nature.  The largest
+     within the posterior right lobe displays cystic levels on Hounsfield units and
+     measures approximately 2.1 x 2.5 cm.  The gallbladder is slightly distended
+     but displays no pericholecystic edema or wall enhancement and is noted to
+     contain a large gallstone.  Spleen appears grossly normal.  The pancreas is
+     atrophic. A feeding tube is noted within the distal duodenum, and the intra-
+     abdominal small bowel appears otherwise unremarkable.  The kidneys contain
+     bilateral hypoattenuating cystic lesions, the largest on the right extending
+     off the upper pole measures approximately 6.5 x 6.2 cm and the largest within
+     the left kidney in the interpolar region measures approximately 2.7 x 2.8 cm (
+     this lesion appears to contain a small septation but is likely benign in
+     nature). The adrenal glands appear unremarkable.  There are diffuse aortic
+     vascular calcifications.  No pathologically enlarged retroperitoneal or
+     mesenteric lymph nodes are identified.  No free air or free fluid is noted
+     within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The rectum and distal sigmoid
+     colon display diffuse symmetric wall thickening/edema with mild peri- colonic
+     inflammatory changes, consistent with a nonspecific proctitis.  The remaining
+                                                                 (Over)
+
+     DATE: [**2912-1-5**] 2:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10658**]
+     Reason: ? ischemic colitis                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     portion of the sigmoid colon and large bowel appears otherwise unremarkable
+     with no evidence of pneumatosis.  Air is noted within a Foley containing
+     urinary bladder.  The patient appears to be status post hysterectomy.  A small
+     calcification is identified within the right ovary.  No pathologically
+     enlarged pelvic or inguinal lymph nodes are identified.  There is a trace
+     amount of free fluid noted within the pelvis.
+     
+     BONE WINDOWS:  Patient is status post placement of dynamic compression screw
+     through a right femoral fracture.  There are multilevel degenerative changes
+     and degenerative disc disease within the lumbar spine as well as anterior
+     wedge compression fractures of uncertain chronicity involving L2 and T11.  No
+     suspicious blastic or lytic lesions are identified and there is mild
+     levoscoliosis of the lumbar spine.
+     
+     Soft tissues display multiple calcifications within the gluteal region, likely
+     representing calcified granulomas from prior injections.
+     
+     IMPRESSION:
+     1.  Nonspecific wall edema/thickening involving the distal sigmoid colon and
+     rectum, consistent with a nonspecific proctocolitis.  Differential for this
+     finding includes infectious causes such as pseudomembranous colitis.  Ischemic
+     colitis and inflammatory bowel disease, are felt to be less likely due to
+     distribution and age of patient.  Additionally, rectal carcinoma would also be
+     unlikely given the length of bowel involved.
+     
+     2.  Multiple hypoattenuating lesions within the liver and kidneys bilaterally,
+     some of which are too small to characterize and some of which are clearly
+     simple cysts in nature.
+     
+     3.  Bilateral pleural effusions with interstitial thickening noted within the
+     right lung base, likely represents small amount of pulmonary edema.  (Early
+     aspiration pneumonitis or nonfocal pneumonia are felt to be less likely).
+     
+     4.  Cholelithiasis without evidence of acute cholecystitis.
+     
+     5.  Extensive degenerative changes and lower thoracic and lumbar wedge
+     compression fractures of uncertain chronicity.
+     
+     Above findings were discussed with covering physician, [**Last Name (NamePattern4) 527**]. [**First Name4 (NamePattern1) 10659**] [**Last Name (NamePattern1) 10660**] on date
+     of exam at approximately 5:20 p.m.
+     
+                                                                 (Over)
+
+     DATE: [**2912-1-5**] 2:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10658**]
+     Reason: ? ischemic colitis                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14574,19975,,,2912-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-5**] 2:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10658**]
+     Reason: ? ischemic colitis                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with abdominal pain, mucoid, bloody diarrhea, fever           
+     REASON FOR THIS EXAMINATION:
+      ? ischemic colitis                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old female with abdominal pain and mucoid/bloody diarrhea
+     and fever.  Question ischemic colitis.
+     
+     Comparison is made to prior portable radiograph dated [**2912-1-1**].
+     
+     TECHNIQUE:  Axial acquired CT images were obtained through the abdomen and
+     pelvis with oral and intravenous contrast.  Coronal and sagittal reformations
+     were displayed with 5 mm slice thickness and used for better anatomic
+     localization of disease.
+     
+     CT OF THE ABDOMEN AND PELVIS.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  Limited examination of the lung
+     bases displays bilateral pleural effusions, left greater than right side as
+     well as dependent atelectasis within the left lung base.  A calcified nodule
+     is identified within the right middle lobe, likely sequela of prior
+     granulomatous disease.  The right lung parenchyma displays diffuse
+     interstitial thickening, which may relate to mild pulmonary edema with
+     infectious etiology including aspiration pneumonia/pneumonitis also included
+     within the differential.  Note is made of a small pericardial effusion.  The
+     liver displays multiple hypoattenuating lesions within the right lobe, some of
+     which are too small to characterize but likely cystic in nature.  The largest
+     within the posterior right lobe displays cystic levels on Hounsfield units and
+     measures approximately 2.1 x 2.5 cm.  The gallbladder is slightly distended
+     but displays no pericholecystic edema or wall enhancement and is noted to
+     contain a large gallstone.  Spleen appears grossly normal.  The pancreas is
+     atrophic. A feeding tube is noted within the distal duodenum, and the intra-
+     abdominal small bowel appears otherwise unremarkable.  The kidneys contain
+     bilateral hypoattenuating cystic lesions, the largest on the right extending
+     off the upper pole measures approximately 6.5 x 6.2 cm and the largest within
+     the left kidney in the interpolar region measures approximately 2.7 x 2.8 cm (
+     this lesion appears to contain a small septation but is likely benign in
+     nature). The adrenal glands appear unremarkable.  There are diffuse aortic
+     vascular calcifications.  No pathologically enlarged retroperitoneal or
+     mesenteric lymph nodes are identified.  No free air or free fluid is noted
+     within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The rectum and distal sigmoid
+     colon display diffuse symmetric wall thickening/edema with mild peri- colonic
+     inflammatory changes, consistent with a nonspecific proctitis.  The remaining
+                                                                 (Over)
+
+     DATE: [**2912-1-5**] 2:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10658**]
+     Reason: ? ischemic colitis                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     portion of the sigmoid colon and large bowel appears otherwise unremarkable
+     with no evidence of pneumatosis.  Air is noted within a Foley containing
+     urinary bladder.  The patient appears to be status post hysterectomy.  A small
+     calcification is identified within the right ovary.  No pathologically
+     enlarged pelvic or inguinal lymph nodes are identified.  There is a trace
+     amount of free fluid noted within the pelvis.
+     
+     BONE WINDOWS:  Patient is status post placement of dynamic compression screw
+     through a right femoral fracture.  There are multilevel degenerative changes
+     and degenerative disc disease within the lumbar spine as well as anterior
+     wedge compression fractures of uncertain chronicity involving L2 and T11.  No
+     suspicious blastic or lytic lesions are identified and there is mild
+     levoscoliosis of the lumbar spine.
+     
+     Soft tissues display multiple calcifications within the gluteal region, likely
+     representing calcified granulomas from prior injections.
+     
+     IMPRESSION:
+     1.  Nonspecific wall edema/thickening involving the distal sigmoid colon and
+     rectum, consistent with a nonspecific proctocolitis.  Differential for this
+     finding includes infectious causes such as pseudomembranous colitis.  Ischemic
+     colitis and inflammatory bowel disease, are felt to be less likely due to
+     distribution and age of patient.  Additionally, rectal carcinoma would also be
+     unlikely given the length of bowel involved.
+     
+     2.  Multiple hypoattenuating lesions within the liver and kidneys bilaterally,
+     some of which are too small to characterize and some of which are clearly
+     simple cysts in nature.
+     
+     3.  Bilateral pleural effusions with interstitial thickening noted within the
+     right lung base, likely represents small amount of pulmonary edema.  (Early
+     aspiration pneumonitis or nonfocal pneumonia are felt to be less likely).
+     
+     4.  Cholelithiasis without evidence of acute cholecystitis.
+     
+     5.  Extensive degenerative changes and lower thoracic and lumbar wedge
+     compression fractures of uncertain chronicity.
+     
+     Above findings were discussed with covering physician, [**Last Name (NamePattern4) 527**]. [**First Name4 (NamePattern1) 10659**] [**Last Name (NamePattern1) 10660**] on date
+     of exam at approximately 5:20 p.m.
+     
+                                                                 (Over)
+
+     DATE: [**2912-1-5**] 2:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10658**]
+     Reason: ? ischemic colitis                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14574,19975,,,2912-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-7**] 10:35 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 10662**]
+     Reason: check ETT placement                                         
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old woman intubated [**2912-1-7**] for respiratory failure, check ETT 
+      placement                                
+     REASON FOR THIS EXAMINATION:
+      check ETT placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAM:  Assess ETT placement, patient with respiratory failure.
+     
+     Comparison is made with prior study performed seven hours before.
+     
+     SINGLE AP PORTABLE VIEW OF THE CHEST (10:50 a.m):
+     
+     Cardiac size is normal.  The right lung is clear with complete resolution in
+     the right lower lobe consolidation.  Unchanged left lower lobe consolidation.
+     
+     ET tube is in adequate position with tip located 2.8 cm above the carina.  The
+     ET tube cuff is overinflated.  NG tube tip is out of view below the diaphragm
+     likely in the duodenum.  Small left pleural effusion is unchanged.
+     Multiple right healed fractures are unchanged.
+     
+     IMPRESSION:  Resolved right lower lobe atelectasis.
+     
+     ET tube in adequate position with cuff overinflated, this finding was
+     discussed with Dr. [**First Name8 (NamePattern2) 4524**] [**Last Name (NamePattern1) 8134**] at the time of the interpretation of the
+     study.
+     
+
+",,
+14574,19975,,,2912-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14574,19975,,,2912-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-7**] 4:50 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10664**]
+     Reason: r/o CVA                                                     
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with h/o alzheimer's disease now with AMS, respiratory 
+      distress, now s/p intubation
+     REASON FOR THIS EXAMINATION:
+      r/o CVA                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with history of Alzheimer's disease, now with
+     AMS, respiratory distress, status post intubation, to evaluate for CVA
+     
+     No prior studies.
+     
+     TECHNIQUE:  Non-contrast CT of the head was performed.
+     
+     FINDINGS:  The posterior fossa structures are unremarkable.  The cerebral
+     parenchyma has normal [**Doctor Last Name 63**] and white matter differentiation.  Prominent
+     ventricles and extra-axial CSF spaces, are noted due to cerebral atrophy.  No
+     acute intracranial hemorrhage, mass effect, shift of normally midline
+     structures, or major vascular territorial infarct is noted.  The osseous and
+     the soft tissue structures are unremarkable.
+     
+     IMPRESSION:
+     1.  No acute intracranial abnormality noted.
+     2.  Cerebral atrophy.
+     
+
+",,
+14574,19975,,,2912-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-7**] 4:22 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 10663**]
+     Reason: r/o ptx                                                     
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          80 year old woman intubated [**2912-1-7**] for respiratory failure now s/p RIJ.    
+     REASON FOR THIS EXAMINATION:
+      r/o ptx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SUPINE CHEST RADIOGRAPH
+     
+     INDICATION:  80-year-old female intubated for respiratory failure, now status
+     post right internal jugular central venous line.
+     
+     COMPARISON:  [**2912-1-7**] from 10:47 a.m.
+     
+     FINDINGS:  There has been interval placement of right internal jugular central
+     venous catheter with tip overlying the distal SVC.  There is no pneumothorax.
+     Endotracheal tube is in standard position.  Cuff remains overinflated.
+     Nasogastric tube courses below the diaphragm and out of view.
+     Cardiomediastinal contours are unchanged.  The lung fields demonstrate
+     unchanged left lower lobe atelectasis/consolidation.
+     
+     IMPRESSION:
+     1.  Interval placement of right IJ central venous catheter with tip overlying
+     the distal SVC.  No pneumothorax.
+     2.  Endotracheal tube cuff remains overinflated.
+     3.  Unchanged left lower lobe atelectasis/consolidation.
+     
+
+",,
+14574,19975,,,2912-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-7**] 3:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10661**]
+     Reason: please assess for aspiration pna.                           
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old woman with gurgling s/p TF.                                       
+     REASON FOR THIS EXAMINATION:
+      please assess for aspiration pna.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Shortness of breath.
+     
+     Portable AP chest radiograph compared to [**2912-1-3**].
+     
+     The Dobbhoff tube was inserted in the meantime interval which passes below the
+     diaphragm and terminates out of the field of view most likely in the stomach
+     or duodenum.  The heart size is normal.  Calcified slightly dilated at the
+     level of the aortic arch aorta is present.  The left lower lobe consolidation
+     is again demonstrated grossly unchanged compared with some pleural effusion
+     but there is a new right lower lobe consolidation with partial obscuring of
+     the right hemidiaphragm highly suggestive for pneumonia or aspiration.
+     
+     Multiple healed right rib fractures are again demonstrated.
+     
+     No evidence of pulmonary edema is present.
+     
+     IMPRESSION:
+     1.  Status post insertion of Dobbhoff tube.
+     2.  New right lower lobe consolidation, pneumonia versus aspiration, please
+     correlate clinically.
+                                                                           
+
+",,
+14574,19975,,,2912-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-7**] 4:22 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 10663**]
+     Reason: r/o ptx                                                     
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          80 year old woman intubated [**2912-1-7**] for respiratory failure now s/p RIJ.    
+     REASON FOR THIS EXAMINATION:
+      r/o ptx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SUPINE CHEST RADIOGRAPH
+     
+     INDICATION:  80-year-old female intubated for respiratory failure, now status
+     post right internal jugular central venous line.
+     
+     COMPARISON:  [**2912-1-7**] from 10:47 a.m.
+     
+     FINDINGS:  There has been interval placement of right internal jugular central
+     venous catheter with tip overlying the distal SVC.  There is no pneumothorax.
+     Endotracheal tube is in standard position.  Cuff remains overinflated.
+     Nasogastric tube courses below the diaphragm and out of view.
+     Cardiomediastinal contours are unchanged.  The lung fields demonstrate
+     unchanged left lower lobe atelectasis/consolidation.
+     
+     IMPRESSION:
+     1.  Interval placement of right IJ central venous catheter with tip overlying
+     the distal SVC.  No pneumothorax.
+     2.  Endotracheal tube cuff remains overinflated.
+     3.  Unchanged left lower lobe atelectasis/consolidation.
+     
+
+",,
+14574,19975,,,2912-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-7**] 10:35 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 10662**]
+     Reason: check ETT placement                                         
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old woman intubated [**2912-1-7**] for respiratory failure, check ETT 
+      placement                                
+     REASON FOR THIS EXAMINATION:
+      check ETT placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAM:  Assess ETT placement, patient with respiratory failure.
+     
+     Comparison is made with prior study performed seven hours before.
+     
+     SINGLE AP PORTABLE VIEW OF THE CHEST (10:50 a.m):
+     
+     Cardiac size is normal.  The right lung is clear with complete resolution in
+     the right lower lobe consolidation.  Unchanged left lower lobe consolidation.
+     
+     ET tube is in adequate position with tip located 2.8 cm above the carina.  The
+     ET tube cuff is overinflated.  NG tube tip is out of view below the diaphragm
+     likely in the duodenum.  Small left pleural effusion is unchanged.
+     Multiple right healed fractures are unchanged.
+     
+     IMPRESSION:  Resolved right lower lobe atelectasis.
+     
+     ET tube in adequate position with cuff overinflated, this finding was
+     discussed with Dr. [**First Name8 (NamePattern2) 4524**] [**Last Name (NamePattern1) 8134**] at the time of the interpretation of the
+     study.
+     
+
+",,
+14574,19975,18113,0,2912-01-07 17:57:00 EST,2912-01-07 19:09:00 EST,8748,"N",74,"Nursing/Other","Initial Nursing Progress Note","
+Initial Nursing Progress Note
+Pt is an 80 yo female with PMH of dementia, HTN and alzheimers admitted to floor with diarrhea, thought to be infxn. Now presents with resp distress and unresponsive. Pt transferred to TSICU for closer monitoring and further workup. Pt intubated upon arrival to unit. 
+
+Events: Pt arrived to unit at 1000. Episodes of hypotension x2. SBP to high 80's-90's. Responded well to fluid boluses x2. RIJ and R radial aline placed. Head CT done this evening. Results pending. 
+
+Neuro: Pt unresponsive. Minimal withdrawal to nailbed pressure, although does have facial grimace. Corneals intact. PERRLA, 3mm, brisk. +cough and gag. Midaz gtt off for now, pt appearing comfortable. Fentanyl gtt at 12.5 mcg/hr. 
+
+CV: NSR, no ectopy. HR 60-70's. SBP 110-140's. Pt becoming hyperdynamic with stimulated with HR up to 90's and SBP up to 170's. Episodes of  hypotension as above, now resolved with fluid boluses. All pulses palpable, cap refill <3 sec in all ext. Will replete KCL once CL is cleared for use. 
+
+Resp: CMV: 450x10/5/40. Sats 100%. Overbreathing vent with stimulation up to 30bpm. ABG's WNL, slowly weaning FIO2. LSCTAB. Occasional cough. Sx several times producing mod amts white/pink thick sputum. 
+
+GI: Pt NPO. Abd soft, non-tender, non-distended. +BSx4. Dophoff clamped. Pt had several loose golden stools today. 
+
+GU: Foley draining adequate amts CYU. UOP 35-100ml/hr. 
+
+Endo: FSBS per SS. No coverage required. 
+
+ID: Tmax 99.2. Pt cont on Flagyl, Vanco, and Levo. 
+
+Skin: Small stage 2 ulcer on coccyx. Barrier cream applied. 
+
+Social: Primary caretaker [**Doctor First Name 427**] (niece) in to visit this evening. Updated on [**Name6 (MD) **] by RN and HO [**First Name8 (NamePattern2) 1391**] [**Last Name (NamePattern1) 6237**] (MICU resident). 
+
+Plan: Cont to monitor neuro status. Maintain SBP >100. Pulm toilet. Wean vent as tol. Guaiac next stool. Maintain skin integrity. Cont to support pt and family. 
+
+
+",,
+14574,19975,18113,0,2912-01-07 18:15:00 EST,2912-01-07 18:20:00 EST,7973,"N",74,"Nursing/Other",,"
+
+Respiratory Care:Pt became unresponsiveand  pt was intubated upon arrival to ICU. Placed on AC mode. Lung sounds coarse. Suctioned for moderate tan /blood tinged secretions. Plan is to wean vent support as tolerated. Will cont to follow.
+
+",,
+14574,19975,18113,0,2912-01-08 01:56:00 EST,2912-01-08 02:08:00 EST,489,"N",74,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- opens eyes to noxious stimuli, mae's, not following commands, weak cough, weak gag, perrla 3mm. fentanyl gtt @12.5mcg/hr.
+
+resp- no vent changes made, spo2 100%, sxn for scant thick white secretions, bs cta, rhonchi in lul.
+
+cvs- tm 98.9po, hr 70's-80's nsr no ectopy, sbp 100-130's, ivf @100cc/hr, kcl 40meq given to replete k of 3.4.
+
+gi- dubhoff clamped, abd soft, bm sm amt melena x1 followed by mod amt golden liquid stool guiac+, rectal bag placed, perirectal area redened w/ sm abrasion.
+
+gu- foley patent for 20-30cc/hr clear amber urine.
+
+skin- bruising, oral ulcerations w/ sm amt bleeding.
+
+endo- bs wnl no riss requirements.
+
+social- cared for by niece at home
+
+a: stable vs, unchanged nvs
+
+P: transfer to sicu for continued monitoring, maintain pulm hygiene.
+",,
+14574,19975,18113,0,2912-01-08 05:39:00 EST,2912-01-08 05:45:00 EST,3399,"N",53,"Nursing/Other","Nursing progress note","
+Nursing progress note
+Transferred from TSICU at 0230. 
+Neuro: opens eyes to speech, does not follow commands, mae.  perl. opens mouth for mouth care.
+cv: stable
+Pulm: sx thin white, mod amt. remains intubated on vent at 40%, see resp flow sheet. 
+GI: dobhoff clamped. FIB intact, no stool since transfer from TSICU
+GU: u/o low at 30-40/hr, ns at 100/hr. monitor u/o carefully. 
+
+",,
+14574,19975,18113,0,2912-01-08 11:01:00 EST,2912-01-08 11:04:00 EST,3196,"N",53,"Nursing/Other",,"
+
+Respiratory Care:
+Pt successfully extubated to a 40% cool neb..
+Presently O2Sat. = 99%;  RR = 21;  HR = 106;  BP = 155/80; (has been hypertensive). Will probably transition to a nasal cannula soon.
+",,
+14574,19975,18113,0,2912-01-08 17:12:00 EST,2912-01-08 17:33:00 EST,8108,"N",53,"Nursing/Other","NPN","
+NPN
+Please see CareVue for full assessments
+
+NEURO: Off Fent gtt this AM prior to extubation. Opens eyes spont. Pupils 3mm and briskly reactive. Moaning at times. Sister states this is pt's baseline. MAE to nailbed stiumulus but does not follow commands. ? due to severe Alzheimer's/dementia or lanaguage barrier.
+Pt. showing no signs of pain or discomfort through shift. Wrist restraints removed at time of extubation as pt. has shown no signs of agitation this shift. Tmax 99.4ax.
+
+CV: SR to brief episodes ST. No ectopy noted. x1 episode HR to 140's self resolving in less than 5sec. MICU team notified. ABP at rest 130's-150's. Increased hypertension when stimulated. Team aware. Continue to hold antihypertensives per team. Left radial Aline w/fling. Right IJ CVL w/bleeding @insertion site. Dsg chgd x1. Phos of 1.7 repleted this AM. Hct and WBC stable. PPP. Pboots in place.
+
+RESP: Extubated this AM without difficulty. Presently on cool neb mask @40%. Sats 99-100%. ABG's improving to normal values. BLS rhonhi. Strong productive cough.
+
+GI: BS+. Abd S/NT/ND. Dobhoff via right nare intact/clamped. Remains NPO. FIB intact w/ no stool this shift.
+
+ENDO: BG 105-133 requiring no coverage per RISS. 
+GU: Foley patent. Adequate amber colored uop. 
+INTEG: Multiple ecchymotic areas. Stage I on coccyx. 
+PLAN: Monitor CV, resp status, pulmonary toilet, monitor neuro status, reposition to maintain skin integrity, transfer to floor when stable/bed available. 
+",,
+14574,19975,18113,0,2912-01-08 20:51:00 EST,2912-01-08 20:58:00 EST,5219,"N",53,"Nursing/Other",,"
+
+[**2912-1-8**] 2100
+    NEURO PT LETHARGIC MOANING PLEASE SEE CAREVIEW FOR DETAILS MAE RANDOM NO ACUTE CHANGES IN STATUS
+    RESP NONLABORED FACE TENT IN PLACE RALES AT BASES SAO2 WNL
+    HEART S1S2 NSR VSS NO TEMP PULSES POS 3 THRU OUT
+    GI POS B/S THRU OUT U/O QS SOFT NON TENDOR 
+    PLAN SUPPORTIVE IN NATURE T/P CPT ROM  FAMILY SUPPORT
+",,
+14574,19975,,,2912-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-11**] 3:59 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10666**]
+     Reason: r/o stroke                                                  
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with new mental status changes, not responding as she had 
+      been this AM
+     REASON FOR THIS EXAMINATION:
+      r/o stroke                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old with new mental status changes.
+     
+     TECHNIQUE:  Non-contrast head CT was performed.
+     
+     FINDINGS:  There is no intracranial hemorrhage.  There is no midline shift,
+     mass effect or hydrocephalus.  As before, the lateral ventricles are enlarged
+     but unchanged.  There are periventricular white matter hypodensities
+     consistent with chronic microvascular ischemic changes.  There is both sulcal
+     and ventricular prominence due to cerebral atrophy.
+     
+     IMPRESSION:  No intracranial hemorrhage.  No mass effect or change in the size
+     of lateral ventricles.
+                                                                           
+
+",,
+14574,19975,,,2912-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-11**] 11:33 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10665**]
+     Reason: PICC placement                                              
+     Admitting Diagnosis: DIARRHEA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old woman with need for IV antibiotics failed bedside PICC placement   
+                                   
+     REASON FOR THIS EXAMINATION:
+      PICC placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old female with need for intravenous antibiotics, referred
+     for PICC line placement.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 148**] and Dr. [**Last Name (STitle) 250**] performed the procedure.  Dr. [**Last Name (STitle) 250**],
+     the Attending Radiologist, was present and supervised.
+     
+     PROCEDURE AND FINDINGS:  A preprocedure timeout was performed to verify the
+     patient's identity and indication for the procedure.  The right upper arm was
+     prepped and draped in sterile fashion.  Ultrasound was used to demonstrate
+     patency and ease of compressibility of the right brachial vein throughout its
+     course.  Approximately 2 ml of 1% lidocaine was used for local anesthesia.
+     Under ultrasonographic guidance, a 21 gauge needle was advanced into the right
+     brachial vein.  A 0.018 inch guidewire was then advanced through the needle to
+     the level of the SVC under fluoroscopic guidance.  The needle was exchanged
+     for a 4.5 French micropuncture peel-away sheath and dilator.  The dilator was
+     removed and a single lumen 4 French PICC catheter was trimmed to appropriate
+     length of 31 cm.  Under fluoroscopic guidance, the PICC catheter was advanced
+     over the wire into the SVC.  The peel-away sheath and wire were then removed.
+     A final spot fluoroscopic image demonstrates tip of the catheter in the SVC.
+     Pre- and post-procedure hardcopy ultrasonographic images demonstrating patency
+     of the right brachial vein were saved.  The patient tolerated the procedure
+     well without immediate complication.
+     
+     IMPRESSION:  Successful placement of 31 cm 4 French single lumen PICC catheter
+     via the right brachial vein with termination in the SVC.  The line is now
+     ready for use.
+     
+     
+
+",,
+14574,19975,,,2912-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-11**] 11:33 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10665**]
+     Reason: PICC placement                                              
+     Admitting Diagnosis: DIARRHEA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old woman with need for IV antibiotics failed bedside PICC placement   
+                                   
+     REASON FOR THIS EXAMINATION:
+      PICC placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old female with need for intravenous antibiotics, referred
+     for PICC line placement.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 148**] and Dr. [**Last Name (STitle) 250**] performed the procedure.  Dr. [**Last Name (STitle) 250**],
+     the Attending Radiologist, was present and supervised.
+     
+     PROCEDURE AND FINDINGS:  A preprocedure timeout was performed to verify the
+     patient's identity and indication for the procedure.  The right upper arm was
+     prepped and draped in sterile fashion.  Ultrasound was used to demonstrate
+     patency and ease of compressibility of the right brachial vein throughout its
+     course.  Approximately 2 ml of 1% lidocaine was used for local anesthesia.
+     Under ultrasonographic guidance, a 21 gauge needle was advanced into the right
+     brachial vein.  A 0.018 inch guidewire was then advanced through the needle to
+     the level of the SVC under fluoroscopic guidance.  The needle was exchanged
+     for a 4.5 French micropuncture peel-away sheath and dilator.  The dilator was
+     removed and a single lumen 4 French PICC catheter was trimmed to appropriate
+     length of 31 cm.  Under fluoroscopic guidance, the PICC catheter was advanced
+     over the wire into the SVC.  The peel-away sheath and wire were then removed.
+     A final spot fluoroscopic image demonstrates tip of the catheter in the SVC.
+     Pre- and post-procedure hardcopy ultrasonographic images demonstrating patency
+     of the right brachial vein were saved.  The patient tolerated the procedure
+     well without immediate complication.
+     
+     IMPRESSION:  Successful placement of 31 cm 4 French single lumen PICC catheter
+     via the right brachial vein with termination in the SVC.  The line is now
+     ready for use.
+     
+     
+
+",,
+14574,19975,,,2912-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-11**] 11:33 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10665**]
+     Reason: PICC placement                                              
+     Admitting Diagnosis: DIARRHEA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old woman with need for IV antibiotics failed bedside PICC placement   
+                                   
+     REASON FOR THIS EXAMINATION:
+      PICC placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old female with need for intravenous antibiotics, referred
+     for PICC line placement.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 148**] and Dr. [**Last Name (STitle) 250**] performed the procedure.  Dr. [**Last Name (STitle) 250**],
+     the Attending Radiologist, was present and supervised.
+     
+     PROCEDURE AND FINDINGS:  A preprocedure timeout was performed to verify the
+     patient's identity and indication for the procedure.  The right upper arm was
+     prepped and draped in sterile fashion.  Ultrasound was used to demonstrate
+     patency and ease of compressibility of the right brachial vein throughout its
+     course.  Approximately 2 ml of 1% lidocaine was used for local anesthesia.
+     Under ultrasonographic guidance, a 21 gauge needle was advanced into the right
+     brachial vein.  A 0.018 inch guidewire was then advanced through the needle to
+     the level of the SVC under fluoroscopic guidance.  The needle was exchanged
+     for a 4.5 French micropuncture peel-away sheath and dilator.  The dilator was
+     removed and a single lumen 4 French PICC catheter was trimmed to appropriate
+     length of 31 cm.  Under fluoroscopic guidance, the PICC catheter was advanced
+     over the wire into the SVC.  The peel-away sheath and wire were then removed.
+     A final spot fluoroscopic image demonstrates tip of the catheter in the SVC.
+     Pre- and post-procedure hardcopy ultrasonographic images demonstrating patency
+     of the right brachial vein were saved.  The patient tolerated the procedure
+     well without immediate complication.
+     
+     IMPRESSION:  Successful placement of 31 cm 4 French single lumen PICC catheter
+     via the right brachial vein with termination in the SVC.  The line is now
+     ready for use.
+     
+     
+
+",,
+14574,19975,,,2912-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-13**] 10:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10667**]
+     Reason: r/o infiltrate, new acute process                           
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           80 year old woman intubated [**2912-1-7**] for respiratory failure now extubated. 
+      Continues to have increased secretions.
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate, new acute process                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP UPRIGHT PORTABLE CHEST, 10:45 A.M. ON [**1-13**]
+     
+     INDICATION:  Extubated.  Increased secretions.
+     
+     FINDINGS:  Compared with [**2912-1-7**], multiple tubes and catheters have been
+     removed.  There is now a right arm PICC line present with its tip at the
+     junction of the right subclavian and internal jugular veins.  A right IJ
+     central venous line is present with its tip in the lower SVC.  No pneumothorax
+     identified.
+     
+     The right lung is essentially clear.  There is a small new right pleural
+     effusion.  Multiple old right rib fractures are noted.
+     
+     There is now opacification of the left lung base secondary to
+     collapse/consolidation/effusion.  The left upper lung field is clear.
+     
+     IMPRESSION:  Left lower lobe collapse/consolidation/effusion.
+                                                                           
+
+",,
+14574,19975,,,2912-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-15**] 9:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10669**]
+     Reason: correct placement of NGT.                                   
+     Admitting Diagnosis: DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            80 year old woman intubated [**2912-1-7**] for respiratory failure now 
+      extubated. s/p NGT placement
+     REASON FOR THIS EXAMINATION:
+      correct placement of NGT.                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  NG tube placement.
+     
+     COMPARISON:  [**2912-1-13**].
+     
+     CHEST AP:  The tip of the NG tube is in the stomach.  A right PICC line
+     terminates in proximal SVC.  The left-sided pleural effusion has increased in
+     size.  There is persistent left lower lobe consolidation.  right-sided rib
+     fractures are, unchanged
+
+",,
+14574,19975,,,2912-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-15**] 7:44 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 10668**]
+     Reason: PEG tube placement                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with alzheimer's dementia, unable to take adequate PO intake  
+     REASON FOR THIS EXAMINATION:
+      PEG tube placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dementia.  Swallowing disorder.  Needs long-term feeding tube for
+     nutrition.
+     
+     RADIOLOGISTS:  This procedure was performed by Drs. [**Last Name (STitle) 340**] and [**Name5 (PTitle) 2339**].  Dr.
+     [**First Name (STitle) 2339**], the attending radiologist, was present and supervising during the
+     entire procedure.
+     
+     PROCEDURE:  The risks and benefits of the procedure were discussed with a
+     family member and the informed consent was obtained.  The preprocedure timeout
+     was performed and proper identification of the patient and the procedure were
+     confirmed.  Initial fluoroscopic spot image was performed and demonstrates a
+     NG-tube within the stomach.  The stomach was then insufflated through the NG-
+     tube.  Three T-fasteners were then sequentially placed under fluoroscopic
+     guidance after local anesthesia with approximately 10 cc of 1% lidocaine.  The
+     T-fasteners were deployed and the stomach wall was fixed to the anterior
+     abdomen.  An 18-guage needle was then introduced into the stomach.  The
+     position of the needle was confirmed with injection of approximately 4 cc of
+     nonionic IV contrast.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire was then introduced into the stomach
+     through the needle.  A 7 French [**Last Name (un) 8335**] Tip sheath was then advanced over the
+     wire.  Using a 5 French Kumpe catheter and the wire, we were able to advance
+     the [**Last Name (un) 528**] wire within the duodenum through the pylorus.  The [**Last Name (un) 528**] wire
+     was then exchanged for an Amplatz wire.  The tract in the skin was then
+     dilated up to a 14 French sheath.  A 14 French [**Doctor Last Name 939**] GJ tube was then
+     introduced over the wire.  The tip of the tube was placed in the fourth
+     portion of the duodenum.  The retention pigtail was formed in the gastric
+     antrum, deemed to be in the adequate position.  A final x-ray was obtained and
+     demonstrates the tube to be in good position with the tip in the fourth
+     portion of the duodenum.  The tube was then secured to the skin using 2-0
+     silk.  A flexitrac device was also applied.  Patient tolerated the procedure
+     well and there were no immediate complications.  Moderate sedation was
+     provided, administering divided doses of Versed and fentanyl throughout the
+     total in-service time of 90 minutes during which the patient's hemodynamic
+     parameters were continuously monitored.  A total dose of 100 mcg of fentanyl
+     and 1.5 mg of Versed were administered.
+     
+     IMPRESSION:
+     1.  Successful placement of a 14 French [**Doctor Last Name 939**] GJ tube.  The tip of the tube
+     is in the fourth portion of the duodenum.
+                                                                 (Over)
+
+     DATE: [**2912-1-15**] 7:44 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 10668**]
+     Reason: PEG tube placement                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2.  Recommend removing the T-fasteners in approximately 10 days.
+     
+
+",,
+14574,19975,,,2912-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2912-1-15**] 7:44 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 10668**]
+     Reason: PEG tube placement                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with alzheimer's dementia, unable to take adequate PO intake  
+     REASON FOR THIS EXAMINATION:
+      PEG tube placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dementia.  Swallowing disorder.  Needs long-term feeding tube for
+     nutrition.
+     
+     RADIOLOGISTS:  This procedure was performed by Drs. [**Last Name (STitle) 340**] and [**Name5 (PTitle) 2339**].  Dr.
+     [**First Name (STitle) 2339**], the attending radiologist, was present and supervising during the
+     entire procedure.
+     
+     PROCEDURE:  The risks and benefits of the procedure were discussed with a
+     family member and the informed consent was obtained.  The preprocedure timeout
+     was performed and proper identification of the patient and the procedure were
+     confirmed.  Initial fluoroscopic spot image was performed and demonstrates a
+     NG-tube within the stomach.  The stomach was then insufflated through the NG-
+     tube.  Three T-fasteners were then sequentially placed under fluoroscopic
+     guidance after local anesthesia with approximately 10 cc of 1% lidocaine.  The
+     T-fasteners were deployed and the stomach wall was fixed to the anterior
+     abdomen.  An 18-guage needle was then introduced into the stomach.  The
+     position of the needle was confirmed with injection of approximately 4 cc of
+     nonionic IV contrast.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire was then introduced into the stomach
+     through the needle.  A 7 French [**Last Name (un) 8335**] Tip sheath was then advanced over the
+     wire.  Using a 5 French Kumpe catheter and the wire, we were able to advance
+     the [**Last Name (un) 528**] wire within the duodenum through the pylorus.  The [**Last Name (un) 528**] wire
+     was then exchanged for an Amplatz wire.  The tract in the skin was then
+     dilated up to a 14 French sheath.  A 14 French [**Doctor Last Name 939**] GJ tube was then
+     introduced over the wire.  The tip of the tube was placed in the fourth
+     portion of the duodenum.  The retention pigtail was formed in the gastric
+     antrum, deemed to be in the adequate position.  A final x-ray was obtained and
+     demonstrates the tube to be in good position with the tip in the fourth
+     portion of the duodenum.  The tube was then secured to the skin using 2-0
+     silk.  A flexitrac device was also applied.  Patient tolerated the procedure
+     well and there were no immediate complications.  Moderate sedation was
+     provided, administering divided doses of Versed and fentanyl throughout the
+     total in-service time of 90 minutes during which the patient's hemodynamic
+     parameters were continuously monitored.  A total dose of 100 mcg of fentanyl
+     and 1.5 mg of Versed were administered.
+     
+     IMPRESSION:
+     1.  Successful placement of a 14 French [**Doctor Last Name 939**] GJ tube.  The tip of the tube
+     is in the fourth portion of the duodenum.
+                                                                 (Over)
+
+     DATE: [**2912-1-15**] 7:44 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 10668**]
+     Reason: PEG tube placement                                          
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2.  Recommend removing the T-fasteners in approximately 10 days.
+     
+
+",,

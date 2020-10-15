@@ -1,0 +1,348 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14887,4810,,,3135-08-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3135-8-30**]       Discharge Date:  [**3135-9-8**]
+
+Date of Birth:   [**3055-10-2**]       Sex:  M
+
+Service:  Cardiac Surgery
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 79 year old
+male with no prior history of cardiac disease who awoke one
+morning with new onset of chest pain.  The patient went to
+[**Hospital 1036**] [**Hospital 11354**] Medical Center on [**3135-8-27**] and
+underwent transesophageal echocardiogram which revealed a
+critical aortic stenosis with atrial valve area of 0.6 to 0.7
+with peak gradient of 100.  The patient was also noted to
+have a 2+ mitral regurgitation, trace tricuspid regurgitation
+and moderate left ventricular hypertrophy.  The patient was
+then transferred to [**Hospital 1036**] [**Hospital 1033**] Medical Center for
+cardiac catheterization and the patient was found to have 70%
+stenosis of the left anterior descending, 3+ mitral
+regurgitation and a calculated left ventricular ejection
+fraction of 65%.  She was transferred to [**Hospital6 291**] for surgical evaluation.
+
+The [**Hospital 101**] medical history is significant for
+hypertension, gastric ulcer, remote history of nephropathy
+and denies any cerebrovascular accidents, seizures or
+transient ischemic attacks.
+
+Surgical history is significant for cholecystectomy.
+
+The patient denies any allergies to medications and his home
+medications include Mavik 1.5 mg q.d. and Fosamax 10 mg q.d.
+
+SOCIAL HISTORY:  The patient denies using any cigarettes or
+tobacco and occasionally drinks alcohol.
+
+LABORATORY DATA:  Laboratory data on admission reveals white
+count of 8.8, hematocrit 39.3, platelets 284.  PT/PTT 12.2
+and 26.9, INR of 1.0.  Chemistries sodium 138, potassium 4.3,
+chloride 106, carbon dioxide 22, BUN 21, creatinine 1.1 and
+glucose 84, AST 44, ALT 32, alkaline phosphatase 89 and
+lipase 29 and LDH of 307.  Chest x-ray showed a faint opacity
+of the left lingula, otherwise the chest fields were clear.
+
+HOSPITAL COURSE:  The patient was initially received in the
+Cardiac Surgery Recovery Unit and the patient was ordered for
+an echocardiogram to verify the results that were reported
+from the outside hospital at our institution.  The patient
+was found to have a severe aortic stenosis with an aortic
+valve area of 0.6 and a peak velocity of 5.0.  The patient
+was also noted to have a mild aortic regurgitation and a mild
+mitral regurgitation, calculated ejection fraction graded at
+55%.  Once it was verified that the patient was going to need
+a atrial valve replacement and possible mitral valve
+replacement and with the patient being stable, the patient
+was transferred to the floor.  On [**3135-9-2**], the
+patient underwent an aortic valve replacement #23
+bioprosthetic tissue valve and a mitral valve ring
+annuloplasty.  The patient also underwent a coronary artery
+bypass with left internal mammary artery to the left anterior
+descending.  Please see the operative report for further
+details.  In the immediate postoperative period the patient
+was transferred to the Cardiac Surgery Recovery Unit in
+stable condition, still intubated and the patient is well
+enough on postoperative day #1 to successfully be extubated
+and was started on p.o. medications for diuresis and
+heartrate control and was transferred to the floor at the end
+of postoperative day #1.  The patient's chest x-ray on
+postoperative day #2 showed a mild congestive heart failure
+and the patient was diuresed with Lasix.  It was noted that
+the patient's creatinine started to increase and peaked on
+postoperative day #3 to 1.4, rising 0.3 from the preoperative
+value of 1.1.  The patient was carefully diuresed with Lasix
+and Captopril was discontinued.  The patient continued to do
+well on the floor, ambulating with assistance and was
+hemodynamically stable.  His postoperative pain was
+adequately managed with p.o. medications.  The patient was
+evaluated by physical therapy as per standard protocol and
+post cardiac surgery.  The patient was able to walk with a
+walker appropriately, however, to progress to his baseline
+state of ambulation it was recommended the patient receive
+home physical therapy and learn to use a walker in the
+interim.  By postoperative day #6, the patient's vital signs
+were stable, doing well on the floor and his creatinine has
+stabilized to 1.2.  The patient was discharged to home with
+Visiting Nurse Association services and home physical
+therapy.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE DISPOSITION:  Discharge to home with services.
+
+DISCHARGE DIAGNOSIS:
+Severe aortic stenosis
+Mitral valve regurgitation
+Coronary artery disease
+Visceral disease of left anterior descending
+Hypertension
+
+DISCHARGE MEDICATIONS:
+Colace 100 mg p.o. b.i.d. while taking Percocet
+Aspirin 325 mg p.o. q.d.
+Percocet 5/325 mg one to two tablets p.o. q. 4 hours prn pain
+Lopressor 25 mg p.o. b.i.d.
+Fosamax 10 mg p.o. q.d.
+
+FO[**Last Name (STitle) 2138**]P:  The patient is to follow up with his primary care
+physician and cardiologist within two weeks and the patient
+is to follow up with Dr. [**Last Name (Prefixes) 2**] within one month.
+
+
+
+                            [**Doctor Last Name 5**] [**Last Name (Prefixes) **], M.D.  [**MD Number 6**]
+
+Dictated By:[**Last Name (NamePattern1) 8040**]
+MEDQUIST36
+
+D:  [**3135-9-19**]  20:49
+T:  [**3135-9-19**]  22:34
+JOB#:  [**Job Number 11355**]
+Signed electronically by: DR. [**First Name (STitle) 5**] [**Last Name (Prefixes) **]
+ on: TUE [**3135-9-24**] 5:26 PM
+(End of Report)
+
+
+",,
+14887,4810,18497,,3135-08-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3135-8-30**] 3:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13225**]
+     Reason: CORONARY ARTERY DISEASE
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with AS/CAD                                                     
+     REASON FOR THIS EXAMINATION:
+      pre-op CABG/AVR                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 79 year old man with aortic stenosis and coronary artery disease.
+     
+     COMMENT: Portable AP radiograph of chest is reviewed, and compared with the
+     previous study of [**3134-10-11**].
+     
+     There is continued marked tortuousity of the thoracic aorta and cardiomegaly.
+     Again note is made of faint opacity overlying the left lingula, which is
+     probably due to prominent AP pericardial fat pad. Evaluation with repeat PA
+     and lateral radiograph of the chest is recommended.
+     
+     The lungs are clear otherwise. There is eventration of the right
+     hemidiaphragm, which is not changed.
+     
+
+",,
+14887,4810,18497,0,3135-08-30 01:23:00 EST,3135-08-30 01:35:00 EST,4068,"N",54,"Nursing/Other",,"
+
+CSRU ADMISSION:
+
+79 y.o. male with c/o CP, tranferred from [**Hospital1 380**], [**Hospital1 **] where cath. was done and revealed critical AS and coronary vessel disease X 1 and [**12-24**]+ MR. Transferred to [**Hospital1 10**] for CABG X 1 and AVR.
+
+NEURO: A/O X 3, MAE
+
+CV: NSR with no ectopy, BP stable, 90's-100's/40-50's, PP +, afebrile
+
+RESP: Upper lobes clear, crackles at the bases, 02 @ 1 L via NC, with sats. > 95%
+
+GI: Abd. soft, NT, ND, BS +
+
+GU: Voiding clear yellow urine, UA sent
+
+PAIN: no c/o pain.
+
+PLAN: Continue to assess cardiovascular and respiratory systems, to have CXR and ECHO done today, pre-op for surgery.
+",,
+14887,4810,18497,0,3135-08-30 17:02:00 EST,3135-08-30 17:12:00 EST,4002,"N",54,"Nursing/Other",,"
+
+NPN: 
+
+Neuro: alert and oriented X3, Very pleasant and coop. Feels confined in ICU setting. Is used to being very independent. Ambulated in hallways with supervision.
+
+CV: 70-90 SR without VEA. VVS.Pt without c/o. Had cardiac echo to evaluate MR. [**Name13 (STitle) 59**] by Dr [**Last Name (STitle) **] and NP's today and plan for ? OR on monday as being evaluated.
+
+Resp: Lungs CTA Bil. O2 sats>94% on roomair.
+
+GU: Voiding qs without diff. 
+
+GI: Abd soft, NT, ND with +BS. Tol Cardiac diet. 
+
+Activity: OOb to chair most of day. Ambulated in hallways with super. 
+
+Comfort: Denies pain or CP.
+
+A: Stable being evaluated for CABG/AVR/?MVR on monday.
+
+P: Pt awaiting bed on [**Hospital Ward Name **] 2 for preop. 
+",,
+14887,4810,18497,,3135-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3135-8-31**] 1:55 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 13226**]
+     Reason: R/O CHF
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Coronary artery disease, assess for CHF.
+     
+     Comparison is made to prior films from one day earlier as well as from
+     [**3134-10-11**].  The bony thorax is intact. Cardiac and mediastinal contours are
+     stable, heart size within normal limits. The lungs appear clear (rounded
+     nodular densities projecting over both lung bases are compatible with nipple
+     shadows), with the exception of minimal subsegmental atelectasis at the right
+     base laterally. The lateral view demonstrates small bilateral pleural
+     effusions.
+     
+     IMPRESSION: 1)  No evidence of CHF; minimal subsegmental atelectasis right
+     base.
+     2)  Small bilateral pleural effusions.  
+
+",,
+14887,4810,18497,0,3135-08-31 01:00:00 EST,3135-08-31 01:05:00 EST,4068,"N",54,"Nursing/Other",,"
+
+CSRU NOTE:
+
+NEURO: A/O X 3, MAE
+
+CV: NSR with no ectopy, BP stable, afebrile, PP+, started on PO Lopressor, no c/o of chest pain.
+
+RESP: Lungs clear throughout, 02 via NC applied @ 1 L with sats>96%
+
+GI: Abd. soft, NT,ND, BS+
+
+GU: Voiding clear yellow urine
+
+PLAN: Continue to monitor cardio/resp. status, transfer to [**Hospital Ward Name **] 2 for pre-op for CABG/AVR/?MVR for Monday.
+",,
+14887,4810,,,3135-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3135-9-2**] 2:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13227**]
+     Reason: r/o PTx                                                     
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man s/p CABG/AVR/MVrep                                              
+     REASON FOR THIS EXAMINATION:
+      r/o PTx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM:
+     
+     History of CABG with AVR, MVR.
+     
+     S/P median sternotomy.  ETT is ____ cm above carina.  Tip of Swan-Ganz
+     catheter is in right main pulmonary artery.  NGT is in fundus of stomach.  No
+     pneumothorax.  The lungs are grossly clear apart from minimal atelectasis at
+     the left base.
+
+",,
+14887,4810,18498,0,3135-09-02 18:09:00 EST,3135-09-02 18:21:00 EST,3204,"N",54,"Nursing/Other",,"
+
+HY[**Last Name (STitle) **]MIC W MET. ACIDOSIS,AV PACING FOR CHB,LABILE BP W BRISK HUO  ON ARRIVAL. WARMED W +BAIR HUGGER,LEVO TITRATED & ACIDOSIS TREATED W VOLUME(LR & PRBC'S) NAHCO3- X 2.CONVRERTED TO NSR,1ST DEG. AVB( PR .27-.29) W IMMED. IMPROVEMENT IN HEMODYNAMICS.CONTINUED TO REQUIRE VOLUME FOR TRANSIENT HYPOTENSION W LOW FP'S,BRISK HUO.AWOKE,MAE X 4 TO COMMAND. WEANED & EXTUBATED W/O INCIDENT ~ 1900. C/O INCISIONAL PAIN ESP. W COUGHING & DEEP BREATHING RELIEVED W RESPOSITIONING & SC MSO4.LOWNDOSEMNTG FOR HYPERTENSION POST EXTUBATION. GOAL BP 100-125 PER DR. [**Last Name (Prefixes) **]. GLUCOSES MANAGED W PROTOCOL. SEE FLOW SHEET.
+",,
+14887,4810,18498,0,3135-09-02 23:48:00 EST,3135-09-02 23:50:00 EST,3444,"N",54,"Nursing/Other",,"
+
+CARDIAC INDEX LOW AT MN BY THERMODILUTION, 500CCLR GIVEN, ATTEMPTED APACING UNSUCCEESFUL, SVO2 DRAWN OFF PA , GOOD SV02 68%, WITH GOOD CI WILL FOLLOW. REPOSITIONED TO RSIDE , MEDICATED WITH 2MG MSO4 FOR DISCOMFORT. K/CA WNL. BS ELEVATED TREATED WITH SSINSULIN..
+",,
+14887,4810,18498,0,3135-09-03 02:08:00 EST,3135-09-03 02:08:00 EST,3444,"N",54,"Nursing/Other",,"
+
+[**Doctor Last Name 1013**] AWARE OF CI, GIVEN 500LR ..
+",,
+14887,4810,18498,0,3135-09-03 03:58:00 EST,3135-09-03 04:02:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT WITH QUIET NIGHT, RECEIVED TOTAL OF 1LITER OF LR FOR LOW CI BY THERMODIUTION, IMPROVED AFTER VOLUME BOLUS, BY FICK GOOD CI ALWAYS GREATER THAN 2.2.. SBP 100-130 WITH 1ST DEGREE AVBLOVK IN THE 70'S.. RESP  RR16-24 WITH SAO2 97% ON 3LNC, PATIENT NEEDS ENCOURAGEMENT TO DEEP BREATHE, PLAN OOB TO CHAIR THIS AM.. GU ADEQUATE U/O THRU THE NIGHT. GI ABSENT BS SOFT, NO N/V..ENDO BS ELEVATED TREATED WITH SSINSULIN.. ON VANCO X4 DOSES. MEDICATED WITH MSO4 2MG Q2-3HRS. WITH GOOD RESULTS..CT DRAINING MINIMAL AS NIGHT PROGRESSED ??? D/C IN AM.. 
+",,
+14887,4810,18498,0,3135-09-03 11:35:00 EST,3135-09-03 11:36:00 EST,3202,"N",54,"Nursing/Other","TRANSFER TO FARR 2","
+TRANSFER TO [**Hospital Ward Name **] 2
+SEE TRANSFER NOTE. PT LOOKING FOR BELONGINGS WHICH HE BELIEVES ARE ON THE [**Hospital Ward Name **] 2. WIFE, DAUGHTER AND SON VISITING. PT TRANSFERRED TO F2 WITH CHEST TUBES, PACER, MONITOR AND 2.
+",,
+14887,4810,,,3135-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3135-9-4**] 9:48 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13228**]
+     Reason: reassess pneumothorax, atelectasis; CT to water seal        
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man CABGx1, AVR, MVR                                                
+     REASON FOR THIS EXAMINATION:
+      reassess pneumothorax, atelectasis; CT to water seal                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION:  S/P CABG, AVR and MVR.  Assess pneumothorax, atelectasis.
+     
+     FINDINGS:  AP and lateral upright views.  Comparison study dated [**9-2**]
+     taken supine.  The ETT and NG line have been removed.  The left chest tube and
+     two mediastinal drains are again noted.  S/P CABG surgery and prosthetic
+     aortic valve are visualized.  The heart shows slight left ventricular
+     enlargement.  The pulmonary vessels show slight upper zone redistribution
+     consistent with very slight residual left heart failure.  Some atelectasis is
+     present at the left lung base but otherwise the lungs appear fairly well
+     inflated.  The aorta is unfolded.
+     
+     IMPRESSION:  Apart from some new left lower lobe atelectasis the post
+     operative changes show overall improvement.  Residual mediastinal drains, left
+     chest tube, and temporary pacing electrodes are noted, best seen on the
+     lateral view.
+
+",,
+14887,20626,18499,0,3137-08-02 16:00:00 EST,3137-08-02 16:21:00 EST,379,"N",69,"Nursing/Other","MSICU NSG ACCEPTANCE/PROGRESS NOTE 1230-1900","
+MSICU NSG ACCEPTANCE/PROGRESS NOTE 1230-1900
+ 
+
+Please see flowsheet and FHPA for further details..
+
+81 yo admitted [**7-31**] to 12R w/FUO. Trans to ICU w/hypotention and lactic acid of 4.5.
+
+Family reports he has been increasingly weak in LEs since late spring. Multi small old CVAs per previous CT scan In the summer he was admitted to OSH w//pneumonia. Treated w/Levaquin and sent home. He was readmitted w/similar weakness and fever and was treated and sent to rehab. He had been home for 2 weeks and was again readmitted for pneumonia and returned to rehab. He had fevers 102-103 PTA. Of note CXR in ED here showed LAD but no pneumonia.
+
+A&O x2 on admit. Family states he is ""[**6-30**] mentally"" but becames confused with fevers. Afebrile on admit.
+
+MAP 55-61 since admit. He has received 1.5L IVBs here. Currently team is attempting to place pre-[**Last Name (un) **] catheter. HR 80-100 SR. No C/O CP. Per 12R RN he has generalized pain and occ c/o back pain. He was scheduled for neck MRI and a torso Ct scan but they are on hold. He has received 0.5mg IV MSO4 for neck pain during line placement with fair response.
+
+2L N/C w/ O2sats 97-100%. Lungs CTA.
+
+On Vanco and Ceftriaxone. Afebrile.
+
+Foley cath draining cl yellow urine. Spec sent. UO increasing w/IVBs.
+
+Accompanied by wife and [**Name2 (NI) **]. Wife is very concerned and ""worried"". ICU info given.
+
+
+",,
+14887,,18499,0,3137-08-03 01:47:00 EST,3137-08-03 02:30:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700 
+
+FOUND PT IN BED ORIENTED X 1, MOANING UNABLE TO LOCALIZES DISCOMFORT.   PT WAS TACHYCARDIC ,BP WAS STABLE PT WAS AFEBRILE, MELANA STOOL NOTED IN DIAPER.PT RECIEVED 2L NSS FLUID FOR SUSPECTED GI BLEED/ VOLUME REPLACEMENT WHILE AWAITING  ORDERED PRBC.PT CONTINUED TO C/O DISCOMFORT, MSO4 1MG GIVEN, AND .5 MG OF ATIVAN. CENTRAL LINE PLACED BY HO .ANOTHER .5 MG ATIVAN GIVEN DURING LINE PLACEMENT. WHILE AWAITING CXR FOR LINE PLACEMENT CONFIRMATION,PT WAS INTUBATED FOR WORSENING MENTAL STATUS. 
+ABG POST INTUBATION WAS 7.39/19/130, PT HAD WORSENING ACIDOSIS AS NOC WENT ON W/ LACTATE INCREASING FROM, 7.2-11.6.PT RECIEVED 2 AMPS BICARB AS WELL AS 2 GMS CA++. IT WAS NOTED THAT PT HAD  VISIBLY PULSATING EPIGASTRUM , SURGERY CONSULTED AS WELL AS US ORDERED.PT RECIEVED 2 UNITS OF PRBC AND WAS STARTED ON LEVOPHED FOR HYPOTENSION. PT RECIEVED AN ADDITONAL 4 LITERS NSS.PT HCT CONTINUED TO DROP DOWN INTO 20'S .  
+FAMILY CAME TO BEDSIDE AND MET W/ TEAM. IN LIGHT OF PT'S WORSENING CONDITION AND HIS PREVIOUSLY KNOWN WISHES THE DECISION WAS MADE TO MAKE PT CMO. SUPPORT WAS WITHDRAWN AND PT WAS MADE COMFORTABLE W/ MSO4. PT EXPIRED @ 0250 W/ FAMILY AT BEDSIDE.
+",,

@@ -1,0 +1,969 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14008,,,,3294-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3294-1-7**] 4:17 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 5544**]
+     Reason: L HIP OA; TOTAL HIP REPLACEMENT LEFT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     TWO-VIEW CHEST, [**3294-1-7**]
+     
+     COMPARISON:  [**3293-10-22**].
+     
+     INDICATION:  Pre-operative assessment for hip replacement.
+     
+     There has been prior median sternotomy.  Heart is upper limits of normal in
+     size.  Aorta is diffusely tortuous and calcified with likely component of
+     dilation in the ascending region, not significantly changed.  Diffuse
+     interstitial lung disease is present with peripheral and basilar predominance.
+     Left hemidiaphragm is moderately elevated, but without change.
+     
+     Correlative chest CT of [**3293-11-19**] confirms mild dilation of ascending
+     aorta and also demonstrates interstitial fibrosis and emphysema.
+     
+     Finally, note is made of prior wedge resection in left upper lobe.
+     
+     IMPRESSION:  Stable chest radiographic appearance with pulmonary fibrosis,
+     elevated left hemidiaphragm, and tortuous and mildly dilated aorta.
+
+",,
+14008,8865,,,3294-01-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3294-1-19**]              Discharge Date:   [**3294-1-24**]
+ 
+Date of Birth:  [**3217-4-25**]             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Strawberry / Shellfish
+ 
+Attending:[**First Name3 (LF) 3620**] 
+Chief Complaint:
+Progressive left-sided hip pain with activity
+ 
+Major Surgical or Invasive Procedure:
+Left total hip replacement
+
+ 
+History of Present Illness:
+Ms. [**Known patient lastname **] is a 76 y/o female with osteoarthritis and progressive 
+left-sided hip pain who presents today for definitive treatment. 
+
+ 
+Past Medical History:
+Chronic obstructive pulmonary disease
+Coronary artery disease s/p cardiac catheterization
+s/p CABG [**3286**]
+Chronic renal insufficiency (Cr 1.9-2.2) 
+Right total hip replacement [**7-7**]
+
+ 
+Social History:
+Non-contributory
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+On discharge: 
+
+Afebrile, All vital signs stable
+General: Alert and oriented, No acute distress
+Extremities: left lower
+ Weight bearing: partial weight bearing
+ Incision: no swelling/erythema/drainage
+ Dressing: clean/dry/intact
+   Extensor/flexor hallicus longus intact 
+   Sensation intact to light touch 
+   Neurovascular intact
+   Capillary refill brisk 
+   2+ pulse 
+
+ 
+Pertinent Results:
+[**3294-1-22**] 10:20AM BLOOD 
+
+WBC-9.9 RBC-3.34* Hgb-10.1* Hct-29.7* MCV-89 MCH-30.3 MCHC-34.2 
+RDW-15.2 Plt Ct-213
+
+[**3294-1-22**] 10:20AM BLOOD
+ 
+Plt Ct-213
+
+[**3294-1-21**] 07:10AM BLOOD 
+
+Glucose-109* UreaN-31* Creat-1.7* Na-133 K-4.7 Cl-102 HCO3-20* 
+AnGap-16
+
+[**3294-1-21**] 07:10AM BLOOD
+ 
+Calcium-9.1 Phos-2.5* Mg-2.0
+[**3294-1-19**] 08:15PM 
+
+URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.016
+URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-TR 
+Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+URINE RBC-3* WBC-0 Bacteri-NONE Yeast-NONE Epi-0
+
+[**3294-1-21**] 10:41 AM
+
+HIP UNILAT MIN 2 VIEWS LEFT
+
+FINDINGS: Comparison to [**3293-1-19**]. Postoperative changes status 
+post placement of a left total hip replacement with noncemented 
+acetabular component fixed with two screws and a cemented 
+femoral stem are noted. Gas is seen in the soft tissues. Clips 
+are seen along the skin laterally. There is also a right total 
+hip prosthesis with noncemented acetabular component fixed with 
+one screw and a noncemented femoral stem, incompletely evaluated 
+on the current study. Degenerative changes of the lower lumbar 
+spine are seen. There is vascular calcification. A calcified 
+structure in the pelvis may represent a calcified fibroid. No 
+hardware-related complication of periprosthetic lucency is seen.
+
+IMPRESSION:
+
+Bilateral total hip prostheses without evidence of 
+hardware-related complication.
+
+ 
+Brief Hospital Course:
+Ms. [**Known patient lastname **] was admitted to [**Hospital1 19**] on [**3294-1-19**] for an elective left 
+total hip replacement. Pre-operatively, she was consented, 
+prepped, and brought down to the operating room for surgery. 
+Intra-operatively, she was closely monitored and remained 
+hemodynamically stable. She tolerated the procedure well without 
+any difficulty or complication. Post-operatively, she was 
+transferred to the PACU and floor for further recovery. On the 
+floor,she remained hemodynamically stable with her pain 
+controlled. She progressed with physical therapy to improve her 
+strength and mobility. She continues to make steady progress 
+without any incidents. She was discharged in stable condition. 
+
+ 
+Medications on Admission:
+1. Cartia XT 180mg daily  
+2. HCTZ 25mg daily  
+3. Lisinopril 10mg  
+4. Vytorin [**10-23**]  
+5. ASA 81mg (off prior to [**Doctor First Name **].)  
+6. Calcium 1mg daily  
+7. Lorazepam 1mg daily  
+8. Combivent 2-3 puffs prn  
+9. Alphagan 0.15% 1 drop each eye bid  
+10. Tylenol prn  
+11. Travatan 0.004% 1 drop qhs  
+12. Hydrocodone/APAP 5/500 q4-6hours prn  
+13. Metoprolol 25mg bid  
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours).  
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID (3 times a day).  
+3. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).  
+4. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+7. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day).  
+8. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**1-5**] 
+Puffs Inhalation Q6H (every 6 hours) as needed.  
+9. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+10. Enoxaparin 30 mg/0.3 mL Syringe Sig: One (1)  Subcutaneous 
+Q24H (every 24 hours).  
+11. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 
+to 6 hours) as needed.  
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+13. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+14. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+15. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Osteoarthritis
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Keep the incision/dressing clean and dry. [**Doctor First Name 54**] may apply a dry 
+sterile dressing as needed for drainage or comfort. 
+If [**Doctor First Name **] have any increased redness, swelling, pain, drainage, 
+shortness of breath, or a temperature >101.5, please call your 
+doctor or go to the emergency room for evaluation. 
+[**Doctor First Name 54**] may bear weight on your left leg. 
+Resume all of your home medication prior to admission and take 
+all medication as prescribed by your doctor. 
+Continue your Lovenox injections as prescribed to help prevent 
+blood clots. 
+Feel free to call our office with any questions or concerns. 
+Physical Therapy:
+Activity: as tolerated
+ Left lower extremity: partial weight bearing
+Treatments Frequency:
+Your skin staples may be removed 2 weeks after your surgery. 
+
+ 
+Followup Instructions:
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) 3623**] Phone:[**Telephone/Fax (1) 177**] Date/Time:[**3294-2-5**] 
+1:00
+
+Provider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 592**] Date/Time:[**3294-4-8**] 10:00
+
+Provider: [**First Name11 (Name Pattern1) **] [**MD Number 556**], MD [**MD Number 224**]:[**Telephone/Fax (1) 593**] 
+Date/Time:[**3294-4-8**] 2:30
+
+Please call Dr [**Last Name (STitle) **] office at ([**Telephone/Fax (1) 136**]. Schedule an 
+appointment for two weeks.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3624**] MD [**MD Number 3625**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 241**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 4893**] [**MD Number 4894**] [**3294-1-23**] @ 0932
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**First Name8 (NamePattern2) 123**] [**3294-1-28**] 4:18 PM
+(End of Report)
+
+
+",,
+14008,8865,,,3294-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3294-1-19**] 1:47 PM
+     HIP 1 VIEW IN O.R.                                              Clip # [**Clip Number (Radiology) 5545**]
+     Reason: HIP REPLACEMNET
+     Admitting Diagnosis: LEFT HIP OA/SDA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     STUDY:  Single AP view of the left hip [**3294-1-19**].
+     
+     HISTORY:  Hip replacement.
+     
+     FINDINGS:  There is interval placement of a cemented left total hip
+     prosthesis.  There is no signs for hardware complications.  There is air and
+     soft tissue swelling seen within the right hip consistent with a recent
+     ongoing surgery.
+     
+     
+
+",,
+14008,8865,,,3294-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3294-1-19**] 9:03 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5546**]
+     Reason: eval for e/o pulm. edema.                                   
+     Admitting Diagnosis: LEFT HIP OA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with h/o CAD, HTN, s/p left total hip replacement today w/ 
+      post op hypotension, received 6L IVFs.
+     REASON FOR THIS EXAMINATION:
+      eval for e/o pulm. edema.                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST 9:12 P.M. [**1-19**] 
+     
+     INDICATION:  Status post total hip replacement with postop hypotension.
+     Evaluate for pulmonary edema status post fluid resuscitation.
+     
+     FINDINGS:  Compared with [**3294-1-7**], as well as prior studies from September and
+     [**3293-10-4**], the cardiomegaly and tortuous aorta are probably not
+     significantly changed, allowing for rotation currently.  There is mild
+     pulmonary vascular upper zone redistribution consistent with mild CHF, but no
+     overt pulmonary edema.
+     
+     There are prominent interstitial markings in the right mid and lower lung
+     fields laterally, which are chronic.  There is also some focal
+     atelectasis/scarring above the left hemidiaphragm related to its chronic
+     elevation.  No obvious pulmonary infiltrates are seen.
+     
+     IMPRESSION:  Mild CHF / fluid overload, superimposing chronic changes.
+
+",,
+14008,8865,17423,0,3294-01-19 19:37:00 EST,3294-01-19 19:55:00 EST,5192,"N",69,"Nursing/Other","18:30-19:00","
+18:30-19:00
+this is a 76 y.o. woman adm [**3294-1-19**] s/p total l hip replacement. pmh includes r hip replacement x2, cad, cabg in [**3286**], ef 50%, cri (baseline cr 2.3), copd using home o2 usually at noc., arthritis, gout. l upper lung mass found in [**Last Name (un) **]-s/p lung resection for squamous cell ca-found to be in remission now. 
+
+neuro: a&ox3, mae, pillow in b/w legs and log rolled to r side. pain 4 constant in l hip. using pca morphine-received .5mg pca in last hour. pca .5mg q6min with 5mg lockout q1hr. no basal. appears comfortable at present at rest. 
+
+cv: hr 60s-80s sr with occas pvc. sbp 100s via r noninvasive cuff. abp reading in 70s via l radial aline. noninvasive cuff also reading bp in l arm in 70s. pt mentating well denies lightheadedness. [**Name6 (MD) 17**] [**Name8 (MD) **] rn, bp via aline also reading in 70s and r noninvasive cuff reading 15 degrees higher in 90s. md team aware. feet cool. +pp via doppler.
+
+resp: lungs cta in upper lung fields, diminished at bases. sp02 ranging 94-95% on 3lnc. 
+
+gi/gu: abd soft. npo. iv lr at 75cc/hr. ebl 175cc in or. received total of 3l ivf, u.o. 444 cc clear yellow urine via foley. 
+
+skin: l hip dsg with elastoplast cd&i.
+
+social: lives with husband, has 3 children, 8 grandchildren, 5 greatgrandchildren. husband and some other family in with pt presently. pt DNR/DNI. has hcp with number at bedside. 
+
+plan: monitor bp overnight. morphine pca for pain control. keep pillow b/w legs, monitor q1hr pp. ivf, monitor u.o. ? transfer to floor in am if stable.
+",,
+14008,8865,17423,0,3294-01-20 05:24:00 EST,3294-01-20 06:00:00 EST,8884,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+This delightful 76yo F pt is s/p L hip total arthroplasty on [**1-19**] who experienced hypotension w/SBP's in the 70's while in [**Month/Year (2) **].
+
+ROS:
+Neuro: A&O x3, very pleasant and cooperative. Able to move self in bed frequently. Pt is using PCA w/ Morphine .5mg q6min. She required 10mg Roxicodone x1 for breakthrough, rec'd 650 mg PO acetaminophen as ordered and 1mg lorazepam PO. She has been dozing intermittently since midnight, reports her pain is now @ [**2-6**] which is tolerable. Afebrile.
+
+CV: HR in 80's, NSR w/rare PVC, denies CP/palps. Pt reports that BP can only be obtained from her R arm. SBP has been in 90's to low 100's with one episode of SBP in the 80's while pt was sleeping which quickly rebounded when she awoke and did not req add'l fluid. Art line has consistently been reading SBP in high 50's -60's with dampened wave form, unable to improve. Pt reports has previously had unreliable a-line reading if in L arm. Dr. [**First Name (STitle) **] aware. PP's weakly palpable b/l, neg edema.  LR running @ 75cc/hr. HCT this am 26.5. 
+
+Resp: LSCTA b/l but diminished @ bases. RR 11-13, even, unlabored breathing on 3L NC. Sats >95%. 
+
+GI: Pt has not had solids for >24hr, is drinking H20, well tolerated. Reports last BM the morning before her surgery. Abd s/nt/nd with decreased BS.
+
+GU: Pt has h/o CRI. Patent foley with u/o 25-60cc/hr of clear, light colored urine.
+
+M/S: L leg elevated, pillow between knees to keep L hip aligned. Dressing is CDI
+
+Lines: A-line patent, drawing and flushing well but waveform and reading unreliable as noted in CV section. PIV in R hand patent.
+
+Plan: Monitor and support hemodynamic status.
+      Monitor for resp distress.
+      Cefazolin IV x2 as ordered
+      Monitor/manage pain
+      Encourage IS
+      Maintain hip alignment, monitor dressing status.
+      Emotional support for pt and family
+
+",,
+14008,8865,17423,0,3294-01-20 16:02:00 EST,3294-01-20 16:15:00 EST,107,"N",69,"Nursing/Other","s/p l hip replacement","
+s/p l hip replacement
+d: neuro:pt a&o x3. pleasant and cooperative. mae's. physical therapist by to evaluate pt and pt was assisted oob with assist of 2 people and walker. pt with mso4 pca pump .5 mg  q 6 hrs. see poe orders.
+
+resp:  o2 at 3l/m nc with o2 sats> 95%. lungs cta but diminished at the bases. rr low teens. denies cp/sob
+
+cv: l aline dampened and according to the pt bp always abnormally low when taken on l arm. sbp via r arm has ranged 90-110's and pt now receiving her cardiac meds as ordered.
+
+gi: pt tolerating heart healthy diet.hct dropped to 26 and pt was transfused with 1 u prbc's. will need post transfusion hct.
+
+gu: pt with foley cath in place with adequate hourly uo. 
+
+
+integumentary: l hip drsg in [**Name5 (PTitle) **]. pt has been measured for l eg brace for d/c home. will continue  with pt at bedside and increase hewr level of activity as she tolerates.
+
+social: pt is a full code. her husband was in to visit and is aware of her transfer to medical bed when available.
+
+",,
+14008,8865,,,3294-01-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3294-1-21**] 10:41 AM
+     HIP UNILAT MIN 2 VIEWS LEFT                                     Clip # [**Clip Number (Radiology) 5547**]
+     Reason: post op                                                     
+     Admitting Diagnosis: LEFT HIP OA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old woman with                                                         
+       
+     REASON FOR THIS EXAMINATION:
+      post op                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PELVIS AND LEFT HIP, FOUR VIEWS
+     
+     INDICATION:  Postop.
+     
+     FINDINGS:  Comparison to [**3293-1-19**].  Postoperative changes status post
+     placement of a left total hip replacement with noncemented acetabular
+     component fixed with two screws and a cemented femoral stem are noted.  Gas is
+     seen in the soft tissues.  Clips are seen along the skin laterally.  There is
+     also a right total hip prosthesis with noncemented acetabular component fixed
+     with one screw and a noncemented femoral stem, incompletely evaluated on the
+     current study.  Degenerative changes of the lower lumbar spine are seen. There
+     is vascular calcification.  A calcified structure in the pelvis may represent
+     a calcified fibroid.  No hardware-related complication of periprosthetic
+     lucency is seen.
+     
+     IMPRESSION:
+     
+     Bilateral total hip prostheses without evidence of hardware-related
+     complication.
+
+",,
+14008,,,,3294-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3294-4-8**] 9:48 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 5548**]
+     Reason: follow up lung cancer                                       
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old woman s/p resected lung cancer LUL                                 
+       
+     REASON FOR THIS EXAMINATION:
+      follow up lung cancer                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old woman status post resected lung cancer, the left
+     upper lobe.
+     
+     COMPARISON:  [**3293-11-19**].
+     
+     TECHNIQUE: Multidetector, helically-acquired axial images were obtained from
+     the thoracic inlet to the lung bases without IV contrast.  5 mm and 1.25 mm
+     axial and 5 mm coronal reconstructed images were obtained.
+     
+     CT CHEST WITHOUT IV CONTRAST: Post-surgical changes from prior surgery within
+     the left upper lobe are stable and demonstrated an expected postoperative
+     appearance. There is minimal triangular residual soft tissue along the
+     anterior chest wall, which is smaller in comparison to prior study, and likely
+     represents post- surgical change.  No evidence of disease recurrence in the
+     surgical bed. Again seen are extensive changes related to underlying
+     emphysema. Additionally, there is moderate pulmonary fibrosis bilaterally,
+     which is stable in comparison to prior study.
+     
+     The aortic and coronary artery calcification is again seen.  The configuration
+     of the aorta, including enlargement of the ascending aorta (4.3 cm, 2:26) and
+     extensive atherosclerotic plaque and likely chronic dissection (2:49) is
+     stable in comparison to prior study.  The enlargement of the abdominal aorta
+     (3.8 x 2.9 cm, 2:49) is unchanged.  No enlarged mediastinal or hilar
+     lymphadenopathy is identified by CT imaging criteria.  No pleural or
+     pericardial effusions are seen.
+     
+     This study is not designed to evaluate structures below the diaphragm.  A
+     focal splenic calcification is stable in comparison to the prior study.  There
+     is a small left adrenal nodule measuring 11.8 x 9.0 mm (2:49), which likely
+     represents an adenoma, and on retrospective review of the prior study, is
+     unchanged.  A hypodensity is seen within the superior pole of the left kidney,
+     which is not completely characterized (2:47).
+     
+     Degenerative changes are seen within the thoracic spine.  No new suspicious
+     lytic or sclerotic lesions are identified.
+     
+     IMPRESSION:
+     1.  Expected stable postoperative changes within the left upper lobe, without
+     evidence for disease recurrence.
+     2.  Extensive emphysema and moderate pulmonary fibrosis, unchanged.
+                                                                 (Over)
+
+     DATE: [**3294-4-8**] 9:48 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 5548**]
+     Reason: follow up lung cancer                                       
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3.  The configuration of the aorta, including tortuosity, areas of aneurysmal
+     dilatation, is unchanged in comparison to the prior study.
+     4.  An 11.8 x 9.0 mm left adrenal nodule, not completely characterized, but
+     likely representing adrenal adenoma, is unchanged.
+
+",,
+14008,,,,3294-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3294-10-7**] 10:04 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5549**]
+     Reason: follow up lung cancer                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         76 year old woman s/p lobectomy for lung cancer                              
+     REASON FOR THIS EXAMINATION:
+      follow up lung cancer                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Followup of a patient after left upper lobe resection
+     due to lung cancer.
+     
+     COMPARISON:  Chest radiograph from [**3294-1-19**] and chest CT from [**3294-4-8**].
+     
+     The heart size is mildly enlarged but unchanged.  Tortuous and heavily
+     calcified aorta again demonstrated.  The left lung volume is decreased due to
+     resection of left upper lobe with stable post-surgical appearance.  The
+     subpleural interstitial abnormalities predominantly involving the lung bases
+     represent a known honeycombing most likely related to IPF.
+     
+     There is no pleural effusion or evidence of congestive heart failure.
+     
+     IMPRESSION:
+     
+     1.  No evidence of tumor recurrence.
+     
+     2.  Known lung fibrosis.
+     
+     3.  Tortuous and heavily calcified aorta.
+                                                                           
+
+",,
+14008,,,,3295-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3295-1-7**] 9:28 AM
+     BILAT HIPS (AP,LAT & AP PELVIS)                                 Clip # [**Clip Number (Radiology) 5550**]
+     Reason: eval                                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         76 year old woman s/p l tha                                                  
+     REASON FOR THIS EXAMINATION:
+      eval                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  77-year-old female status post left total hip arthroplasty.
+     
+     COMPARISON:  AP pelvis and two views right hip dated [**3293-7-17**] and views of the
+     left hip dated [**3294-1-21**].
+     
+     AP PELVIS AND TWO VIEWS BILATERAL HIPS:  Moderate degenerative changes are
+     seen along the lower lumbar spine.  The sacroiliac joints and pubic symphysis
+     are normally aligned.  The overlying bowel gas limits evaluation of the
+     sacrum.
+     
+     The patient is status post bilateral total hip arthroplasty.  On the right,
+     the femoral head prosthesis overlies the center of the acetabular component on
+     all three views.  There is no fracture or malalignment of the hardware, no
+     evidence of hardware loosening.  Cerclage wire within the greater trochanter
+     is fractured in the interval since [**3293-7-17**].  On the left, the prosthetic
+     femoral head overlies the acetabular component on all views.  There is no
+     malalignment of the hardware, or evidence of hardware loosening.  Productive
+     bony changes overlie the lesser trochanter.  There is no evidence of fracture.
+     Marked atherosclerotic calcifications are seen bilaterally.  There is a
+     calcified fibroid within the pelvis.
+     
+     IMPRESSION:  Status post bilateral total hip arthroplasty without malalignment
+     or hardware loosening.  A right greater trochanter cerclage wire has fractured
+     in the interval since [**3293-7-17**].
+     
+     
+     
+     
+
+",,
+14008,,40123,0,3295-02-16 05:16:00 EST,3295-02-16 05:37:00 EST,9765,"N",54,"Nursing/Other","MICU 6 NPN 2000-0700","
+MICU 6 NPN 2000-0700
+
+Pt is a 77 year old female admitted to [**Hospital **] Hosp 2 weeks ago with urosepsis, PNA, and ?colitis after a syncopal episode at home.  Pt with know severe AS.  At BH many episodes of abd pain with bloody diarrhea.  Abd CT showed area of colon with inflammation and ischemia, also showed 4.2cm AA.  Pt also with PEA arrest at BH.  Pt transferred to [**Hospital1 10**] for consideration of aortic valve replacement.  While on [**Hospital Ward Name **] 6 pt continued with bloody stool and Hct drop to 24.9.  She was sent to MICU 6 for close monitorring during transfusion of PRBC.
+
+Neuro:  Pt is A and Ox3.  Pleasant, cooperative with care, follows commands.
+
+CV:  HR NSR/ST with occ to frequent PACs and occ PVCs. Mg 1.7 was repleted with 2gm Mag.  AM lytes pending and will replete as needed.  NBP stable all shift, currently 127/54 with MAP 71.  BLE with palpable pedal pulses and no edema noted.  LUE with +3, non-pitting edema is warm with palpable radial pulse, ?clot s/p left subclav central line at outside hospital.  Team aware, ultrasound orderred.  RUE no edema, palpable radial pulse. No SOB.  Hct 24.9 up to 28.0 after 1 unit PRBC. Given 10mg IV lasix post tranfusion with good effect.
+
+Resp:  LS with crackles 2/3 up from bases.  3L NC with sats 97-100%.  + cough with thin clear sputum.
+
+GI/GU:  1 small, loose, maroon stool this shift.  Abd soft and pos bowel sounds. Pt denies abd pain. Clear liquid diet orderred.  Foley drainning clear yellow urine. 
+
+Skin:  Skin frail, intact.
+
+Access:  2 PIV in right arm, do not use left arm for PIV or phlebotomy.  RIJ triple lumen placed.
+
+ID: Afebrile
+
+Endo:  qACHS finger sticks with HISS
+
+Social:  RN spoke with daughter this AM about POC.
+
+Plan:  
+Routine ICU monitorring.
+Support to pt and family.
+Monitor Hct and lytes. 
+",,
+14008,,40123,0,3295-02-16 17:56:00 EST,3295-02-16 18:11:00 EST,9792,"N",54,"Nursing/Other","MICU Nursing progress note 0700-1900","
+MICU Nursing progress note 0700-1900
+Events: Called out to floor. Ultrasound done of carotids/L arm.
+
+CV: NSR w/ freq PAC's and occ PVC's. HR 74-94. BP 85-116/46-63. MAP's 59-77. DP's palpable. L arm +3 edema. HCT 29.5. 
+
+Resp: LS- clear w/ crackles [**2-6**] way up. O2 sats 97-100% on 2L NC. RR 19-27. Albuterol given d/t complaint of slight resp distress.
+
+Neuro: Alert, cooperative, ox3. Follows commands. MAE. Turns self in bed frequently. Lorazepam ordered PRN for difficulty sleeping HS. 
+
+Skin: Intact, frail skin. 
+
+GI/GU: Abd-soft. +BS. BM's-maroon, small, guiac pos x2. Diet- clear liquids, poor intake. Foley-light yellow/clear. Output 30-80cc/hr. 
+
+Access: R IJ. PIV's x2 d/c'd d/t pain. 
+
+ID: Afebrile. WBC 8.2.
+
+Social: Full code. Family in to visit most of day.
+
+Plan: Continue routine ICU care. Monitor HCT/HR/BP. Assess resp status. Continue support for patient and family.
+",,
+14008,,40123,0,3295-02-17 05:18:00 EST,3295-02-17 05:45:00 EST,8067,"N",54,"Nursing/Other",,"
+
+7p-5a
+
+Pt had uneventful nidht.
+
+CV) Temp max 100.1 @4am. HR gradualy Increasing to100 from 80.Pt is in NSR with frequent PAC's and occasional PVC's. SBP stayed from 100-110 with MAP>60. L-arm swollen,radial pulse palapableX2 no clots via US. Pt is NPO for possible cardiac cath today.
+
+Resp) Pt is on 3L NC sats stays 94-95,gets SOB with activitieswith sl decrease to sat, but recovers with rest (baseline per dgt). LS clear to upper resp areas with cx's to LLL and [**2-6**] of Rt lung.
+
+Neuro) A&OX3. Dgt called and updated by RN.
+
+Skin) pt has oral ulcers gave nystatn s+s. 
+
+Gi) Abd soft and with + BS. No abd pain. pt hct dropped from 29 to 27.5. Pt had 3 epispode of loose maroon stool over night. NPO. No scope for now per GI.
+ 
+GU) Floey draining clear yellow urine. Pt is now (-)1.2 liters for LOS.
+
+access) TLC.
+",,
+14008,,40124,0,3295-02-19 14:47:00 EST,3295-02-19 15:13:00 EST,1710,"N",1,"Nursing/Other",,"
+
+77 YR OLF ADMITTED TO OSH AFTER FAINTING AT HOME.RX FOR UROSEPSIS,PNA,HAD PEA ARREST .FOUNT TO HAVE CRITICAL AS.PASSING BLOODY STOOL THOUGHT TO BE ISCHEMIC COLITIS. TO [**Hospital1 **] FOR MEDICAL [**Doctor Last Name **] PRE AVR .HX CABG [**86**],AAA,LUNG CA C RESECTION ,BILATERAL HIP REPLACEMENTS,HTN ,HYPOTHYROID.WAS MICU BORDER,TRANSFUSED 1 UNIT .TRANSFERED TO F 3 ,CATHED [**2-18**] GRAFTS PATENT.BLOODY STOOLS INCREAING IN FREQUENCY DURING NIGHT .HYPOTENSIVE .TX 2 UPRBC ,GIVEN 20MG IV LASIX .TO CCU FOR CLOSER MONITORING .
+
+PT HYPOTENSIVE TO 70S.TACHYCARDIC ,SOB. 350 CC DIURESED.HCT 27 .STARTED ON LEVOPHED ,250 CC BOLLUS NS ,1 UNIT PC GIVEN .STABLIZED TO HR 90,BP 94/51 .SET TO TAGGED RED CELL SCAN TO DETERMINE RX.R FEM CATH SITE NO BLEEDING,PULSES BY DOPPLER
+
+PT ALERT,DENIES PAIN,C/O THIRST AND FATIGUE.FAMILY AT BEDSIDE ,DAUGHTER IS A NURSE .
+
+BS C CRACKLES,SAT 99 3LNP.
+
+ABD SOFT,POS BS FREQUENT BLOODY STOOLS .ALOE VEAT TO EXCORIATED PERINEUM
+
+HUO 40 CCCYU VIA FOLEY
+
+TX AS NECESSARY.MONITOR HCT
+LOW DOSE LEVOPHED FOR ADEQUATE BP
+SUPPORTIVE CARE 
+AVOID TACHYCARDIA 
+
+",,
+14008,,40124,0,3295-02-20 05:21:00 EST,3295-02-20 06:12:00 EST,1722,"N",1,"Nursing/Other",,"
+
+ccu npn
+
+77 yr old w pmh cad, s/p cabg [**86**],htn,rf baseline creat 2.0, copd, bilat hip replacement, hx lung ca. presented to [**Hospital **] hosp s/p syncopal episode @ home. s/p urosepsis,pna and ? cholitis ischemic/infectious. s/p abd ct showing inflammation,infection and ischemia...also has aa 4.2cm s/p pea arrest. s/p echo showing severe as. transfered to [**Hospital1 **] pre avr w/u. [**2-18**] cath showed patent grafts. severe as, ef 55-60%. pt was ccu border in micu transfered to ccu on [**2-19**]. had several bloody stool. am [**2-19**] hypotension,tachycardic/tachypnea after receiving lasix post transfusion. now on levophed (attempting to wean) pt is s/p prbc x4 units, ffp x 1 unit.
+
+cv/gi: initial rounds pt receiving prbc #4. hr 100-109. on levophed @ 0.065mcg/kg/min. sbp 100-110 w map's > 60. passed bloody stool approx. 100cc. gi team and ccu team into evaluate pt. abd tender to touch. ntg passed via l nares by team. lavaged 200cc instilled. retreived 50cc orange to light pink material. heme +. inr 1.4 . received vit k sc and 1 unit ffp on eves. total of 3 bloody stools on eves. the last bm was @ mn (see i/o). con't tachycardic with hr 100-110. eve hct stable @ 31.9 post transfusion. cvp 2-4. treated with ns bolus 250cc x4 overnoc improving cvp's [**6-12**]. hr improving down to 80's- low 90's. sbp wnl and map's > 60. attempted to wean levo down to 0.056mcg but map's dropping below 60. team aware. treated with fluid boluses w effect levo currently @ 0.061mcg/kg/min. am hct 29.7 #5 u prbc ^ @ 0545am. plan is to prep this am and scope in afternoon. red [**Last Name (un) 5558**] study on [**2-19**] inconclusive. pm lopressor held on eves for obvious reasons. npo will take meds w sips. family states she has had poor appetite very little to eat over last two weeks.
+
+resp; o2 @ 3l via np. has maintained sats 96-98%. bs unchg cl/crackles @ r base. diminished @ l base. only slightly sob w repositioning. overall she appears comfortable. has congested cough. atrovent nebs q 6 but no wheezes noted.
+
+gu: foley draining cyu. u/o .60cc/hr am creat pending. received last dose of mycomist on eves.
+
+id: wbc 13.2. low grade temp. started on flagyl,cipro and ampicillin empirically. ? infections cholitis,
+
+neuro; a/o x3 follows all commnads. mae. ativan @ hs (takes it at home) 0.5mg po w good effect. slept in long naps.
+
+skin: perianal area red excoriated. antifungal/barrier applied w slight improvment.r triple lumen site c/d. otherwise skin inatct. turned q2/hr. r fem site c/d pulses +2 bilat ft wrm
+
+social: daughter in on eves. pt has husband who is her hcp. daughter called this am for update and plan for day.
+
+labs: am pending
+      bs 131,97 no ssi requiered.
+      hct 31.9,29.7
+      k+ 3.7 md [**Last Name (Titles) **].
+dispo: full code
+
+a/p: bowel prep and scope today. follow hct. attempt to wean levo follow inr. update family and pt support.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+",,
+14008,,40124,0,3295-02-20 17:07:00 EST,3295-02-20 17:54:00 EST,7570,"N",1,"Nursing/Other",,"
+
+CCU NPN 0700-1900
+
+77 y/o female Pre AVR w/ severe as. Now with ischemic vrs infx bowel, melenotic stool and unstable hct. 
+
+CV: Hct checked x2, 33 at 0900 -> 30 at 1300. BP 110's/60's this am tolerating wean off of Levophed. Levo gtt off at 1000. BP stable until approx 1400 w/ drop to 80's/50's map <60. Treated w/ gentle ivf boluses of 250cc ns x2 for a total of 500cc. Also recieving fluid via iv abx, total 450cc. BP up to 113/63 map 73.
+CVP 4-5. 
+resp: Rales t/o, r>l.  team aware. o2 sat stable at 100% on 3lnc. +SOB w/ turning. Pnx, productive cough for think tan sputum.
+Afebrile.
+GI: npo, frequent melenotic stools, see carevue. Golytely prep started at 11am. Pt became nauseous and unable to cont. No vomitting. NGT placed w/o difficulty. Bowel prep given via ngt.    
+abd tender to palp in some areas. 
+GU: last creat 1.4, u/o 40-70cc/hr.
+
+A: Bowel ischemia vrs infected bowel. Frequent bloody stools on Bowel prep for colonoscopy. Tenuous hct, BP, and resp status. Afebrile on IV ABX for broad coverage.
+P: Follow BP and hct. IVF boluses vrs prbc if needed. Monitor resp status.  Gen [**Doctor First Name **] following, GI following-> plan to scope lower GI tomorrow when.
+
+",,
+14008,,40124,0,3295-02-21 04:43:00 EST,3295-02-21 05:43:00 EST,1722,"N",1,"Nursing/Other",,"
+
+ccu npn
+
+s:"" All I want to do is sleep'
+
+77 yr old presented to [**Hospital **] hosp. s/p syncopal episode @ home, and bloody diarrhea. presented w urosepsis,pna and cholitis ? ischemic vs infectious. s/p abd ct scan showing inflammation,infection,ischemia, also aaa 4.2 cm. s/p pea arrest. recent echo shows ef 55-60%, severe as. transfered to [**Hospital1 **] for pre-avr w/u. [**2-18**] cathed, grafts patent. con't bloody stool. several transfusion. [**2-19**] pt received lasix post transfusion, became hypotensive,tachycardic/tachypnic. transfered to micu (as ccu border)- [**2-19**] transfered to ccu. events over w/e prbc's x5 units, ongoing bloody stools,^ inr tx w ffp,vit k. pressors and fluid support (multiple multiple fluid boluses). [**2-20**] golytly prep . plan for scope today.
+
+cv: on intitial rounds. pressors off. sbp wnl map's > 60. cvp 4-5. hr 80's nsr w occassional pvc's noted. 2000 given 250cc ns bolus for low cvp's. md aware. fair responce w cvp ^ 6. 2200 bp dropped to 82/39, cvp 4 no significant bleed noted. dr [**First Name (STitle) **] aware. additional 250cc bolus given, slow rise in bp. repeat ns bolus x250cc given. ccu team [**First Name (STitle) **]. little chg in bp noted. card's fellow [**First Name (STitle) **] by team and levophed re-started with adequate rise in bp. currently levo 0.045mcg/kg/min. pt also started on ns con't infusion 75cc/hr. cvp now ^ 8. will attempt slow wean of pressors. hr 75-76 nsr w occassional pvc's noted. sbp 100-130 map's > 60. cvp 8-9. k+ 4.0. mg 1.6 Dr [**Last Name (STitle) 5559**] [**Name (STitle) **] of am result.
+
+resp: o2 @ 3l  np. slightly sob with repositioning. rr-20's sat has been stable 96-98%. bs unchg. fine crackles noted in r upper and lower bases. l cl/crackles in bases. pt appears comfortable. productive cough. raising thick tan secretions. has atrovent q/6hr been has not requiered it. (hx copd)
+
+gi: remains npo. 5 total stools overnoc. completed golytly [**2-20**] @ 1800. stool is light brown/melanotic streaks  liquid. some mucous noted. abd is tender on deep palpation. plan is for scope today. hct stable.(last transfusion [**2-20**] am) gen [**Doctor First Name **] following. in multiple times overnoc. lactate 0.6
+
+gu: u/o 40-60cc/hr creat 1.1 (hx rf d/t htn) @ mn + 6 liters over 24/hr. draining cyu
+
+skin; perianal area red excoriated. meticuluos skin care antifungal/barrier applied after each bm. has old skin tear on r lower post arm, healing area now ota. r groin c/d pulses 2+ ft wrm
+
+id; empirically covered with flagyl,cipro and ampicillin. wbc down 7.8 afebrile
+
+neuro; a/o x3 mae follows all commnads. intact
+
+comfort: has hip pain ( s/p bilat hip replacments) ultram given (with md's ok) with good effect
+
+labs: hct 32.4
+      bs 124,70 no ssi requiered
+      k+ 4.0
+      mg 1.6
+
+social: husband is patients hcp. also has daughters who are involved in care. update given to family overnoc. they are aware of plan for the day.
+
+a/p; attempt wean pressors again. con't ivf (follow resp status). follow hct. gen [**Doctor First Name **] following/gi. update family as needed.
+
+
+",,
+14008,,40124,0,3295-02-21 16:45:00 EST,3295-02-21 17:43:00 EST,6839,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: ""Alright, give my some more of that garbage""
+
+O: Pls see careview for further objective data
+
+NEURO: AA&O x3. Pleasant and cooperative. MAE in bed, bedrest--assisting with turns. Following commands. C/o c/o pain. Overall general body discomfort/fatigue.
+
+CV: HR 80s-90s NSR c occas-freq PVCs, occas couplets. [**Street Address 5560**] bursts to 130s--resolved spontaneously. Levophed weaned off at 1000 c MAPs >55. CVP 5-8. + pedal pitting edema bilat. L arm significantly more swollen than R(not new). Evening HCT and lytes PND. 
+
+RESP: Crackles throughtout bilat. On 3L NC most of day, attempted to wean down to 2L, increased back to 3L d/t o2 sat drop to 87% c good pleth after repostioning--No c/o SOB, pt taking deep breaths, non labored. 
+
+GI: Being f/b general [**Doctor First Name **] and GI. Colonoscopy done at bedside. Rec'd total 50mcg fentanyl, 2 mg versed--BP tol. Confirmed dx of ischemic bowel,healing- no necrosis found, no active bleed. Asking for bedpan, incontinent smears at times. 4 sm loose stools today- soft brown c visible blood streaks, mucousy--CCU team and GI aware. +belching, +flatus after colonoscopy. Diffuse Abd tenderness upon deep palpation. NPO all day, taking pills with water whole without difficuly. On PPI BID. 
+
+GU: Foley to gravity draining adequate amts CYU 22-80cc/hr. Rec'd 600mg mucomyst in prep for IV contrast for CT torso. 
+
+SKIN: Coccyx red, excoriated. Moisture barrier cream and Critic-aid cream for incontinence applied. T&R Q1-2 hrs. Mucous membranes dry, +thrush--nystatin oral susp given a/o
+
+ID: Afebrile, on Flagyl, Ciproflox and ampicillin empirically
+
+ENDO: RISS d/c'd. Has not needed coverage since admission. 
+
+ACCESS: IV in to place #20 in R lower post forearm for contast for CT torso tonite. RIJ TLC patent. 
+
+SOCIAL: Family in all day. Updated, asking appropriate questions. Expressed frustration in pt's condition--allowed to vent, emotional support given. 
+
+A/P: 77 y/o with AAA and severe AS c/b GIB. Here for w/o for AVR. S/p colonscopy today c dx of stable ischemic bowel-HCT stable x24 hrs, off pressors. 
+-CT torso tonite
+-Follow serial HCTs, transfuse <30, type and screen c AM labs
+-maintain adequate hydration and monitor BP, VS accordingly
+-mucomyst x3 more doses
+-T&R freq, moisture barrier cream 
+-abx a/o
+-emotional support to pt and family, update on POC.
+
+
+
+
+",,
+14008,,40124,0,3295-02-22 05:07:00 EST,3295-02-22 05:26:00 EST,1722,"N",1,"Nursing/Other",,"
+
+ccu npn
+
+s:"" I wonder if they will do surgery on me""
+
+cv: remains in nsr w hr 87-97. sbp (off pressors) 99-125 w map's 59-78. cvp @ 0200 [**2-6**]. given bolus ns 250cc and started on ns @ 75cc/hr. cvp now [**8-15**]. l arm con't swelling. hand is wrm + rad pulse. ct of torso to assess aaa completed.
+
+resP; remains on 3l np w sats 96-99%. con't to c&r thick tan secretions although cough seems last frequent . sob w turning, but returns back to baseline w rest. rr-reg
+
+gi: bm x3 now brown loose stool some formed small pieces. abd soft only tender w deep palpation. taking po's cl liq. requesting apple juice and tol well by pt. am hct stable.
+
+gu: creat 1.2 foley draining 40-70cc/hr of cyu. will con't on mycomist today ( received contrast for ct)
+
+skin; con't to have reddened perianal area. meticulous skin care after each bm. old skin tear on r post arm open to air and unchged.
+
+neuro; a/o follows all commands. mae received ativan @ hs slept in long naps.
+
+id: afebrile. con't on triple abx wbc 7.4
+
+labs: k+ 4.5
+      mg 2.2
+      hct 33.9
+      
+social: husband called on eves for update. poc reviewed w family. support given
+
+comfort: see pain assessment. received ultram for bilat hip pain d/t br. w good effect.
+
+a/p: con't to follow hct. gen [**Doctor First Name **] and gi following. await result ct scan. con't to support family and pt. encourage po's slowly
+",,
+14008,,40124,0,3295-02-22 17:32:00 EST,3295-02-22 18:13:00 EST,6839,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: "" I wish they can just decide on what they are going to do to me!""
+
+O: 77 y/o h/o AAA 9not surgical candidate) initially admitted [**2-2**] to [**Hospital **] Hospital c UTI/Sepsis, PNA & colitis p syncopal episode @ home. Hospital course c/b recurrent GIB, PEA arrest req intub then extub. Echo revealed severe AS. Sent to [**Hospital1 10**] (in MICU d/t no beds avail) for w/u AVR [**2-16**]. Transferred to CCU [**2-19**]. Since then has rec'd numerous amts PRBCs and many fluid boluses for BP support. KUB and tagged RBC scan showed no evidence GIB. F/b general [**Doctor First Name **] and GI. [**2-21**]- bedside colonoscopy confirmed dz ischemic colitis, healing c no active bleed. CTA-torso [**2-21**]--no bleeding from AAA. 
+
+CV: HR 80-90s NSR with occas-freq PVCs, rare couplets. AM lytes WNL (on SS Mag and K). NIBP 90s-one teens/50-60s c MAPS >60 (Levo has been off since 1000 [**2-21**]). Has not req'd fluid boluses this shift. Hr transiently up to 110 when standing up & going BTB. Am HCT stable. (Last transfusion [**2-20**] AM). Active clot expir Fri [**2-25**] at 2359. L arm continues to be significantly larger than R, nontender-Encouraged to keep up on pillows ([**2-16**], L arm u/s done c no evidence of DVT/clot).
+
+RESP: O2 sats >95% on 3L NC. LS crackles bilat. No c/o SOB however appears to have DOE. Expectorating sm amts thick yellow sputum in tissue. Pt enc to C/DB. 
+
+GI: Diet advanced from clear liq to low NA, cardiac healthy diet. Poor appetite, taking pills whole c water s difficulty. 1 sm brown loose stool c streaks of visible blood. Abd c diffuse tenderness upon palpation. Had bedside colonoscopy yesterday--confirmed dx of ischemic colitis, healing c no active bleed. On BID PPI.
+
+GU: Foley draining minimal amts CYU 19-60cc/hr. Pre-hydration fluid ordered to start at MN for valvuloplasty tomorrow. Mucomyst x4 doses for CT contrast yesturday, last dose tomorrow at 0800. 
+
+ID: Afebrile. On IV Flagyl, Ampicillan, Ciprofloxacin empirically. Bcx [**2-15**] neg. 
+
+SKIN: Peri-area excoriated d/t freq stools. T&R freq, moisture barrier cream and critic aid cream applied freq. Toes and heals red & blanching, barrier cream applied and heals up on pillow. Mucous membranes dry-Enc POs. 
+
+NEURO: AA&Ox3. Following commands. Cooperative c care. Reported feeling depressed this AM d/t condition, very frusterated-allowed to express feelings, emotional support given. Appeared to be in better spirits once family in and when updated by CCU team that she would have a valvuloplasty tomorrow. Has Ativan order @ HS, has helped per reports/documentation. 
+
+ACTIVITY/PAIN: OOB with PT x1 assist. Tol well according to PT. Up in cardiac chair for 2 hrs. BTB x2 assists, bares wt, gait unsteady-needs support. C/o bilat hip pain (h/o replacements) and lower back pain (not new). Medicated c Ultram and Tylenol c + effect. 
+
+PLAN: GIB improving, less stools. HD stable. Balloon valvuloplasty tomorrow to improve foward flow and aid in healing ischemic colitis. Plans for rehab then AVR in future. OF note: Pt ordered for Panorex for dental w/o for valve replacement- de
+",,
+14008,,40124,0,3295-02-22 17:33:00 EST,3295-02-22 18:13:00 EST,6839,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+(Continued)
+ferred until pt can sit in chair in xray. PFTs also deferred, CCU intern aware. 
+-Monitor HCTs, transfuse <30.
+-pre-hydration fluid to start tonite at MN
+-OOB as tol
+-enc PO
+-ultram and tylenol for pain
+-freq skin care
+-emotional support to pt and family, update on POC PRN
+",,
+14008,,40124,0,3295-02-23 05:28:00 EST,3295-02-23 05:45:00 EST,2001,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+77yo initially adm on [**2-3**] to OSH with UTI sepsis, pneumonia and colitis, c/b PEA and intubation.  Quickly extubated.  Has AA that is not surgical candidate.  Transferred to [**Hospital1 10**] for aortic valve replacement.  While here has had approx 6 units PRBC for continuing GIB. Had multiple scans, recent colonoscopy showing ischemic colitis but no active bleed site.  She is currently awaiting valvuloplasty as bridging to future valve replacement.
+  ID: afebrile, remains on multiple iv antibx.
+  CV: Hemodynamically stable with hr 90-100's sr/st with occ pvc.  BP 110-120's.  Hct is currently stable.  Started pre-valvuloplasty hydration at 12am and has been npo except meds and a few ice chips.  Need to start bicarb gtt 1 hour prior to going for procedure.  Distal pulses are weakly palpable.  Has pitting lower extrem up to hip edema.  
+L arm conts to be more edematous than R.  
+  Resp: O2 at 3lnp with sats in the low to mid 90's.  Lungs are diminshed in L base and crackles in R base.  She becomes very dyspneic with moving in bed, has no reserve.  
+  GI/GU: Abd soft denies pain.  Has had approx 3 loose bms, slight streaks of red noted.  OB (+). Her perianal area is very excoriated, A&D oint applied multiple times, after thorough cleaning.  Has been NPO since 12am except for meds and few ice chips.  Foley drng clear yellow urine in adequate amts.  
+  MS: Alert and oriented x 3.  No deficits noted.
+  Pain: Has ^^ back pain from arthitis.  Given ultram with mild effect, stated once she rec'd ativan the pain was gone and she was ale to [**Doctor Last Name 8**].  She may need further pain meds during procedure. She was positioned multiple times during night for comfort.
+A: hemodynamically stale awaiting valvuloplasty
+   ^^ SOB with any movement
+P: prepare for procedure today
+   provide emotional support
+   ? adding on additional pain meds for back pain
+   
+",,
+14008,,40124,0,3295-02-23 18:13:00 EST,3295-02-23 18:35:00 EST,1627,"N",1,"Nursing/Other","CCU progress note 7a-7p","
+CCU progress note 7a-7p
+
+EVENTS: pt went down to cath for valvuloplasty at 3pm, but case cancelled by cath lab. back to CCU - taking liquids, but no appetite. NPO after midnite again. 
+
+NEURO: A+Ox3. turns w/ minimal assistance. pleasant and cooperative. anxious to have procedure over and done with. family in to visit all afternoon. ultram q6h for c/o arthritic pain to back/hips. baseline pain w/ meds on board [**4-14**] - when pain gets worse increases to [**3297-5-10**]. pt refusing morphine for breakthru pain. ""I don't like to take too many meds"". 
+
+ID: afebrile. con't multiple abx for ischemic colitis. 
+
+SKIN: rash from stooling on buttocks - red. barrier cream applied. heels reddened. barrier cream, elevated off w/ pillows - waffle boots applied today. freq turns. 
+
+RESP: increasing crackles to both bases. O2 3L n/c. sats 997-98% on 3L n/c. remains dyspneic with any exertion in bed - assisted w/ bath in am (brushed teeth and washed face w/ dyspnea). 
+
+CARDIAC: SR80-90s. SBP 100-110s. RIJ TLC patent. CVP 6-10. 3+ edema to feet, and 2+ lwr legs. Lt arm 3+ edema. (lwr BP in Lt arm - pt stating since CABG in 90s). pneumoboots. 
+
+GI/GU: foley patent - good u/o. abd soft +BS. 2 small BMs today - golden loose guiac positive. no visible blood streaks today like overnight. NPO this morning - now taking liquids and jello - poor appetite. NPO after midnite again. pre cath fluids ordered. 
+
+PLAN: NPO after midnite - IVF start NS 75cc/hr at midnite pre-cath hydration. planned for 1st or 2nd case in am for valvuloplasty. skin care, freq turns, emotional support, supportive care. 
+",,
+14008,,40124,0,3295-02-24 05:24:00 EST,3295-02-24 06:18:00 EST,7371,"N",1,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+S: ""I just want to [**Doctor Last Name 8**]""
+
+O: Please see carevue for complete objective data.
+
+CV: NSR, 80's-90's, ocas PVC's. SBP 106-142. PP palp. Hct 35.5 (33.5) Sched for valvuloplasty this AM. k-4.4, Mag-1.8, to be repleted c 2gm. 
+
+Resp: c/o SOB with exertion. on 3L nc, sats 95-100. Crackles bilaterally ~[**2-6**] way up. 
+
+GI/GU: BM x 5, Loose brown, slightly guaiac positive. NPO since MN. Foley draining CYU. Slightly positive, +10L since LOS. Pre-procedure IVF..NS @ 75ml/hr since MN.
+
+Neuro: A&O x 3, anxious about procedure. Gave ativan 0.5mg po and pt slept for 3 hours uninterrupted. 
+
+Skin: Heels pink, elevated on affle boots. Bottom reddened/rash applied barrier cream, otherwise intact.
+
+Afebrile, RIJ TLC, and RL arm #20G.
+
+Social: Daughter updated by phone. Plans to visit in AM.
+
+Plan: 1st/2nd case valvuloplasty this AM. Pre-procedure checklist done. Emotionally support pt and family. Keep updated on plan.
+",,
+14008,,40124,0,3295-02-24 17:26:00 EST,3295-02-24 17:54:00 EST,6839,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: ""So they didn't do anything""
+
+O: EVENTS: 
+To cath lab ~0700 for valvuloplasty as bridge for future AVR. Returned from cath ~1200 s incident-tol well. Cath demonstated AS not as severe as thought to be by previous echo. Gradient 20 (45 by echo), LVEDP ~9. Valvuloplasty not performed at this time. 
+
+CV: HD stable. Lopressor 12.5mg ordered. To start tonoc. Pt came up from cath with hemoband to R radial arterial access site. BP taken in L calf d/t L arm lymphodema and d/t R radial art site.  Sm  ooze->stable. R fem arterial/venous sheaths pulled in lab. Area c ?hematoma d/t old previous cath site. Slight ecchymosis. 
+
+RESP: LS c crackles. No c/o SOB, remains on 2L NC. Tol cath procedure/laying flat in bed well. No nebs needed.
+
+NEURO/PAIN: rec'd 0.5mg versed in cath lab. AA&O x3 upon returning from lab. taking short naps, ""I'm just tired and weak."" C/o back and hip pain. Medicated c tylenol and Ultram c fair results. T&R c slight relief. 
+
+GI/GU: Poor appetite after cath. POs encouraged. Attempted to eat some jello. ""I don't have much of an appetite right now."" No stool this shift. 1/2 NS up at 75cc/hr x500cc maintanence fld. Foley draining adeq amts CYU.
+
+SKIN/ACCESS: Feet and hands cooler than UE and LE. Toes reddened, blanching. Heels red. Dtr brought in padding for heels. P-boots on. Peri-anal area improving-now pink. Moisture barrier cream applied. RIJ TLC patent. Caps and tubing changed. R arm PIV expires tonoc--left in place. 
+
+SOCIAL: Mult fam members in, appropriate, questions answered by RN and MDs. 
+
+A/P: S/p cath s valvuloplasty. Continue to med manage of CAD, AAA and AS. Plan for chemical stress test next week then to rehab/skilled nsg facility.
+-monitor cath access sites, PP
+-Lopressor tonoc
+-pain ctrl, ?low dose oxycodone for better pain ctrl of arthritic back pain and bilat hip pain.
+-monitor skin, T&R freq, moisture barrier cream to all bony prominences, pressure points. Heels up on pillows and L arm elevated.
+-Encourage POs
+-Provide calm environment to promote rest, ativan @HS, pt safety-call bell w/i reach at all times
+-emotional support to pt and family, update on POC PRN
+
+",,
+14008,,40124,0,3295-02-25 05:08:00 EST,3295-02-25 05:46:00 EST,7371,"N",1,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+S: ""I will fall asleep and the ""wam"" the pain just hits me.""
+
+O: Please see flowsheet for complete objective data.
+
+Neuro: A&O x 3. pleasant and cooperative. MAE, assists with turns. C/o pain in back, frequent turns and ultram given. Gave oxycodone 2.5mg tab with little effect. Repeated x 1. Slept in short naps.
+
+CV: NSR, 70's-90's, ocas PVC's. SBP-100-130's. Tolerated lopressor po 12.5mg. DP's weak palp, PT's diff to palp, confirmed with dopp. R groin angio site CDI, ecchymotic. Hct 34.7 (35.5) CVP 8-13. Venodynes on.
+
+Resp: pt remains on 2L nc, sats mid to high 90's. Lungs clr c crackles. Strong cough, thin clear sputum. 
+
+GI: BS present, Abd soft, nontender. BM x 2, loose brown, guaiac pos. Pt c/o lack of appetite, will attempt to advance today. 
+
+GU: Foley patent, draining CYU. Approx even since MN, +10.5L LOS. IVF to KVO when finished.
+
+Access/Skin: RIJ TLC intact, dressing changed. R #20G PIV, due to be removed for routine change. Skin D&I. Bottom reddened, barrier cream applied after each BM. No breakdown. Heels placed on gels pads provided by pt's daughter. 
+
+Afebrile.
+
+A: Pt admitted for valvuloplasty, re-evaluated and procedure canceled r/t pt's stable condition. Cathed [**2-24**].
+
+P: Cont to monitor cardiac and resp status. Advance cardiac meds as tolerated. ?PT consult, advance diet as tolerated. Plan to monitor over the weekend with stress test monday. Emotionally support pt and family and keep updated on plan per multidisciplinary rounds.
+
+
+",,
+14008,,40125,0,3295-04-17 14:49:00 EST,3295-04-17 15:06:00 EST,5692,"N",1,"Nursing/Other",,"
+
+Please See Carevue for Specifics.
+
+Pt adm from [**Hospital Ward Name **] two with BRBPR, new onset afib 180-220 on arrival and difficulty to obtain a blood pressure.  On arrival pt was A+OX3, MAE, following commands.  C/o pain with CVL insertion and aline placement.  Pt received two unit pRBC's and 2.5L NS.  With fluid boluses and blood pt HR decreased to 130-140's.  At this time family arrived to hospital and a family meeting with the MICU occurred.  Family and pt declined surgery for ? of ischemic colon and any further intervention.  Pt and family made decision be comfort measure.  Pt c/o difficulty breathing.  Right lung field was noted for severe crackles and left lung base with diminished with crackles/coarse breath sounds upper left lobe.  Pt O2 sat 96-98% on 4L NC and 15L Non-rebreather, ABG showed sever respir acidosis.  Pt received 2mg IV morphine for c/o difficulty breathing and was started on Morphine gtt.  Morphine gtt was titrate according to c/o difficulty breathing.  0.5mg IV ativan was also adm difficulty breathing which helped pt relax.  Foley with minimal amounts of c/y/u.
+
+POC:  Continue to keep pt comfort.  Minister to bless pt.  Continue to offer emotional support to pt and pt family.
+",,
+14008,,40125,0,3295-04-17 20:26:00 EST,3295-04-17 20:29:00 EST,8893,"N",1,"Nursing/Other","NPN","
+NPN
+Please see carevue for further details
+Family at bedside, pt comfort measures only. Morphine gtt at 8 mg/hr. Pt appeared comfortable. RR 12-15. At approximately 2035 pt became asystolic. MICU team notified- in to evaluate. Family declined autopsy- team aware. Awaiting transfer to morgue. 
+",,

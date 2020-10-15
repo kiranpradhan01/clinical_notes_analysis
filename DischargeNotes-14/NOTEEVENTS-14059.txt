@@ -1,0 +1,394 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14059,3729,,,2671-10-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2671-10-15**]     Discharge Date:  [**2671-10-21**]
+
+Date of Birth:   [**2584-5-31**]     Sex:  F
+
+Service:  [**First Name9 (NamePattern2) **] [**Last Name (un) **]
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 87-year-old
+woman with a history of diabetes, hypertension, and a high
+cholesterol with a history of previous tobacco smoking who
+had a recent history of left humeral fracture who presented
+to an outside hospital with substernal chest discomfort and
+nausea from home.  She was found to have EKG changes
+consistent with myocardial ischemia and was transferred to
+the [**Hospital6 273**] for further
+evaluation.  She was found to have a non-Q wave myocardial
+infarction and was admitted to the Cardiology service, where
+further workup was performed.
+
+PHYSICAL EXAMINATION:  The patient is a pleasant, elderly
+woman who had extensive ecchymosis of the left upper
+extremity.  She had some decreased breath sounds at the right
+base consistent with question of consolidation on her x-ray.
+She had regular cardiac rhythm.  Pulses were diminished in
+both lower extremities with an absent right femoral pulse and
+a weak left femoral pulse.  EKG showed diffuse S-T
+depressions with 1 mm S-T elevation in AVR.
+
+HOSPITAL COURSE:  The patient underwent cardiac cath on
+[**2671-10-17**] which showed 80% stenosis of the left main
+coronary artery and occluded right coronary artery and
+diffuse disease of the other vessels.  The patient had poor
+ventricular dysfunction with an ejection fraction of 25 to
+30% on echo.  However, at that cardiac cath her right iliac
+artery was found to be occluded so a balloon pump could not
+be placed.
+
+Post procedure the patient also had some coffee ground emesis
+and was also found to have an elevated white blood cell count
+of 20,000 and a question of a left lower lobe infiltrate as
+well as white blood cells on her urinalysis.  She was felt to
+be a high risk operative candidate, but given her good
+functional status and her diffuse coronary vascular disease,
+it was felt that operation was really her only option.
+
+On [**2671-10-18**] she underwent coronary artery bypass times
+three with left internal mammary artery graft to a proximal
+diag. and saphenous vein graft to obtuse marginal and right
+coronary artery.  Postoperatively the patient remained on
+Dobutamine for inotropy and was generally stable postop day
+zero.
+
+Around 4 a.m. on postoperative day number one she developed
+unstable dysrhythmias with both supraventricular narrow
+complex dysrhythmias as well as a brief run of ventricular
+tachycardia.  She was defibrillated and afterward remained
+hemodynamically stable.  She was started on an Amiodarone
+drip.
+
+On postoperative day number two she was substantially more
+stable with no real further rhythm problems.  She was
+extubated on the afternoon of postoperative day number two
+and was progressing in her post CABG recovery.
+
+On the morning of postoperative day number three the patient,
+however, took a turn for the worse.  She was in some
+respiratory distress and her cardiac numbers began to
+deteriorate with a reduced cardiac index.  Her Dobutamine was
+increased and started on epinephrine.  Cardiac echo was
+obtained at the bedside which did not show any focal
+dyskinetic myocardial segments.  She was then taken for a
+cardiac cath for diagnostic purposes and to possibly
+revascularize her percutaneously in the event that her bypass
+grafts were down.
+
+At Angio she indeed was found to have occluded saphenous vein
+grafts times two.  Revascularization of the obtuse marginal
+was attempted, but the circumflex could not be traversed.
+Patient during this intervention became progressively more
+hypotensive and eventually developed electromechanical
+dissociation.  Resuscitation was attempted, unfortunately,
+without success, and the patient expired in the Cardiac Cath
+Lab.
+
+DISCHARGE CONDITION:  Death.
+
+DISCHARGE STATUS:  As above.
+
+DISCHARGE DIAGNOSES:
+1.  Hypertension.
+2.  Diabetes.
+3.  Hypercholesterolemia.
+4.  Status post humeral fracture.
+5.  Status post coronary artery bypass graft times three on
+[**2671-10-18**] with diffuse coronary artery disease.
+6.  Postoperative dysrhythmias.
+7.  Occlusion of saphenous vein grafts with death on cardiac
+catheterization.
+
+DISCHARGE MEDICATIONS:  Not applicable.
+
+DISCHARGE INSTRUCTIONS:  Not applicable.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 397**], M.D.  [**MD Number 398**]
+
+Dictated By:[**Last Name (NamePattern4) 10057**]
+
+MEDQUIST36
+
+D:  [**2671-10-23**]  10:52
+T:  [**2671-10-24**]  12:53
+JOB#:  [**Job Number 10058**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2671-10-25**] 6:57 AM
+(End of Report)
+
+
+",,
+14059,3729,,,2671-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2671-10-17**] 10:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5888**]
+     Reason: eval for chf; pre-op                                        
+     Admitting Diagnosis: NON ST ELEVATION MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with LM CAD; chf                                              
+     REASON FOR THIS EXAMINATION:
+      eval for chf; pre-op                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Preop CABG.
+     
+     No previous films for comparison. There is cardiomegaly and mild pulmonary
+     vascular engorgement. There is opacity at the left base obscuring the left
+     hemidiaphragm consistent with atelectasis/consolidation in left lower lobe.
+     Cannot rule out an associated small left pleural effusion. There is a fracture
+     of the head of the left humerus, age undetermined in the absence of prior
+     films and relevant clinical information.
+     Impression: Possible mild CHF. Left basilar atelectasis/consolidation.
+     Fracture head/neck left humerus as described. (E-Mail to Dr [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5889**])
+
+",,
+14059,3729,,,2671-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2671-10-18**] 1:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5890**]
+     Reason: Check SG catheter placement                                 
+     Admitting Diagnosis: NON ST ELEVATION MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 year old woman with LM CAD; chf                                             
+       
+     REASON FOR THIS EXAMINATION:
+      Check SG catheter placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left main coronary artery disease status post CABG.  Check Swan-
+     Ganz catheter placement.
+     
+     VIEWS:  Single AP portable semi-upright view, comparison dated [**2671-10-17**].
+     
+     FINDINGS:  An endotracheal tube terminates with the tip approximately 4 cm
+     above the carina, in satisfactory position.  The Swan-Ganz catheter enters via
+     a right internal jugular Introducer sheath, with the tip in the main pulmonary
+     artery.  Nasogastric tube extends below the diaphragm with the tip extending
+     below the borders of the radiograph.  Two left-sided chest tubes with tips
+     pointed superiorly at the apex and at the left base.  Mediastinal drain
+     terminating at the level of the carina.  A linear opacity overlying the right
+     axilla appears to represent a probable PIC line which terminates in the
+     proximal brachiocephalic vein.  No pneumothorax.  No pleural effusions.  The
+     heart size is within normal limits without congestive heart failure.  Median
+     sternotomy wires and metallic skin staples are present.  The visualized
+     osseous structures are unchanged from the previous examination.
+     
+     IMPRESSION:  Satisfactory position of lines and tubes following CABG.  No
+     pneumothorax.  No congestive heart failure.
+
+",,
+14059,3729,17482,0,2671-10-18 05:35:00 EST,2671-10-18 05:43:00 EST,514,"N",1,"Nursing/Other",,"
+
+O. NEURO SLEPT MOST OF THE NIGHT ALERT ORIENTED PLEASANTLY CONFUSED AT TIMES PEARLA FC MAE
+CARDIAC HCT 23.1 TRANSFUSED WITH 1UPRBC HCT PNDING 2ND UNIT PRBC HANGING HR 71 NSR WITHOUT ECTOPY BP 103/-138/72 RT FEM SITE D+I +2 PP+2 SKIN W + D AM LABS PNDING, NTP 1"" GIVEN
+RESP 2LNP LUNGS CTA FAINT CRACKLES IN BASES O2 SAT 100%
+GU U/O 35-140CC Q HR
+GI NPO AFTER MN ABD SNT BS+ NO STOOL WT 61 KG
+ID AFEBRILE
+ACCESS UNABLE TO PLACE CL 20 G RT LOWER HAND
+A. PRE OP CABG
+P. AWAIT CABG AWAIT AM LABS
+
+",,
+14059,3729,17482,0,2671-10-18 14:51:00 EST,2671-10-18 14:58:00 EST,3204,"N",54,"Nursing/Other",,"
+
+MARGINAL SVO2 W ACCEPTABLE HEMODYNAMICS BY FICK W LOW FILLING PRESSURES,HCT OF 33% & DILUTE URINE,SBP < 120 W HR DRIFTING INTO THE HIGH 60'S-> VOLUME,A PACING @ 88.REMAINS ON DOBUT. @ 5. WILL RECHECK PARAMETERS.UNABLE TO OBTAIN SPO2 W COLD,PALE,DUSKY SKIN & T < 36->BAIR HUGGER. SPO2 > 98% PER ABG.EXTREMITIES COOL,PALE W CYANOTIC TOES. NO RT. DISTAL PULSES OBTAINED,LT. DP BY DOPPLER ONLY BUT UNCHANGED FROM PRE OP.LT. ARM ECCYMOTIC.ELEVATED ON PILLOW. SLING TO BE OBTAINED FOR COMFORT.CIPRO STARTED FOR PRE OP UTI.
+",,
+14059,3729,17482,0,2671-10-18 18:19:00 EST,2671-10-18 18:27:00 EST,3204,"N",54,"Nursing/Other",,"
+
+AWOKE,MAE WEAKLY X 4 TO COMMAND.FALLS ASLEEP INSTANTLY UNLESS STIMULATED,UNABLE TO LIFT EXTREMITIES OR HEAD OFF BED AS YET.CPAP [**6-24**] W SPONT. TV'S > 400 CC. SUCTIONED X 1 FOR THICK TAN,BREATH SOUNDS DECREASED L > R.NAHCO3- & VOLUME GIVEN FOR PERSISTENT MET. ACIDOSIS.WILL RECHECK.HYPERTENSIVE W WAKING,NTG STARTED W GOAL SBP ~ 120 PER [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 327**].  
+",,
+14059,3729,17482,0,2671-10-18 20:26:00 EST,2671-10-18 20:29:00 EST,3204,"N",54,"Nursing/Other",,"
+
+C/O LT ARM PAIN.PREMEDICATED W MSO4 PRIOR TO SLING APPLICATION. SHORT SELF LIMITING BURST OF AF W INCREASED PVC'S W TURNING ,SUCTIONING. RESOLVED AFTER MG++.REMAINS LETHARGIC UNLESS STIMULATED. EXTUBATION DEFERRED UNTIL A.M. DR. [**Last Name (STitle) 1013**] AWARE.
+",,
+14059,3729,17482,0,2671-10-18 21:06:00 EST,2671-10-18 21:08:00 EST,3204,"N",54,"Nursing/Other",,"
+
+NEW ONSET SELF LIMITING RUNS OF VT W DROP IN CI,SVO2.K+ & MG++ REPLACED,RETURNED TO SIMV & ADD'L VOLUME GIVEN. NO FURTHER VEA NOTED. WILL RECHECK PARAMETERS POST VOLUME.
+",,
+14059,3729,17482,,2671-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2671-10-19**] 7:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5891**]
+     Reason: assess infiltrates                                          
+     Admitting Diagnosis: NON ST ELEVATION MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        87 year old woman s/p cabg. elevated wbc                                      
+     REASON FOR THIS EXAMINATION:
+      assess infiltrates                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:  Compared to previous study of one day earlier.
+     
+     CLINICAL INDICATION:  Elevated white blood cell count.
+     
+     An endotracheal tube, Swan-Ganz catheter and nasogastric tube, chest tubes and
+     mediastinal drains remain in place.  The Swan-Ganz catheter has been advanced
+     in the interval and is found in the interlobar portion of the right pulmonary
+     artery.  The heart is upper limits of normal in size and stable.  There is
+     persistent perihilar haziness present.  There is worsening opacity in the left
+     retrocardiac region, and there are persistent small bilateral pleural
+     effusions.  No pneumothorax is evident on this supine study.
+     
+     IMPRESSION:
+     
+     1)  Slight worsening of left retrocardiac opacity, which may be due to
+     atelectasis or developing pneumonia.
+     2) Mild congestive heart failure and small bilateral pleural effusions.
+
+",,
+14059,3729,17482,0,2671-10-19 00:11:00 EST,2671-10-19 00:13:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT WITH RUNS OF SVT UP TO 130'S WITH COUPLETS,THEN BREAKS ON OWN TO APACING AT 88, WITH SVT DROPS SBP BY 30POINTS .. K.MAG OK CA WNL.. ABG GOOD REPEAT SVO2 WITH FICK TO BE DONE AFTER 2ND BOLUS OF LR 500CC. PATIENT AWAKENED MAE TO COMMAND SEDATED WITH 2MG MSO4 IV PRIOR TO REPOSTIONING.. 
+",,
+14059,3729,17482,0,2671-10-19 03:19:00 EST,2671-10-19 03:23:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings .See vent flow sheet for further details. Placed on SIMV earlier in shift for runs of SVT.Decreased BP. Cardioverted x 5. No further weaning done @ this time.No RSBI done due to to unstable hemodynamics.
+",,
+14059,3729,17482,0,2671-10-19 03:23:00 EST,2671-10-19 03:31:00 EST,3444,"N",54,"Nursing/Other",,"
+
+AT APPROX, 250 AM SUSTAINED SVT THEN TO VT INTIALLY WITH BP THEN DROPPING, SEDTED WITH MSO4/VERSED , PROPOFOL DROP RESTARTED, SHOCKED WITH 100JOULES, THEN 150 JOULES BACK INTO SR IN THE 80'S.. NEO ON/OFF DEPENDING ON SBP... AMIODARONE BOLUS 150MG IV GIVEN.. THEN VT OCCURRED AGAIN AT APPROX. 330 SHOCKED X2 WITH 150JOULES INIALLY, APACED BACK INTO VT RESHOCKED AGAIN, AMIODARONE 150MG BOLUS REPEATED, DRIP INFUSING AT 1MG/MIN, MAGSO4 2GMS IV GIVEN. DOBUTAMINE OFF FOR APPROX.5MIN BUT PER DR.[**Last Name (STitle) 324**] BACK ON AY 5MCG/KG/MIN, PROPOFOL AT 10MCG/KG/MIN,.PATIENT'S ABG GREAT DURING VT, ON 100%, WEANED TO 50%, CHECK ABG AT 5AM. SVO2 54% DURING VT, 4AM SVO2 PENDING... GIVEN 1BOLUS CACL 1GM D/T HYPOTENSIVE EPISODE. RUNS OF VT D/T REPERFUSION ECTOPY POST MI OR HEART FUNCTION BECOMING POORER. K/CA/MAG ALL NL PRIOR TO VT, GOOD ABG, WITH SVO2 58%. MONITOR CLOSELY, REPLACE ELECTROLYES, AMIODARONE ??WEAN TO .5MG/MIN IN AM..
+",,
+14059,3729,17482,0,2671-10-19 05:36:00 EST,2671-10-19 05:55:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT REMAINS APACED AT 90 WITH RARE PVC, AFEBRILE. SBP APPROX. 110 OFF NEO, AMIODARONE AT 1MG/MIN. DOBUTA AT 5 WITH SVO2 IN THE 50'S. SEDATED ON PROPOFOL PRESENTLY. RESP: MINIMAL ET SECRETIONS, GOOD ABG, POOR SAO2 D/T UNABLE TO PICKUP.. GU: U/[**Name Initial (MD) **] MINIMAL MD AWARE. GI: NO BS CARAFATE AS ORDERED. VASCULAR. RHAND IMROVING ULNAR/BRACHIAL PULSE DOPPERABLE.. LESS CYANOTIC, COOL TO TOUCH, LHAND COOL TO TOUCH, REMAINS EDEMATOUS, PATIENT;S LARM PLACED BACK IN SLING. LOWER EXTERMITIES, LEFT DP/PT DOBBERABLE, RFOOT ABSENT PULSES.ALL DSG D/I. NEURO: PATIENT HAS AWAKENED BUT PRESENTLY IS SEDATED. SON GIVEN UP DATE IN REGARDS TO PATIENT'S STATUS
+",,
+14059,3729,17482,0,2671-10-19 15:20:00 EST,2671-10-19 15:45:00 EST,4198,"N",54,"Nursing/Other","focus: status update.","
+focus: status update.
+NEURO: MILDLY SEDATED--BUT AROUSABLE. OPENS EYES TO VOICE, MAE FOLLOWS COMMANDS INCONSISTENTLY. PERL --PT HAD EYE SURGERY-- GAG AND COUGH REFLEXES PRESENT. NO APPARENT NEURO ISSUES.
+
+CV: FREQUENT PVC, PACER RATE INCREASED TO 105 TO OVERRIDE ECTOPIC ACTIVITY PER DR [**Last Name (STitle) 324**]. C/ DECREASED ECTOPIC ACTIVITY. NORMOTENSIVE 100'S TO 120'S DOBUTAMINE INCREASED TO 7.5 MCG/KG/MIN. CORDARONE DECREASED PER PROTOCOL. NSR C/ FREQUENT PVC UNDERLINE RHYTHM. CONTINUE PACING PER DR [**Last Name (STitle) 324**]. POTASSIUM REPLETED SEVERAL TIMES--INCREASED ECTOPIC ACTIVITY C/ K <4.2. CAPTOPRIL STARTED. CI PER FICK MARGINAL C/ SOME IMPROVEMENT. ALL PULSES DOPLERABLE EXTREMITIES COOL AND PALE C/ CAPILLARY REFILL OF 3 SEC.
+
+RESP: LUNG SOUNDS CLEAR AT TOP DIM AT BASES. SX FOR SMALL AMOUNTS OF THICK YELLOW SPUTUM. ABG'S Q3H UNREMARKABLE ABG'S DONE FOR FICK CO/CI.
+SATS 98 TO 100. 
+
+GI: HYPOACTIVE BOWEL SOUNDS, ABD SOFTLY DISTENDED C/ NO ORGANOMEGALY OF PAIN TO PALPATION, NGT CLAMPPED AFTER MEDS. MINIMAL BILIOUS DRAINAGE. NO BM, NO FLATTUS.
+
+GU: FOLEY CATH IN SITU DRAINING MODERATE AMOUNTS OF CLEAR YELLOW URINE, 500 ML BOLUS LR AND 100 MG OF LASIX IN AM C/ IMPROVED U/O.
+
+ENDO: INSULIN GTT STOPPED FOLLOWED C/ RISS AS PER PROTOCOL. C/ BS <120.
+
+SKIN: PECTORAL INCISION OZZING SCANT AMOUNTS OF S/S FLUID DRESSING CHANGED, CT SITE NOT OZZING, R LEG PINK OZZING SMALL AMOUNTS OF S/S DRAINAGE. OVERALL SKIN IN GOOD CONDITION.
+
+PLAN: MAINTAIN SEDATED OVERNOC, ATTEMPT TO EXTUBATE TOMORROW, MAINTAIN BS<120 CONTINUE PACING TO AVOID FURTHER ECTOPY. MAINTAIN ELCTROLITES AT OPTIMUM LEVEL. CONTINUE C/ CURRENT PLAN OF CARE.
+",,
+14059,3729,17482,0,2671-10-19 15:52:00 EST,2671-10-19 15:53:00 EST,3123,"N",54,"Nursing/Other",,"
+
+Resp cAre
+remains intub/vented in simv mode. no weaning done today d/t cv status. sxned scant amts tan sputum. abg with slight met acidosis with resp compensation. 
+",,
+14059,3729,17482,,2671-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2671-10-20**] 7:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5892**]
+     Reason: fu swan                                                     
+     Admitting Diagnosis: NON ST ELEVATION MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         87 year old woman s/p cabg.                                                  
+     REASON FOR THIS EXAMINATION:
+      fu swan                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Swan repositioned.
+     
+     COMPARISON:  [**2671-10-19**].
+     
+     FRONTAL CHEST:  The Swan-Ganz catheter has been withdrawn slightly, now
+     residing with its tip in the proximal right pulmonary artery.  The remainder
+     of the exam is unchanged.
+     
+     IMPRESSION:  Swan tip at proximal right PA.
+
+",,
+14059,3729,17482,0,2671-10-20 03:28:00 EST,2671-10-20 03:36:00 EST,3120,"N",54,"Nursing/Other",,"
+
+Neuro: pt sedated with 10 mcg of propofol. Arousable to voice follows commands. Moves all estremities.
+Resp: pt remains vented o changes made over night suctioned for scant amounts, breath sounds clear.
+C/V: pt a paced at 105 with rare PVC's Amiodarone continues at 0.5mg Vss, CI by FICK borderline down to 1.84 with repeat one hour later of 2.0 and this am 2.36. Svo2 56 up to 64% this am. Dobutamine on at 7.5mcg 
+GI: OGT draining  small amount of bilious fluid.
+GU: Urine output borderline 30cc/hr. Cr up to 1.6 from 1.2
+skin: Incisions clean and dry no drainage. 
+",,
+14059,3729,17482,0,2671-10-20 04:46:00 EST,2671-10-20 04:48:00 EST,4038,"N",54,"Nursing/Other",,"
+
+Resp:  Rec'd pt on servo simv 10/550/50%/10/+5.  Alarms on and functioning.  Ambu/syringe @ hob. BS auscultated reveal bilateral clear bs.  Suctioned x1 for scant amount of whitish secretions.  02 sats remain in ^ 90's 96-98% with no further changes noted.
+",,
+14059,3729,17482,0,2671-10-20 17:00:00 EST,2671-10-20 17:50:00 EST,4183,"N",54,"Nursing/Other","7a-7p","
+7a-7p
+Neuro: Pt alert and oriented X2, disoriented to time. Pt able to MAE and follows commands. PERRL. 
+
+CV: Pt A-paced @90, underlying rhythm NSR in the 70's. Occaional PVC's noted. Pt continues on Amio @ 0.5. SBP 110-140's, Dobutamine GTT titrated up to 10mcq/kg/min for low CI/low mixed venous. CO by fick down to 2.4, CI 1.24, mixed venous 40-50's-> see flowsheet. Team aware. Pt started on Nitro up to 2.5 mcq/kg/min -> goal to keep SBP 110's. Papable radial pulses, pedal pulses papable X3, no R PT noted. (Team aware). Feet cool to touch with slight mottling. L hand remains discolored and sling intact for broken ext.  Pt received 1 unit PRBC for crit 26, low UO and mixed venous. Bedside echo this afternoon, EF approx 25% (on Dobut 10mcq/kg/min). CCO swan put in this evening. 
+
+Resp: LS clear but diminshed. Pt extubated this am. Pt on 3 L nc. O2 sats 98-100%. (See flow sheet for mixed venous) 
+
+Endo: Pt restarted on insulin GTT this afternoon, d/t elevated K 5.7 and elevated glucose levels. Insulin gtt titrated per protocol.
+
+GI/GU: +BS. No BM this shift. Decreased UO 15-40 QH. No effect from unit of PRBC or NS 500 bolus, lasix 20mg IV given x1 with no added effect. Pt started on Dopa @ 1mcq/kg/min. 
+
+ID: Tmax 100.2. Pt continues on Cipro. Elevated WBC this AM.
+
+Plan: Monitor cardiac Index by fick/mixed venous. Monitor UO and lytes. Continue Amio, Dobut, Dopa, and Nitro.Possible cardiac cath if no improvement in CV function. 
+",,
+14059,3729,17482,,2671-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2671-10-21**] 5:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5893**]
+     Reason: S/P INTUBATION                                              
+     Admitting Diagnosis: NON ST ELEVATION MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          87 year old woman s/p cabg.                                                 
+       
+     REASON FOR THIS EXAMINATION:
+      S/P INTUBATION                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     HISTORY:  CABG and line placement.
+     
+     Status post CABG. Endotracheal tube is 5 cm above the carina. Tip of swan ganz
+     catheter overlies proximal right main pulmonary artery.  Mediastinal and left
+     chest tubes are in situ.  No pneumothorax.  There are bibasilar atelectases
+     and probable small bilateral pleural effusions.
+
+",,
+14059,,17482,0,2671-10-21 05:55:00 EST,2671-10-21 05:59:00 EST,3971,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient received albuterol/atrovent via aerosol mask X 2 with some relief of expiratory wheeze.  Patient suffered changes in mentation, along with decreased SVO2, CI.  Emergently intubated and placed on ventilatory support (see CareVue).  Plan to go to Cath Lab soon.
+",,
+14059,,17482,0,2671-10-21 07:25:00 EST,2671-10-21 07:50:00 EST,3228,"N",54,"Nursing/Other",,"
+
+NEURO-ALERT/ORIENTED X2. NEEDS REMINDING OF TIME. PLEASANT/COOPERATIVE WITH CARE. ASKING/ANSWERING APPROPRIATE QUESTIONS. MAE.FOLLOWS COMMANDS.
+
+CV/RESP-NSR 80. OCC.->RARE PVC.CONTINUES ON DOPA/DOBUT/MILR/NTG/AMIO/.DECREASING SVO2 /C.I. UNRESPONSIVE TO HESPAN X2.MULTIPLE ABG/MVG & CCO RE-CALIBRATION DONE.(SEE FLOW SHEET FOR DETAILED NUMBERS)CONTINUED TO HAVE C.I. < 1.7 WITH INCREASING RESP DISTRESS.LS COURSE-4LNC-95%.SV02=48%.TX WITH ALB/ATR NEBS.RESPIRATORY STATUS QUICKLY DETERIORATED REQUIRING EMERGENT INTUBATION.SIMV X12 X 600 X100%.WITH SPA2=80%.MVO2=43%(by cco swan)NO VENT CHANGES MADE AS OF NOW.STAT PCXR DONE. CARDIAC ECHO ORDERED.EPI GTT TITRATED TO IMPROVE HEMODYNAMICS.PT TO TRAVEL TO CARDIAC CATH LAB TO ASSESS GRAFTS.
+
+G.I.-ABD SOFT. HYPOACTIVE BS.
+
+G.U.- MARGINAL U/O. 20MG IVP LASIX WITH LITTLE IMPROVMENT.
+
+ENDO-INSULIN GTT TITRATED TO GLUCOSE LEVELS 150->73->158.
+
+PAIN-MSO4 2M IVP X2 FOR C/O INCISIONAL DISCOMFORT.
+
+PLAN- CONTINUE TO MONITOR/TITRATE ALL GTT TO HEMODYNAMIC STATUS. WEAN RESP.SUPPORT AS TOLERATED.CARDIAC CATH LAB THIS AM.
+",,
+14059,,17482,0,2671-10-21 12:23:00 EST,2671-10-21 13:02:00 EST,4198,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE.","
+FOCUS: STATUS UPDATE.
+PT ON MULTIPLE GTTS AT CHANGE OF SHIFT. LOW CO/CI. TEE DONE SHOWING LOW EF. PT PREPARED TO BE SENT TO CATH LAB FOR REVISION OF GRAFTS. WHILE ON CATH LAB PT DECONPENSATED--RESP THERAPIST AND CSRU NURSE CALLED TO CATH LAB FOR BACK UP. CATH LAB TEAM WAS DOING CHEST COMPRESSIONS AND HAD ALL GTTS RUNNING WIDE OPEN, A NUMBER OF ACLS DRUGS HAD BEEN GIVEN ALREADY, DR [**Last Name (STitle) **] PRESENT AT CATH LAB. AFTER FURTHER ATTEMPTS TO STABILIZE PT WITHOUT POSITIVE RESULTS AND AFTER ASYSTOLE WAS BASE LINE RHYTHM FOR SOME TIME--PT WAS DECLEASRED DEAD AT CATH LAB. ***PLEASE SEE CATH LAB NOTES FOR CATH LAB CODE ACTIVITIES, MEDS, TIME OF DEATH*** PT WAS LATER SEND BACK TO CSRU WERE  THE FAMILY HAD ARRIVED. CLEARGY WAS CALLED FOR EMOTIONAL SUPPORT AND LAST RIGHTS, FUNERAL HOME WAS NOTIFIED BY FAMILY AND NURSING STAFF OF PT'S DEATH. PT'S DENTURES WERE PLACED IN MOUTH AND ALL BELONGINGS WERE TRANSFERED C/ PT. 
+",,
+14059,,17482,0,2671-10-21 15:01:00 EST,2671-10-21 15:03:00 EST,4222,"N",54,"Nursing/Other",,"
+
+Resp Care: Pt received on SIMV/PS vent settings. Pt transfered to Cath lab. While in cath lab pt coded and expired.
+",,

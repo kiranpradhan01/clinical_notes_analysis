@@ -1,0 +1,707 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14319,12065,,,2850-04-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2850-4-28**]              Discharge Date:   [**2850-5-4**]
+ 
+Date of Birth:  [**2787-9-7**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Heparin Agents
+ 
+Attending:[**First Name3 (LF) 1854**] 
+Chief Complaint:
+fever, hyptotension
+ 
+Major Surgical or Invasive Procedure:
+removal of hickman port
+picc placement
+
+ 
+History of Present Illness:
+ 62 yo M h/o recent hospitalization for urosepsis, CVA, HTN, DVT 
+p/w fever, hypotension. Pt is non-communicative at baseline and 
+history is limited and largely derived from documentation. Pt is 
+a resident of [**Location 1133**] Manor. On routine exam today, he was found 
+to have T 104.9, 103/59, hr 85, rr?, sat 94% on ? O2. Given 
+fever, EMS contacted and pt transported to [**Hospital1 **]. Of note pt was 
+recently hospitalized at [**Hospital3 10454**] hospital for urosepsis 
+and decub ulcer infection. At CCH pt was found to have evidence 
+of UTI, cx ? pos for E coli, sacral wound infxn. He was started 
+on a ten day course of azithro/clinda. Upon clinical 
+stabilization, pt transferred to [**Hospital **] [**Hospital **] rehab for further 
+care. He was there [**Date range (3) 10455**]. In addition to completing 
+course of azithro/clinda started at [**Doctor Last Name 1404**] Caritas, he also 
+completed a ten day course of vanc/levofloxacin for further tx 
+of UTI, sacral wound infxn as well as tx of ""positive blood 
+cultures,"" though further data not available. Pt stabilized, 
+discharged from NE [**Hospital1 **] to [**Location (un) 1133**] Manor where he has been 
+residing until he presentation today.  
+.  
+In [**Hospital1 19**] ED, presenting vitals: 104.9, hr 80, bp 80/p, rr 16, 
+94% ? O2. Pt at neurologic baseline. CXR: ? RLL infiltrate. EKG: 
+nsr@82 bpm, ni/lad, Q in III, avf. U/A 11-20 wbcs, few bact, 
+many yeast. Na 154, bun 65, cr 1.8, wbc 5.9, hct 34.6, 
+lfts/[**Doctor First Name **]/lip nml. Lactate 1.6. INR 1.9. Pt started on levophed 
+gtt given 5 L NS, decadron 10 mg IV, vanc 1 gm X1, levo 500 mg 
+ivX1, flagyl 500 mg x1, tylenol 650 mg pr X2. Transferred to 
+MICU for further management.  
+
+ 
+Past Medical History:
+lasix 20 mg daily  
+norvasc 10 mg daily  
+paroxetine 20 mg daily  
+valproate liquid 15 ml (750 mg) daily  
+coumadin 7 mg daily  
+vit C 500 mg bid  
+Zn 220 mg daily  
+bactrim ds one tab bid  
+mvi  
+bisacodyl  
+percs prn  
+tylenol prn  
+
+ 
+Social History:
+lives at [**Location 1133**] Manor
+ 
+Family History:
+NC
+ 
+Physical Exam:
+Temp 99.8  
+BP 120/80  
+Pulse 73  
+Resp 27  
+O2 sat 100% 4 lnc  
+Gen - non-communicative  
+HEENT - PER sluggishly reactive, anicteric, mucous membranes 
+moist  
+Neck - no JVD, no cervical lymphadenopathy  
+Chest - crackles at bases b/l, R hickman in place  
+CV - Normal S1/S2, RRR, no murmurs appreciated  
+Abd - Soft, nontender, nondistended, hypoactive bowel sounds, 
+PEG and colostomy bag in place  
+Extr - feet in podus boots. 1+ pitting edema to knees b/l, 2+ DP 
+pulses bilaterally  
+Skin - sacral ulcer, R foot ulcer, dressed  
+
+ 
+Pertinent Results:
+admission labs:
+
+[**2850-4-28**] 01:05AM   WBC-5.9 RBC-4.28* HGB-11.0* HCT-34.6* MCV-81* 
+MCH-25.7* MCHC-31.8 RDW-17.7* NEUTS-57.9 LYMPHS-37.7 MONOS-3.8 
+EOS-0.4 BASOS-0.2
+VALPROATE-43* ALT(SGPT)-36 AST(SGOT)-36 ALK PHOS-71 AMYLASE-33 
+TOT BILI-0.3
+GLUCOSE-117* UREA N-65* CREAT-1.8* SODIUM-154* POTASSIUM-4.4 
+CHLORIDE-114* TOTAL CO2-28 ANION GAP-16
+.
+PICC placement report:
+PROCEDURE AND FINDINGS: The patient was placed supine on the 
+angiography table. A preprocedural timeout was performed to 
+confirm the patient's identity and the type of procedure to be 
+performed. Ultrasound was used to identify the right brachial 
+vein which was patent and compressible. After injection of 5 cc 
+of 1% lidocaine, a 21-gauge needle was advanced under ultrasound 
+guidance into the right brachial vein. Hard copy ultrasound 
+images were obtained before and after venous access documenting 
+patency. A 0.018 guidewire was then advanced through the needle 
+to the brachiocephalic vein where resistance was encountered. 
+Therefore, Optiray contrast material was administered to 
+visualize the area, revealing a near complete occlusion of the 
+upper SVC. The micropuncture sheath was therefore replaced with 
+a vascular access sheath and a Glidewire was able to be advanced 
+into the lower SVC. Subsequently, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 10456**] PIC line was 
+advanced with the tip in the lower SVC. The [**Last Name (un) 10456**] PIC line 
+was cut to 45 cm length (41 cm intravascular portion) and the 
+line was StatLocked and heplocked. The patient tolerated the 
+procedure well and there were no immediate post-procedure 
+complications.
+
+IMPRESSION:
+1. Near complete occlusion of the SVC.
+2. Successful placement of a 4-French, 41 cm single lumen 
+[**Last Name (un) 10456**] PICC via the right brachial vein with tip in the lower 
+SVC. The line is ready for use.
+.
+ECHO [**2850-4-30**]:
+Conclusions:  
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or  
+color Doppler. The estimated right atrial pressure is 0-5mmHg. 
+There is  
+moderate symmetric left ventricular hypertrophy. The left 
+ventricular cavity  
+size is normal. Regional left ventricular wall motion is normal. 
+Overall left  
+ventricular systolic function is normal (LVEF>55%). Transmitral 
+Doppler and  
+tissue velocity imaging are consistent with Grade I (mild) LV 
+diastolic  
+dysfunction. There is no ventricular septal defect. Right 
+ventricular chamber  
+size and free wall motion are normal. The aortic root is mildly 
+dilated at the  
+sinus level. The aortic valve leaflets (3) are mildly thickened 
+but aortic  
+stenosis is not present. No masses or vegetations are seen on 
+the aortic  
+valve. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly  
+thickened. No mass or vegetation is seen on the mitral valve. 
+Trivial mitral  
+regurgitation is seen. The left ventricular inflow pattern 
+suggests impaired  
+relaxation. The tricuspid valve leaflets are mildly thickened. 
+There is a  
+probable vegetation on the tricuspid valve. The estimated 
+pulmonary artery  
+systolic pressure is normal. There is no pericardial effusion.  
+
+ 
+Brief Hospital Course:
+This is a 62 yo M h/o recent hospitalization for urosepsis, CVA, 
+HTN, DVT p/w sepsis and was treated in the MICU with pressor and 
+antibiotics. The possible source of his sepsis was thought to be 
+his indwelling Hickman. The Hickman was removed and a PICC line 
+was placed.
+.  
+1. Sepsis from Bacterial Line Infection (outside line): Pt was 
+initially found to have a temperature of 104.9F during routine 
+vital signs at his long term care facility ([**Location (un) 1133**] Manor). He 
+was tranferred to [**Hospital1 **] and treated in the Micu for sepsis. 
+However, pt has multiple potential sources for infection inlcude 
+a possible infiltrate on CXR, positive U/A, infxn of sacral 
+decub, and R Hickman. The patient was started on vanco and 
+zosyn. He was on levophed for about 12 hrs for BP augmentation. 
+Pt had blood cultures growing coag neg staph and enterococcus in 
+blood cx. ID is following the patient and recommends treating 
+pulling the Hickman catheter and placing a PICC line for access. 
+This was done by IR. Sensitivities of the enteroccus species 
+showed vancomycin sensitivity. Therefore, zosyn was stopped. 
+After his initial positive blood cx on [**4-28**] remaining 
+surveillance cultures were negative. The Hickman was removed and 
+a PICC line was placed on [**5-3**] by IR (after receiving 3 bags of 
+FFP). Noted by IR was a complete occlusion of the SVC by clot. 
+He was discharged back to [**Location (un) 1133**] manor with 2 weeks of IV 
+Vancomycin and directions for surveillance cultures after 
+treatment. Also, if the pt. was febrile after treatment, ID 
+recommended w/u of possible chronic osteomyelitis.
+.  
+3. SVC Deep Venous Thrombosis: as mentioned, this was 
+incidentally noted by IR. He was asymptomatic and without UE 
+swelling. The decision was made to continue his current 
+anticoagulation with 7mg Warfarin daily.
+.
+2. decubitus ulcer: The patient has a chronic ulcers (stage III 
+decubitis ulcers) that did not look infected.  Wound care was 
+consulted and directed treatment of wounds. He also had blisters 
+bilaterally on his lower extremities. Multipodus boots were 
+placed to help prevent further ulcerations.  
+.  
+3. hypernatremia: The patient was hypernatremic upon admission. 
+HE was hydrated with NS given his presumed dehydration. His 
+total water deficit was 4150cc. He was administered free water 
+flushes via his G-tube for gentle correction (250cc NGT Q4). His 
+hypernatremia resolved. 
+.  
+4. h/o CVA: The patient was continued on valproic acid for sz 
+ppx.  
+.  
+5. h/o dvt: We were unable to obtain further history of his 
+DVTS. We continued coumadin at his home regimen.  
+.  
+6. benign Hypertension: Initially all antihypertensive meds were 
+held. Low dose Norvasc 5mg was restarted on [**4-30**].  
+.  
+7. acute renal failure: The patient was admitted with Cr 1.8 
+wich improved to 0.8 s/p volume resuscitation. Therefore, his 
+ARF was attributed to a pre-renal etiology in the setting of 
+fever/insensible losses. On discharge his ARF completely 
+resolved.
+.  
+FEN: TFs per nutrition  
+.  
+ppx: coumadin, hold all heparin products (HIT+), iv ppi  
+.  
+Full code  
+
+ 
+Discharge Medications:
+1. Valproate Sodium 250 mg/5 mL Syrup Sig: Seven [**Age over 90 3710**]y 
+(750) mg PO DAILY (Daily).  
+2. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+3. Zinc Sulfate 220 (50) mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily) for 2 weeks.  
+4. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) gram 
+Intravenous Q 12H (Every 12 Hours) for 2 weeks.  
+6. Warfarin 3 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+7. Warfarin 4 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Outpatient Lab Work
+please check surveillance blood cultures after completion of 
+vancomycin therapy.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) 1133**] Manor
+ 
+Discharge Diagnosis:
+sepsis
+CVA
+HTN
+history of urosepsis
+decubitis ulcers
+history of deep vein thrombosis
+
+ 
+Discharge Condition:
+good. afebrile. 
+
+ 
+Discharge Instructions:
+[**Doctor First Name 54**] were treated for sepsis. Your hickman port was removed as it 
+was a possible source of infection. A PICC line was placed for 
+further antibiotics. 
+.
+please take your medications as prescribed.
+.
+If [**Doctor First Name **] experience fevers, chills or other worrisome symptoms 
+please seek medical attention.
+ 
+Followup Instructions:
+please follow up with your primary care physician [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] 
+within 1-2 weeks after discharge. ([**Telephone/Fax (1) 8277**]
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1856**] MD [**MD Number 1857**]
+ 
+Completed by: [**Name6 (MD) 2489**] [**Name8 (MD) **] MD [**MD Number 2490**] [**2850-5-10**] @ 2205
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**2850-5-11**] 7:40 AM
+(End of Report)
+
+
+",,
+14319,12065,,,2850-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-4-28**] 12:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8497**]
+     Reason: eval for infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with sepsis                                                     
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62-year-old man with sepsis.
+     
+     COMPARISONS:  None.
+     
+     PORTABLE CHEST RADIOGRAPH
+     
+     Film obtained with patient in kyphotic position.  Right-sided central venous
+     line is seen with tip overlying the SVC.  Cardiac and mediastinal contours
+     appear grossly unremarkable allowing for positioning.  Poorly-defined opacity
+     seen overlying the right lung, not well evaluated.  Pulmonary vascularity
+     appears within normal limits.
+     
+     IMPRESSION:  Poorly-defined opacity seen overlying the right lung, possibly
+     representing atelectasis vs pneumonia.  Follow-up PA and lateral films would
+     be helpful in further evaluation.
+
+",,
+14319,12065,17797,0,2850-04-28 05:22:00 EST,2850-04-28 05:39:00 EST,5862,"N",54,"Nursing/Other",,"
+
+Pt is a 62 y/o male with PMH of hemorrhagic stroke, Colonoscopy, PEG, SZ Disorder, bed bound at baseline and minimally responsive. Lives in [**Hospital1 89**]. Found with temp of 105.0 degrees. On arrival to ED, temp 104.8 (probes only go as high as 104.8). Systolic b/p's in 70's unresponsive to 2L ns. Started on levophed 0.2mcg/kg/min with good effect. Given additional 4L NS in ED, Lactic acid 1.6  Blood cultures taken from Hickman and peripheral. urine also cultured (yellow with sediment)Given levo, vanco, flagyl, tylenol and tx to MICu for further management of sepsis. 
+
+Neuro: Pt minimally responsive but will withdraw from painful stimuli, pupils 2mm and reactive. no communication at all, Hypertonicity of all extremities. 
+
+Resp: Lung sounds with wheezes in apices and crackles in bases. O2 sat 100% on 4L nc. 
+
+Cardiac: Sr with no ectopy on monitor. B/P 120/60's on 0.23mcg/kg/min levophed. Hr 70's. 
+
+GI: Abd soft nontender with hypoactive bowel sounds. PEG patent. No bm since arrival to MICU. colonoscopy site CDI
+
+Gu: Voiding yellow urine via foley. Foley changed on arrival to MICU. BUN 65 Cr 1.8
+
+Derm: Sacral decubitus ulcer 9x9cm and approx 4cm deep. Pink granulation tissue in wound bed. Cleaned with NS and covered with duoderm gel and W-D dsg. Stage 3 ulcer on L ankle 4x4 and 3cm deep. also with pink granulation tissue. covered with duoderm gel and dsd. Blackened necrotic ulcer on R ankle with epidermis white but intact covered with DSD. Hickman site in R subclavian site benign. PEG site wiht small amt puss exudate Covered with dsd otherwise benign. 
+
+ID: Temp on arrival to MICU 99.8  Given first dose of zosyn. Awaiting culture data. 
+
+Plan: IV abx, wean pressors as tolerated, follow culture data, Skin Care, Full code. 
+",,
+14319,12065,17797,0,2850-04-28 16:40:00 EST,2850-04-28 16:57:00 EST,4250,"N",54,"Nursing/Other",,"
+
+
+
+NURSING NOTE 0700HRS - 1800HRS
+
+
+EVENTS...WEANED LEVOPHED, TOTAL 1L LR FOR BOLUS OF FLUID..WOUND CARE REVIEWED..KINAIR MATTRESS...
+
+
+
+NEURO...OPENS EYES TO MINIMAL STIMULI [ PATEINT LOOKS SCARED AT TIMES], DOES NOT FOLLOW COMMANDS, MINIMAL INVOLUNTARY MOVEMENTS OF LOWER LIMBS NON OF UPPER..VERY CONTRACTED..BRACES REMOVED..RE-POSTIONED , KINAIR IN PLACE..FEET OEDEMATOUS , FEET COLD, DOPPLER PULSES ONLY...SON VISITED THIS AM AND CONFIRMED HIS BASELEINE NEURO STATUS AS BEING ONLY ABLE TO SAY YES/NO AND SOME MOVEMNT OF RT ARM...
+
+
+
+CVS..RECEIVED LEVO @ 0.25, WEANED OVER THE COURSE OF THE DAY, MAINATING MAPS > 70 SYSTOLIC > 110...HR STABLE AT 70-80BPM NO PVC'S NOTED..PM LABS SHOW IMPROVING SODIUM/CREAT WITH WATER BOLUSES AND RECEIVED 1L LR BOLUS TO HELP WEAN  LEVO...
+FINGERSTICKS INCREASED @ > 150 AND TEAM AWARE OF THE NEED FOR  S/S
+
+
+ID...CLARIFIED WITH PHARMACY NOT DUE FOR VANCO UNTIL 2000HRS..PIPERACILLIN NOW Q6..CULTURES TAKEN FROM HICKMAN LINE ARE POSITIVE AND TEAM ARE AWARE...IV HAVE REVIEWED AND ARE NOT ABLE AT THIS TIME TO PLACE IV.. ??PATIENT WOULD ALSO HAVE TO GO TO IR FOR LINE REMOVAL..T MAX THIS PM @ 101.5 AND PATIENT RECEIVED TYLENOL...
+
+
+RESP..SOME  CRACKLES/WHEEZYS THIS AM BUT THIS HAS IMPROVED OVER THE COURSE OF THE DAY..SATS @ 100% ON 4L N/C..ON CXR ? RT LOWER LOBE PNEUMONIA..
+
+
+GI...COLOSTOMY WORKING AND BAG HAS BEEN CHANGED..PINK STOMA WITH SKIN GOOD AROUND THE SIGHT..[**Last Name (un) **] SOUNDS PRESENT..REVIWED BY NUTRTION AWAITING RECS FROM TEAM TO COMMENCE TUBE FEEDING..
+
+
+GU...GOOD U/O > 70CC/HR...CREAT/NA IMPROVING...URINE CLEAR..
+
+
+SKIN...SEEN BY WOUND CARE, RECS IN CHART..ALL DRESSINGS CHANGED TODAY AND WILL REQUIRE CHANGING QO/D...BRACES REMOVED AS RUBBING AGAINST SKIN OF PATIENT AND CAUSING RED MARKS /BLISTERS...MULTI-PODIS BOOTS ORDERED TO ELEVATE HEELS OF THE MATRESS...
+
+
+LINES..HICKMAN INFECTED ? FOR REMOVAL IN IR TOMORROW..IV HAVE REVIWED BUT UNABLE TO PLACE...
+
+
+SOCIAL..SON [**Name (NI) **] VISITED ....TEAM TO CLARIFY RESUS STATUS..SOCIAL WORK/CASE MANGER NEED TO BE INFORMED OF ADMISSION...
+
+
+
+PLAN...OBSERVE B/P..FOLLOW TEMP CURVE..? REMOVE LINE TOMORROW..MONITOR U/O ? NEED FOR FURTHER FLUID...COMMENCE FEED ..MONITOR BUN/CREAT...CLARIFY WITH FAMILY RESUS STATUS
+
+",,
+14319,12065,17797,0,2850-04-29 04:04:00 EST,2850-04-29 04:13:00 EST,5862,"N",54,"Nursing/Other",,"
+
+Uneventful night for Mr [**Known patient lastname **]. 
+
+Neuro: Remains minimally responsive. Will open eyes when name called but follows no commands. All extremities contracted. Pupils 2mm and reactive to light. Withdraws from pain. 
+
+Resp: Lung sounds diminished throughout. O2 sats 100% on 2L nasal cannula. 
+
+Cardiac: SR with no ectopy on monitor. HR 60-70's. B/P 110's/70's. Off pressors. Did not require fluid boluses for blood pressure. 
+
+GI: Abd soft nontender. TF Probalance infusing at 30cc/hr goal is 70. 200cc free water boluses Q4hrs. 200cc loose stool from colostomy. PEG site benign. 
+
+GU: Voiding approx 50c yellow urine per hour. AM lytes pending. 
+
+Derm: Dressing over 9x9cm wound on coxxyx changed as it was saturated. Aquafiber with softsorb. Wound bed is red with granulation tissue. Serosanguinous drainage. Dressings over both heels c/d/i. Multipodus boot over L foot. Waffle boot over R as it would not fit in boot (swelling and dressing). Large blister on  R thigh covered with Abd pad. Hickman catheter in R subclavian site benign. 
+
+ID: G+cocci in chains and clusters growing from blood from Hickman. remains on vancomycin and zosyn IV. afebrile all night. 
+
+Plan: IVabx, skin care, ?to IR for Hickman removal, will need other IV access. Full Code. 
+",,
+14319,12065,17797,0,2850-04-29 15:53:00 EST,2850-04-29 16:05:00 EST,3239,"N",54,"Nursing/Other","MICU NSG 7A-7PM","
+MICU NSG 7A-7PM
+RESP--PT WEANED TO RA, SATS >95%. LUNGS CTA BILAT. DENIES SOB. 
+
+NEURO--PT ALERT, ATTEMPTS TO FOLLOW COMMANDS, BUT HAS LIMITED MOVEMENT IN EXTREMITES. ANSWERS QUESTIONS, ORIENTED XSELF, BUT NOT PERSON OR PLACE. ? HALLUCINATING AT TIMES, AKSING QUESTIONS ABOUT ""SEEING NAKED PEOPLE"". PT LEFT ARM FULLY CONTRACTED, AND UNABLE TO BE STRAIGHTENED, RIGHT ARM ALSO CONTRACTED, BUT LESS SO. LEGS RIGID, PT UNABLE TO BEND RIGHT KNEES, LEFT KNE BENDS, BUT IS DIFFICULT. 
+
+CV--PT IN SR 70-80'S NO ECTOPY NOTED, BP REMAINS STABLE. MULTIPLE DRESSING CHANGES DONE TO LEFT ANKLE, LATERAL MEDEOLUS WITH STAGE 3-4 DECUB WITH MOD AMOUNT SEROSANGUINOUS DRG AQUACEL AG AND DSD APPLIED, MEDIAL MALEOLUS WITH STAGE 2, SCANT AMOUNT SEROUS DRG NOTED, ADAPTIC AND DSD APPLIED. RIGHT HEEL STAGE [**2-15**] PRESSURE AREA AND GREAT TOES OPENED BLISTER WITH DSD APPLLIED, RIGHT THIGH CLOSED BLISTER WITH DSD APPLIED AND SACRUM STAGE 3-4 WITH AQUACEL AG AND DSD APPLIED. PT CONTS WITH MULTIPODIS BOOT ON LEFT FOOT, AND WAFFLE BOOT ON RIGHT. TURNED Q3, REMAINS ON KINAIR BED. PT WITH (+) 2 GENERALIZED BODY EDEMA. AFEBRILE, CONTS ON IV VANCO AND ZOSYN VIA HICKMAN. PLAN IS TO CONT TO TREAT THROUGH CATH THROUGH WEEKEND, ALTERNATING PORTS THAT ABX ARE GIVEN THROUGH. PT THEN WILL HAVE HICKMAN REMOVED ? MONDAY AND HAVE TLCL PLACED. SURVEILLANCE BLD CX'S SENT 1 FROM EACH PORT ON HICKMAN.
+
+GI--TF PROBALENCE INFUSING VIA PEG CURRENTLY AT 60CC/HR, GOAL RATE 70CC/HR. NA 147 THIS AM, CONTS ON FREE H2O BOLUS 200CC Q4. COLOSTOMY STOMA RED WITH INTACT OSTOMY APPLIANCE, DRAINING SCANT AMOUNTS LOOSE BROWN STOOL. 
+
+GU--FOLEY CATH IN PLACE DRAINING CLEAR YELLOW URINE. 50-100CC/HR. 
+
+SOCIAL--NO CONTACT WITH FAMILY SO FAR THIS SHIFT. PT C/O TO FLOOR. TRANFER NOTE INITIATED. 
+
+PLAN--CX IF SPIKES
+--ALTERNATE PORT WHEN GIVING ABX
+--ADVANCE TF AS TOL TO GOAL
+--C/O TO FLOOR
+
+
+",,
+14319,12065,17797,0,2850-04-30 04:38:00 EST,2850-04-30 04:56:00 EST,3116,"N",54,"Nursing/Other","MICU NPN 1900-0700","
+MICU NPN 1900-0700
+Events overnight:  Con'ts with minimal low grade temps overnight.
+
+Review of Systems:
+
+Resp:  LS clear, diminished at bases.  O2 Sats have been 95-100% on RA.
+
+Neuro:  Pt alert, oriented to self.  At times he is very easy to understand, and other times his speach is slightly more garbled.  LUE completely contracted, BLE both contracted, with multi-podus boot on left and waffle boot on right.
+
+Social:  No family contact this shift.
+
+GI:  Reached goal TF at 70cc's/hr with minimal residuals.  Stool out via colostomy 50cc's, liquid OB- stool.
+
+GU:  Voiding adequate amts via foley cath.  
+
+ID:  Low grade temps, temp of 99.4po.  He revused an oral temp at 5am. Surveillance cultures drawn and sent this am.  Receiving IV abx pip q6hr.    
+
+CV:  VS have been stable. 
+
+Skin:  Sacral wound dressing intact.  Due to be changed later in morning.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+",,
+14319,12065,17797,0,2850-04-30 16:34:00 EST,2850-04-30 16:45:00 EST,3239,"N",54,"Nursing/Other","MICU NSG 7A-7PM","
+MICU NSG 7A-7PM
+RESP--PT REMAINS ON RA, DENIES SOB. SATS >95%. 
+
+CV--REMAINS IN SR 70-80'S NO ECTOPY NOTED. BP 120-130'S/90'S, RESTARTED ON AMLODIPINE 5MG DAILY. CONTS WITH EXTREMITY EDEMA. MULTIPLE WOUNDS AND DRESSINGS CHANGED THIS AM ON LEFT ANKLE LATERAL MALEOLUS WITH STAGE 3-4 WOUND WITH MOD AMOUNT SEROSANG DRG, AQUACEL AND DSD APPLIED, LEFT MEDIAL MALEOLUS WITH STAGE 2 WOUND SM AMOUNT SEROUS DRG, AQAFOR AND DSD APPLIED, RIGHT HEEL NOW WITH SM OPEN AREA AQUAFOR AND DSD APPLIED AND GREAT TOE, DSD APPLIED, AND SACRUM LARGE STAGE 3-4 WITH MOD AMOUNT SEROSANG DRG AND FOUL SMELLING, AQACEL AND DSD APPLIED. HICKMAN LINE REMAINS IN PALCE, SITE C/D/I, ALTERNATING PORTS FOR ABX ADMINISTRATION. BEDSIDE ECHO DONE THIS AM, RESULTS PENDING. 
+
+GI--TF PROBALENCE CONTS INFUSING AT GOAL RATE 70CC/HR WITH MIN RESIDUALS. COLOSTOMY SITE INTACT, DRAINING SM AMOUNT LIQUID BROWN STOOL. 
+
+GU--FOLEY CATH IN PLACE, DRAINING CLEAR YELLOW URINE, QS.
+
+NEURO--PT ORIENTED XSELF. SPEECH GARBLED AT TIMES, AND DIFF TO UNDERSTAND. 
+
+SOCIAL--COUSIN IN TO VISIT AND UPDATED ON PT'S CONDITION. 
+
+PLAN--TRANSFER TO [**Wardname **] WHEN TRANSFER ORDERS AVAILABLE. 
+",,
+14319,12065,,,2850-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-5-3**] 7:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8498**]
+     Reason: picc line placementplease remove hickman (from OSH) prior to
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p cva, with UE contractures, with contaminated hickman, 
+      ID service okay with placement of picc prior to removal of hickman
+     REASON FOR THIS EXAMINATION:
+      picc line placementplease remove hickman (from OSH) prior to placing PICC.      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62-year-old man status post CVA with contaminated Hickman and
+     heparin induced thrombocytopenia.  Need for [**Last Name (un) 1828**] PICC line placement after
+     removal of Hickman catheter.
+     
+     RADIOLOGIST:  Drs. [**Last Name (STitle) 4805**] and [**Name5 (PTitle) 250**] performed the procedure.  Dr. [**Last Name (STitle) 250**],
+     the attending radiologist was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  The patient was placed supine on the angiography
+     table.  A preprocedural timeout was performed to confirm the patient's
+     identity and the type of procedure to be performed.  Ultrasound was used to
+     identify the right brachial vein which was patent and compressible.  After
+     injection of 5 cc of 1% lidocaine, a 21-gauge needle was advanced under
+     ultrasound guidance into the right brachial vein.  Hard copy ultrasound images
+     were obtained before and after venous access documenting patency.  A 0.018
+     guidewire was then advanced through the needle to the brachiocephalic vein
+     where resistance was encountered.  Therefore, Optiray contrast material was
+     administered to visualize the area, revealing a marked narrowing of the upper
+     SVC.  The micropuncture sheath was therefore replaced with a vascular access
+     sheath and a Glidewire was able to be advanced into the lower SVC.
+     Subsequently, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1828**] PIC line was advanced with the tip in the lower SVC.
+     The [**Last Name (un) 1828**] PIC line was cut to 45 cm length (41 cm intravascular portion)
+     and the line was StatLocked and heplocked.  The patient tolerated the
+     procedure well and there were no immediate post-procedure complications.
+     
+     IMPRESSION:
+     1.  Near complete occlusion of the SVC.
+     2.  Successful placement of a 4-French, 41 cm single lumen [**Last Name (un) 1828**] PICC via
+     the right brachial vein with tip in the lower SVC.  The line is ready for use.
+     The presence of the SVC narrowing was communicated to Dr. [**First Name8 (NamePattern2) 5851**] [**Last Name (NamePattern1) 8499**]
+     at approximately 7:30 p.m. on [**2850-5-3**].
+     
+     
+                                                                 (Over)
+
+     DATE: [**2850-5-3**] 7:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8498**]
+     Reason: picc line placementplease remove hickman (from OSH) prior to
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14319,12065,,,2850-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-5-3**] 7:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8498**]
+     Reason: picc line placementplease remove hickman (from OSH) prior to
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p cva, with UE contractures, with contaminated hickman, 
+      ID service okay with placement of picc prior to removal of hickman
+     REASON FOR THIS EXAMINATION:
+      picc line placementplease remove hickman (from OSH) prior to placing PICC.      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62-year-old man status post CVA with contaminated Hickman and
+     heparin induced thrombocytopenia.  Need for [**Last Name (un) 1828**] PICC line placement after
+     removal of Hickman catheter.
+     
+     RADIOLOGIST:  Drs. [**Last Name (STitle) 4805**] and [**Name5 (PTitle) 250**] performed the procedure.  Dr. [**Last Name (STitle) 250**],
+     the attending radiologist was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  The patient was placed supine on the angiography
+     table.  A preprocedural timeout was performed to confirm the patient's
+     identity and the type of procedure to be performed.  Ultrasound was used to
+     identify the right brachial vein which was patent and compressible.  After
+     injection of 5 cc of 1% lidocaine, a 21-gauge needle was advanced under
+     ultrasound guidance into the right brachial vein.  Hard copy ultrasound images
+     were obtained before and after venous access documenting patency.  A 0.018
+     guidewire was then advanced through the needle to the brachiocephalic vein
+     where resistance was encountered.  Therefore, Optiray contrast material was
+     administered to visualize the area, revealing a marked narrowing of the upper
+     SVC.  The micropuncture sheath was therefore replaced with a vascular access
+     sheath and a Glidewire was able to be advanced into the lower SVC.
+     Subsequently, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1828**] PIC line was advanced with the tip in the lower SVC.
+     The [**Last Name (un) 1828**] PIC line was cut to 45 cm length (41 cm intravascular portion)
+     and the line was StatLocked and heplocked.  The patient tolerated the
+     procedure well and there were no immediate post-procedure complications.
+     
+     IMPRESSION:
+     1.  Near complete occlusion of the SVC.
+     2.  Successful placement of a 4-French, 41 cm single lumen [**Last Name (un) 1828**] PICC via
+     the right brachial vein with tip in the lower SVC.  The line is ready for use.
+     The presence of the SVC narrowing was communicated to Dr. [**First Name8 (NamePattern2) 5851**] [**Last Name (NamePattern1) 8499**]
+     at approximately 7:30 p.m. on [**2850-5-3**].
+     
+     
+                                                                 (Over)
+
+     DATE: [**2850-5-3**] 7:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8498**]
+     Reason: picc line placementplease remove hickman (from OSH) prior to
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14319,12065,,,2850-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-5-3**] 7:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8498**]
+     Reason: picc line placementplease remove hickman (from OSH) prior to
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p cva, with UE contractures, with contaminated hickman, 
+      ID service okay with placement of picc prior to removal of hickman
+     REASON FOR THIS EXAMINATION:
+      picc line placementplease remove hickman (from OSH) prior to placing PICC.      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62-year-old man status post CVA with contaminated Hickman and
+     heparin induced thrombocytopenia.  Need for [**Last Name (un) 1828**] PICC line placement after
+     removal of Hickman catheter.
+     
+     RADIOLOGIST:  Drs. [**Last Name (STitle) 4805**] and [**Name5 (PTitle) 250**] performed the procedure.  Dr. [**Last Name (STitle) 250**],
+     the attending radiologist was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  The patient was placed supine on the angiography
+     table.  A preprocedural timeout was performed to confirm the patient's
+     identity and the type of procedure to be performed.  Ultrasound was used to
+     identify the right brachial vein which was patent and compressible.  After
+     injection of 5 cc of 1% lidocaine, a 21-gauge needle was advanced under
+     ultrasound guidance into the right brachial vein.  Hard copy ultrasound images
+     were obtained before and after venous access documenting patency.  A 0.018
+     guidewire was then advanced through the needle to the brachiocephalic vein
+     where resistance was encountered.  Therefore, Optiray contrast material was
+     administered to visualize the area, revealing a marked narrowing of the upper
+     SVC.  The micropuncture sheath was therefore replaced with a vascular access
+     sheath and a Glidewire was able to be advanced into the lower SVC.
+     Subsequently, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1828**] PIC line was advanced with the tip in the lower SVC.
+     The [**Last Name (un) 1828**] PIC line was cut to 45 cm length (41 cm intravascular portion)
+     and the line was StatLocked and heplocked.  The patient tolerated the
+     procedure well and there were no immediate post-procedure complications.
+     
+     IMPRESSION:
+     1.  Near complete occlusion of the SVC.
+     2.  Successful placement of a 4-French, 41 cm single lumen [**Last Name (un) 1828**] PICC via
+     the right brachial vein with tip in the lower SVC.  The line is ready for use.
+     The presence of the SVC narrowing was communicated to Dr. [**First Name8 (NamePattern2) 5851**] [**Last Name (NamePattern1) 8499**]
+     at approximately 7:30 p.m. on [**2850-5-3**].
+     
+     
+                                                                 (Over)
+
+     DATE: [**2850-5-3**] 7:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8498**]
+     Reason: picc line placementplease remove hickman (from OSH) prior to
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14319,12065,,,2850-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-5-3**] 5:14 PM
+     HICK REMOVE                                                     Clip # [**Clip Number (Radiology) 8500**]
+     Reason: Please REMOVE Hickman and please send tip for culture.      
+     Admitting Diagnosis: FEVER
+     ********************************* CPT Codes ********************************
+     * 36589 TUNNELED CENTRAL W/O PORT                                          *
+     *                                                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       62 year old man with s/p cva, with UE contractures, with contaminated hickman, 
+       please REMOVE Hickman
+     REASON FOR THIS EXAMINATION:
+      Please REMOVE Hickman and please send tip for culture.                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62-year-old man with status post CVA, with upper extremity
+     contractures, contaminated Hickman.  Please remove Hickman and send tip for
+     culture.
+     
+     RADIOLOGIST:  The procedure was performed by the Drs. [**Last Name (STitle) 3627**], [**Name5 (PTitle) 4805**], and
+     [**Doctor Last Name 250**], Dr. [**Last Name (STitle) 250**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     PROCEDURE AND FINDINGS:  The patient was placed seated in the recovery room
+     and his right neck and chest were prepped and draped in the standard sterile
+     fashion.  Local anesthesia was provided in the subcutaneous tissue by
+     injecting 10 cc of 1% lidocaine.  Using blunt dissection, the cuff of the
+     catheter was released from the tunnel.  The line was then removed, the tip
+     sent for culture, and manual compression was applied to the neck for 5 minutes
+     until hemostasis was achieved.  A dressing was applied to the skin incision
+     and the patient tolerated the procedure well.  There were no immediate post-
+     procedure complications.
+     
+     IMPRESSION:  Successful removal of a Hickman catheter. Tip was sent for
+     culture.
+     
+     
+
+",,

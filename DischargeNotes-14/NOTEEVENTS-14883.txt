@@ -1,0 +1,249 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14883,22037,,,2815-08-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2815-8-14**]              Discharge Date:   [**2815-8-16**]
+ 
+Date of Birth:  [**2719-11-1**]             Sex:   M
+ 
+Service: CMED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**Doctor First Name 3818**] 
+Chief Complaint:
+transfer from outside hospital for biventricular pacemaker 
+placement and further medical management
+ 
+Major Surgical or Invasive Procedure:
+biventricular pacemaker placement, [**2815-8-14**]
+ 
+History of Present Illness:
+[**Age over 90 **] y/o male with complicated cardiopulmonary PMHx notable for 
+CAD s/p MI [**2-19**], CABG x 4 complicated by wound staph infection 
+leading to sternectomy. Dialated cardiomyopathy with EF 10-20%. 
+Also with DM, CRI, esophageal mass obstruction, s/p bx with 
+indeterminate path; s/p stenting with relief of obstruction. 
+Also with COPD, O2sats high 80s on RA baseline. Presented at OSH 
+on [**2815-8-5**] with COPD exacerbation, ? asp PNA and dehydration 
+with increased Cre. Stay was c/b over diuresis and pressor 
+dependent hypotension felt to be [**1-19**] diuresis and ACEI therapy. 
+Pt also c. diff positive and Rx flagyl day 7 of 10 on [**8-14**]. ECG 
+revealed wide LBBB. Pt's son Dr. [**First Name4 (NamePattern1) **] [**Known patient lastname 11349**] arranged for transfer 
+to [**Hospital1 19**] for consideration for biventricular PM to help pt from 
+recurrent CHF hospitalizations. Lenghty discussion with son and 
+pt with EP fellow and Dr. [**Last Name (STitle) 1259**] re: risk/benefit of 
+[**Hospital1 **]-ventricular pacer placement in elderly pt with co-morbidity. 
+Pt son understood the risk including possibility of obtaining 
+little clinical benefit; but still wished to proceed. Pt 
+remianed full code. 
+ 
+Past Medical History:
+CAD s/p CABG
+COPD
+Congestive heart failure
+ 
+Social History:
+former TOB
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+GEN: Elderly M in NAD
+HEENT: NCAT, PERRLA, OP clear
+Heart: S1S2 tachycardic
+Lungs: CTA anteriorly
+Abdomen: nontender, nondistended
+Extremities: trace pulses throughout, no edema
+ 
+Brief Hospital Course:
+Pt transferred from outside hospital and brought directly to EP 
+laboratory where he underwent biventricular pacemaker placement 
+without complication.  Pt tolerated procedure well and then 
+brought to CCU for close monitoring.  Pt did well in CCU without 
+symptoms, mentating well, answering questions appropriately.  Pt 
+then transferred to [**Hospital Ward Name 455**] 3 but remained on CCU team.  About 5 AM 
+[**2815-8-16**], pt found to have SBP in 50s and CCU team called 
+emergently.  Pt found to be hypoxic with O2 sats in 70s, not 
+mentating appropriately, and emergently intubated.  Pt brought 
+back to CCU and started on dopamine for BP support.  Pt's 
+hypotension continued despite increasing dopamine and adding 
+levophed & dobutamine, with MAPs in the 30s.  Pt's son was 
+called & came to bedside.  Per family wishes, no further 
+aggressive measures were undertaken.  Pt went into ventricular 
+fibrillation at 1:30 PM [**2815-8-16**] and passed away within minutes.  
+Pt's son declined post-mortem.
+ 
+Medications on Admission:
+digoxin, protonix, zocor, advair, aspirin, prednisone 5 qd, 
+lasix 90 qd, flagyl, insulin sliding scale, colace, Zofran.
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+passed away
+ 
+Discharge Diagnosis:
+ventricular fibrillation and cardiac arrest
+congestive heart failure
+coronary artery disease
+ 
+Discharge Condition:
+passed away
+ 
+Discharge Instructions:
+passed away
+ 
+Followup Instructions:
+passed away
+ 
+                             [**First Name8 (NamePattern2) 296**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 3101**]
+ 
+Completed by: [**Name6 (MD) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] [**MD Number 3955**] [**2815-8-16**] @ 1751
+Signed electronically by: DR. [**First Name (STitle) 296**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: TUE [**2815-9-29**] 9:13 AM
+(End of Report)
+
+
+",,
+14883,22037,,,2815-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2815-8-14**] 9:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13185**]
+     Reason: r/o pneumothorax: px in cath recovery area                  
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\BIVENTRICULAR PACEMAKER UPGRADE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man s/p PM via lt subclavian v                                      
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax: px in cath recovery area                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     PORTABLE AP CHEST:  The patient has a dual chamber pacemaker in situ, with
+     apparent good placement of the leads, although a lateral has not been
+     obtained. There appears to be a separate biventricular pacing wire in-situ.
+     An esophageal stent is in situ. No pneumothorax is present. The heart is
+     normal in size. The medial aspect of the left lower lobe is not clearly
+     defined. There may be some collapse/consolidation  at this site.
+     
+     Granulomatous changes  are noted in right mid lung zone. The lungs are
+     otherwise clear. Degenerative changes are noted in the spine.
+     
+
+",,
+14883,22037,18493,0,2815-08-14 21:38:00 EST,2815-08-14 22:10:00 EST,1158,"N",1,"Nursing/Other",,"
+
+Received alert/oriented [**Age over 90 **]yr old male to ccu s/p DDD pacemaker insertion. He is hard of hearing, R>L. He wears bilateral hearing aides which fall out frequently. They are currently in a labeled cup at the bedside. CV: Monitor pattern shows vpacing at a rate that varries from 125-101. Pt occasionally has native beats that look sinus with bbb and prolonged pr interval. Sbp baseline per hx 70-90. Pt had been on pressor support at outside hospital for hypotension due to diuresis. Pulm: Has productive cough of thick dark brown sputum. Left lung sounds decreased all fields. Rt clear to auscultation. Pt had been being txc for aspiration px and is on aspiration precautions requiring thickened liquids. He is able to take his pills with water with no difficulty. GU: Uo picking up to >45cc/hr clear yellow after gentle hydration. GI: Abd soft, concave, bs hypoactive. Pt filled out kosher meal plan with assist. Skin: surfaces grossly intact, bottom of feet slightly mottled. Bilateral pedal edema noted, peripheral pulses weakly palpable. Soc: Has very involved family, who have called in and visited this evening.  P: Contiue full support as above, notify team of any change in hemodynamics, pulmonary funciton or other distress.
+",,
+14883,22037,18493,,2815-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2815-8-15**] 9:35 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13186**]
+     Reason: lead position                                               
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\BIVENTRICULAR PACEMAKER UPGRADE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man s/p BiV PM via lt subclavian v                                  
+     REASON FOR THIS EXAMINATION:
+      lead position                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status-post pacemaker insertion.
+     
+     COMPARISON:  Compared to previous examination from [**2815-8-14**].
+     
+     CHEST, PA and lateral views:  The patient has a intracardiac device in-situ
+     with right atrial and right ventricular leads, and a 3rd biventricular pacer
+     lead in-situ.  These all appear to be in satisfactory positioning.  There is
+     evidence of some blunting of the left costophrenic diaphragm, which seems to
+     have progressed from yesterday, and likely represents a small left-sided
+     effusion.  In addition, on the lateral view, there is progressive
+     opacification posteriorly from superior-to-inferior consistent with a layering
+     effusion, posteriorly and inferiorly.  The lungs otherwise appear grossly
+     normal.  As before, there is an esophageal stent in-situ.  No stent or wire
+     fracture is seen.
+     
+     
+     
+     
+     
+     
+
+",,
+14883,22037,18493,0,2815-08-15 04:42:00 EST,2815-08-15 05:07:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+S/P BIVENTRICULAR PLACEMENT
+S DENIES PAIN
+O CV HR 100-1110'S..V PACED WITH RARE INTRINSIC BEATS...SBP 90-100'S/50-60'S...LEFT ARM IN SLING ..PACER DSG INTACT ..WITHOUT DRAINAGE 
+RESP ON 3L NP RR 28..BECOMES TACHYPNEIC WITH MINIMAL EXERTION..ALTHOUGH DENIES SOB....LUNG SOUNDS DIMINISHED AT BASES WITH INSP CXS ..USING INHALERS WITH ASSIST
+GI/GU URINE OUTPUT 50 CCQ1 
+AFEBRILE ..CONTINUES ON LEVO/VANCO/FLAGYL..CDIFF PRECAUTIONS MAINTAINED 
+TURNED Q3 HOURS ..PT REFUSING PAIN MED 
+PT REPORTS POOR APPETITE..BUT DENIES DYSPHAGIA..HOB > 45 DEGREES FOR ASP PRECAUTIONS..LOOSE PROD COUGH AFTER SMALL SIPS OF THICKEN SHAKE 
+A RESP DISTRESS WITH MINIMAL EXERTION LIKELY FROM END STAGE COPD/CHF/ASPIRATION
+P CONTINUES ON LASIX/STEROIDS 
+ABXS  FOR CDIFF/POST PACEMAKER PLACEMENT 
+ SOCIAL WORK TEAM WORKING  TOWARD SHORT TERM HOSP LEVEL PLACEMENT 
+
+A 
+
+
+",,
+14883,22037,18493,,2815-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14883,22037,18493,,2815-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2815-8-16**] 11:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13187**]
+     Reason: please evaluate ngt and central line placement              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\BIVENTRICULAR PACEMAKER UPGRADE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man s/p PM via lt subclavian v now s/p intubation. with ngt and r 
+      ij line.                                     
+     REASON FOR THIS EXAMINATION:
+      please evaluate ngt and central line placement                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Chest radiograph.
+     
+     COMPARISON:  Study is compared to the radiograph of [**2815-8-15**].
+     
+     INDICATION:  Patient has new left subclavian line.  To evaluate for line
+     placement.
+     
+     The patient has been intubated, and the ET tube now lies 4.2 cm from the tip
+     of the carina.  An esophageal stent is in situ.  NG tube appears in good
+     position at the distal end of the esophageal stent.  New left-sided subclavian
+     line is identified in good position.  A right-sided internal jugular line is
+     identified in good position.  Patient has a dual chamber pacemaker in situ
+     with a third biventricular pacing wire.  Allowing for a degree of rotation
+     these appear in good position.
+     
+     There is evidence of bibasal emphysema.  A small left-sided pleural effusion
+     is seen.  Allowing for differences in technique, the lungs appear grossly
+     clear and not significantly changed from radiograph taken previous day.
+     
+     
+     
+
+",,
+14883,,18493,0,2815-08-16 12:35:00 EST,2815-08-16 12:41:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: PT DEATH","
+CCU NSG NOTE: PT DEATH
+Pt deteriorated on [**Hospital Ward Name **] 3 overnight, was started on dopamine and intubated and transfered to CCU ~7:30am. He received a-line and triple lumen, had dopamine increased from 5 to 12 mic/kilo, received a 2nd 500cc NS bolus and had levofed up to 2 mic/kilo and dobutamine at 5 mic/kilo added with continued poor blood pressure. Blood gases showed increasing acidosis and lactate up to 11. His son as the health care proxy, advised continuing pressures without adding further treatment. At ~1315 he went from from paced rhythm with capture to minmimal capture and by 1320 he was in fine VF. Pt was asystolic by 1325. Pt pronounce dead and son was with him at the time. Son appreciative of care, being supported by wife. Arrangements will be made.
+",,

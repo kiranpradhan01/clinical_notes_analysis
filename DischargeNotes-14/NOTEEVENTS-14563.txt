@@ -1,0 +1,580 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14563,,,,3357-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-5**] 1:09 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 10484**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: POSSBLE LIVER MASS, BILIARY STRICTURE, SOB, LIVER CTA
+      Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with bile duct stricture
+     REASON FOR THIS EXAMINATION:
+      70 yo with possible liver mass. ERCP done at OSH showing biliary stricture.
+      Please do CTA of abd and chest. Triphasic CT of liver with thin cuts through
+      the hilar area to assess for mass.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ERCP performed at an outside hospital showed a bile duct
+     stricture.  Assess for possible liver mass.
+     
+     TECHNIQUE:  Contiguous axial images were obtained through the abdomen prior to
+     and following the administration of IV contrast, according to the liver CT
+     angiogram protocol.  Delayed images through the abdomen and pelvis,
+     multiplanar reformatted and 3D volume rendered images were also obtained.
+     Nonionic IV contrast was administered secondary to the rapid rate of injection
+     required for this study.
+     
+     COMPARISONS:  None.
+     
+     CT OF ABDOMEN WITHOUT AND WITH IV CONTRAST:  The imaged portions of the lung
+     bases demonstrate mild dependent linear opacities, likely representing focal
+     areas of atelectasis.  There are two radiopaque densities within the lumen of
+     the stomach, likely representing recently ingested medication.  The early
+     arterial phase images show asymmetric patchy enhancement of the liver
+     parenchyma, with segmental increased enhancement of the left lobe.  The
+     portovenous phase images show continued asymmetric enhancement, with markedly
+     dilated intrahepatic ducts involving most of the left lobe.  There are at
+     least two dilated right intrahepatic ducts.  Although these ducts appear to
+     converge on a poorly circumscribed 3.2 x 2.9 cm enhancing, low-attenuation
+     mass near the central left hepatic lobe.  Additionally, there are innumerable
+     subcentimeter low-attenuation foci scattered throughout both hepatic lobes,
+     many of which do not appear to represent dilated bile ducts.  Unfortunately,
+     they are too small to further characterize on this exam.  The largest of these
+     additional low-attenuation foci reside within segment 4B, and measures
+     approximately 2.4 x 1.9 cm.  There is a simple appearing cyst within the
+     hepatic dome.  No additional mass lesions are identified.  There are multiple
+     enlarged lymph nodes in the region of the porta hepatis, measuring up to 2.3 x
+     1.7 cm.  There are additional smaller perpancreatic, mesenteric and
+     retroperitoneal lymph nodes, none of which meets the CT criteria for
+     pathologic enlargement.  There is a trace amount of perihepatic ascites.
+     
+     The spleen, pancreas, adrenal glands, kidneys, and unopacified loops of
+     large/small bowel are unremarkable.  There is no free air within the abdomen.
+     
+     CT OF PELVIS WITH IV CONTRAST:  There is a small amount of free fluid within
+     the pelvis.  The rectum, unopacified distal loops of bowel, distal ureters,
+                                                                 (Over)
+
+     DATE: [**3357-1-5**] 1:09 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 10484**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: POSSBLE LIVER MASS, BILIARY STRICTURE, SOB, LIVER CTA
+      Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     urinary bladder, uterus and adnexal regions are unremarkable.  Noted is a
+     single coarse calcifications within the uterus.  there is no free air or
+     lymphadenopathy.
+     
+     Bone windows show degenerative changes within the visualized spine, but no
+     suspicious lytic or sclerotic lesions.
+     
+     CT ANGIOGRAM:  The intraabdominal aorta and its major branches are widely
+     patent.  The liver demonstrates conventional arterial supply.  The right and
+     left hepatic arteries appear patent.  Likely secondary to the above described
+     mass, most of the left portal vein (aside from its most central portion) and
+     left hepatic vein are not visualized.  The middle hepatic vein is also poorly
+     visualized.  The right hepatic vein, right portal and main portal veins appear
+     patent.  The splenic vein is unremarkable.  The SMV is within normal limits.
+     
+     IMPRESSION:  1.  Findings worrisome for a 3.2 x 2.9 cm heterogeneous mass
+     within the left hepatic lobe.  Its delayed enhancement, along with the
+     significant associated biliary ductal dilatation, is suggestive of a
+     cholangiocarcinoma.  Other primary hepatic neoplasms should be considered.
+     
+     2.  Additional low-attenuation foci scattered throughout both lobes of the
+     liver, many of which are too small to further characterize, are worrisome for
+     addtional foci of disease.  As discussed above, these foci do not have the
+     appearance of intrahepatic biliary ducts and cannot be confidently
+     characterized as simple hepatic cysts.  If indicated, further evaluation with
+     a liver MRI may be helpful in the continued work up of this case.
+     
+     3.  Non-visualization of a majority of the left portal vein, as well as the
+     left and middle hepatic veins.  These findings, coupled with the markedly
+     asymmetric enhancement of the left hepatic lobe is worrisome for vascular
+     involvement of this neoplastic process.
+     
+     4.  Perihepatic lymphadenopathy.
+     
+     5.  Small amounts of abdominal ascites.
+     
+     These findings and recommendations were discussed with Dr. [**Last Name (STitle) **] on [**3357-1-5**].
+     
+     
+
+",,
+14563,,,,3357-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-5**] 1:09 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 10484**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: POSSBLE LIVER MASS, BILIARY STRICTURE, SOB, LIVER CTA
+      Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with bile duct stricture
+     REASON FOR THIS EXAMINATION:
+      70 yo with possible liver mass. ERCP done at OSH showing biliary stricture.
+      Please do CTA of abd and chest. Triphasic CT of liver with thin cuts through
+      the hilar area to assess for mass.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ERCP performed at an outside hospital showed a bile duct
+     stricture.  Assess for possible liver mass.
+     
+     TECHNIQUE:  Contiguous axial images were obtained through the abdomen prior to
+     and following the administration of IV contrast, according to the liver CT
+     angiogram protocol.  Delayed images through the abdomen and pelvis,
+     multiplanar reformatted and 3D volume rendered images were also obtained.
+     Nonionic IV contrast was administered secondary to the rapid rate of injection
+     required for this study.
+     
+     COMPARISONS:  None.
+     
+     CT OF ABDOMEN WITHOUT AND WITH IV CONTRAST:  The imaged portions of the lung
+     bases demonstrate mild dependent linear opacities, likely representing focal
+     areas of atelectasis.  There are two radiopaque densities within the lumen of
+     the stomach, likely representing recently ingested medication.  The early
+     arterial phase images show asymmetric patchy enhancement of the liver
+     parenchyma, with segmental increased enhancement of the left lobe.  The
+     portovenous phase images show continued asymmetric enhancement, with markedly
+     dilated intrahepatic ducts involving most of the left lobe.  There are at
+     least two dilated right intrahepatic ducts.  Although these ducts appear to
+     converge on a poorly circumscribed 3.2 x 2.9 cm enhancing, low-attenuation
+     mass near the central left hepatic lobe.  Additionally, there are innumerable
+     subcentimeter low-attenuation foci scattered throughout both hepatic lobes,
+     many of which do not appear to represent dilated bile ducts.  Unfortunately,
+     they are too small to further characterize on this exam.  The largest of these
+     additional low-attenuation foci reside within segment 4B, and measures
+     approximately 2.4 x 1.9 cm.  There is a simple appearing cyst within the
+     hepatic dome.  No additional mass lesions are identified.  There are multiple
+     enlarged lymph nodes in the region of the porta hepatis, measuring up to 2.3 x
+     1.7 cm.  There are additional smaller perpancreatic, mesenteric and
+     retroperitoneal lymph nodes, none of which meets the CT criteria for
+     pathologic enlargement.  There is a trace amount of perihepatic ascites.
+     
+     The spleen, pancreas, adrenal glands, kidneys, and unopacified loops of
+     large/small bowel are unremarkable.  There is no free air within the abdomen.
+     
+     CT OF PELVIS WITH IV CONTRAST:  There is a small amount of free fluid within
+     the pelvis.  The rectum, unopacified distal loops of bowel, distal ureters,
+                                                                 (Over)
+
+     DATE: [**3357-1-5**] 1:09 PM
+     CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST                 Clip # [**Clip Number (Radiology) 10484**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: POSSBLE LIVER MASS, BILIARY STRICTURE, SOB, LIVER CTA
+      Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     urinary bladder, uterus and adnexal regions are unremarkable.  Noted is a
+     single coarse calcifications within the uterus.  there is no free air or
+     lymphadenopathy.
+     
+     Bone windows show degenerative changes within the visualized spine, but no
+     suspicious lytic or sclerotic lesions.
+     
+     CT ANGIOGRAM:  The intraabdominal aorta and its major branches are widely
+     patent.  The liver demonstrates conventional arterial supply.  The right and
+     left hepatic arteries appear patent.  Likely secondary to the above described
+     mass, most of the left portal vein (aside from its most central portion) and
+     left hepatic vein are not visualized.  The middle hepatic vein is also poorly
+     visualized.  The right hepatic vein, right portal and main portal veins appear
+     patent.  The splenic vein is unremarkable.  The SMV is within normal limits.
+     
+     IMPRESSION:  1.  Findings worrisome for a 3.2 x 2.9 cm heterogeneous mass
+     within the left hepatic lobe.  Its delayed enhancement, along with the
+     significant associated biliary ductal dilatation, is suggestive of a
+     cholangiocarcinoma.  Other primary hepatic neoplasms should be considered.
+     
+     2.  Additional low-attenuation foci scattered throughout both lobes of the
+     liver, many of which are too small to further characterize, are worrisome for
+     addtional foci of disease.  As discussed above, these foci do not have the
+     appearance of intrahepatic biliary ducts and cannot be confidently
+     characterized as simple hepatic cysts.  If indicated, further evaluation with
+     a liver MRI may be helpful in the continued work up of this case.
+     
+     3.  Non-visualization of a majority of the left portal vein, as well as the
+     left and middle hepatic veins.  These findings, coupled with the markedly
+     asymmetric enhancement of the left hepatic lobe is worrisome for vascular
+     involvement of this neoplastic process.
+     
+     4.  Perihepatic lymphadenopathy.
+     
+     5.  Small amounts of abdominal ascites.
+     
+     These findings and recommendations were discussed with Dr. [**Last Name (STitle) **] on [**3357-1-5**].
+     
+     
+
+",,
+14563,,,,3357-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-13**] 3:32 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 10485**]
+     Reason: 70 yo with bile duct stricture, liver mass. Scheduled for le
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with liver mass
+     REASON FOR THIS EXAMINATION:
+      70 yo with bile duct stricture, liver mass. Scheduled for left hepatic
+      lobectomy on [**1-17**]. Please do CT of chest to r/o pulm mets.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 70-year-old female awaiting left hepatic lobectomy for
+     suspected liver mass.
+     
+     TECHNIQUE:  Axial CT imaging of the chest performed after the intravenous
+     administration of 100 mL of Optiray.  Nonionic contrast was used due to
+     patient debility.  Comparison is made to a prior CT of the abdomen performed
+     on [**3357-1-5**].
+     
+     CT OF THE CHEST WITH CONTRAST:  A pericardial lymph node is seen above the
+     diaphragm measuring 1.9 x 0.8 cm (series 2, image 30).  No pathologically
+     enlarged axillary, hilar, or mediastinal lymph nodes are seen.  The airways
+     are patent to the level of the segmental bronchi bilaterally.  A tiny 2-3 mm
+     micronodule within the peripheral right upper lobe (series 3, image 34) and an
+     additional 2-3 mm tiny nodule within the right lower lobe (series 3, image
+     122) are identified.  Nodular opacities adjacent to the minor fissure (series
+     3, image 83) and the major fissure (series 3, image 77) measuring less than 5
+     mm are also seen.  No other definite nodules or areas of pulmonary parenchymal
+     consolidation are seen.  No pleural effusion is identified.  Some bronchial
+     wall thickening is seen within both lung bases.
+     
+     Within the visualized portions of the upper abdomen, there is evidence of
+     slightly increased ascites when compared to the prior study of [**3357-1-5**].  As
+     described on the prior abdominal CT, there is again seen a left-sided biliary
+     ductal dilatation and scattered foci of low attenuation within the liver.
+     
+     Bone windows show no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     
+     1).  Tiny right upper lobe and right lower lobe nodules as well as several
+     tiny foci of nodular thickening adjacent to the right major fissure and minor
+     fissure. Although possibly due to noncalcified granulomas and/or
+     intrapulmonary lymph nodes, a three- month followup CT is recommended to
+     exclude early mets at these sites.
+     
+     2).  A 1.8 x 8 mm pericardial lymph node.
+     
+     3).  Slightly increased ascites when compared to [**3357-1-5**].
+     
+     4).  Please refer to the abdominal CT of [**3357-1-5**] for further information
+     regards to the patient's extensive liver pathology.
+                                                                 (Over)
+
+     DATE: [**3357-1-13**] 3:32 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 10485**]
+     Reason: 70 yo with bile duct stricture, liver mass. Scheduled for le
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     5).  Minimal amount of bronchial wall thickening seen within both lung bases
+     suggestive of small airways disease.
+     
+     
+
+",,
+14563,6327,,,3357-01-31 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3357-1-31**]        Discharge Date: [**3357-2-9**]
+
+Date of Birth:  [**3286-6-12**]        Sex:  F
+
+Service:  HEPATOBILIARY SURGERY
+
+
+This is a 70-year-old female who underwent an exploratory
+laparotomy and a true-cut biopsy of the liver three times, a
+wedge biopsy of the liver on [**3357-1-31**].  Her preoperative
+diagnosis was a liver mass, probable pre-cholangic carcinoma,
+left lobe intraductal dilatation. Intraoperatively she was
+found to have poorly differentiated carcinoma of the liver.
+Please see the operative note by Dr. [**Last Name (STitle) 1695**] for further
+information on the intraoperative course and procedure
+details.
+
+Postoperatively the patient was admitted for routine postop
+care to the Surgical intensive care unit due to some low
+urine output and volume hemodynamic instability.  Immediately
+postop the patient had a PA catheter inserted and required
+some Neo for blood pressure and hemodynamic control.
+
+On postop day one the patient was continued on Neonephrine
+and her fluid status was reassessed continually by being in
+the Intensive care unit.  Her hydrochlorothiazide was
+restarted.  Her crit remained stable and her blood pressure
+continued to improve with a normal systolic in approximately
+120.  She was afebrile with stable vital signs.  On postop
+day two the patient was given chest PT and out of bed and
+Neonephrine was started to be weaned to tolerate a systolic
+blood pressure of 110.  Urine output remained a little bit
+less but it remained well in the sense of 75 cc's an hour.
+
+On postop day three Neo was down to 1.0.  The patient
+remained afebrile but did intermittently have some low grade
+temperature to 100.6.  Blood pressure remained well.
+Occasional blood pressures lower than a systolic of 100 but
+usually in the low 100's.  She remained stable.  Positive
+urinalysis and Levaquin was started.  The patient remained on
+the floor on [**3357-2-4**] due to bed status, was felt to be able
+to be a good candidate to the floor.  On [**3357-2-5**] she
+continued to have some decreased urine output over the
+evening of the 11th and 12th and received some boluses.  Due
+to the potential chance for increased fluid instability the
+patient was kept in the Intensive care unit for further
+management and hemodynamic monitoring.  On [**3357-2-5**] the
+patient complained of intermittent shortness of breath and
+with poor p.o. intake.  She remained afebrile with systolic
+blood pressure in the 90 to 100's.  She was started on TPN
+and p.o. Lasix.
+
+On [**3357-2-6**] the patient was transferred from Intensive care
+unit to the floor.  Was ideally negative two liters,
+continued to have a pretty good stable blood pressure off any
+pressors and did not require any.  On [**3357-2-7**] the patient did
+well and had no problems however, the patient continued
+monitoring her TPN, slowly started to be weaned to 1 liter on
+the evening of the 14th.  It was discussed whether or not her
+Foley should be discontinued but due to the fact that she was
+not very mobile it was best to keep the Foley in place.  In
+addition a Social Work meeting and case management
+involvement, discussion with the family as well as the doctor
+indicated that they would like to admit patient to Skilled
+Nursing Facility for comfort measures.  She was in agreement
+and an initial screen was placed on [**3357-2-7**].  On [**3357-2-7**] the
+patient was made DNR/DNI.  The patient was screened on
+[**3357-2-8**] and monitored.  As per the requested TPN was stopped.
+Foley was kept and adjusted for comfort.  She continued to
+diurese and was receiving 80 mg of Lasix p.o. twice a day on
+the 15th but will be discharged on the 16th with 40 mg p.o.
+twice a day.
+
+The patient was discharged to an Extended Care Facility for
+comfort measures.  She is to follow-up with Dr. [**Last Name (STitle) 1695**] in
+approximately one week to remove her staples.
+
+FINAL DIAGNOSIS:
+1. Status post exploratory laparotomy and biopsy on [**3357-1-31**].
+2. Left hepatic duct stricture.
+3. Hypertension.
+4. Postoperative hypotension.
+
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE MEDICATIONS:
+1. Hydrochlorothiazide 25 mg p.o. once daily
+2. Lenazapril  30 mg p.o. once daily
+3. Dilaudid 2 mg p.o. q two hours p.r.n.
+4. Colace 100 mg tablet p.o. twice a day.
+5. Midodrine 2.5 mg p.o. three times a day.
+6. Albuterol inhaler q six hours p.r.n.
+7. Spironolactone 100 mg p.o. once daily.
+8. Ipratropium bromide nebulizer q 6 hours p.r.n.
+9. Ativan 0.5 mg p.o. three times a day p.r.n.
+10.      Lasix 40 mg p.o. twice a day.
+11.      Insulin as per sliding scale.
+
+The patient will be discharged as indicated above to Extended
+Care Facility.  Her anticipated day of discharge is [**3357-2-9**]
+pending approval from the patient's family for the care
+center that had accepted the patient.
+
+
+
+                        [**First Name11 (Name Pattern1) 1700**] [**Last Name (NamePattern4) **], MD, PHD[**MD Number 4580**]
+
+Dictated By:[**Doctor Last Name 10862**]
+MEDQUIST36
+D:  [**3357-2-9**] 14:50:36
+T:  [**3357-2-9**] 16:06:21
+Job#:  [**Job Number 10863**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**3357-2-15**] 4:14 AM
+(End of Report)
+
+
+",,
+14563,6327,,,3357-01-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-31**] 5:16 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 10486**]
+     Reason: PA cath placement, eval for CHF                             
+     Admitting Diagnosis: BILE DUCT STRICTURE/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old woman with s/p exlap for liver cancer, low UOP, high volume 
+      requirement                             
+     REASON FOR THIS EXAMINATION:
+      PA cath placement, eval for CHF                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     This is a portable chest of [**3357-1-31**] compared to previous study of earlier the
+     same date.
+     
+     CLINICAL INDICATION:  Pulmonary artery catheter placement.
+     
+     FINDINGS:
+     
+     There has been placement of a pulmonary artery catheter, which terminates in
+     the interlobar portion of the right pulmonary artery.  There is no evidence of
+     pneumothorax and previously noted left retrocardiac opacity has nearly
+     resolved.  There has otherwise been no significant change since the recent
+     study of the same date.
+                                                                           
+
+",,
+14563,6327,18097,0,3357-02-01 06:03:00 EST,3357-02-01 06:22:00 EST,4489,"N",53,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+     ADMIT FROM PACU S/P EX LAP, TRUE-CUT LIVER BIOPSY X 3, AND WEDGE LIVER BIOPSY. IN PACU HAD AN EPISODE OF LOW BLOOD PRESSURE AND DECREASED URINE OUTPUT REQUIRING THAT A SWAN BE PLACED. SENT TO THE ICU FOR BLOOD PRESSURE MANAGEMENT.
+     ON ARRIVAL ON NEO GTT AT 1 MCG, CURRENTLY THAT HAS INCREASED TO 2.6 TO KEEP SBP> 120. SWAN LINE IN LEFT SUBCLAVIAN AT 54 CM'S, SEE CARE VUE FOR SPECIFICS. CVP MEASUREMENTS ARE CORRELATING WITH PAWP.CARDIAC OUTPUTS AND PA PRESSURES CONSISTENT.
+      MEDICATED FOR PAIN WITH DILAUDID 1 MG WITH GOOD EFFECT, ALTHOUGH THE DILADID DOES DECREASE HER RESPIRATORY RATE AND BLOOD PRESSURE.
+      URINE OUTPUT BORDERLINE 20-30 ML/ HOUR. DR [**Last Name (STitle) 821**] AWARE. MULTIPLE FLUID BOLUS' GIVEN IN PACU, NONE GIVEN HERE, AT THIS POINT.        LABS DRAWN AT MIDNIGHT, CALCIUM 1.2, 3 GM CALCIUM GLUCONATE GIVEN. PTT ELEVATED THIS AM,PTT REPEATED AND CURRENTLY PENDING.
+      CONTINUE TO MONITER PAIN, KEEP SBP>120. 
+",,
+14563,6327,18097,0,3357-02-01 18:15:00 EST,3357-02-01 18:25:00 EST,3229,"N",53,"Nursing/Other",,"
+
+
+
+
+NEURO; A&OX3, FOLLOWS COMMANDS, MAE, MEDIC WITH DILAUDID 0.5-1MGM PRN, SPEECH CLEAR, ONE EPISODE THIS PM OF STATING SHE WAS IN [**Location (un) **] BUT AS BEEN COHERENT REMAINDER OF SHIFT
+
+CARDIOVASCULAR; HR 60'S-80, CVP 12-18, C.O 7.31 WITH SVR 500'S, NOT WEDGING PT SECONDARY TO INR 1.9, NEO AT 2.4 MCG/KG/MIN, GIVEN 500CC FLUID BOLUS FOR LOW URINE OUTPUTS OF 10-20CC/HR, LOW U/O REPORTED TO SICU AND TX TEAMS, U/O MARGINALLY IMPROVED, HCT AT NOON 35.8, PA SYS 30'S-40, PA WAVEFORM DAMPENED AND LINE PULLED BACK TO 47 PER SICU HO, 
+WAVEFORM REMAINS DAMPENED
+
+RESPIR; FEW CRACKES RT BASE EARLIER BUT PRESENTLY DIM AT BASES, ON N/C AT 4L/MIN, 
+
+WOUND; DSG D/I
+
+GI: TAKING SMALL SIPS OF CLEAR LIQUIDS, AND [**Last Name (un) 719**], BS HYPOACTIVE
+
+PLAN; MEDICATE PRN, FREQUENT ASSESSMENT OF U/O AND RENAL STATUS, ALLOW PT TO VERBALIZE ABOUT HER ILLNESS, KEEP SYS > 110 AND WEAN NEO IF POSSIBLE 
+",,
+14563,6327,18097,0,3357-02-01 18:52:00 EST,3357-02-01 18:53:00 EST,3229,"N",53,"Nursing/Other",,"
+
+ADDENDUM
+
+PT PULLED OFF EKG LEADS AND STATED SHE WANTED TO GET OUT OF BED AND WAS BRIEFLY CONFUSED BUT ORIENTED QUICKLY BACK TO TIME AND PLACE, HAD BEEN MEDIC PREVIOUSLY WITH ONE MGM OF DILAUDID, MAY NEED TO DECREASE DOSE AND OBSERVE, DR. [**Last Name (STitle) **] HERE AND INFORMED
+",,
+14563,6327,18097,0,3357-02-02 04:11:00 EST,3357-02-02 04:16:00 EST,4489,"N",53,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+     CONTINUES ON NEO GTT, CURRENTLY AT 2.6 MCG TO KEEP SBP>110. MEDICATED Q [**2-25**] WITH 0.5 MG DILAUDID FOR PAIN, AMOUNTS GREATER THAN THAT CAUSE A TOO RAPID DECREASE IN HER BLOOD PRESSURE. URINE OUTPUT CONTINUES ON THE LOW SIDE, BUT, HAS BEEN >THAN 20 CC / HOUR OVERNIGHT. ARTERIAL LINE HAS DAMPENED CONSIDERABLY, CURRENTLY USING CUFF PRESSURES FOR MANAGEMENT OF NEO GTT.SEE CARE VUE FOR SPECIFICS.
+     
+",,
+14563,6327,18097,0,3357-02-02 18:36:00 EST,3357-02-02 18:53:00 EST,3229,"N",53,"Nursing/Other",,"
+
+NEURO; A&O X3 MOST OF SHIFT, OCCAS CONFUSED BUT EASILY RE-ORIENTED, SPEECH CLEAR, MAE, FOLLOWS COMMANDS, MEDIC PRN WITH DILAUDID 0.5 MGM,
+
+CARDIOVASCULAR; HR 90'S SR, CVP 20-16-PRESENTLY 5,PAST HR, TX TEAM IN AND RESIDENT INFORMED, SWAN GANZ SHEATH LEAKING SMALL AMT CLEAR FLUID, SICU ATTENDING AND TX TEAM AWARE, CVP 18-TRENDING DOWN TO 5, TX TEAM IN AND INFORMED, TEMP 100.4 CORE, PA WAVEFORM DAMPENED AND PULLED BACK X 2, NEO TITRATED FOR NEW GOAL OF MAP > 65, PRESENTLY AT 1.4 MCG/KG/MIN
+BLOOD CULT FROM SWAN LINE AND URINE CULTURE SENT, NOT ABLE TO OBTAIN PERIPHERAL LINE CULT, SICU HO INFORMED, PT WBC ELEV TO 20 TODAY
+
+RESPIR; LUNGS CLEAR, 02 SAT 100% ON N/C AT 4L/MIN, CHEST PT
+
+PLAN; PROBABLE DC OF SWAN TOMORROW, MAINTENANCE IV DECREASED TO 75CC/HR, WEAN NEO, ENCOURAGE OOB
+
+",,
+14563,6327,18097,0,3357-02-03 04:20:00 EST,3357-02-03 04:49:00 EST,6327,"N",53,"Nursing/Other",,"
+
+1900-0700
+
+Neuro: pt awake, alert, oriented X2-3. Int confusion to pplace noted thru night. Follows commands well, MAEs weakly. Helps with turning, very cooperative and appropriate. Speech clear. Taking po's well no difficulty with swallowing. 
+
+Resp: 4L NC, resp easy and regular. Lungs clear and diminished at the bases. O2sat 98-100%. No SOB noted. Pt removed Aline HO aware. No cough noted. Encouraged DBC exercises. 
+
+CV: NSR without VEA. HR 80-90, BP 90-110/40-50, MAP 60-70. Pt remains on Neosynephrine @ 1.0 mcg/kg/min for BP support-actively weaning as tolerated. Swan L SC dsg changed. No CO done due to fluid noted in sheath-plan for line d/c today?.Max temp 100.4 core, WBC 15.6, Hct 32.4, INR 2.5, heparin dependent antiboties-neg. Pt c/o of pain with movement to incision site,  Dilaudid 0.5mg given X1 dose @ 0130. + pulses to lower ext. Edema noted to ext. Skin warm/dry/intact.
+
+GU/GI: Abd obese soft + BS, no BM. + flatus. Taking fluids well, No N/V. Abd incision to R with staples intact draining scant amt of serous fluid. Dsg changed. Foley catheter to BSD draining amber clear urine, minimal amount of urine noted, approx 18-35cc/hr. Urine culture and BC pending. 
+
+Plan: OOB to chair, Wean neosynephrine to off as tolerated, Supportive care concerning Dx and plan for treatment.
+",,
+14563,6327,18097,0,3357-02-03 18:32:00 EST,3357-02-03 18:41:00 EST,3825,"N",53,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT ALERT AND ORIENTED X3. DOES NOT APPEAR CONFUSED AND HAS BEEN VERY EMOTIONAL AT TIMES. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ASKED TO SPEAK TO PT AND DR. [**Last Name (STitle) 851**] DISCUSSED WITH HER THE TERMINAL PROGNOSIS SHE IS FACED WITH. SHE RESPONDED IN AN APPROPRIATE WAY AND IS AT TIMES OVERWHELMED BY HER SITUATION. DIFFERENT OPTIONS, SUCH AS HOSPICE WHEN THE TIME ARRIVES WERE DISCUSSED. DILAUDID PO FOR PAIN WITH GOOD EFFECT. 
+
+NEO GTT OFF AND MAP MAINTAINED >60, BORDERLINE AT TIMES BUT RESPONDED TO BOLUSES AND ALBUMIN GIVEN FOR LOW URINE OUTPUT. U/O HAS NOT RESPONDED AS WELL AT TIMES. PRIMARY TEAM AWARE. 
+
+OOB TO CHAIR, VERY WEAK TO GET BACK IN BED. 
+
+PLAN:
+CONTINUE TO PROVIDE EMOTIONAL SUPPORT. TRANFER TO FLOOR IN AM. ENCOURAGE HOUSE DIET. 
+",,
+14563,6327,18097,0,3357-02-04 19:03:00 EST,3357-02-04 19:09:00 EST,3825,"N",53,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT ALERT AND ORIENTED X3. OOB TO CHAIR WITH 2 LIGHT ASSIST. MEDICATED FOR PAIN X1 AFTER ACTIVITY, OTHERWISE DENIES PAIN. APPEARS IN SLIGHTLY BETTER SPIRITS TODAY. EMOTIONAL SUPPORT PROVIDED.
+
+VSS.
+
+LUNGS WITH WHEEZING BILATERALLY AT TIMES, ESPECIALLY AFTER ACTIVITY. PT. ENCOURAGED TO CDB. CXR DONE. NEBS ORDERED.
+
+URINE OUTPUT CONTINUES TO BE LOW. TREATED WITH NS BOLUSX1 WITH EFFECT. URINE SENT FOR ANALYSIS.
+
+PLAN:
+MONITOR U/O STATUS. EMOTIONAL SUPPORT.
+",,
+14563,6327,18097,0,3357-02-05 04:34:00 EST,3357-02-05 04:46:00 EST,6346,"N",53,"Nursing/Other","NPN","
+NPN
+See carevue for remarks and details:::
+
+Neuro: A+O x3, pleasant, inapp words/phrases at times, but easy to reorient.  
+
+Resp: ex wheezing bilaterally most of night. alb/atrovent nebs x2 w/+effect. pt w/^anxiety w/^resp discomfort. ativan x1 w/+effect. on 3LNC-sats 97-99%. IF pt takes O2 off, sats decrease to 92-93%. +cough, productive at times.   
+
+CV: HR 70-80s. PVCs occaisionally and missed beats. SBP to maintain MAP> 60. stable all night. +[**2-25**] pitting edema BLE. +3pitting edema BUE. CVP 8-12.
+
+GI: +large softly distended abd. +BS. nontender. on reg diet, needs ALOt of encouragement to eat/drink, very poor appetite. ? Last BM, on colace and dulcolaz supp QD w/no response yet. transverse abd incision w/DSD, clean and intact. 
+
+GU: foley, amber/concentrated urine. urine output low to borderline all night, received 2 500cc NS boluses for urine output <10, w/+effect.
+
+Plan: maintain MAP >60.cont to monitor resp status, alb/atrovent nebs. monitor anxiety level and med w/ativan PRN.  monitor urine output, bolus as needed. get OOB as tolerated. ENC PO intake. 
+ 
+
+ 
+",,
+14563,6327,18097,0,3357-02-05 17:34:00 EST,3357-02-05 18:21:00 EST,3992,"N",53,"Nursing/Other",,"
+
+PLEASE REFER TO CARVUE FOR COMPLETE ASSESSMENT AND SPECIFICS.
+
+NEURO: A&O X3, APPROPRIATE CONVERSATION, MAE SPONT/PURP, FOLLOWING COMMANDS. 
+
+CV: HR 79-106, NSR-ST, NO ECTOPY. SBP 89-125 W/ MAP >60. CVP 8-12. FRIBRINOGEN LEVEL 88, 1 UNIT CRYO TRANSFUSED, REPEAT FRIBRINOGEN PENDING.
+
+RESP: LUNG SOUNDS CLEAR BUT VERY DIMINISHED AT BASES, OCC EXP WHEEZES--ALB/ATR GIVEN W/ GOOD EFFECT. RR 16-32 O2 SAT 94-97% ON 3L VIA NC. ENC TO C/DB AND DO IS.
+
+ABD: ABD OBESE AND FULL W/ ASCITES, DISTENDED, + BOWEL SOUNDS. TOLERATING VERY SMALL AMT PO INTAKE, NEEDS ENC TO TAKE PO'S. STARTED ON TPN FOR NUTRITION. PT GIVEN DULCOLAX 10MG PR W/ MINIMAL EFFECT (PT HAD SMALL MUCOUS BM), RECEIVED COLACE 100MG, PRUNES AND PRUNE JIUCE AS WELL AS A FLEET ENEMA  W/ NO RESULTS. DR. [**Last Name (STitle) **] IN TO SEE PT AND AWARE. MILK OF MAGNESIA 60CC GIVEN X1, AWAITING RESULTS. ?U/S GUDED PARACENTISIS TO BE DONE
+
+GU: FOLEY DRAINING MINIMAL 10-41CC/HR CLEAR AMBER URINE. STARTED ON LASIX 40MG PO BID AND ALDACTONE 100MG PO QD RESULTS PENDING. PER DR. [**Last Name (STitle) **] PT ALSO RECEIVED LASIX 40MG IVP  W/ U/O OF 335CC CLEAR YELLOW URINE.
+
+ID: TMAX 97.9
+
+PSYCHO SOCIAL: DR. [**Last Name (STitle) **] SPOKE TO PT'S FAMILY ABOUT PROGNOSIS AND PLAN OF CARE WHILE IN HOSPITAL AND HOSPICE WHEN DISCHARGED. SOCIAL WORK ALREADY INVOLVED.
+
+PLAN: MONIOTR VS, LABS, RESP STATUS, ABD AND BOWEL MVMT, U/O. ENC PO INTAKE, ENC IS AND C/DB. ? U/S GUIDED PARACENTISIS TO BE DONE. PT/OT CONSULT. CONT CURRENT MGMT
+
+
+",,
+14563,6327,18097,0,3357-02-06 04:45:00 EST,3357-02-06 04:50:00 EST,3825,"N",53,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT ALERT AND ORIENTED X3. WEAKLY MOVING IN BED. VERY UNCOMFORTABLE MOST OF THE TIME REGARDLESS OF REPOSITIONING. UTILIZING COUGH PILLOW FOR INCISIONAL PAIN AND MEDICATED WITH DILAUDID X1 WITH EFFECT. VERY EMOTIONAL, REQUIRING ATIVAN X1 WITH GREAT EFFECT. PT. WAS ABLE TO REST AND [**Doctor Last Name **]. BP REMAINED NORMAL. 
+
+DIURESING WELL WITH LASIX, NOW WITH MARGINAL U/O AGAIN. 
+
+VERY POOR APPETITE. CONTINUES ON TPN.
+
+PLAN:
+MONITOR U/O CLOSELY. PROVIDE EMOTIONAL SUPPORT.
+",,

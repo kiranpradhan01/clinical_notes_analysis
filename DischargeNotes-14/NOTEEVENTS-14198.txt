@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14198,2740,,,2770-12-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+14198,2740,17649,0,2770-12-12 03:57:00 EST,2770-12-12 04:15:00 EST,4194,"N",54,"Nursing/Other","admit note","
+admit note
+very pleasant 86 yo female lives at home and states that she fell at home (unwitnessed) earlier today- she does not recall how she fell or why. pt is a poor historian and does not recall who found her at home at this time. she initially had c/o h/a, nausea, dizziness and was seen at [**Hospital6 5831**] ED. head CT showed? small left parietal SDH pt was transferred to [**Hospital1 10**] ED and head CT revealed right sliver parietal SDH, and small left frontalparietal SDH. INR in ED 1.6, 1 unit FFP given in ED and 1 unit + vit K given in unit s/p FFP INR remains 1.6- goal per neurosurg < 1.3, c- spine neg. 
+
+on admit to SICU pt alert and oriented X 3, pleasant, mae+- right arm stiff and exhibits painful movements secondary to OA per pt, strength full and symetrical BUE/BLE, pupils 3-4 mm and brisk, right facial droop noted and pt seen by [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4062**] , PA neurosurgery this is known to be old finding per PA as well as slight right pitosis, no drift noted although exam limited secondary to OA.  pt VSS SBP 100-120s/40-50, afebrile pt on admit in afib confirmed by EKG- pt has hx afib, LSC , abd soft, BS present, foley drainag clear yellow urine
+
+plan: repleat INR 1.6 following 2 units FFP- transfuse with 2 more units for goal INR < 1.3, SBP goal < 150 systolic, vit K X 3 days, NPO, neuro checks q 1 hr 
+",,

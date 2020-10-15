@@ -1,0 +1,1129 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14203,,,,2976-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-9**] 12:09 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7389**]
+     Reason: eval for bleed                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with AMS x 1 day                                                
+     REASON FOR THIS EXAMINATION:
+      eval for bleed                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: TKE [**First Name8 (NamePattern2) 591**] [**2976-1-9**] 1:17 PM
+      no acute mass or hemorrhage, remote left caudate infarct, mild atrophy, sinus
+      dx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Altered mental status.
+     
+     NONCONTRAST HEAD CT:
+     
+     No comparison is available.
+     
+     FINDINGS:  There is no evidence of mass effect or hemorrhage.  There is no
+     displacement of normally midline structures.  There is no evidence of a focal
+     extra-axial lesion or fluid collection.  Ventricles and sulci are mildly
+     prominent consistent with mild brain atrophy.  There is remote infarct in the
+     head of the caudate on the left side.  On the bone images, there is near
+     complete opacification of the left maxillary sinus and there is some increased
+     soft tissue thickening in the central ethmoid cells.
+     
+     IMPRESSION:  No evidence of acute mass effect, hemorrhage or acute territorial
+     infarction.  Remote infarct left caudate head.  Mild brain atrophy.  Sinus
+     disease.  Results posted on emergency room dashboard.
+                                                                           
+
+",,
+14203,,,,2976-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-9**] 12:03 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7388**]
+     Reason: eval for PNA                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with AMS                                                        
+     REASON FOR THIS EXAMINATION:
+      eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old male with altered mental status, evaluate for
+     pneumonia.
+     
+     COMPARISON:  CT of the chest from [**2975-5-24**] and plain film from the day
+     prior to that.
+     
+     FRONTAL AND LATERAL SEMIUPRIGHT RADIOGRAPHS:  The study is quite limited.
+     There is again seen a large hiatal hernia causing leftward shift of the
+     mediastinum.  No obvious consolidation is identified, although opacity in the
+     left lower lobe cannot be excluded. There is marked bony demineralization.
+     
+     IMPRESSION:  Limited study without obvious evidence of pneumonia.  Persistent
+     large hiatal hernia.
+
+",,
+14203,,,,2976-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-10**] 8:52 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7390**]
+     Reason: ? infectious process                                        
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with Parkinson's presenting with 1 day hx of increased 
+      solumnence, new renal failure.                       
+     REASON FOR THIS EXAMINATION:
+      ? infectious process                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP AND LATERAL CHEST, [**2976-1-10**]
+     
+     COMPARISON:  [**2976-1-9**]
+     
+     INDICATION:  Somnolence.
+     
+     The patient was unable to cooperate with standard radiographic positioning. 
+     Therefore, AP semi-upright view was obtained rather than an upright PA
+     radiograph.  Additionally, the patient is markedly rotated towards the left.
+     
+     Cardiac and mediastinal contours appear stable.  A large hiatal hernia is
+     again demonstrated.  There is adjacent opacity in the left lower lobe
+     retrocardiac region, obscuring the posterior left hemidiaphragm on the lateral
+     view.  This is a change from an older lateral radiograph of [**2970-5-8**].  The
+     right lung is grossly clear.  Mildly distended loops of bowel are seen
+     throughout the abdomen and incidental note is made of colonic interposition in
+     the right upper quadrant.
+     
+     IMPRESSION:
+     
+     Left lower lobe opacity, which may represent atelectasis, aspiration or
+     infectious pneumonia.
+     
+     Large hiatal hernia.
+
+",,
+14203,,,,2976-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-10**] 3:24 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 7391**]
+     Reason: ? hydronephrosis                                            
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with 2 day hx of lethargy.  Creat increased on admit to 1.7, 
+      decreased with IVF.  Hx of decreasing urination and prostate dz.
+     REASON FOR THIS EXAMINATION:
+      ? hydronephrosis                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lethargy, decreased urination and prostate disease.
+     
+     COMPARISON:  CT torso [**2975-5-24**].
+     
+     RENAL ULTRASOUND:  The right kidney measures 9.1 cm, and the left kidney
+     measures 10.5 cm.  Both kidneys are normal without renal calculi, masses, or
+     hydronephrosis.  The bladder is collapsed and empty.
+     
+     IMPRESSION:  No hydronephrosis.
+                                                                           DFDdp
+
+",,
+14203,28335,,,2976-01-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2976-1-14**]              Discharge Date:   [**2976-1-20**]
+ 
+Date of Birth:  [**2895-11-9**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending:[**First Name3 (LF) 1914**] 
+Chief Complaint:
+Melena, syncope, pneumonia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+80 year old male with h/o Parkinson's, recently admitted for CAP 
+discharged on levofloxacin (also had ARF during last admission), 
+who presents from home via EMS s/p syncopal event and abdominal 
+pain.  His wife reports that this am, he c/o ""gassy"" abdominal 
+pain and when she pressed on his stomach, it was extremely firm. 
+ She gave him something OTC for gas which helped minimally with 
+pain.  She noted that he had a black tarry colored loosely 
+formed BM x1 at home following his syncopal event.  She reports 
+he has not been febrile nor coughing at home.  She denies him 
+having trouble swallowing and states she has not noticed him 
+coughing after eating or drinking.  She does, however, note that 
+she uses a blender for his food.  He denies chest pain to her.  
+He has had no nausea/vomiting, but his wife reports poor PO and 
+decreased UOP x several days.  After the syncopal event and 
+black stool, he was brought to the ED for further evaluation.
+
+In ED where initial vitals were T 96.5 HR 100s  BP 80/32 RR 16 
+O2 sat 100% on RA.  His lactate was originally found to be 3.8 
+which decreased to 1.3 with IVFs and WBC count was elevated to 
+14.1 with 88% neutrophils.  CXR revealed large hiatal hernia, 
+and CT abd revealed large hiatal hernia, concern for stomach 
+incarceration versus volvulus and possible TE fistula. He 
+received 500mg IV levofloxacin x1, flagyl 500mg IV x1 and 1U 
+prbcs.  
+
+ED staff was unable to pass NGT and surgery was consulted for 
+further evaluation of stomach incarceration vs. volvulus.  Pt. 
+has a known paraesophageal hernia which he declined to have 
+repaired in 8/06 with Dr. [**Last Name (STitle) **].  An UGI with revealed 
+organoaxial volvulus without e/o obstruction as contrast passed 
+through the stomach.  Additionally, GI was consulted prior to 
+surgery, but given inability to pass NGT and in the setting of 
+possible incarceration vs. volvulus, further endoscopic eval. 
+was postponed. Hct on presentation was found to be 30.8 and he 
+received 1U prbc with f/u hct 11hours later of 29.2.
+ 
+Past Medical History:
+1. Parkinson's
+2. Recent admission for CAP
+3. Low B12
+4. Inguinal hernia
+5. Chronic constipation
+6. ""Legally blind""
+7. Normocytic anemia
+ 
+Social History:
+Lives at home locally with his wife who is his primary care 
+provider.  [**Name10 (NameIs) 10301**] son lives locally.  He has never smoked tobacco 
+and drank EtOH very rarely socially. Per his wife, he ambulates 
+very little and uses a wheelchair most of the time.  He is 
+generally oriented x3 although not very verbal.  
+
+ 
+Family History:
+Noncontributory
+ 
+Physical Exam:
+Physical exam on admission
+T 97.7 BP 130/67-->83/38 HR 97 NSR RR 24 O2 sat 98% 2L NC
+Gen: B/L upper extremity tremor
+HEENT:  MMM, PERRL
+Neck: No JVD apprec.
+CV: RRR, no mrg apprec.
+Pulm: Clear anteriorly.
+Abd: +distended, +BS, firm to palpation, but appears NTTP, 
++tympanitic
+Rectal: per ED, small amt. black stool hemoccult +
+Ext: No c/c/e
+Neuro:  Wife responds to questions and asks patient in Russian.  
+Pt. is minimally responsive with grunts only (Wife states this 
+is worse than baseline).
+
+ 
+Pertinent Results:
+Laboratory studies on admission:
+[**2976-1-14**] 
+WBC-14.1 HGB-10.8 HCT-30.8 MCV-97 RDW-14.2 PLT COUNT-234
+NEUTS-87.6 BANDS-0 LYMPHS-8.9 MONOS-2.0 EOS-1.4 BASOS-0.1
+PT-12.2 PTT-23.1 INR(PT)-1.0
+ALBUMIN-4.0 CALCIUM-9.6 PHOSPHATE-4.8 MAGNESIUM-2.6
+CK(CPK)-224 cTropnT-0.05 CK-MB-6
+ALT(SGPT)-6 AST(SGOT)-32 LD(LDH)-242 ALK PHOS-115 AMYLASE-153 
+TOT BILI-0.4
+GLUCOSE-145 UREA N-32 CREAT-2.0 SODIUM-137 POTASSIUM-5.0 
+CHLORIDE-102 TOTAL CO2-20
+LACTATE-3.8
+U/A: URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG 
+KETONE-TR BILIRUBIN-NEG UROBILNGN-1 PH-6.5 LEUK-NEG
+RBC-[**11-26**]* WBC-0-2 BACTERIA-OCC YEAST-NONE EPI-0-2 TRANS EPI-0-2
+
+Laboratory studies on discharge:
+[**2976-1-20**] 
+Hct-31.4
+Creat-1.0 K-4.0
+
+Radiology
+CXR [**2976-1-14**]: Mild vascular congestion.  Improvement in 
+retrocardiac opacity. Large hiatal hernia. No intra-abdominal 
+free air. 
+
+CT C/A/P [**2976-1-14**]:
+1.  Large hiatal hernia with interval increase in intrathoracic 
+extent.  Configuration of the stomach is concerning for 
+incarceration and possible volvulus. 
+2.  New left lower lobe pneumonia. 
+3.  Suggestion of tracheoesophageal fistula.
+4.  Distention of the colon down to the level of the rectum 
+without evidence of free intraperitoneal air. 
+
+Barium swallow:
+Large hiatal hernia with organoaxial volvulus, but no evidence 
+of 
+obstruction, with free passage of contrast through the thoracic 
+portions of the stomach into the abdominal distal stomach.
+
+CT Head [**2976-1-14**]:
+No ICH or mass effect. Persistent sinus disease.
+
+EKG in ED: A. fib with rate in the 70s. Nml axis. No acute ST/T 
+wave changes.
+ 
+Brief Hospital Course:
+80 year old male with Parkinson's and recent admission for 
+pneumonia presents with hypotension, melena, concerning for 
+versus volvulus/incarceration.
+
+1) Sepsis: The patient was hypotensive on admission requiring 
+nearly 5L IVF, with elevated WBC, left shift (although no 
+bandemia), elevated lactate (3.8-->1.3 with IVFs), ARF with a 
+few possible sources including abdominal source versus his known 
+CAP vs. aspiration pneumonia.  Because his hiatal hernia did not 
+appear to be incarcerated by surgical evaluation and UGI study 
+(contrast passed through to small bowel), it was thought that GI 
+source was less likely, but he was continued on levofloxacin and 
+Flagyl was added to cover GI flora as well as for possible 
+aspiration pneumonia.  Cosyntropin stim test was normal.  His 
+hypotension resolved and his WBC count normalized from 14.0 in 
+the ED.  He should complete a 14 day course of levofloxacin and 
+Flagyl.
+
+2) GI bleed:  Appears most likely UGI source given melenotic 
+stool and known hiatal hernia.  GI evaluated him in the ED, but, 
+due to the inability to pass an NGT and the original question of 
+incarcerated hernia or volvulus he was not scoped at that time.  
+Surgery evaluated him as well and imaging revealed passage of 
+contrast through stomach so he was not obstructed/no 
+incarceration nor volvulus.  He received 1 unit of PRBC in the 
+ED and 1 unit in the ICU.  His hematocrit remained stable and he 
+had no additional melanotic stool.  Given his stable hematocrit 
+and anatomy, EGD was not further pursued following discussion 
+with wife.  He was placed on bid PPI, which was decreased to 
+qdaily dosing once not actively bleeding.
+
+3) Large hiatal hernia/volvulus:  This was evaluated in [**8-/2975**] 
+by surgery and family wished not to pursue surgical repair at 
+that time.  Surgery/family feel he is a poor surgical candidate, 
+even though he remains at risk for incarceration (although 
+currently not obstructed).
+
+4) ARF: Likely in setting of sepsis and poor forward flow; his 
+creatinine on admission was 2.0, but improved to 1 with 
+resusciation
+
+5) Aspiration pneumonia: Although there was initial concern for 
+a tracheo-esophageal fistula, surgery reviewed the films and did 
+not feel this was likely. The patient will complete a 14 day 
+course of levofloxacin/metronidazole. A speech and swallow 
+consult was obtained, who recommended pureed solids and thin 
+liquids. At time of discharge, he was tolerating a diet well.
+
+6) Vitamin B12 deficiency: The patient was continued on 
+supplementation
+
+7) Abnormal SPEP: [**2975-1-10**] SPEP revealed a trace abnormal band in 
+the gamma region, representing 1% of total protein; a UPEP was 
+negative. This should be followed as an outpatient; referral to 
+hematology may be considered by his primary care physician. 
+
+8) Parkinson's: Neurology was consulted while the patient was in 
+the intensive care unit. They recommended sublingual sinemet due 
+to ease of administration. He was continued on amantadine and 
+Tasmar and will follow-up with his neurologist Dr. [**Last Name (STitle) 4328**] as an 
+outpatient.
+
+9) DNR/DNI
+ 
+Medications on Admission:
+1. Levofloxacin 250 mg QD
+2. Cyanocobalamin 500 QD
+3. Sinemet 25/100 [**1-11**] tab q 2 hrs
+4. Amantadine 100 mg bid
+5. Tasmar 100 mg tid
+ 
+Discharge Medications:
+1. Carbidopa-Levodopa[**MD Number 1653**] mg Tablet, Rapid Dissolve Sig: One 
+(1) Tablet, Rapid Dissolve PO q4hrs ().
+Disp:*120 Tablet, Rapid Dissolve(s)* Refills:*0*
+2. Tolcapone 100 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day). Tablet(s) 
+3. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2 
+times a day).
+Disp:*120 Capsule(s)* Refills:*2*
+4. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) 
+as needed for constipation.
+Disp:*120 Tablet(s)* Refills:*0*
+5. Lactulose 10 g/15 mL Solution Sig: 15-30 ml PO three times a 
+day as needed for constipation.
+Disp:*1000 ml* Refills:*0*
+6. Reusable underpad
+dispense 2/month
+
+7. bedside commode
+dispense 1
+refills 0
+8. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 7 days.
+Disp:*21 Tablet(s)* Refills:*0*
+9. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours) for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+10. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO QHS PRN () as 
+needed for agitation/hallucinations.
+Disp:*30 Tablet(s)* Refills:*0*
+11. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 481**]: One (1) 
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Disp:*30 Tablet,Rapid Dissolve, DR(s)* Refills:*2*
+12. Cyanocobalamin 1,000 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+13. Amantadine 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Primary: gastrointestinal bleed 
+Secondary: volvulus, parkinson's disease, aspiration pneumonia, 
+vitamin B12 deficiency 
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+1) Please take all medications as prescribed. 
+2) Please follow-up as indicated below
+3) Please call your PCP or come to the emergency room if [**Doctor First Name **] 
+develop abdominal pain, nausea, vomiting, or bleeding
+4) Please adhere to a pureed solid, thin liquid diet. [**Doctor First Name 54**] should 
+sit fully upright when eating and keep the head of your bed 
+elevated at all times.
+ 
+Followup Instructions:
+1) Primary Care: Please follow-up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 10302**] 
+([**Telephone/Fax (1) 10303**]) within 1-2 weeks following discharge
+2) Neurology: Follow-up with Dr. [**Last Name (STitle) 4328**] ([**Telephone/Fax (1) 4330**]) within 1 
+month following discharge
+
+ 
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 1918**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 1918**] [**2976-1-20**] @ 1824
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SAT [**2976-1-20**] 6:24 PM
+(End of Report)
+
+
+",,
+14203,28335,,,2976-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-14**] 3:48 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7394**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval for mesenteric ischemia, stangulation/obstruction absce
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hypotension, elevated latctate, distended bowel loops, 
+      melena
+     REASON FOR THIS EXAMINATION:
+      eval for mesenteric ischemia, stangulation/obstruction abscess, distended bowel 
+      loops in the chest on CXR
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KMcd [**First Name8 (NamePattern2) **] [**2976-1-14**] 5:47 PM
+      1. Progressive hiatal hernia concerning for incarceration/volvulus. 2. LLL
+      pneumonia. 3. Colonic dilatation, no free air.  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  New hypotension, elevated lactate, distended bowel loops,
+     mesenteric ischemia, strangulation, or obstruction.
+     
+     Comparison is made to [**2975-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images from the thoracic inlet to the pubic
+     symphysis were acquired without IV or oral contrast material and displayed at
+     5-mm slice thickness.  Multiplanar reformations were performed.
+     
+     CT OF THE CHEST:  There is a very large hiatal hernia, which is slightly
+     larger in dimension compared to [**5-12**], however the intrathoracic component is
+     actually smaller than before. The intrathoracic stomach has a significant mass
+     effect on the mediastinum with anterior displacement of the heart. There
+     appears to be organoaxial volvulus, similar as seen on prior study. There is a
+     new left lower lobe consolidation consistent with pneumonia.
+     
+     Just cephalad to the carina, seen on series 2, image 13 there is the
+     suggestion of a communication between the  trachea and esophagus. If there is
+     clinical concern for a trachea-esophageal fistula,  direct visualization for
+     confirmation is recommended.
+     
+     There is distention of multiple colonic bowel loops throughout the abdomen. No
+     free intra-abdominal air is seen.  The evaluation of the solid organ is very
+     limited due to the absence of contrast material. Kidneys, adrenal glands,
+     spleen, liver, and gallbladder appear grossly unremarkable within these
+     limitations.  No ascites is seen.
+     
+     CT OF THE PELVIS:  There is gross dilatation of the colon down to the level of
+     the rectum.  The dilated colonic loops contain scattered feces and air.  No
+     pelvic ascites is seen.  The Foley catheter causes tenting of the bladder
+     dome.
+     
+     BONE EINDOWS:  Degenerative changes are seen throughout the spine.  No
+     suspicious lytic or blastic lesions are seen.
+     
+                                                                 (Over)
+
+     DATE: [**2976-1-14**] 3:48 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7394**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval for mesenteric ischemia, stangulation/obstruction absce
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION:
+     1.  Partially intrathoracic stomach with chronic organo-axial volvulus,
+     without obstruction (as seen on subsequently performed UGI study).
+     2.  New left lower lobe pneumonia.
+     3.  Question  of tracheoesophageal fistula, direct visualization would be
+     recommended for further evaluation, if there is any clinical concern.
+     4.  Distention of the colon down to the level of the rectum without evidence
+     of free intraperitoneal air.
+     
+     Pertinent findings have been discussed with Dr. [**Last Name (STitle) 4085**] from the surgical
+     service after completion of the study.
+     
+     
+     
+
+",,
+14203,28335,,,2976-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-14**] 3:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7392**]
+     Reason: eval for free air obstruction                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hypotension                                                
+     REASON FOR THIS EXAMINATION:
+      eval for free air obstruction                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Single portable AP chest radiograph.
+     
+     INDICATION:  80-year-old male with hypotension, evaluate for free air or
+     obstruction.
+     
+     COMPARISON:  Single portable AP chest radiograph [**2976-1-10**].
+     
+     FINDINGS:  Increased pulmonary vascular markings indicating mild vascular
+     congestion. There is mild improvement of retrocardiac opacity, although
+     difficult to fully assess left hemithorax secondary to rotation.  A large
+     hiatal hernia is again visualized.  No definite pleural effusions or
+     pneumothoraces identified. No evidence for intra-abdominal free air
+     identified.
+     
+     IMPRESSION:
+     1.  Mild vascular congestion.
+     2.  Improvement in retrocardiac opacity, although difficult to fully evaluate
+     given patient's positioning.
+     3.  Large hiatal hernia.
+     4.  No evidence for intra-abdominal free air.
+
+",,
+14203,28335,,,2976-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-14**] 9:25 PM
+     ESOPHAGUS                                                       Clip # [**Clip Number (Radiology) 7395**]
+     Reason: eval for obstruction                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hiatal hernia ?incarceration                               
+     REASON FOR THIS EXAMINATION:
+      eval for obstruction                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old man with question of incarcerated hiatal hernia.
+     
+     FINDINGS:  Since the patient was unable to follow instructions despite
+     assistance from a translator, a weighted feeding tube was placed under
+     fluoroscopic guidance into the stomach.  Thin barium and Conray were
+     subsequently administered through the feeding tube with the tube position in
+     the proximal stomach.  This demonstrated a large hiatal hernia.  The
+     gastroesophageal junction was located in the left lower chest.  Images were
+     obtained in supine, right lateral decubitus, and left lateral decubitus views.
+     This demonstrated rotation of the stomach and an organoaxial section within
+     the stomach with the greater curvature of the stomach at the level of the
+     subcarinal region.  The distal-most portions of the stomach remained in the
+     abdominal cavity.  There was free passage of contrast through the thoracic
+     portions of the stomach into the abdominal distal stomach.  Contrast was then
+     seen passing into the duodenum.  The feeding tube was subsequently removed.
+     These findings were reviewed with Dr. [**Last Name (STitle) 4085**] and Dr. [**Last Name (STitle) 3771**] at 10:30 p.m.,
+     [**2976-1-14**].
+     
+     IMPRESSION:  Large hiatal hernia with organoaxial volvulus, but no evidence of
+     obstruction.  Overall, the position of the stomach is similar to the prior CT
+     examination of [**2975-5-24**].
+
+",,
+14203,28335,,,2976-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-14**] 3:48 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7394**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval for mesenteric ischemia, stangulation/obstruction absce
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hypotension, elevated latctate, distended bowel loops, 
+      melena
+     REASON FOR THIS EXAMINATION:
+      eval for mesenteric ischemia, stangulation/obstruction abscess, distended bowel 
+      loops in the chest on CXR
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KMcd [**First Name8 (NamePattern2) **] [**2976-1-14**] 5:47 PM
+      1. Progressive hiatal hernia concerning for incarceration/volvulus. 2. LLL
+      pneumonia. 3. Colonic dilatation, no free air.  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  New hypotension, elevated lactate, distended bowel loops,
+     mesenteric ischemia, strangulation, or obstruction.
+     
+     Comparison is made to [**2975-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images from the thoracic inlet to the pubic
+     symphysis were acquired without IV or oral contrast material and displayed at
+     5-mm slice thickness.  Multiplanar reformations were performed.
+     
+     CT OF THE CHEST:  There is a very large hiatal hernia, which is slightly
+     larger in dimension compared to [**5-12**], however the intrathoracic component is
+     actually smaller than before. The intrathoracic stomach has a significant mass
+     effect on the mediastinum with anterior displacement of the heart. There
+     appears to be organoaxial volvulus, similar as seen on prior study. There is a
+     new left lower lobe consolidation consistent with pneumonia.
+     
+     Just cephalad to the carina, seen on series 2, image 13 there is the
+     suggestion of a communication between the  trachea and esophagus. If there is
+     clinical concern for a trachea-esophageal fistula,  direct visualization for
+     confirmation is recommended.
+     
+     There is distention of multiple colonic bowel loops throughout the abdomen. No
+     free intra-abdominal air is seen.  The evaluation of the solid organ is very
+     limited due to the absence of contrast material. Kidneys, adrenal glands,
+     spleen, liver, and gallbladder appear grossly unremarkable within these
+     limitations.  No ascites is seen.
+     
+     CT OF THE PELVIS:  There is gross dilatation of the colon down to the level of
+     the rectum.  The dilated colonic loops contain scattered feces and air.  No
+     pelvic ascites is seen.  The Foley catheter causes tenting of the bladder
+     dome.
+     
+     BONE EINDOWS:  Degenerative changes are seen throughout the spine.  No
+     suspicious lytic or blastic lesions are seen.
+     
+                                                                 (Over)
+
+     DATE: [**2976-1-14**] 3:48 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7394**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval for mesenteric ischemia, stangulation/obstruction absce
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION:
+     1.  Partially intrathoracic stomach with chronic organo-axial volvulus,
+     without obstruction (as seen on subsequently performed UGI study).
+     2.  New left lower lobe pneumonia.
+     3.  Question  of tracheoesophageal fistula, direct visualization would be
+     recommended for further evaluation, if there is any clinical concern.
+     4.  Distention of the colon down to the level of the rectum without evidence
+     of free intraperitoneal air.
+     
+     Pertinent findings have been discussed with Dr. [**Last Name (STitle) 4085**] from the surgical
+     service after completion of the study.
+     
+     
+     
+
+",,
+14203,28335,,,2976-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-14**] 3:48 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7394**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval for mesenteric ischemia, stangulation/obstruction absce
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hypotension, elevated latctate, distended bowel loops, 
+      melena
+     REASON FOR THIS EXAMINATION:
+      eval for mesenteric ischemia, stangulation/obstruction abscess, distended bowel 
+      loops in the chest on CXR
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KMcd [**First Name8 (NamePattern2) **] [**2976-1-14**] 5:47 PM
+      1. Progressive hiatal hernia concerning for incarceration/volvulus. 2. LLL
+      pneumonia. 3. Colonic dilatation, no free air.  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  New hypotension, elevated lactate, distended bowel loops,
+     mesenteric ischemia, strangulation, or obstruction.
+     
+     Comparison is made to [**2975-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images from the thoracic inlet to the pubic
+     symphysis were acquired without IV or oral contrast material and displayed at
+     5-mm slice thickness.  Multiplanar reformations were performed.
+     
+     CT OF THE CHEST:  There is a very large hiatal hernia, which is slightly
+     larger in dimension compared to [**5-12**], however the intrathoracic component is
+     actually smaller than before. The intrathoracic stomach has a significant mass
+     effect on the mediastinum with anterior displacement of the heart. There
+     appears to be organoaxial volvulus, similar as seen on prior study. There is a
+     new left lower lobe consolidation consistent with pneumonia.
+     
+     Just cephalad to the carina, seen on series 2, image 13 there is the
+     suggestion of a communication between the  trachea and esophagus. If there is
+     clinical concern for a trachea-esophageal fistula,  direct visualization for
+     confirmation is recommended.
+     
+     There is distention of multiple colonic bowel loops throughout the abdomen. No
+     free intra-abdominal air is seen.  The evaluation of the solid organ is very
+     limited due to the absence of contrast material. Kidneys, adrenal glands,
+     spleen, liver, and gallbladder appear grossly unremarkable within these
+     limitations.  No ascites is seen.
+     
+     CT OF THE PELVIS:  There is gross dilatation of the colon down to the level of
+     the rectum.  The dilated colonic loops contain scattered feces and air.  No
+     pelvic ascites is seen.  The Foley catheter causes tenting of the bladder
+     dome.
+     
+     BONE EINDOWS:  Degenerative changes are seen throughout the spine.  No
+     suspicious lytic or blastic lesions are seen.
+     
+                                                                 (Over)
+
+     DATE: [**2976-1-14**] 3:48 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7394**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval for mesenteric ischemia, stangulation/obstruction absce
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION:
+     1.  Partially intrathoracic stomach with chronic organo-axial volvulus,
+     without obstruction (as seen on subsequently performed UGI study).
+     2.  New left lower lobe pneumonia.
+     3.  Question  of tracheoesophageal fistula, direct visualization would be
+     recommended for further evaluation, if there is any clinical concern.
+     4.  Distention of the colon down to the level of the rectum without evidence
+     of free intraperitoneal air.
+     
+     Pertinent findings have been discussed with Dr. [**Last Name (STitle) 4085**] from the surgical
+     service after completion of the study.
+     
+     
+     
+
+",,
+14203,28335,,,2976-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-14**] 3:32 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7393**]
+     Reason: eval for ICH                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hypotension                                                
+     REASON FOR THIS EXAMINATION:
+      eval for ICH                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KMcd [**First Name8 (NamePattern2) **] [**2976-1-14**] 5:54 PM
+      no ICH or mass effect. persistent sinus disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old man with hypotension.  Evaluate for ICH.
+     
+     Comparison is made to [**2976-1-9**].
+     
+     CT HEAD WITHOUT CONTRAST:  No significant interval change is seen.  There is
+     no evidence of ahemorrhage or mass effect.  There is no displacement of
+     normally midline structures or evidence of focal extra-axial lesions or
+     collections.  There is stable prominence of ventricles and sulci consistent
+     with brain atrophy.  There is a stable remote infarct in the head of caudate
+     on the left side.  Again noted is near complete opacification of the left
+     maxillary sinus as well as mucosal thickening of several ethmoid cells.
+     
+     IMPRESSION:  No significant interval change since [**2976-1-9**].  No
+     evidence of hemorrhage, mass effect, or infarction. Persistent sinus disease.
+
+",,
+14203,28335,17656,,2976-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-1-15**] 10:38 AM
+     [**Last Name (un) **]-INTESTINAL TUBE PLACEMENT (W/FLUORO)                       Clip # [**Clip Number (Radiology) 7396**]
+     Reason: place dobhoff                                               
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with parkinson's disease, melana, likely aspiration             
+     REASON FOR THIS EXAMINATION:
+      place dobhoff                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old male with Parkinson's disease, likely aspiration.
+     Please place postpyloric tube.
+     
+     NASAL INTESTINAL TUBE PLACEMENT:  Comparison was made with a prior
+     esophagogram dated [**2976-1-14**].  The patient was placed on the fluoroscopy
+     table and prepped with lidocaine jelly and Hurricaine spray.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1111**]-
+     [**Doctor First Name 925**] feeding tube was placed into the esophagus to the level of hiatal
+     hernia from the right nose, and note is made of residual barium from the prior
+     esophagogram in the large torturous hiatal hernia.  The attempt was made to
+     pass this area of hiatal hernia and tube down to the stomach, however, was
+     unsuccessful.  The patient could not tolerate further attempts, and suction
+     was performed, and the patient was taken back to the unit by the nurse who was
+     present throughout the procedure after the removal of tube. There is no
+     immediate complication.
+     
+     IMPRESSION:  Unsuccessful nasointestinal tube placement due to large hiatal
+     hernia.
+
+",,
+14203,28335,17656,0,2976-01-15 04:40:00 EST,2976-01-15 04:52:00 EST,5860,"N",69,"Nursing/Other",,"
+
+Pt is an 80 y/o male who was recently D/C'd from [**Hospital1 10**] for PNA and  with advanced Parkinson's who presented to ED via EMS after suffering a syncopal episode after suffering abdominal pain/distension, decreased appetite, and tarry stools for last few days. Found to be hypotensive in ED to 70's systolic and passed melena x3.  HCT 28, Troponin 0.05, WBC 14 CT showed hiatial hernia but no incarceration. Surgery consulted and will not operate. Given total of 3.5L NS and 1uprbc prior to tx to FICU for further treatment. 
+
+Neuro: Pt is very hypertonic and tremulous. Takes 1 tab Sinemet q3hrs. Able to swallow but needs alot of encouragement. No c/o pain at this time per wife. Occasionally following simple commands. Orientation impossible to assess. Russian speaking only. 
+
+Resp: Lung sounds coarse in upper airways and crackles in lower bilaterally. O2 sat mid to high 90's on 2L O2 via nc. 
+
+Cardiac: SR on monitor with no ectopy. Troponin leak 0.05 in ED. Next level due at 0800. B/P Somewhat labile. Arrived with systolics in 140's then dropped to 70's. Bolused with 500cc NS. B/P currently 117/62. 
+
+GI: Abd soft/distended. No BM since arrival to FICU. Postive bowel sounds. GI following ?endoscopy today. 
+
+GU: Voiding adequate amts of amber urine via foley. U/A C+S sent in ED. BUN 32 Cr 1.4
+
+Heme: Received pt with HCT of 29.5 after receiving 1uprbc. Second unit given  and will recheck at 0700. INR 1.2 Ordered for q6hr HCT checks. 
+
+ID: Afebrile. Blood cx sent in ED. Currently on Flagyl and Levoquin. 
+
+Derm: 18G PIV x2 patent. Skin otherwise grossly intact. 
+
+Social: Wife at bedside, pt is Russian speaking only. Wife speaks [**Name2 (NI) 2084**]. 
+
+Plan: Monitor HCT and replete with blood products as needed, IV fluids, abx for PNA, ? Endoscopy. 
+",,
+14203,28335,17656,0,2976-01-15 17:36:00 EST,2976-01-15 17:56:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 7:00-19:00","
+ficu nsg note: 7:00-19:00
+this is an 80 y.o. man adm [**2976-1-14**] s/p a recent adm for PNA. brought in to er by ems s/p syncopal episode with dec. appetite, abd pain/distension, and black stools x few days. hypotensive with hct of 30.8 on arrival to ed. given 3.5L ns and 1unit prbc in er, repeat hct 28. surgery consulted for hernia. ct negative for incarceration. pt not a surgical candidate. transferred to ficu for further medical management of ugib. received 2nd unit prbc overnoc with repeat hct 30.4. no further stools. did have hypotensive episode overnoc to 70s tx'd with 500cc ns bolus. had 2 more episodes hypotension with sbp to the 80s txd with 50cc ns bolus x2. did note that drop in bp occurred within 1 hour after receiving his sinemet. 
+
+neuro: very hypertonic and tremulous. takes 1 tab sinemet q3hours crushed in applesauce sitting upright given by wife with rn present with good technique by wife with no sign of aspiration. mental status waking and [**Doctor Last Name **]-not very responsive at beginning of shift even to sternal rub, russian speaking only. wife able to speak and understand english well and translating. pt opening eyes when wife speaking to him in russian and per wife, pt oriented to self but not able to tell if oriented to date, place, time. very hypertonic and tremulous in upper ext. relieved when sinemet given and sleeping once sinemet kicking in. 
+
+cv: hr ranging 70s-90s sr with no ectopy noted. bp ranging 100s-150s/50s-70s. +weak pp. 
+
+resp: lungs coarse in upper airways, crackles at bases. sp02 ranging 94-98% on 2lnc. did note to have weak cough a few times but not around when taking pills. 
+
+gi/gu: abd soft/distended, no bm, +bs, taking applesauce with crushed pills. otherwise remains npo d/t high risk of aspiration per team as pt very lethargic at times. foley patent draining adequate amts >30cc/hr amber urine.
+
+skin: warm, dry , intact.
+
+lines: rue piv removed d/t r arm appeared sl red, swollen, warm. ? cellulitis. arm elevated on pillow. sore per pt. arm appeared better 1 hour after iv removed. [**Name8 (MD) 17**] md team, continue to monitor with no need for ivabx at this time. afebrile. has lla #18g that was placed and [**Last Name (un) **] #18g that infiltrated probably d/t pt shaking so vigorously from his parkinsons. 
+
+social: wife in and out visiting with pt today. will probably stay overnight with pt in waiting room to [**Doctor Last Name 8**]. she will assist to interpret and help give his sinemet if needed. son also visited today with pt and wife. wife and son updated on pt's condition, plan of care.
+
+plan: continue to monitor mental status, sinemet when awake-crush in applesauce with asp. precautions. monitor bp and may need further ivf if sbp drops and if u.o. remains amber/drops down. pt now made DNR/DNI. continue ivabx. monitor iv site closely and r arm for increased erhthema, edema. q8hr hcts, next hct check due at 8pm.
+",,
+14203,28335,17656,0,2976-01-15 18:21:00 EST,2976-01-15 18:24:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 7:00-19:00","
+ficu nsg note: 7:00-19:00
+addendum: a dobhoff tube was attemtped by IR and unsuccessful. team discussed other option with family to receive po meds esp sinemet which without his tremors are very bad and he becomes very stiff. [**Name8 (MD) 17**] md team, if pt is awake enough to take po meds crushed in upright position, it is okay with understanding by family that there is a risk of aspiration. last hct 28 at 12pm with no bm or s&s of bleed. next hct check due at 8pm per team.
+",,
+14203,28335,17656,0,2976-01-16 05:25:00 EST,2976-01-16 05:44:00 EST,478,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+80yo adm [**1-15**] with UGIB s/p 2u PRBCs, recently dc'd s/p pna.
+ID: Tmax 100.6 rectally, on flagyl and levoflox.
+CV: Hemodynamically stable tonight.  Hr 70-80's Sr increasing to 90's with ^^ tremors/agitation. Rare pac noted.   BP 90-120's, no fluid boluses needed tonight.  
+Resp: O2 at 2l np with sats in the mid to upper 90's.  Difficult to assess lungs due to poor insp effort and inability to take a deep breath on command.  No cough or sputum production.
+GI/GU: No further evidence of GIB, hct stable, up to 29.8 from 28.3.   Able to take pills in applesauce.  Also, taking very small amts of thickened water, otherwise NPO.  Abd soft with (+) bowel sounds.  No bm.  Foley draining amber urine initially currently more dilute (yellow) approx 40-100cc/hr.  Fluid changed to D5NS at 100cc/hr.  
+MS: Per family, pt is oriented and able to follow commands.  Without family present unable to assess orientation.  Does take sinemet when told what it is.  At times appears to be agitated, grabbing at my arms while wrapping his IV.  Most of late evening extremely tremulous, despite sinemet, not subsiding until about 12am.  Wife extremely upset over this.  Once his tremors stopped wife was able to leave unit to [**Doctor Last Name 8**] in waiting room.  He is also extremely stiff, with legs pulled up to sitting position most of time.  Prefers his left side.  
+Skin: Repositioned approx q [**3-10**]  hours, skin intact with no breakdown noted. R arm slightly reddened no change during night, warm pack applied.  
+A: hemodynamically stable
+   no further evidence of GIB
+   ^^ tremors
+P: cont to provide emotional support to family
+   follow hct and signs of GIB
+   
+",,
+14203,28335,17656,0,2976-01-16 18:56:00 EST,2976-01-16 19:16:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN 0700-1900","
+[**Hospital Ward Name **] 4 ICU NPN 0700-1900
+Called out to floor. No bed. 
+Initially tremulous, agitated when stimulated. Able & willing to take PO meds with applesauce. Parcopa SL available from phamacy today. carbidopa d/c'd. Decreased tremors noted. Appeared more calm this afternoon.
+VSS, Afeb. Cont on levo, flagyl.
+Foley catheter d/c'd. Condom catheter patent.
+Holding off on giving liquids. Did excellent with apple sauce, whipped potatos. No evidence of aspiration. No stool. 
+Crit 29.7 at 1800.
+Pt's wife, dtr, son in ti visit. updated on pt's condition & POC.  
+
+A/P; Update call out note prior to transfer.
+ Stable. No evidence of bleeding.
+  No liquids pnd. Video swallow study.
+ Support to family.
+",,
+14203,,,,2976-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-5-7**] 5:11 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7397**]
+     Reason: eval for infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with L sided CP and abdominal pain                              
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate, eval for free air                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST, [**2976-5-7**] AT 1711 HOURS.
+     
+     HISTORY:  Left-sided chest pain and abdominal pain.
+     
+     COMPARISON:  Multiple priors, the most recent dated [**2976-1-14**].
+     
+     FINDINGS:  A very large hiatal hernia is again evident.  There is no focal
+     consolidation or superimposed edema.  A tortuous atherosclerotic aorta is
+     again seen.  The cardiac silhouette is again enlarged but stable.  There is
+     blunting of the left costophrenic angle possibly due to scarring or chronic
+     effusion.  No right effusion is noted.  There is no pneumothorax.  There is
+     relatively stable mid-lumbar spine compression fracture again identified.
+     
+     IMPRESSION:  Stable large hiatal hernia and lumbar compression fracture.  No
+     acute pulmonary process.
+                                                                           
+
+",,
+14203,,,,2976-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-5-7**] 5:11 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 7398**]
+     Reason: eval for free air                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with L sided CP and abdominal pain                              
+     REASON FOR THIS EXAMINATION:
+      eval for free air                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SUPINE AND UPRIGHT ABDOMEN, [**2976-5-7**] AT 1710 HOURS.
+     
+     HISTORY:  Left-sided chest pain and abdominal pain.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is a large hiatal hernia.  There are mildly dilated loops of
+     small bowel in the left mid abdomen.  Extensive stool is noted throughout the
+     ascending colon with gas distended loops of large bowel noted distally.  No
+     free air under the diaphragm is seen.  No pneumatosis is seen.
+     
+     IMPRESSION:  Mildly dilated loops of small bowel in the left mid abdomen with
+     stool and air throughout the colon.  Findings may be due to a focal ileus,
+     although an early and/or partial small bowel obstruction cannot be entirely
+     excluded.  Correlate clinically.  CT scan of the abdomen may be obtained if
+     indicated.
+                                                                           
+
+",,
+14203,,,,2976-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-5-7**] 11:01 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7399**]
+     Reason: SBO
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with SBO v. ileus                                               
+     REASON FOR THIS EXAMINATION:
+      eval for sbo v. ileus                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MAlb WED [**2976-5-8**] 2:15 AM
+      1.  Markedly limited evaluation of bowel w/o oral or IV contrast.  Redundant
+      colon is stool-filled.  Some air-filled loops of bowel are also likely colon.
+      No definite fluid-filled loops of small bowel.
+      2.  Trace free fluid in the pelvis of unknown etiology.
+      3.  Large paraesophageal hernia unchanged.
+      4.  Soft tissue stranding in the subcutaneous left gluteal tissues may reflect
+      inflammation/infection - correlate with direct physical inspection.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old man with small bowel obstruction versus ileus.
+     
+     COMPARISON:  Study from [**2975-5-24**].
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung bases to the
+     pubic symphysis with multiplanar reformatted images.
+     
+     CONTRAST:  No oral or intravenous contrast was administered per the requesting
+     physician.
+     
+     CT ABDOMEN:  There is bilateral dependent atelectasis.  Additionally, at the
+     left lung base, adjacent to a large hiatal hernia, there is an area of
+     atelectasis and/or scarring.  Again seen is a large paraesophageal hernia.
+     There is coronary artery calcification again noted.
+     
+     There is limited evaluation of solid organs without intravenous contrast,
+     however, the liver and spleen appear stable.  There are tiny punctate
+     densities within the liver suggesting calcifications from the prior
+     granulomatous infection.  The aorta is normal in caliber, with evidence of
+     wall calcification.  There are tiny densities within the right renal hilum,
+     which may represent vascular calcifications or tiny nonobstructing stones.
+     Adrenal glands are normal in appearance.  The pancreas is unremarkable.
+     
+     There are multiple mesenteric and retroperitoneal lymph nodes, which appear to
+     be slightly larger in comparison to the prior study, though none of these meet
+     CT criteria for enlargement.
+     
+     There is markedly limited evaluation of bowel without intravenous or oral
+     contrast.  The colon appears markedly redundant and stool filled.  Several
+     air-filled loops of bowel are seen, which likely also represent colon.  No
+     definite fluid filled loops of small bowel are identified.
+     
+                                                                 (Over)
+
+     DATE: [**2976-5-7**] 11:01 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7399**]
+     Reason: SBO
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT OF THE PELVIS WITH IV CONTRAST:  The prostate is enlarged.  The rectum is
+     stool filled.  There is a small amount of free fluid adjacent to the bladder.
+     There are small bilateral inguinal hernias, which do not contain bowel on
+     today's study.  There is  soft tissue stranding seen on the inferior most
+     images in the left gluteal soft tissues.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesion identified.
+     Degenerative changes are seen throughout the lumbar spine.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reconstructions were essential in delineating
+     the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  Markedly limited evaluation of bowel without oral or intravenous contrast.
+     The colon appears stool filled.  There are several air filled loops of bowel
+     which also likely represent colon.  No dilated fluid filled loops of small
+     bowel are definitely seen.
+     2.  Large paraesophageal hernia is again noted.
+     3.  Trace free fluid in the pelvis of uncertain etiology.
+     4.  There is some soft tissue stranding within the left buttock, of uncertain
+     etiology.  An area of cellulitis is not excluded, and correlation to direct
+     physical inspection is recommended.
+     
+
+",,
+14203,,,,2976-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2976-5-7**] 11:01 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7399**]
+     Reason: SBO
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with SBO v. ileus                                               
+     REASON FOR THIS EXAMINATION:
+      eval for sbo v. ileus                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MAlb WED [**2976-5-8**] 2:15 AM
+      1.  Markedly limited evaluation of bowel w/o oral or IV contrast.  Redundant
+      colon is stool-filled.  Some air-filled loops of bowel are also likely colon.
+      No definite fluid-filled loops of small bowel.
+      2.  Trace free fluid in the pelvis of unknown etiology.
+      3.  Large paraesophageal hernia unchanged.
+      4.  Soft tissue stranding in the subcutaneous left gluteal tissues may reflect
+      inflammation/infection - correlate with direct physical inspection.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old man with small bowel obstruction versus ileus.
+     
+     COMPARISON:  Study from [**2975-5-24**].
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung bases to the
+     pubic symphysis with multiplanar reformatted images.
+     
+     CONTRAST:  No oral or intravenous contrast was administered per the requesting
+     physician.
+     
+     CT ABDOMEN:  There is bilateral dependent atelectasis.  Additionally, at the
+     left lung base, adjacent to a large hiatal hernia, there is an area of
+     atelectasis and/or scarring.  Again seen is a large paraesophageal hernia.
+     There is coronary artery calcification again noted.
+     
+     There is limited evaluation of solid organs without intravenous contrast,
+     however, the liver and spleen appear stable.  There are tiny punctate
+     densities within the liver suggesting calcifications from the prior
+     granulomatous infection.  The aorta is normal in caliber, with evidence of
+     wall calcification.  There are tiny densities within the right renal hilum,
+     which may represent vascular calcifications or tiny nonobstructing stones.
+     Adrenal glands are normal in appearance.  The pancreas is unremarkable.
+     
+     There are multiple mesenteric and retroperitoneal lymph nodes, which appear to
+     be slightly larger in comparison to the prior study, though none of these meet
+     CT criteria for enlargement.
+     
+     There is markedly limited evaluation of bowel without intravenous or oral
+     contrast.  The colon appears markedly redundant and stool filled.  Several
+     air-filled loops of bowel are seen, which likely also represent colon.  No
+     definite fluid filled loops of small bowel are identified.
+     
+                                                                 (Over)
+
+     DATE: [**2976-5-7**] 11:01 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7399**]
+     Reason: SBO
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT OF THE PELVIS WITH IV CONTRAST:  The prostate is enlarged.  The rectum is
+     stool filled.  There is a small amount of free fluid adjacent to the bladder.
+     There are small bilateral inguinal hernias, which do not contain bowel on
+     today's study.  There is  soft tissue stranding seen on the inferior most
+     images in the left gluteal soft tissues.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesion identified.
+     Degenerative changes are seen throughout the lumbar spine.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reconstructions were essential in delineating
+     the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  Markedly limited evaluation of bowel without oral or intravenous contrast.
+     The colon appears stool filled.  There are several air filled loops of bowel
+     which also likely represent colon.  No dilated fluid filled loops of small
+     bowel are definitely seen.
+     2.  Large paraesophageal hernia is again noted.
+     3.  Trace free fluid in the pelvis of uncertain etiology.
+     4.  There is some soft tissue stranding within the left buttock, of uncertain
+     etiology.  An area of cellulitis is not excluded, and correlation to direct
+     physical inspection is recommended.
+     
+
+",,

@@ -1,0 +1,336 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14358,8930,,,3339-03-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3339-3-23**]              Discharge Date:   [**3339-3-31**]
+ 
+Date of Birth:  [**3244-12-3**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 1397**] 
+Chief Complaint:
+respiratory distress, hemoptysis
+transferred from OSH
+
+ 
+Major Surgical or Invasive Procedure:
+debridement of mass from tracheal lumen by interventional 
+pulmonary
+ 
+History of Present Illness:
+[**Age over 90 **] yo male with PMH large right thyroid cystic mass eroding into 
+trachea, who presented to [**Hospital6 **] [**3339-3-22**] with 
+hemoptysis and respiratory distress, now diagnosed with 
+anaplastic thyroid carcinoma.  
+.  
+Pt reports that he noticed a right neck mass last October. The 
+mass grew larger, to the size of a baseball. It appears that FNA 
+was performed but was non-diagnostic (probably because 
+anaplastic tumors tend to be necrotic). The mass appears to be 
+cystic in nature and has been aspirated at least 3 times, which 
+decrease in size each time. Now size is 6.5cm*6.5cm. Plan for 
+surgery in Oct was deferred [**3-5**] syncope and pacer placement for 
+SSS; again deferred 2 weeks ago [**3-5**] URI; was planned for surgery 
+this Thurday.  
+.  
+Pt was o/w in his USOH until 2-3 weeks ago when he developed a 
+URI with symptoms of dry cough; no fever, chills, sore throat, 
+myalgias. Pt was treated with 3 days of an antibiotics, followed 
+by a 10 day course of levaquin (completed 2 days PTA). Per pt 
+and son, no documeted pna. 2 days prior to admission, pt 
+developed hemoptysis; states he coughed up 4 tsp of blood. 1 day 
+PTA, pt developed stridorous breathing and respiratory distress. 
+Pt was initially seen at [**Hospital1 **], where he was given steroids, 
+with improvement in respiratory status. Pt was transferred to 
+[**Hospital6 1232**], where his surgeon is located. There he 
+was admitted to the MICU. Thyroid cyst was aspirated with 
+removal of 300cc of fluid. Pt was given racemic epinephrine and 
+Decadron 10mg IV x1. CT neck showed tracheal mass per nursing 
+s/o (pt brought CT).
+.  
+Pt now breathing more comfortably. He has not had fever and 
+night sweats but reports weakness and weight loss for several 
+months recently.  
+ 
+Past Medical History:
+R thyroid cyst (as above)  
+Goiter  
+CRI  
+HTN  
+SSS (s/p pacer [**First Name8 (NamePattern2) **] [**First Name5 (NamePattern1) 581**] [**Last Name (NamePattern1) 10512**])  
+prostate cancer -dx 10 years ago; received monthly shots which 
+were discontinued recently.  
+anemia  
+Afib (19 episodes since [**3338-11-1**], as documented on pacer 
+interogation [**3339-3-4**])  
+
+ 
+Social History:
+Was living alone in ALF. Walks with walker. Able to take care of 
+himself; home health aide visits once a week. Denies history of 
+tobacco, etoh, drugs. Used to work as hat manufacturer. 
+ 
+Family History:
+No history of thyroid disease. Sister with lung ca. Brother with 
+gastric ca. sister with unknown ca. Father with stroke. 
+ 
+Physical Exam:
+VS: T 99.4, BP 119/59, HR 76, RR 18, 99%RA  
+Gen: NAD  
+HEENT: PERRL, EOMI, clear OP, MMM  
+Neck: Large ~6 x 6 cm sized right thyroid mass, soft, possibly 
+cystic, non-tender. L lobe of the thyroid gland also prominent.  
+
+CVS: RRR, nl s1 s2, no m/g/r  
+Lungs: transmitted upper airway stridor; otherwise clear  
+Abd: soft, NT, ND, +BS  
+Ext: no edema  
+Neuro: CN [**3-15**] intact, [**6-5**] bilateral upper and lower extremity 
+strength.  
+
+ 
+Pertinent Results:
+CT Neck-IMPRESSION:
+1. 7-cm diameter right neck mass, with direct invasion of the 
+subglottic, cervical and proximal thoracic trachea. The mass is 
+reportedly thyroid in origin. Differential diagnosis includes 
+primary head/neck cancer and lymphoma.
+2. Left lobe thyroid enlargement with heterogeneous appearance.
+3. Right upper paratracheal and prevascular lymphadenopathy as 
+well as additional nodes in the right side of the neck. 
+Dedicated MR of the neck may be helpful for more complete 
+assessment of the neck mass and lymphadenopathy if warranted 
+clinically.
+.
+Pathology: The tumor is composed of a relatively monotonous 
+proliferation of spindle cells which grow in sheets with a 
+prominent vascular pattern.  Immunostains for cytokeratin AE1/3 
+and CAM 5.2, CD-68, CD-79a, CD-138, S-100, LCA absorbed CEA, 
+EMA, CD34, CD31, TTF-1, actin, desmin, MNF-116, calcitonin, and 
+thyroglobulin are negative.  These results exclude both melanoma 
+and hematopoietic neoplasms.  The differential diagnosis 
+includes, but is not limited to, sarcoma, spindle cell 
+carcinomas (sarcomatoid carcinoma of the upper aerodigestive 
+tract and anaplastic thyroid carcinoma), and malignant salivary 
+gland neoplasms.
+
+ 
+Brief Hospital Course:
+Pt was transferred here for further mgmt of airway and large 
+thyroid mass by our IP team. IP found endotracheal obstructing 
+tumor and extrinsic  
+compression of the high trachea by thyroid mass. After rigid 
+bronchoscopy with removal of the intratracheal tumor component 
+on [**3339-3-24**], stat pathology showed anaplastic tumor. He was 
+tranferred to the MICU. Subsequently extubated and his 
+respiratory Sx are now improved. Pt was seen by Rad Onc, who 
+recommended transfer to the East Campus for XRT.  On the morning 
+of possible radiation, patient and family met with 
+interventional pulmonary team who explained that the most recent 
+CT showed further invasion of the tumor into the trachea.  After 
+a long discussion, patient and family asked to be made CMO.  
+Patient was started on morphine drip and palliative care team 
+was consulted with recommendations to ensure comfort. Mr. 
+[**Known patient lastname 10513**] died approximately 24 hours after decision to be CMO, 
+on [**3339-3-31**].
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+NC
+ 
+Discharge Condition:
+NC
+ 
+Discharge Instructions:
+NC
+ 
+Followup Instructions:
+NC
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1408**] MD [**MD Number 1409**]
+ 
+Completed by: [**First Name8 (NamePattern2) 1059**] [**Last Name (NamePattern1) 1060**] MD [**MD Number 1061**] [**3339-4-5**] @ 1434
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: WED [**3339-4-29**] 5:50 PM
+(End of Report)
+
+
+",,
+14358,8930,,,3339-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3339-3-23**] 8:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8847**]
+     Reason: please evalute for acute lung process                       
+     Admitting Diagnosis: RESPIRATORY DISTRESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with large thyroid mass and stridor.                            
+     REASON FOR THIS EXAMINATION:
+      please evalute for acute lung process                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Large thyroid mass and stridor.
+     
+     No prior studies are available for comparison.
+     
+     FINDINGS:  There is asymmetric soft tissue prominence projecting over the
+     right neck with leftward deviation of the trachea.  The airway otherwise
+     appears unremarkable on this single frontal view.
+     
+     There is a dual-lead left- sided cardiac pacemaker noted.  The heart and
+     mediastinal contours are otherwise unremarkable.  There is minor vascular
+     crowding or atelectasis at the left lung base medially.  Otherwise, no focal
+     areas of consolidation or effusion.  Gas distended loops of bowel are noted in
+     the visualized upper abdomen.  The osseous structures are unremarkable.
+     
+     IMPRESSION:  Findings consistent with known large thyroid mass with leftward
+     deviation and narrowing of the trachea.
+
+",,
+14358,8930,17850,0,3339-03-24 06:34:00 EST,3339-03-24 07:00:00 EST,7694,"N",54,"Nursing/Other","nursing progress note 7p-7a","
+nursing progress note 7p-7a
+neuro: a/ox3, mae, follows commands. pt is very HOH. left side w/ hearing aid seems better.
+
+cv: nsr 80-90's no ectopy. sbp intially 140-150's came down to 120's no intervention.  distal pulses by doppler. compression sleeves on.
+
+resp: pt on airway precautions r/t right neck goiter/tracheal shift. HOB up >45 degrees. audible stridor exacerbated by speaking. coarse cough bringing up scant amts clear thin secretions, blood tinged at times.  lower lobes clear.
+
+gi/gu: +bos, no stool. voids clear yellow urine also incontinent over night. baseline cret 4.7. today 4.0 w/ am labs.
+
+a/p: continue airway precautions. pt followed by IP. ? ENT consult. monitor cret and renal status.
+
+
+",,
+14358,8930,17850,0,3339-03-24 08:46:00 EST,3339-03-24 08:50:00 EST,7846,"N",54,"Nursing/Other","Pre-op","
+Pre-op
+Pt. seen by medical staff and pulmonary staff.  Pt to go to the OR today for tracheal tumor debridement and CT scan.  NPO maintained.  Sons, [**Doctor Last Name 21**] and [**Doctor First Name **] called and informed of procedures.  Coags sent.  Pre-op teaching performed.  Dentures, L hearing aid, and upper dentures to be removed on call to OR.   
+",,
+14358,8930,17850,0,3339-03-24 08:51:00 EST,3339-03-24 08:58:00 EST,7846,"N",54,"Nursing/Other",,"
+
+Neuro:  A&O X3.  MAE.  No c/o pain.  Afebrile.
+
+Resp:  O2 via n/c @ 2l/min.  Upper lung sounds CTA Bil, diminished bases.  Upper airway stridor appreciated.  O2 sats remain > 98%  Non productive cough.  Emergency airway cart at bedside.
+
+CV: 100% V-paced. No ectopy noted.  Radial pulses 2+. P/T and D/P pulses difficult to palpate.  
+
+GI/GU:  NPO.  +BS. No stools. Voiding clear yellow urine.  No foley @ this time.
+
+SKIN:  LUE 20 ga. PIV, patent.  Coccyx, head, back, heels, shoulders and elbows benign.  Skin warm & dry.
+",,
+14358,8930,17850,0,3339-03-24 11:48:00 EST,3339-03-24 11:50:00 EST,7846,"N",54,"Nursing/Other",,"
+
+10:00  Pt to O.R. via bed in apparent stable condition.  Pt. monitored, accompanied by anesthesia staff.
+",,
+14358,8930,17850,0,3339-03-24 11:49:00 EST,3339-03-24 11:50:00 EST,7846,"N",54,"Nursing/Other",,"
+
+11:00  Pt received from O.R. in apparnet stable condition, intubated and sedated on propofol.  VS per anesthesia.  Morphine 2 mg given IV.
+",,
+14358,8930,17850,0,3339-03-25 03:11:00 EST,3339-03-25 03:15:00 EST,5735,"N",54,"Nursing/Other","7p-7a:","
+7p-7a:
+neuro:  alert and oriented x3, appropriate.  HOH.  denies pain. 
+
+cv:  v paced via internal pacer.  rate 70's.  one episode of 5 beat run of vt, electrolytes drawn wnl.  md aware.  weak palpable pulses bilaterally.  
+
+resp:  lungs clear, diminished at bases at times.  remains on 40% open face tent for humidification.  productive cough.  no stridor noted.  
+
+gi/gu:  voiding via urinal.  clear yellow urine.  cr 4.2, h/o cri.  abd soft, nd.  bs positive.  npo.
+
+endo:  bs qid, cover with regular insulin.
+
+plan:  transfer to floor in am.   
+",,
+14358,8930,,,3339-03-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3339-3-26**] 3:09 PM
+     CT TRACHEA W/O C W/3D REND                                      Clip # [**Clip Number (Radiology) 8848**]
+     Reason: s/p endotracheal tumor removal                              
+     Admitting Diagnosis: RESPIRATORY DISTRESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with CRI (cr 4.7 at osh), large right thyroid mass, adm  
+      w/stridor and report of tracheal compression at OSH, tracheal deviation on CXR, 
+      s/p rigid bronch and endotracheal tumor removal
+     REASON FOR THIS EXAMINATION:
+      s/p endotracheal tumor removal                                                  
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Endotracheal tumor.  Large right thyroid mass.  Stridor.
+     
+     There is an approximately 7 cm diameter large necrotic mass in the right side
+     of the neck, extending from the submandibular region to the thoracic inlet
+     level.  The mass extends into the thorax and invades the trachea.  Tracheal
+     invasion is present in the subglottic airway as well as the cervical and
+     proximal thoracic trachea.  At the level of the thoracic inlet, the tumor
+     within the airway narrows the airway lumen to approximately 11 mm in diameter
+     from an expected diameter of 22 mm at this level based on the tracheal
+     cartilage measurements.  The mass also partially erodes the right thyroid
+     cartilage.  Emanating from the left lobe of the thyroid gland is a
+     heterogeneous thyroid mass extending inferiorly along the left paratracheal
+     region and slightly deviating the trachea towards the right below the thoracic
+     inlet level, ending just above the level of the aortic arch.  Below this
+     level, the trachea and main bronchi are normal.
+     
+     The lungs were incompletely imaged per the CT trachea protocol but demonstrate
+     atelectatic changes in the left lower lobe superior segment adjacent to the
+     descending thoracic aorta.
+     
+     Note is also made of retained secretions within the trachea and proximal main
+     bronchus on the left.
+     
+     Dynamic expiratory CT images are suboptimal as the patient did not appear to
+     be able to cooperate with dynamic expiratory breathing instructions.
+     
+     Assessment of the neck is limited due to absence of intravenous contrast as
+     the patient was unable to receive intravenous contrast due to elevated
+     creatinine level of 4.7.  There are apparent lymph nodes within the right side
+     of the neck adjacent to the dominant tumor mass.  Within the mediastinum,
+     there is also a superior mediastinal node anteriorly in the retrosternal
+     region and in the upper rigth paratracheal region.
+     
+     The imaged skeletal structures demonstrate no suspicious lytic or blastic
+     skeletal lesions.
+     
+     Calcified granulomas and small calcified lymph nodes are incidentally noted.
+     
+                                                                 (Over)
+
+     DATE: [**3339-3-26**] 3:09 PM
+     CT TRACHEA W/O C W/3D REND                                      Clip # [**Clip Number (Radiology) 8848**]
+     Reason: s/p endotracheal tumor removal                              
+     Admitting Diagnosis: RESPIRATORY DISTRESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     MULTIPLANAR AND 3D RECONSTRUCTIONS: These images confirm the presence of
+     tracheal compression and invasion from the adjacent right neck mass, as well
+     as compression below this level from the adjacent enlargement of the left
+     thyroid gland. 
+     
+     
+     IMPRESSION:
+     
+     1. 7-cm diameter right neck mass, with direct invasion of the subglottic,
+     cervical and proximal thoracic trachea. The mass is reportedly thyroid in
+     origin. Differential diagnosis includes primary head/neck cancer and
+     lymphoma.
+     
+     2. Left lobe thyroid enlargement with heterogeneous appearance.
+     
+     3.  Right upper paratracheal and prevascular lymphadenopathy as well as
+     additional nodes in the right side of the neck.  Dedicated MR of the neck may
+     be helpful for more complete assessment of the neck mass and lymphadenopathy
+     if warranted clinically.
+
+",,

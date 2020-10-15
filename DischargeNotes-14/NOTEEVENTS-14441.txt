@@ -1,0 +1,920 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14441,23531,,,2766-09-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2766-9-11**]              Discharge Date:   [**2766-9-14**]
+ 
+Date of Birth:  [**2678-3-15**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Iodine; Iodine Containing / Sulfonamides
+ 
+Attending:[**First Name3 (LF) 1362**] 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+88 year old female with sig h/o dvt ([**2-2**]) on coumadin, dementia 
+[**3-2**] CVA, who p/w episode of hematechezia last night. Pt saw PCP 
+on [**Name9 (PRE) 2869**] and INR noted to be 6.1, stopped coumadin, with no 
+plan for further anticoagulation. Had one episode of BRBPR last 
+night, daughter states toilet was filled with blood, no more 
+episodes since coming into the ED. Per daughter, no abd pain, 
+n/v, diarrhea, melena, cp, sob, lh/dizziness. No prior h/o GIB. 
+No recent abx use. ALso c/o fullness on RLQ.  
+.  
+In the ED, initially tachycardic HR 110s, sbp 100. Received 2 U 
+FFP, 10 mg SQ vit K, and 1 U PRBC + IV PPI. While in ED, had 
+transfusion rxn with 2nd unit (hives on face, AF, VSS) - given 
+benadryl, transfusion d/c, will restart transfusions if stable 
+w/ premedication
+ 
+Past Medical History:
+DVT [**2-3**], rx'd with coumadin  
+Hypothyroid  
+Dementia (vascular)  
+h/o gallstone pancreatitis s/p ccy  
+h/o diverticulitis (?) but no prior colonoscopy
+ 
+Social History:
+lives with daughter, widowed. no tobacco h/o, no etoh  
+ 
+Family History:
+non-contributory
+ 
+Physical Exam:
+PE: 96.9, hr 75, bp 142/55, 14, 100% 2l nc; u/o 250/175 (last 2 
+hr)  
+gen: somnolent, difficult to arouse, nad  
+heent: pale conjunctiva  
+neck: supple  
+cv: rrr  
+lungs: poor effort but cta anterlaterally b/l  
+abd: +bs, soft, nt  
+ext: warm, no edema  
+neuro: moving all extremities
+ 
+Pertinent Results:
+[**2766-9-11**] 02:45AM   PT-41.7* PTT-53.8* INR(PT)-11.5
+[**2766-9-11**] 02:45AM   WBC-12.9* RBC-3.09* HGB-8.4* HCT-26.0* MCV-84 
+MCH-27.1 MCHC-32.2 RDW-13.1
+[**2766-9-11**] 02:45AM   PLT COUNT-427
+[**2766-9-11**] 02:45AM   HYPOCHROM-1+ ANISOCYT-NORMAL POIKILOCY-1+ 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-1+
+[**2766-9-11**] 02:45AM   NEUTS-91.0* BANDS-0 LYMPHS-7.1* MONOS-1.9* 
+EOS-0 BASOS-0.1
+[**2766-9-11**] 02:45AM   GLUCOSE-122* UREA N-66* CREAT-3.1*# 
+SODIUM-135 POTASSIUM-5.9* CHLORIDE-101 TOTAL CO2-19* ANION 
+GAP-21*
+[**2766-9-11**] 02:53AM   HGB-9.3* calcHCT-28
+[**2766-9-11**] 08:30AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-MOD
+[**2766-9-11**] 08:30AM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 302**]-1.015
+[**2766-9-11**] 12:42PM   PT-17.4* PTT-33.5 INR(PT)-2.0
+[**2766-9-11**] 12:42PM   PLT COUNT-294
+[**2766-9-11**] 12:42PM   WBC-7.9 RBC-2.93* HGB-8.4* HCT-25.4* MCV-86 
+MCH-28.6 MCHC-33.1 RDW-14.1
+[**2766-9-11**] 12:42PM   ALBUMIN-2.9*
+[**2766-9-11**] 12:42PM   GLUCOSE-88 UREA N-56* CREAT-2.5* SODIUM-139 
+POTASSIUM-4.1 CHLORIDE-108 TOTAL CO2-23 ANION GAP-12
+[**2766-9-14**] 07:15AM BLOOD WBC-8.8 RBC-4.43 Hgb-12.6 Hct-38.5 MCV-87 
+MCH-28.4 MCHC-32.6 RDW-14.5 Plt Ct-215
+[**2766-9-14**] 07:15AM BLOOD Plt Ct-215
+[**2766-9-14**] 07:15AM BLOOD PT-13.3 PTT-26.8 INR(PT)-1.2
+[**2766-9-14**] 07:15AM BLOOD Glucose-87 UreaN-25* Creat-1.5* Na-141 
+K-3.6 Cl-110* HCO3-21* AnGap-14
+[**2766-9-14**] 07:15AM BLOOD CK-MB-3 cTropnT-0.06*
+[**2766-9-13**] 04:00PM BLOOD CK-MB-4 cTropnT-0.10*
+[**2766-9-13**] 07:00AM BLOOD CK-MB-3 cTropnT-0.08*
+[**2766-9-14**] 07:15AM BLOOD Calcium-8.2* Phos-2.4* Mg-2.2
+ 
+Brief Hospital Course:
+# LGIB: Pt had bright red blood per rectum on admission with an 
+INR of 11.5. THe ddx included AVM v. diverticuli v. hemrrhoids 
+v. colon ca v. colitis. Colonic thickening was seen on CT abd. 
+Family currently doesn't want colonoscopy, so this was not 
+worked up further. The pt received 3u pRBCS, 2u FFP, and vitamin 
+K, with cessation of bleeding and appropriate hematocrit 
+increase. She remained hemodynamically stable, with stable 
+hematocrit. She was also started on a po ppi.SHe was initially 
+NPO with IVF, but transitioned to a house diet.
+. 
+# New onset Afib w/ RVR noted day prior to discharge. This was 
+likely due to volume overload from 3 U PRBC w/o lasix. She was 
+started on metoprolol 12.5 mg po bid, and given lasix. Cardiac 
+enzymes were negative and ECHO showed mild [**Last Name (Prefixes) 305**] with 
+an EF of 50%. She was kept on telemetry for monitoring, and 
+converted to a sinus rhythm the night prior to dicharge, and is 
+in sinus rhythm on discharge.
+.
+# Leukocytosis: Likley due to UTI (see below) She was afebrile 
+throughout her stay.
+.
+# Coagulopathy: Pt was on Coumadin for a DVT in 1/05. She had an 
+INR of 11.5 on admission. She was given 2u FFp and 2 shots of 
+vitamin K. Her INR is down to 1.2 on discharge. There is no plan 
+to restart coumadin as pt has been adequately treated for her 
+DVT.
+.  
+# UTI: Initial UA was suggestive of UTI, and she was treated 
+with 3 days of Cipro. Then GBS was found in her urine, and 
+initially thought to be likely vaginal. Repeat UA still showed 
+same, and she is discharged with levofloxacin (due to penicillin 
+allergy) to treat GBS UTI. Will follow up with PCP about 
+sensitivities of GBS to determine if proper antibiotic 
+treatment.
+.  
+# Acute on chronic renal failure: On admission her creatinine 
+was 2.5 and her baseline is 1.2-1.5. This was likely prerenal in 
+setting of GIB, poor PO intake + UTI. Her creatinine trended 
+down to 1.5 on discharge.
+.  
+# Dementia: Long-standing vascular dementia. She was quite 
+somnolent in ICU, likely from benadryl and lack of [**Doctor Last Name 292**]. This 
+resolved, and she was fully alert and at baseline mental status 
+on discharge.
+.  
+# FEN: She was initially NPO with IVF, but restarted on po 
+intake once she was more alert. She also had a nutrition consult 
+because daughter reported poor po intake prior to admission. The 
+nutritionist gave them recommendations to take home.
+.  
+# Access: She was maintained with 2 PIVs (18 and 20 gauge).
+.  
+# Prophylaxis: she was on a ppi, with pneumoboots.
+.
+# Communication: daughter [**Name (NI) **] [**Telephone/Fax (1) 10651**]  
+.
+# DNR/DNI - discussed with daughter.
+.
+# Dispo: PT was consulted, and pt was sent home with home PT.
+ 
+Medications on Admission:
+synthroid 125mcg qd  
+ranitidine bid  
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO once a day 
+for 11 days.
+Disp:*11 Tablet(s)* Refills:*0*
+4. Synthroid 125 mcg Tablet Sig: One (1) Tablet PO once a day: 
+no substitute please.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+primary:
+GI bleed
+transient new onset atrial fibrillation
+urinary retention
+Group B strep urinary tract infection
+
+secondary:
+dementia
+hypothyroidism
+DVT [**2-2**], treated with coumadin
+h/o gallstone pancreatitis s/p ccy  
+h/o diverticulitis 
+
+ 
+Discharge Condition:
+Pt is feeling better. No active bleeding, hematocrit stable, and 
+back in sinus rhythm. Foley in place due to urinary retention.
+
+ 
+Discharge Instructions:
+Please call your doctor or return to the hospital if [**Doctor First Name **] notice 
+a large amount of bright red blood in your stool, persistent 
+blood in your stool beyond 3 days, dizziness, chest pain, or 
+shortness of breath. Please also watch for temperature > 101.
+
+Some signs of a stroke include: drooping of the face on one 
+side, slurring of the speech, and weakness or inability to move 
+one side of the body, or numbness on one side of the body.
+
+Please contact your doctor in 3 days to follow-up the 
+sensitivities of the bacteria in your urine to see if we can 
+adjust your antibiotics.
+ 
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **] [**Name8 (MD) **], MD [**MD Number 60**]: [**Hospital6 64**] SURGICAL 
+SPECIALTIES Phone:[**Telephone/Fax (1) 5395**] Date/Time:[**2766-9-26**] 2:30
+
+Please call to schedule an appointment to see Dr. [**Last Name (STitle) 10652**] 
+within 1-2 weeks in follow-up to this hospitalization. [**Doctor First Name 54**] will 
+need your blood pressure checked, your kidney function 
+rechecked, and [**Doctor First Name **] can discuss thoughts regarding future 
+anticoagulation at that time.
+
+ 
+                             [**First Name11 (Name Pattern1) 625**] [**Last Name (NamePattern1) 626**] MD [**MD Number 627**]
+ 
+Completed by: [**First Name4 (NamePattern1) 435**] [**Last Name (NamePattern1) 7280**] MD, [**Hospital1 7281**] [**2766-9-15**] @ 1615
+Signed electronically by: DR. [**First Name (STitle) 625**] [**Doctor Last Name **]
+ on: FRI [**2766-9-16**] 1:13 PM
+(End of Report)
+
+
+",,
+14441,23531,,,2766-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-11**] 5:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9415**]
+     CT RECONSTRUCTION
+     Reason: PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTI
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with BRBPR, fullness in rlq, acute renal failure, and 
+      elevated wbc
+     REASON FOR THIS EXAMINATION:
+      PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTICULITIS             
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+     WET READ: JHjc SUN [**2766-9-11**] 10:34 AM
+      No obvious cecal mass, would be better assess with colonoscopy.  Apparent
+      thickening of cecum, difficult to assess, may be partly due to
+      underdistention.  No abscess. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS
+     
+     INDICATION:  Bright red blood per rectum, fullness in right lower quadrant,
+     acute renal failure, elevated white blood cell count.
+     
+     Comparison is made to the prior CT scan dated [**2763-10-2**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed
+     without administration of intravenous contrast.  Intravenous contrast was
+     withheld secondary to patient's renal failure.  Coronal and sagittal
+     reformations were also obtained.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The visualized lung bases
+     demonstrate minor linear atelectatic changes.  There is no evidence of pleural
+     or pericardial effusion.  There is again demonstrated a large hiatal hernia.
+     The aorta is ectatic and is dilated at the level of the diaphragmatic hiatus,
+     measuring up to 3.8 cm.  The unenhanced images of the liver, spleen, left
+     kidney, adrenals, pancreas and unopacified loops of large and small bowel are
+     within normal limits.  There is evidence of prior cholecystectomy.  Note is
+     made that the right kidney is atrophic.  There is no free air or free fluid.
+     Note is also made of a small focal aneurysmal dilatation of the infrarenal
+     abdominal aorta, measuring approximately 2.7 cm.  There are no pathologically
+     enlarged areas of adenopathy identified.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  There is again identified a
+     low-attenuation cyst in the left adnexum, which is not remarkably changed,
+     measuring approximately 4.5 x 3.3 cm.  The cecum is difficult to evaluate
+     without intravenous or oral contrast, but demonstrates no large mass lesion.
+     There is apparent circumferential thickening of the wall of the cecum, which
+     may be due to underdistension.  There is no adjacent fat stranding.  There is
+     no free air or free fluid.  Bladder diverticulum are again demonstrated.
+     A 9mm calculus in a right posterior bladder diverticulum is unchanged. There
+     are no pathologically enlarged areas of adenopathy. Dense atherosclerotic
+                                                                 (Over)
+
+     DATE: [**2766-9-11**] 5:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9415**]
+     CT RECONSTRUCTION
+     Reason: PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTI
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     vascular calcifications are again seen in the iliac arteries and in the
+     abdominal aorta.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions identified.
+     
+     IMPRESSION:
+     1.  Study limited by lack of oral and IV contrast, with no obvious cecal mass.
+     The apparent wall thickening of the cecum may be partly due to
+     underdistension.  This area will be better evaluated with a colonoscopy.
+     2.  Dilated aorta at the level of the diaphragmatic hiatus, measuring up to
+     3.8 cm.
+     3.  Unchanged appearance of left adnexal cyst.
+     4.  Large hiatal hernia.
+     5.  Atrophic right kidney.
+
+",,
+14441,23531,,,2766-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-11**] 5:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9415**]
+     CT RECONSTRUCTION
+     Reason: PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTI
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with BRBPR, fullness in rlq, acute renal failure, and 
+      elevated wbc
+     REASON FOR THIS EXAMINATION:
+      PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTICULITIS             
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+     WET READ: JHjc SUN [**2766-9-11**] 10:34 AM
+      No obvious cecal mass, would be better assess with colonoscopy.  Apparent
+      thickening of cecum, difficult to assess, may be partly due to
+      underdistention.  No abscess. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS
+     
+     INDICATION:  Bright red blood per rectum, fullness in right lower quadrant,
+     acute renal failure, elevated white blood cell count.
+     
+     Comparison is made to the prior CT scan dated [**2763-10-2**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed
+     without administration of intravenous contrast.  Intravenous contrast was
+     withheld secondary to patient's renal failure.  Coronal and sagittal
+     reformations were also obtained.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The visualized lung bases
+     demonstrate minor linear atelectatic changes.  There is no evidence of pleural
+     or pericardial effusion.  There is again demonstrated a large hiatal hernia.
+     The aorta is ectatic and is dilated at the level of the diaphragmatic hiatus,
+     measuring up to 3.8 cm.  The unenhanced images of the liver, spleen, left
+     kidney, adrenals, pancreas and unopacified loops of large and small bowel are
+     within normal limits.  There is evidence of prior cholecystectomy.  Note is
+     made that the right kidney is atrophic.  There is no free air or free fluid.
+     Note is also made of a small focal aneurysmal dilatation of the infrarenal
+     abdominal aorta, measuring approximately 2.7 cm.  There are no pathologically
+     enlarged areas of adenopathy identified.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  There is again identified a
+     low-attenuation cyst in the left adnexum, which is not remarkably changed,
+     measuring approximately 4.5 x 3.3 cm.  The cecum is difficult to evaluate
+     without intravenous or oral contrast, but demonstrates no large mass lesion.
+     There is apparent circumferential thickening of the wall of the cecum, which
+     may be due to underdistension.  There is no adjacent fat stranding.  There is
+     no free air or free fluid.  Bladder diverticulum are again demonstrated.
+     A 9mm calculus in a right posterior bladder diverticulum is unchanged. There
+     are no pathologically enlarged areas of adenopathy. Dense atherosclerotic
+                                                                 (Over)
+
+     DATE: [**2766-9-11**] 5:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9415**]
+     CT RECONSTRUCTION
+     Reason: PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTI
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     vascular calcifications are again seen in the iliac arteries and in the
+     abdominal aorta.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions identified.
+     
+     IMPRESSION:
+     1.  Study limited by lack of oral and IV contrast, with no obvious cecal mass.
+     The apparent wall thickening of the cecum may be partly due to
+     underdistension.  This area will be better evaluated with a colonoscopy.
+     2.  Dilated aorta at the level of the diaphragmatic hiatus, measuring up to
+     3.8 cm.
+     3.  Unchanged appearance of left adnexal cyst.
+     4.  Large hiatal hernia.
+     5.  Atrophic right kidney.
+
+",,
+14441,23531,,,2766-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-11**] 5:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9415**]
+     CT RECONSTRUCTION
+     Reason: PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTI
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with BRBPR, fullness in rlq, acute renal failure, and 
+      elevated wbc
+     REASON FOR THIS EXAMINATION:
+      PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTICULITIS             
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+     WET READ: JHjc SUN [**2766-9-11**] 10:34 AM
+      No obvious cecal mass, would be better assess with colonoscopy.  Apparent
+      thickening of cecum, difficult to assess, may be partly due to
+      underdistention.  No abscess. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS
+     
+     INDICATION:  Bright red blood per rectum, fullness in right lower quadrant,
+     acute renal failure, elevated white blood cell count.
+     
+     Comparison is made to the prior CT scan dated [**2763-10-2**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed
+     without administration of intravenous contrast.  Intravenous contrast was
+     withheld secondary to patient's renal failure.  Coronal and sagittal
+     reformations were also obtained.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The visualized lung bases
+     demonstrate minor linear atelectatic changes.  There is no evidence of pleural
+     or pericardial effusion.  There is again demonstrated a large hiatal hernia.
+     The aorta is ectatic and is dilated at the level of the diaphragmatic hiatus,
+     measuring up to 3.8 cm.  The unenhanced images of the liver, spleen, left
+     kidney, adrenals, pancreas and unopacified loops of large and small bowel are
+     within normal limits.  There is evidence of prior cholecystectomy.  Note is
+     made that the right kidney is atrophic.  There is no free air or free fluid.
+     Note is also made of a small focal aneurysmal dilatation of the infrarenal
+     abdominal aorta, measuring approximately 2.7 cm.  There are no pathologically
+     enlarged areas of adenopathy identified.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  There is again identified a
+     low-attenuation cyst in the left adnexum, which is not remarkably changed,
+     measuring approximately 4.5 x 3.3 cm.  The cecum is difficult to evaluate
+     without intravenous or oral contrast, but demonstrates no large mass lesion.
+     There is apparent circumferential thickening of the wall of the cecum, which
+     may be due to underdistension.  There is no adjacent fat stranding.  There is
+     no free air or free fluid.  Bladder diverticulum are again demonstrated.
+     A 9mm calculus in a right posterior bladder diverticulum is unchanged. There
+     are no pathologically enlarged areas of adenopathy. Dense atherosclerotic
+                                                                 (Over)
+
+     DATE: [**2766-9-11**] 5:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9415**]
+     CT RECONSTRUCTION
+     Reason: PLEASE GIVE RECTAL CONTRAST TO R/O CECAL MASS VERSUS DIVERTI
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     vascular calcifications are again seen in the iliac arteries and in the
+     abdominal aorta.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions identified.
+     
+     IMPRESSION:
+     1.  Study limited by lack of oral and IV contrast, with no obvious cecal mass.
+     The apparent wall thickening of the cecum may be partly due to
+     underdistension.  This area will be better evaluated with a colonoscopy.
+     2.  Dilated aorta at the level of the diaphragmatic hiatus, measuring up to
+     3.8 cm.
+     3.  Unchanged appearance of left adnexal cyst.
+     4.  Large hiatal hernia.
+     5.  Atrophic right kidney.
+
+",,
+14441,23531,,,2766-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-11**] 4:37 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 9416**]
+     Reason: confirm line placement                                      
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with sepsis s/p lf subclavian line                            
+     REASON FOR THIS EXAMINATION:
+      confirm line placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP chest, [**9-11**], at 17:09 hours
+     
+     HISTORY:  89-year-old woman with sepsis and left subclavian line.
+     
+     IMPRESSION:  AP chest compared to most recent prior film, [**2766-1-9**].
+     
+     I cannot clearly identify radiopaque central venous catheter.  The patient's
+     head obscures the left supraclavicular region.  There is no pneumothorax. 
+     There may be a small left pleural effusion.  The heart is mildly enlarged, but
+     exaggerated by a large hiatus hernia seen better on the previous examination. 
+     Dr. [**First Name8 (NamePattern2) 2935**] [**Last Name (NamePattern1) 9417**] was paged to discuss these findings, at the time of dictation.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) 1397**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1398**]
+",,
+14441,23531,17949,0,2766-09-11 16:24:00 EST,2766-09-11 16:55:00 EST,97,"N",69,"Nursing/Other","S/P ? LGIB/UTI","
+S/P ? LGIB/UTI
+S: ""[**Known patient firstname **]"" ""I DON'T KNOW WHAT YEAR IT IS""
+O: CARDIAC: SR AT TIMES WITH PAC'S, NO VEA NOTED. SBP 120'S-150'S. EXTREMITIES WARM, PALP PP. HCT 25.4 TO RECIEVE 2 UPC WITH # 1 UPC UP AND INFUSING. NO HIVES NOTED. K 4.1. 
+   RESP: BS CLEAR UPPER DIMINISHED BIBASILAR, RR HIGH TEENS LO TWENTIES, O2 SAT ON 2 L NP >95%. NOT COUGHING AND RAISING, DB WITH MUCH ENCOURAGEMENT. 
+   NEURO: AROUSES TO VOICE,SLEEPY FROM BENADRYL, ORIENTED TO NAME AND WHERE SHE LIVES. COULD NOT TELL ME WHERE SHE WAS, WHAT YEAR. KNEW WHO HER DAUGHTER WAS. PT DIFFICULT TO ASSESS PUPILS SHE WOULD NOT LET ME SHINE THE LIGHT IN HER EYES. GRASPS STRONG AND EQUAL, WILL MOVE TOES AND LEGS ON BED. WILL YELL OUT IF DOES NOT LIKE WHAT [**Doctor First Name **] ARE DOING, 
+   GI: HAS REMAINED NPO, TO RECIEVE SYNTHROID WHEN MORE AWAKE FROM RECIEVING BENADRYL. ABD SLIGHTLY DISTENEDED WITH SOME RLQ TENDERNESS, CT NEGATIVE PER HO. ? COLONOSCOPY DAUGHTER IS NOT SURE IF SHE WOULD LIKE TO HAVE TEST PERFORMED. SMALL CLOT NOTED NO FURTHER BLEEDING OR STOOL NOTED. PASSING FLATUS.
+   GU: CREAT 2.5 WITH BUN 56, URINE AMBER WITH PURELENCE NOTED HAS CLEARED TO LIGHT YELLOW WITH SOME PURELENCE NOTED. UA+C+S SENT IN ER. ADEQUATE UO SINCE RECIVED NS AT 125ML/HR ON HOLD WHILE RECIEVING BLOOD. 
+   ENDO: GLUCOSE 88
+   ID: CIPRO FOR SUSPECTED UTI
+   PAIN: DENIES. 
+   SKIN: INTACT EXCEPT FOR SKIN CTEAR/CUT RIGHT LOWER ANTERIOR ARM CLEANSED IN ER AND TEGADERM APPLIED. HEELS REDDENED  
+   SOCIAL: PT LIVES WITH DAUGHTER ,SON-IN-LAW AND [**Name2 (NI) 6089**]. DAUGHTER HEALTH CARE PROXY AND CAREGIVER. I ASKED IF SHE HAD ANY HELP AND ESSENTIALLY GIVES ALL THE CARE AND MONITORS HER 24 HOURS / 7 DAYS A WEEK. CASE MANAGEMENT TO BE CONSULTED. DAUGHTER WILL STAY WITH PT DURING HER HOSPITAL STAY.
+   CODE STATUS: PT IN DNR 
+A: UTI,?ETIOLOGY OF BLEEDING SMALL CLOT NOTED SINCE ARRIVAL FROM ER.DNR 
+P: MONITOR COMFORT, HR AND RYTHYM, SBP, HCT,K,MAG,RESP STATUS-PULM TOILET, NEURO STATUS, N/V/STOOL, BLEEDING,I+O-UO , PENDING UA AND C+S, GLUCOSE, AS PER ORDERS.   
+",,
+14441,23531,17949,0,2766-09-12 03:27:00 EST,2766-09-12 03:45:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+CV: B/P HAS RANGED FROM 134/49-151/73. NSR WITH HR RANGING FROM 72-87, NO ECTOPPY NOTED. PT RECIEVED 2ND UNIT OF PRBC SINCE ADM TO MICU, (TOTAL OF 3UNITS AND 2UNITS OF FFP IN EW). PPP BILAT. WILL DRAW AM LABS TO CHECK AM HCT. HCT WAS 25.4 PRIOR TO LAST 2 UNITS OF PRBC. PT HAD HIVES AFTER FFP IN EW, BENADRYL EFFECTIVE FOR RELIEF. 
+
+RESP: LUNGS CLEAR THROUGHOUT, DIM IN BASES. O2 ON AT 2L N/C, SAO2 97-100%.  RR 13-19. NO RESP DISTRESS NOTED. 
+
+NEURO: PT HAS RESTED THROUGHOUT SHIFT WITH EYES CLOSED RESP REG. AROUSES TO VOICE. FOLLOWS SIMPLE COMMANDS. PT HAS SOME DEMENTIA AND RESPONDS WELL TO DAUGHTER WHO HAS REMAINED WITH PT. PT HAS REMAINED SLEEPY AFTER BENADRYL, BUT AROUSABLE.  PT DOES YELL OUT IF SHE DOES NOT LIKE WHAT IS BEING DONE, I.E. ROM.
+
+GU/GI: FOLEY CATH PATENT, DRAINING YELLOW URINE WITH LG AMTS SEDIMENT. U/O MAGINAL. ABD SOFTLY DISTENDED WITH HYPO BS. PT NPO THROUGHOUT NIGHT. DAUGHTER STATED THAT SHE DOES NOT WANT COLONOSCOPY DONE TO PT. NO BLOOD CLOTS PASSED RECTALLY. 
+
+PLAN: MONITOR HCT AND VS. PROVIDE BLOOD PRODUCTS AS NEEDED. PT IS DNR. PROVIDE EMOTIONAL SUPPORT TO PT AND FAMILY. MONITOR FOR COMFORT
+",,
+14441,23531,17949,0,2766-09-12 12:32:00 EST,2766-09-12 12:40:00 EST,1119,"N",69,"Nursing/Other",,"
+
+
+DNR/DNI     Universal Precautions
+Allergies:  Sulfonamides, iodine, ASA, kefzol
+
+
+Neuro:  Awake, oriented to daughters and where she lives, but can't tell [**Doctor First Name **] where she is now, what month or year it is.  OOB to chair and stood  and pivoted w/ 2 assists. Daughter says she uses a walker at  w/ assistance.
+
+CV:  HR=80s, NSR, no ectopy.  BP 160-170/60s, - had been 130-150/ during the night shift.  + pedal pulses, extrems warm, no edema.
+
+Resp:  2l n/p w. 02 sat 98%, 93-94% on R/A.  Lungs clear, diminished in bases bilat.  No cough.
+
+GI/GU:  abd soft, + hypo BS, taking clear liqs well, No BM/BRB per rectum.  Pt has not had any stool/BRBPR since in the ER on admission.  Foley cath - urine yellow w/ sediment/?pus - ?UTI, started on Cipro.
+
+Skin: intact.  Small skin tear on RLA - tegaderm dressing intact.  #18 PIV - area above IV noted to be red, but pt had been rubing her arem.  Site flushes well.
+
+ID:  Afebrile.  On cipro for UTI
+
+Social:  Daughter, [**Doctor First Name 147**], primary caretaker.  At pt's bedside.  
+
+Labs:  HCT 36.8, INR=1.5.
+
+Plan:  Tx to [**Hospital Ward Name 960**] 1167
+",,
+14441,,,,2766-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-18**] 11:53 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 9418**]
+     Reason: r/o pna and pleural effusion                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with fall                                                     
+     REASON FOR THIS EXAMINATION:
+      r/o pna and pleural effusion                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post fall.
+     
+     COMPARISON:  [**2766-9-11**].
+     
+     FINDINGS:  AP supine portable view.  Scoliosis and associated rib cage
+     deformity is again noted.  No fractures are identified.  Cardiac and
+     mediastinal contours appear stable.  The density superimposed over the left
+     lower lobe represents the known hiatal hernia.  The lungs appear stable, with
+     prominent interstitial markings noted bilaterally.  Eventration of the right
+     hemidiaphragm is also again noted.
+     
+     IMPRESSION:  Stable appearance of the chest.  No evidence of fractures.
+                                                                           
+
+",,
+14441,,,,2766-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-18**] 11:53 PM
+     PELVIS (AP ONLY)                                                Clip # [**Clip Number (Radiology) 9419**]
+     Reason: r/o fract                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with s/p fall                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o fract                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post fall.
+     
+     COMPARISON:  No previous studies.
+     
+     FINDINGS:  Single AP view of the pelvis.  The sacrum and sacroiliac joints are
+     obscured by the overlying bowel gas.  No fractures are identified.  There is
+     no evidence of malalignment.  There is mild narrowing of the hip joints
+     bilaterally, likely degenerative.
+     
+     IMPRESSION:  Limited study.  No evidence of a fracture.
+                                                                           
+
+",,
+14441,,,,2766-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-19**] 12:05 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 9422**]
+     Reason: r/o fracture                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with head abrasion s/p fall                                   
+     REASON FOR THIS EXAMINATION:
+      r/o fracture                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**2766-9-19**] 12:37 AM
+      no fracture; asymmetric distances between dens and right vs left lateral
+      masses of C2, which may be related to head rotation, but rotatory atlantoaxial
+      subluxation cannot be excluded - correlate clinically
+      -DJD
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post fall with head abrasion and intracranial hemorrhage.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial noncontrast multidetector CT images of the cervical spine
+     were performed.  Sagittal and coronal reformatted images were obtained.
+     
+     FINDINGS:  The bones of the demineralized.  There is no fracture.  There is no
+     prevertebral soft tissue swelling.  Extensive spondylosis is present.  There
+     is multilevel disc space narrowing, most prominent at C5/6 and C6/7.  There is
+     asymmetry of the distances between the dens and the right versus left lateral
+     masses of C1, most likely related to head rotation.  However, rotatory
+     atlantoaxial subluxation cannot be excluded.  Please correlate clinically.
+     There is a linear opacity at the left lung apex.
+     
+     IMPRESSION:
+     1.  No fracture.
+     2.  Extensive spondylosis.
+     
+     3.  Asymmetry in the distances between the dens and the right versus left
+     lateral masses of C1, which is most likely related to head rotation.  Please
+     correlate clinically to exclude rotatory atlantoaxial subluxation.
+                                                                           DFDkq
+
+",,
+14441,,,,2766-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-19**] 3:15 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 9423**]
+     Reason: please eval WITH GAD for mass, anuerysm, further characteriz
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with small bleed per CT                                       
+     REASON FOR THIS EXAMINATION:
+      please eval WITH GAD for mass, anuerysm, further characterize bleed             
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE HEAD WITHOUT AND WITH GADOLINIUM CONTRAST
+     
+     INDICATION:  Intracranial hemorrhage seen on CT exam within the left occipital
+     lobe.  MRI of the brain for further evaluation.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images of the brain including pre-
+     and post-T1 gadolinium-enhanced images were performed.
+     
+     MRI OF THE BRAIN WITH AND WITHOUT CONTRAST:  Corresponding to CT examination
+     of the same day, there is a focal area of restricted diffusion and
+     corresponding T2 signal abnormality within the left occipital lobe which
+     involves the cortex.  Small amount of associated susceptibility artifact
+     corresponds to hemorrhage seen on CT examination.  The findings are compatible
+     with subacute infarction with hemorrhagic transformation.  No other areas of
+     acute infarction are identified.  The ventricles are symmetrical, but markedly
+     dilated.  There is a marked amount of periventricular white matter elevated T2
+     signal abnormality suggestive of chronic microvascular ischemia/infarction.
+     Post-contrast enhanced images show no evidence of pathologic enhancement in
+     the area of infarction or elsewhere throughout the brain parenchyma.  The
+     major vascular flow voids are preserved.
+     
+     IMPRESSION:
+     1.  Subacute infarction with hemorrhagic transformation in the left occipital
+     lobe, likely within left posterior cerebral artery distribution.
+     2.  Marked asymmetrical dilatation of the ventricles suggestive of
+     communicating hydrocephalus.
+     3.  Marked underlying chronic periventricular white matter microvascular
+     ischemia/infarction.
+     
+
+",,
+14441,,,,2766-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-19**] 3:15 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 9423**]
+     Reason: please eval WITH GAD for mass, anuerysm, further characteriz
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with small bleed per CT                                       
+     REASON FOR THIS EXAMINATION:
+      please eval WITH GAD for mass, anuerysm, further characterize bleed             
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE HEAD WITHOUT AND WITH GADOLINIUM CONTRAST
+     
+     INDICATION:  Intracranial hemorrhage seen on CT exam within the left occipital
+     lobe.  MRI of the brain for further evaluation.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images of the brain including pre-
+     and post-T1 gadolinium-enhanced images were performed.
+     
+     MRI OF THE BRAIN WITH AND WITHOUT CONTRAST:  Corresponding to CT examination
+     of the same day, there is a focal area of restricted diffusion and
+     corresponding T2 signal abnormality within the left occipital lobe which
+     involves the cortex.  Small amount of associated susceptibility artifact
+     corresponds to hemorrhage seen on CT examination.  The findings are compatible
+     with subacute infarction with hemorrhagic transformation.  No other areas of
+     acute infarction are identified.  The ventricles are symmetrical, but markedly
+     dilated.  There is a marked amount of periventricular white matter elevated T2
+     signal abnormality suggestive of chronic microvascular ischemia/infarction.
+     Post-contrast enhanced images show no evidence of pathologic enhancement in
+     the area of infarction or elsewhere throughout the brain parenchyma.  The
+     major vascular flow voids are preserved.
+     
+     IMPRESSION:
+     1.  Subacute infarction with hemorrhagic transformation in the left occipital
+     lobe, likely within left posterior cerebral artery distribution.
+     2.  Marked asymmetrical dilatation of the ventricles suggestive of
+     communicating hydrocephalus.
+     3.  Marked underlying chronic periventricular white matter microvascular
+     ischemia/infarction.
+     
+
+",,
+14441,,,,2766-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-19**] 3:17 AM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 9424**]
+     Reason: please eval for fx, ligamentous injury                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with fall, possible rotatory atlantoaxialsubluxation per CT 
+      scan
+     REASON FOR THIS EXAMINATION:
+      please eval for fx, ligamentous injury                                          
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.  Status post fall with questionable atlantoaxial
+     subluxation seen on CT exam.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted MRI of the cervical spine was
+     performed without contrast.
+     
+     MRI OF THE CERVICAL SPINE WITHOUT CONTRAST:  Vertebral body height, signal
+     intensity, and alignment is normal in appearance.  No abnormal signal
+     intensity of the spinal ligaments is appreciated.  The atlantoaxial level was
+     not entirely included on the axial images.  However, sagittal images
+     evaluation of the remainder of the cervical spine show no abnormalities to
+     suggest instability or overt signs of ligamentous injury.  There is multilevel
+     cervical spondylosis with posterior thickening of the ligamentum flavum.
+     However, bony the central spinal canal is patent, without evidence of cord
+     compression or stenosis.  Cord signal intensity and morphology is normal.  No
+     prevertebral or paraspinal soft tissue signal abnormality is identified.
+     Neural foraminal narrowing is noted at multiple levels secondary to moderate-
+     prominent uncovertebral spurring.
+     
+     IMPRESSION:
+     1.  No overt signs of ligamentous injury.  However, MRI cannot entirely
+     exclude this entity.  Clinical correlation is needed.  No definite
+     abnormalities of the atlantoaxial articulation, although this was not entirely
+     included on axial images.
+     2.  Diffuse cervical spondylosis with multilevel neural foraminal narrowing,
+     but no cord compression.
+     
+     
+
+",,
+14441,,,,2766-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-19**] 10:10 AM
+     ABDOMEN (SUPINE & ERECT) PORT                                   Clip # [**Clip Number (Radiology) 9425**]
+     Reason: Please assess for free air.                                 
+     Admitting Diagnosis: HEAD BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with recent LGIB, afib and now hemorrhagic stroke p/w 
+      abdominal tenderness, distension and decreased bowel sounds.
+     REASON FOR THIS EXAMINATION:
+      Please assess for free air.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88 year old woman with recent lower GI bleed, stroke, now with
+     abdominal pain and distention, assess for free air.
+     
+     COMPARISON:  Plain film of the abdomen dated [**2766-9-18**].
+     
+     ABDOMEN 2 VIEWS:  Note is made of a moderate sized hiatal hernia.  There is
+     air and stool in the colon distally to the rectum.  There is one prominent
+     loop of small bowel.  There is no free air under the diaphragm.  Note is made
+     of phleboliths in the pelvis.  Note is made of degenerative changes in the
+     spine, as well as scoliosis of the lumbar spine, concave to the right.
+     
+     IMPRESSION:  No free abdominal air.  No clear evidence of obstruction.
+
+",,
+14441,,,,2766-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-19**] 12:05 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9420**]
+     Reason: r/o ich                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with head abrasion s/p fall                                   
+     REASON FOR THIS EXAMINATION:
+      r/o ich                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**2766-9-19**] 12:28 AM
+      small hemorrhage in left posterior fossa, unclear if parenchymal or extra-
+      axial; no fracture to suggest epidural etiology
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Head abrasions status post fall.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is an approximately 2 x 3 cm area of low density in the left
+     occipital lobe, which contains central hyperdensity consistent with acute
+     blood products.  There is mild mass effect on the adjacent parenchyma. These
+     findings may represent a hemorrhagic contusion. Hemorrhagic transformation of
+     an ischemic infarction is also possible. Hemorrhage into a neoplasm or
+     vascular malformation is less likely. There is no shift of normally midline
+     structures. The ventricles are diffusely prominent, likely due to generalized
+     atrophic changes in the brain parenchyma. There are multiple foci of low
+     density in the periventricular and subcortical white matter of the cerebral
+     hemispheres, consistent with  chronic microvascular ischemia.  There are no
+     fractures.  The findings were immediately discussed with Dr. [**First Name8 (NamePattern2) 2935**] [**Last Name (NamePattern1) 9421**] in
+     the Emergency Department.
+     
+     IMPRESSION:  Left occipital parenchymal hemorrhage within an area of low
+     density likely representing a hemorrhagic contusion. See above discussion. MRI
+     would be helpful.
+
+",,
+14441,,,,2766-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2766-9-19**] 12:05 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 9422**]
+     Reason: r/o fracture                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with head abrasion s/p fall                                   
+     REASON FOR THIS EXAMINATION:
+      r/o fracture                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**2766-9-19**] 12:37 AM
+      no fracture; asymmetric distances between dens and right vs left lateral
+      masses of C2, which may be related to head rotation, but rotatory atlantoaxial
+      subluxation cannot be excluded - correlate clinically
+      -DJD
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post fall with head abrasion and intracranial hemorrhage.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial noncontrast multidetector CT images of the cervical spine
+     were performed.  Sagittal and coronal reformatted images were obtained.
+     
+     FINDINGS:  The bones of the demineralized.  There is no fracture.  There is no
+     prevertebral soft tissue swelling.  Extensive spondylosis is present.  There
+     is multilevel disc space narrowing, most prominent at C5/6 and C6/7.  There is
+     asymmetry of the distances between the dens and the right versus left lateral
+     masses of C1, most likely related to head rotation.  However, rotatory
+     atlantoaxial subluxation cannot be excluded.  Please correlate clinically.
+     There is a linear opacity at the left lung apex.
+     
+     IMPRESSION:
+     1.  No fracture.
+     2.  Extensive spondylosis.
+     
+     3.  Asymmetry in the distances between the dens and the right versus left
+     lateral masses of C1, which is most likely related to head rotation.  Please
+     correlate clinically to exclude rotatory atlantoaxial subluxation.
+                                                                           DFDkq
+
+",,

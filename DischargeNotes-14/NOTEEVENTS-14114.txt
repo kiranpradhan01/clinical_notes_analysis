@@ -1,0 +1,1759 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14114,6450,,,3130-12-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3130-12-7**]              Discharge Date:   [**3130-12-30**]
+ 
+Date of Birth:  [**3053-6-3**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zomig
+ 
+Attending:[**First Name3 (LF) 2037**] 
+Chief Complaint:
+Unresponsive.
+ 
+Major Surgical or Invasive Procedure:
+Intubation.
+
+ 
+History of Present Illness:
+77 yo F with hx asthma, CHF, PAF, and OSA, found unresponsive at 
+psychiatyric facility with hypercarbic resp failure.  She was 
+found with sat of 87% and while asleep 62%.  She was recently 
+transfered from [**Hospital3 2255**] to [**Hospital1 **] HRI [**12-5**].  Pt has had 
+previous desats prior to yesterday.  She was then given 40mg po 
+lasix, 1 mg ativan, and alb nebs.  When arrived in ED, she was 
+given narcan and started on BIPAP.  ABG 7.24/94/140/42.
+
+Pt improved on BIPAP in ED and repeat ABG 7.28/85/129/42.
+
+ 
+Past Medical History:
+Dementia
+A-fib
+HTN
+OA
+hypothyroidism
+Asthma
+
+ 
+Social History:
+She has been a resident of [**Location **] nursing homes. She was most 
+recently at Life center, [**Hospital3 5808**] then [**Hospital1 **] HRI, but had 
+previously been at [**Hospital3 **]. Her daughter [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] 
+[**Last Name (NamePattern1) 10147**] [**Telephone/Fax (1) 10148**] and her son [**First Name4 (NamePattern1) **] [**Known patient lastname **] [**Telephone/Fax (1) 10149**] 
+beeper are very involved in her care.  She is mostly Portuguese 
+speaking but she does understand some English.
+
+ 
+Physical Exam:
+in ED
+T 99.4  P 80 BP 112/palp  Sat 98% on BIPAP
+Gen - unresponsive except moans
+HEENT - Pupils 2mm ERRL
+Chest - CTA B anteriorly with occ upper airway sounds.
+Cor - RRR nl s1/s2 no murmurs
+Abd - soft obese, pos BS
+Ext - trace edema
+Neuro - minimally responsive to touch/pain
+
+More recent exam:
+[**3130-12-18**].
+Vitals: Tm = 99.6, Tc = 98.1 BP = 120-152/68-78, P = 69-85, RR = 
+18-20, BS = 102-183, 93-94% on RA.
+Gen: Obese female laying in bed. No acute distress. Cervical 
+collar not in place.
+-Chest: CTA B anteriorly and posteriorly with good inspiratory 
+effort.
+-Cor: RRR nl s1/s2 
+-Abd: soft obese, pos BS 
+-Ext: 2+ DPP appreciated bilaterally.
+Right arm: 2-4 cm friction blister with skin breakdown and 
+serosang ooze covered by duoderm patch. 
+ 
+Pertinent Results:
+[**3130-12-7**] 03:44AM   TYPE-ART PO2-129* PCO2-85* PH-7.28* TOTAL 
+CO2-42* BASE XS-9
+[**3130-12-7**] 02:47AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 302**]-1.015
+[**3130-12-7**] 02:47AM URINE  BLOOD-SM NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-0.2 PH-5.0 
+LEUK-NEG
+[**3130-12-7**] 02:47AM URINE  RBC-1 WBC-1 BACTERIA-RARE YEAST-NONE 
+EPI-1
+[**3130-12-7**] 02:47AM URINE  HYALINE-1*
+[**3130-12-7**] 02:20AM   GLUCOSE-103 UREA N-20 CREAT-0.8 SODIUM-148* 
+POTASSIUM-3.6 CHLORIDE-105 TOTAL CO2-36* ANION GAP-11
+[**3130-12-7**] 02:20AM   CK(CPK)-35
+[**3130-12-7**] 02:20AM   cTropnT-<0.01
+[**3130-12-7**] 02:20AM   CK-MB-2
+[**3130-12-7**] 02:20AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**3130-12-7**] 02:20AM   WBC-5.9 RBC-3.93* HGB-11.9* HCT-36.7 MCV-93 
+MCH-30.3 MCHC-32.4 RDW-13.0
+[**3130-12-7**] 02:20AM   NEUTS-51.6 LYMPHS-36.8 MONOS-7.5 EOS-3.2 
+BASOS-0.9
+[**3130-12-7**] 02:20AM   PLT COUNT-121*
+[**3130-12-7**] 02:16AM   TYPE-ART PO2-140* PCO2-94* PH-7.24* TOTAL 
+CO2-42* BASE XS-9
+[**3130-12-7**] 02:16AM   HGB-12.5 calcHCT-38
+
+[**3130-12-7**] 06:59AM   TYPE-ART RATES-/14 PEEP-8 O2-40 PO2-128* 
+PCO2-105* PH-7.19* TOTAL CO2-42* BASE XS-8 INTUBATED-NOT INTUBA 
+VENT-SPONTANEOU COMMENTS-CPAP
+
+Admission Chest AP:
+Allowing for technique, cardiac and mediastinal contours are 
+likely normal. Patchy opacity is seen in the left lower 
+lobe/lingular area. The right lung appears clear. There is 
+slight biapical pleural thickening. Pulmonary vasculature is 
+normal. Several calcified nodes are seen in the left hilum. In 
+addition, there appears to be a calcified granuloma in the right 
+upper lobe. There may be a small left pleural effusion. The 
+osseous structures are unremarkable.
+
+IMPRESSION:
+
+1. Left lower lobe/lingular patchy consolidation.
+2. Calcified nodes/granuloma suggestive of past granulomatous 
+infection.
+EKG NSR 78bpm, nl axis, no ST or T wave changes
+
+[**3130-12-19**]: Chest AP
+The heart is enlarged but stable. The aorta is tortuous. There 
+are calcified lymph[**MD Number 285**] in the AP window and left hilum and 
+there are calcified granulomas in the left mid and right upper 
+lung zones. These findings, as well as an area of right apical 
+thickening are stable. The lungs demonstrate no focal areas of 
+consolidation. No definite pleural effusions are identified on 
+the single projection.
+
+As compared to the recent study, there is improved visualization 
+of the left retrocardiac area.
+
+ 
+Brief Hospital Course:
+77 yo F with dementia, CHF? who presentedunresponsive at psych 
+facility with hypercarbic respiratory failure.
+*
+1) Respiratory Failure- We thought that her respiratory failure 
+was multifactorial in etiology. The patient is perhaps 
+hypercarbic at baseline. Pt likely hyper carbic at base line.  
+We thought that pnemonia exacerbated her possible COPD/OSA/ 
+obesity hypoventilation to the point where she decompensated.  
+We also found that a pannus in the upper cervical spine which 
+might have contributed to the patient's apnea. (see neuro 
+below).  The patient was transferred to the MICU where she was 
+intubated then  weaned to pressure support and then successfully 
+extubated on [**12-10**].  She was then weaned off oxygen onto room 
+air.  
+*
+2)Pneumonia exaceCeftriaxone/azith were started on admission 
+which was eventually changed to levofloxacin such that she 
+completed a 10 day course.
+*
+3)Obstructive [**Doctor Last Name 292**] apnea: She continued to desaturate 
+periodically at night for which she was started on bipap with 
+good effect but the patient refused to wear the bipap mask.  She 
+also underwent an inpatient [**Doctor Last Name 292**] study but this was terminated 
+early secondary to her refusal to wear the bipap mask.  (An 
+interpreter was present.)
+*
+4)Psych - Pt was originally started on her home psych meds (see 
+meds on admission).  However zyprexa and depakote were stopped 
+due to possible respiratory depression.  Psychiatry was 
+consulted and they thought that the patient had dementia and 
+resolving delerium.  Her standing haldol was discontinued and 
+she was started on zyprexa prn agitation. 
+*
+5) Neuro - CT of the head demonstrated basal ganlia lesion and a 
+pannus in the upper cervical spine.  MRI done to further 
+evaluate which demonstrated: a Posterior vertebral pannus 
+formation C1-C2, with compression/stenosis of the spinal cord as 
+it exits the foramen magnum. There was no evidence of 
+intracranial hemorrhage, or minor or major vascular territorial 
+infarction. Chronic lacunar infarcts were also observed 
+Neurosurg consulted.  The spoke to the pts home neurosurgeon at 
+[**Hospital **] Hospital and found that this was a problem that had 
+already been worked up.  Because of her poor baseline functional 
+status the pt was felt to be a poor surgical candidate.  She was 
+placed in a cervical collar which she refused to wear.
+*
+6)In light of the continued improvement in her mental status we 
+(the medical team and the patient's family) thought that it 
+would be best if the patient were transferred to a rehab/long 
+term care center where she could prepare for the upcoming 
+surgery should her family decide to procede. At this time the 
+family deferred surgery in light of her condition.
+
+ 
+Medications on Admission:
+KCl 10mg qday
+Lasix 40mg qday
+Prozac 20mg qday
+Celebrex 20mg qday
+Colace 100 mg bid
+Ecotrin 81 mg qday
+Protonix 40mg qday
+Depakotote 250mg qam/ 500mg qpm
+Zyprexa 10mg bid
+Abilify 10mg qam
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Blue Hills Alzheimer Care Center
+ 
+Discharge Diagnosis:
+Primary:
+1. Hypercarbic Respiratory Failure.
+2. Pannus posterior to Odontoid at C2 with compression of the 
+cervicomedullary junction.
+3. Degenerative disc disease from C3 through C6 with spinal cord 
+compression.  
+4. Dementia/Agitation.
+Secondary: 
+1. Atrial Fibrillation (not corroborated).
+2. Obstructive [**Doctor Last Name **] Apnea.
+3. Hypothyroidism.
+4. Hypertension.
+
+ 
+Discharge Condition:
+Good. Able to eat, interactive, at her baseline. 
+ 
+Discharge Instructions:
+Please return to the emergency room if [**Doctor First Name **] experience shortness 
+of breath, difficulty breathing, chest pain, fevers or chills.
+
+Please take all of your medications as prescribed.
+
+ 
+Followup Instructions:
+Please call Dr. [**First Name (STitle) **] [**Name (STitle) **] MD [**Telephone/Fax (1) 10150**] to 
+follow up with regard to potential neck surgery. 
+
+ 
+                             [**First Name11 (Name Pattern1) 732**] [**Last Name (NamePattern4) 2042**] MD [**MD Number 2043**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 6886**] [**Last Name (NamePattern4) 6893**] MD [**MD Number 6894**] [**3130-12-20**] @ 0755
+Signed electronically by: DR. [**First Name8 (NamePattern2) 732**] [**Last Name (NamePattern1) **]
+ on: SAT [**3131-1-24**] 12:41 PM
+(End of Report)
+
+
+",,
+14114,6450,,,3130-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-7**] 12:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6458**]
+     Reason: OG tube placement.                                          
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old woman with hypoxia and severe hypercarbia, please r/o infiltrate. 
+        Now OG tube 
+     REASON FOR THIS EXAMINATION:
+      OG tube placement.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   Hypoxia and severe hypercarbia.  Rule out infiltrate.  Now OG tube
+     placement.
+     
+     chestm single ap vw
+     
+     Compared with earlier the same day, an NG tube has been placed.  The tip is
+     coiled in the fundus.  Both tip and side port overlie the fundus.  Otherwise,
+     no significant change is detected.
+     
+
+",,
+14114,6450,,,3130-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-7**] 9:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6457**]
+     Reason: Endotrachial Tube placement.                                
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old woman with hypoxia and severe hypercarbia, please r/o infiltrate.  
+      Now intubated. 
+     REASON FOR THIS EXAMINATION:
+      Endotrachial Tube placement.                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hypoxia and hypercarbia, rule out infiltrate. Check ET tube
+     placement.
+     
+     chest, single ap vw
+     
+     FINDINGS:  Compared with earlier the same day, an ET tube has been placed. The
+     tip lies approximately 4.3 cm above the carina.  Again seen is left lower lobe
+     collapse and/or consolidation.  Calcified granuloma noted at right apex. Low
+     inspiratory volumes.
+     
+     IMPRESSION:  Satisfactory placement of ET tube, tip 4.3 cm above the carina. 
+
+",,
+14114,6450,,,3130-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-7**] 2:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6456**]
+     Reason: please r/o pna                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with hypoxia and severe hypercarbia, please r/o infiltrate    
+     REASON FOR THIS EXAMINATION:
+      please r/o pna                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 77 year old with hypoxia.
+     
+     Single portable semiupright frontal radiograph. No prior studies.
+     
+     Allowing for technique, cardiac and mediastinal contours are likely normal.
+     Patchy opacity is seen in the left lower lobe/lingular area. The right lung
+     appears clear. There is slight biapical pleural thickening. Pulmonary
+     vasculature is normal. Several calcified nodes are seen in the left hilum. In
+     addition, there appears to be a calcified granuloma in the right upper lobe.
+     There may be a small left pleural effusion. The osseous structures are
+     unremarkable.
+     
+     IMPRESSION:
+     
+     1. Left lower lobe/lingular patchy consolidation.
+     2. Calcified nodes/granuloma suggestive of past granulomatous infection.
+     
+
+",,
+14114,6450,17550,0,3130-12-07 06:40:00 EST,3130-12-07 06:52:00 EST,830,"N",69,"Nursing/Other","ADMISSION NOTE:","
+ADMISSION NOTE:
+PT ARRIVED FROM [**Location **] VERY LETHARGIC. O2 SAT'S IN THE 80'S AND WAS PLACED ON BIPAP AND O2 CAME UP INTO THE HIGH 90'S. PT UNABLE TO TAKE DEEP BREATHS WITHOUT ENCOURAGEMENT. BREATH SOUNDS SHALLOW. PT PLACED ON MONITOR HR IN NSR WITHOUT ECTOPY. BP VIA NBP 90-100/60. AFEBRILE. PT IS PORTUGESE SPEAKING BUT SEEMS TO UNDERSTAND SOME ENGLISH. IS ABLE TO FOLLOW SOME COMMANDS. 
+UNKNOWN IF PT HAS ANY FAMILY.
+PT IS OBESE, RIGHT KNEE HAS OLD SCAR BUT THE KNEE CAP IS DISCOLORED AND HAS DSG ON IT. POSSIBLY SOME TYPE OF INFECTION. 
+PT HAS FOLEY CATH DRAINING DILUTE URINE. 
+ABD SOFT DISTENDED WITH BOWEL SOUNDS. 
+UNKNOWN CODE STATUS.
+",,
+14114,6450,17550,0,3130-12-07 16:23:00 EST,3130-12-07 16:25:00 EST,1428,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt intubated for resp failure.  Breath sounds are decreased bilat.
+Pt on A/C-parameters noted.  No a-line.  ABG pending.
+Suction for a small amt of white secretions.  Team would like 
+PaCO2 around 60 due to pt's COPD hx.  Will continue mech vent and 
+wean as tol.
+",,
+14114,6450,17550,0,3130-12-07 16:58:00 EST,3130-12-07 17:15:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 0700- 1900
+
+EVENTS: THIS AM PT HAD INCREASING APNIEC EVENTS. SHE WAS INTUBATED @ ~ 0730 FOR ABG OF 7.19/ 105/128. HER INITIAL VENT SETTINGS WERE A/C 16X 550 40% 8 OF PEEP.ABG ON THESE SETTINGS WAS 7.54/38/112
+
+NEURO: CURRENTLY LIGHTLY SEDATED ON FENTYNAL 75MCG HR AND VERSED 2 MG /HR. WILL RESPOND TO NOXIOUS STIN W/ GRIMACE AND OCC OPENS EYES. DOES NOT TRACK OR FOLLOW COMMANDS.PT W/ PSYCH HX, TEAM IS STILL COLLECTING DATAFROM PREVIOUS FACILITY.PT IS ON SOME ANTI PSYCHOTICS AND MOOD STABILIZERS. WILL BE SEEN BY PSYCH WHEN EXTUBATED AND AWAKE.
+
+RESP: CURRENTLY ON A/C 12X 550 40%  W/ 8 OF PEEP. PT IS BELIEVED TO BE A CO2 RETAINER AND GOAL IS FOR PCO2 IN 60'S W/ PAO2 IN 70'S. LUNGS ARE CLEAR .PT SUCTIONED FOR MOD AMT WHITE SECRETIONS.TEAM IS CURRENTLY PLACING AN A-LINE ABG WILL FOLLOW  ALINE PLACEMENT.
+
+C/V: SR NO VEA, BP STABLE 1TEENS .
+
+F/E/N: UO 30-40CC HR  OGT PLACED FOR MEDS , NO STOOL .
+
+PLAN: FOLLOW ABG'S ,CONT MECH VENT,AB FOR PNUEMONIA.
+
+
+",,
+14114,6450,17550,,3130-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-8**] 4:13 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6460**]
+     Reason: intracranial process?  masses? focal lesions?               
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman found responsive at rehab center with hypercarbia.            
+     REASON FOR THIS EXAMINATION:
+      intracranial process?  masses? focal lesions?                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Found unresponsive at rehab center with hypercarbia.  Rule out
+     intracranial process, masses, focal lesions.
+     
+     TECHNIQUE:   Non-contrast head CT.
+     
+     FINDINGS: There are areas of decreased attenuation within the basal ganglia
+     and adjacent white matter bilaterally, and an infarct in this region cannot be
+     excluded.  There is no intra or extra-axial hemorrhage.  There is no mass
+     effect or shift of normally midline structures.
+     
+     There is significant calcification surrounding the dens at the C1-2
+     articulation with associated soft tissue density.  There is apparent
+     compression of the medulla and upper cervical spinal cord at this level,
+     though evaluation on this study is suboptimal.
+     
+     IMPRESSION:
+     
+     1)  No evidence for intracranial hemorrhage.
+     2)  Areas of decreased attenuation within the basal ganglia and adjacent white
+     matter bilaterally.  These findings may relate to areas of infarction of
+     unknown chronicity or hypoperfusion.  If clinically warranted, an MRI with
+     diffusion weighted imaging could be considered.
+     3)  Calcification and apparent panus formation around the dens, which may
+     compress the medulla and upper cervical spinal cord.  This could be further
+     evaluated with MRI of the cervical spine.
+     
+     These findings were relayed by telephone to the primary team caring for this
+     patient.
+
+",,
+14114,6450,17550,,3130-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-8**] 8:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6459**]
+     Reason: Eval infiltrate, effusion, ETT                              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 yo F w/ PNA by last CXR, hypercapneic respiratory failure, hypoxia, 
+      intubated.
+     REASON FOR THIS EXAMINATION:
+      Eval infiltrate, effusion, ETT                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  77 y/o woman with pneumonia noted on last chest x-ray, and
+     respiratory failure with hypoxia, intubated.  Evaluation for effusion,
+     infiltrate, ET tube placement.
+     
+     COMPARISON:  Semi-upright AP portable chest x-ray of [**3130-12-7**].
+     
+     TECHNIQUE:   Semi-upright AP portable chest x-ray.
+     
+     FINDINGS:  The endotracheal tube remains in satisfactory position.  The tip of
+     the nasogastric tube remains in the fundus.  There is marked left ventricular
+     enlargement, with likely slight worsening of the upper zone redistribution of
+     the pulmonary vessels.  This appearance suggests mild pulmonary edema, worse
+     since the prior study.  There is persistent left lower lobe atelectasis or
+     consolidation, and an adjacent left pleural effusion cannot be excluded on the
+     left.  Similar bilateral peripheral nodular densities, consistent with
+     granulomas, are again identified and appear unchanged.  There is no evidence
+     of pleural effusion on the right, and no pneumothorax.
+     
+     IMPRESSION:
+     
+     1)  Evidence of possible CHF with mildly worsening pulmonary edema.
+     
+     2)  Persistent left lower lobe atelectasis or consolidation.
+     
+
+",,
+14114,6450,17550,0,3130-12-08 06:11:00 EST,3130-12-08 06:13:00 EST,978,"N",69,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt remain intubated and on vent support, Bs coares Bilateral, deacreased at base, Sx mod theick whit secretion, NO ABG this am, RSIB abourted due to leak of spont respiration, cont to wean as tol.
+",,
+14114,6450,17550,0,3130-12-08 06:28:00 EST,3130-12-08 06:35:00 EST,830,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT SEDATED ON FENT/VERSED DRIPS. RESPONDS TO STIMULI, MAE, OPENS EYES, SEEMS TO UNDERSTAND SIMPLE COMMANDS. PEARL.
+
+RESP: PT REMAINS INTUB/VENT, NO VENT CHG'S OVERNIGHT, LUNG SOUNDS COARSE BILATERAL, SX FOR SM AMT'S OF THICK WHITE. O2SAT'S HIGH 90S'. 
+
+CV: HR NSR RATES 50'S TO 70'S, BP WITHIN NORMAL LIMITS. BECOMES HYPERTENSIVE WITH STIMUALTION. AFEBRILE. NOT OVER BREATHING THE VENT.
+
+GI: PT HAS OGT, NOT FEEDING AT PRESENT. PT HAS OBESE ABDOMEN WITH POS BOWEL SOUNDS. NO STOOL OVERNIGHT.
+
+GU: PT HAS FOLEY CATH DRAINING ONLY 20CC/HR AMBER URINE. FLUID BOLUS X1 WITH NO RESPONSE. IV FLUID INF AT 100/HR.
+
+SKIN: INTACT. DOES HAVE DISCOLORED LEFT KNEE WITH OPEN SORE.
+
+LYTES: MAG AND K REPLETED THIS AM.
+
+SOCIAL: HAVE NOT HEARD FROM ANY FAMILY OVERNIGHT.
+",,
+14114,6450,17550,0,3130-12-08 17:22:00 EST,3130-12-08 17:35:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN  0700 -1900
+
+NEURO:LIGHTLY  SEDATED ON FENTYNAL AND VERSED, REDUCED FENTYNAL TO 60MCG /HR .PT AROUSES EASILY  DURING CARE AND BITES ON ETT , EVEN W/BITE BLOCK IN PLACE. WILL NOT FOLLOW COMMANDS ,DOES NOT TRACK.REQUIRED BOLUSES OF SEDATION DURING CARE AND WHEN AT CT SCAN. PT WAS SCANNED FOR R/O CVA/BLEED .PRELIMINARY RESULTS WERE NEG.
+
+RESP: ON A/C  12 X 550  40% 8 OF PEEEP.ABG ON THIS SETTING WAS 7.48/38/99. RATE WAS REDUCED TO 8 TO ALLOW FOR CO2 TO RISE .WILL NEED REPEAT GAS LATER THIS EVENING.LUNGS REMAIN CLEAR AND SATS 98-100%.SUCTION FOR SM AMT WHITE SECRETIONS.
+
+C/V:SR NO VEA, BP STABLE 1 TEENS-120'S.
+
+F/E/N: RECIEVED 750CC OF NSS BOLUS FOR LOW UO. NO RESPONSE TO BOLUS . HO AWARE.REPLETED K+ OF 2.8 W/ 40MEQ IV AND 40 MEQ PO. WILL RECIEVE AND ADDITIONAL 40 PO. NUTRTION CONSULT WAS ORDERED ?? START TF.NO STOOL THIS SHIFT.
+
+PLAN: CONT MECH VENT, WEAN SEDATION AS TOL, MONITOR UO , HEMODYNAMICS, EMOTIONAL SUPPORT FOR FAMILY. 
+
+
+",,
+14114,6450,17550,0,3130-12-08 18:29:00 EST,3130-12-08 18:31:00 EST,1077,"N",69,"Nursing/Other","resp. care note","
+resp. care note
+patien remains intubated/sedated/vented. ph 7.48 so 
+resp. rate was decreased to 8 in hopes pc02 would rise
+and pt. would breath above set rate, and at times she
+has. when awake she bites on ett with bite block in place.
+transported to head ct without incident. see careview for
+more.
+",,
+14114,6450,17550,,3130-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-9**] 8:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6461**]
+     Reason: ET tube placement                                           
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 yo F w/ PNA by last CXR, hypercapneic respiratory failure, hypoxia,  
+      intubated.
+     REASON FOR THIS EXAMINATION:
+      ET tube placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypercapneic respiratory failure and hypoxia. Endotracheal tube
+     placement.
+     
+     TECHNIQUE: Single portable AP view of the chest was obtained, compared with
+     the examination performed yesterday.
+     
+     FINDINGS: Again, an endotracheal tube is present, with the tip approximately 5
+     cm above the carina. There is an NG tube present, which curls within the
+     stomach and extends toward the GE junction. There is persistence of
+     retrocardiac opacity which is worse than on the prior examination. The right
+     hemithorax in the left upper and midlungs zones appears grossly unchanged. The
+     cardiac silhouette is unchanged since the prior examination, and no new bony
+     abnormalities are noted.
+     
+     IMPRESSION:
+     1. Tip of endotracheal tube 5 cm above the carina.
+     2. Feeding tube terminates below diaphgram, but tube curls within the stomach
+     and the tip is extending back toward the GE junction.
+     3. Worsening of retrocardiac collapse/consolidation. Pleural effusion cannot
+     be excluded in the left retrocardiac region.
+
+",,
+14114,6450,17550,0,3130-12-09 01:46:00 EST,3130-12-09 01:50:00 EST,6152,"N",69,"Nursing/Other",,"
+
+accepted pt at 1900, sedated and vented. Pt in sinus rhythm and afebrile. Lungs clear but dim in bases. A line intact, leveled and zero'd. Started Promote with fiber at midnight at 10cc which is goal at this time. 
+
+Urine output low at 20-30 cc q hr. Meds given PT. See flow sheet for detailed assessment.
+",,
+14114,6450,17550,0,3130-12-09 06:19:00 EST,3130-12-09 06:21:00 EST,6152,"N",69,"Nursing/Other",,"
+
+Weaned Versed gtt off this am. Pt comfortable during nite. 
+
+Assessment remains essenitally unchanged. Increased saliva from mouth. VSS, afebrile. Continued on tube feed. See flow sheet for detailed assessment.
+",,
+14114,6450,17550,0,3130-12-09 06:45:00 EST,3130-12-09 06:46:00 EST,978,"N",69,"Nursing/Other",,"
+
+Respiratory Care.
+Pt remain intubated , no vent change overnight.SX thick tan/yealow secretion, BS coares. No am ABG.
+",,
+14114,6450,17550,0,3130-12-09 18:46:00 EST,3130-12-09 19:04:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #3","
+MICU/SICU NPN HD #3
+S/O:
+
+Neuro: pt remains sedated on propofol, no independent movement of extremities noted, MRI of head ordered, checklist completed
+
+Resp: remains intubated on PSV 10+5/0.40, last ABG 7.36/58/100, LS coarse, dim at bases, suctioned x2 for scant seretions
+
+CV: pt becomes hypertesive when sedation lightened, please see flowsheet for data
+
+Skin: C//W/D/I
+
+GI/GU: abd is obese, soft, nontender, BS are hypoactive, tolerating Promote with fiber at 30cc/h via OGT, Foley patent for clear yelow urine in adequate amts
+
+Lines: right radial art line day #3, #20 angio right AC day #1, #20 angio left hand day #2
+
+A:
+
+high risk for infection r/t ETT, indwelling catheter
+risk for altered breathing r/t artificial airway
+
+P:
+
+continue to monitor hemodynamic/respiratory status, contiue to wean resp support as tolerated, MRI of head ordered, contnine nutritional support as reccomended
+",,
+14114,6450,17550,0,3130-12-09 20:29:00 EST,3130-12-09 20:37:00 EST,6152,"N",69,"Nursing/Other",,"
+
+Accepted pt at 1900. Family at bedside, daughter [**First Name8 (NamePattern2) 427**] [**Last Name (NamePattern1) 5719**] took home the pt's gold earrings, gold watch and 2 partial plates. 
+
+Pt is sedated on propofol, [**Last Name (un) 3846**] 3, grimaces to pain.
+Lungs coarse and dim in bases, on ventilation support, tongue has healing lac. at tip from [**12-8**].
+
+Pt is sinus rhythm, art line intact, leveled and zero'd. BP and temp stable. PIV L hand has some serous drainage at site, no s/s of infilt or infection (no redness) Generalized edema, no breakdown.
+
+OGT intact and checked with air bolus. Promote with fiber now at 40 cc q hr-goal 60cc. 20 cc residual at this time. Pos BS-. Checked FS glucose per protocol at 2000 (123)
+
+Foley intact, 30 cc q hr clear yellow.
+
+Plan: MRI [**12-10**], and hope to extubate if pt meets criteria.
+
+See flowsheet for detailed assessment and vital signs
+",,
+14114,6450,17550,,3130-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-10**] 9:55 AM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6463**]
+     Reason: better evaluate posterior fossa.  CT results - ""dec. attenua
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with found unresponsive with hypercarbia.  ? CNS etiology     
+     REASON FOR THIS EXAMINATION:
+      better evaluate posterior fossa.  CT results - ""dec. attenuation within the 
+      basal ganglia"".
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     MR OF THE HEAD
+     
+     INDICATION:  77 year-old female found unresponsive with hypercarbia.
+     Questionable cerebral vascular accident.  Rule out intracrainal hemorrhage.
+     
+     TECHNIQUE:  Multiplanar T1 T2, FLAIR, susceptibility, and diffusion-weighted
+     imaging of the brain was performed.
+     
+     FINDINGS:  Sagittal T1 weighted images reveal posterior vertebral pannus
+     formation at C1-C2, with prominent compression of the spinal cord as it exits
+     the foramen magnum.  There is no intracranial mass lesion, hydrocephalus, or
+     shift of normally midline structures.  The ventricles are normal in size and
+     configuration.  Multiple areas of increased T2 signal are visualized
+     bilaterally in the periventricular white matter, and in the basal ganglia,
+     consistent with chronic lacunar infarcts. There are no susceptibility
+     artifacts to indicate the presence of blood products there are no
+     hyperintensities on diffusion weighted imaging to indicate acute infarction.
+     The major vascular flow patterns are normal.
+     
+     IMPRESSION:  Posterior vertebral pannus formation C1-C2, with
+     compression/stenosis of the spinal cord as it exits the foramen magnum.
+     Correlate clinically.  No evidence of intracranial hemorrhage, or minor or
+     major vascular territorial infarction.  Chronic lacunar infarcts.
+     
+     
+
+",,
+14114,6450,17550,,3130-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-10**] 8:45 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6462**]
+     Reason: ET tube placement                                           
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 yo F w/ PNA by last CXR, hypercapneic respiratory failure, hypoxia,   
+      intubated.
+     REASON FOR THIS EXAMINATION:
+      ET tube placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 77 y/o female, pneumonia by last chest x ray. Respiratory failure
+     and hypoxia. Intubated.
+     
+     TECHNIQUE: Portable AP chest radiograph.
+     
+     Comparison is made with the prior chest radiograph dated [**3130-12-9**].
+     
+     FINDINGS: The ETT, NG tube remain in place compared to the prior study. Again
+     note is made of cardiomegaly with marked LV enlargement. Mediastinal and hilar
+     contours are unchanged compared to the previous study. Note is made of mild
+     upper zone redistribution of pulmonary vasculature. Again note is made of
+     bilateral pleural effusions, with left lower lobe consolidation vs.
+     atelectasis, worsened compared to the prior study. No evidence of pneumothorax
+     is noted on this chest x ray. Left costophrenic angle is not included.
+     
+     IMPRESSION: ETT remain in place. Cardiomegaly with CHF. Worsening left lower
+     lobe consolidation vs. atelectasis with effusion.
+
+",,
+14114,6450,17550,,3130-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-10**] 11:11 PM
+     CT NECK W/O CONTRAST (EG: PAROTIDS); CT RECONSTRUCTION          Clip # [**Clip Number (Radiology) 6465**]
+     Reason: C1 and C2 cord compression? pt could not tolerate MRI       
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with myelopathy                                               
+     REASON FOR THIS EXAMINATION:
+      C1 and C2 cord compression? pt could not tolerate MRI                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: 77 year old found down and now with myelopathy, assess for cord
+     compression.  Patient was unable to tolerate MRI.
+     
+     TECHNIQUE: CT of the neck without IV contrast.  Coronal and sagittal
+     reformatted images were obtained.
+     
+     FINDINGS:
+     Marked degenerative changes are seen at the C1-2 interspace with a pannus that
+     creates a mass, severely narrowing the cervical spinal canal. Degenerative
+     changes are also noted of the atlantoaxial space.  On the coronal reformat
+     views, there is asymmetry of the atlantodental space, probably related to the
+     position of the neck.  Vertebral body alignment appears grossly preserved.
+     Facet arthropathy is seen at all levels.  Severe narrowing of the spinal canal
+     is also present at C4-5.  Spinal canal narrowing is seen to a lesser extent at
+     multiple other levels within the cervical spine.  The prevertebral soft
+     tissues are normal. There is prominent midline position of the carotid
+     arteries and internal jugular veins in the mid-neck.. The upper lung fields
+     are clear.
+     
+     IMPRESSION:
+     Severe degenerative changes throughout the cervical spine and severe spinal
+     stenosis at C1-2 and at C4-5.
+
+",,
+14114,6450,17550,,3130-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-10**] 11:11 PM
+     CT NECK W/O CONTRAST (EG: PAROTIDS); CT RECONSTRUCTION          Clip # [**Clip Number (Radiology) 6465**]
+     Reason: C1 and C2 cord compression? pt could not tolerate MRI       
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with myelopathy                                               
+     REASON FOR THIS EXAMINATION:
+      C1 and C2 cord compression? pt could not tolerate MRI                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: 77 year old found down and now with myelopathy, assess for cord
+     compression.  Patient was unable to tolerate MRI.
+     
+     TECHNIQUE: CT of the neck without IV contrast.  Coronal and sagittal
+     reformatted images were obtained.
+     
+     FINDINGS:
+     Marked degenerative changes are seen at the C1-2 interspace with a pannus that
+     creates a mass, severely narrowing the cervical spinal canal. Degenerative
+     changes are also noted of the atlantoaxial space.  On the coronal reformat
+     views, there is asymmetry of the atlantodental space, probably related to the
+     position of the neck.  Vertebral body alignment appears grossly preserved.
+     Facet arthropathy is seen at all levels.  Severe narrowing of the spinal canal
+     is also present at C4-5.  Spinal canal narrowing is seen to a lesser extent at
+     multiple other levels within the cervical spine.  The prevertebral soft
+     tissues are normal. There is prominent midline position of the carotid
+     arteries and internal jugular veins in the mid-neck.. The upper lung fields
+     are clear.
+     
+     IMPRESSION:
+     Severe degenerative changes throughout the cervical spine and severe spinal
+     stenosis at C1-2 and at C4-5.
+
+",,
+14114,6450,17550,,3130-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-10**] 8:26 PM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 6464**]
+     Reason: C-spine with STIR as per neurosurgery                       
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman found unresponsive with ?cord compresson  and positive neuro 
+      exam (myelopathy) at C1-C2 due to pannus seen on head MR today.
+     REASON FOR THIS EXAMINATION:
+      C-spine with STIR as per neurosurgery                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR CERVICAL SPINE [**3130-12-10**].
+     
+     HISTORY:  Found unresponsive with myelopathy.  C1-2 pannus is seen on head
+     imaging studies.
+     
+     The images are severely degraded by motion artifact.  Sagittal long TR, long
+     TE, STIR, and short TR, short TE spin echo imaging was attempted along the
+     axial gradient echo and fast spin echo imaging.  Due to the severity of
+     motion artifact, the study is non-diagnostic.  It is adequate to demonstrate
+     that there is pannus posterior to the odontoid.  This compresses the
+     cervicomedullary junction at the C1-2 level.  Extensive degenerative disease
+     from C3 through C6 also narrows the cervical canal and appears to compress the
+     spinal cord.  The study is not adequate to evaluate the signal intensity of
+     the spinal cord.  However, there appears to be hyperintensity at the
+     cervicomedullary junction.  The study should be repeated when the patient can
+     remain motionless.  This is compared to the head CT examination of [**12-8**].
+     
+     CONCLUSION:  Technically limited study due to motion artifact.  Pannus
+     formation at C2 with compression of the cervicomedullary junction.
+     Degenerative disc disease from C3 through C6 with spinal cord compression.  A
+     repeat examination should be performed when the patient can remain motionless.
+
+",,
+14114,6450,17550,0,3130-12-10 04:50:00 EST,3130-12-10 04:53:00 EST,540,"N",69,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details.Suctioned for mod amts thick tan secretions. MDI'S given. Weaning propofol. Biting on ett @ times.RSBI done on 0 peep/5 ips 26. Will cont to monitor resp status. 
+",,
+14114,6450,17550,0,3130-12-10 06:10:00 EST,3130-12-10 06:15:00 EST,6152,"N",69,"Nursing/Other",,"
+
+Pt rec a bath at 0600. Tolerated well. Propofol down to 10 cc. Pt remains on CPAP and tolerating well. Plan to take pt to MRI today because CT of head was non conclusive. 
+
+Pt is more awake this am with propofol titrated down. She does not follow commands but attempts to put hands to ETT. 
+
+LH IV infiltrated this am and DC'd
+
+The vital signs have been stable, afebrile.
+Lungs coarse and suctioned moderate light tan during nite.
+Tube feeds up to 50cc-goal 60cc, 10cc residual (Promote fiber)
+
+See flow sheet for detailed assessment.
+",,
+14114,6450,17550,0,3130-12-10 16:53:00 EST,3130-12-10 17:11:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #4","
+MICU/SICU NPN HD #4
+Events: MRI of head this AM, successfully extubated this PM
+
+S/O:
+
+Neuro: pt is alert but nonverbal, moving upper extremities to remove oxygen and swing at staff, unable to adequately assess pain or orientation due to inabililty to communicate with pt
+
+Resp: successfully extubated this PM, LS are coarse, #7 NPA in right nare, Sp 94-98% on 100% CN face tent
+
+CV: HR 87-103 SR/SR withut notable ectopy, BP 113-154/49-78, please see flowsheet for data
+
+Skin: pale, C/W/D/I
+
+GI/GU: abd is softly distended, BS are hypoactive, NPO, Foley patent for clear yellow urine in adequate amts
+
+Lines: right radial art line day #3, #20 angio right AC day #2
+
+A:
+
+high risk for injury r/t agitation
+risk for infection r/t indwelling catheter
+
+P:
+
+contniue to monitor hemodynamic/respiratory status, activity progression, assess gag & cough and attempt clear liquids in AM then ADAT if gag adequate, consider transfer to medical bed in the next day
+",,
+14114,6450,17550,0,3130-12-10 19:00:00 EST,3130-12-10 19:02:00 EST,1008,"N",69,"Nursing/Other","Addendum to NPN","
+Addendum to NPN
+Pt seen by neurosurgery for C1-2 compression of unknown etiology. Pt placed in cervical collar. Maintain spinal precautions until cleared by neurosurgery.
+",,
+14114,6450,17550,0,3130-12-11 06:37:00 EST,3130-12-11 06:58:00 EST,6173,"N",69,"Nursing/Other",,"
+
+Shift Update-
+
+Neuro- Pt is primarily Portugeuse speaking but seems to understand some English. Pt occasionally will answer questions and seems to follow simple commands with L arm. Pt is also able to lift legs off of the bed. No commands followed with R arm. Neurosurgery @bs with pt last night. [**Location (un) 14**] J collar on and intact.
+
+Resp- Pt is on 3L NC and O2 sats are 95-98%. Lungs with coarse bs and very diminished bases.
+
+Cardiac- HR 90-130, SBP 110-130, SR to ST without ectopy.
+
+GI- NPO. Abdomen is soft and rounded(obese) with hypoactive bs.
+
+GU- Clear, yellow urine per foley.
+
+Pain- Pt denied pain throughout the night
+
+Skin- Intact. Arms swollen and elevated on pillows overnight.
+
+Family- Pts son @ bs earlier in night updated on pts condition.
+
+* Cervical MRI done overnight
+* Head CT done overnight.
+
+Plan- better IV access needed
+      Results from MRI's and CT scan
+      
+
+",,
+14114,6450,17550,0,3130-12-11 18:29:00 EST,3130-12-11 18:39:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #5","
+MICU/SICU NPN HD #5
+S: ""[**Doctor Last Name 1474**]""
+
+O:
+
+Neuro: pt is alert, agitated at times, disoriented, calling out incomprehensible and inappropriate words at times, seen by neurosurgery and psychiatry today, remains on bedrest and c-spine precautions maintained
+
+Pulm: LS coarse, dim at bases, SpO2 94-99% on 2L NP
+
+CV: AVSS, please see flow sheet for data
+
+Integ: multiple eccymoses from recent needle sticks, otherwise C/D/I
+
+GI/GU: abd softly distended, BS present, BS present, FOley patent for clear yellow urine in adequate amts
+
+A:
+
+high risk fo injury r/t agitation, spinal compression
+high risk for aspiration r/t c-spine immobolization
+risk for infection r/t indwelling cathether
+
+
+P:
+
+continue to monitor hemodynamic/respiratory status, maintain c-spine immobilizaton, transfer to medical bed when available, initiate d/c planning
+",,
+14114,6450,,,3130-12-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-14**] 6:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6466**]
+     Reason: Please evaluate for worsening or resolution of infiltrate.  
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         77 yo F w/ PNA by last CXR, hypercapneic respiratory failure, hypoxia, who 
+      is desating at night. 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for worsening or resolution of infiltrate.                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hypoxia.
+     
+     AP CHEST, 1 VIEW:  Comparison is made to [**3130-12-10**].  The current study is
+     slightly limited by respiratory artifact.
+     
+     The ET tube and NG tube have been removed since the prior exam.  The heart and
+     mediastinal contours are without significant change.  Allowing for supine
+     technique, there is equivocal mild vascular congestion, but no overt CHF.
+     There is a probable calcified granuloma in the right upper lobe, unchanged.
+     Calcified hilar lymph nodes are also identified.  There is increased opacity
+     at the left base and in the left retrocardiac region, unchanged, representing
+     atelectasis/pneumonia with possible associated small effusion.  No focal areas
+     of consolidation are seen on the right, and there is no definite right
+     effusion.
+
+",,
+14114,6450,,,3130-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-15**] 3:59 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6467**]
+     Reason: Please evaluate for interval progression in patient's AAA.  
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 46
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with h/o demential with pscyhosis, paroxysmal atrial 
+      fibrillation and h/o AAA 5.2 cm in diameter. 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for interval progression in patient's AAA.                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of dementia with psychosis, paroxysmal atrial
+     fibrillation and history of abdominal aortic aneurysm.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed
+     without administration of intravenous contrast.
+     
+     CT of the abdomen without intravenous contrast:  The visualized lung bases
+     demonstrate minor atelectatic changes.  The unenhanced images of the liver,
+     spleen, gallbladder, adrenals, kidneys, pancreas, and unopacified loops of
+     large and small bowel are unremarkable.  There is no mesenteric or
+     retroperitoneal adenopathy.  Atherosclerotic vascular calcification was
+     demonstrated in the abdominal aorta and iliac arteries.  There is no free air
+     or free fluid.
+     
+     CT of the pelvis without intravenous contrast:  A small amount of air is
+     demonstrated within the bladder.  The sigmoid, rectum, and distal ureters are
+     unremarkable.  There is no aneurysmal dilatation of the aorta seen.  There are
+     2 adjacent low attenuation right adnexal cyst.  The largest cyst measures 6.1
+     x 4.8 cm.  The smaller cyst measures 3.2 x 3.5 cm.  There is no pelvic or
+     inguinal lymphadenopathy.
+     
+     Bone windows:  There are no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     
+     1.  No evidence of abdominal aortic aneurysm.
+     2.  Two adjacent right adnexal cysts, the largest of which measures 6.1 cm.
+     Given the size and the patient's age, further characterization of the cyst
+     with dedicated pelvic ultrasound is recommended.
+     3.  Small amount of air within the bladder, which could be related to history
+     of recent manipulation.  Recommend clinical correlation.
+     
+                                                                 (Over)
+
+     DATE: [**3130-12-15**] 3:59 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6467**]
+     Reason: Please evaluate for interval progression in patient's AAA.  
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 46
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14114,6450,,,3130-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-15**] 3:59 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6467**]
+     Reason: Please evaluate for interval progression in patient's AAA.  
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 46
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with h/o demential with pscyhosis, paroxysmal atrial 
+      fibrillation and h/o AAA 5.2 cm in diameter. 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for interval progression in patient's AAA.                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of dementia with psychosis, paroxysmal atrial
+     fibrillation and history of abdominal aortic aneurysm.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed
+     without administration of intravenous contrast.
+     
+     CT of the abdomen without intravenous contrast:  The visualized lung bases
+     demonstrate minor atelectatic changes.  The unenhanced images of the liver,
+     spleen, gallbladder, adrenals, kidneys, pancreas, and unopacified loops of
+     large and small bowel are unremarkable.  There is no mesenteric or
+     retroperitoneal adenopathy.  Atherosclerotic vascular calcification was
+     demonstrated in the abdominal aorta and iliac arteries.  There is no free air
+     or free fluid.
+     
+     CT of the pelvis without intravenous contrast:  A small amount of air is
+     demonstrated within the bladder.  The sigmoid, rectum, and distal ureters are
+     unremarkable.  There is no aneurysmal dilatation of the aorta seen.  There are
+     2 adjacent low attenuation right adnexal cyst.  The largest cyst measures 6.1
+     x 4.8 cm.  The smaller cyst measures 3.2 x 3.5 cm.  There is no pelvic or
+     inguinal lymphadenopathy.
+     
+     Bone windows:  There are no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     
+     1.  No evidence of abdominal aortic aneurysm.
+     2.  Two adjacent right adnexal cysts, the largest of which measures 6.1 cm.
+     Given the size and the patient's age, further characterization of the cyst
+     with dedicated pelvic ultrasound is recommended.
+     3.  Small amount of air within the bladder, which could be related to history
+     of recent manipulation.  Recommend clinical correlation.
+     
+                                                                 (Over)
+
+     DATE: [**3130-12-15**] 3:59 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6467**]
+     Reason: Please evaluate for interval progression in patient's AAA.  
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 46
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14114,6450,,,3130-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-12-19**] 10:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6468**]
+     Reason: Please evaluate for infiltrate, PNA, or CHF, pneumothorax.  
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          77 yo F w/ PNA by last CXR, h/o hypercapneic respiratory failure, hypoxia, 
+      now c/o of difficulty breathing.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrate, PNA, or CHF, pneumothorax.                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE UPRIGHT CHEST [**3130-12-19**] Compared to [**3130-12-14**].
+     
+     CLINICAL INDICATION:  Difficulty breathing.
+     
+     The heart is enlarged but stable.  The aorta is tortuous.  There are calcified
+     lymph nodes in the AP window and left hilum and there are calcified granulomas
+     in the left mid and right upper lung zones.  These findings, as well as an
+     area of right apical thickening are stable.  The lungs demonstrate no focal
+     areas of consolidation.  No definite pleural effusions are identified on the
+     single projection.
+     
+     As compared to the recent study, there is improved visualization of the left
+     retrocardiac area.
+     
+     IMPRESSION:  No definite pneumonia.  Standard PA and lateral chest radiographs
+     may be helpful for a more complete assessment is symptoms persist.
+
+",,
+14114,,,,3131-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-3-13**] 11:52 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 6469**]
+     Reason: dx:cervical stenosis/sda, proc:laminectomy cervical posterio
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      dx:cervical stenosis/sda
+      proc:laminectomy cervical posterior
+      occipital cervical fusion c1-c2
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preoperative cervical stenosis.
+     
+     COMPARISON:  [**3130-12-19**]
+     
+     TECHNIQUE:  PA AND LATERAL, CHEST.
+     
+     FINDINGS:
+     
+     The heart is enlarged, but stable.  The aorta is tortuous.  There are
+     calcified lymph nodes in the AP window and left hilum as well as a calcified
+     granuloma of the right upper lung and left mid lung zone.  These findings are
+     stable.  The lungs are clear, without vascular congestion or infiltrates. 
+     There is slight prominence to the right hilum that is relatively unchanged. 
+     No definite pleural effusions.
+     
+     IMPRESSION:
+     
+     Stable appearance of the chest.  Mild cardiomegaly and tortuous aorta. 
+     Calcified granulomas and lymph nodes are unchanged.
+                                                                           
+
+",,
+14114,,,,3131-03-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-3-20**] 12:06 PM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 6470**]
+     Reason: follow-up assessment occiput through cervical spine; plannin
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with cervical stenosis
+     REASON FOR THIS EXAMINATION:
+      follow-up assessment occiput through cervical spine; planning surgery
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CERVICAL SPINE MRI [**3131-3-20**].
+     
+     INDICATION:  Cervical stenosis, follow-up assessment, planning surgery.
+     
+     TECHNIQUE:  Sagittal T1- and T2-weighted scans of the cervical spine were
+     obtained and axial gradient echo and T2-weighted images are provided.
+     
+     Comparison is made to the previous cervical spine MRI of [**3130-12-10**].
+     
+     FINDINGS:
+     
+     As noted on the previous exam, there is marked pannus formation at the C1
+     articulation, which results in compression of the cervicomedullary junction.
+     Axial images were not obtained through this area on the current exam.
+     
+     There is marked motion artifact on the axial images.  Spondylosis is also
+     identified at the C3-4, C4-5, C5-6, and C6-7 levels.  At C3-4, C4-5 and C5-6,
+     there appears to be at least moderate spinal canal narrowing.
+     
+     The upper-thoracic canal is normal in caliber.
+     
+     IMPRESSION:  Limited examination.  Again noted is cervicomedullary compression
+     from pannus formation at the C1-2 articulation.  There is also cervical spinal
+     stenosis at other levels, but unfortunately visualization is not improved,
+     compared to the previous study.
+
+",,
+14114,,,,3131-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 6471**]
+     Reason: SOB, PREOPERATIVE EVALUATION.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Shortness of breath, preoperative evaluation.  Asses for suspected 
+     cardiovascular disease. 
+      
+     SUMMARY OF THE PRELIMINARY REPORT FROM THE EXERCISE LAB: 
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142 
+     mg/kg/min.  No EKG changes or symptoms were present during the procedure. 
+      
+     INTERPRETATION: 
+     Two minutes after the cessation of infusion, Tc-99m sestamibi was administered
+     IV.  
+     Image Protocol: Gated SPECT. 
+     Resting perfusion images were obtained with thallium-201. 
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+     This study was interpreted using the 17-segment myocardial perfusion model. 
+      
+     Left ventricular cavity is normal. 
+     Rest and stress perfusion images reveal uniform tracer uptake throughout the
+     myocardium. 
+      
+     Gated images reveal normal wall motion. 
+     The calculated left ventricular ejection fraction is 73%.   
+      
+     No prior studies are available for comparison. 
+      
+     IMPRESSION:  1) Normal myocardial perfusion.  2) Normal left ventricular cavity
+     size and function. 
+     /nkg 
+                                                                           
+
+             [**First Name8 (NamePattern2) 1128**] [**Last Name (NamePattern1) **], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1218**] [**Last Name (NamePattern1) 1219**], M.D.     Approved: WED [**3131-4-1**] 1:23 PM
+
+
+             Date Mailed: [**3131-4-2**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+14114,6391,,,3131-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-5-12**] 2:17 PM
+     C-SPINE NON-TRAUMA [**3-12**] VIEWS IN O.R.                            Clip # [**Clip Number (Radiology) 6472**]
+     Reason: CERVICAL LAMINECTOMY POSTERIOR W/ OCCIPITAL CERVICAL FUSION C1-4
+     Admitting Diagnosis: CERVICAL STENOSIS/SDA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cervical spine fusion.
+     
+     A single operative cross table lateral radiograph of the cervical spine is
+     markedly suboptimal due to bedside techniques and overlying metallic hardware.
+     Spine is visualized only to the top of C5.  There are posterior lateral mass
+     screws at C3, C4, C5, and possibly C6.  Additionally, there are screws and a
+     plate across the occipital bone.
+
+",,
+14114,6391,,,3131-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-5-12**] 7:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6473**]
+     Reason: post intubation                                             
+     Admitting Diagnosis: CERVICAL STENOSIS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      post intubation                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  77-year-old woman with respiratory failure, recent intubation.
+     
+     COMPARISON:  [**3131-3-13**].
+     
+     SINGLE SUPINE AP PORTABLE CHEST X-RAY:  The right costophrenic angle is
+     excluded from the study.  Cardiac, mediastinal, and hilar contours remain
+     unchanged.  Again, noted are calcified lymph nodes in the left hilar region
+     and in the right upper lobe.  The left pleural effusion has increased, and
+     there is left lower lobe atelectasis.  An endotracheal tube has been placed,
+     and a nasogastric tube is seen coursing below the diaphragm.  It takes a
+     circuitous leftward route through the thorax, which may indicate a hiatal
+     hernia or left atrial enlargement. Cervical fusion hardware and overlying
+     staples in the neck are seen.
+     
+     IMPRESSION:
+     
+     1)  Satisfactory ETT position.
+     
+     2)  Left lower lobe atelectasis and increasing left pleural effusion, small.
+     
+     
+     
+     
+
+",,
+14114,6391,17551,0,3131-05-12 16:08:00 EST,3131-05-12 16:17:00 EST,3952,"N",53,"Nursing/Other",,"
+
+See carevue for objective data.
+
+Pt admitted directly from the OR. See history ICU admit sheet for PMH details.
+S/P C1-C6 laminectomy with C3-C6 fusion(posterior approach). Arrived with Aspen collar intact and sedated and pt was not reversed. Proprofol wean and dc'd. Pt does not need to be logrolled and HOB elevated to 30 degrees. Aspen collar to remain at all times.
+No drains.
+Intubated. See flowsheet for current settings. PMH of hypercarbia and PCO2 of 50-55 acceptable for pt. Bilateral clear breath sounds.
+OGT to LICWS. No bowel sounds as of yet. PO meds held until bowel sounds present.
+NSR/SB without ectopy. BP non-labile. Bair hugger for initial low temp.
+Poor urine output during case and currently. Will monitor. Chem 10 pending at this time.
+Family in and updated.
+Pt is a Jehovah witness/Portuguese speaking.
+Monitor neuros Q1H,allow pt to waken, wean to extubate and pain control.
+
+
+",,
+14114,6391,17551,0,3131-05-12 17:12:00 EST,3131-05-12 17:15:00 EST,6693,"N",53,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received from OR and placed on CMV as noted. Pt intubated with a 7.0ETT taped at 21cm at lip. BS are clear bilaterally with good aeration. FIO2 weaned according to ABG's. Propafol being weaned and pt is lightening up. Plan to keep pt intubated overnight and mechanically ventilated.
+",,
+14114,6391,17551,,3131-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-5-13**] 10:45 AM
+     C-SPINE NON-TRAUMA [**3-12**] VIEWS PORT                               Clip # [**Clip Number (Radiology) 6474**]
+     Reason: post-op films in collar                                     
+     Admitting Diagnosis: CERVICAL STENOSIS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with h/o cervical disc herniation.                            
+     REASON FOR THIS EXAMINATION:
+      post-op films in collar                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Postop fusion.
+     
+     AP and lateral views of the cervical spine are suboptimal due to bedside
+     supine technique.  Spine is visualized only to the level of C5 in lateral
+     projection.  There is posterior osseous fusion of screws in the lateral masses
+     of C2, C3, C4, and C5 with posterior rods extending to the occipital level
+     where there are 2 additional screws into the calvarium.  I cannot assess C1. 
+     Posterior vertical skin staples and ET tube.  Lung apices clear.  This patient
+     has no preoperative radiographs for comparison on PACS.
+                                                                           
+
+",,
+14114,6391,17551,0,3131-05-13 03:43:00 EST,3131-05-13 03:49:00 EST,4271,"N",53,"Nursing/Other","nursing note","
+nursing note
+Neuro: Periods of agiation assoc with tachycardia and htn to 180's., propofol increased but results with apnea. MD aware and precedex started and prop discontined. Pt calmer, opens eyes to voice. Incision with serous drng and swelling- ? [**Name8 (MD) 5720**] MD aware and in to assess.  afebrile. moving all extrem, following commands to lift extrem off bed. helpful with turns and using upper body.
+CV:SR, tachy as above. BP labile iwth agitation.  NS with 20 KCL- [**Name8 (MD) 17**] MD -leave K in IVF despite K 4.5 
+RESP:LS coarse, pt attempt to self extubate x1. thick [**Last Name (un) 1181**] secretions. Changed to CPAP -some apnea, awaiting reattempt this AM. CXR done. 
+GI:oGT for meds, +placement by ausculation. no BM. NPO.
+GU:foley patent clear yellow urine, bordeline u.o
+SKIN: incision as above, otherwise intact.
+SOCIAL:no contact thus far with family.
+
+PLAN: cont neuro checks, precedix, ? extubation if tolerates cpap and cuff leak.  ? swallow consult.  monitor incsion and swelling. aspen AAT>
+
+",,
+14114,6391,17551,0,3131-05-13 04:06:00 EST,3131-05-13 04:08:00 EST,3681,"N",53,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds coarse suct sm th white sput. ABGs stable. Plan to wean to extub today.
+",,
+14114,6391,17551,0,3131-05-13 16:11:00 EST,3131-05-13 16:21:00 EST,4286,"N",53,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ Patient intubated on precedex this am, vent weaned, SBT done and pt was successfully extubated this afternoon with anesthesia attending and fiber optic equipment at bedside. Precedex weaned to off and pt is currently alert/confused, MAE with no obvious neuro deficits besides her baseline dementia. Pt is difficult to assess d/t language barrier but does understand/speak some english and the interpreter was by a couple times to explain the plan of care.
+ This am pt nodded yes when asked about pain and was given morphine 2mg iv with good effect and for the remainder of the day denied any discomfort.
+ Pt received meds this am down OGT and shortly there after she pulled out OGT while turning and having dressing changed. SICU resident -Dr. [**Last Name (STitle) 5721**] to check with nsurg re:?giving meds PO. 
+ NSURG changed neck dressing this am (it was saturated). Aspen collar maintained all day.
+PLAN:
+ ? transfer to pt to floor in am
+ Pulmonary toilet
+ ? safe to start PO's.
+ Notify H.O. with any changes
+",,
+14114,6391,17551,0,3131-05-14 05:12:00 EST,3131-05-14 05:13:00 EST,4271,"N",53,"Nursing/Other","nursing note","
+nursing note
+Periods of agitation and taking off collar when unrestrained, pt kept restrained for safety. neuro intact, garbled speech, per family- pt at baseline. 
+
+PLAN: cont neuro checks. transfer to floor. 
+
+  
+",,
+14114,6391,,,3131-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-5-15**] 10:43 AM
+     C-SPINE NON-TRAUMA [**3-12**] VIEWS                                    Clip # [**Clip Number (Radiology) 6475**]
+     Reason: A/P lateral post op films, prior portable films insufficient
+     Admitting Diagnosis: CERVICAL STENOSIS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with s/p post cervical fusion                                 
+     REASON FOR THIS EXAMINATION:
+      A/P lateral post op films, prior portable films insufficient                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cervical fusion.
+     
+     3 radiographs of the cervical spine again demonstrate the patient to be status
+     post occipitocervical fusion.  C1-C7 are visualized with suboptimal imaging of
+     C6 and C7.  Pedicle screws are present in C3, C4, C5, and C6.  There is loss
+     of the C3-C4 disc space height.  Degenerative endplate change and anterior
+     osteophyte formation involve all levels of the cervical spine.  No
+     spondylolisthesis. The prevertebral soft tissues are suboptimally evaluated
+     secondary to positioning. When compared to [**3131-5-13**], the endotracheal tube has
+     been removed.  Surgical staples remain in place.
+     
+     IMPRESSION:  Status post occipitocervical fusion.
+
+",,
+14114,,,,3131-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-6-25**] 12:26 PM
+     C-SPINE NON-TRAUMA [**3-12**] VIEWS                                    Clip # [**Clip Number (Radiology) 6476**]
+     Reason: A/P and lateral views to assess occipitocervical fusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with occipitocervical fusion [**5-12**]
+     REASON FOR THIS EXAMINATION:
+      A/P and lateral views to assess occipitocervical fusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post fusion.
+     
+     Three radiographs of the cervical spine again demonstrate the patient to be
+     status post occipitocervical fusion.  A fixation screw from the occipital
+     component is seen to have migrated into the posterior and inferior soft
+     tissues.  There is questionable change in configuration of the relationship
+     between the inferior aspect of the left spinal rod and the inferior most
+     pedicle screw.  The surgical staples seen on [**3131-5-15**] have been removed.
+     
+     C1 through C5 are demonstrated.  Multilevel degenerative endplate changes
+     remain similar in appearance.  Prominence of the prevertebral soft tissues is
+     unchanged.
+     
+     IMPRESSION:
+     Migration of the fixation screw from the occipital component.  Change in
+     configuration of the inferior aspect of the left spinal rod with respect to
+     the inferior most left pedicle screw.
+     
+     Multilevel spondylosis.
+                                                                           
+
+",,
+14114,17638,,,3131-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-8-12**] 1:08 PM
+     PELVIS (AP ONLY) PORT                                           Clip # [**Clip Number (Radiology) 6479**]
+     Reason: 5
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Deep sacral pressure ulcer, extending virtually to the bone.
+     Evaluate for bony destruction.
+     
+     FINDINGS:  Single portable AP view of the pelvis was obtained without
+     comparisons, demonstrating no evidence of fracture.  There is generalized
+     demineralization.  No visualized changes of osteomyelitis.  The sacrum is not
+     well visualized . No radiopaque foreign bodies.
+
+",,
+14114,17638,,,3131-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-8-12**] 2:06 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6480**]
+     Reason: eval for cva                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with change in mental status                                  
+     REASON FOR THIS EXAMINATION:
+      eval for cva                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq WED [**3131-8-12**] 2:35 PM
+      no acute hemorrhage or mass effect; no change
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Change in mental status.
+     
+     COMPARISON:  [**3130-12-8**].
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no acute hemorrhage, mass effect, or shift of normally
+     midline structures.  Foci of low density are again seen in the basal ganglia
+     bilaterally, consistent with chronic microvascular infarctions.  There is no
+     hydrocephalus.  Extensive calcifications are again seen surrounding the dens
+     at the C1-2 articulation with associated soft tissue density and stable
+     compression of the medulla and upper cervical spinal cord.
+     
+     IMPRESSION:  No acute hemorrhage or mass effect.  No interval change.
+                                                                           
+
+",,
+14114,17638,,,3131-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-8-12**] 1:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6478**]
+     Reason: eval for chf and evidence of bony destruction. Needs to be p
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with LE edema and large sacral decub                          
+     REASON FOR THIS EXAMINATION:
+      eval for chf and evidence of bony destruction. Needs to be portable.            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 78-year-old with LE edema, evaluate for CHF.
+     
+     FINDINGS:  An AP portable study of the chest show cardiomegaly, bilateral
+     pulmonary edema and bilateral pleural effusion most likely indicative of
+     congestive heart failure.  Comparison is made to prior study of [**3131-5-12**] and
+     findings appear to be more pronounced at this time.  A right subclavian CVP
+     line is in place, the tip is in the mid superior vena cava.  Since the prior
+     study, there has been removal of the ET tube and the NG tube.
+     
+     IMPRESSION:  Findings are most likely indicative of congestive heart failure. 
+     
+     
+     Right subclavian CVP line in place.
+
+",,
+14114,17638,,,3131-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-8-12**] 10:06 AM
+     C-SPINE NON-TRAUMA [**3-12**] VIEWS                                    Clip # [**Clip Number (Radiology) 6477**]
+     Reason: AP & Lat views f/u cerv laminectomy [**3131-5-12**]. Pt in stretcher.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman. Views w/collar please.
+     REASON FOR THIS EXAMINATION:
+      AP & Lat views f/u cerv laminectomy [**3131-5-12**]. Pt in stretcher.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Craniocervical fixation and cervical laminectomy.
+     
+     FINDINGS:  5 images of the cervical spine were obtained.
+     
+     Comparison is made to a prior study dated [**3131-6-25**].  The patient has
+     undergone occipitocervical fusion.  Two fixation screws from the occipital
+     component have migrated into the posterior soft tissues.  C1 through C6 are
+     visualized.  Examination is technically suboptimal due to difficulties with
+     patient positioning.  However, alignment appears grossly unchanged.  Extensive
+     multifocal degenerative changes are evident, with osteophyte formation and
+     intervertebral disk space narrowing.
+                                                                           
+
+",,
+14114,17638,17552,,3131-08-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-8-13**] 5:01 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 6481**]
+     Reason: ? Left subclavian central line placement.                   
+     Admitting Diagnosis: TACHYCARDIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with MRSA, dementia here with hypotension.                    
+     REASON FOR THIS EXAMINATION:
+      ? Left subclavian central line placement.                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate left central venous catheter placement.
+     
+     COMPARISON:  [**3131-8-12**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  Again seen is a right-sided central venous
+     catheter.  There has been interval placement of a left-sided central venous
+     catheter with the tip positioned in the proximal SVC.  The right costophrenic
+     angle is not included on this study.  Again, seen is cardiomegaly.  There has
+     been interval increase in the left-sided pleural effusion.  No pneumothorax is
+     identified.  Soft tissue and osseous structures are unchanged.
+     
+     IMPRESSION:
+     1.  Interval placement of a left-sided central venous catheter with the tip in
+     the proximal SVC.  No pneumothorax is seen.  No change in the right-sided
+     central venous catheter.
+     2.  Interval increase in the left pleural effusion.  Underlying left lower
+     lobe atelactasis or consolidation can not be excluded.
+
+",,
+14114,17638,17552,0,3131-08-13 03:40:00 EST,3131-08-13 04:14:00 EST,2353,"N",69,"Nursing/Other","ADMISSION/PROGRESS NOTE:","
+ADMISSION/PROGRESS NOTE:
+PT ADMITTED TO MICU WITH HYPOTENSION/TACHYCARDIA/GENERALIZED EDEMA AND ANASARCA. PT RECENTLY S/P OCCIPITOCERVICAL FUSION FOR CERVICAL STENOSIS. PT AT LIVING AT NSG HOME WAS SENT BY AMBULANCE FOR A SCHEDULED NEUROSURG APPT POST FUSION AND WAS FOUND TO BE EXTREMELY EDEMATOUS/ANASARCIC/AND HYPOTENSIVE AND ALSO WITH GRADE 4 DECUBITUS ON COCCYX. PT WAS SENT TO THE ED FOR FURTHER WORKUP.  IN ED PT CONT TO BE HYPOTENSIVE WITH BP IN THE 70'S TO 80'S. PT TREATED WITH FLUID. PT ALSO WITH HR IN THE 140'S AND WAS TREATED WITH LOPRESSOR WITH LITTLE EFFECT. U/O LOW AND WAS GIVEN LASIX WITH POOR RESPONSE. PT IS BEING CYCLED FOR CKS'/MB/TROPONIN, SLIGHTLY ELEV IN ED. WBC ELEV BLD CX X 2 AND WAS STARTED ON VANCO/LEVOFLOX. HCT 29.8 AND WAS ORDERED FOR 2 UNITS PRBC'S. HALF WAY THROUGH 2ND UNIT PT'S SON STATED THAT SHE WAS JEHOVAH WITNESS AND TO STOP THE TRANSFUSION.
+
+NEURO: ON ARRIVAL TO UNIT PT SCREAMING OUT IN PORTUGESE. PT NOT MOVING EXTREMETIES. ALL EXTREMETIES NOTED TO BE EXTREMELY EDEMATOUS WITH ANASARCA. NSG HOME STATES SHE IS BED BOUND AND DOESN'T MOVE. PEARL BRISKLY. PT WILL SAY A FEW WORDS IN ENGLISH. APPARENTLY THIS BEHAVIOR IS NOT MUCH DIFFERENT AT THE NSG HOME. PT MED WITH ZYPREXA TO HELP HER [**Doctor Last Name **]. HALDOL GIVEN IN ED. 
+
+CV: PT PLACED ON MONITOR AND HR TACHYCARDIC UP TO THE 140'S. BP IN 80'S TO LOW 90'S. PT RECEIVED 250CC NS BOLUS WITH NO RESPONSE. PT RECEIVED 5MG IV LOPRESSOR WITH A BRIEF RESPONSE WITH HR BREAKING DOWN INTO THE 70'S WITH FREQ NON CONDUCTED P WAVES AND PROLONG PR INTERVAL. PT WAS NOTED TO ALSO HAVE FREQ PVC'S AS WELL. PT RECEIVED ANOTHER IVP OF LOPRESSOR AND 25MG PO LOPRESSOR AND PT HAS BEEN IN AND OUT OF THIS RAPID RYHTHM THROUGHOUT THE NIGHT. INITIALLY CVP 14 THEN GRADUALLY CAME DOWN TO 5-6 DURING THE NIGHT.
+
+RESP: LUNG SOUNDS WITH CRACKLES AT THE BASES. UPPER FIELDS CLEAR. PT HAS 2LNC ON BUT UNABLE TO OBTAIN GOOD PLETH FOR O2 SAT. ABG OBTAINED IN ED WAS WNL. 
+
+GI: PT ABLE TO TAKE PO'S WITHOUT DIFF. PT TOLERATED MEDS/WATER/TOAST. PT STATING THAT SHE IS VERY HUNGRY/THIRSTY. PT IS VERY OBESE, ABD DISTENDED AND SOFT WITH BOWEL SOUNDS. PT INC SMALL AMTS OF LOOSE STOOL. 
+
+GU: PT HAS FOLEY CATH WHICH IS PATENT AND DRAINING SMALL AMT'S OF CLEAR YELLOW URINE. PT HAS UTI AND ANTIBX STARTED IN ED. 
+
+SKIN: PT HAS LRG STAGE 4 DECUBITUS ON COCCYX. AREA CLEANSED WITH NS AND WET/DRY DSG APPLIED. PT TURNED SIDE TO SIDE TO KEEP OFF THIS AREA BUT WILL NEED SPECIAL BED. PT ALSO WEEPING CLEAR FLUID FROM ARMS AND LEGS DUE TO ANASARCA/EDEMA WHICH IS PROBABLY DUE TO LOW ALBUMIN OF 1.8
+
+ID: PT WITH UTI AND PAST MRSA BACTEREMIA FOR WHICH SHE HAS BEEN TREATED WITH ANTIBX FOR THE PAST MONTH. WILL CONT WITH VANCO FOR THIS WITH ID APPROVAL. 
+
+ACCESS: PT CAME FROM NSG HOME WITH RIGHT SUBCLAVIEN TLC IN PLACE. 2 PORTS NOT WORKING, SITE WNL. 
+
+SOCIAL: PT HAS A SON, [**Doctor First Name **] [**Known patient lastname **]. SON WAS NOTIFIED AND UPDATED BY HOUSE STAFF OF MOTHER'S CONDITION. PT IS A FULL CODE. 
+",,
+14114,17638,17552,0,3131-08-13 17:38:00 EST,3131-08-13 18:20:00 EST,2423,"N",69,"Nursing/Other",,"
+
+ NPN 0700-1900;
+CARDIAC ECHO SHOWED SMALL PERICARDIAL EFFUSION AND MOD PLEURAL EFUSION. WITH NML EF  FULL REPORT TO FOLLOW. HYPERDYNAMIC .
+
+NEW MLL PLACED IN LT SUBCLAVIAN CXR DONE AWAITING READING.NEED TO SEND RT S/C TIP FOR CULTURE WHEN NEW LINE IS CONFIRMED.
+
+TRANSFERRED TO KINAIR BED.
+
+NEURO;PT PORTUGUESE SPEAKING WITH VERY LITTLE ENGLISH SCREAMING OUT ""DIABLO"" REFUSED TO TALK WITH INTERPRETATOR,WOULD TRY AND SCREAM LOUDER EACH TIME HE TRIED TO SPEAK WITH HER OCASS REPEATING LAST THING HE SAID FOR EXAMPLE BOUNAS TARDES, BOUNAS TARDES PERLA BSK.MIN SPONTANEOUS MOVEMENT OF UPPER LIMBS, DOES ATTEMOT TO HOLD SELF OVER  NO SPONTANEOUS MOVEMENT  OF LOWER LIMBS NOTED DOES NOTHING TO COMMAND LIMBS VERY EDEMATOUS FINGERS SWOLLEN.
+
+RESP; LUNGS CLEAR UPPER WITH FAINT CRACKLES AT BASES. DIFFICULTY IN PICKING UP ACCURATE O2 SATS HANDS COOL WRAPPED IN WARM TOWEL. WITH SATS 98-100% RR 12-20. NO COUGH NOTED.
+
+CVS; TMAX 100.8 RECTALLY. RHYTMN VARIABLE NSR WITH PAC IDAVB AND ? WENCHIBACH WITH ST WITIH FREQUENT PAC'S O.REQUIRED LEVO .02MCG/KG/MIN TO MAINTAIN MAP > 60 OFF SINCE 3PM AFTER SECOND 500 MLS FLUID.BOLUS FOR LOW URINE OUTPUT CVP 8-12 AFTER FLUID BOLUS. GIVEN LOPRESSOR 25 MGS PO AT 5 30 PM WITH MIN EFFECT HR 135-104.
+
+GU; GIVEN SEVERAL FLUID BOLUSES FOR LOW URINE OUTPUT WITH LITTLE EFFECT.[**Doctor Last Name **]/O 14 MLS FOR LAST 3 HOURS  TEAM AWARE,
+
+GI; TAKING VERY LITTLE PO FLUID OR SOLIDS TOOK ALITTLE MILK A SPAT OUT CUSTARD JELLO SOUP RICE SOME PILLS .TOLD INTERPRETATOR WATER TASTED SOUR, AND STALE.BELLY OBESE SOFT HYPOACTIVE BS NO STOOL POS FLATUS.,PRACTICE NURSE FROM HOME CLLED AND [**Last Name (un) 5722**] THAT PT WAS REFUSING TO EAT AT NURSING HOME AND WAS BEING EVALUATED FOR G-TUBE OR TPN.
+BS NO COVERAGE ON RISS.
+
+SKIN MULTIPLE WEEPING AREAS, SKIN TIGHT AND SHINNY, ON COCCYX LARGE DECUB APPROX 10CM WIDE 8CM [**Last Name (un) 5723**] OPEN AND TUNNELLING UNDER SKIN [**Doctor Last Name **]/GREEN NECROTIC SKININ CENTRE RED/YELLOW AT BASES WITH FOUL OUDOUR SWAB SENT FOR CULTIURE ?4-5 CM [**Last Name (un) **] TO BONE. UNABLE TO HAVE BONE SCAN TODAY SCHEDULED FOR AM.PT ALSO HAS BLACK AREA ON RT HEEL FEET GROSSLY EDEMATOUS.IVEN MSO4 1MG I.V FOR DSD CHANGES.ALTHOUGHPT DENIED PAIN AT 4PM WHEN INTERPRETATOR PRESENT.
+
+GIVEN HALDOL 3MGS I.V INTOTAL FOR LINE PLACEMENT.
+
+
+SOC; SON.[**Doctor First Name **] CONTACTED FOR PERMISSION FOR LINE INSERTION TODAY WAS PT HUSBANDS FUNERAL PT DOES NOT KNOW THAT HUSBAND DIED 6 DAYS AGO PT FAMILY DO NOT WANT PT TO KNOW AT PRESENT .DAUGTER ALSO CALLED AND UPDATED WITH PTS CURRENT CONDITION.
+
+A/P REMOVE RT SCL MLL AND SEND TIP FOR CULTURE WHEN PLACEMENT HAS BEEN CONFIRMED.CONTINUE WITH FLUID REPLACEMENT TO KEEP CVP AROUND 12. FOLLOW U/O CONTINUE TO REORIENTATE IF POSS.
+
+
+",,
+14114,17638,17552,,3131-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3131-8-14**] 11:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6482**]
+     Reason: check for nasogastric tube placement                        
+     Admitting Diagnosis: TACHYCARDIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old woman with MRSA, dementia here with hypotension, s/p nasogastric 
+      tube placement                 
+     REASON FOR THIS EXAMINATION:
+      check for nasogastric tube placement                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW, CHEST
+     
+     INDICATION:  Nasogastric tube placed.
+     
+     COMPARISON:  [**3131-8-13**].
+     
+     FINDINGS:  A feeding tube is now seen, with tip projecting below the
+     diaphragm, likely within the stomach.  A left subclavian central venous
+     catheter is unchanged in position, as are fusion hardware devices within the
+     cervical spine.  The heart remains markedly enlarged.  The mediastinal
+     contours are widened, as before.  There is persistent density at the left lung
+     base consistent with atelectasis or consolidation.  The right lateral lung has
+     been excluded from the exam.
+     
+     IMPRESSION:  Feeding tube tip likely within the stomach.
+                                                                           
+
+",,
+14114,17638,17552,0,3131-08-14 03:34:00 EST,3131-08-14 04:12:00 EST,6771,"N",69,"Nursing/Other",,"
+
+Pt. Progress Note: 1000-0700
+Pt. remains awake most of night, calling out in Portugese. Did say a couple of times that she wanted ""water"". Drank about 75cc and tolerated well. Said one time that she was having pain and pointed to abd. When asked later, pt. denied any pain. Pt. afebrile. HR from 60's to 140's. Occasionally drops down and appears to be in second degree AV block. Goes right back up, where she has been having many PVC's and occas. PAC's. BP from 70's over 20's to 110 over 40's. Urine output has been extremelly low. One 500cc bolus of NS given, with little results. Pt. extremelly edemetous with anasarca, pts. skin weeps straw-colored fluid throughout. CPK's trending downward. Pt. was hospitalized in [**Hospital6 5724**] from [**3131-6-4**] to [**3131-7-15**] where she was recovering from a C1-C2 foramenotomies, C-3-C6 fusion. There she encountered many problems, including MRSA bacteremia, for which she remains on precautions. Pt. has hypovalbuminemia (Alb. 1.8), which is probably making her anasarca and in failure? The decubateous on coccyx drsg. changed was very painful for pt. Decutateous approx. 10 cm wide and 8 cm long, which tunnels under skin in cocyx area. Brown colored drng. from wound. Wound has green/[**Doctor Last Name 576**] necrotic tissue, with pink/yellow bases. Wet to dry sterile drsg. applied. Pt. had soft, brown, formed stool in small amt. after drsg. was changed. Guiac positive.
+NEURO; Pt. awake, follows some commands at times. Continues to speak mostly in Portguese. Says very few words of English. PERRLA. Moves upper extremeties but has not moved lower extremeties. Attempts to wiggle toes when asked, but does not attempt to pick up feet, or move legs. 
+RESP:Breath sounds clear in upper lobes, with fine crackles asculated in lower lobes. Right lower lobe slighter more diminished. O2 sats on 2L NC 94 to 100%, when it can be picked up, with a good wave form and pleth correlating to pulse.
+ABD: Tolerating water. Refused to drink milk or a shake. Positive bowel sounds x 4 quads. Small amt. of formed stool, guiac positive, brown in color.
+GU: Urine output remains extremelly low. Urine dk. yellow with some sediment. 
+Social: No calls from family this shift.
+Plan: Needs Vanco Peak and Trough with next dose?, should have been got yesterday. Attempt to get HR decreased while increasing BP and urine output. Continue to monitor. Please see care-vue for vitals and labs, all objective data.
+[**First Name8 (NamePattern2) 110**] [**Last Name (NamePattern1) **], RN
+ 
+
+",,
+14114,17638,17552,0,3131-08-14 09:42:00 EST,3131-08-14 09:43:00 EST,1727,"N",69,"Nursing/Other","Pharmacy Note - VANCO","
+Pharmacy Note - VANCO
+Patient on vancomycin 1 gram q24h (started [**8-12**]); Trough reported at 18 mcg/mL (true trough drawn just before noon dose); Recommend continuing vancomycin 1 gram q24h given trough (goal is 15 to 20 mcg/mL)
+",,
+14114,17638,17552,0,3131-08-14 15:42:00 EST,3131-08-14 16:06:00 EST,2423,"N",69,"Nursing/Other",,"
+
+NPN 0700-1900;
+FAMILY INTO VISIT AND FELT THAT PT LOOKED AND CONVERSED MORE LIKE SELF.
+
+NEURO; ALERT CONTINUES TO CALL OUT IN PORTUGUESE AOOX1 DISORIETATED TO PLACE AND TIME. MEVES UPPER LIMBS TO COMMAND WRIGGLES TOES BUT UNABLE TOMOVE LOWER LIMBS ? DUE TO EDEMA. AND PREVIOUS SURGERIES.
+
+RESP; LUNGS CLEAR TO COARSE UPPER,DIMINISHED AT BASES UNABLE TO HEAR CLEARLY AS PT CONTINUES TO TALK WHILE TRYING TO LISTEN.RR 12-20 SATS 95-97% ON 2L N/C PRODUCTIVE COUGH OF THICK WHITE SECRETIONS.
+
+CVS; TMAX [**Street Address 5725**] WITH PAC /PVC RATE 129-145. 1DAVB OR 2ND AVB 68-96 WITH ISO PAC AND RARE PVC. BP SUPPORTED WITH LEVO TO KEEP MAP >60 AFTER AM DOSE OF LOPRESSOR NOW DISCONTINUED. SWITCHED TO VASOPRESSON 0.04 UNITS PER MIN. CVP 20-14. AFTER SWITCHING TO VASOPRESSIN TO OBTAIN BETTER RATE CONTROL,
+
+GU; POOR URINE OUTPUT,IMPROVED SLIGHLY AFTER VASOPRESSIN FROM 8MLS/HR TO AHIGH OF 40 MLS/ CURRENTLY 20 MLS/HR.TEAM CURRENTLY CONSIDERING LASIX.
+
+GI; BELLY OBESE POS BS PASSING SMALLA MOUNTS OF  SOFT FORMED EATING BETTER TODAY MANAGING SMALLA MOUNTS OF SOFT SOLIDS BS COVERED ON RISS.PT COMPAINED OF BELLY PAIN EXAMINNNED WITH HELP OF PORTUGUSE INTERPRETOR.THEN LATER DENIED [**First Name8 (NamePattern2) **] [**Last Name (un) **] PAIN THAT COCCYX AREA IS MORE PAINFUL GIVEN MSO4 1 MG FOR DSD CHANGE WITH FAIR EFFECT.
+
+INTEGRUM; COCCYX AREA SEEN BY SKIN CARE NUSRE BADLY NEEDS TO BE DEBRIDED PLASTICS HAVE YET TO SEE PT.HAS LARGE NECROTIC AREA THAT NEED TO BE DEBRIDE DOWN TO BONE  CONTINNUES TO BE EXTREMELY FOUL SMELLING.
+BONE SCAN CANCELLED UNTIL PT MORE STABLE,SPOKE WITH PLASTICS AT 3PM  SAID THEY WOULD COME BY LATER TODAY.
+
+
+SOC; FAMILY INTO VISIT ,UPDATED WITH MOTHERS CONDITION AND PLAN OF CARE MAY NEED LISW CONSULT CONSIDERING SUDDEN DEATH OF PT HUSBAND
+",,
+14114,17638,17552,0,3131-08-15 03:59:00 EST,3131-08-15 04:19:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT IS ALERT BUT UNABLE TO ASSESS ORIENTATION. PT CALLS OUT FREQ IN PORTUGESE, SCREAMING AT TIMES. PT DOES SAY SOME WORDS IN ENGLISH AND SEEMS TO UNDERSTAND SOME SIMPLE QUESTIONS AND COMMANDS. PT ABLE TO MOVE UPPER EXTREMETIES SLIGHTLY ON THE BED BUT DOES NOT LIFT THEM. PT DOES NOT MOVE LEGS AT ALL DUE TO BEING SO EDEMATOUS. PEARL BRISKLY. PT C/O PAIN FROM COCCYX WHEN CHANGING DRESSING. MED WITH MSO4 4MG WHEN WOUND DEBRIDED.
+
+RESP: PT ON 2LNC, O2 SAT'S LOW 90'S TO HIGH 90'S. UPPER LUNG FIELDS CLEAR AND DIMINISHED AT THE BASES. 
+
+CV: PT CONT TO BE WITH HR UP TO THE 140'S MOST OF THE NIGHT. WILL OCCASIONALY BREAK AND SLOW DOWN BRIEFLY TO THE 90'S. PT HAS HAD OCC TO FREQ PVC'S. PT HAS NON CONDUCTED P WAVES WHEN RATE IS SLOWER. PT STARTED ON DILTIAZEM 30MG QID. BP WITHIN ACCEPTABLE RANGE. MAP 60 OR BETTER. PT MAY HAVE VASOPRESSING IF NECESSARY. TEMP MAX 99.8 AX. 
+
+GI: PT HAD DOBOFF FEEDING TUBE PLACED. PLACEMENT CONFIRMED BY XRAY. PT STARTED ON TUBE FEEDS AND HAVE BEEN INC TO 30CC/HR. PT IS OBESE ABD WITH HYPOACTIVE BOWEL SOUNDS. NO STOOL AT THIS TIME. PT ABLE TO TAKE SIPS OF WATER WITHOUT DIFF. MEDS GIVEN THROUGH FEEDING TUBE. PT IS ABLE TO EAT A LITTLE BUT NEEDED TUBE FEEDS FOR ADEQUATE NUTRITION TO HELP HEAL WOUND AND HELP TREAT LOW ALBUMIN. 
+
+GU: FOLEY CATH PATENT AND IS DRAINING 7-25CC OF YELLOW URINE WITH SEDIMENT/HR. U/0 HAS INC SINCE TUBE FEEDINGS STARTED. 
+
+SKIN: PT HAS HUGE STAGE 4 ULCERATIVE DECUBITUS ON COCCYX. PLASTICS RESIDENT IN THIS EVENING AND DEBRIDED LRG AMT OUT OF WOUND. AREA PACKED WITH 1/4STR DACONS SOLUTION SOAKED KERLEX AND THEN DSD. THIS WAS REPEATED AT 0400, THE GAUZE THAT WAS REMOVED HAD SOME PURULENT DRAINAGE AND SOME BRB ON IT. THIS DRESSING NEEDS TO BE CHANGED 3 TIMES/DAY. PT HAS GENERALIZED EDEMA WITH ANASARCA. PT DRAINS SEROUS FLUID FROM ALL EXTREMETIES. BOTH HEELS ARE WRAPPED WITH KERLEX TO PROTECT SKIN. BOTH LEGS ELEVATED OFF BED. PT ON AIR BED. PT TURNED Q 2/HR. 
+
+ENDO: PT COVERED WITH SSRI. FINGERSTICKS Q 6/HR.
+
+ID: PT ON VANCO/LEVOFLOX, ONE SET OF BLD CX SENT FROM LEFT SUBCL TLC THIS AM.
+
+SOCIAL: PT HAS SON. NOT HERE OVERNIGHT AND HAVE NOT HEARD FROM BY PHONE. PT REMAINS FULL CODE. PT STILL NEEDS NUTRITIONAL CONSULT. 
+",,
+14114,17638,17552,0,3131-08-15 15:16:00 EST,3131-08-15 15:41:00 EST,1951,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p:
+   Review of Systems:
+    Nuero: Pt's daughter in this afternoon and pt is A+O x 2, and her personality is baseline per family. She was argumentative with her daughter, which is normal, per daughter. Pt does however appear to be confused, yelling out statements in rythmic fashion.PERRLA. Reports minimal pain to ""bum"", but denies need for pain med.
+    ID: Blood cx pending from [**8-14**] and [**8-15**], wound cx growing GNR's, Urine cx yeast/GNR's, Blood cx [**8-12**] with 2/4 bottles growing staph. remians on vanco/Levo. afebrile. WBC 9.9.
+     CV: HR 120's-130's, 12 lead EKG done to determine rythym.. team is unclear if it is AF vs SVT... However, rythym is regular. Dilt gtt started per team, and has been titrated up to 10mg/hr. pt with brief episodes of breaking to 70's-80's first degree heart block with PVC's. SBP 90's-1teens most of shift. cvp high teens. 
+    RESP: pt received on and remains on 4L NC with sats high 90's. Pt with episode aspiration while being fed pureed lunch this afernoon.. no desaturation, no loss of voice and no high pitched wheeze, but + coughing x about 30 minutes. PT settled out after CPT.. team into assess, no further intervention at this time. Sats remained high 90's throughout. After lying flat for a foley catheter this afternoon, sats dropped to 90-93%, returning to 98% once HOB reelevated (TF's were off throughout this event). LS diminished, occasional upper airway wheezes... Per RT, did not feel pt needed nebs. no wheezes at this time.
+    GU: foley changed per team d/t + UTI. Foley replaced with same size foley (#18), which then leaked. Per team, foley was leaking  yesterday, too, so foley changed once again to a 20 french catheter. UO 15-30cc's/hr plus leakage, except for 1 hour when a 500cc ns bolus given, with increase in UO. 
+    GI: Tf's advanced to 40cc's/hr via doboff. new goal rate is 70cc's/hr. + bs, no stool. Famotidine started and po pantoprozol dc'd as cannot crush.
+    Integ: dressing changed to decube to coccyx, which now has a pink/yellow base and is unchanged in size from previously reported. tunnels upwards and posteriorly. packed with 1/4 strength Dakins solution and dsd. head elevated on foam to relieve pressure to pressure sore  to back of head, which appears superficial at this time. skin care done and dermagran and dsd's to heels.
+    Social: pt's son called and updated, pt's daughter into visit.
+    a/P: 78 yr old NH pt with multiple medical issues including staph bacteremia, UTI on abx. also with stage 4 decubitus to coccyx, s/p debridement last noc. Pt malnourished with albumin 1.8 on admit to hospital. Tf's have started and are being advanced towards goal of 70cc's/hr as tolerated. Cont to titrate diltiazem gtt as able. follow UO. Cont emotional support to family. 
+",,
+14114,17638,17552,0,3131-08-16 04:01:00 EST,3131-08-16 04:16:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT ALERT AND ANWERING SIMPLE QUESTIONS IN ENGLISH AND IS ABLE TO FOLLOW COMMANDS. MOST OF THE TIME IS COOPERATIVE. OCC IS YELLING OUT IN PORTUGESE. PT WILL ASSIST IN MOVING UPPER EXTREMETIES BUT DOES NOT HAVE MUCH RANGE OF MOTION, RIGHT ARM PAINFUL IF ATTEMPT TO MOVE TO MUCH. PEARL. 
+
+RESP: PT'S O2 SAT CONT TO RANGE IN HIGH 90'S TO 100% ON 4LNC. LUNG SOUNDS DISTANT. UPPER AIRWAY OCC WHEEZY AND COARSE. PT COUGHS WELL ENOUGH TO CLEAR THROAT. 
+
+CV: PT CONT TO BE ON DILTIAZEM DRIP AT 10MG. THIS RN HAS NOT TITRATED THE DRIP TO 15MG DUE TO BORDERLINE MAP. BP STABLE ON 10MG. HR IN 1STDEGREE AV BLOCK, WITH RATES RANGING FROM THE 70'S TO THE 120'S. RATE MORE IN THE LOWER RANGE FOR LONGER PERIODS OF TIME. PT DOES HAVE OCC PVC'S AND PAC'S. TEMP 99 AX. MAX. 
+
+GI: PT WITH DOBOFF FEEDING TUBE. PT IS RECEIVING PROMOTE WITH FIBER AT 60CC/HR. PT SEEMS TO BE TOLERATING THIS RATE WELL. UNABLE TO CHECK RESIDUALS WITH THIS TYPE OF TUBE. ABD SOFT/OBESE WITH HYPOACTIVE BOWEL SOUNDS. NO STOOL AT THIS TIME. 
+
+GU: FOLEY CATH PATENT AND WITH NO APPARENT LEAK. U/O YELLOW WITH SEDIMENT. U/O IMPROVING SLIGHTLY WITH INC TF RATE.
+
+SKIN: PT REMAINS VERY EDEMATOUS BUT WITH LESS WEEPING FROM EXTREMETIES. LEFT HAND LESS PUFFY. 
+STAGE 4 DECUBITUS CONT TO BE PACKED WITH WET TO DRY DSG. KERLEX SOAKED WITH DAKINS SOLUTION PACKED X 2 DURING THE NIGHT. AREA PINK/YELLOW WITH SOME BRIGHT RED BLOODY DRAINAGE AND SOME PURULENT DRAINAGE NOTED. 
+PT MEDICATED WITH MSO4 FOR PAIN CONTROL WITH DSG CHG'S. HEEL DSG'S INTACT. AREA AT BACK OF HEAD REDENED BUT WITH NO DRAINAGE TONIGHT. FOAM CUSHION USED FOR PILLOW.
+
+ENDO: NO COVERAGE NEEDED OVERNIGHT. 
+
+SOCIAL: SON UPDATED OVERNIGHT. WILL VISIT IN AM. PT IS FULL CODE. 
+",,
+14114,17638,17552,0,3131-08-16 08:33:00 EST,3131-08-16 08:38:00 EST,2785,"N",69,"Nursing/Other","RESPIRATORY CARE","
+RESPIRATORY CARE
+Called to give stat neb treatment to pt. Pt found laying flat on her back at approximately 20 degrees, snoring. Spontaneous respiratory rate 0f 12. Neb given on oxygen, SA02 going from 96% to 99% but decreasing to 89% during periods of apnea while asleep. Pt is obese and does have distant expiratory wheezes. No improvement in breath sounds post neb treatment.
+",,
+14114,17638,17552,0,3131-08-16 16:21:00 EST,3131-08-16 16:31:00 EST,1951,"N",69,"Nursing/Other",,"
+
+NPN 7p-7a:
+   Nuero: pt alert, answering questions appropriately most of time. able to state needs, ""medication"" for pain, ""I'm hungry"", etc. Son in and reports pt has no further needs or questions for RN/MD at this time. Pt med x 2 with 2mg IV MSO4 for pain to coccyx with relief. zyprexa x 1 for restlessness with good relief. 
+   RESP: remains on 4L nc, RR teens. sats high 90's. Bronchial L base, diminshed R. upper lungs clear, exp wheezes at times. Neb x 1 by RT.
+   CV: HR 80's-90's majority of day, First degree AV block with PR interval .40.. team aware. Diltiazem gtt dc'd 2 hrs after diltiazem po started. so far remains with HR 80's, first degree AV block. SBp 1teens-120's. 
+    GI: tf's advanced to goal. ab obese, bs +. no stool as of yet. no discomfort to belly per pt. on famotidine. 
+    GU: foley intact, on diflucan now. UO adequate.
+    ID: Pt with pseudomonas to wound cx and urine cx, and staph to 2/4 bottles blood cx from [**8-12**]. remains on vanco, but dose delayed today d/t no ID approval as of yet. also on Levo. afebrile. WBC 7.3. 
+    FE: pt received Magnesium  repletion o/n, and other lytes wnl. 
+    Social: Son into visit. would like to speak with case management tomorrow to discuss where his mom will be placed for rehab/long term care. please have [**First Name4 (NamePattern1) 424**] [**Last Name (NamePattern1) 2480**] contact son tomorrow.
+    [**Name2 (NI) **]: please see carview for specifics of skin care, as we are follwing recs from skin care nurse from [**8-14**]. pt remains on kinair mattress. Coccyx dressing changed for fist deep decube with yellow/pink base. irrigated with NS/wound cleanser and packed with kerlix soaked in 1/4 strength Dakins' solution. wound appears unchanged. 
+     A/P: pt hemodynamically stable, will follow s/p conversion to po diltiazem. Cont vigilant skincare, abx, follow cx. cont pain management. f/u with case management tomorrow. 
+",,
+14114,,17552,0,3131-08-17 00:29:00 EST,3131-08-17 00:32:00 EST,2353,"N",69,"Nursing/Other","CONTINUATION OF TRANSFER NOTE.","
+CONTINUATION OF TRANSFER NOTE.
+SOCIAL: PT HAS SON AND DAUGHTER WHO COME TO VISIT AND ARE VERY UPSET ABOUT PT'S CONDITION AND WOULD LIKE TO SPEAK WITH CASEMANAGEMENT ABOUT TAKING SOME LEGAL STEPS AND HELP IN FINDING NEW REHAB FACILITY FOR THEIR MOTHER. FAMILY WAS GIVEN [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 5726**] NAME. PT IS A FULL CODE. 
+",,

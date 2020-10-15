@@ -1,0 +1,130 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14850,23697,,,3086-08-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3086-8-12**]        Discharge Date: [**3086-8-13**]
+
+Date of Birth:  [**3003-9-8**]        Sex:  F
+
+Service:  TRA
+
+
+CHIEF COMPLAINT:  Pedestrian struck by a motor vehicle.
+
+HISTORY:  This is an 83 year-old female who was brought to
+the emergency room at [**Hospital1 10**] as
+a trauma stat having sustained a strike by a motor vehicle.
+The patient was extremely unstable in the emergency
+department and required endotracheal intubation. The patient
+had sustained multiple fractures including fracture of her
+pubis which was closed, traumatic pneumothorax, pulmonary
+contusion, multiple rib fractures, a fractured scapula, a
+fractured medial malleolus. The patient had a past medical
+history of hypertension and metastatic breast cancer.
+
+HOSPITAL COURSE:  During the patient's admission she remained
+extremely hemodynamically unstable requiring vasopressor
+support and massive transfusion. The patient underwent
+placement of a pulmonary artery catheter in order to monitor
+resuscitation efforts. During the ensuing hours the patient
+developed a subendocardial myocardial infarction and became
+increasingly more unstable. Despite maximum efforts at
+resuscitation the patient became further hemodynamically
+unstable and sustained a cardiac arrest from which she could
+not be resuscitated. The patient was pronounced dead at 0832
+hours.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], M.D. [**MD Number 3432**]
+
+Dictated By:[**Last Name (NamePattern1) 9350**]
+MEDQUIST36
+D:  [**3086-11-4**] 17:24:39
+T:  [**3086-11-4**] 18:04:33
+Job#:  [**Job Number 11302**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: FRI [**3086-11-5**] 6:30 AM
+(End of Report)
+
+
+",,
+14850,23697,18452,0,3086-08-12 17:19:00 EST,3086-08-12 17:26:00 EST,8194,"N",74,"Nursing/Other",,"
+
+82Y O female recieved from the ER  after being involved in a MVA. Pt. was hit and then run over causing fx sternum and ribs  and possibly from a MI. Pt. is intubated with a no. 7.0 ETT  taped 21 at the lip. She is on A/C 500 by 12 5 peep and 50% O2. Pt. was tubed for airway protection due to her desating in X RAY.
+",,
+14850,23697,18452,0,3086-08-12 18:40:00 EST,3086-08-12 18:44:00 EST,6293,"N",74,"Nursing/Other",,"
+
+EVENT NOTE:
+
+patient admitted to t/sicu from ER s/p being struck by a car. 
+
+trauma team and ICU team at bedside. 
+
+on admission CL was placed and PA line was floated. first PCWP was 15, poor cardiac index and output. 
+
+CXR was performed, found to have large pneumothorax and trauma team placed chest tube at bedside. repeat cxr pending.
+
+patient received 1 liter IVF t/o procedures. 
+
+plan: cont. resusictation as indicated. PBRC when available from blood bank. cont. to monitor & support as indicated. 
+",,
+14850,,18452,0,3086-08-13 03:28:00 EST,3086-08-13 03:32:00 EST,6507,"N",74,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent. Intubated with 7.9 ett @ 23, patent and secure. Suctioned for mod amt of blood tinged secretions. Having droping blood presures. sats, po2 and co2. Having to titrate settings accordingly ( see carevue). Will continue to monitor.
+",,
+14850,,18452,0,3086-08-13 04:20:00 EST,3086-08-13 05:03:00 EST,8122,"N",74,"Nursing/Other",,"
+
+Admission Note:
+
+s/p 80 yr old female. Pedestrian struck in front of Atrium mall on Rte 9. Hit, drove over her leg and drove off. Driver not in custody. No LOC at scene. GCS 15, MAE's, pupils 2 and reactive. BP 104/palp, HR 100. Pt transported to [**Hospital1 10**]. Pt sent to CT scan, recieved fentanyl for pain. Pt desaturated in CT, dropping sats. Pt placed on NRB, confused intubated for airway management.
+
+Injuries Include:
+Head CT -
+Abd CT-
+Renal -
+Right femoral head fx
+Right rib fx's [**4-18**]
+Right orbital fx
+Left scapula fx
+L superior [**Last Name (un) **], L distal tibia fx ex rotated and splinted by ortho
+Question left ankle fx
+
+PMH- Brst CA, s/p lumpectomy and radiation. HTN, Depression
+
+ROS: 
+Pt with a critical night.
+
+Neuro: Poor neuro exam. Pt not opening her eyes, or following commands. Corneal's absent, - gag, impaird cough. Pupils remain at 2mm briskly reactive. No spont mvmt, no mvmt noted with painful stimuli. Cerv collar on. Fentanyl prn pain.
+
+CV: Hemodynamically unstable, inadequate CO. See carevue for hemodynamic measurements. Mult fld bolus's overnoc accompanied with 4 units of PRBC. Trialed multiple pressors to maintain goal MAP >65 and CI> 2. Currently on Milrinone and Levophed. Cardiology consult, echo overnoc showing pericard effusion about 150 cc's. Decided to not tap at current time. Positive MI, elevated troponins. Circulation poor to ext's, hx reynauds. Unable to obtain pleth through noc checking O2 with labs. Cyanotic Le's/cool/ dopplable pulse to right post tibial otherwise unable to obtain pulses. Dr. [**Last Name (STitle) 1164**] aware. Sq heparin, pboots on. HR erratic up to 160's. 1st degree HB, with PVCs/missed beats. Bouts of SVT/afib. 
+
+Resp: Profound metabolic acidosis. Mult vent changes overnoc. NAHCO3 administered. CT-->right side with leak--> 20 cm sux.Putting out moderate amts of serous/sang drainage. Sux'd overnoc for min amts of white thin sputum. Increased oral secretions. LS rhonchorus. Repeat CXR this a.m. shows lung is up. No crepitus. RR 20's. Unable to obtain O2 pleth.
+
+GI: Bladd press 13. Abd soft--> firm distended. Positive BSx4. OGT to sux. @ loose/foul gelatonous stools overnoc x2 , rectal bag placed. Positive Guiac.
+
+GU: Very minimal u/o . Elevated BUN/CRT. Increasing lactates latest 15.8
+
+Endo: Labile bld sugars, mult amps of D50. D10 drip initiated at 5a.m. 30/hr. current bld sugar stable at 139.
+
+Lytes: repleted with mag 2gm/calcium. All currently wnl
+
+ID- WBC count increasing to 15. Temp max 100.6. No anbx's
+
+Hem: 46.3 after mult transf. HGB 15.4 Plt 74    Pt23.9/PTT 48.8 INR 2.4
+
+Soc: Pt has a very close friend in [**Name2 (NI) 598**] otherwise no family. Husband at home who is dying and receives hospice care.
+
+
+A: 80 yr old woman s/p trauma with multiple injuries. Now with acute MI. Cont'd deterioration despite massive resuscitation/pressor therapy. Multisystem failure
+
+P: Cont current management. Discuss with physicians ongoing plan of care. ? Pericardiocentesis, ? rescan abd. Monitor. Cont with pressors. Careful monitoring of bs.
+",,
+14850,,18452,0,3086-08-13 08:10:00 EST,3086-08-13 08:24:00 EST,1378,"N",74,"Nursing/Other","Nursing","
+Nursing
+0700-0900
+Report received, assessment ongoing.  Received patient unresponsive to all stimuli, hypotensive, hemodynamically unstable (per vs flow sheet).  BP and HR began to significantly diminish at 0750, while PA pressures increased.  Cardiology resident at bedside.  Levophed increased to 1mcg, dopamine added at 20mcg, neo added at 5mcg.  Pt lost pulse at 8am.  See code sheet - ACLS initiated, stat echo and pericardiocentesis done.  Pt. continued in full cardiac arrest.  Copious frank blood suctioned from ETT.  CPR/ACLS continued until code called at 0832.
+
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], RN
+
+
+",,

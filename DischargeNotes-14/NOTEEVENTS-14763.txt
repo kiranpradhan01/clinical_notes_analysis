@@ -1,0 +1,392 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14763,15994,,,3047-05-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3047-5-21**]     Discharge Date:  [**3047-5-25**]
+
+Date of Birth:   [**2968-3-28**]     Sex:  M
+
+Service:  MICU
+
+CHIEF COMPLAINT:  Dyspnea.
+
+HISTORY OF PRESENT ILLNESS:  This is the fifth hospital
+admission this year for this 79-year-old African American man
+with end-stage chronic obstructive pulmonary disease.
+Patient noted worsened dyspnea for the week prior to
+admission; nursing home M.D. [**MD Number **] that it was acutely worse
+two days prior to admission, and at that time increased his
+prednisone dose from 50-80 mg q day, and increased his
+albuterol and ipratropium nebulizer treatments to 4x a day.
+Patient also reported increased cough productive of yellow
+sputum.
+
+At baseline, he is not dyspneic at rest when wearing oxygen,
+although he is dyspneic with even minimal ambulation.  He and
+his family have noted a significant progressive decline in
+his exercise tolerance during the past year.
+
+On arrival, he appeared in respiratory distress.  Blood
+pressure 113/83, pulse 102, respirations 22, O2 saturation
+98% on 100% nonrebreather.
+
+PAST MEDICAL HISTORY:
+1. Chronic obstructive pulmonary disease, oxygen dependent.
+Recent FEV1 of 0.62 which is 22% of predicted, FVC of 1.99,
+total lung capacity 106% of predicted.
+2. Prostate cancer with bone metastases.
+3. Chronic atonic bladder and is chronically catheterized.
+4. Multifocal atrial tachycardia.
+5. Renal mass.  CT scan of the abdomen in [**3047-1-30**]
+showed a large cystic mass with multiple septations and small
+area of enhancement.
+
+MEDICATIONS:
+1. Prednisone 80 mg q day, day #3.
+2. Albuterol and ipratropium nebulizers qid.
+3. Atrovent two puffs q6h.
+4. Ventolin 4 mg po qid.
+5. Flovent two puffs bid.
+6. Protonix.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Divorced.  He has several children who live
+in the area.  He quit smoking two years ago.  Does not drink
+alcohol.  He has been living in the [**First Name4 (NamePattern1) 1916**] [**Last Name (NamePattern1) **] Nursing
+Home Rehabilitation since discharge from [**Date range (1) 11181**] [**Hospital1 471**] admission for chronic
+obstructive pulmonary disease flare.  Before then, he had
+been living alone at home.  He is a retired air conditioning
+and heating plant operator.
+
+PHYSICAL EXAM ON PRESENTING TO THE EMERGENCY DEPARTMENT:
+Pulse 80, blood pressure 138/72, respirations 22, O2
+saturation 98% on nonrebreather.  General:  Thin elderly man
+appearing younger than his stated age, appearing in distress,
+breathing with accessory muscles.  Chest:  Inspiratory and
+expiratory wheezes bilaterally.  Cardiovascular:  Regular,
+rate, and rhythm, no murmur.  Abdomen:  Soft, nontender,
+nondistended with positive bowel sounds.  Extremities:  No
+edema.
+
+On admission, white blood cell count 14.6.  Differential:
+Neutrophils 87%, lymphocytes 9.8%, bands 0.  Hematocrit 39.3,
+platelets 203.  Urinalysis:  Yellow, hazy, specimen with
+specific gravity of 1.021, large blood, positive nitrates,
+moderate leukocyte esterase, 21-50 red blood cells, 21-50
+white blood cells, and many bacteria.
+
+Sodium 138, potassium 4.2, chloride 99, CO2 31, BUN 23,
+creatinine 0.8, glucose 124, CPK 58, troponin less than 0.3.
+Calcium 9.4, phosphorus 2.6, magnesium 1.9.  Arterial blood
+gas on [**3047-5-21**]:  PH 7.38, pCO2 59, pO2 171.  Blood cultures
+taken on [**3047-5-21**] had no growth as of [**3047-5-25**].  Urine
+culture [**3047-5-21**] showed mixed flora.
+
+Electrocardiogram:  Sinus tachycardia at 100 beats per minute
+with a normal axis, slight ST depressions in V5 and V6.
+
+Chest x-ray showed large lung volumes, no infiltrate or
+effusion.
+
+IMPRESSION, PLAN, AND HOSPITAL COURSE:  A 79-year-old male
+with end-stage chronic obstructive pulmonary disease
+presenting with respiratory distress.  Impression was chronic
+obstructive pulmonary disease flare with possible upper
+respiratory infection as precipitant given his reports of
+increased sputum.
+
+ISSUES:
+1. Chronic obstructive pulmonary disease exacerbation:  On
+admission, he was started on high dosed intravenous steroids,
+Solu-Medrol at 80 mg IV tid, and was given albuterol and
+Atrovent nebulizer treatments every three hours.  He
+experienced subjective improvement in his symptoms daily,
+although he continued to have wheezing and dyspnea on minimal
+exertion, which was his baseline even on discharge.
+
+On [**3047-5-24**], he was switched from IV steroids to oral
+steroids, which was prednisone 60 mg bid, and switched from
+beta agonist and Atrovent nebulizers to inhaler treatments,
+additionally a steroid inhaler was started.  Subjectively
+felt better over the next 24 hours, only requiring an
+albuterol nebulizer treatment once.
+
+Given his end-stage chronic obstructive pulmonary disease and
+his dyspnea with almost any activity, the Intensive Care
+Unit's attending pulmonologist, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+suggested that the patient may benefit from opioid treatment
+to blunt his sensation of dyspnea and to improve his quality
+of life.  On discharge, the patient is to start MS Contin 15
+mg bid and this can be titrated as needed.  Of note, he will
+need to start on a laxative regimen after starting the opioid
+treatment.
+
+His prednisone dose was decreased from 60 mg bid to 60 mg q
+day on [**3047-5-25**].  Given that patient has some wheezing even
+with high-dosed steroids, we suspect that he may not be very
+steroid responsive.  We will write for prolonged taper from
+high-dosed steroids.  He will continue on the beta agonist,
+Atrovent, and steroid MDIs as an outpatient, and will
+continue nebulizer treatments as needed.
+
+He developed mild tachycardia and anxiety, and were given
+frequent albuterol nebulizer treatments.  As such, we did not
+continue giving him oral albuterol as he had been receiving
+prior to admission.
+
+Patient is do not resuscitate/do not intubate.  As of now, he
+is willing to try noninvasive ventilation.  Unfortunately,
+given his end-stage lung disease, he is likely to have
+recurrent hospitalizations in the future.
+
+2. Urinary tract infection:  Started on levofloxacin 500 mg q
+day on [**3047-5-22**]; will complete last dose on [**3047-5-28**].
+
+3. Atonic bladder:  He remained on Foley catheter while
+in-house.
+
+4. Likely renal mass on CT scan in [**3047-1-30**].  The
+patient would not be an operative candidate even if he had
+renal cell carcinoma; no further workup is indicated at this
+time.
+
+5. Prostate cancer:  He sees an oncologist, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 294**]
+at [**Hospital1 10**] for Lupron injections
+q3 months; last given in 06/03.
+
+6. Disposition:  To rehabilitation facility; will likely need
+long-term nursing home placement thereafter as he is probably
+too chronically ill to care for himself at home.
+
+DISCHARGE DIAGNOSES:
+1. Chronic obstructive pulmonary disease exacerbation.
+2. Urinary tract infection.
+
+DISCHARGE MEDICATIONS:
+1. Levofloxacin 500 mg q day, last dose [**3047-5-28**].
+2. Protonix 40 mg q day.
+3. Prednisone 60 mg po q day x1 week, then 40 mg po q day x1
+week, then 20 mg po q day x1 week, then 10 mg po q day
+chronically.  The M.D. [**MD Number **] rehabilitation center will
+likely need to titrate these doses based on the patient's
+symptomatology.
+4. Salmeterol discus one puff bid.
+5. Ipratropium MDI two puffs qid.
+6. Flovent 110 mcg per puff two puffs bid.
+7. Albuterol nebulizer treatment q2-4h prn for worsening
+dyspnea.
+8. Ipratropium nebulizer treatments q4h prn for worsened
+dyspnea.
+9. MS Contin 15 mg bid, hold for oversedation.
+10. Colace 100 mg bid, hold for loose stools.
+11. Senokot two tablets q hs, hold for loose stools.
+12. Please continue on 1-2 liters nasal cannula oxygen for
+goal O2 saturation of over 90%.
+
+DISCHARGE CONDITION:  Stable.
+
+FOLLOWUP:  Please [**Name6 (MD) 55**] primary M.D., [**Doctor Last Name 1399**] at [**Telephone/Fax (1) 66**] to
+schedule an appointment in 10-20 days.  The patient already
+has an appointment with his oncologist, Dr. [**Last Name (STitle) 294**] in
+[**3047-8-2**].
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 617**], M.D.
+[**MD Number 618**]
+
+Dictated By:[**Last Name (NamePattern1) 4939**]
+
+MEDQUIST36
+
+D:  [**3047-5-25**]  14:23
+T:  [**3047-6-1**]  13:22
+JOB#:  [**Job Number 11182**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**3047-6-1**] 8:47 PM
+(End of Report)
+
+
+",,
+14763,15994,18346,0,3047-05-21 17:37:00 EST,3047-05-21 17:42:00 EST,1592,"N",69,"Nursing/Other",,"
+
+79 years old male admitted via ER.PMX: protate ca in 99,met to bone 2002,(L)Renal mass. DX:COPD exacerbation treated with continous neb*2hrs in ER.Now transfered to unit on Albuterol Q2 PRN and Ipratropium bromide Q3-4 and PRN.Patient improving but still weezt will continue to follow.
+",,
+14763,15994,18346,0,3047-05-21 17:43:00 EST,3047-05-21 17:57:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU admit note 3pm-7pm
+
+79y/o male brought to ew for COPD exacerbation.  Pt c/o increase in SOB and wheezing over past day. Pt has had recent admission to [**Hospital1 10**] for COPD exacerbation.  Prednisone recently increased by PCP [**Last Name (NamePattern4) **] 80mg and pt still with c/o.  See FHPA for PMH.  Pt arrived in EW, initially on a non rebreather with O2 sats 98%.ABG: 7.38/59/171/36. Pt with diffuse wheezes throughout lungs and speaking in short sentences. Pt placed on contineous neb treatment. Pt with decrease SOB and placed on 3L via NC.  BCx2 sent in EW. Pt transferred to MICU for further monitoring.
+
+Pt arrived to MICU in NAD.  AA&Ox3. Pleasant and cooperative.
+
+Resp:  received pt on 3L via nc with sats 98%.  NC turned down to 2L.  Per team, O2sats in low 90's acceptable.  Pt sats since admission 95-98%.  Pt receiving neb treatments from RT.  LS c expiratory wheezes throughout.  Pt denies SOB.  PT has strong, non productive cough.
+
+CV:  ST 112-122 c occasional PVCs noted. BP 90-125/55-86.  Mag repleted c 2grams.  Pt has 1 peripheral IV in left hand
+
+GI: House diet.  Pt eating dinner without difficulty.  Pt has upper and lower set of dentures.  abdomen soft, BS present
+
+GU:  Pt with chronic foley (atrophic bladder).  Foley changed and urine culture sent.  pt urinating ~ 30cc/hr.  Small clot noted in urine.
+
+ID: Afebrile.  BCx2 sent in EW.  Urine sent upon arrival to micu.  No skin breakdown issues @ this time.
+
+Code:  Pt DNR/DNI. ORder in chart.  Pt would accept mask ventillation @ this point.
+
+Dispo:  remain in MICU>  Fulll Code
+",,
+14763,15994,18346,0,3047-05-21 18:09:00 EST,3047-05-21 18:10:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU addendum
+
+PT is not full code.  Please disregard.  Pt is DNR/DNI
+",,
+14763,15994,18346,0,3047-05-22 16:08:00 EST,3047-05-22 16:40:00 EST,2369,"N",69,"Nursing/Other",,"
+
+Micu Progress Nursing Note:
+
+Brief history: 79-year old man with COPD flair, admitted [**5-21**] from rehab ([**First Name4 (NamePattern1) 2305**] [**Last Name (NamePattern1) **]). History of anemia, prostate CA with bone mets (right iliac crest), L renal mass, right middle lobe nodule, atonic bladder, ? related to XRT, with chronic indwelling catheter, replaced with # 20 cath after clotting off yesterday. Foley normally changed weekly. 
+
+Neuro: Alert and oriented x 3. Mildly anxious. Moves all extremities well. Up with Physical Therapy to chair. Remained in chair most of afternoon, stating: "" I feel better when I'm in the chair"".
+
+CV: SR-ST, 80s-120s. Occasional to frequent PVCs. BP low 100s-120s/50s-70s. No edema. Palp. pedal pulses x 4. Patient noted to have bleeding from IV site this am, as well as from Foley. PT/PTT were wnl. INR 1.0. Heparin sq was held this am. 
+
+Resp: Lung sounds with expiratory wheezes throughout. Receiving nebs q 3hrs per RT. C/O of non-productive cough this am although he did cough up a small amount of grey sputum this afternoon. O2 decreased from 2L to 1L at 1300 with sats remaining mid to high 90s. O2 can be further decreased, .5 to off if patient tolerates. Resp. rate 13-21. Patient with inspiratory retractions from hyperinflated lung volume secondary to emphysema. 
+
+GI/GU: Urine output adequate. Patient was noted to pull on catheter this am when nurse entered room. He stated he wanted to ""make sure the urine was flowing"". The urine at this point was bloody from patient pulling on tube. However, it did become yellowish-pink and remained  that way during the day. On house diet, ate 80% of breakfast. Drinking well. 
+
+Endo: See carevue for fsbs.
+
+Skin: Small open area noted left buttock. Area cleaned with skin cleanser, extra thin duoderm applied. 
+
+ID: Afebrile. Remains on Levofloxacin for UTI. 
+
+Social: Friends in to visit him this afternoon and did bring him a hamburger which he ate 100% of. 
+
+Plan: No longer called out as he requires q 3hour nebs. Continue to monitor resp. status. Patient will no doubt return to rehab for further conditioning. Social service consult recommended as patient states he sometimes has a difficult time preparing food at home. He does receive some sort of services, he states once a week, but clearly needs more. Friends state he his planning on requesting meal delivery Mon-Fri. 
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] RN
+
+
+",,
+14763,15994,18346,0,3047-05-23 03:57:00 EST,3047-05-23 03:59:00 EST,1546,"N",69,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+
+Following pt for Albuterol/Atrovent nebs Q2-4prn.  Pt BS's coarse exp wheezes, fairly good aeration to bases.  HR=85-115.  RR=20's. Pt has strong cough; productive for thick, dark yellow secretions.  See flowsheet for further pt data.
+Plan:  Will follow for neb rx's.  Please call for changes.
+",,
+14763,15994,18346,0,3047-05-23 05:43:00 EST,3047-05-23 06:00:00 EST,1618,"N",69,"Nursing/Other","P-MICU NPN 7p-7a","
+P-MICU NPN 7p-7a
+System Review:
+
+Resp:  Receiving alb. txs per RT.  Pt feeling slightly more winded immediately after tx, then coughing and clearing a good amt of thick dark yellow secretions, before being able to settle out.  LS with exp wheeze bilat throughout.  Wearing 1l nc.  Tachypnic with any exertion.
+Cont's on methlprednisolone IV for COPD flair.  Monitoring blood glucose levels with SS coverage.
+
+ID:  Receiving levo po q24hr, for UTI.   Labs sent this am.
+
+GI:  +BS, One large ob (+) stool.
+
+GU:  Voiding via permanent indwelling foley cath.
+
+Neuro:  Alert and oriented, pleasant and cooperative.
+
+Social:  Lives alone.  Received a call from a friend.
+
+  
+",,
+14763,15994,18346,0,3047-05-23 14:41:00 EST,3047-05-23 15:09:00 EST,2369,"N",69,"Nursing/Other",,"
+
+Micu Progress Nursing Note:
+
+Neuro: Alert and oriented x 3. Mildly anxious. MAE.
+
+CV: SR-ST; fair amount of ectopy; PVCs, at least one 3-beat run, PACs. BP 96/45 to 165/105, running mainly 120s-130s over 50s-70s. Episode this am at 1100 of increased ectopy, increased HR to 130s, increased 
+blood pressure to 170s systolic, decreased sats to mid-80s, while patient washing himself sitting in chair. O2 temporarily increased to 3L from 1L. Resp. therapy called for a treatment and intern notified. Team rounded soon afterwards. ? of calcium channel blocker for increased rate and ectopy discussed during rounds but none ordered. Tachycardia no doubt due in part, at least to q 3 hour nebs.
+
+Resp: Exp. wheezes throughout. O2 at 1.5 L this afternoon,  decreased from 2L . O2 temporarily at 3L after episode of increased SOB but soon decreased. Receiving q 3-4 hour neb treatments. Received Mucomyst x 1 but patient is alreasy coughing up greenish-grey sputum, moderate amounts. 
+
+GI/GU:  Taking fluids well and eating a house diet. U/O 50-130cc/hr,  amber colored with sediment noted in tubing. Large soft brown MB this am, guiac positive.
+
+Skin: Duoderm to right buttock intact. Patient between bed and chair but spent afternoon in chair from ~1400 on.
+
+Plan: Still not called out secondary to q 3 hour nebs. Monitor resp. status, tachycardia, ectopy. Patient will return to [**Last Name (un) 2305**] hOuse for rehab
+[**First Name9 (NamePattern2) 6477**] [**Doctor Last Name **]
+",,
+14763,15994,18346,0,3047-05-24 04:06:00 EST,3047-05-24 04:58:00 EST,1618,"N",69,"Nursing/Other","P-MICU NPN 7p-7a","
+P-MICU NPN 7p-7a
+     Pt is a 79 yo male, admitted [**5-21**] for tx of COPD flare.
+
+     PMH: prostate CA, prob metastatic to bone
+
+     Status:  Pt is DNR/DNI
+
+Systems Review:
+
+Resp:  Con'ts very tachypnic.  At times becomes very SOB-> anxious-> tachycardic->, this has happened several times, ~ 1/2 hr after receiving an albuteral neb.  Pt may start coughing, unable to clear all his secretions and then the vicious cycle continues.  O2 sats have been in the low to mid 90's.  O2 increased form 1.5l to 3l then decreased to 2l.  Received albuteral treatments a little less frequently this shift.  LS con't with exp. wheezes.  Absolutely no activity tolerance.  Receiving prednisone 60mg po bid.
+
+CV:  HR 80's-100's SR-ST with frequent PVC's.  BP 90's-130's/
+
+GI:  Tolerating excellent po's, +BS, no stool as of yet this am.
+
+GU:  Permanent indwelling foley cath intact and draining.  Urine slightly pink.
+
+Neuro:  Alert and oriented, pleasant and cooperative.
+
+Social:  Daughter drove in from NY last night and arrived at pts apt at 10:30pm.  She wanted to head into see him at that time, but pt wanted to rest and asked that she be told to come in tomorrow instead. Phone disconnected in attempts to keep pt from exerting himself.
+
+IV:  #20 in left arm, patent. 
+",,
+14763,15994,18346,0,3047-05-24 16:03:00 EST,3047-05-24 16:14:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 7am-7pm
+
+Review of systems:
+
+Neuro:  AA&Ox3.  Pleasant and cooperative. Taking short naps throughout the day.  
+
+Resp:  Nebs changed to q 4 hours prn, with INH added.  LS remain with expiratory wheezing. Pt c labored breathing @ times especially after exerting energy. pt with productive cough--sputum yellowish in color.  pt did c/o of feeling as though he was unable to cough up enough sputum.  Mucomyst neb administered by RT and pt given flutter valve to promote secretions.  Sats 95-97%.  O2 has gone between 2-3L via NC.
+
+CV: hemodynamically stable.  BP 100-141/66-51.  NSR-ST 85-120 with frequent PVCs.  K 3.9 this am.  
+
+GI/GU:  Pt with good Po intake.  Pt had 1 large formed stool.  Stool noted to have small amount of fresh blood in it.  Dr. [**First Name (STitle) **] notified.  Hct stable this admission.  will continue to monitor.  Foley indwelling draining adequates amount of urine.  Some clots noted and otherwise urine yellow-pink.
+
+ID:  pt remains on po levofloxacin.  afebrile.  cultures pnding.
+
+Social: seen by both social work and palliative care who know pt from previous admissions.  Daughter and son visited most of the day.
+
+Dispo:  Remain in MICU.  DNR/DNI, would consider mask ventilation
+",,
+14763,15994,18346,0,3047-05-24 17:33:00 EST,3047-05-24 17:33:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU addendum 7am-7pm
+
+Pt did c/o nervousness/anxiety.  ativan .5mg given with good relief per pt.
+",,
+14763,,18346,0,3047-05-25 04:17:00 EST,3047-05-25 04:23:00 EST,1826,"N",69,"Nursing/Other",,"
+
+[**3047-5-25**] ""B"" NPN
+
+CVS:  Skin warm and dry. Pulses intact. afebrile. HR=74-111 NSR w freq to occ PVC's noted. SBP=124-169. 
+
+RESP:  Pt states he feels better. Exp wheeze noted on evening shift now sleeping comfortably at 30 degree angle with no distress or wheeze noted. Sob noted with exertion only. Productive cough of clear sputum. Sats=93-97% on 2lNC O2. Lung sounds now coarse, diminished at bases.
+
+GI:  No c/o. BM yesterday. +Bowel sounds.
+
+GU:  U/O=clear urine 180-380cc/h
+
+Neuro:  A&Ox3, No deficits noted.
+
+Skin:  Duoderm on rt buttock. No other red areas noted.
+
+Social:  Dtr  and female friend called pt.
+
+Plan:  Pt remains DNR/DNI.  Will be ready for call out today if continues in current status.
+",,
+14763,,18346,0,3047-05-25 16:09:00 EST,3047-05-25 16:14:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 7am-5pm
+
+Pt discharged to [**Location (un) 1320**] [**Location (un) **].
+
+See carevue for all objective data
+
+Overall, pt had an uneventful day.  Resp. status appears to have improved.  Pt did not require nebs today.  LS diminished at bases and otherwise clear.  Sats 93-97&.  Pt using Inhalers as needed.  O2 2L via nc remains on.  Pt continues to have productive cough.  Hemodynamically stable.  Pt with good appetite.  abdomen soft, non tender.  1 large stool with small amount of fresh blood noted.  foley in place draining adequate amounts of urine.  IV d/ced.  Pt remains DNR/DNI
+",,

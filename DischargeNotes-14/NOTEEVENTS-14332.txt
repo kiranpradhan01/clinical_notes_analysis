@@ -1,0 +1,1962 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14332,,,,3011-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-4**] 11:08 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8617**]
+     Reason: bleed                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with delta MS                                                 
+     REASON FOR THIS EXAMINATION:
+      bleed                                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status.  Evaluate for hemorrhage.
+     
+     There are no prior studies for comparison.
+     
+     NON-CONTRAST HEAD CT SCAN:  The examination is slightly limited by patient
+     motion.  There is no evidence of acute intracranial hemorrhage or shift of the
+     normally midline structures.  The ventricles and sulci are prominent,
+     consistent with moderate involutional change.  There is hypodensity of the
+     cerebral periventricular white matter, consistent with chronic microvascular
+     infarction.  This is particularly prominent adjacent to the atrium of the
+     right lateral ventricle.  There is a mucous retention cyst within the right
+     maxillary sinus.  Other visualized paranasal sinuses and mastoid air cells are
+     well aerated.  Osseous and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage.  Chronic
+     microvascular infarction.
+     
+     Please note that MRI with diffusion-weighted imaging is more sensitive for the
+     detection of acute ischemia.
+                                                                           
+
+",,
+14332,,,,3011-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-4**] 10:28 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8616**]
+     Reason: pna                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with delta MS                                                 
+     REASON FOR THIS EXAMINATION:
+      pna                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Altered mental status, question pneumonia.
+     
+     CHEST, TWO VIEWS.  No previous chest x-ray is on PACS record for comparison.
+     
+     The lungs are hyperinflated.  There is borderline cardiomegaly.  The aorta is
+     unfolded.  A right-sided pacemaker is present, with lead tips over right
+     atrium and right ventricle.  There is minimal upper zone redistribution, I
+     doubt overt CHF.  No focal infiltrate or effusion is identified.  Severe
+     degenerative changes of both shoulders with evidence of complete chronic
+     rotator cuff tear is noted.  Osteopenia and degenerative changes in the
+     thoracic spine present.
+     
+     IMPRESSION:  Question COPD.  Upper zone redistribution, without overt CHF.  No
+     pneumonic infiltrate.
+                                                                           
+
+",,
+14332,,,,3011-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-4**] 11:09 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 8618**]
+     Reason: messentaric ischemia - IV contrast only                     
+     Field of view: 39 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with abd pain                                                 
+     REASON FOR THIS EXAMINATION:
+      messentaric ischemia - IV contrast only                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa TUE [**3011-3-5**] 12:11 AM
+      1. Evidence of acute cholecystitis, with gallbladder distention, wall edema,
+      and pericholecystic fluid.
+      
+      2. There is also a probable focal adb aortic dissection just inferior to the
+      right renal artery origin, extending approx 2 cm in length.
+     WET READ AUDIT #1 KKXa TUE [**3011-3-5**] 12:05 AM
+      Evidence of acute cholecystitis, with gallbladder distention, wall edema, and
+      pericholecystic fluid.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abdominal pain.  Evaluate for mesenteric ischemia.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained without IV contrast.  Subsequently, following the administration of
+     120 cc of IV Optiray, contiguous axial images through the abdomen and pelvis
+     were obtained in the arterial and portal venous phases.  Multiplanar
+     reformatted images were generated.
+     
+     CT STUDY OF THE ABDOMEN:  There are atherosclerotic calcifications and plaques
+     of the abdominal aorta.  There are atherosclerotic calcifications at the
+     origin of the celiac, SMA, bilateral renal arteries and [**Female First Name (un) **].  Just inferior to
+     the origin of the right renal artery, there is a thin intimal flap visualized
+     along the right side of the aorta extending 2 cm inferiorly, to the level of
+     another atherosclerotic plaque.  This appears to represent a small focal
+     dissection.  At the origin of the SMA, the aorta measures 1.9 x 2.1 cm.  In
+     the area of the dissection flap, the aorta measures 1.8 x 1.7 cm.  The aorta
+     enlarges slightly just inferior to the origin of the inferior mesenteric
+     artery, measuring 1.9 x 1.9 cm.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are mild-to-moderate dependent changes
+     at the lung bases bilaterally.  There is increased enhancement of the left
+     lobe of the liver anteriorly compared with the remainder of the liver, and a
+     small wedge-shaped area of hyperenhancement of the lateral left lobe.  These
+     may represent small perfusion anomalies.  There appears to be a single
+     prominent duct in the left lobe of the liver (series 3B, image 200), the
+     portal vein is patent.  There is pericholecystic fluid seen, tracking up into
+     the porta hepatis.  The gallbladder is distended, and there is wall edema
+     visualized.  There is hyperemia of the adjacent hepatic parenchyma.  These
+     findings suggest acute cholecystitis.  There is a very small amount of ascites
+                                                                 (Over)
+
+     DATE: [**3011-3-4**] 11:09 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 8618**]
+     Reason: messentaric ischemia - IV contrast only                     
+     Field of view: 39 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     fluid anterior to the liver.  The spleen and adrenal glands are normal.  The
+     kidneys enhance symmetrically.  There are rounded low-attenuation lesions of
+     the lower poles of both kidneys, which are not fully characterized on this
+     study.  The right kidney lower pole lesion appears to have septations or be
+     composed of adjacent cysts.  The structure measures 1.7 x 1.2 cm in axial
+     dimensions.  The body and tail of the pancreas are atrophic.  The common duct
+     measures up to 11 mm in the pancreatic head, but tapers as expected.  Some
+     fluid and stranding is seen adjacent to the pancreatic head.  There is no free
+     air in the abdomen.  There is a small hiatal hernia.  Small bowel loops are
+     not dilated.  There are colonic diverticula, without evidence of
+     diverticulitis.  No pathologically enlarged mesenteric or retroperitoneal
+     lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder and rectum are normal.  There is
+     sigmoid diverticulosis, without evidence of diverticulitis.  The patient is
+     post hysterectomy.  There are calcifications within rounded soft tissue
+     density structures in both sides of the pelvis, which may represent ovaries.
+     These are seen on series 3B, image 297.  In addition, there is a rounded focus
+     of fluid within the pelvis between small bowel loops measuring 2.9 x 3.9 cm in
+     diameter.  No pathologically enlarged pelvic or inguinal lymph nodes.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  There
+     are degenerative changes of the lumbar spine.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.
+     
+     IMPRESSION:
+     1.  The gallbladder is distended, with wall edema, pericholecystic fluid and
+     hyperemia of the adjacent liver.  The findings are suggestive of acute
+     cholecystitis.
+     2.  Severe atherosclerosis of the aorta. There is a penetrating ulcer vs.
+     focal dissection of the abdominal aorta, from the level just inferior to the
+     right renal artery origin, extending for approximately 2 cm.
+     3.  Small amount of ascites fluid adjacent to the liver.
+     4.  Fluid and stranding near the pancreatic head.  This could be related to
+     adjacent cholecystitis, or could be a manifestation of pancreatitis.  There is
+     a somewhat focal dilation of the common duct to 11 mm in the pancreatic head,
+     which subsequently tapers.
+     5.  Calcified structures in both sides of the pelvis, which may represent
+     ovaries.  There is a rounded area of fluid between small bowel loops in the
+     pelvis, which may reflect ascites fluid or a duplication cyst.
+     6.  Sigmoid diverticulosis, without evidence of diverticulitis.
+     
+     Findings numerals one and two were discussed with Dr. [**Last Name (STitle) 8619**] at the
+     conclusion of the exam.
+                                                                 (Over)
+
+     DATE: [**3011-3-4**] 11:09 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 8618**]
+     Reason: messentaric ischemia - IV contrast only                     
+     Field of view: 39 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14332,,,,3011-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-4**] 11:09 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 8618**]
+     Reason: messentaric ischemia - IV contrast only                     
+     Field of view: 39 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with abd pain                                                 
+     REASON FOR THIS EXAMINATION:
+      messentaric ischemia - IV contrast only                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa TUE [**3011-3-5**] 12:11 AM
+      1. Evidence of acute cholecystitis, with gallbladder distention, wall edema,
+      and pericholecystic fluid.
+      
+      2. There is also a probable focal adb aortic dissection just inferior to the
+      right renal artery origin, extending approx 2 cm in length.
+     WET READ AUDIT #1 KKXa TUE [**3011-3-5**] 12:05 AM
+      Evidence of acute cholecystitis, with gallbladder distention, wall edema, and
+      pericholecystic fluid.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abdominal pain.  Evaluate for mesenteric ischemia.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained without IV contrast.  Subsequently, following the administration of
+     120 cc of IV Optiray, contiguous axial images through the abdomen and pelvis
+     were obtained in the arterial and portal venous phases.  Multiplanar
+     reformatted images were generated.
+     
+     CT STUDY OF THE ABDOMEN:  There are atherosclerotic calcifications and plaques
+     of the abdominal aorta.  There are atherosclerotic calcifications at the
+     origin of the celiac, SMA, bilateral renal arteries and [**Female First Name (un) **].  Just inferior to
+     the origin of the right renal artery, there is a thin intimal flap visualized
+     along the right side of the aorta extending 2 cm inferiorly, to the level of
+     another atherosclerotic plaque.  This appears to represent a small focal
+     dissection.  At the origin of the SMA, the aorta measures 1.9 x 2.1 cm.  In
+     the area of the dissection flap, the aorta measures 1.8 x 1.7 cm.  The aorta
+     enlarges slightly just inferior to the origin of the inferior mesenteric
+     artery, measuring 1.9 x 1.9 cm.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are mild-to-moderate dependent changes
+     at the lung bases bilaterally.  There is increased enhancement of the left
+     lobe of the liver anteriorly compared with the remainder of the liver, and a
+     small wedge-shaped area of hyperenhancement of the lateral left lobe.  These
+     may represent small perfusion anomalies.  There appears to be a single
+     prominent duct in the left lobe of the liver (series 3B, image 200), the
+     portal vein is patent.  There is pericholecystic fluid seen, tracking up into
+     the porta hepatis.  The gallbladder is distended, and there is wall edema
+     visualized.  There is hyperemia of the adjacent hepatic parenchyma.  These
+     findings suggest acute cholecystitis.  There is a very small amount of ascites
+                                                                 (Over)
+
+     DATE: [**3011-3-4**] 11:09 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 8618**]
+     Reason: messentaric ischemia - IV contrast only                     
+     Field of view: 39 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     fluid anterior to the liver.  The spleen and adrenal glands are normal.  The
+     kidneys enhance symmetrically.  There are rounded low-attenuation lesions of
+     the lower poles of both kidneys, which are not fully characterized on this
+     study.  The right kidney lower pole lesion appears to have septations or be
+     composed of adjacent cysts.  The structure measures 1.7 x 1.2 cm in axial
+     dimensions.  The body and tail of the pancreas are atrophic.  The common duct
+     measures up to 11 mm in the pancreatic head, but tapers as expected.  Some
+     fluid and stranding is seen adjacent to the pancreatic head.  There is no free
+     air in the abdomen.  There is a small hiatal hernia.  Small bowel loops are
+     not dilated.  There are colonic diverticula, without evidence of
+     diverticulitis.  No pathologically enlarged mesenteric or retroperitoneal
+     lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder and rectum are normal.  There is
+     sigmoid diverticulosis, without evidence of diverticulitis.  The patient is
+     post hysterectomy.  There are calcifications within rounded soft tissue
+     density structures in both sides of the pelvis, which may represent ovaries.
+     These are seen on series 3B, image 297.  In addition, there is a rounded focus
+     of fluid within the pelvis between small bowel loops measuring 2.9 x 3.9 cm in
+     diameter.  No pathologically enlarged pelvic or inguinal lymph nodes.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  There
+     are degenerative changes of the lumbar spine.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.
+     
+     IMPRESSION:
+     1.  The gallbladder is distended, with wall edema, pericholecystic fluid and
+     hyperemia of the adjacent liver.  The findings are suggestive of acute
+     cholecystitis.
+     2.  Severe atherosclerosis of the aorta. There is a penetrating ulcer vs.
+     focal dissection of the abdominal aorta, from the level just inferior to the
+     right renal artery origin, extending for approximately 2 cm.
+     3.  Small amount of ascites fluid adjacent to the liver.
+     4.  Fluid and stranding near the pancreatic head.  This could be related to
+     adjacent cholecystitis, or could be a manifestation of pancreatitis.  There is
+     a somewhat focal dilation of the common duct to 11 mm in the pancreatic head,
+     which subsequently tapers.
+     5.  Calcified structures in both sides of the pelvis, which may represent
+     ovaries.  There is a rounded area of fluid between small bowel loops in the
+     pelvis, which may reflect ascites fluid or a duplication cyst.
+     6.  Sigmoid diverticulosis, without evidence of diverticulitis.
+     
+     Findings numerals one and two were discussed with Dr. [**Last Name (STitle) 8619**] at the
+     conclusion of the exam.
+                                                                 (Over)
+
+     DATE: [**3011-3-4**] 11:09 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 8618**]
+     Reason: messentaric ischemia - IV contrast only                     
+     Field of view: 39 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14332,10379,,,3011-03-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3011-3-5**]              Discharge Date:   [**3011-3-12**]
+ 
+Date of Birth:  [**2922-2-27**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5595**] 
+Chief Complaint:
+Abdominal pain.
+ 
+Major Surgical or Invasive Procedure:
+percutaneous cholecystostomy tube 
+
+ 
+History of Present Illness:
+This is a 89F history of CVA, dementia, Type 2 DM, hypertension 
+and ""h/o pancreas problems"" who presented initially with chest 
+pain and and abdominal pain. Patient found to have elevated 
+white count and cholecystitis on CT scan, and was evaluated by 
+general surgery and ERCP. She received percutaneous 
+cholecystostomy tube by interventional radiology and was started 
+on antibiotics. Of note, she was also found to have infrarenal 
+aortic ulceration/dissection on abdominal CT and has been 
+followed by vascular surgery for this.  
+.  
+Cardiac enzymes were borderline elevated during admission but 
+patient did not have chest pain upon medical team evaluation.  
+.  
+ROS: Denied fever, chills, SOB, cough, chest pain, abdominal 
+pain  
+
+ 
+Past Medical History:
+1. CAD  
+2. CHF - Echo at [**Hospital1 717**] with LVEF 50-55% and hypokinetic septum & 
+apex  
+3. Right-sided atrial and ventricular pacemaker for sinus pause  
+
+4. Type 1 DM  
+5. Hypertension  
+6. Hypercholesterolemia  
+7. CVA - left parietal lobe infarct  
+8. Peripheral vascular disease  
+
+ 
+Social History:
+Lives with daughter and has visiting nurse. 
+ 
+Family History:
+N/C.
+ 
+Physical Exam:
+Vitals: T:99.3 P:68 R:20 BP:148/62 SaO2:98% on RA  
+General: NAD.  
+HEENT: NC/AT, PERRL, EOMI, no scleral icterus noted, MMM, no 
+lesions noted in OP  
+Neck: supple, no JVD, radiating aortic murmur  
+Pulmonary: Lungs CTA anteriorly  
+Cardiac: RRR, nl. S1S2, 3/6 systolic murmur at RUSB radiating to 
+neck Abdomen: soft, NT/ND, decreased bowel sounds, 
+cholecystostomy tube in place draining bilious fluid. 
+Subcutaneous nodules noted.  
+Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses 
+b/l.  
+Lymphatics: No cervical, supraclavicular, axillary or inguinal 
+lymphadenopathy noted.  
+Skin: no rashes or lesions noted.  
+Neurologic: Alert, oriented to person and says she is in [**Hospital1 10481**] hospital. Moves all 4 extremities. CN II - XII grossly 
+intact.  
+
+ 
+Pertinent Results:
+[**3011-3-4**] 09:00PM URINE  RBC-[**3-18**]* WBC-0-2 BACTERIA-FEW YEAST-NONE 
+EPI-[**3-18**]
+[**3011-3-4**] 09:00PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+[**3011-3-4**] 09:00PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 302**]-1.012
+[**3011-3-4**] 09:00PM   PT-11.4 PTT-22.5 INR(PT)-1.0
+[**3011-3-4**] 09:00PM   PLT COUNT-232
+[**3011-3-4**] 09:00PM   MICROCYT-3+
+[**3011-3-4**] 09:00PM   NEUTS-84.3* LYMPHS-9.4* MONOS-5.1 EOS-1.0 
+BASOS-0.2
+[**3011-3-4**] 09:00PM   WBC-16.8* RBC-5.04 HGB-11.7* HCT-36.2 MCV-72* 
+MCH-23.2* MCHC-32.3 RDW-15.7*
+[**3011-3-4**] 09:00PM   ALBUMIN-4.4 PHOSPHATE-3.1 MAGNESIUM-2.1
+[**3011-3-4**] 09:00PM   CK-MB-3
+[**3011-3-4**] 09:00PM   cTropnT-<0.01
+[**3011-3-4**] 09:00PM   LIPASE-1136*
+[**3011-3-4**] 09:00PM   ALT(SGPT)-117* AST(SGOT)-212* CK(CPK)-134 ALK 
+PHOS-213* AMYLASE-576* TOT BILI-1.0
+[**3011-3-4**] 09:00PM   estGFR-Using this
+[**3011-3-4**] 09:00PM   GLUCOSE-155* UREA N-20 CREAT-1.1 SODIUM-137 
+POTASSIUM-6.3* CHLORIDE-105 TOTAL CO2-22 ANION GAP-16
+[**3011-3-5**] 03:13AM   PT-12.9 PTT-23.3 INR(PT)-1.1
+[**3011-3-5**] 03:13AM   PLT COUNT-211
+[**3011-3-5**] 03:13AM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-OCCASIONAL 
+MACROCYT-2+ MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-OCCASIONAL 
+ELLIPTOCY-1+
+[**3011-3-5**] 03:13AM   NEUTS-86.3* BANDS-0 LYMPHS-9.3* MONOS-2.8 
+EOS-1.4 BASOS-0.2
+[**3011-3-5**] 03:13AM   WBC-11.7* RBC-4.44 HGB-10.7* HCT-31.4* 
+MCV-71* MCH-24.1* MCHC-34.1 RDW-15.3
+[**3011-3-5**] 03:13AM   ALBUMIN-3.8 CALCIUM-10.2 PHOSPHATE-3.4 
+MAGNESIUM-1.8
+[**3011-3-5**] 03:13AM   CK-MB-3 cTropnT-0.02*
+[**3011-3-5**] 03:13AM   LIPASE-271*
+[**3011-3-5**] 03:13AM   ALT(SGPT)-101* AST(SGOT)-109* LD(LDH)-257* 
+ALK PHOS-191* AMYLASE-314* TOT BILI-0.7
+[**3011-3-5**] 03:13AM   GLUCOSE-248* UREA N-18 CREAT-0.9 SODIUM-137 
+POTASSIUM-4.2 CHLORIDE-106 TOTAL CO2-21* ANION GAP-14
+[**3011-3-5**] 03:58PM   CK-MB-NotDone cTropnT-0.02*
+[**3011-3-5**] 03:58PM   CK(CPK)-68
+.
+CT abd/pelvis:
+1. The gallbladder is distended, with wall edema, 
+pericholecystic fluid and hyperemia of the adjacent liver. The 
+findings are suggestive of acute cholecystitis.
+2. Severe atherosclerosis of the aorta. There is a penetrating 
+ulcer vs. focal dissection of the abdominal aorta, from the 
+level just inferior to the right renal artery origin, extending 
+for approximately 2 cm.
+3. Small amount of ascites fluid adjacent to the liver.
+4. Fluid and stranding near the pancreatic head. This could be 
+related to adjacent cholecystitis, or could be a manifestation 
+of pancreatitis. There is a somewhat focal dilation of the 
+common duct to 11 mm in the pancreatic head, which subsequently 
+tapers.
+5. Calcified structures in both sides of the pelvis, which may 
+represent ovaries. There is a rounded area of fluid between 
+small bowel loops in the pelvis, which may reflect ascites fluid 
+or a duplication cyst.
+6. Sigmoid diverticulosis, without evidence of diverticulitis.
+.
+head CT: evidence of acute intracranial hemorrhage. Chronic 
+microvascular infarction.
+Please note that MRI with diffusion-weighted imaging is more 
+sensitive for the detection of acute ischemia.
+.
+CXR:Question COPD. Upper zone redistribution, without overt CHF. 
+No pneumonic infiltrate.
+
+ 
+Brief Hospital Course:
+This is an 89 y.o. female with  a h/o CVA, dementia, Type 1 DM, 
+hypertension and ""h/o pancreas problems"" who presented initially 
+with chest pain and and found to have cholecystitis and 
+infrarenal aortic ulceration/dissection. 
+.  
+1) Cholecystitis: Patient status post cholecystostomy tube 
+placement, cholecystectomy deferred due to comorbidities. No 
+signs of cholangitis, as blood pressure stable, her fever curve 
+trended down, and WBC count and alk. phos. trending downward.   
+Her bile fluid grew [**Female First Name (un) 929**] but ID said to hold on treaating 
+this unless she is unstable or blood cultures positive for 
+[**Female First Name (un) 929**] The antibiotics were first narrowed to cipro and flagyl 
+and then changed to PO.  Per surgery, cholecystostomy tube 
+should be in place for 6 weeks and she will be followed by 
+interventional radiology for this.  
+.  
+2) Acute renal failure - The patient had a slight creatinine 
+bump, likely secondary to dehydration/pre-renal picture given 
+the cr improved with IVF.  Her lisinopril and atenolol were 
+initially held but restarted after her ARF improved. 
+.  
+3) Aortic dissection ulceration - As repeat scan done at [**Hospital1 19**] 
+did not show worsening dissection, vascular recommended 
+improving blood pressure control by uptitrating her regimen as 
+tolerated. Nifedipine was increased to 120 mg qdaily and she was 
+continued on atenolol and lisinopril.  She will need a repeat 
+CTA of the abdomen and pelvis with and without contrast in 3-6 
+months to evaluate the focal dissection of the abdominal aorta, 
+from the level just inferior to the right renal artery origin.
+.  
+4) Non-anion gap acidosis - The patient had low bicarbonate, 
+likely secondary to biliary drainage, and this remained stable.  
+
+.  
+5) CAD - The patient has a history of remote NQWMI per [**Hospital1 717**] 
+records, but had no issues here and was continued on all 
+appropriate medications including nifedipine, lisinopril, 
+atenolol, and ASA.  Given her LFT elevation her atorvastatin was 
+held.  It was trending down at discharge and should be rechecked 
+as an outpatient.  Her statin should be restarted if her LFT's 
+are normal.   
+.  
+6) transaminitis: The patient had elevated liver enzymes, likely 
+[**2-15**] reactive hyperaemia of liver surrounding inflamed gall 
+bladder, as this improved during her course.  These should be 
+checked at rehab and if completely normal would restart 
+mirtazapine 15 mg daily and atorvastatin 10 mg daily as these 
+were held
+.
+7) Diabetes mellitus - Has been on sliding scale in house, and 
+was initially given 10NPH in AM and 6NPH in PM based on recent 
+sliding scale requirements.  This was increased per daily needs 
+and should continue to be followed as an outpatient.  
+.  
+8) Depression - We held the patient's mirtazapine given 
+transaminitis; continue to hold until she demonstrates stable 
+hepatic function and then would restart her mirtazapine.
+.
+9) Fever - The patient had a low grade fever which resolved.  
+Her CXR and urine culture was negative.  Her blood has no growth 
+to date, but should be followed up final cultures by her PCP.  
+[**Name10 (NameIs) **] may have had a viral syndrome as she had a slight cough, 
+fevers and chills.  At discharge she was afebrile with no signs 
+of infection.
+.
+10) Dispo - The patient will be at [**Hospital3 6518**] [**Telephone/Fax (1) 10482**], 
+where a physician from Dr.[**Doctor Last Name 10483**] practice, or Dr. 
+[**Last Name (STitle) **] will see the patient.[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10484**] will be help 
+coordinate the cholecystostomy tube removal, call [**Telephone/Fax (1) 10485**] 
+for more information
+
+.
+11) Code: The patient is DNR/DNI
+ 
+Medications on Admission:
+1. Lisinopril 40mg qdaily  
+2. Nifedipine CR 60mg qdaily  
+3. Pantoprazole 40mg qdaily  
+4. Mirtazapine 15mg qdaily  
+5. Atorvastatin 10mg qdaily  
+6. ASA  
+7. Insulin  
+8. Atenolol 100mg qdaily  
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily): 
+hold for sbp < 100 and hr < 55.  
+3. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+BID (2 times a day) as needed.  
+4. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 7 days.  
+5. Nifedipine 60 mg Tablet Sustained Release Sig: Two (2) Tablet 
+Sustained Release PO DAILY (Daily): hold for sbp < 100.  
+6. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 7 days.  
+7. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+8. Humalog 100 unit/mL Cartridge Sig: per sliding scale  
+Subcutaneous per ss: follow provided ss.  
+9. Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: 17 Units 
+in am and 6 units in pm  Subcutaneous as above.  
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 6518**] - [**Location (un) 1194**]
+ 
+Discharge Diagnosis:
+primary:
+cholecystitis
+focal dissection of abdominal aorta
+.
+secondary:
+1. CAD  
+2. CHF 
+4. Type 1 DM  
+5. Hypertension  
+6. Hypercholesterolemia  
+8. Peripheral vascular disease  
+
+ 
+Discharge Condition:
+good. tolerating orals
+
+ 
+Discharge Instructions:
+1. [**Doctor First Name 54**] have cholecystitis and were treated with antibiotics and 
+a tube.
+.
+2. Please return to the hospital if [**Doctor First Name **] experience increasing 
+abdominal pain, nausea, vomiting, fever, or any symptoms that 
+concern [**Doctor First Name **].
+.
+3. Please follow medications on your list.
+.
+4. [**Doctor First Name 54**] will have follow-up with Dr. [**Last Name (STitle) **] and have your tube 
+pulled in 5 weeks.
+ 
+Followup Instructions:
+1. [**Doctor First Name 54**] will need to have a repeat CTA of the abdomen and pelvis 
+with and without contrast in 3-6 months to evaluate the focal 
+dissection of the abdominal aorta, from the level just inferior 
+to the right renal artery origin.
+2. [**Doctor First Name 54**] will need your drain pulled in 5 weeks, NP [**First Name8 (NamePattern2) **] 
+[**Last Name (NamePattern1) 10484**] will coordinate with Dr. [**Last Name (STitle) **], if needed call 
+[**Telephone/Fax (1) 10485**] for more information
+3. Dr. [**Last Name (STitle) **] will follow [**Doctor First Name **] at rehab.  For problems she can 
+be reached at ([**Telephone/Fax (1) 8277**]
+
+ 
+                             [**First Name11 (Name Pattern1) 5148**] [**Last Name (NamePattern4) 5149**] MD [**MD Number 5150**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 1925**] [**Last Name (NamePattern4) 1926**] MD [**MD Number 1927**] [**3011-3-12**] @ 1537
+Signed electronically by: DR. [**First Name4 (NamePattern1) 5148**] [**Last Name (NamePattern1) **]
+ on: SAT [**3011-4-20**] 1:19 PM
+(End of Report)
+
+
+",,
+14332,10379,,,3011-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-5**] 2:17 PM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US; GUIDANCE PERC TRANS BIL DRAINAGE USClip # [**Telephone/Fax (1) 8620**]
+     Reason: 89 yo female with cholecyutitis and gallstone pancretaitis m
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 yo female with cholecyutitis and gallstone pancretaitis multiple 
+      coomorbidities. Please drain asap wbc 17
+     REASON FOR THIS EXAMINATION:
+      89 yo female with cholecyutitis and gallstone pancretaitis multiple 
+      coomorbidities including DM. Please drain asap wbc 17
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  89-year-old woman with elevated white blood cell count and distended
+     gallbladder, for percutaneous cholecystostomy.
+     
+     PROCEDURE:  The risks and benefits of the procedure were explained to the
+     patient's daughter, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8621**], from whom telephone consent was obtained.  A
+     pre-procedure timeout was performed.  The area was prepped and draped in a
+     sterile fashion.  Approximately 10 cc of 1% lidocaine was used as a local
+     anesthetic.  Moderate sedation was provided by the ICU nursing staff.
+     
+     Under sonographic guidance, an 8 French pigtail catheter system was deployed
+     into the gallbladder, the trocar was removed, and the pigtail was formed.
+     Approximately 100 cc of bilious fluid was drained into a bag.  A sample was
+     sent for microbiology and culture.  The patient tolerated the procedure well
+     and there were no immediate post-procedure complications.
+     
+     Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 2742**] supervised the procedure and was present.
+     
+     IMPRESSION:  Technically successful ultrasound-guided percutaneous
+     cholecystostomy.
+     
+
+",,
+14332,10379,,,3011-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14332,10379,,,3011-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-5**] 2:17 PM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US; GUIDANCE PERC TRANS BIL DRAINAGE USClip # [**Telephone/Fax (1) 8620**]
+     Reason: 89 yo female with cholecyutitis and gallstone pancretaitis m
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 yo female with cholecyutitis and gallstone pancretaitis multiple 
+      coomorbidities. Please drain asap wbc 17
+     REASON FOR THIS EXAMINATION:
+      89 yo female with cholecyutitis and gallstone pancretaitis multiple 
+      coomorbidities including DM. Please drain asap wbc 17
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  89-year-old woman with elevated white blood cell count and distended
+     gallbladder, for percutaneous cholecystostomy.
+     
+     PROCEDURE:  The risks and benefits of the procedure were explained to the
+     patient's daughter, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8621**], from whom telephone consent was obtained.  A
+     pre-procedure timeout was performed.  The area was prepped and draped in a
+     sterile fashion.  Approximately 10 cc of 1% lidocaine was used as a local
+     anesthetic.  Moderate sedation was provided by the ICU nursing staff.
+     
+     Under sonographic guidance, an 8 French pigtail catheter system was deployed
+     into the gallbladder, the trocar was removed, and the pigtail was formed.
+     Approximately 100 cc of bilious fluid was drained into a bag.  A sample was
+     sent for microbiology and culture.  The patient tolerated the procedure well
+     and there were no immediate post-procedure complications.
+     
+     Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 2742**] supervised the procedure and was present.
+     
+     IMPRESSION:  Technically successful ultrasound-guided percutaneous
+     cholecystostomy.
+     
+
+",,
+14332,10379,17816,0,3011-03-05 05:34:00 EST,3011-03-05 05:49:00 EST,6230,"N",74,"Nursing/Other","TSICU Nursing Admit Note","
+TSICU Nursing Admit Note
+Pt brought to [**Hospital1 10**] ED by daughter after pt c/o chest and abdominal pain, nausea and vomiting.  CT showed acute cholecystitis and abdominal aortic dissection below the level of the renal arteries.  Pt admitted to ICU for BP control and monitoring.
+
+Pt with hx CVA, DM, HTN, GI ulcers, pacemaker and pancreatic problem per daughter in [**Name2 (NI) **].  Cared for at home by daughter with visiting RN.  Family went home prior to admission to ICU.
+
+ROS:
+
+Neuro - Pt with hx CVA.  Able to speak a few words, oriented to self.  Sedated with midazolam and dilaudid to tolerating arterial line and PIV placement.  Pt continues to moan and yell through procedures.  MAE.
+
+CV - Atrial pacer at 60, sinus rhythm 60s to 70s if stimulated.  Occ PVCs.  BP 120s to 200.  Given IV antihypertensives to control SBP.  Faint peripheral pulses.  No edema.
+
+Resp - Lungs CTA, dim in bases.  4L NC after sedation with O2 sats 100%.
+
+GI - Abdomen soft, tender.  + BS.  No BM.
+
+GU - Adequate clear yellow urine via foley.
+
+Endo - RISS.
+
+Social - No contact with family.
+
+A - Hypertensive, contolled with IV meds.  
+
+P - Plan for CT guided drainage at 0800.  Control SBP.  Medicate for comfort. 
+",,
+14332,10379,17816,0,3011-03-05 18:33:00 EST,3011-03-05 19:09:00 EST,6158,"N",74,"Nursing/Other","TSICU NPN 0700-1900","
+[** 917**] NPN 0700-1900
+EVENTS:
+
+- US for choleystostomy drain placement 
+
+REVIEW OF SYSTEMS:
+
+NEURO: A&OX2-3, confused at times, not making sense. Pupils equal and reactive. Moves all extremities on bed. Complains of abd pain (right side), dilaudid given with good effect. 
+
+CV: SR/ST 70-100's, A-paced at 60. SBP ranging 130-170's. Lopressor and hydralazine given for blood pressure control. [** 917**] HO aware of SBP 160-170's. P-boots intact.
+
+RESP: RA SATS >96%. LS clear, diminished at the bases. No respiratory distress noted.
+
+ENDO: BS covered per RISS.
+
+GI: NPO. Abd soft, non-distended. NPO. +BS.
+
+GU: Foley draining clear yellow urine. Adequate UO.
+
+ACCESS: Right radial arterial line. PIV X 2.
+
+SKIN: Skin intact. 
+
+SOCIAL: Family members into visit this evening. Spoke with trauma team throughout day about plan of care. Code status discussed with daughter by [**Name2 (NI) 917**] HO, daughter states pt is full code at this time.
+
+PLAN: Monitor BP control, pain control, monitor drainage from tube placement.
+
+ 
+
+
+",,
+14332,10379,17816,0,3011-03-06 06:26:00 EST,3011-03-06 06:32:00 EST,6230,"N",74,"Nursing/Other","TSICU Nursing Progress Note","
+[** 917**] Nursing Progress Note
+Neuro - Pt alert, oriented to self.  Agitated and moaning at times.  Denying pain.  Able to answer simple questions and follow simple commands.
+
+CV - HR 60 - 110s, occ PVCs.  A-paced at 60 in demand mode.  SBP 110s to 170s.  Given labetolol PRN x1, otherwise well controlled on standing antihypertensive medication doses.  Peripheral pulses weakly palpable.  No edema.
+
+Resp - Lungs CTA, dim in bases.  On RA.
+
+GI - Abdomen soft, tender to palpation.  Drain in place with dark output.  No BM.  Remains NPO.
+
+GU - Adequate UOP via foley.
+
+Endo - RISS.
+
+A - SBP under better control with increased antihypertensive medications.
+
+P - Continue to monitor and treat HTN.  Replete electrolytes.  Consider restarting home PO antihypertensives.  Consider transfer to floor.
+",,
+14332,10379,,,3011-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-10**] 9:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8622**]
+     Reason: please assess for infiltrate                                
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with percutaneous biliary drain for complicated cholecystitis 
+      now c fever.
+     REASON FOR THIS EXAMINATION:
+      please assess for infiltrate                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Percutaneous biliary drain for complicated cholecystitis, now fever.
+     Question infiltrate.
+     
+     CHEST, SINGLE AP PORTABLE VIEW.
+     
+     Lordotic positioning.  Possible mild cardiomegaly.  The aorta is calcified and
+     unfolded.  Prominence of right paratracheal soft tissues likely represents
+     vascular atherosclerosis in an individual of this age.  There is no CHF, focal
+     infiltrate or effusion.  A right-sided pacemaker is present, with lead tips
+     over right atrium and right ventricle.  At the periphery of these films,
+     tubing overlies the right upper quadrant.  Severe degenerative changes of both
+     shoulders with evidence of full thickness chronic rotator cuff tears noted.
+     
+     IMPRESSION:  No acute pulmonary process identified.  Upper zone redistribution
+     without overt CHF.  Probable background COPD.
+                                                                           
+
+",,
+14332,,,,3011-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-13**] 3:56 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 8623**]
+     Reason: s/p recent admission for cholecystitits with percutaneous tu
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with above history; acute cholecystitis; replacement of
+      percutaneous tube
+     REASON FOR THIS EXAMINATION:
+      s/p recent admission for cholecystitits with percutaneous tube placed; patient
+      pulled out tube this morning; needs replacement
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  89-year-old woman with history of percutaneous cholecystostomy tube
+     which the patient pulled out this morning for replacement.
+     
+     ABDOMINAL ULTRASOUND STUDY:  Images of the gallbladder demonstrate a
+     less distended gallbladder in comparison to a week prior.  The gallbladder
+     wall is not thickened nor is it edematous.  No gallstones are seen.  The main
+     portal vein is patent, and its flow is hepatopetal.  Few images through all
+     four quadrants of the abdomen demonstrate no ascites or fluid collections.
+     During our study, it was noted that the patient was diffusely tender in all
+     four quadrants.
+     
+     Given that the patient is on aspirin and given the appearance of the
+     gallbladder at this time, a decision was made not to place a new drain at this
+     time.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) **]. Young on [**3011-3-13**].
+     
+     IMPRESSION:  Nondistended gallbladder without an edematous wall.  No
+     gallstones seen.
+     
+     Further workup is recommended at this time, as the patient is diffusely
+     tender.  At this time, there is no fluid seen in the imaged four quadrants of
+     the abdomen.  CT scan may be advisable for further evaluation.
+     
+     
+     
+     
+
+",,
+14332,,,,3011-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-13**] 7:42 PM
+     ACUTE ABD SERIES ([**2-16**] VIEWS OF ABD & SGL CHEST VIEW)            Clip # [**Clip Number (Radiology) 8624**]
+     Reason: Concern for constipation, but also wanting to evaluate for p
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with diffuse abdominal pain.                                  
+     REASON FOR THIS EXAMINATION:
+      Concern for constipation, but also wanting to evaluate for perforation.         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diffuse abdominal pain, concern for constipation.  Evaluate for
+     perforation.
+     
+     COMPARISON:  None.
+     
+     UPRIGHT AND SUPINE VIEWS OF THE ABDOMEN:
+     
+     Pacing leads seen overlying the right atrium and ventricle.  Visualized lung
+     bases appear relatively clear.
+     
+     No free air seen under the hemidiaphragms. No abnormally dilated loops of
+     small bowel or air-fluid level seen.  Stool and gas seen throughout the colon.
+     Degenerative change is seen within the lumbar spine.  Metallic clips seen
+     overlying the left hemipelvis.
+     
+     IMPRESSION:  No evidence of obstruction.  No free air seen under the
+     hemidiaphragms.
+
+",,
+14332,,,,3011-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-13**] 7:42 PM
+     CHEST (SINGLE VIEW); FOLLOW-UP,REQUEST BY RAD.                  Clip # [**Clip Number (Radiology) 8625**]
+     Reason: Please evaluate for free air under the diaphragm            
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with diffuse abdominal pain.                                  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for free air under the diaphragm                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diffuse abdominal pain, evaluate for free air under the
+     hemidiaphragms.
+     
+     COMPARISON:  [**3011-3-10**].
+     
+     FINDINGS:  Right-sided pacer again seen with leads overlying the right atrium
+     and ventricle.  Cardiac and mediastinal contours appear stable, with
+     atherosclerotic calcifications again noted within the aorta.  Pulmonary
+     vascularity appears unremarkable.  No focal consolidation seen.  No evidence
+     of pleural effusion.  No evidence of free air under the hemidiaphragms. Old
+     left proximal humerus fracture/trauma noted.
+     
+     IMPRESSION:  No evidence of free air under the hemidiaphragms, or acute
+     cardiopulmonary process.  No significant change from prior.
+
+",,
+14332,,,,3011-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-13**] 7:42 PM
+     CHEST (SINGLE VIEW); FOLLOW-UP,REQUEST BY RAD.                  Clip # [**Clip Number (Radiology) 8625**]
+     Reason: Please evaluate for free air under the diaphragm            
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with diffuse abdominal pain.                                  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for free air under the diaphragm                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diffuse abdominal pain, evaluate for free air under the
+     hemidiaphragms.
+     
+     COMPARISON:  [**3011-3-10**].
+     
+     FINDINGS:  Right-sided pacer again seen with leads overlying the right atrium
+     and ventricle.  Cardiac and mediastinal contours appear stable, with
+     atherosclerotic calcifications again noted within the aorta.  Pulmonary
+     vascularity appears unremarkable.  No focal consolidation seen.  No evidence
+     of pleural effusion.  No evidence of free air under the hemidiaphragms. Old
+     left proximal humerus fracture/trauma noted.
+     
+     IMPRESSION:  No evidence of free air under the hemidiaphragms, or acute
+     cardiopulmonary process.  No significant change from prior.
+
+",,
+14332,,,,3011-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-14**] 12:27 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8627**]
+     Reason: pt. with diffuse abdominal pain, recent cholecystitis. rule 
+     Admitting Diagnosis: CHOLECYSTITIS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman with abd pain, leukocytosis and history of recent 
+      cholecystitis                                                
+     REASON FOR THIS EXAMINATION:
+      pt. with diffuse abdominal pain, recent cholecystitis. rule out abscess, 
+      peritonitis, perforation, any abdominal pathology
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  89-year-old female with abdominal pain, leukocytosis and
+     history of recent cholecystitis.  Patient now with diffuse abdominal pain.
+     Rule out abscess, peritonitis, perforation, abdominal pathology.
+     
+     COMPARISON:  [**3011-3-4**].
+     
+     TECHNIQUE:  Contrast enhanced multidetector CT acquired axial images of the
+     abdomen and pelvis from the lung bases to the pubic symphysis.  Multiplanar
+     reformatted images were obtained.
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST:  Again seen are mild-to-moderate
+     dependent changes at the lung bases bilaterally.  No focal liver lesions are
+     seen. The gallbladder is nondistended.  No stone is seen within the
+     gallbladder.  There is a small amount of pericholecystic fluid, which may be
+     related to the small amount of ascites adjacent to the liver.  There is no
+     evidence of cholecystitis.  The spleen and adrenal glands are within normal
+     limits. Multiple low attenuation lesions are seen within both kidneys, too
+     small to fully characterized, however, unchanged from [**3011-3-4**].
+     Pancreas is atrophic.  Previously noted hypodensity and stranding around the
+     head of the pancreas has resolved.  There is no billiary or pacreatic ductal
+     dilitation.  No free air is noted within the abdomen.  Small hiatal hernia is
+     seen.  Intra-abdominal loops of small bowel are within normal limits.  Colonic
+     diverticula are seen without evidence of diverticulitis.  No pathologically
+     enlarged mesenteric or retroperitoneal lymph nodes are apparent.  Again noted
+     is focal dissection of the abdominal aorta at the level just inferior to the
+     right renal origin, unchanged from prior CT dated [**3011-3-4**].
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder and rectum are within
+     normal limits.  There is sigmoid diverticulosis, without evidence of
+     diverticulitis. A right adnexal cyst measuring 2.0 x 3.6 cm is present.  The
+     left adnexa is unremarkable.  Calcifications are seen within the pelvic side
+     walls as previously mentioned, unchanged.  These may represent calcified lymph
+     nodes as seen in the abdomen.  No pathologically enlarged pelvic or inguinal
+     lymph nodes are apparent.  There is trace free fluid within the pelvis.  No
+     suspicious osteolytic or sclerotic lesion is seen.  Multilevel degenerative
+     changes are again noted throughout the thoracolumbar spine.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3011-3-14**] 12:27 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8627**]
+     Reason: pt. with diffuse abdominal pain, recent cholecystitis. rule 
+     Admitting Diagnosis: CHOLECYSTITIS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     1.  Non distended gallbladder with small amount of pericholecysitc fluid which
+     may be attributable to ascites seen adjacent to the liver. No evidence
+     cholecystitis.
+     
+     2.  Penetrating ulcer versus focal dissection of the abdominal aorta just
+     inferior to the right renal artery origin is unchanged from prior CT from
+     [**3011-3-4**].
+     
+     3.  Small amount of ascites fluid adjacent to the liver and trace free fluid
+     within the pelvis.
+     
+     4.  Resolution of the previously noted stranding around the pancreatic head.
+     There is no billiary or pancreatic ductal dilatation.
+     
+     5.  Cyst within the right adnexa, unchanged from [**3011-3-4**].
+     
+     6.  Scattered colonic diverticulosis, without evidence of diverticulitis.
+
+",,
+14332,,,,3011-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-14**] 11:26 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8626**]
+     Reason: r/o pneumonia as pt. with elevated wbc                      
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman with elevated wbc, r/o pna                                   
+                   
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia as pt. with elevated wbc                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL VIEWS OF THE CHEST
+     
+     REASON FOR EXAM:  Elevated white blood count, rule out pneumonia.
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  Compared to prior study performed a day
+     before, moderate cardiomegaly is stable.  Right-sided pacemaker lead tips are
+     in standard position in the right atrium and right ventricle.  There is no
+     pneumothorax or pleural effusion.  Discoid atelectasis in the right lower lobe
+     is new.  Otherwise, the lungs are clear.
+                                                                           
+
+",,
+14332,,,,3011-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-14**] 12:27 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8627**]
+     Reason: pt. with diffuse abdominal pain, recent cholecystitis. rule 
+     Admitting Diagnosis: CHOLECYSTITIS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman with abd pain, leukocytosis and history of recent 
+      cholecystitis                                                
+     REASON FOR THIS EXAMINATION:
+      pt. with diffuse abdominal pain, recent cholecystitis. rule out abscess, 
+      peritonitis, perforation, any abdominal pathology
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  89-year-old female with abdominal pain, leukocytosis and
+     history of recent cholecystitis.  Patient now with diffuse abdominal pain.
+     Rule out abscess, peritonitis, perforation, abdominal pathology.
+     
+     COMPARISON:  [**3011-3-4**].
+     
+     TECHNIQUE:  Contrast enhanced multidetector CT acquired axial images of the
+     abdomen and pelvis from the lung bases to the pubic symphysis.  Multiplanar
+     reformatted images were obtained.
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST:  Again seen are mild-to-moderate
+     dependent changes at the lung bases bilaterally.  No focal liver lesions are
+     seen. The gallbladder is nondistended.  No stone is seen within the
+     gallbladder.  There is a small amount of pericholecystic fluid, which may be
+     related to the small amount of ascites adjacent to the liver.  There is no
+     evidence of cholecystitis.  The spleen and adrenal glands are within normal
+     limits. Multiple low attenuation lesions are seen within both kidneys, too
+     small to fully characterized, however, unchanged from [**3011-3-4**].
+     Pancreas is atrophic.  Previously noted hypodensity and stranding around the
+     head of the pancreas has resolved.  There is no billiary or pacreatic ductal
+     dilitation.  No free air is noted within the abdomen.  Small hiatal hernia is
+     seen.  Intra-abdominal loops of small bowel are within normal limits.  Colonic
+     diverticula are seen without evidence of diverticulitis.  No pathologically
+     enlarged mesenteric or retroperitoneal lymph nodes are apparent.  Again noted
+     is focal dissection of the abdominal aorta at the level just inferior to the
+     right renal origin, unchanged from prior CT dated [**3011-3-4**].
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder and rectum are within
+     normal limits.  There is sigmoid diverticulosis, without evidence of
+     diverticulitis. A right adnexal cyst measuring 2.0 x 3.6 cm is present.  The
+     left adnexa is unremarkable.  Calcifications are seen within the pelvic side
+     walls as previously mentioned, unchanged.  These may represent calcified lymph
+     nodes as seen in the abdomen.  No pathologically enlarged pelvic or inguinal
+     lymph nodes are apparent.  There is trace free fluid within the pelvis.  No
+     suspicious osteolytic or sclerotic lesion is seen.  Multilevel degenerative
+     changes are again noted throughout the thoracolumbar spine.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3011-3-14**] 12:27 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8627**]
+     Reason: pt. with diffuse abdominal pain, recent cholecystitis. rule 
+     Admitting Diagnosis: CHOLECYSTITIS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     1.  Non distended gallbladder with small amount of pericholecysitc fluid which
+     may be attributable to ascites seen adjacent to the liver. No evidence
+     cholecystitis.
+     
+     2.  Penetrating ulcer versus focal dissection of the abdominal aorta just
+     inferior to the right renal artery origin is unchanged from prior CT from
+     [**3011-3-4**].
+     
+     3.  Small amount of ascites fluid adjacent to the liver and trace free fluid
+     within the pelvis.
+     
+     4.  Resolution of the previously noted stranding around the pancreatic head.
+     There is no billiary or pancreatic ductal dilatation.
+     
+     5.  Cyst within the right adnexa, unchanged from [**3011-3-4**].
+     
+     6.  Scattered colonic diverticulosis, without evidence of diverticulitis.
+
+",,
+14332,,,,3011-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-15**] 1:46 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 8628**]
+     Reason: r/o new pathology, free air, obstruction                    
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman with diffuse abdominal pain. concern for obstruction vs. 
+      peritonitis. worsened exam                                
+     REASON FOR THIS EXAMINATION:
+      r/o new pathology, free air, obstruction                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diffuse abdominal pain, evaluate for obstruction or free air.
+     
+     COMPARISON:  [**3011-3-13**].
+     
+     TECHNIQUE: Supine views of the abdomen and pelvis, with a left lateral
+     decubitus view.
+     
+     FINDINGS:  Nonspecific bowel gas pattern is seen with air within small bowel
+     as well as colon.  No evidence of obstruction.  No evidence of free air seen
+     on left lateral decubitus view.  Contrast is noted within the bladder.
+     Degenerative change is seen within the lumbar spine.  Pacemaker leads
+     overlying the right atrium and ventricle seen.  Lung bases not well evaluated.
+     
+     IMPRESSION:  Nonspecific bowel gas pattern without evidence of obstruction. No
+     evidence of free air.
+
+",,
+14332,,,,3011-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-15**] 2:19 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 8629**]
+     Reason: r/o cholecystitis, obstruction, other pathology             
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with pain, fever, wbc count concern as with new cholecystitis 
+      pulled out Cholecystostomy tube.
+     REASON FOR THIS EXAMINATION:
+      r/o cholecystitis, obstruction, other pathology                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     THIS IS A GALLBLADDER ULTRASOUND
+     
+     INDICATION FOR STUDY:  Evaluate for cholecystitis.  Comparison is made with
+     prior study from [**3011-3-5**], and from [**3011-3-13**].  This is an
+     extremely limited study since the patient did not allow us to scan her upper
+     abdomen.  Limited images of the gallbladder show a distended gallbladder with
+     no wall thickening or edema, no pericholecystic fluid is noted and no intra-
+     or extra-hepatic bile duct dilatation is identified.  Apart from slight
+     increase in distention of the gallbladder, there is no change in the overall
+     appearance compared with study from [**3-13**].  The extent of wall
+     thickening is also unchanged.
+     
+     IMPRESSION:  Slight increase in distention of gallbladder from study obtained
+     on [**3011-3-13**], however there is no gallbladder wall thickening, as was
+     noted on the previous study from [**3-5**] and no pericholecystic fluid or
+     other features of cholecystitis are noted.
+                                                                           
+
+",,
+14332,,,,3011-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-18**] 10:07 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 8630**]
+     Reason: r picc. 36cm. tip?                                          
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman with percutaneous biliary drain for complicated 
+      cholecystitis  now c fever.
+     REASON FOR THIS EXAMINATION:
+      r picc. 36cm. tip?                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**3011-3-18**]
+     
+     COMPARISON:  [**3011-3-14**].
+     
+     INDICATION:  PICC line placement.
+     
+     Right PICC line has been placed.  The metallic radiodense wire of the catheter
+     projects over the lower SVC.  Preexisting permanent pacemaker is unchanged in
+     position.  The heart is upper limits of normal in size, and the lungs remain
+     clear.
+                                                                           
+
+",,
+14332,,,,3011-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-21**] 11:35 PM
+     ERCP BILIARY&PANCREAS BY GI UNIT                                Clip # [**Clip Number (Radiology) 8631**]
+     Reason: r/o CBD stone                                               
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with h/o gallstone pancreatitis-not surgical canidate for 
+      CCY.ERCP performed [**3011-3-21**], req sent [**3011-3-22**]
+     REASON FOR THIS EXAMINATION:
+      r/o CBD stone                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  89-year-old woman with history of gallstone pancreatitis not a
+     surgical candidate for CCY.
+     
+     FINDINGS:  Six images obtained during ERCP procedure were submited to be
+     reviewed by Radiology.  No radiologist was present during this study.
+     
+     The images demonstrate opacification of the common bile duct without evidence
+     of strictures. No filling defects are seen within the common bile duct.  There
+     is partial pancreatic duct visualization, and appears grossly normal.
+     As per GI report, small amount of sludge was extracted.
+     
+     For further details, please see GI report.
+
+",,
+14332,,,,3011-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-3-23**] 4:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8632**]
+     Reason: Please eval for infiltrate/effusion                         
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        89 year old woman with percutaneous biliary drain for complicated 
+      cholecystitis c fever.
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrate/effusion                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE UPRIGHT CHEST ON [**3011-3-23**]
+     
+     COMPARISON:  [**3011-3-18**].
+     
+     INDICATION:  Fever.
+     
+     Allowing for rotation, cardiac and mediastinal contours are stable. 
+     Peripheral left hemidiaphragm and adjacent costophrenic sulcus are not well
+     demonstrated, but are likely obscured due to marked patient rotation.  Repeat
+     non-rotated radiograph may be helpful to fully exclude small left pleural
+     effusion or basilar lung process.
+                                                                           
+
+",,
+14332,,,,3011-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-12**] 2:42 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 8633**]
+     Reason: recent choleycystits s/p ercp, persistant leukococytosis (wb
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman with abd pain, leukocytosis and history of recent 
+      cholecystitis                                                
+     REASON FOR THIS EXAMINATION:
+      recent choleycystits s/p ercp
+      persistant leukococytosis (wbc 20)
+      and fever
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Abdominal pain and leukocytosis.  History of cholecystitis,
+     recently status post ERCP.  Please call with wet read.
+     
+     WET READ:  Wet read requested by Dr. [**Last Name (STitle) **], informed on diffuse colitis.  GB
+     distended, but no clear signs for acute chole, informed U/S would be more
+     sensitive but of doubtful utility at this time given no localizing RUQ pain.
+     Dr. [**Last Name (STitle) 5880**].
+     
+     TECHNIQUE:  Non-contrast MDCT imaging of the abdomen was performed.  No IV
+     contrast was administered as the patient has allergy to IV contrast.
+     
+     NON-CONTRAST ABDOMINAL CT:  Dual-chamber pacemaker leads are present.  There
+     is dependent atelectasis bilaterally.  Assessment of solid abdominal organs is
+     limited without IV contrast.  Allowing for the limitations, assessment of the
+     liver shows an irregular contour bulge in segment V which is incompletely
+     assessed without IV contrast, but apparently new since [**3011-3-14**].  The
+     gallbladder is diffusely dilated, but shows no definite pericholecystic fluid.
+     Both adrenal glands are bulky but unchanged in appearance since the prior
+     abdominal CT.  There is a 3-mm nonobstructing left renal stone.  There is no
+     ascites, pneumatosis, or free intraperitoneal air.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is diffuse colonic wall
+     thickening and edema.  There is relative sparing of the base of the cecum and
+     no involvement of the terminal ileum.  Small bowel loops are unremarkable.
+     There has been prior hysterectomy.  The bladder is collapsed about a Foley
+     catheter. There is a small amount of fluid in the pelvis. Bilateral adnexal
+     calcifications are unchanged. The associated cystic structure in the right
+     adnexa is smaller.
+     
+     BONE WINDOWS:  Diffuse degenerative changes are present in the spine, hip
+     joints, sacroiliac joints, and pubic symphysis, with enthesophyte formation
+     along both ischial tuberosities.  No frankly lytic or sclerotic lesions are
+     identified.
+     
+     IMPRESSION:
+     
+     1.  Diffuse colitis.  Given fever and leukocytosis, infectious causes are most
+     likely.  Findings are consistent with C. difficile colitis in the correct
+     clinical context.  Differential diagnosis includes ischemia given
+                                                                 (Over)
+
+     DATE: [**3011-4-12**] 2:42 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 8633**]
+     Reason: recent choleycystits s/p ercp, persistant leukococytosis (wb
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     calcification in the mesenteric vessels. Inflammatory causes such as Crohn's
+     disease are considered less likely.
+     
+     2. New contour irregularity in segment V of liver likely secondary to recent
+     percutaneous cholecystostomy. No tube is present. Diffuse dilatation of the
+     gallbladder. This study cannot exclude cholecystitis.
+
+",,
+14332,,,,3011-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-12**] 2:42 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 8633**]
+     Reason: recent choleycystits s/p ercp, persistant leukococytosis (wb
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman with abd pain, leukocytosis and history of recent 
+      cholecystitis                                                
+     REASON FOR THIS EXAMINATION:
+      recent choleycystits s/p ercp
+      persistant leukococytosis (wbc 20)
+      and fever
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Abdominal pain and leukocytosis.  History of cholecystitis,
+     recently status post ERCP.  Please call with wet read.
+     
+     WET READ:  Wet read requested by Dr. [**Last Name (STitle) **], informed on diffuse colitis.  GB
+     distended, but no clear signs for acute chole, informed U/S would be more
+     sensitive but of doubtful utility at this time given no localizing RUQ pain.
+     Dr. [**Last Name (STitle) 5880**].
+     
+     TECHNIQUE:  Non-contrast MDCT imaging of the abdomen was performed.  No IV
+     contrast was administered as the patient has allergy to IV contrast.
+     
+     NON-CONTRAST ABDOMINAL CT:  Dual-chamber pacemaker leads are present.  There
+     is dependent atelectasis bilaterally.  Assessment of solid abdominal organs is
+     limited without IV contrast.  Allowing for the limitations, assessment of the
+     liver shows an irregular contour bulge in segment V which is incompletely
+     assessed without IV contrast, but apparently new since [**3011-3-14**].  The
+     gallbladder is diffusely dilated, but shows no definite pericholecystic fluid.
+     Both adrenal glands are bulky but unchanged in appearance since the prior
+     abdominal CT.  There is a 3-mm nonobstructing left renal stone.  There is no
+     ascites, pneumatosis, or free intraperitoneal air.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is diffuse colonic wall
+     thickening and edema.  There is relative sparing of the base of the cecum and
+     no involvement of the terminal ileum.  Small bowel loops are unremarkable.
+     There has been prior hysterectomy.  The bladder is collapsed about a Foley
+     catheter. There is a small amount of fluid in the pelvis. Bilateral adnexal
+     calcifications are unchanged. The associated cystic structure in the right
+     adnexa is smaller.
+     
+     BONE WINDOWS:  Diffuse degenerative changes are present in the spine, hip
+     joints, sacroiliac joints, and pubic symphysis, with enthesophyte formation
+     along both ischial tuberosities.  No frankly lytic or sclerotic lesions are
+     identified.
+     
+     IMPRESSION:
+     
+     1.  Diffuse colitis.  Given fever and leukocytosis, infectious causes are most
+     likely.  Findings are consistent with C. difficile colitis in the correct
+     clinical context.  Differential diagnosis includes ischemia given
+                                                                 (Over)
+
+     DATE: [**3011-4-12**] 2:42 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 8633**]
+     Reason: recent choleycystits s/p ercp, persistant leukococytosis (wb
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     calcification in the mesenteric vessels. Inflammatory causes such as Crohn's
+     disease are considered less likely.
+     
+     2. New contour irregularity in segment V of liver likely secondary to recent
+     percutaneous cholecystostomy. No tube is present. Diffuse dilatation of the
+     gallbladder. This study cannot exclude cholecystitis.
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 3:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8634**]
+     Reason: eval ETT                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         89 year old woman with AMS, hypotension s/p intubation                       
+     REASON FOR THIS EXAMINATION:
+      eval ETT                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST.
+     
+     HISTORY:  89-year-old woman with altered mental status and hypotension, status
+     post intubation; evaluate ET tube.
+     
+     FINDINGS:  Bedside AP examination labeled ""supine, 15:10 hours"" is compared
+     with study dated [**3011-3-23**].  The tip of the new endotracheal tube is located at
+     the orifice of the right main stem bronchus, with no evidence of left lung
+     collapse at this time.  The NG tube is looped in the stomach, with its tip
+     extending beyond the film.  A right-sided dual-chamber cardiac pacemaker has
+     intact leads with tips projected over the RA and RV apex (in this single
+     view), not significantly changed.  The heart size and pulmonary vessels are
+     unchanged, with no evidence of CHF and no effusion.  No focal consolidation is
+     seen.  Incidentally noted is marked cephalad migration of the humeral head,
+     with formation of a pseudoarthrosis with remodeling of the distal acromion and
+     clavicle, suggestive of underlying chronic, complete rotator cuff tear.
+     
+     IMPRESSION:
+     1.  ET tube tip in the right mainstem bronchus, which should be withdrawn
+     several cm.
+     2.  NG tube looped in the stomach with tip not seen.
+     3.  No acute cardiopulmonary process and no significant change since the
+     [**3011-3-23**] study.
+     
+     COMMENT:  These findings were discussed with Dr. [**First Name (STitle) 8635**] at time of this
+     dictation; the ETT has already been partially withdrawn, with f/u study
+     ordered.
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 8:32 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8639**]
+     Reason: rule out PTX, new pulm edema                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         89 year old woman with s/p line placement worsening hypoxia                  
+                        
+     REASON FOR THIS EXAMINATION:
+      rule out PTX, new pulm edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  89-year-old woman with worsening hypoxia.
+     
+     Comparison is made to prior study done four hours earlier.
+     
+     AP SUPINE VIEW OF THE CHEST.
+     Since the prior study, there has been development of extensive bilateral
+     perihilar opacities with air bronchograms, in a ""butterfly"" pattern.  There is
+     no pleural effusion. There is no peripheral prominence of interstitial
+     marking. The heart, mediastinal and hilar contours are unremarkable.  The
+     pacemaker leads are in satisfactory position. Endotracheal tube is properly
+     positioned at least 5 cm above the carina.  The right-sided CV line projects
+     in the mid SVC.
+     
+     IMPRESSION:  Interval development of new bilateral perihilar airspace disease
+     which is suggestive of presence of developing ARDS, or, less likely,
+     aspiration pneumonitis. Interval development of heart failure is less
+     likely, given the paucity of other findings.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 8640**] at the time of dictation.
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 8:32 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8639**]
+     Reason: rule out PTX, new pulm edema                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         89 year old woman with s/p line placement worsening hypoxia                  
+                        
+     REASON FOR THIS EXAMINATION:
+      rule out PTX, new pulm edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  89-year-old woman with worsening hypoxia.
+     
+     Comparison is made to prior study done four hours earlier.
+     
+     AP SUPINE VIEW OF THE CHEST.
+     Since the prior study, there has been development of extensive bilateral
+     perihilar opacities with air bronchograms, in a ""butterfly"" pattern.  There is
+     no pleural effusion. There is no peripheral prominence of interstitial
+     marking. The heart, mediastinal and hilar contours are unremarkable.  The
+     pacemaker leads are in satisfactory position. Endotracheal tube is properly
+     positioned at least 5 cm above the carina.  The right-sided CV line projects
+     in the mid SVC.
+     
+     IMPRESSION:  Interval development of new bilateral perihilar airspace disease
+     which is suggestive of presence of developing ARDS, or, less likely,
+     aspiration pneumonitis. Interval development of heart failure is less
+     likely, given the paucity of other findings.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 8640**] at the time of dictation.
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 4:06 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8636**]
+     Reason: eval ptx                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        89 year old woman with s/p line placement                                     
+     REASON FOR THIS EXAMINATION:
+      eval ptx                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW OF THE CHEST DATED [**3011-4-15**]
+     
+     HISTORY:  89-year-old woman, status post line placement; evaluate for
+     pneumothorax.
+     
+     FINDINGS:  Bedside AP examination labeled ""supine, 16:15 hours"" is compared
+     with the study obtained approximately one hour earlier.  There has been
+     interval partial withdrawal of the ET tube, with tip now 3 cm proximal to the
+     carina, and the NG tube remains looped in the stomach with its side-hole in
+     the region of the gastric body and tip extending beyond the film.  A new right
+     IJ central venous catheter reaches the distal SVC, and there is no supine
+     evidence of pneumothorax.  There is linear atelectasis involving the left lung
+     base and right mid-lung, but no focal consolidation is seen.  The
+     cardiomediastinal silhouette and pulmonary vessels are unchanged.
+     
+     IMPRESSION:
+     1.  ET tube tip now in satisfactory position, with NG tube positioned as
+     described.
+     2.  Right internal jugular central venous catheter in satisfactory position,
+     with no supine evidence of pneumothorax.
+     3.  Bibasilar atelectasis, with no other acute cardiopulmonary process.
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 4:06 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 8636**]
+     Reason: eval ptx                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        89 year old woman with s/p line placement                                     
+     REASON FOR THIS EXAMINATION:
+      eval ptx                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW OF THE CHEST DATED [**3011-4-15**]
+     
+     HISTORY:  89-year-old woman, status post line placement; evaluate for
+     pneumothorax.
+     
+     FINDINGS:  Bedside AP examination labeled ""supine, 16:15 hours"" is compared
+     with the study obtained approximately one hour earlier.  There has been
+     interval partial withdrawal of the ET tube, with tip now 3 cm proximal to the
+     carina, and the NG tube remains looped in the stomach with its side-hole in
+     the region of the gastric body and tip extending beyond the film.  A new right
+     IJ central venous catheter reaches the distal SVC, and there is no supine
+     evidence of pneumothorax.  There is linear atelectasis involving the left lung
+     base and right mid-lung, but no focal consolidation is seen.  The
+     cardiomediastinal silhouette and pulmonary vessels are unchanged.
+     
+     IMPRESSION:
+     1.  ET tube tip now in satisfactory position, with NG tube positioned as
+     described.
+     2.  Right internal jugular central venous catheter in satisfactory position,
+     with no supine evidence of pneumothorax.
+     3.  Bibasilar atelectasis, with no other acute cardiopulmonary process.
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 4:58 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8637**]
+     Reason: eval toxic megacolon                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with distended abdomen                                        
+     REASON FOR THIS EXAMINATION:
+      eval toxic megacolon                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  89-year-old woman with distended abdomen.  Please evaluate for
+     toxic megacolon.
+     
+     Comparison is made to prior radiograph done on [**3011-3-15**].
+     
+     ONE RADIOGRAPH OF THE ABDOMEN IN THE SUPINE POSITION:  The NG tube is kinked
+     within the stomach.  Note is made of multiple dilated small bowel loops
+     measuring up to 3 cm.  Gas is noted within the cecum. There is relative
+     paucity of gas within the pelvis, which may relate to presence of rectal tube.
+     Complete assessment for presence of air-fluid levels and free intra-abdominal
+     air cannot be done on this supine radiograph.
+     
+     IMPRESSION:
+     1. No evidence of toxic megacolon.
+     2. Multiple dilated small bowel loops with no evidence of free intra-
+     abdominal air in this supine radiograph.
+     3. Relative paucity of the gas within the pelvis, perhaps related to presence
+     of the rectal tube.
+     
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 6:23 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8638**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval abscess, infectious source, GB pathology               
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with s/p ERCP now c fever, hypotension, distended abdomen, 
+      diffusely ttp grtst in uqs
+     REASON FOR THIS EXAMINATION:
+      eval abscess, infectious source, GB pathology                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  89-year-old female status post ERCP, now with fever,
+     hypertension, distended and tender abdomen.  Evaluate for abscess, gallbladder
+     pathology.
+     
+     COMPARISON:  [**3011-4-12**].
+     
+     TECHNIQUE:  Non-contrast multidetector CT acquired axial images of the chest,
+     abdomen and pelvis from the thoracic inlet to the pubic symphysis.  Coronal
+     and sagittal reformatted images were obtained.
+     
+     CT OF THE CHEST:  Diffuse bilateral peribronchovascular ground-glass opacities
+     and bibasilar consolidations are concerning for aspiration pneumonia
+     superimposed on early ARDS picture.  There is no pericardial or pleural
+     effusion.  Main airways are otherwise patent.  The heart and great vessels are
+     unremarkable.  Small mediastinal lymph nodes are present, largest of which is
+     a pretracheal node with fatty hilum, measuring approximately 1 cm in the short
+     axis.  Heart demonstrates diffuse calcification within the coronary arteries.
+     Leads from a dual chamber pacer are seen in standard position.  A column of
+     oral contrast is seen within the esophagus extending from the thoracic inlet
+     to the stomach. A nasogastric tube is present.
+     
+     CT OF THE ABDOMEN:  Liver shows no focal lesion.  Gallbladder is somewhat
+     distended, however, demonstrates no radiopaque stone or gallbladder wall
+     edema. There is probably a small amount pericholecystic fluid.  The adrenal
+     glands are bulky, but unchanged in appearance since prior abdominal CT.  There
+     is a 3 mm nonobstructing left renal stone.  The right kidney is unremarkable.
+     The pancreas is atrophic. The spleen is unremarkable.  A contrast- filled
+     distended stomach is present.  The duodenum and proximal jejunum are opacified
+     with contrast, however, the remainder of the small bowel remains fluid- filled
+     without contrast. The  distal small bowel is decompressed, suggesting partial
+     or early small-bowel obstruction, but no definite transition point is
+     identified. Diffuse colonic wall thickening and edema consistent with colitis
+     is redemonstrated . There is no pneumatosis or free intraperitoneal air. Small
+     amount of intra- abdominal free fluid is present.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  The rectal tube as well as a
+     Foley catheter is seen within the pelvis.  The intrapelvic loops of small
+     bowel remain decompressed.  The bladder is collapsed.  Bilateral adnexal
+     calcification as well as cystic structure in the right adnexa is unchanged.
+                                                                 (Over)
+
+     DATE: [**3011-4-15**] 6:23 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8638**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval abscess, infectious source, GB pathology               
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesion is identified.  Diffuse
+     degenerative changes are present in the spine, hip joints, sacroiliac joints,
+     and pubic symphysis with enthesophyte formation along both ischial
+     tuberosities.
+     
+     IMPRESSION:
+     
+     1.  Diffuse colitis, which compared to prior CT from [**3011-4-12**], appears
+     worse.
+     
+     2.  Fluid-filled loops of proximal small bowel with decompressed distal
+     segment, suggestive of early or partial small-bowel obstruction, No definite
+     transition point is identified.
+     
+     3.  Dilated contrast-filled stomach for which NG-tube decompression is
+     recommended.
+     
+     4.  Bilateral diffuse peribronchovascular ground-glass opacity as well as
+     consolidation within bilateral lung bases concerning for aspiration pneumonia
+     and superimposed developing ARDS.
+     
+     5.  Distended gallbladder with probable adjacent pericholecystic fluid.
+     Bedside sonography may be preformed to evaluate for acute acalculous
+     cholecystits, if clinically warranted.
+     
+     COMMENT: Findings discussed with General Surgery housestaff.
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 6:23 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8638**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval abscess, infectious source, GB pathology               
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with s/p ERCP now c fever, hypotension, distended abdomen, 
+      diffusely ttp grtst in uqs
+     REASON FOR THIS EXAMINATION:
+      eval abscess, infectious source, GB pathology                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  89-year-old female status post ERCP, now with fever,
+     hypertension, distended and tender abdomen.  Evaluate for abscess, gallbladder
+     pathology.
+     
+     COMPARISON:  [**3011-4-12**].
+     
+     TECHNIQUE:  Non-contrast multidetector CT acquired axial images of the chest,
+     abdomen and pelvis from the thoracic inlet to the pubic symphysis.  Coronal
+     and sagittal reformatted images were obtained.
+     
+     CT OF THE CHEST:  Diffuse bilateral peribronchovascular ground-glass opacities
+     and bibasilar consolidations are concerning for aspiration pneumonia
+     superimposed on early ARDS picture.  There is no pericardial or pleural
+     effusion.  Main airways are otherwise patent.  The heart and great vessels are
+     unremarkable.  Small mediastinal lymph nodes are present, largest of which is
+     a pretracheal node with fatty hilum, measuring approximately 1 cm in the short
+     axis.  Heart demonstrates diffuse calcification within the coronary arteries.
+     Leads from a dual chamber pacer are seen in standard position.  A column of
+     oral contrast is seen within the esophagus extending from the thoracic inlet
+     to the stomach. A nasogastric tube is present.
+     
+     CT OF THE ABDOMEN:  Liver shows no focal lesion.  Gallbladder is somewhat
+     distended, however, demonstrates no radiopaque stone or gallbladder wall
+     edema. There is probably a small amount pericholecystic fluid.  The adrenal
+     glands are bulky, but unchanged in appearance since prior abdominal CT.  There
+     is a 3 mm nonobstructing left renal stone.  The right kidney is unremarkable.
+     The pancreas is atrophic. The spleen is unremarkable.  A contrast- filled
+     distended stomach is present.  The duodenum and proximal jejunum are opacified
+     with contrast, however, the remainder of the small bowel remains fluid- filled
+     without contrast. The  distal small bowel is decompressed, suggesting partial
+     or early small-bowel obstruction, but no definite transition point is
+     identified. Diffuse colonic wall thickening and edema consistent with colitis
+     is redemonstrated . There is no pneumatosis or free intraperitoneal air. Small
+     amount of intra- abdominal free fluid is present.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  The rectal tube as well as a
+     Foley catheter is seen within the pelvis.  The intrapelvic loops of small
+     bowel remain decompressed.  The bladder is collapsed.  Bilateral adnexal
+     calcification as well as cystic structure in the right adnexa is unchanged.
+                                                                 (Over)
+
+     DATE: [**3011-4-15**] 6:23 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8638**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval abscess, infectious source, GB pathology               
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesion is identified.  Diffuse
+     degenerative changes are present in the spine, hip joints, sacroiliac joints,
+     and pubic symphysis with enthesophyte formation along both ischial
+     tuberosities.
+     
+     IMPRESSION:
+     
+     1.  Diffuse colitis, which compared to prior CT from [**3011-4-12**], appears
+     worse.
+     
+     2.  Fluid-filled loops of proximal small bowel with decompressed distal
+     segment, suggestive of early or partial small-bowel obstruction, No definite
+     transition point is identified.
+     
+     3.  Dilated contrast-filled stomach for which NG-tube decompression is
+     recommended.
+     
+     4.  Bilateral diffuse peribronchovascular ground-glass opacity as well as
+     consolidation within bilateral lung bases concerning for aspiration pneumonia
+     and superimposed developing ARDS.
+     
+     5.  Distended gallbladder with probable adjacent pericholecystic fluid.
+     Bedside sonography may be preformed to evaluate for acute acalculous
+     cholecystits, if clinically warranted.
+     
+     COMMENT: Findings discussed with General Surgery housestaff.
+
+",,
+14332,10307,,,3011-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-4-15**] 6:23 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8638**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval abscess, infectious source, GB pathology               
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with s/p ERCP now c fever, hypotension, distended abdomen, 
+      diffusely ttp grtst in uqs
+     REASON FOR THIS EXAMINATION:
+      eval abscess, infectious source, GB pathology                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  89-year-old female status post ERCP, now with fever,
+     hypertension, distended and tender abdomen.  Evaluate for abscess, gallbladder
+     pathology.
+     
+     COMPARISON:  [**3011-4-12**].
+     
+     TECHNIQUE:  Non-contrast multidetector CT acquired axial images of the chest,
+     abdomen and pelvis from the thoracic inlet to the pubic symphysis.  Coronal
+     and sagittal reformatted images were obtained.
+     
+     CT OF THE CHEST:  Diffuse bilateral peribronchovascular ground-glass opacities
+     and bibasilar consolidations are concerning for aspiration pneumonia
+     superimposed on early ARDS picture.  There is no pericardial or pleural
+     effusion.  Main airways are otherwise patent.  The heart and great vessels are
+     unremarkable.  Small mediastinal lymph nodes are present, largest of which is
+     a pretracheal node with fatty hilum, measuring approximately 1 cm in the short
+     axis.  Heart demonstrates diffuse calcification within the coronary arteries.
+     Leads from a dual chamber pacer are seen in standard position.  A column of
+     oral contrast is seen within the esophagus extending from the thoracic inlet
+     to the stomach. A nasogastric tube is present.
+     
+     CT OF THE ABDOMEN:  Liver shows no focal lesion.  Gallbladder is somewhat
+     distended, however, demonstrates no radiopaque stone or gallbladder wall
+     edema. There is probably a small amount pericholecystic fluid.  The adrenal
+     glands are bulky, but unchanged in appearance since prior abdominal CT.  There
+     is a 3 mm nonobstructing left renal stone.  The right kidney is unremarkable.
+     The pancreas is atrophic. The spleen is unremarkable.  A contrast- filled
+     distended stomach is present.  The duodenum and proximal jejunum are opacified
+     with contrast, however, the remainder of the small bowel remains fluid- filled
+     without contrast. The  distal small bowel is decompressed, suggesting partial
+     or early small-bowel obstruction, but no definite transition point is
+     identified. Diffuse colonic wall thickening and edema consistent with colitis
+     is redemonstrated . There is no pneumatosis or free intraperitoneal air. Small
+     amount of intra- abdominal free fluid is present.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  The rectal tube as well as a
+     Foley catheter is seen within the pelvis.  The intrapelvic loops of small
+     bowel remain decompressed.  The bladder is collapsed.  Bilateral adnexal
+     calcification as well as cystic structure in the right adnexa is unchanged.
+                                                                 (Over)
+
+     DATE: [**3011-4-15**] 6:23 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8638**]
+     CT PELVIS W/O CONTRAST
+     Reason: eval abscess, infectious source, GB pathology               
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesion is identified.  Diffuse
+     degenerative changes are present in the spine, hip joints, sacroiliac joints,
+     and pubic symphysis with enthesophyte formation along both ischial
+     tuberosities.
+     
+     IMPRESSION:
+     
+     1.  Diffuse colitis, which compared to prior CT from [**3011-4-12**], appears
+     worse.
+     
+     2.  Fluid-filled loops of proximal small bowel with decompressed distal
+     segment, suggestive of early or partial small-bowel obstruction, No definite
+     transition point is identified.
+     
+     3.  Dilated contrast-filled stomach for which NG-tube decompression is
+     recommended.
+     
+     4.  Bilateral diffuse peribronchovascular ground-glass opacity as well as
+     consolidation within bilateral lung bases concerning for aspiration pneumonia
+     and superimposed developing ARDS.
+     
+     5.  Distended gallbladder with probable adjacent pericholecystic fluid.
+     Bedside sonography may be preformed to evaluate for acute acalculous
+     cholecystits, if clinically warranted.
+     
+     COMMENT: Findings discussed with General Surgery housestaff.
+
+",,
+14332,10307,17817,,3011-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14332,,17817,0,3011-04-16 02:08:00 EST,3011-04-16 02:22:00 EST,7594,"N",1,"Nursing/Other","CCU Progress note 1900-0200","
+CCU Progress note 1900-0200
+REcieved pt orally intubated and ventilated requieing incraesing ventlaitory and cardiac support. Coomenced midazolam gtt and fentanly. ABG and mixed venous sats poor. Not ventilating therefore increased fi02 and PPEP, with little response, became more hemodynamically unstable, incressed levophed, and started dobuatamine, gave further fluid bolus which saw slight improvement in SBP and o2 sat. However this declined once fluid bolus stopped, started vassopressin and dopamine, again saw slight improvment which was short lived. Many mebers of family came into see Mrs [**Last Name (STitle) **] [**Last Name (STitle) **] all very upset, Dr [**Last Name (STitle) 972**] spoke to them about resusitation ( family updated by attending dr [**Last Name (STitle) **] PCP earlier in the evening and informed of poor prognosis). and said that as she ws on maximum ventilatory and cardiac supoort and that these were not helping, if she were to go in to cardiac arrest then it would be futile to begin CPR as there would be nothing more we could do and she would not make a meaningful recvoery, the family agreed to this. Family present as vital signs deteriroated, told that she her condition was deteriorating, SBP dropping, in paced rhytham, family requested that monitor be left on sp that they could she when she died. FAmily present at time of death. Please see care view for full record of events.
+",,

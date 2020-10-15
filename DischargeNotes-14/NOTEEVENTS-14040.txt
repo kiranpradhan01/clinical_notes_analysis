@@ -1,0 +1,111 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14040,,,,2882-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2882-10-23**] 10:17 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5780**]
+     Reason: COUGH, HX COPD WET READ [**Telephone/Fax (1) 5781**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Cough, COPD.
+     
+     PA AND LATERAL CHEST:  No prior studies are available for comparison.  Report
+     from [**2880-10-2**] was reviewed.
+     
+     The lungs are hyperinflated with flattening of the diaphragms bilaterally
+     consistent with COPD. Again seen is a left apical fat pad. There is a focal
+     rounded nodular density within the right lower lobe, consistent with previous
+     report of nipple shadow. There is calcification of the aorta and an ectactic
+     aorta. There is no focal infiltrate or pleural effusions. No vascular
+     congestion.
+     
+     IMPRESSION:   No acute cardiopulmonary process. Evidence of COPD. This report
+     was discussed with the referring clinician.
+
+",,
+14040,33605,,,2882-11-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2882-11-21**]     Discharge Date:  [**2882-11-21**]
+
+Date of Birth:                  Sex:  M
+
+Service:  Medicine #58
+
+CHIEF COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 86 year old
+male who presented to the Lobby of the [**Hospital Ward Name **] Building
+looking for the Emergency Department.  He had been having
+chest pain at rest, off and on, for about a week.  He had an
+echocardiogram performed the day prior to presentation which
+was normal.  On the night of his presentation, he had chest
+pain at rest, beginning at approximately 7 p.m.  He was
+reluctant to go to the Emergency Room.  He refused when his
+wife offered to call 911. His wife ultimately drove him
+herself to [**Hospital1 10**] and brought
+him to the former site of the Emergency Room on the hospital
+east campus. The patient and his wife then presented to the
+lobby of the [**Hospital Ward Name **] Building.  The patient was seated in a
+wheelchair by security.  An ambulance was called to transfer
+him to the west campus and a ""code"" was called as the patient
+was having active chest pain.  When the code team arrived on
+the scene, the patient was complaining of crushing chest
+pain, was pale and diaphoretic, and no blood pressure or
+pulse could be measured.
+
+PAST MEDICAL HISTORY:  Unknown.
+
+MEDICATIONS:  Unknown.
+
+SOCIAL HISTORY:  Lives with wife.
+
+PHYSICAL EXAMINATION:  Blood pressure immeasurable,
+pulseless.  Respirations agonal.  The patient was cool,
+clammy, pale.
+
+HOSPITAL COURSE:  On the code team's arrival, the patient was
+diaphoretic, pale, poorly responsive, pulseless and
+hypotensive.  He was laid on the floor and intubated by
+anesthesia.  A peripheral intravenous line was inserted.  An
+initial electrocardiogram showed what appeared to be a sinus
+tachycardia with a somewhat widened QRS and ST elevations
+diffusely in the precordial leads and inferior leads.  The
+patient was treated as a PEA arrest.  He was given
+epinephrine.  CPR was commenced.  He was given epinephrine in
+multiple doses intravenously.  He was started on a Dopamine
+drip briefly when he regained a pulse.  The pulse was later
+lost and CPR was recommenced.  The patient was also given
+Atropine, D-50 and insulin, bicarbonate.  The patient was
+transferred to the Intensive Care Unit while receiving chest
+compressions and bagged ventilation.  The decision was made
+not to transfer him to the Emergency Room as he was not felt
+to be sufficiently stable to transport.  In the Intensive
+Care Unit, the patient continued to be pulseless and without
+blood pressure.  Several attempts were made to cannulate his
+femoral artery for further intravenous access without
+success.  Initial blood gases revealed severe metabolic
+acidosis.  After approximately 45 minutes of resuscitation
+attempts, resuscitation attempts were halted.  The patient
+was pronounced dead at approximately 1 a.m. on [**11-21**]
+with the presumed cause of death an inferior myocardial
+infarction.  Preliminary results from a post mortem revealed
+inferior myocardial infarction with papillary infarction.
+
+
+
+
+                          [**Name6 (MD) 10023**] [**Last Name (NamePattern4) 2923**], M.D.  [**MD Number 186**]
+
+Dictated By:[**Last Name (NamePattern1) 6012**]
+
+MEDQUIST36
+
+D:  [**2882-12-22**]  12:31
+T:  [**2882-12-24**]  06:03
+JOB#:  [**Job Number 10024**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: SUN [**2885-12-30**] 6:31 PM
+(End of Report)
+
+
+",,

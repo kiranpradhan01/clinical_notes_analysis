@@ -1,0 +1,149 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14506,13817,,,2840-04-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2840-4-8**]     Discharge Date:  [**2840-4-14**]
+
+Date of Birth:   [**2763-9-23**]     Sex:  M
+
+Service:
+
+On [**2840-4-13**] the patient was discharged to home with home
+hospice services as per the patient and family request and
+desire.  At the time of discharge the patient was stable.
+
+DISCHARGE MEDICATIONS:
+1.  Morphine Sulfate 2 to 20 mg sublingual q 1 hour as needed
+for pain.
+2.  Ativan .25 to 2 mg sublingual q 4 to 6 hours as needed
+for anxiety or respiratory distress.
+3.  Levsin 0.125 mg to 0.25 mg sublingually every four to six
+hours as needed for increased airway secretions.
+4.  Scopolamine 1.5 mg patch q 72 hours.
+5.  Aspirin 325 mg q day.
+6.  Pedigril 75 mg q day.
+7.  Levoxyl 125 mcg q day.
+8.  [**Doctor Last Name 10092**] one tablet twice a day.
+9.  Colace 100 mg twice a day.
+10. Tylenol as needed.
+11. Portable oxygen.
+12. Lasix 20 to 40 mg twice a day as needed for short of
+breath or wheezing.
+
+DISCHARGE INSTRUCTIONS:  The patient is to take medications
+as needed and as tolerated.  He can follow-up with his
+primary care provider, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 1612**] as needed, otherwise
+receive care from the Hospice Services.
+
+
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) **], MD  [**MD Number 950**]
+
+Dictated By:[**Name8 (MD) 5644**]
+
+MEDQUIST36
+
+D:  [**2840-4-16**]  15:53
+T:  [**2840-4-16**]  20:14
+JOB#:  [**Job Number 10762**]
+Signed electronically by: DR. [**First Name (STitle) **] DOW
+ on: FRI [**2840-6-8**] 1:44 PM
+(End of Report)
+
+
+",,
+14506,13817,18028,0,2840-04-09 03:03:00 EST,2840-04-09 03:27:00 EST,478,"N",1,"Nursing/Other","CCU Nrsg Admit Note","
+CCU Nrsg Admit Note
+76yo with past med hx of MI (92), CABG(92), DM, bladder cancer, prostate cancer (s/p x-ray therapy), HTN, and ^chol. He has been pain free since his CABG until [**Female First Name (un) **] of '[**40**], at that time he had a stress echo which showed his ef to be 31%. He was admitted to [**Hospital3 3077**] for ^ing sob/chf. He underwent a cath which revealed graft to distal lcx occluded, graft to om was occluded and graft to r pda was patent but there was a distal stenosis of 90%. He also had 3+ MR and 2+ AR with elevated filling pressures and an ef of 15-20%. He was started on dobutamin and Natrecor and diuresed. He is transferred to CCU for further management and for PTCA in a.m.
+   He arrived to CCU at 7:00pm, with no c/o cp or sob. He is afebrile.
+CV: HR 80-100's sr/st with occ pvc/couplet, his kcl was repleted. Heparin at 600U/hr was increased to 700U/hr for nontherapeutic PTT but was dc'd at 5am in anticipation of procedure this am. Dobutamine is at 5mcg/kg/min and Natrecor at .01mcg/kg/min. His PAP 40-50's/mid 20's and CVP 3-8. CO/CI 3.3/1.92 with SVT mid 1500's. We have made no changes in his current inotropic meds. He rec'd a decrease dose of captopril due to his maps being in the low 60's, he tol this well. R groin has art/venous sheath and is d/i with distal pulses dopplerable on r and easily palpated on l. 
+Resp: He is on 2lnp with sats 98-100%. Lungs are clear and he has no  cough.
+GI/GU: Abdomen soft with (+) bowel sounds. Foley drng clear blood tinged urine.
+MS: He is alert and oriented x 3. Rec'd ambien 5mg with mild results. 
+A: Awaits cath/ptca in am
+   elevated pa pressure
+P: prepare for cath
+   follow bp/co/ci titrate meds as needed
+    
+",,
+14506,13817,18028,0,2840-04-09 15:07:00 EST,2840-04-09 15:22:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+pls see carevue flowsheet for complete vs/data/events
+s: my leg hurts a little
+o: id: afeb. no abx.
+cv: sr 90s w apcs. bp 90-120/60. went to cath 7:45am. underwent stent to svg to pda and native lcx. started on integrillin at 9am for 18hr infusion. dobutamine dc'd in lab. natrecor dc'd this afternoon.
+heparin remains off from prev to cath.
+plts 146(143).
+resp: basilar cxs. no sob. sat >97% on 2l nc.
+gi: tol diet, no n/v. no stool today.
+gu: mod hematuria. no clots noted. poor uop. cr 1.3. cont on mucomist.
+skin: intact.
+ms: quiet. cooperative. visiting w family.
+a: s/p stent to svg and lcx.
+p: follow for bleeding precautions. assess for ischemia/chf/arrhythmia. follow i/o. support to pt and family.
+
+",,
+14506,13817,18028,0,2840-04-09 17:21:00 EST,2840-04-09 17:25:00 EST,1119,"N",1,"Nursing/Other",,"
+
+
+No change in previous assessment.  Unable to obtain pulse in R dp w/ doppler, but PT and L pulses present w/ doppler.  R [**Doctor Last Name 306**] pulse present.  Team aware.  Feet cool bilat.  R groin oozing a bit.  SBP down to 80 after given captopril 25mg.  Checked w/ team prior to giving dose and since BP was 95/102 - it was given.  Currently eating dinner w/ no problems.  FS at 1600 was 314 - covered w/ 8 units reg insulin sc.
+
+Plan:  Tx to [**Hospital Ward Name **] 2. 
+",,
+14506,13817,,,2840-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2840-4-11**] 8:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10074**]
+     Reason: Acute pulmonary process                                     
+     Admitting Diagnosis: UNSTABLE ANGINA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with hypoxia acutely                                            
+     REASON FOR THIS EXAMINATION:
+      Acute pulmonary process                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Acute hypoxia.
+     
+     PORTABLE RADIOGRAPH OF THE CHEST IN TRENDELENBURG.
+     
+     The cardiac and mediastinal contours are normal.  There are no focal
+     consolidtaions or pleural effusions.  Allowing for technique, the pulmonary
+     vasculature is within normal limits.  There is a small amount of linear
+     atelectasis in the mid right lung field.  There is no pneumothorax.
+     
+     IMPRESSION: No pneumonia or congestive heart failure.
+
+",,
+14506,13817,,,2840-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2840-4-11**] 9:01 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 10075**]
+     Reason: Dilated bowel loops?                                        
+     Admitting Diagnosis: UNSTABLE ANGINA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with CAD, acute hypotension, abdominal pain, guiac positive 
+      stool, and elevated lactate.
+     REASON FOR THIS EXAMINATION:
+      Dilated bowel loops?                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 76 year old with abdominal pain and guaic positive stool,
+     assess for ischemia.
+     
+     PORTABLE SUPINE ABDOMEN:
+     
+     FINDINGS: There is marked motion artifact during the study.  Loops of air-
+     filled bowel, likely large bowel are seen in the left upper quadrant and right
+     lower quadrant.  No dilated loops of large or small bowel are seen.  The
+     visualized portion of the pelvis is unremarkable.
+     
+     No obstruction or dilated loops of bowel.  These findings were communicated to
+     Dr. [**Last Name (STitle) 10076**].
+
+",,

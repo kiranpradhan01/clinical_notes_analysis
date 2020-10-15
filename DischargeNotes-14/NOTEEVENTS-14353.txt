@@ -1,0 +1,609 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3428-12-4**]     Discharge Date:  [**3428-12-8**]
+
+Date of Birth:   [**3396-11-27**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 32-year-old man
+involved in a motor vehicle accident as an unrestrained
+driver and/or passenger in a rollover.  Patient was intubated
+in the Trauma Bay to facilitate reduction of his left
+posterior lateral hip dislocation which was done without
+incident.  Patient's trauma work-up revealed injuries
+including a large midline chin laceration with a lingual
+communication, a left acetabular fracture, right medial
+malleolus fracture and a talotibial separation.  CT scan also
+revealed a small pelvic hematoma without extravasation.
+Patient was noted to have ethanol and cocaine onboard at the
+time of the accident.  Following these studies, the patient
+was transferred to the Surgical Intensive Care Unit where he
+remained intubated overnight and was extubated the next
+morning without incident.  He was transferred to the floor
+where he was seen by the Addiction Consultation Service and
+where he underwent aggressive Physical Therapy.
+
+Otolaryngology was consulted to close his chin laceration
+which was done in several layers.  Patient progressed along
+well with his Physical Therapy and on hospital day four, the
+patient was ready to be discharged home.
+
+CONDITION OF DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE MEDICATIONS:
+1.  Flagyl 500 mg po t.i.d.
+2.  Keflex 500 mg po q.i.d.
+
+FOLLOW-UP:  Patient should follow-up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 10501**],
+otolaryngologist, for removal of his skin sutures in his
+chin.  No Trauma Service follow-up is necessary.  Patient may
+follow-up prn.
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 839**], M.D.  [**MD Number 840**]
+
+Dictated By:[**Last Name (NamePattern1) 1852**]
+MEDQUIST36
+
+D:  [**3428-12-10**]  10:42
+T:  [**3428-12-10**]  10:42
+JOB#:  [**Job Number 10502**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SAT [**3428-12-20**] 2:12 PM
+(End of Report)
+
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:31 PM
+     HIP UNILAT MIN 2 VIEWS LEFT PORT; ANKLE (AP, LAT & OBLIQUE) RIGHTClip # [**Telephone/Fax (1) 8812**]
+     Reason: eval. post reduction, r/o fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      eval. post reduction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left hip dislocation after MVA, post reduction.  Left ankle
+     deformity.
+     
+     FINDINGS: A single AP view of the left hip shows a small fracture fragment
+     adjacent to the inferior portion of the posterior edge of the acetabulum.  No
+     femoral fracture is identified.
+     
+     Three views of the right ankle show a small fracture fragment adjacent to the
+     tip of the medial malleolus.  There is marked soft tissue swelling around the
+     lateral malleolus, and the mortise is widened laterally in films  in
+     which the foot  is rotated in the ap and mortise views.
+     IMPRESSION: Avulsed  fractures of the left acetabulum and right medial
+     malleolus. 
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 9:15 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 8814**]
+     Reason: trauma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man with trauma
+     REASON FOR THIS EXAMINATION:
+      trauma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, MVA.
+     
+     PORTABLE CHEST:  A supine view obtained at 9:42 PM shows an ET tube
+     approximately 3 cm above the carina.  The cardiac and mediastinal contours are
+     normal.  The lungs are clear, and there is no pleural effusion or
+     pneumothorax.  The skeletal structures are unremarkable.  There is no prior
+     exam for comparison.
+     
+     IMPRESSION:  ET tube in satisfactory position.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 9:16 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 8815**]
+     C-SPINE, TRAUMA
+     Reason: r/o fx, r/o fx, completion c-spine with swimmers view
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man with trauma
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, MVA.
+     
+     CERVICAL SPINE, 3 VIEWS:  There is no fracture or spondylolisthesis.  There is
+     normal alignment at C7/T1.  The C5 and C6 vertebral bodies are slightly
+     decreased in height.
+     
+     THORACIC SPINE, 2 VIEWS:  The vertebral bodies and disc spaces are preserved
+     in height.  There is no fracture or spondylolisthesis.
+     
+     LUMBAR SPINE, 2 VIEWS:  There is no fracture or spondylolisthesis.  The
+     vertebral bodies and disc spaces are preserved in height.  The SI joints are
+     normal.
+     
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:50 PM
+     CT SINUS/MAXLIOFACIAL W/O CONTRAST; CT RECONSTRUCTION           Clip # [**Clip Number (Radiology) 8813**]
+     Reason: r/o acute processes
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Facial laceration due to MVA.  Evaluate for fracture.
+     
+     TECHNIQUE: CT imaging of the facial bones and upper cervical spine without
+     contrast enhancement.  Coronal reconstructions were also obtained.
+     
+     FINDINGS: There is hematoma in the right periorbital region and at the base of
+     the nose.  There is no fracture.  Mucosal thickening is noted in the ethmoid
+     and maxillary sinuses and frontal sinuses..
+     
+     In the upper cervical spine, there is no fracture or spondylolisthesis.
+     
+     IMPRESSION: No fracture.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:50 PM
+     CT SINUS/MAXLIOFACIAL W/O CONTRAST; CT RECONSTRUCTION           Clip # [**Clip Number (Radiology) 8813**]
+     Reason: r/o acute processes
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Facial laceration due to MVA.  Evaluate for fracture.
+     
+     TECHNIQUE: CT imaging of the facial bones and upper cervical spine without
+     contrast enhancement.  Coronal reconstructions were also obtained.
+     
+     FINDINGS: There is hematoma in the right periorbital region and at the base of
+     the nose.  There is no fracture.  Mucosal thickening is noted in the ethmoid
+     and maxillary sinuses and frontal sinuses..
+     
+     In the upper cervical spine, there is no fracture or spondylolisthesis.
+     
+     IMPRESSION: No fracture.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 9:16 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 8815**]
+     C-SPINE, TRAUMA
+     Reason: r/o fx, r/o fx, completion c-spine with swimmers view
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man with trauma
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, MVA.
+     
+     CERVICAL SPINE, 3 VIEWS:  There is no fracture or spondylolisthesis.  There is
+     normal alignment at C7/T1.  The C5 and C6 vertebral bodies are slightly
+     decreased in height.
+     
+     THORACIC SPINE, 2 VIEWS:  The vertebral bodies and disc spaces are preserved
+     in height.  There is no fracture or spondylolisthesis.
+     
+     LUMBAR SPINE, 2 VIEWS:  There is no fracture or spondylolisthesis.  The
+     vertebral bodies and disc spaces are preserved in height.  The SI joints are
+     normal.
+     
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:14 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 8811**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT 100CC NON IONIC CONTRAST
+     Reason: r/o acute processes
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, motor vehicle accident.
+     
+     TECHNIQUE:  CT imaging of the chest, abdomen and pelvis with 150 ml Optiray.
+     Nonionic contrast was used due to unknown medical history.  There is no prior
+     study for comparison.
+     
+     CT CHEST WITH CONTRAST:  A small amount of gas is incidentally noted within
+     the left glenohumeral joint.  The ET tube appears in good position.  The
+     heart, pericardium and great vessels are normal.  There is no evidence of
+     mediastinal hematoma.  There is dependent atelectasis bilaterally; the lungs
+     are otherwise clear.  There is no pneumothorax or pleural effusion.
+     
+     CT ABDOMEN WITH CONTRAST:  The liver, gallbladder, spleen, pancreas, adrenal
+     glands, and kidneys are normal.  The stomach, small bowel and colon are
+     unremarkable.  There is no free intraperitoneal fluid or gas.
+     
+     CT PELVIS WITH CONTRAST:  There is a Foley catheter in the urinary bladder.
+     The distal ureters, prostate and rectum are normal.  There are small fracture
+     fragments arising from the left posterior acetabulum.  The femoral head is
+     within the acetabulum, but the femur is external rotated.  There are hematomas
+     adjacent to the left gluteus maximus, obturator internis and pyriformis
+     muscles.  A subcutaneous hematoma is noted superficial to the right gluteus
+     medius.
+     
+     IMPRESSION:  Left posterior acetabular fracture and associated hematoma.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:14 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 8811**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT 100CC NON IONIC CONTRAST
+     Reason: r/o acute processes
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, motor vehicle accident.
+     
+     TECHNIQUE:  CT imaging of the chest, abdomen and pelvis with 150 ml Optiray.
+     Nonionic contrast was used due to unknown medical history.  There is no prior
+     study for comparison.
+     
+     CT CHEST WITH CONTRAST:  A small amount of gas is incidentally noted within
+     the left glenohumeral joint.  The ET tube appears in good position.  The
+     heart, pericardium and great vessels are normal.  There is no evidence of
+     mediastinal hematoma.  There is dependent atelectasis bilaterally; the lungs
+     are otherwise clear.  There is no pneumothorax or pleural effusion.
+     
+     CT ABDOMEN WITH CONTRAST:  The liver, gallbladder, spleen, pancreas, adrenal
+     glands, and kidneys are normal.  The stomach, small bowel and colon are
+     unremarkable.  There is no free intraperitoneal fluid or gas.
+     
+     CT PELVIS WITH CONTRAST:  There is a Foley catheter in the urinary bladder.
+     The distal ureters, prostate and rectum are normal.  There are small fracture
+     fragments arising from the left posterior acetabulum.  The femoral head is
+     within the acetabulum, but the femur is external rotated.  There are hematomas
+     adjacent to the left gluteus maximus, obturator internis and pyriformis
+     muscles.  A subcutaneous hematoma is noted superficial to the right gluteus
+     medius.
+     
+     IMPRESSION:  Left posterior acetabular fracture and associated hematoma.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:14 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 8811**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT 100CC NON IONIC CONTRAST
+     Reason: r/o acute processes
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, motor vehicle accident.
+     
+     TECHNIQUE:  CT imaging of the chest, abdomen and pelvis with 150 ml Optiray.
+     Nonionic contrast was used due to unknown medical history.  There is no prior
+     study for comparison.
+     
+     CT CHEST WITH CONTRAST:  A small amount of gas is incidentally noted within
+     the left glenohumeral joint.  The ET tube appears in good position.  The
+     heart, pericardium and great vessels are normal.  There is no evidence of
+     mediastinal hematoma.  There is dependent atelectasis bilaterally; the lungs
+     are otherwise clear.  There is no pneumothorax or pleural effusion.
+     
+     CT ABDOMEN WITH CONTRAST:  The liver, gallbladder, spleen, pancreas, adrenal
+     glands, and kidneys are normal.  The stomach, small bowel and colon are
+     unremarkable.  There is no free intraperitoneal fluid or gas.
+     
+     CT PELVIS WITH CONTRAST:  There is a Foley catheter in the urinary bladder.
+     The distal ureters, prostate and rectum are normal.  There are small fracture
+     fragments arising from the left posterior acetabulum.  The femoral head is
+     within the acetabulum, but the femur is external rotated.  There are hematomas
+     adjacent to the left gluteus maximus, obturator internis and pyriformis
+     muscles.  A subcutaneous hematoma is noted superficial to the right gluteus
+     medius.
+     
+     IMPRESSION:  Left posterior acetabular fracture and associated hematoma.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:14 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 8811**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT 100CC NON IONIC CONTRAST
+     Reason: r/o acute processes
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, motor vehicle accident.
+     
+     TECHNIQUE:  CT imaging of the chest, abdomen and pelvis with 150 ml Optiray.
+     Nonionic contrast was used due to unknown medical history.  There is no prior
+     study for comparison.
+     
+     CT CHEST WITH CONTRAST:  A small amount of gas is incidentally noted within
+     the left glenohumeral joint.  The ET tube appears in good position.  The
+     heart, pericardium and great vessels are normal.  There is no evidence of
+     mediastinal hematoma.  There is dependent atelectasis bilaterally; the lungs
+     are otherwise clear.  There is no pneumothorax or pleural effusion.
+     
+     CT ABDOMEN WITH CONTRAST:  The liver, gallbladder, spleen, pancreas, adrenal
+     glands, and kidneys are normal.  The stomach, small bowel and colon are
+     unremarkable.  There is no free intraperitoneal fluid or gas.
+     
+     CT PELVIS WITH CONTRAST:  There is a Foley catheter in the urinary bladder.
+     The distal ureters, prostate and rectum are normal.  There are small fracture
+     fragments arising from the left posterior acetabulum.  The femoral head is
+     within the acetabulum, but the femur is external rotated.  There are hematomas
+     adjacent to the left gluteus maximus, obturator internis and pyriformis
+     muscles.  A subcutaneous hematoma is noted superficial to the right gluteus
+     medius.
+     
+     IMPRESSION:  Left posterior acetabular fracture and associated hematoma.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:14 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 8811**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT 100CC NON IONIC CONTRAST
+     Reason: r/o acute processes
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, motor vehicle accident.
+     
+     TECHNIQUE:  CT imaging of the chest, abdomen and pelvis with 150 ml Optiray.
+     Nonionic contrast was used due to unknown medical history.  There is no prior
+     study for comparison.
+     
+     CT CHEST WITH CONTRAST:  A small amount of gas is incidentally noted within
+     the left glenohumeral joint.  The ET tube appears in good position.  The
+     heart, pericardium and great vessels are normal.  There is no evidence of
+     mediastinal hematoma.  There is dependent atelectasis bilaterally; the lungs
+     are otherwise clear.  There is no pneumothorax or pleural effusion.
+     
+     CT ABDOMEN WITH CONTRAST:  The liver, gallbladder, spleen, pancreas, adrenal
+     glands, and kidneys are normal.  The stomach, small bowel and colon are
+     unremarkable.  There is no free intraperitoneal fluid or gas.
+     
+     CT PELVIS WITH CONTRAST:  There is a Foley catheter in the urinary bladder.
+     The distal ureters, prostate and rectum are normal.  There are small fracture
+     fragments arising from the left posterior acetabulum.  The femoral head is
+     within the acetabulum, but the femur is external rotated.  There are hematomas
+     adjacent to the left gluteus maximus, obturator internis and pyriformis
+     muscles.  A subcutaneous hematoma is noted superficial to the right gluteus
+     medius.
+     
+     IMPRESSION:  Left posterior acetabular fracture and associated hematoma.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:31 PM
+     HIP UNILAT MIN 2 VIEWS LEFT PORT; ANKLE (AP, LAT & OBLIQUE) RIGHTClip # [**Telephone/Fax (1) 8812**]
+     Reason: eval. post reduction, r/o fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      eval. post reduction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left hip dislocation after MVA, post reduction.  Left ankle
+     deformity.
+     
+     FINDINGS: A single AP view of the left hip shows a small fracture fragment
+     adjacent to the inferior portion of the posterior edge of the acetabulum.  No
+     femoral fracture is identified.
+     
+     Three views of the right ankle show a small fracture fragment adjacent to the
+     tip of the medial malleolus.  There is marked soft tissue swelling around the
+     lateral malleolus, and the mortise is widened laterally in films  in
+     which the foot  is rotated in the ap and mortise views.
+     IMPRESSION: Avulsed  fractures of the left acetabulum and right medial
+     malleolus. 
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:13 PM
+     TRAUMA SERIES (LAT C-SPINE, AP CXR, AP PELVIS PORT) PORT        Clip # [**Clip Number (Radiology) 8810**]
+     Reason: r/o acute processes
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p rollover MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Status post rollover MVA, evaluate for acute process.
+     
+     TRAUMA SERIES
+     
+     FRONTAL AP CHEST RADIOGRAPH:  The cardiomediastinal silhouette is
+     unremarkable. There is no evidence of pleural effusion.  The lungs appear
+     clear.  The soft tissues and osseous structures are unremarkable.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary process.
+     
+     AP PELVIS: There is superior dislocation of the left femoral head.  The right
+     hip appears normal.  There is probable fracture of the inferior portion of the
+     acetaulum, otherwise, no evidence of acute fracture. The SI joints are
+     unremarkable.  The superior portion of the femurs are unremarkable.
+     
+     IMPRESSION:  Superior dislocation of the left femur.  Question of acetabular
+     fracture. 
+     
+     LATERAL C-SPINE:  There is no prevertebral soft-tissue swelling.  There is no
+     evidence of fracture.  The cervical vertebral bodies are in normal alignment,
+     without loss of body or disc height.
+     
+     IMPRESSION:  No evidence of acute cervical spine fracture or dislocation.
+     
+     
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 8:13 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8809**]
+     Reason: r/o acute processes
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man s/p MVA
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Facial contusions after MVA.  Evaluate for intracranial injury.
+     
+     TECHNIQUE: CT imaging of the brain without contrast enhancement.  There is no
+     prior study for comparison.
+     
+     FINDINGS: There is a right periorbital hematoma, as well as hematoma around
+     the nares bilaterally.  No fractures identified.  There is no intracranial
+     hemorrhage or mass effect.  The ventricles and cisterns are normal in size.
+     Differentiation of [**Doctor Last Name 63**] and white matter is preserved throughout.
+     
+     IMPRESSION: Superficial hematomas.  No intracranial hemorrhage.
+     Minimal mucosal thickening right maxillary sinus and ethmoid air cells.
+
+",,
+14353,17487,,,3428-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3428-12-4**] 9:16 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 8815**]
+     C-SPINE, TRAUMA
+     Reason: r/o fx, r/o fx, completion c-spine with swimmers view
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      32 year old man with trauma
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma, MVA.
+     
+     CERVICAL SPINE, 3 VIEWS:  There is no fracture or spondylolisthesis.  There is
+     normal alignment at C7/T1.  The C5 and C6 vertebral bodies are slightly
+     decreased in height.
+     
+     THORACIC SPINE, 2 VIEWS:  The vertebral bodies and disc spaces are preserved
+     in height.  There is no fracture or spondylolisthesis.
+     
+     LUMBAR SPINE, 2 VIEWS:  There is no fracture or spondylolisthesis.  The
+     vertebral bodies and disc spaces are preserved in height.  The SI joints are
+     normal.
+     
+
+",,
+14353,17487,17845,0,3428-12-05 06:32:00 EST,3428-12-05 06:52:00 EST,3338,"N",53,"Nursing/Other","SICU ADMISSION NOTE 2215P-730A","
+SICU ADMISSION NOTE 2215P-730A
+   PT IS A 32 YO UNRESTRAINED ? DRIVER VS. PASSENGER(PT DENIES DRIVING BUT WAS ON PERSON AT SCENE) IN HIGH SPEED ROLLOVER THAT CAUSED EXTENSIVE DAMAGE TO CAR. ? LOC AT SCENE AND PT MEDFLIGHTED TO EW. PT ADMITTED TO ETOH AND COCAINE USE. INTUBATED IN EW AND TRANSFER TO SICU FOR VENT SUPPORT, HCT CHECKS, AND HEMODYANMIC MONITORING. 
+
+INJURIES: L HIP DISLOCATION>REDUCED IN EW, R MEDIAL MALLEOLUS CHIP, R LATERAL TALOTIBIAL SEPARATION, PELVIC LAC, MED. CHIN LAC, AND LARGE CHIN LAC THAT COMMUNICATES TO MOUTH. 
+
+PMHX: NONE
+ALLE: NKDA
+MEDS: NONE
+SOCIAL: PT GAVE EW PHONE # FOR GIRLFRIEND BUT IT WAS NOT CORRECT NUMBER. D/T INTUBATION UNABLE TO CONTACT FAMILY. WILL HAVE SOCIAL WORK GET INVOLVED THIS AM TO HELP LOCATE NEXT OF [**Doctor First Name **].
+
+REVIEW OF SYSTEMS
+
+NEURO: PT SEDATED ON PROPOFOL. WHEN LIGHT PT EXTREMELY AGITATED. HE ATTEMPTS TO SIT UP IN BED AND ATTEMPTS TO PULL AT ETT. PT DOES FOLLOW COMMANDS IN ALL EXTREMETIES. DOES NEED A LOT OF ENCOURAGEMENT AT TIMES TO FOLLOW COMMANDS. MEDICATED WITH FENTANYL FOR PAIN WITH EFFECT. HEAD CT NEGATIVE. CONTS ON TLS PRECAUTIONS AND CCOLLAR INTACT.
+
+CV: HEMODYNAMICALLY STABLE. HR 90-110'S ST WITH NO ECTOPY. SBP 130-150. +PP WITH SKIN WARM AND DRY. PIV X2 IN BILAT ANTICUB. 
+
+RESP: L/S CLEAR AND DIMINISHED AT BASES. CONTS ON A/C WITH SEVERAL CHANGES MADE THROUGHOUT SHIFT.(SEE CAREVUE FOR SPECIFICS)SX FOR SCANT AMT OF BLOOD TINGED SPUTUMX1. SATS 100%.
+
+GI: ABD SOFTLY DISTENDED WITH HYPOACTIVE BS. NPO. OGT PLACED AND TO WALL SX DRAINAGE MOD AMT OF BROWN MATERIAL. NO STOOL OR FLATUS NOTED.
+
+GU: U/O DRIFTING OFF AS SHIFT PROGRESSED BUT GREATER THAN 30CC/HR. K 3.3 IVF CHANGED TO NS WITH 40KCL AT 75CC/HR WITH REPEAT K 3.6.
+
+HEME: Q4 HCT CHECKS STABLE 41>40.
+
+ENDO: NO ISSUES.
+
+ID: IV CEFAZOLIN STARTED AND GIVEN FLAGYL X1 PER ENT. TMAX 100.4. WBC 13.
+
+SKIN: ABRASIONS NOTED TO RIGHT SIDE OF FACE. MED SIZED LAC TO CHIN SUTURED BY ENT. LARGER LAC. TO MIDDLE OF CHIN THAT COMMUNICATED WITH MOUTH. ENT SUTURED INSIDE MOUTH AND CHIN IN DEEP LAYERS. PENROSE DRAIN PLACED IN LARGE LAC. ALL OTHER SKIN INTACT.
+
+SOCIAL: PT GAVE EW NUMBER FOR GIRLFRIEND WHICH WAS INCORRECT. UNABLE TO GET ANY FURTHER INFORMATION D/T PT INTUBATED. WILL GET SOCIAL WORK INVOLVED.
+
+A: S/P MVA
+P: WEAN AND EXTUBATE TODAY. ? TRANSFER TO FLOOR LATER TODAY.
+
+",,
+14353,17487,17845,0,3428-12-05 11:15:00 EST,3428-12-05 11:17:00 EST,3196,"N",53,"Nursing/Other",,"
+
+RESPIRATORY CARE:
+PT. EXTUBATED TO A 50% FACE TENT; SAT. @ 98%
+",,
+14353,17487,17845,0,3428-12-05 16:16:00 EST,3428-12-05 16:22:00 EST,3454,"N",53,"Nursing/Other",,"
+
+SOCIAL WORK NOTE:
+New trauma pt on CTIC/SICU.  Pt is a 32 year old man who was in a MVA last night while + for etoh and cocaine.  Pt states that he was not the driver but his girlfriend, [**Doctor First Name **] Matanes, says that she thinks he was.  Pt admitted to etoh and cocaine use to ED staff and tested positive for both.  Pt was intubated this morning but was able to write notes indicating who he wanted called.  His mother, [**Doctor First Name 5506**], and his aforementioned girlfriend (cell phone [**Telephone/Fax (1) 6011**]) had already been reached and [**Doctor First Name **] was en route when this SW called her.  Met with her briefly after her arrival to offer support.  She describes a very complicated romantic relationship that she has with the pt and she seemed angered that he has not heeded her counsel to pursue appropriate substance abuse treatment.  She also reports that pt has a lengthy legal history.  She states that pt was recently d/c'd from Catholic Charities detox in [**Hospital1 **] and had been seeking a sober house setting to live in.  She says that he is a plumber by trade but is currently unemployed and having some housing issues.  Referral made to Addictions Consult service ([**First Name8 (NamePattern2) 1679**] [**Last Name (NamePattern1) 1680**]) and she will try to meet with pt this afternoon if possible.  This SW will remain involved as needed.  Pager [**Pager number 117**].
+",,

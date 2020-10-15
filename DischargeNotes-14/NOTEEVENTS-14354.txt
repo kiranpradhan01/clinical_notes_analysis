@@ -1,0 +1,581 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14354,,,,2668-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-8**] 3:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8816**]
+     Reason: sob
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with sob
+     REASON FOR THIS EXAMINATION:
+      sob
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Shortness of breath.
+     
+     PORABLE AP CHEST:  The study is notable for low lung volumes.  The heart size
+     is within normal limits. The aorta appears tortuous. The mediastinal and hilar
+     contours are unremarkable.  The lungs are clear and there are no pleural
+     effusions and no pneumothorax.  The pulmonary vasculature is within normal
+     limits.  A G-tube is noted overlying the right upper quadrant.
+     
+     IMPRESSION:  No evidence of pneumonia or heart failure.
+
+",,
+14354,16104,,,2668-08-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2668-8-11**]     Discharge Date:  [**2668-8-19**]
+
+Date of Birth:   [**2577-7-1**]     Sex:  F
+
+Service:  Medicine
+
+HISTORY OF PRESENT ILLNESS:  The patient was admitted with
+respiratory distress secondary to aspiration requiring
+admission to the Medical Intensive Care Unit.
+
+HOSPITAL COURSE:  The patient required intubation.  The
+patient was subsequently extubated and transferred to the
+medical floor where she received ongoing care of her
+aspiration pneumonia and other medical problems.
+
+CONDITION AT DISCHARGE:  The patient was discharged in stable
+condition.
+
+DISCHARGE STATUS:  Discharged to the [**Hospital3 306**] nursing
+home.
+
+NOTE:  For the patient's History of Present Illness and
+Discharge Summary please refer the patient's online medical
+record notes.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 611**], M.D.  [**MD Number 1007**]
+
+Dictated By:[**Name6 (MD) 10503**]
+
+MEDQUIST36
+
+D:  [**2668-8-19**]  17:56
+T:  [**2668-8-22**]  07:17
+JOB#:  [**Job Number 10504**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 613**] [**Doctor Last Name **]
+ on: MON [**2668-8-24**] 8:06 AM
+(End of Report)
+
+
+",,
+14354,16104,,,2668-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-11**] 12:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8821**]
+     Reason: check ETT placement                                         
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman intubated for hypoxemic respiratory failure after she  
+      aspirated.
+     REASON FOR THIS EXAMINATION:
+      check ETT placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient intubated for hypoxemic respiratory failure, please check
+     ETT placement.
+     
+     VIEWS:  AP portable chest x-ray dated [**2668-8-11**] at 12:27 is compared to AP
+     portable semi-upright chest x-ray dated [**2668-8-11**] at 8:48.
+     
+     FINDINGS:  The endotracheal tube has been withdrawn since the prior
+     examination and is now in good position with the tip approximately 3 cm above
+     the carina.  Allowing for position, the overall appearance of the chest is
+     otherwise unchanged.
+
+",,
+14354,16104,,,2668-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-11**] 4:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8822**]
+     Reason: desat post extubation. please eval for edema                
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman intubated for hypoxemic respiratory failure after she   
+      aspirated.
+     REASON FOR THIS EXAMINATION:
+      desat post extubation. please eval for edema                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intubated for hypoxemic respiratory failure after she aspirated.
+      Evaluate for edema.
+     
+     SINGLE VIEW OF THE CHEST:  The right internal jugular catheter terminates in
+     the right atrium.  There is no evidence for pneumothorax.  The endotracheal
+     tube has been removed.  There are low luvl.  There is mild pulmonary vascular
+     congestion which may relate to a degree of congestive heart failure.
+     
+     IMPRESSION:
+     1.  The right internal jugular catheter terminates in the right atrium.
+     2.  Low lung volumes, with possible mild congestive heart failure.
+     
+
+",,
+14354,16104,,,2668-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-11**] 7:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8819**]
+     Reason: CONFIRM ETT PLACEMENT; R/P WORSENING PNA
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman intubated for hypoxemic respiratory failure after she 
+      aspirated.
+     REASON FOR THIS EXAMINATION:
+      confirm ETT placement; r/o worsening pna; PLEASE NOTE: REQUESTING FOR EXAM TO 
+      BE DONE DURING AM ROUNDS AROUND 8AM THANKS!
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient s/p aspiration and intubation, please r/o worsening
+     pneumonia and confirm ETT placement.
+     
+     VIEWS: AP semi-upright portable examination of the chest dated [**2668-8-11**]
+     at 8:48 a.m. is compared to AP portable supine examination of the chest dated
+     [**2668-8-11**] earlier in the day.
+     
+     FINDINGS: The ETT remains in the right main stem bronchus by approximately 1
+     cm. The right IJ line is seen with the tip at the SVC/RA junction. The
+     cardiomediastinal contours are unremarkable, allowing for rightward patient
+     rotation. Increased opacity in the right upper lobe suggesting possible apical
+     scarring is again noted. The lungs are otherwise well aerated. There is no
+     other significant pulmonary abnormality.
+     
+     IMPRESSION: 1) ETT in right main stem bronchus. 2) Other lines in satisfactory
+     condition. 3) Persistent right upper lobe opacity suggesting possible apical
+     scarring, otherwise no significant pulmonary abnormality. These findings were
+     called to the clinical care team at 10:45 a.m. on [**8-11**].
+
+",,
+14354,16104,,,2668-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-11**] 12:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8818**]
+     Reason: post adjustment of ETT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with sob and tube just adjusted, check placement
+     REASON FOR THIS EXAMINATION:
+      post adjustment of ETT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath, s/p endotracheal tube adjustment.
+     
+     COMPARISON: [**2668-8-11**] at 12:05
+     
+     CHEST, AP PORTABLE: Allowing for the marked rightward patient rotation, the
+     cardiomediastinal and hilar contours are grossly unremarkable. The lungs are
+     appear largely. There is a vague nodular density in the right upper lobe, not
+     well assessed seconsary to rotation. Endotracheal tube remains within the
+     right mainstem bronchus, approximately 1 cm beyond the carina. The soft tissue
+     and osseous structures unremarkable.
+     
+     IMPRESSION: 1. Persistent intubation of the right mainstem bronchus.
+     2. Question of right upper lobe nodule.
+     
+
+",,
+14354,16104,,,2668-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-11**] 9:08 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8820**]
+     Reason: obstruction, perforation??                                  
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with aspiration pneumonia and intubated                       
+     REASON FOR THIS EXAMINATION:
+      obstruction, perforation??                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, SINGLE FILM:
+     
+     History of abdominal pain.
+     
+     The distribution of bowel gas is unremarkable.  Presumed G-tube overlies
+     central abdomen.  No upright or decubitus film to optimally evaluate for free
+     intraperitoneal gas.  No definite free intraperitoneal gas on this single
+     supine film which does not include the left diaphragm.  Calcific density in
+     left upper quadrant.  Right hip hemiarthroplasty.  Old healed fractures left
+     superior and inferior pubic rami.  No relevant clinical information.
+
+",,
+14354,16104,,,2668-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-11**] 12:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8817**]
+     Reason: hypoxia, SOB, dx with aspiration PNA 2d prior, s/p intubatio
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with sob
+     REASON FOR THIS EXAMINATION:
+      hypoxia, SOB, dx with aspiration PNA 2d prior, s/p intubation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath. Diagnosis of aspiration pneumonia, s/p
+     intubation.
+     
+     COMPARISON: [**2668-8-8**].
+     
+     CHEST, AP SUPINE PORTABLE: The cardiomediastinal and hilar contours are
+     grossly unremarkable, allowing for the marked rightward patient rotation. The
+     endotracheal tube is at least 2 1/2 cm down into the right mainstem bronchus.
+     There is a possible right upper lobe nodule.  The soft tissue and osseous
+     structures are grossly unremarkable. A gastrostomy tube is noted. 
+     
+     IMPRESSION: The endotracheal tube descends down the right mainstem bronchus by
+     2 1/2 cm.  Possible right upper lobe nodule.
+
+",,
+14354,16104,17846,0,2668-08-11 05:04:00 EST,2668-08-11 05:21:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT ADMITTED FROM EW AT 0200. PT FOUND AT COOLAGE HOUSE REHAB IN RESP DISTRESS, SATS IN 70'S, VOMMITIING. PT WAS INTUBATED IN FIELD AND BROUGHT TO EW. IN EW RECTAL TEMP 102.8, TYLENOL GIVEN, BC AND UA SENT. O2 SATS IN MID 80'S. ETT IN RIGHT MAINSTEAM. ETT PULLED BACK. PT TRANSFERRED TO MICU. 
+
+NEURO: PT SEDATED ON ATIVAN PRN BY EW. PT STARTED ON VERSED GTT AT 2MG/HR. PT FLEXS TO PAIN, NOT OPENING EYES. SLIGHT SPONT MVT IN BIL LOWER EXTREMITIES. PERLA 3MM. BASLINE PT IS NONVERBAL. 
+
+RESP: PT IS CURRENTLY ON AC 400X12 40% PEEP5. LAST ABG 7.40/37/102. 02 SATS 100%. PT SUCTIONED X1 FOR SMALL AMT WHITE SPUTUM. LS RHONCHI AT BASES. 
+
+CV: HR 60-80'S NSR, NO ECTOPY. SBP 69-160. PT GIVEN TOTAL 1.5L NS IN MICU FOR SBP AND U/O. BP RESPONSE AFTER 1L. PT AFEBRILE. AM HCT 25.2 DOWN FROM 29. 
+
+GI/GU: ABD SOFT, HYPO BS, NO BM. GTUBE CLAMPED. HOLDING TF'S. FOELY CHANGED. MINIMAL U/O. TOTAL U/O 25CC IN MICU. AMBER CLEAR URINE. 
+
+ACCESS: PT HAS 18G IN RIGHT AC, 22G IN LEFT HAND. RIGHT RADIAL ALINE PLACED AFTER MULTIPLE ATTEMPTS. 
+
+DISPO: TEAM HAS HAD NO CONTACT W/ FAMILY. NO FAMILY HAS CALLED THROUGH OUT NIGHT. GOAL FOR TODAY IS TO CONTACT FAMILY AND READDRESS CODE STATUS. ?CL PLACEMENT TODAY, TRANSFUSE 2UNITS PRBC'S. MONITOR SBP. PT AT THIS TIME IS A FULL CODE IN MICU. 
+",,
+14354,16104,17846,0,2668-08-11 05:11:00 EST,2668-08-11 05:18:00 EST,2476,"N",69,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+PATIENT RECENTLY D/C'D FROM [**Hospital1 10**] TO [**Hospital3 **] NURSING HOME.  RESPIRATORY DISTRESS NOTED AFTER PATIENT WAS WITNESSED TO VOMIT AND ASPIRATE.  INTUBATED IN THE FIELD WITH A #7 ETT, 22CM AT THE LIP.  PLACED ON VENTILATORY SUPPORT AS NOTED IN CAREVUE.   PMH INCLUDES DIABETES, CVA, SEIZURES.  PATIENT WAS NON-VERBAL AT BASELINE. INITIAL ABG'S REVEALED A RESPIRATORY HYPERVENTILATION WITH MORE THAN ADEQUATE OXYGENATION.  FIO2 DECREASED TO 50% AND VT DECREASED TO 400 ML.  REPEAT ABG'S SHOWED ALL ASPECTS OF OXYGENATION AND ACID-BASE STATE TO BE WNL.
+",,
+14354,16104,17846,0,2668-08-11 15:41:00 EST,2668-08-11 15:42:00 EST,-1,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt weaned to cpap, extubated despite pharadyxical breathing. Placed on face mask Bipap. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] RRT
+
+",,
+14354,16104,17846,0,2668-08-11 17:11:00 EST,2668-08-11 17:34:00 EST,2605,"N",69,"Nursing/Other",,"
+
+Please see careview data/MD noted and orders. Neuro: Pt is a bedridden non verbal nursing home pt. Her son states she has not responded to him since [**2667-2-8**]. She occasionally moves feet and arms weakly. CV: SBP has been low since this morning, improving with crystaloids and two units prbc. Antihypertensive meds held this am for perameters. Monitor pattern shows SR/no ectopy. mag 1.7 this morning, repleated with 3grams. Pulm: Pls see RT notes. Pt was extubated at 1600 this afternoon. Paradoxical breathing pattern noted and pt sounded like she was obstructing her airway. 02 sats on 40% face tent were 98-100%. Abgs have shown a consistent metabolic acidosis felt to be dilutional due to large volumes of ns given for hypotension. Lungs have been coarse bilaterally, pt suctioned for small to moderate amounts white secretions. Pt placed on cpap with subsequent hypertension responding minimally to lopressor 5mg IVP and better to 25mcg fentanyl IVP which needed to be repeated one hour later. Most current abg shows PH 7.2,PC02 48,P02 157, Bicarb 20, base excess -9. PCXR per team looks ""wetter"" but no florid PE/CHF. UO has been slowly improving today but has been <50cc/hr. Family was in today and wants pt reintubated if necessary. P: Gentle diuresis and PS changes (see care view) with repeat abg. Pt will likely need to be reintubated. ? Discussion with family tomorrow re: feelings/beliefs. Pts son states his mother has lived with his family most of his life and that they have left her room exactly as it was when she live with them. ?language barrier/cultural issues and if family has clear understanding of pt. condition, long term prognosis. Current code status is full.
+",,
+14354,16104,17846,0,2668-08-12 05:24:00 EST,2668-08-12 05:48:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. non-verbal, does not open eyes spontaneously.  Minimal movement noted in extremities- able to lift off bed.  Pt. received 100mcg Fentanyl for agitation o/n- had 2 episodes of tachypnia, HTN, more labored appearing breathing.  Likely does not speak English.
+
+CV:  HR 70's-100 NSR/ST with 2 episodes pair PVC's.  SBP 120's-200's, SBP responded well to Fentanyl doses and X1 dose 10mg Hydralazine.  4+ edema to UE's, 3+ to LE's.  NBP correlates with ABP within [**10-21**] pt.s.  CVP ranged from [**8-26**].  Received 20mg Lasix IV just prior to this shift- currently 300cc negative for last 24 hrs.
+
+Resp:  Received pt. on BiPap 40%, PS 15, PEEP 5, TV 300's-700's, RR 16-34, O2Sats 98%-100%.  ABG @ start of shift 7.28, 40, 136.  ABG @ 24:00 7.32, 37, 168.  Lungs are coarse upper lobes with occ. rhonchi.  Oral airway placed d/t tongue partially occluding airway.  TV's increased from 300's-700's, breathing less labored after oral airway placement and pt. repositioned higher in bed.  
+
+Heme/lytes/micro:  Hct @ 18:00 38- labs @ 4:00 grossly hemolyezed.  Labs re-sent @ 6:00- team aware.  T-max 99.7 axillary- antbx coverage includes po Flagyl and Levo. for asp. pnx.  
+
+GI:  PEG tube- not receving nutrition @ this time.  Receives meds.  via PEG.  +BS.  No BM this shift.  Small amnt. tan colored exudate cleansed from PEG site.
+
+GU:  Foley to gravity draining clear yellow urine.
+
+Derm: 1cmX1cm tear on L antecub.  Otherwise D&I.
+
+Social:  FULL CODE.  Team plans to address code status with family- would like to involve social work and interpreter if necessary.  Not likely that pt. would maintain adequate ventilatory status w/o mask/invasive ventilation.
+",,
+14354,16104,17846,0,2668-08-12 05:24:00 EST,2668-08-12 05:26:00 EST,2476,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Called to see patient due to apnea alarm sounding on a regular basis.  Placed oral airway and changed to a medium Vital Signs mask after adding an additional 15 cc of air into mask collar.  VT now 550.
+
+
+",,
+14354,16104,17846,0,2668-08-12 11:03:00 EST,2668-08-12 11:22:00 EST,2605,"N",69,"Nursing/Other",,"
+
+D: Please see [**Name6 (MD) 498**] data, MD notes/orders. Neuro: Pt moans with suctioning, mouth care. Moves extremities on bed. Has been recieving prn fentanyl while on mask ventilation with good response. CV: Sr no ectopy, SBP 1teens - 190. Pulm: Currently on face tent with FI02 40%. Prn albuterol nebs ordered with first dose administered now. oral airway in place to prevent obstruction. Pt suctioned periodically for thick tan secretions. Lungs with coarse rhonci that improve with suction.  Paradoxical breathing pattern has been unchanged throughout all modes of ventilation. 02 sats 98-100%. GU: UO 10-30cc/hr clear yellow. LOS fluid balance approx 3L+. Trace edema noted at ankles. Abd benign, +bs auscultated, permanent feeding tube in place. Soc: Daugher in law phoned in for update. Pts current condition and health status over the last few years discussed. Her daughter in law states feeling of sadness but understands that the pt will most likely have further decline in health and acknowledges that her quality of life of late has not been good. She states that her husband (pts son) has a difficult time with these issues and feels that he may benefit from discussing things with the medical team and that he will be in to visit in the early evening.  P: Monitor respitory status, lasix as ordered, abgs prn. Alternate mask ventilation with face tent prn. Begin tube feeds as ordered. Aspiration precautions, keep hob elevated 45deg. R:As above. Team will speak with pts son this evening, Pt status currently full code.
+
+
+",,
+14354,16104,17846,0,2668-08-12 16:58:00 EST,2668-08-12 17:06:00 EST,2605,"N",69,"Nursing/Other",,"
+
+Adendum: Pt has been more alert today, makes incoprehensible sounds and periodically opening eyes spontaneously.  suspected pain. She appeared more comfortable and sbp came down from 160 to 114 after she was given tylenol.  She has remained on face tentwith 02 at 40% with acceptable blood gases and 02 sats. Airway removed recently with no signs of obstruction. Pt does require nt suctioning with return of thick tan/white, blood tinged sputum. Good diuresis obtained from lasix 20mg given earlier in shift. Probalance tube feed initiated at 10cc/hr with plan to titrate to goal rate as tolerated. No family has been in as of this writing. The attending physician [**Last Name (NamePattern4) **]. [**First Name (STitle) 481**] would like family meeting arranged for tomorrow if possible to update family and discuss plan of care.
+",,
+14354,16104,17846,0,2668-08-12 17:17:00 EST,2668-08-12 17:21:00 EST,2174,"N",69,"Nursing/Other","Respiratory note:","
+Respiratory note:
+Pt remained on mask ventilation and than face tent 40% Fio2, tol well. For most part oral airway kept in place to stop apnea ventilation. Lungs coarse rhonchi. Nasal + oral Sx'd copious amt of thick tan sec with improved BS.Neb given with albuterol. Spo2 stayed >98% all the time. Will decided pt's code status after meeting with son, till than will moniter on Face tent/ mask vent
+",,
+14354,16104,17846,0,2668-08-13 02:13:00 EST,2668-08-13 02:30:00 EST,2749,"N",69,"Nursing/Other","NPN 19:00-07:00","
+NPN 19:00-07:00
+*Please see Carevue for additional patient information
+*Full Code
+*Contact Precautions ?cause of PNX
+
+Neuro: Pt moaning to mouth care, oral sxn'ing, requiring Fentanyl prn (25mcg IVP) for SBP 180's as well as non-verbal signs of discomfort. Pt attempts to cough, however, has difficulty [**Last Name (un) **] up secretions. Moving extremities on bed, yet has signigicantly more edema on R side  (both arm and leg), moving R side less.
+
+CV: HR 61-85, NSR, no ectopy. SBP 124/48-180's/76, A-line is positional. CVP 7-13, however per team, plan is to follow u/o more closely. Tmax 98.0 Axillary.
+
+Resp: Face tent 10L, 40% FiO2, did not require [**Hospital1 66**] o/n; O2 sat's high 90's. LS cont' to be coarse w/ some wheezes, given Neb tx x1, w/ fair results. NT sxn x1 for scant amounts of bld tinged secretions, cont's to attempt to cough up secretions. Bed at 45 degrees, d/t pt increase risk of aspiration.
+
+GI/GU: +BS, no bm, tolerating TF's at 10cc/hr (will check goal rate). PEG site wnl. U/O w/ consecutive hrs of ~20cc, given a total of NS 750cc over 3 hrs, w/ minimal effect; u/o cont'd to be poor, requiring Lasix 10mg. U/O after lasix >200cc. At MN (-) 770, LOS (+)~2L. 
+
+ID: started on Vancomycin q 48hr, for ?PNX cause.
+
+Skin: intact, w/ redness on R heel, and Edema throughout R side. L cheeck bone also slightly red. 
+
+Access: Please see carevue
+
+Social: Son amd Daughter-in-Law in this evening, updated on pt's condition, very appropriate and concerned. 
+
+Plan: Monitor Resp Status, crackles. O2 sat's, bed 45 degrees. U/O ?need for fluid vs. Lasix. Social: Family meeting scheduled for today to discuss pt's plan of care and code status. 
+",,
+14354,16104,17846,0,2668-08-13 04:59:00 EST,2668-08-13 05:04:00 EST,2749,"N",69,"Nursing/Other","NPN Addendum","
+NPN Addendum
+HR up to 160, EKG done, per HO ?A-fib/A-flutter. Given a total of Lopressor 10mg, and Diltiazem 5mg IVP. Started on Diltiazem gtt, 5mg/hr, titrated up to 7.5mg/hr for goal HR<100 (now HR 104). **CK,CK-MB next round to be collected at 13:00,and q8 hr after.
+",,
+14354,16104,17846,0,2668-08-13 10:07:00 EST,2668-08-13 10:11:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1100)
+
+Pt. converted to NSR at 0900, EKG done to confirm rythmn. Lopressor and lisinopril have been resumed and diltiazem gtt quickly weaned off. Heart rate currently in the 60's. Pt. is called out to the floor with telemetry. However, she has required frequent suctioning this AM for thick, white secretions. Resident is aware and pt. will be re-evaluated for transfer later in the day. 
+",,
+14354,16104,17846,0,2668-08-13 17:53:00 EST,2668-08-13 18:04:00 EST,-1,"N",69,"Nursing/Other","Nsg Progress Note: 11-1900","
+Nsg Progress Note: [**11/2565**]
+Review of systems:
+
+Neuro: No change in MS, pt mumbling @ times, generally unresponsive except to pain. Decreased movement on right.
+
+CV: VSS per carevue, CVP 6, HR 65-85NSR without ectopy. SBP 120-140.
+
+Resp: Sating @ 100% on Facetent, changed to NC @ 4l/min and sating 98-100%. Lungs rhonchorous. Suctionned for diminishing amts secretions. Using accessory muscles when breathing @ times, but no change in rate of 18-24. CPT done
+
+
+GI: TF of ProBalance tol well with minimal residuals. Presently @ 40ml/hr, with goal 55ml/hr. Bowel sounds +, no stool since 1100. PEG site WNL.
+
+GU: Diminishing urine output, will receive Lasix 10mg @ 1900.
+
+Social: Pt's brother cancelled [**Name2 (NI) 1759**] scheduled for today, rescheduled for tomorrow.
+
+Plan: Pt is called out to floor. Cont vigorous CPT. Increase TF as tol.
+",,
+14354,16104,17846,,2668-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-14**] 1:40 PM
+     UNILAT LOWER EXT VEINS                                          Clip # [**Clip Number (Radiology) 8824**]
+     Reason: ?DVT in right upper and right lower extremities             
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with dementia, aspiration pneumonia with swelling of right 
+      lower ext and right upper ext
+     REASON FOR THIS EXAMINATION:
+      ?DVT in right upper and right lower extremities                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right lower extremity edema, rule out DVT.
+     
+     Grayscale and Doppler sonograms of right common femoral, superficial femoral
+     and popliteal veins were performed.  There is normal compressibility, flow and
+     augmentation of these vessels.
+     
+     IMPRESSION:  No evidence of DVT.
+     
+
+",,
+14354,16104,17846,,2668-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-14**] 1:40 PM
+     UNILAT UP EXT VEINS US; -59 DISTINCT PROCEDURAL SERVICE         Clip # [**Clip Number (Radiology) 8823**]
+     Reason: ?DVT of right upper extremity associated with lines, right l
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with dementia, aspiration pneumonia with swelling of right 
+      lower ext and right upper ext
+     REASON FOR THIS EXAMINATION:
+      ?DVT of right upper extremity associated with lines, right lower ext u/s also 
+      requested
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper extremity swelling.
+     
+     [**Doctor Last Name **] scale and Doppler sonogram of right internal jugular vein, right
+     subclavian vein, right axillary vein, and right brachial vein was performed.
+     There is normal compressibility, flow and augmentation of these vessels.
+     
+     Right basilic and cephalic veins were also imaged, and they are patent.
+     
+     Incidentally noted was a thin fluid collection not related to the vascular
+     structures.  This is probably related to a previous venous access.
+     
+     IMPRESSION:  No evidence of DVT in right upper extremity.
+     
+     
+
+",,
+14354,16104,17846,,2668-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-14**] 1:40 PM
+     UNILAT UP EXT VEINS US; -59 DISTINCT PROCEDURAL SERVICE         Clip # [**Clip Number (Radiology) 8823**]
+     Reason: ?DVT of right upper extremity associated with lines, right l
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with dementia, aspiration pneumonia with swelling of right 
+      lower ext and right upper ext
+     REASON FOR THIS EXAMINATION:
+      ?DVT of right upper extremity associated with lines, right lower ext u/s also 
+      requested
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper extremity swelling.
+     
+     [**Doctor Last Name **] scale and Doppler sonogram of right internal jugular vein, right
+     subclavian vein, right axillary vein, and right brachial vein was performed.
+     There is normal compressibility, flow and augmentation of these vessels.
+     
+     Right basilic and cephalic veins were also imaged, and they are patent.
+     
+     Incidentally noted was a thin fluid collection not related to the vascular
+     structures.  This is probably related to a previous venous access.
+     
+     IMPRESSION:  No evidence of DVT in right upper extremity.
+     
+     
+
+",,
+14354,16104,17846,0,2668-08-14 02:57:00 EST,2668-08-14 03:08:00 EST,2749,"N",69,"Nursing/Other","NPN 19:00-07:00 MICU","
+NPN 19:00-07:00 MICU
+*Please refer to Carevue and Nursing Transfer Note for addtional patient information. 
+*Full Code
+*C/O to floor, awaiting bed.
+
+Neuro: Non-English speaking, opens eyes to voice, incoherent speech, moving L side, R sided weakness. PERL 3mm, brisk. Weak cough, impaired gag. 
+
+CV: VSS, HR 60-84, BP 138/54-178/76 (now 149/65 after written dose of Metropolol). CVP 6-10, Tmax 98.8 Axillary. 
+
+Resp: 2L NC, O2 sat's 100%, LS crackles (will attempt to NT sxn prior to shift end). Weak cough. 
+
+GI/GU: +bs, no bm o/n, TF's (Probalance) at goal 55cc/hr. U/O decreased ~23:00, given Lasix 10mg w/ good effect. At MN (-)325. 
+
+Access: Please see Carevue
+
+Social: Son in last evening, family meeting to be held tomorrow regarding pt's code status and overall plan of care. 
+
+
+",,
+14354,16104,17846,0,2668-08-14 16:29:00 EST,2668-08-14 16:55:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress/Transfer Note 0700-1800","
+Nursing Progress/Transfer Note 0700-1800
+Review of Systems:
+
+Neuro: Pt neuro status unchanged, with rare incoherent mumbling and also no clear verbalizations in native language to family. Raising left arm and moving LE but RUE immobile and edematous. To ultrasound for right extremeties evaluation, and prelim reports neg. Pupils equal/dilated, reacting briskly to light.
+
+CV: HR 67-84NSR without ectopy, BP 144/58-173/78(pre scheduled lopressor dose). CVP avg 7.
+
+Resp: Sating 100% on room air, however ABG 7.42/41/77 so NC @ 2liters restarted. RR unchanged @ 15-20/min, intermit using accessory muscles/pursed lip breathing. Lungs generally clear with intermit few  crackles at bases.
+
+GI: TF of ProBalance @ goal of 55ml/hr via PEG with scant residuals. Large formed stool X 1, neg.
+
+GU: Urine ouput 40-70/hr, 24hr net balance + 47.5. Urine clear, yellow/amber. No lasix this shift. am K+ 2.9, given 40meq KCl, followup K+ 4.4 @ 1100. 
+
+Access: RIJ quad, periph in left arm, art line in place/WNL. Art line dampened, but good blood return/tracing.
+
+Social: Daughter [**Name (NI) 963**] visited in am, freq inappropriate (""they put stool into my mother's bed--it couldn't have been hers because she's not eating"") and attempting to care for pt by cleaning pt's mouth with excessive amts fluid or cutting pt's toenails with clippers excessively short. Son and Buddhist Monk visited in pm. Son appropriate, spoke with Drs. [**Last Name (STitle) **] [**Name5 (PTitle) **] of pt. Agreed to her return to [**Hospital3 1297**] ? tomorrow.
+
+Plan: Transfer pt to [**Hospital Ward Name **] 709, with ? D/C in am to [**Hospital3 1297**] extended care facility. Case worker is familiar with pt and family. Monitor visits by daughter, [**Doctor First Name 963**]. 
+",,
+14354,16104,17846,0,2668-08-14 16:58:00 EST,2668-08-14 16:59:00 EST,-1,"N",69,"Nursing/Other","NSG Addendum 1800","
+NSG Addendum 1800
+Pt afebrile. Vanco D/C'd and pt no longer on precautions.
+",,
+14354,16104,,,2668-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-16**] 7:53 PM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8825**]
+     Reason: H/O SEIZURE, NOW BARELY AROUSABLE SINCE FALL (HIP FX ON 6/'[**68**]).
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with h/o seizure d/o s/p CVA '[**62**], here with recurrent 
+      aspiration PNA.  Barely arousable since fall --> hip fx in 6/03.  ? subclinical 
+      seizures, ? new brain lesion.
+     REASON FOR THIS EXAMINATION:
+      ? mass/hematoma/CVA in                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Status post stroke in 97 with recurrent aspiration pneumonia. Recent
+     hip fracture.  Assess for new brain lesion.
+     
+     TECHNIQUE:  Multiplanar T1 & T2W brain imaging was obtained.
+     
+     FINDINGS:  No previous imaging studies are available on the PACS system for
+     comparison.  Also, the diffusion weighted images did not include the vertex
+     portion of the brain.  Within these limitations, the diffusion sequence shows
+     no high signal regions to suggest an area of acute brain ischemia.  Both the
+     diffusion weighted sequence and the conventional T2W scans show a 1-cm area of
+     probable chronic infarction within the left corona radiata, with a much more
+     extensive area of high T2 signal within the periventricular white matter of
+     both cerebral hemispheres.  This finding is consistent with chronic
+     microvascular infarction.
+     
+     There is moderate diffuse brain atrophy observed.  There is no shift of
+     normally midline structures. The major vascular flow patterns are preserved.
+     However, there is a suggestion of a Mulberry-shaped aneurysm, approximately 6
+     mm in diameter, in the expected position of the left middle cerebral artery
+     trifurcation.  This finding must be further evaluated with MR angiography.  We
+     will attempt to notify [**Doctor First Name 1041**] of this finding by telephone.
+     
+     There is extensive high T2 signal within the mastoid sinuses bilaterally with
+     mixed low and high T2 signal within the left maxillary sinus.  Sinus
+     abnormaities could represent an allergic or some other type of inflammatory
+     process.
+     
+     CONCLUSION:  Extensive chronic infarction as noted above.  Suspicion of left
+     middle cerebral artery trifurcation aneurysm, requiring MR angiography as a
+     follow up study, to be performed expeditiously.
+     
+     COMMENT:  Upon review of this patient's computer radiologic history, there are
+     no prior neuroimaging studies for [**Hospital 5**] Hospital available for comparison.
+     
+
+",,
+14354,16104,,,2668-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2668-8-17**] 11:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8826**]
+     Reason: ? new aspiration, ? non-resolving PNA                       
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with recurrent aspiration PNA, intubated [**8-10**] extubated [**8-12**], 
+      now with T = 101.6.
+     REASON FOR THIS EXAMINATION:
+      ? new aspiration, ? non-resolving PNA                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of recurrent aspiration pneumonia, now with fever.
+     
+     AP CHEST:  The study is limited by rightward rotation.  Allowing for this
+     limitation, the tip of the right IJ line appears to be at the cavoatrial
+     junction.  There is no pneumothorax.  In comparison to the prior study of
+     [**2668-8-11**], no new focal lung opacities are identified. There are no pleural
+     effusions.  The heart size, mediastinal and hilar contours and pulmonary
+     vasculature are within normal limits and unchanged.  A g-tube is seen within
+     the mid abdomen.
+     
+     IMPRESSION:  No evidence of pneumonia or aspiration.
+
+",,

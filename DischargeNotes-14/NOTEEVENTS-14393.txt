@@ -1,0 +1,636 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14393,1766,,,2998-03-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2998-3-20**]       Discharge Date:  [**2998-3-28**]
+
+Date of Birth:   [**2938-10-2**]       Sex:  M
+
+Service:  BLUE SURGERY
+
+HISTORY OF PRESENT ILLNESS:  A 69-year-old man with a history
+of pulmonary embolism and cholangitis, status post ERCP and
+stent placement in the common bile duct, was admitted to the
+[**Hospital3 708**] for elective ERCP on [**2998-3-14**].  This
+ERCP showed no common bile duct stones, and papillotomy was
+performed.  The patient subsequently developed nausea and
+vomiting, as well as right upper quadrant tenderness on
+[**3-20**].  The patient was transferred to [**Hospital6 291**] for evaluation and treatment.
+
+PAST MEDICAL HISTORY:  1) Diabetes mellitus, 2) Renal
+insufficiency, 3) Coronary artery disease, 4) History of MI,
+5) History of pulmonary embolism, 6) History of
+choledocholithiasis, status post common bile duct stent
+placement, 7) Status post knee replacement, 8) History of
+mitral stenosis, 9) ?History of bronchiectasis.
+
+ALLERGIES:  Penicillin.
+
+SOCIAL HISTORY:  The patient lives with his sister, denies
+any history of tobacco or alcohol use.
+
+FAMILY HISTORY:  Diabetes.
+
+PHYSICAL EXAMINATION:  Temperature 96.8, pulse 92, blood
+pressure 167/78, respiratory rate 18, O2 sat 98%.  The
+patient was appropriate for age, pleasant, moderately
+jaundiced.  The patient's cardiovascular exam was regular
+rate and rhythm.  The patient's lungs were clear to
+auscultation bilaterally.  The patient's abdomen was soft,
+moderately distended, and diffusely tender without rebound
+tenderness.  Right upper quadrant was particularly tender
+with guarding on examination.  The patient's extremities were
+warm.  The patient's rectal exam was guaiac positive.
+
+PERTINENT LAB STUDIES:  The patient's white count was 8,
+hematocrit 38.3, platelet 210.  The patient's PT was 15.8,
+PTT 30.9, INR 1.7.  The patient's chemistries were within
+normal limits.  The patient's ALT was 255, AST 126, LD 277,
+alk phos 962, T-bili 3.6, amylase 8, lipase 105.
+
+HOSPITAL COURSE:  The patient was admitted to the Blue
+Surgery service for management of patient's
+cholangitis/cholelithiasis.  The patient was placed on
+morphine for pain.  The patient was started on Lopressor to
+keep the heart rate under control secondary to patient's
+history of myocardial infarction.  The patient was kept NPO.
+An NG tube was placed for decompression.  The patient was
+started on Pepcid.  The patient was started on vancomycin,
+ceftazidime, and Flagyl.  The patient was started on a
+heparin drip secondary to the patient's history of pulmonary
+embolism, with the goal PTT being between 60-80.
+
+The patient was admitted to ICU for observation.  Serial
+abdominal exams were performed.  On [**3-21**], the patient's
+abdominal exam gradually improved, with decreased tenderness
+in the right upper quadrant.  The patient's liver enzymes
+also improved as well, with the total bilirubin being 2.7 and
+AST 85.
+
+On [**3-22**], the patient was started on TPN for nutrition.
+The patient's abdominal exam continued to improve, with total
+bilirubin continuing to trend downward to 1.9.
+
+On the evening of [**3-22**], the patient passed several
+maroon stools which were guaiac positive.  The patient's
+hematocrit decreased to 23.5.  The patient was determined to
+have a lower GI bleed secondary to heparin drip.  The patient
+was given 3 units of packed red blood cells.  Heparin drip
+was held to prevent further bleed.
+
+Vascular surgery was consulted on [**3-23**], and an IVC
+filter was placed for DVT and pulmonary embolism prophylaxis.
+The patient was taken off the heparin drip.
+
+On [**3-24**], the patient's exam continued to improve.  The
+patient's abdomen was nontender to palpation.  The patient's
+hematocrit stabilized to 30, after 3 units of transfusion.
+
+On [**3-25**], the patient was transferred out of the ICU to
+the floor.  The patient was advanced to [**First Name8 (NamePattern2) **] [**Doctor First Name **] diet on
+[**3-26**].  The patient tolerated the [**Doctor First Name **] diet.
+
+On [**3-27**], the patient was taken off TPN, because the
+patient was able to take adequate PO intake.  On [**3-28**],
+the patient was stable for discharge.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:  Home with service.
+
+DISCHARGE MEDICATIONS:  1) cefuroxime 500 mg po bid for 2
+weeks, 2) NPH Insulin 10 U bid, 3) sucralfate 1 gm po qid, 4)
+Lopressor 50 mg po bid, 5) simethicone 40 mg po qid, 6)
+Protonix 40 mg po qd, 7) low-sugar metamucil with Citrucel
+tid-qid.
+
+FOLLOW-UP PLANNING:  The patient should follow-up with Dr.
+[**Last Name (STitle) **] in one week.  Dr. [**Last Name (STitle) **] gave the patient his card.
+Please call Dr.[**Doctor Last Name 5528**] office for appointment.  The
+patient will also receive home PT for rehab.
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 2246**]
+
+Dictated By:[**Last Name (NamePattern1) 9373**]
+MEDQUIST36
+
+D:  [**2998-3-28**]  10:51
+T:  [**2998-3-28**]  09:54
+JOB#:  [**Job Number 10568**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2998-5-9**] 11:13 AM
+(End of Report)
+
+
+",,
+14393,1766,17888,0,2998-03-20 18:50:00 EST,2998-03-20 18:54:00 EST,3520,"N",54,"Nursing/Other",,"
+
+Admitted from [**Hospital3 **] with abd pain and n/v. See admission sheet and 1800 admit vital assessment for particiculars. Pt oriented and c/o [**3-19**] pain in RUQ that comes and goes. Vomited 200 cc thick bile colored fluid on admission. Iv infusing via right hand at 100 cc/hr. NGT placed rt nares without difficulty and draining bile colored thick fluid. Position validated and connected to lws.Connected to monitors, orieinted to unit protocols. Dr. [**Last Name (STitle) **] in to see patient. Pt states he has had trouble with foley caths in past, necessitating placement by a urologist. Team aware and to place foley. Awaiting admit orders for further care, labs etc. [**First Name8 (NamePattern2) 1812**] [**Last Name (NamePattern1) 1813**] RN 
+",,
+14393,1766,17888,,2998-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-3-21**] 2:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9029**]
+     Reason: evaluate left subclavian central line placement and r/o PTX 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with cholecystitis                                              
+     REASON FOR THIS EXAMINATION:
+      evaluate left subclavian central line placement and r/o PTX                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Cholecystitis. Patient has a left subclavian central line. Rule
+     out pneumothorax.
+     
+     FINDINGS: A single AP upright image. No prior studies for comparison. The tip
+     of the new left subclavian central line appears to be at the distal end of the
+     left innominate vein, just at the entrance to the SVC. The heart shows
+     moderate left ventricular enlargement. The pulmonary vessels are unremarkable.
+     The lungs appear clear though infilatrate may be present in the left lower
+     lobe behind the heart. Some atelectasis is also present at the left base in
+     the CP angle. No other acute cardiopulmonary abnormalities identified.
+     
+     IMPRESSION: Left subclavian line with tip at orifice of SVC. No pneumothorax.
+     LV enlargement noted without evidence of failure.
+
+",,
+14393,1766,17888,0,2998-03-21 02:59:00 EST,2998-03-21 03:16:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE.","
+FOCUS: STATUS UPDATE.
+NEURO: ALERT AND ORIENTEDX3. NO NEURO DEFICITS.
+
+CV: HYPERTENSIVE TO 160'S, LOPRESSOR IV TO MAINTAIN HR <80. LOPRESSOR C/ MILD EFFECT ON BP. NRS C/ NO ECTOPY. PULSES WEAK BUT PALPABLE. 
+
+RESP: NC C /2L 02 SATS 97 TO 99, LUNG SOUNDS CLEAR AT TOP DIM AT BASES PT ABLE TO COUGH AND DEEP BREATH. PT HAS A HISTORY OF USING [**Hospital1 **] MASK OVER-NOC DUE TO [**Doctor Last Name **] APNEA--NO [**Doctor Last Name **] APNEA NOTED. [**Hospital1 **] MASK STANDING BY.
+
+GI: ABD SOFT, DISTENDED, HYPOACTIVE TI ABSENT BOWEL SOUNDS. RUQ PAIN ON PALPATION, MEDICATED C/ MSO4 C/ GOOD EFFECT. 10 CM BRUISE AT RUQ EXISTED ON ARRIVAL. NO BM, NO FLATTUS--SMEAR OF STOOL PASSED NOT ENOUGH FOR GUAIAC--DARK OLD BLOOD LOOKING.
+
+GU: PT REQUIRING IN PAST UROLOGY TO PLACE FOLEY--FOLEY NOT STARTED PER DR [**Last Name (STitle) 2795**]. PT URINATING SMALL AMOUNTS OF AMBER CLEAR URINE Q2 TO 3H. 
+
+SKIN: POTENCIAL FOR PROBLEM DUE TO INCONTINENCY--PT NOT ABLE TO USE URINAL ON TIME. 
+
+ENDO: COVERED C/ RISS. 
+
+PLAN: PT WILL BE ASSESSED IN AM BY DR [**Last Name (STitle) 2795**] AND THEN DESITION WILL BE MADE WHETHER PT WILL GO TO OR OR CHOLECYSTITIS WILL BE TREATED MEDICALLY. CONTINUE C/ CURRENT PLAN OF CARE. 
+",,
+14393,1766,17888,0,2998-03-21 16:41:00 EST,2998-03-21 16:50:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Nursing note:
+NEURO: A/Ox3, no neuro deficits. PERRLA. 
+
+RESP: Lung sounds clear, slightly dim. to bases bilat. 02 2L NC, no SOB. +productive cough for thick tan sputum. Encouraged to cough and deep breathe w/good effect. 
+
+CV: Afebrile. NSR 70s-80s, no ectopy, Lopressor w/good effect. Briefly up to 100s w/increased activity. SBP 130-140s. At 0900 pt. informed this RN that he had had an episode of crushing CP this am and also last noc and not alerted staff to this. EKG done showing no change. Enzymes sent at 1100. Team aware. Heparin gtt d/c'd at 0830 for central line placement. Restarted at 700u/hr at 1700, no bolus given per orders. Pboots started this am. No further cardiac c/o's. RSC multi-lumen placed w/o incident. 
+
+GI: Abdomen soft, non-distended. Small amount discomfort w/deep palpation. No c/o's increased pain, no requests for pain meds. NPO. episode of nausea/gagging this am, medicated w/Zofran 4mg IV w/good effect. NGT d/c'd this afternoon by Dr. [**Last Name (STitle) **]. Large bruise to R. abdomen/flank area, pt not aware of how he got this. Cont. on triple antibiotics. 
+
+GU: Voiding qs amber urine in urinal. 
+
+ACT: BR due to cardiac issues today. 
+
+A/P: Stable, s/p epidose of CP this am. Cont. to monitor all systems for change. No surgery to be done at present per Dr. [**Last Name (STitle) 1639**], ? to have perc. choley tube at some point. cont. present care and treatments.
+",,
+14393,1766,17888,0,2998-03-22 15:34:00 EST,2998-03-22 15:41:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Nursing note:
+NEURO: A/Ox3, no neuro deficits, no c/o's abd. pain.
+
+RESP: Lung sounds clear, diminished at bases bilat. No SOB, +NPC. Sats 96-99% on RA. Coughing and deep breathing w/good effort. 
+
+CV: Low-grade temps in low 100s. NSR 70s-80s, no ectopy. SBP 120-130s. Wearing pboots, no calf pain. Heparin gtt at 900u/hr, increased at 1400 to 1000u/hr for PTT of 56, goal is 60-80. Only increased by 100u/hr per primary surgical team. No c/o's chest pain.
+
+GI: +BS, abdomen softly distended. +flatus , +dark thick liquid stool x3-4 through day via bedpan. -N/V. Tolerating clear liquid diabetic diet w/o incident. Cont. w/large area of bruising to RLQ. Painful only to deep palpation.
+
+GU: Voiding qs amber urine in urinal.
+
+ENDO: Labile glucose levels d/t TPN. Insulin gtt titrated q1hour in beginning of day, more stable at 6-8u/hr in afternoon. NPH on hold while on gtt. 
+
+ACT: OOB to chair w/assist, uses cane at home, gait mostly steady.
+
+A/P: Stable, labile glucose levels stabilizing through day. Tolerating clears. No chardiac issues. Cont. to monitor glucose levels and PTT. Cont w/current plan of care and treatment.
+",,
+14393,1766,17888,,2998-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-3-23**] 8:53 AM
+     BILAT LOWER EXT VEINS PORT                                      Clip # [**Clip Number (Radiology) 9030**]
+     Reason: PE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with h/o PE at [**Hospital 9031**] hospital; now with GI bleed             
+     REASON FOR THIS EXAMINATION:
+      evaluation for DVT                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  H/O pulmonary emboli.
+     
+     BILATERAL LOWER EXTREMITY VENOUS ULTRASOUND. FINDINGS:
+     
+     The common femoral, superficial femoral and popliteal veins were evaluated
+     bilaterally with color and spectral doppler.  There is normal compressibility
+     bilaterally.  There is normal wave form and normal color doppler in all these
+     vessels with normal augmentation.
+     
+     IMPRESSION:  No DVT was noted bilaterally.
+     
+     
+
+",,
+14393,1766,17888,0,2998-03-23 18:57:00 EST,2998-03-23 19:00:00 EST,3683,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+S/O:  VSS, NO C/O PAIN.  AFEBRILE.  A/O X3. LUNGS CLEAR TO DIMINISHED AT BASES.  ABD SOFT - CONT W/ MELANOTIC STOOLS.  SICU TEAM AWARE.  TRANSFUSED W/ 2U PRBC - REPEAT HCT 29.  ONE ADDITIONAL UNIT OF PRBC'S ORDERED.  U/O QS VIA CONDOM CATH.  PT TAKEN TO CATH LAB FOR IVC FILTER VIA RFV.  UPON ARRIVAL PT ON NTG - C/O DISCOMFORT AT CLOSE OF CASE.  EKG DONE THERE - UNCHANGED [**Name8 (MD) **] MD.  UPON ARRIVAL DENIES PAIN.  INSULIN AT 1U/HR.  BS 113.  BSUGARS CONT TO BE LABILE.  
+A/P:  CONT TO MONITOR FOR INCREASED S/S OF BLEED.  PAIN MANAGEMENT.  CONT ICU CARE AND TREATMENTS.
+",,
+14393,1766,17888,0,2998-03-24 03:51:00 EST,2998-03-24 04:14:00 EST,-1,"N",54,"Nursing/Other","focus: status update.","
+focus: status update.
+neuro: alert and oriented x3 no neuro deficit.
+
+cv: mildly hypertensive, maintain hr <80. nsr c/ no ectopy.  cvp 2 to 4 pulses dopplerable skin warm and dry feet color pink and capillary refill <3 sec. one unit of prbc transfused htc repeat 31.2.
+
+resp: lung sounds clear sats 98 to 100 2l nc. deep breathing and coughing encouraged.
+
+gi: several bm's overnoc. guaic pos. bowel sounds hypoactive, abd mildly distended, pt states not having abd pain.
+
+gu: condom caht in place draining moderate to large amounts of yellow clear urine. 
+
+endo: insulin gtt to maintain bs < 120. 
+
+plan;potencial for d/c in am, continue c/ current plan of care.
+ 
+",,
+14393,1766,17888,0,2998-03-24 15:47:00 EST,2998-03-24 15:53:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Nursing note: 
+NEURO: A/Ox3, no neuro deficits. 
+
+RESP: Lung sounds clear, no SOB , no cough. Sats 97-100% RA. Encouraged to cough and deep breathe.
+
+CV: Afebrile. SBP 120-150s. NSR, no ectopy in 70s-80s. Wearing pboots. L. groin w/Tegaderm intact. Dopplerable pulses bilat. No cardiac c/o's. HCT 29-30. CVP 4-8.
+
+GI: +BS, abdomen softly distended. +flatus and frequent small melanotic stools. Team aware. -N/V. Tolerating clears. 
+
+GU: Condom cath d/c'd , vqs in urinal 100-200cc q1hour.
+
+ACT: OOB to chair most of day w/assist. Gait steady. Uses cane at home.
+
+ENDO: Glucose levels checked frequently, insulin gtt at 6-7u/hr for much of day but increased at 1500 for glucose of 248. Increased to 9u/hr , will cont. to monitor . ? begin pt. on NPH now that he is taking po's. 
+
+A/P: Stable , ? transfer to floor when glucose levels stable. Cont. to monitor for s/sx GIB, increased activity level, ? adat.
+
+
+",,
+14393,,,,2998-04-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-4-24**] 8:59 AM
+     SMALL BOWEL ONLY (BARIUM)                                       Clip # [**Clip Number (Radiology) 9032**]
+     Reason: Evaluate for source of GI bleed.                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with CAD, CHF, hx of PE taken off anticoagulation secondary to 
+      GI bleed with no active source seen on EGD or colonoscopy.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for source of GI bleed.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59 year old man with CAD, CHF, and history of PD taken off
+     anticoagulation secondary to GI bleeding with no active source seen on EGD or
+     colonoscopy.
+     
+     SMALL BOWEL FOLLOWTHROUGH
+     
+     Two hours following the ingestion of barium, the entire small bowel is
+     opacified and there is contrast in the ascending colon.  The small bowel
+     appears normal.  There is no evidence for inflammatory changes involving the
+     terminal ileum.  No masses are noted.  No strictures are seen.
+     
+     IMPRESSION: Normal examination.
+
+",,
+14393,7227,,,2998-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-6-22**] 3:17 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 9033**]
+     Reason: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with CHF, acute choly,                                          
+     REASON FOR THIS EXAMINATION:
+      please evaluate for effusions                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  59 year old with CHF and acute cholecystitis.
+     
+     COMPARISON:  [**2997-3-21**].
+     
+     PA AND LATERAL CHEST:  The cardiac silhouette is mildly enlarged.  There is
+     mild perihilar bilateral increase in interstitial markings consistent with
+     mild interstitial edema.  There are no pleural effusions.  The visualized
+     bones are within normal limits.
+     
+     IMPRESSION:  Mild cardiomegaly with mild interstitial edema.
+
+",,
+14393,7227,,,2998-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-6-23**] 3:46 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 9034**]
+     Reason: RUQ PAIN, ELEVATED LFT'S HX OF CHOLECYSTITIS, R/O REOCCURANCE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with h/o of acute and chronic cholecystitis with elevated LFT's 
+     REASON FOR THIS EXAMINATION:
+      Asses for gallstones or evidence of cholecystitis                               
+     ______________________________________________________________________________
+     WET READ: JCCJ SAT [**2998-6-23**] 4:46 PM
+      several tiny stones; GB otherwise normal
+      no ductal dil
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT UPPER QUADRANT ULTRASOUND.
+     
+     INDICATION:  History of gallstones and acute-on-chronic cholecystitis.  Assess
+     for current cholecystitis.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is no intrahepatic biliary ductal dilatation.  The common
+     duct measures 0.3 cm intrahepatically, and can be traced into the pancreatic
+     head, where it measures 0.9 cm.  There is no evidence of stones within the
+     common duct.  Several tiny layering, shadowing stones are seen within the
+     gallbladder.  There is no evidence of gallbladder wall edema or of
+     pericholecystic fluid.  Sonographic [**Doctor Last Name **] sign is not elicited.  The
+     pancreatic head appears normal.
+     
+     IMPRESSION:  Multiple tiny gallstones in an otherwise normal-appearing
+     gallbladder.  No evidence of intrahepatic ductal dilatation.
+
+",,
+14393,7227,,,2998-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-6-27**] 9:51 PM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 9035**]
+     Reason: PLEASE EVAL SWOLLEN RT LEG FOR DVT, HX PE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with sudden onset of R lower extremity swelling. Prior hx of 
+      PE.
+     REASON FOR THIS EXAMINATION:
+      please evaluate bilateral lower extremity for DVT                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Swollen right leg, history of pulmonary embolus.  Question DVT.
+     
+     TECHNIQUE:  Right lower extremity venous ultrasound is compared to the prior
+     study of 2/2003.
+     
+     FINDINGS:  Assessment of right common femoral vein compressibility was not
+     possible due to dressing and plug from recent cardiac catheterization.  The
+     right common femoral vein demonstrates normal flow and response to Valsalva
+     and augmentation.  The right superficial femoral vein and the popliteal vein
+     demonstrate normal flow with augmentation as well as compressibility.  There
+     is normal color flow within the right tibial veins.
+     
+     Limited examination of the left common femoral vein demonstrates normal flow,
+     response to Valsalva, and augmentation.
+     
+     IMPRESSION:  No evidence of right lower extremity DVT.
+     
+
+",,
+14393,7227,,,2998-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14393,7227,17889,0,2998-07-06 19:06:00 EST,2998-07-06 19:20:00 EST,3204,"N",54,"Nursing/Other",,"
+
+labile htn on arrival w low filling pressures that responded to ntg & volume.appears intravasculary depleted w variable bp & ci,hct that minimally changed after 1500 cc w dark amber urine & metabolic acidosis. add'l volume given,a paced,nahco3-given & neo used w improved bp & hemodynamics.awoke,mae x 4 to command. plan to remain sedated on propofol Until a.m. per team for prolonged o.r. w lg. amt edema in face & neck.bs clear but decreased bilat.suctioned for scant tan. ct's w increased thin red dng after warming w elevated act.protamine given w improvement,coags wnl.abd. obese,ogt w scant bilious dng & difficult to irrigate. removed & replaced w + placement confirmed but continued scant dng. remains on c-fate x 4 doses.? need to resume ppi & pancrease in a.m.
+",,
+14393,7227,17889,0,2998-07-07 04:28:00 EST,2998-07-07 04:55:00 EST,3799,"N",54,"Nursing/Other",,"
+
+Pt. sedated most of the night. Propofol wean started at 0430. Pt. opening his eyes when name called. Eyes, face and neck are edematous along with extremities. Noted to flex both wrists during repositioning. 
+Pt. was a-paced at 86 most of the night with improvememt in his intrinsic heart rate from low 60 to 90 @4:30. Pacer turned to a-demand of 70. Neo requirement between .5-1mcq/kg/mh. CI <2 improved to > 2 after additional volume of Hespan 500cc. 
+GI tract prophylaxis with Carafate while intubated. Breath sounds clear and distant at bases. Will wean vent this morning. 
+Good HUO 30-60/hr. Insulin gtt infusing  with glucoses q1 per protocol. Hct 29 . 27 after Hespan. Elecrtolytes repleted prn.
+Plan: Wean off sedation; wean vent to cpap for possible extubation. Wean neo. Check hourly glucoses. 
+",,
+14393,7227,17889,0,2998-07-07 09:18:00 EST,2998-07-07 09:20:00 EST,3084,"N",54,"Nursing/Other","extubation","
+extubation
+D: pt weaned to cpap with 5 peep and 5 ips, bs clear dim right base, sx for scant cl sx, pt comfortable on settings, abg good
+A: spoke with dr [**Last Name (STitle) **]- pt extubated at 10:15 am--[**2998-7-7**]
+
+",,
+14393,7227,17889,0,2998-07-07 15:36:00 EST,2998-07-07 15:44:00 EST,3084,"N",54,"Nursing/Other","update","
+update
+pt s/p cabg x 3, mvr - post op uneventful- intubated thru noc- wt up 12 kg. pt weaned and extubated [**7-7**] at 10;15 am- weaned off neo, 
+neuro; pt awake, alert, pleasant mae- extremities 3+edema.
+approp conversation.
+cardiac: pt in nsr 90-101-1st degree avb noted, no ectopy noted. pt weaned off neo with cuff bp >100, aline running approx 15 pt lower, pad 2- with cvp 13, co/ci excellent, svo2 71.
+resp : as noted pt weaned extubated, coughing without raising, presently on 3l np with sat 99%, bs dim in bases otherwise clear.
+gi: abd obese- soft non tender, bs absent at present. ogt d/c with extubation.tol sips well
+gu: u/o 25-30cc/hr- team spoke about starting lasix today- wanted pt weaned off neo first. pt creat 1.4
+activity: as noted 3+ edema-mae slightly on bed- hand very puffy difficulty grasping due to edema.
+glucose: pt off insulin drip wuith f/u glu 120;s tx per sliding scale sc-
+plan: ? starting diuretic today. d/c swan in am-progress diet and activity as tol. ? beta blockage.
+",,
+14393,7227,17889,1,2998-07-08 04:03:00 EST,2998-07-08 04:19:00 EST,3538,"Y",54,"Nursing/Other","CSRU Progress Note","
+CSRU Progress Note
+Addendum: BUN/Cr up to 31/2.0 (24/1.4).
+ A: CRI worsening with diuresis.
+ P: Hold lasix and watch volume/renal status.
+",,
+14393,7227,17889,0,2998-07-08 04:03:00 EST,2998-07-08 04:13:00 EST,3538,"N",54,"Nursing/Other","CSRU Progress Note","
+CSRU Progress Note
+S/O: Neuro: Alert and oriented, although sleeps when not stimulated. C/O pain [**11-23**], relieved by SQ morphine. Very weak, extremities stiff.
+     CV: BP 85-90 when asleep. otherwise stable. 
+     Resp: Congested cough, but somewhat stronger. Good abg, rr 20, sao2 99% on 3lNP.
+     Renal: Total 250cc diuresis to lasix 40. Chemistries pending. Wt 11 kg>preop.
+     Heme: Hct 26 (27.6), plt ct 136 (201). On aspirin. CT drg serosang.
+     ID: Tmax 37.5, wbc 10.3, 1 more dose of vanco. Flagyl and levoflox dcd.
+     GI: Slow to swallow. Zantac prophylaxis.
+     Endo: SSRI.
+     Skin: Tears from tape. 
+A: Progressing slowly, fluid overload, deconditioning with extended hospitalization. 
+P: Increase diuresis, cont pulm toilet, watch plt ct. ?swallow eval. Try OOB, PT and advance activity.     
+ 
+",,
+14393,7227,17889,0,2998-07-08 18:23:00 EST,2998-07-08 18:34:00 EST,3084,"N",54,"Nursing/Other","update","
+update
+D: pt s/p cabg x 3, mvr-
+neuro; pt awake, alert oriented x 3, mae- weak- ??swallowing ability- minimized po intact today
+cardiac: hr 1st degree avb with pr interval .22-.24-rate 80-100, sbp up to 140/70- lopressor cont at 25mg po bid. pedal pulses weak yet palp. 3+ edema.co/ci excellent -swan d/c.
+resp: pt weaned to 3l np with sat >97%, bs coarse at times c&r thick tan secretions- blood tinged x 1, pt with weak cough requires agressive pulp toiletry.
+gi: abd obese-soft to palp- bs present, no bm post op. min po intact- 
+gu: creat up to 2 today- hlding lasix and vanco today- renal in to see pt awaiting consult info. u/o approx 30cc/hr- dripped to 10cc-dr [**Last Name (STitle) **] called- aware no ordered obtained- he will re-eval.
+activity: pt oob to chair with pt assist and nurse- max assist, pt stood but difficulty moving- hoyered back to bed, 3+edema pt wt up 10kg still- ? better mobility with diuresis. pt will need rehab- 
+plan: ??swallow study, agressive pulm toiletry. 
+",,
+14393,7227,17889,0,2998-07-08 18:34:00 EST,2998-07-08 18:34:00 EST,3084,"N",54,"Nursing/Other",,"
+
+renal obtained spec for eval-will return with plans tonight. urine sent for analysis earlier to day.
+",,
+14393,7227,17889,0,2998-07-09 06:05:00 EST,2998-07-09 06:14:00 EST,3538,"N",54,"Nursing/Other","CSRU Progress Note","
+CSRU Progress Note
+S/O: Neuro: Oriented, cooperative, less stiff.
+     CV: Occl PVC, HR 85-90. BP 130-160, as high as 190 briefly. On lopressor.
+     Resp: Strong cough prod of thick yellow sputum. SAO2 98% on 1LNP, 93% on RA.
+     Renal: UO 45-60/hr. BUN/Cr 39/1.9 (31/2). Wt down .7 kg, still 9>preop.
+     Heme: Hct 32 after 2 more PC. 
+     ID: Tmax 99.2. Last dose vanco held for level 18.
+     GI: Swallow impaired, although better with fluids this am. 
+     Endo: SSRI.
+     Skin: Intact.
+A: Stronger, renal status stable with higher hct and BP. ? if BP too high now. Impaired swallow, nutritional status.
+P: ?IV lopressor. Recheck vanco level. Cont pulm toilet, PT, OOB. Watch renal status. 
+",,
+14393,7227,17889,0,2998-07-09 16:52:00 EST,2998-07-09 17:14:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO~A&O. THOUGH PT C/O BEING DISORIENTED ESP WHEN HE INITALLY AWAKENS. FC. MAE THOUGH STIFF. MED W/ PERCOCET X1 FOR DISCOMFORT W/ GOOD EFFECT. OOB TO CHAIR X 3 HRS. TOL WELL.
+
+CARDIAC~CONT IN 1ST DEGREE AVB HR IN 80'S . SBP 140'S -170'S. DR [**Last Name (STitle) 35**] AWARE. STARTED ON NORVASC 5MG, WITH LITTLE EFFECT. GIVEN AN EXTRA DOSE OF 5 MG STILL REMAINS HYPERTENSIVE. POS PAL PEDAL PULSES BILAT SL HYPERTWNSIVE.
+
+RESP~ON 1L NP MAINTAINING SATS~97%. LUNGS COARSE BILAT TO CLEAR AND DIMINISHED. PROD COUGH. 
+
+GI/GU~TOL PO FOOD AND FLUIDS WELL. ADEQUATE U/O.
+
+ENDO~TX BS W/ SS INSULIN.
+
+A/P~LABILE BP. WILL GIVE HYDRALIZINE AND FURTHER EVAL PER DR. [**Last Name (STitle) 35**].   CONT TO ENCOURAGE PUL REHAB.  
+ 
+",,
+14393,7227,17889,0,2998-07-09 17:44:00 EST,2998-07-09 17:48:00 EST,-1,"N",54,"Nursing/Other",,"
+
+ADDENDUM~1830 GIVEN HYDRALAZINE 20 MG IV W/ GOOD EFFECT SBP~130'S~140'S.
+",,
+14393,7227,17889,,2998-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-7-10**] 11:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9036**]
+     Reason: s/p ct d/c, s/p line placement                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p ct d/c, s/p line placement                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59 y/o man status post chest tube discontinuation and line
+     placement.
+     
+     PORTABLE AP ERECT VIEWS OF THE CHEST (2 IMAGES):
+     
+     Comparison is made with prior study performed [**2998-6-22**].  The patient has
+     underwent interval median sternotomy and surgical clips and wires are present
+     consistent with CABG.  A right IJ central venous line is present with its tip
+     in the lower SVC.  There is no pneumothorax.  The heart is enlarged.
+     Compared to the prior study there is worsening upper zone redistribution
+     consistent with failure.  Bibasilar opacities are present consistent with
+     atelectasis.  A rounded opacity within the left lower lateral lung zone has
+     developed in the interval worrisome for pneumonia.
+     
+     IMPRESSION:
+     
+     Cardiomegaly and worsening failure and bibasilar atelectasis.  Rounded opacity
+     at the left base is worrisome for infection.  Follow-up is recommended.
+     
+
+",,
+14393,7227,17889,0,2998-07-10 05:19:00 EST,2998-07-10 05:23:00 EST,3538,"N",54,"Nursing/Other","CSRU Progress","
+CSRU Progress
+S/O: Neuro: Claims to be disoriented, but OX3. Percocet X1.
+     CV: BP 140s on lopressor 25 bid.
+     Resp: RA 97% sao2. Strong prod cough.
+     Renal: BUN/Cr down to 41/1.5. UO 35-90/hr. I+O -310cc [**7-9**]. Wt down .4 kg, still up 9 kg.
+     Heme: Hct 31. CTs sero sang.
+     ID: Tmax 100, wbc 8.
+     GI: Swallowing well. Lg formed stool.
+     Endo: SSRI.
+     Skin: Intact.
+A: Renal status better. Stronger but still extremely deconditioned. 
+P: Periph line, dc central line, cont rehab and transfer to [**Hospital Ward Name **] 2.  
+     
+",,
+14393,7227,,,2998-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-7-12**] 10:08 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9037**]
+     Reason: Evaluate for evidence of CHF                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with CHF, acute choly,                                         
+       
+     REASON FOR THIS EXAMINATION:
+      Evaluate for evidence of CHF                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Acute cholecystitis. Assess for CHF.
+     
+     COMPARISON: [**2998-7-10**].
+     
+     FINDINGS: AP and lateral views of the chest demonstrate sternotomy hardware
+     and right internal jugular central venous line, unchanged. The heart remains
+     enlarged, and the mediastinal contour is unchanged. No pulmonary vascular
+     congestion or pneumothorax. There are bilateral pleural effusions, left
+     greater than right. Patchy density at the left base represents
+     atelectasis/consolidation.
+     
+     IMPRESSION: Slight interval worsening of left base consolidation/collapse.
+     Persistent bilateral pleural effusions.
+
+",,
+14393,,,,2998-11-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-11-9**] 12:21 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 9038**]
+     Reason: DX:CHOLE CYSTITIS, PROC: LAPOROSCOPIC CHOLECYSTECTOMY , + LA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with 
+     REASON FOR THIS EXAMINATION:
+      DX:CHOLE CYSTITIS
+      PROC: LAPOROSCOPIC CHOLECYSTECTOMY 
+      + LAP CHOLANGIOGRAM
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preoperative film for laparoscopic cholecystectomy.
+     
+     VIEWS:  Standard PA and left lateral view, compared with PA and lateral view
+     from [**2998-7-12**].
+     
+     FINDINGS:  Again seen are median sternotomy wires and CABG clips.  There has
+     been interval removal of the right internal jugular central venous line.
+     Again seen is slight left ventricular enlargement without evidence of vascular
+     engorgement.  There has been interval resolution of the left lower lobe
+     opacity.  The lungs appear clear.  No pleural effusions are identified.  Mild
+     degenerative changes are noted within the thoracic spine.
+     
+     IMPRESSION:  No acute cardiopulmonary abnormalities detected.
+
+",,
+14393,,,,2998-11-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2998-11-13**] 10:02 AM
+     CHOLANGIOGRAM,IN OR W FILMS                                     Clip # [**Clip Number (Radiology) 9039**]
+     Reason: CHOLECYSTITIS
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cholecystitis.
+     
+     FINDINGS:  One spot image was obtained intraoperatively, which demonstrates
+     contrast within the distal CBD.  Contrast is also noted in the small bowel
+     loops.  The proximal CBD is not well opacified.  Visualized portion of the
+     intrahepatic biliary ducts appears unremarkable.
+     
+
+",,

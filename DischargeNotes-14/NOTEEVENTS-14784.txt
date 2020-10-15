@@ -1,0 +1,1275 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14784,14565,,,3326-06-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3326-6-12**]     Discharge Date:  [**3326-6-16**]
+
+Date of Birth:   [**3243-3-17**]     Sex:  M
+
+Service:  MICU GREEN
+
+DISCHARGE DIAGNOSES:
+1. Lower gastrointestinal bleed.
+2. Coronary artery disease.
+3. Dementia.
+4. Hypoxic respiratory failure.
+5. Aspiration pneumonia.
+
+CONDITION ON DISCHARGE:  Expired.
+
+
+                           DR.[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] 12-AEW
+
+
+
+Dictated By:[**Name8 (MD) 3277**]
+
+MEDQUIST36
+
+D:  [**3326-6-30**]  16:06
+T:  [**3326-7-4**]  12:39
+JOB#:  [**Job Number 11207**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SAT [**3326-8-10**] 11:30 AM
+(End of Report)
+
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75625 ABDOMINAL A-GRAM              *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with LGI bleed acutely, h/o CAD, HTN, dementia                  
+     REASON FOR THIS EXAMINATION:
+      please assess for source of bleeding and page with results, thanks [**First Name4 (NamePattern1) 12404**] 
+      [**Last Name (NamePattern1) 12405**] #95630
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 83-year-old male with acute lower GI bleed. The patient had a
+     history of coronary artery disease, hypertension and dementia.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) 346**] and [**Name5 (PTitle) **].  The Attending Radiologist,
+     Dr. [**Last Name (STitle) **], was present and supervising the entire procedure.
+     
+     PROCEDURE/TECHNIQUE: The right groin was prepped and draped in sterile
+     fashion, and access was gained into the right femoral artery using a 19 gauge
+     single-wall needle. The 5 Fr sheath was then advanced and a sidearm flush
+     attached. The superior mesenteric artery was then selectively catheterized
+     using a 5 Fr C2 glidecatheter. Several superior mesenteric arteriograms were
+     then performed.
+     
+     Several attempts were then made to selectively cannulate the inferior
+     mesenteric artery but were unsuccessful. Therefore a 4 Fr Omniflush catheter
+     was placed in the infrarenal abdominal aorta, and multiple PA and oblique
+     aortograms were obtained in attempt to visualize the inferior mesenteric
+     artery and its vessels. Following this, the catheter and sheath were removed,
+     and compression was applied over the right groin until hemostasis was
+     achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: The aorta and iliac vessels are extremely calcified. There is
+     evidence for a replaced or accessory right hepatic artery, which has a focal
+     stenosis at its origin. There is no evidence for active extravasation or
+     vascular malformation involving the superior mesenteric vessels. Infrarenal
+     abdominal aortograms demonstrate patency of the inferior mesenteric artery
+     with a concentrically irregular appearance proximally. There is a large vessel
+     rising from a branch of the inferior mesenteric artery, which courses
+     superiorly, parallel to the aorta and supplies what appears to be transverse
+     colon. However, no extravasation was identified. The inferior mesenteric
+     artery appears overall vasoconstricted. Contrast is visualized in the bladder.
+     No active extravasation is visualized involving the superior rectal artery.
+     
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The common and external iliac arteries have the appearance of arteria magna.
+     Both superficial and deep femoral arteries are patent bilaterally.
+     
+     IMPRESSION: Selective superior mesenteric arteriogram shows no evidence for
+     active extravasation. Selective cannulation of the inferior mesenteric artery
+     was not possible, most likely due to a severe osteal stenosis. However,
+     infrarenal abdominal aortograms showed patency of the inferior mesenteric
+     artery, without evidence for active extravasation. Findings reviewed with
+     house staff during and after the procedure. Contrast was 200 cc of Optiray
+     60%. 
+     
+     
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75625 ABDOMINAL A-GRAM              *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with LGI bleed acutely, h/o CAD, HTN, dementia                  
+     REASON FOR THIS EXAMINATION:
+      please assess for source of bleeding and page with results, thanks [**First Name4 (NamePattern1) 12404**] 
+      [**Last Name (NamePattern1) 12405**] #95630
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 83-year-old male with acute lower GI bleed. The patient had a
+     history of coronary artery disease, hypertension and dementia.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) 346**] and [**Name5 (PTitle) **].  The Attending Radiologist,
+     Dr. [**Last Name (STitle) **], was present and supervising the entire procedure.
+     
+     PROCEDURE/TECHNIQUE: The right groin was prepped and draped in sterile
+     fashion, and access was gained into the right femoral artery using a 19 gauge
+     single-wall needle. The 5 Fr sheath was then advanced and a sidearm flush
+     attached. The superior mesenteric artery was then selectively catheterized
+     using a 5 Fr C2 glidecatheter. Several superior mesenteric arteriograms were
+     then performed.
+     
+     Several attempts were then made to selectively cannulate the inferior
+     mesenteric artery but were unsuccessful. Therefore a 4 Fr Omniflush catheter
+     was placed in the infrarenal abdominal aorta, and multiple PA and oblique
+     aortograms were obtained in attempt to visualize the inferior mesenteric
+     artery and its vessels. Following this, the catheter and sheath were removed,
+     and compression was applied over the right groin until hemostasis was
+     achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: The aorta and iliac vessels are extremely calcified. There is
+     evidence for a replaced or accessory right hepatic artery, which has a focal
+     stenosis at its origin. There is no evidence for active extravasation or
+     vascular malformation involving the superior mesenteric vessels. Infrarenal
+     abdominal aortograms demonstrate patency of the inferior mesenteric artery
+     with a concentrically irregular appearance proximally. There is a large vessel
+     rising from a branch of the inferior mesenteric artery, which courses
+     superiorly, parallel to the aorta and supplies what appears to be transverse
+     colon. However, no extravasation was identified. The inferior mesenteric
+     artery appears overall vasoconstricted. Contrast is visualized in the bladder.
+     No active extravasation is visualized involving the superior rectal artery.
+     
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The common and external iliac arteries have the appearance of arteria magna.
+     Both superficial and deep femoral arteries are patent bilaterally.
+     
+     IMPRESSION: Selective superior mesenteric arteriogram shows no evidence for
+     active extravasation. Selective cannulation of the inferior mesenteric artery
+     was not possible, most likely due to a severe osteal stenosis. However,
+     infrarenal abdominal aortograms showed patency of the inferior mesenteric
+     artery, without evidence for active extravasation. Findings reviewed with
+     house staff during and after the procedure. Contrast was 200 cc of Optiray
+     60%. 
+     
+     
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75625 ABDOMINAL A-GRAM              *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with LGI bleed acutely, h/o CAD, HTN, dementia                  
+     REASON FOR THIS EXAMINATION:
+      please assess for source of bleeding and page with results, thanks [**First Name4 (NamePattern1) 12404**] 
+      [**Last Name (NamePattern1) 12405**] #95630
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 83-year-old male with acute lower GI bleed. The patient had a
+     history of coronary artery disease, hypertension and dementia.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) 346**] and [**Name5 (PTitle) **].  The Attending Radiologist,
+     Dr. [**Last Name (STitle) **], was present and supervising the entire procedure.
+     
+     PROCEDURE/TECHNIQUE: The right groin was prepped and draped in sterile
+     fashion, and access was gained into the right femoral artery using a 19 gauge
+     single-wall needle. The 5 Fr sheath was then advanced and a sidearm flush
+     attached. The superior mesenteric artery was then selectively catheterized
+     using a 5 Fr C2 glidecatheter. Several superior mesenteric arteriograms were
+     then performed.
+     
+     Several attempts were then made to selectively cannulate the inferior
+     mesenteric artery but were unsuccessful. Therefore a 4 Fr Omniflush catheter
+     was placed in the infrarenal abdominal aorta, and multiple PA and oblique
+     aortograms were obtained in attempt to visualize the inferior mesenteric
+     artery and its vessels. Following this, the catheter and sheath were removed,
+     and compression was applied over the right groin until hemostasis was
+     achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: The aorta and iliac vessels are extremely calcified. There is
+     evidence for a replaced or accessory right hepatic artery, which has a focal
+     stenosis at its origin. There is no evidence for active extravasation or
+     vascular malformation involving the superior mesenteric vessels. Infrarenal
+     abdominal aortograms demonstrate patency of the inferior mesenteric artery
+     with a concentrically irregular appearance proximally. There is a large vessel
+     rising from a branch of the inferior mesenteric artery, which courses
+     superiorly, parallel to the aorta and supplies what appears to be transverse
+     colon. However, no extravasation was identified. The inferior mesenteric
+     artery appears overall vasoconstricted. Contrast is visualized in the bladder.
+     No active extravasation is visualized involving the superior rectal artery.
+     
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The common and external iliac arteries have the appearance of arteria magna.
+     Both superficial and deep femoral arteries are patent bilaterally.
+     
+     IMPRESSION: Selective superior mesenteric arteriogram shows no evidence for
+     active extravasation. Selective cannulation of the inferior mesenteric artery
+     was not possible, most likely due to a severe osteal stenosis. However,
+     infrarenal abdominal aortograms showed patency of the inferior mesenteric
+     artery, without evidence for active extravasation. Findings reviewed with
+     house staff during and after the procedure. Contrast was 200 cc of Optiray
+     60%. 
+     
+     
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -76 BY SAME PHYSICIAN               *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent lower GI bleeding.  The patient is status post
+     mesenteric angiogram approximately 12 hours previously.  A blood cell
+     scintogram was performed subsequently, demonstrating increased radio tracer
+     uptake in the region of the mid-transverse colon.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 346**], the Attending Radiologist, who was
+     present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  Versed and Fentanyl in divided doses.  120 ml of
+     Optiray-320 6%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient's
+     daughter and informed consent was obtained.  Access was gained into the right
+     femoral artery using a 19-gauge single wall needle.  A 5-French sheath was
+     then placed.  A 5-French C2 glide catheter was used to access the superior
+     mesenteric artery, and an angiogram was performed.  This demonstrated a
+     replaced right hepatic artery, with an overall appearance of vaso constriction
+     of the vessels supplying the bowel.  No active extravasation was demonstrated.
+      The angiogram was performed with a different obliquity, again demonstrating
+     no evidence for active extravasation.  Contrast refluxed into the aorta, and
+     the left renal artery is incidentally noted.
+     
+     A third obliquity was then obtained, again without additional findings.
+     
+     The catheter was then advanced into the level of the celiac artery, and a
+     common hepatic arteriogram was obtained.  This demonstrated a normal vascular
+     appearance of the left hepatic artery, gastroduodenal artery, and pancreatic
+     duodenal arcades.  No active extravasation was demonstrated.  Incidental note
+     is made of a densely calcified splenic artery and superior mesenteric artery.
+     
+     The catheter was then pulled back to the level of the celiac trunk, and a
+     celiac arteriogram was obtained.  This demonstrated disease of the splenic
+     artery, with multifocal stenoses.  The left gastric artery appears normal.  No
+     anatomic variants were demonstrated.
+     
+     A flush aortogram was then obtained with an Omni-Flush catheter placed at the
+     level of the lower thoracic aorta. No anatomic variants were demonstrated.  An
+     ulcerative plaque is visualized along the left lateral aspect of the aorta
+     just inferior to the take-off of the left renal artery.  The inferior
+     mesenteric artery again is patent, but no active extravasation is
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrated.  No anatomic variants arise from the abdominal aorta.
+     
+     IMPRESSION:
+     1.  No evidence for active extravasation at this time.
+     2.  Replaced right hepatic artery arising from the superior mesenteric artery.
+     3.  Extensive calcified aorto-iliac disease with arteria-magna of the iliac
+     and femoral vessels.
+     
+     The findings were conveyed to the surgical house staff following the study.
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -76 BY SAME PHYSICIAN               *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent lower GI bleeding.  The patient is status post
+     mesenteric angiogram approximately 12 hours previously.  A blood cell
+     scintogram was performed subsequently, demonstrating increased radio tracer
+     uptake in the region of the mid-transverse colon.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 346**], the Attending Radiologist, who was
+     present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  Versed and Fentanyl in divided doses.  120 ml of
+     Optiray-320 6%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient's
+     daughter and informed consent was obtained.  Access was gained into the right
+     femoral artery using a 19-gauge single wall needle.  A 5-French sheath was
+     then placed.  A 5-French C2 glide catheter was used to access the superior
+     mesenteric artery, and an angiogram was performed.  This demonstrated a
+     replaced right hepatic artery, with an overall appearance of vaso constriction
+     of the vessels supplying the bowel.  No active extravasation was demonstrated.
+      The angiogram was performed with a different obliquity, again demonstrating
+     no evidence for active extravasation.  Contrast refluxed into the aorta, and
+     the left renal artery is incidentally noted.
+     
+     A third obliquity was then obtained, again without additional findings.
+     
+     The catheter was then advanced into the level of the celiac artery, and a
+     common hepatic arteriogram was obtained.  This demonstrated a normal vascular
+     appearance of the left hepatic artery, gastroduodenal artery, and pancreatic
+     duodenal arcades.  No active extravasation was demonstrated.  Incidental note
+     is made of a densely calcified splenic artery and superior mesenteric artery.
+     
+     The catheter was then pulled back to the level of the celiac trunk, and a
+     celiac arteriogram was obtained.  This demonstrated disease of the splenic
+     artery, with multifocal stenoses.  The left gastric artery appears normal.  No
+     anatomic variants were demonstrated.
+     
+     A flush aortogram was then obtained with an Omni-Flush catheter placed at the
+     level of the lower thoracic aorta. No anatomic variants were demonstrated.  An
+     ulcerative plaque is visualized along the left lateral aspect of the aorta
+     just inferior to the take-off of the left renal artery.  The inferior
+     mesenteric artery again is patent, but no active extravasation is
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrated.  No anatomic variants arise from the abdominal aorta.
+     
+     IMPRESSION:
+     1.  No evidence for active extravasation at this time.
+     2.  Replaced right hepatic artery arising from the superior mesenteric artery.
+     3.  Extensive calcified aorto-iliac disease with arteria-magna of the iliac
+     and femoral vessels.
+     
+     The findings were conveyed to the surgical house staff following the study.
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -76 BY SAME PHYSICIAN               *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent lower GI bleeding.  The patient is status post
+     mesenteric angiogram approximately 12 hours previously.  A blood cell
+     scintogram was performed subsequently, demonstrating increased radio tracer
+     uptake in the region of the mid-transverse colon.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 346**], the Attending Radiologist, who was
+     present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  Versed and Fentanyl in divided doses.  120 ml of
+     Optiray-320 6%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient's
+     daughter and informed consent was obtained.  Access was gained into the right
+     femoral artery using a 19-gauge single wall needle.  A 5-French sheath was
+     then placed.  A 5-French C2 glide catheter was used to access the superior
+     mesenteric artery, and an angiogram was performed.  This demonstrated a
+     replaced right hepatic artery, with an overall appearance of vaso constriction
+     of the vessels supplying the bowel.  No active extravasation was demonstrated.
+      The angiogram was performed with a different obliquity, again demonstrating
+     no evidence for active extravasation.  Contrast refluxed into the aorta, and
+     the left renal artery is incidentally noted.
+     
+     A third obliquity was then obtained, again without additional findings.
+     
+     The catheter was then advanced into the level of the celiac artery, and a
+     common hepatic arteriogram was obtained.  This demonstrated a normal vascular
+     appearance of the left hepatic artery, gastroduodenal artery, and pancreatic
+     duodenal arcades.  No active extravasation was demonstrated.  Incidental note
+     is made of a densely calcified splenic artery and superior mesenteric artery.
+     
+     The catheter was then pulled back to the level of the celiac trunk, and a
+     celiac arteriogram was obtained.  This demonstrated disease of the splenic
+     artery, with multifocal stenoses.  The left gastric artery appears normal.  No
+     anatomic variants were demonstrated.
+     
+     A flush aortogram was then obtained with an Omni-Flush catheter placed at the
+     level of the lower thoracic aorta. No anatomic variants were demonstrated.  An
+     ulcerative plaque is visualized along the left lateral aspect of the aorta
+     just inferior to the take-off of the left renal artery.  The inferior
+     mesenteric artery again is patent, but no active extravasation is
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrated.  No anatomic variants arise from the abdominal aorta.
+     
+     IMPRESSION:
+     1.  No evidence for active extravasation at this time.
+     2.  Replaced right hepatic artery arising from the superior mesenteric artery.
+     3.  Extensive calcified aorto-iliac disease with arteria-magna of the iliac
+     and femoral vessels.
+     
+     The findings were conveyed to the surgical house staff following the study.
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -76 BY SAME PHYSICIAN               *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent lower GI bleeding.  The patient is status post
+     mesenteric angiogram approximately 12 hours previously.  A blood cell
+     scintogram was performed subsequently, demonstrating increased radio tracer
+     uptake in the region of the mid-transverse colon.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 346**], the Attending Radiologist, who was
+     present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  Versed and Fentanyl in divided doses.  120 ml of
+     Optiray-320 6%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient's
+     daughter and informed consent was obtained.  Access was gained into the right
+     femoral artery using a 19-gauge single wall needle.  A 5-French sheath was
+     then placed.  A 5-French C2 glide catheter was used to access the superior
+     mesenteric artery, and an angiogram was performed.  This demonstrated a
+     replaced right hepatic artery, with an overall appearance of vaso constriction
+     of the vessels supplying the bowel.  No active extravasation was demonstrated.
+      The angiogram was performed with a different obliquity, again demonstrating
+     no evidence for active extravasation.  Contrast refluxed into the aorta, and
+     the left renal artery is incidentally noted.
+     
+     A third obliquity was then obtained, again without additional findings.
+     
+     The catheter was then advanced into the level of the celiac artery, and a
+     common hepatic arteriogram was obtained.  This demonstrated a normal vascular
+     appearance of the left hepatic artery, gastroduodenal artery, and pancreatic
+     duodenal arcades.  No active extravasation was demonstrated.  Incidental note
+     is made of a densely calcified splenic artery and superior mesenteric artery.
+     
+     The catheter was then pulled back to the level of the celiac trunk, and a
+     celiac arteriogram was obtained.  This demonstrated disease of the splenic
+     artery, with multifocal stenoses.  The left gastric artery appears normal.  No
+     anatomic variants were demonstrated.
+     
+     A flush aortogram was then obtained with an Omni-Flush catheter placed at the
+     level of the lower thoracic aorta. No anatomic variants were demonstrated.  An
+     ulcerative plaque is visualized along the left lateral aspect of the aorta
+     just inferior to the take-off of the left renal artery.  The inferior
+     mesenteric artery again is patent, but no active extravasation is
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrated.  No anatomic variants arise from the abdominal aorta.
+     
+     IMPRESSION:
+     1.  No evidence for active extravasation at this time.
+     2.  Replaced right hepatic artery arising from the superior mesenteric artery.
+     3.  Extensive calcified aorto-iliac disease with arteria-magna of the iliac
+     and femoral vessels.
+     
+     The findings were conveyed to the surgical house staff following the study.
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -76 BY SAME PHYSICIAN               *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent lower GI bleeding.  The patient is status post
+     mesenteric angiogram approximately 12 hours previously.  A blood cell
+     scintogram was performed subsequently, demonstrating increased radio tracer
+     uptake in the region of the mid-transverse colon.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 346**], the Attending Radiologist, who was
+     present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  Versed and Fentanyl in divided doses.  120 ml of
+     Optiray-320 6%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient's
+     daughter and informed consent was obtained.  Access was gained into the right
+     femoral artery using a 19-gauge single wall needle.  A 5-French sheath was
+     then placed.  A 5-French C2 glide catheter was used to access the superior
+     mesenteric artery, and an angiogram was performed.  This demonstrated a
+     replaced right hepatic artery, with an overall appearance of vaso constriction
+     of the vessels supplying the bowel.  No active extravasation was demonstrated.
+      The angiogram was performed with a different obliquity, again demonstrating
+     no evidence for active extravasation.  Contrast refluxed into the aorta, and
+     the left renal artery is incidentally noted.
+     
+     A third obliquity was then obtained, again without additional findings.
+     
+     The catheter was then advanced into the level of the celiac artery, and a
+     common hepatic arteriogram was obtained.  This demonstrated a normal vascular
+     appearance of the left hepatic artery, gastroduodenal artery, and pancreatic
+     duodenal arcades.  No active extravasation was demonstrated.  Incidental note
+     is made of a densely calcified splenic artery and superior mesenteric artery.
+     
+     The catheter was then pulled back to the level of the celiac trunk, and a
+     celiac arteriogram was obtained.  This demonstrated disease of the splenic
+     artery, with multifocal stenoses.  The left gastric artery appears normal.  No
+     anatomic variants were demonstrated.
+     
+     A flush aortogram was then obtained with an Omni-Flush catheter placed at the
+     level of the lower thoracic aorta. No anatomic variants were demonstrated.  An
+     ulcerative plaque is visualized along the left lateral aspect of the aorta
+     just inferior to the take-off of the left renal artery.  The inferior
+     mesenteric artery again is patent, but no active extravasation is
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrated.  No anatomic variants arise from the abdominal aorta.
+     
+     IMPRESSION:
+     1.  No evidence for active extravasation at this time.
+     2.  Replaced right hepatic artery arising from the superior mesenteric artery.
+     3.  Extensive calcified aorto-iliac disease with arteria-magna of the iliac
+     and femoral vessels.
+     
+     The findings were conveyed to the surgical house staff following the study.
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -76 BY SAME PHYSICIAN               *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent lower GI bleeding.  The patient is status post
+     mesenteric angiogram approximately 12 hours previously.  A blood cell
+     scintogram was performed subsequently, demonstrating increased radio tracer
+     uptake in the region of the mid-transverse colon.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 346**], the Attending Radiologist, who was
+     present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  Versed and Fentanyl in divided doses.  120 ml of
+     Optiray-320 6%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient's
+     daughter and informed consent was obtained.  Access was gained into the right
+     femoral artery using a 19-gauge single wall needle.  A 5-French sheath was
+     then placed.  A 5-French C2 glide catheter was used to access the superior
+     mesenteric artery, and an angiogram was performed.  This demonstrated a
+     replaced right hepatic artery, with an overall appearance of vaso constriction
+     of the vessels supplying the bowel.  No active extravasation was demonstrated.
+      The angiogram was performed with a different obliquity, again demonstrating
+     no evidence for active extravasation.  Contrast refluxed into the aorta, and
+     the left renal artery is incidentally noted.
+     
+     A third obliquity was then obtained, again without additional findings.
+     
+     The catheter was then advanced into the level of the celiac artery, and a
+     common hepatic arteriogram was obtained.  This demonstrated a normal vascular
+     appearance of the left hepatic artery, gastroduodenal artery, and pancreatic
+     duodenal arcades.  No active extravasation was demonstrated.  Incidental note
+     is made of a densely calcified splenic artery and superior mesenteric artery.
+     
+     The catheter was then pulled back to the level of the celiac trunk, and a
+     celiac arteriogram was obtained.  This demonstrated disease of the splenic
+     artery, with multifocal stenoses.  The left gastric artery appears normal.  No
+     anatomic variants were demonstrated.
+     
+     A flush aortogram was then obtained with an Omni-Flush catheter placed at the
+     level of the lower thoracic aorta. No anatomic variants were demonstrated.  An
+     ulcerative plaque is visualized along the left lateral aspect of the aorta
+     just inferior to the take-off of the left renal artery.  The inferior
+     mesenteric artery again is patent, but no active extravasation is
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrated.  No anatomic variants arise from the abdominal aorta.
+     
+     IMPRESSION:
+     1.  No evidence for active extravasation at this time.
+     2.  Replaced right hepatic artery arising from the superior mesenteric artery.
+     3.  Extensive calcified aorto-iliac disease with arteria-magna of the iliac
+     and femoral vessels.
+     
+     The findings were conveyed to the surgical house staff following the study.
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -76 BY SAME PHYSICIAN               *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent lower GI bleeding.  The patient is status post
+     mesenteric angiogram approximately 12 hours previously.  A blood cell
+     scintogram was performed subsequently, demonstrating increased radio tracer
+     uptake in the region of the mid-transverse colon.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 346**], the Attending Radiologist, who was
+     present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  Versed and Fentanyl in divided doses.  120 ml of
+     Optiray-320 6%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient's
+     daughter and informed consent was obtained.  Access was gained into the right
+     femoral artery using a 19-gauge single wall needle.  A 5-French sheath was
+     then placed.  A 5-French C2 glide catheter was used to access the superior
+     mesenteric artery, and an angiogram was performed.  This demonstrated a
+     replaced right hepatic artery, with an overall appearance of vaso constriction
+     of the vessels supplying the bowel.  No active extravasation was demonstrated.
+      The angiogram was performed with a different obliquity, again demonstrating
+     no evidence for active extravasation.  Contrast refluxed into the aorta, and
+     the left renal artery is incidentally noted.
+     
+     A third obliquity was then obtained, again without additional findings.
+     
+     The catheter was then advanced into the level of the celiac artery, and a
+     common hepatic arteriogram was obtained.  This demonstrated a normal vascular
+     appearance of the left hepatic artery, gastroduodenal artery, and pancreatic
+     duodenal arcades.  No active extravasation was demonstrated.  Incidental note
+     is made of a densely calcified splenic artery and superior mesenteric artery.
+     
+     The catheter was then pulled back to the level of the celiac trunk, and a
+     celiac arteriogram was obtained.  This demonstrated disease of the splenic
+     artery, with multifocal stenoses.  The left gastric artery appears normal.  No
+     anatomic variants were demonstrated.
+     
+     A flush aortogram was then obtained with an Omni-Flush catheter placed at the
+     level of the lower thoracic aorta. No anatomic variants were demonstrated.  An
+     ulcerative plaque is visualized along the left lateral aspect of the aorta
+     just inferior to the take-off of the left renal artery.  The inferior
+     mesenteric artery again is patent, but no active extravasation is
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrated.  No anatomic variants arise from the abdominal aorta.
+     
+     IMPRESSION:
+     1.  No evidence for active extravasation at this time.
+     2.  Replaced right hepatic artery arising from the superior mesenteric artery.
+     3.  Extensive calcified aorto-iliac disease with arteria-magna of the iliac
+     and femoral vessels.
+     
+     The findings were conveyed to the surgical house staff following the study.
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -76 BY SAME PHYSICIAN               *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent lower GI bleeding.  The patient is status post
+     mesenteric angiogram approximately 12 hours previously.  A blood cell
+     scintogram was performed subsequently, demonstrating increased radio tracer
+     uptake in the region of the mid-transverse colon.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 346**], the Attending Radiologist, who was
+     present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  Versed and Fentanyl in divided doses.  120 ml of
+     Optiray-320 6%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient's
+     daughter and informed consent was obtained.  Access was gained into the right
+     femoral artery using a 19-gauge single wall needle.  A 5-French sheath was
+     then placed.  A 5-French C2 glide catheter was used to access the superior
+     mesenteric artery, and an angiogram was performed.  This demonstrated a
+     replaced right hepatic artery, with an overall appearance of vaso constriction
+     of the vessels supplying the bowel.  No active extravasation was demonstrated.
+      The angiogram was performed with a different obliquity, again demonstrating
+     no evidence for active extravasation.  Contrast refluxed into the aorta, and
+     the left renal artery is incidentally noted.
+     
+     A third obliquity was then obtained, again without additional findings.
+     
+     The catheter was then advanced into the level of the celiac artery, and a
+     common hepatic arteriogram was obtained.  This demonstrated a normal vascular
+     appearance of the left hepatic artery, gastroduodenal artery, and pancreatic
+     duodenal arcades.  No active extravasation was demonstrated.  Incidental note
+     is made of a densely calcified splenic artery and superior mesenteric artery.
+     
+     The catheter was then pulled back to the level of the celiac trunk, and a
+     celiac arteriogram was obtained.  This demonstrated disease of the splenic
+     artery, with multifocal stenoses.  The left gastric artery appears normal.  No
+     anatomic variants were demonstrated.
+     
+     A flush aortogram was then obtained with an Omni-Flush catheter placed at the
+     level of the lower thoracic aorta. No anatomic variants were demonstrated.  An
+     ulcerative plaque is visualized along the left lateral aspect of the aorta
+     just inferior to the take-off of the left renal artery.  The inferior
+     mesenteric artery again is patent, but no active extravasation is
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 5:25 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12406**]
+     Reason: BLEEDING
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrated.  No anatomic variants arise from the abdominal aorta.
+     
+     IMPRESSION:
+     1.  No evidence for active extravasation at this time.
+     2.  Replaced right hepatic artery arising from the superior mesenteric artery.
+     3.  Extensive calcified aorto-iliac disease with arteria-magna of the iliac
+     and femoral vessels.
+     
+     The findings were conveyed to the surgical house staff following the study.
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75625 ABDOMINAL A-GRAM              *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with LGI bleed acutely, h/o CAD, HTN, dementia                  
+     REASON FOR THIS EXAMINATION:
+      please assess for source of bleeding and page with results, thanks [**First Name4 (NamePattern1) 12404**] 
+      [**Last Name (NamePattern1) 12405**] #95630
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 83-year-old male with acute lower GI bleed. The patient had a
+     history of coronary artery disease, hypertension and dementia.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) 346**] and [**Name5 (PTitle) **].  The Attending Radiologist,
+     Dr. [**Last Name (STitle) **], was present and supervising the entire procedure.
+     
+     PROCEDURE/TECHNIQUE: The right groin was prepped and draped in sterile
+     fashion, and access was gained into the right femoral artery using a 19 gauge
+     single-wall needle. The 5 Fr sheath was then advanced and a sidearm flush
+     attached. The superior mesenteric artery was then selectively catheterized
+     using a 5 Fr C2 glidecatheter. Several superior mesenteric arteriograms were
+     then performed.
+     
+     Several attempts were then made to selectively cannulate the inferior
+     mesenteric artery but were unsuccessful. Therefore a 4 Fr Omniflush catheter
+     was placed in the infrarenal abdominal aorta, and multiple PA and oblique
+     aortograms were obtained in attempt to visualize the inferior mesenteric
+     artery and its vessels. Following this, the catheter and sheath were removed,
+     and compression was applied over the right groin until hemostasis was
+     achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: The aorta and iliac vessels are extremely calcified. There is
+     evidence for a replaced or accessory right hepatic artery, which has a focal
+     stenosis at its origin. There is no evidence for active extravasation or
+     vascular malformation involving the superior mesenteric vessels. Infrarenal
+     abdominal aortograms demonstrate patency of the inferior mesenteric artery
+     with a concentrically irregular appearance proximally. There is a large vessel
+     rising from a branch of the inferior mesenteric artery, which courses
+     superiorly, parallel to the aorta and supplies what appears to be transverse
+     colon. However, no extravasation was identified. The inferior mesenteric
+     artery appears overall vasoconstricted. Contrast is visualized in the bladder.
+     No active extravasation is visualized involving the superior rectal artery.
+     
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The common and external iliac arteries have the appearance of arteria magna.
+     Both superficial and deep femoral arteries are patent bilaterally.
+     
+     IMPRESSION: Selective superior mesenteric arteriogram shows no evidence for
+     active extravasation. Selective cannulation of the inferior mesenteric artery
+     was not possible, most likely due to a severe osteal stenosis. However,
+     infrarenal abdominal aortograms showed patency of the inferior mesenteric
+     artery, without evidence for active extravasation. Findings reviewed with
+     house staff during and after the procedure. Contrast was 200 cc of Optiray
+     60%. 
+     
+     
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75625 ABDOMINAL A-GRAM              *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with LGI bleed acutely, h/o CAD, HTN, dementia                  
+     REASON FOR THIS EXAMINATION:
+      please assess for source of bleeding and page with results, thanks [**First Name4 (NamePattern1) 12404**] 
+      [**Last Name (NamePattern1) 12405**] #95630
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 83-year-old male with acute lower GI bleed. The patient had a
+     history of coronary artery disease, hypertension and dementia.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) 346**] and [**Name5 (PTitle) **].  The Attending Radiologist,
+     Dr. [**Last Name (STitle) **], was present and supervising the entire procedure.
+     
+     PROCEDURE/TECHNIQUE: The right groin was prepped and draped in sterile
+     fashion, and access was gained into the right femoral artery using a 19 gauge
+     single-wall needle. The 5 Fr sheath was then advanced and a sidearm flush
+     attached. The superior mesenteric artery was then selectively catheterized
+     using a 5 Fr C2 glidecatheter. Several superior mesenteric arteriograms were
+     then performed.
+     
+     Several attempts were then made to selectively cannulate the inferior
+     mesenteric artery but were unsuccessful. Therefore a 4 Fr Omniflush catheter
+     was placed in the infrarenal abdominal aorta, and multiple PA and oblique
+     aortograms were obtained in attempt to visualize the inferior mesenteric
+     artery and its vessels. Following this, the catheter and sheath were removed,
+     and compression was applied over the right groin until hemostasis was
+     achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: The aorta and iliac vessels are extremely calcified. There is
+     evidence for a replaced or accessory right hepatic artery, which has a focal
+     stenosis at its origin. There is no evidence for active extravasation or
+     vascular malformation involving the superior mesenteric vessels. Infrarenal
+     abdominal aortograms demonstrate patency of the inferior mesenteric artery
+     with a concentrically irregular appearance proximally. There is a large vessel
+     rising from a branch of the inferior mesenteric artery, which courses
+     superiorly, parallel to the aorta and supplies what appears to be transverse
+     colon. However, no extravasation was identified. The inferior mesenteric
+     artery appears overall vasoconstricted. Contrast is visualized in the bladder.
+     No active extravasation is visualized involving the superior rectal artery.
+     
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The common and external iliac arteries have the appearance of arteria magna.
+     Both superficial and deep femoral arteries are patent bilaterally.
+     
+     IMPRESSION: Selective superior mesenteric arteriogram shows no evidence for
+     active extravasation. Selective cannulation of the inferior mesenteric artery
+     was not possible, most likely due to a severe osteal stenosis. However,
+     infrarenal abdominal aortograms showed patency of the inferior mesenteric
+     artery, without evidence for active extravasation. Findings reviewed with
+     house staff during and after the procedure. Contrast was 200 cc of Optiray
+     60%. 
+     
+     
+
+",,
+14784,14565,18372,,3326-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75625 ABDOMINAL A-GRAM              *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with LGI bleed acutely, h/o CAD, HTN, dementia                  
+     REASON FOR THIS EXAMINATION:
+      please assess for source of bleeding and page with results, thanks [**First Name4 (NamePattern1) 12404**] 
+      [**Last Name (NamePattern1) 12405**] #95630
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 83-year-old male with acute lower GI bleed. The patient had a
+     history of coronary artery disease, hypertension and dementia.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) 346**] and [**Name5 (PTitle) **].  The Attending Radiologist,
+     Dr. [**Last Name (STitle) **], was present and supervising the entire procedure.
+     
+     PROCEDURE/TECHNIQUE: The right groin was prepped and draped in sterile
+     fashion, and access was gained into the right femoral artery using a 19 gauge
+     single-wall needle. The 5 Fr sheath was then advanced and a sidearm flush
+     attached. The superior mesenteric artery was then selectively catheterized
+     using a 5 Fr C2 glidecatheter. Several superior mesenteric arteriograms were
+     then performed.
+     
+     Several attempts were then made to selectively cannulate the inferior
+     mesenteric artery but were unsuccessful. Therefore a 4 Fr Omniflush catheter
+     was placed in the infrarenal abdominal aorta, and multiple PA and oblique
+     aortograms were obtained in attempt to visualize the inferior mesenteric
+     artery and its vessels. Following this, the catheter and sheath were removed,
+     and compression was applied over the right groin until hemostasis was
+     achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: The aorta and iliac vessels are extremely calcified. There is
+     evidence for a replaced or accessory right hepatic artery, which has a focal
+     stenosis at its origin. There is no evidence for active extravasation or
+     vascular malformation involving the superior mesenteric vessels. Infrarenal
+     abdominal aortograms demonstrate patency of the inferior mesenteric artery
+     with a concentrically irregular appearance proximally. There is a large vessel
+     rising from a branch of the inferior mesenteric artery, which courses
+     superiorly, parallel to the aorta and supplies what appears to be transverse
+     colon. However, no extravasation was identified. The inferior mesenteric
+     artery appears overall vasoconstricted. Contrast is visualized in the bladder.
+     No active extravasation is visualized involving the superior rectal artery.
+     
+                                                                 (Over)
+
+     DATE: [**3326-6-13**] 2:04 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 12403**]
+     Reason: please assess for source of bleeding and page with results, 
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The common and external iliac arteries have the appearance of arteria magna.
+     Both superficial and deep femoral arteries are patent bilaterally.
+     
+     IMPRESSION: Selective superior mesenteric arteriogram shows no evidence for
+     active extravasation. Selective cannulation of the inferior mesenteric artery
+     was not possible, most likely due to a severe osteal stenosis. However,
+     infrarenal abdominal aortograms showed patency of the inferior mesenteric
+     artery, without evidence for active extravasation. Findings reviewed with
+     house staff during and after the procedure. Contrast was 200 cc of Optiray
+     60%. 
+     
+     
+
+",,
+14784,14565,18372,0,3326-06-13 05:23:00 EST,3326-06-13 05:51:00 EST,2421,"N",69,"Nursing/Other",,"
+
+npn 1a-7a  nursing admit note
+
+pt admitted to 797 for new onset brisk GI Bleeding, likely lower [**Hospital1 **] d/t copious melana via rectum, no bleeding via oral;
+
+pt in MICU-A very briefly (45 min) before going off floor to interventional radiology for scan to check for source/location of bleeding; source not found;
+
+pt returned to MICU-A 04:30;
+     from approx 01:30-04:30, pt had 1300 cc's liquid melena per rectum;  received 4 units FFP finishing just prior to IR procedure; and received 2 units PRBC's upon return to MICU-A;
+
+ROS:
+
+neuro:
+pt w/ baseline orientation of 1-2; verbalizations confused;
+
+c-v:
+Rt rad A-line inserted just prior to going to IR; readings approx 20 pts higher than non-invasinve B/P;
+     heart rhythm afib with occasional to frequent multifocal PVC's per ER report; PVC's mostly occasional since admitted to MICU-A; v-response approx 116 in ER, initially approx same at arrival; however after loosing 1300 cc's melana liquid PR, hrt rate increased since IR, resting in 120's, occasionally 110's and 130/140's;
+     pedle pulses dopplarable only since admission;  Rt foot pulses same after IR/Rt fem site;
+
+resp:
+lungs clear bil, O2 sat 98% on 2 l n.c.; after having received 2 units PRB's, pt's O2 sat up to 100%;
+
+g-i:
+pt NPO; NGT patent; on PPI; rectal bag for melana liquid return, clotting after having received 4 units FFP;
+
+g-u:
+urine light clear yellow via patent foley; output 400 cc's as of 06:00;
+
+access:
+3 preiph IV's as described in careview flow-notes; new Rt rad A-Line place approx 02:15;
+
+social:
+family in to see pt at approx 05:00; daughter [**First Name8 (NamePattern2) 963**] [**Last Name (NamePattern1) 6492**] [**Telephone/Fax (1) 6493**] listed as contact person;
+
+LABS:
+04:00 labs pending;
+pt to have q 4 hr hcts
+
+PLAN:
+1)  q 4 hr hcts
+2)  keep Rt groin straight until 9a 
+3)  NPO
+4)  rectal bag--measure for bleeding
+5)  clarily code status 
+",,
+14784,14565,18372,0,3326-06-13 16:22:00 EST,3326-06-13 16:45:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+HEME/GI: Pt cont to pass large amounts of liquid melanotic stools/BRB hourly.  Diff to estimated volume, both FIC and mushroom cath applied c minimal containment of stool output.  Pt certainly has over 500ml melena thus far today.  Pt has received a 4 units of PRBC's since [**30**]:00 (s/p 4 units PRBC's on PM shift), a single unit of single donor plts and a single unit of cryoprecipitate c no change in stool output thus far.  Tagged RBC scan this afternoon suggestive of active transverse colon bleed.  Last HCT = 35.1 (will Tx to keep > 30), Plt co = 102 (will Tx to keep > 100), and an INR of 1.2 (holding on FFP Tx @ this time)(will transfuse cryoprecipitate for low Fibrinogen levels (<150).  BB to reserve four units of PRBC's @ all time.  Pt just brought to IR/Angiography to address GIB.  Will cont to monitor heme labs Q2-4 hours as needed per team.  Pt provided c 1mg SQ Vit K.  
+
+GI: NGT replaced after pt inadvertantly d/c'ed, placement confirmed by CXR per team report.  Pt is NPO.  Pt received a total of 1000ml Go-Lytely per team order in prep for Colonoscopy.  Abd is soft, +hyperactive BS, NT.  Pt c/o hunger earlier, less interactive @ this time.
+
+CV: Afib c elevated HR up to 140-150's intermittently.  Holding on rate cntl agents 2nd active GIB.  +Freq PVC's.  Cortis placed @ BS, placement confirmed by CXR, CVP subsequently transduced c values in the 7-10 range thus far.  R A-Line remains in place c optimally dampened waveform noted.  Mg repleted earlier,last value = 2.0.  Mildly elevated FS today, cov provided c ISS(see CareVue).  R Fem angio cath site s evidence of bleeding today.  Will cont to send serial CPK's, values are flat thus far.
+
+MS: Pt intermittently agitated and freq confused today.  Very short attention span.  Generally follows commands.  Posey applied to thorax and soft wrist and ankle restraints applied to protect NGT, cortis, lines, foley, etc.  Pt freq re-oriented to person/place/time c minimal affect on allaying pt agitation.  Sitter @ BS to ensure pt safety.   
+
+GU: Adeq UO c approx 50-120ml hr.  Urine is a clear and yellow in coloration.  Pt to receive IV Mucomyst s/p dye load during tagged RBC scan.  
+
+RESP: LSCTA.  2LNCO2.  No SOB/dyspnea.  
+
+DERM: Intact.
+
+FAMILY: Dtr [**First Name8 (NamePattern2) 963**] [**Last Name (NamePattern1) 1715**] called this afternoon and kept abreast of POC/pt status.  The pt is a DNR/DNI. 
+
+OTHER: Please see CareVue for additional pt care data/comments.  Univ isolation procedures in place.
+",,
+14784,14565,18372,0,3326-06-14 07:15:00 EST,3326-06-14 07:42:00 EST,1740,"N",69,"Nursing/Other",,"
+
+NPN 2100-0900:
+NEURO: Pt has been intermittently agitated all night. He is generally completely disoriented, not answering questions though occasionally will tell [**Doctor First Name **] he is in the hospital). His agitation seems non-purposeful, in that he thrashes side to side, moans, calls for ""mama"", attempts to sit up, etc, but has not actively tried to pull anything out (though leads are frequently removed). He was treated with Versed 1mg several times late evening, with only transient sedation. Each time he seemed to wake up more agitated than before. At 0330 he was given 1mg IV Ativan with excellent effect for about 2 hours. He was given another 1mg at 0530, but only became more agitated. (At the time he appeared to be in respiratory distress, though he had already been diuresed, and it was hard to tell whether resp distress was causing the agitation or vice versa). He eventually appeared to wear himself out and settled down till 0730, when he recieved another 1mg Ativan, with good effect. [**Last Name (LF) 629**], [**First Name3 (LF) 34**]. 
+RESP: Pt on 2L NC all night with sats in mid 90's. RR persistently high 20's-low 30's, increasing with agitation. By 0200 he appeared to have increased WOB, and crackles were heard on lung exam. He was given 40mg IV Lasix with resulting diuresis of >2L. However, although the crackles cleared, his resp status did not really seem any better, and (as above) he looked worse this morning. ABG showed pO2 62, and his O2 was increased to 4L; sats increased to high 90's. CXR done after diuresis; results pending. 
+C-V: Pt has had problems with hypertension and tachycardia most of the night. CVP 9-15. EKG largely unchanged from admission. He has been treated with IV Lopressor (standing doses), IV Hydralazine, diuresis, and sedation with only transient effect. Ca repleted overnight; K+ 3.1 this AM; awaiting bag from pharmacy. 
+GI: Belly soft, ND. Non-tender to palpation most of night, but appeared somewhat tender this AM when he was more agitated. KUB done; results pending. He has completed Golytely prep as of 0800 (done slowly to prevent vomitting). Stool was maroon in color during the evening, but has now progressed to liquid green not yet clear). Right groin site had slight bleeding during the evening, but none since MN. Pulses are palpable on left leg, dopplerable on right (unchanged). Knee immobilizer D/C'd at 0100, and pneumoboots placed at 0800. 
+HEME: Has now recieved a total of 10U PRBC's with Hct up to 37 this AM. Coags normal, plt's drifting down. 
+ENDO: Has not required any insulin. 
+GU: Recieving scheduled doses of Mucomyst; U/O acceptable all evening, brisk since Lasix dose. 
+ID: Afebrile, WBC 17K (up from 13k last night). No obvious source. 
+ACCESS: PIV X 2, Cordis, A-line.  
+SKIN: Pt has developed a slight macular rash over trunk and LE's, ? drug reaction. He also appears flushed in absence of fever. 
+SOCIAL: no calls/visits overnight. 
+ 
+A: Bleeding has resolved, but problems with increased agitation, hypertension and tachycardia. 
+
+P: continue to follow 
+",,
+14784,14565,18372,0,3326-06-14 07:16:00 EST,3326-06-14 07:42:00 EST,1740,"N",69,"Nursing/Other",,"
+
+(Continued)
+MS; try to avoid drugs if possible, but not very realistic given level of agitation. Follow HR and BP, monitoring response to drugs. Continue to follow for evidence of bleeding; ? colonoscopy. Monitor for evidence of infection given increased WBC. Replete lytes prn. Observe skin for worsening evidence of drug rash. Assess need for further diuresis. 
+",,
+14784,14565,18372,0,3326-06-14 14:41:00 EST,3326-06-14 15:27:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+HEME: No evidence of GIB today c bilious colored liquid stool output via mushroom catheter and stable serial HCT's noted (37.5 @ 12:00).  Coag times also WNL c an INR value of 1.3 @ 12:00.  Plt count currently stable @ 112 (also @ 12:00).  Pt currently has a large bore R IJ cortis in place in case the pt suddenly requires a trauma line.  Next HCT due @ 19:00.  HCT goal of > 28 noted, will cont to check HCT Q6 hours.
+
+GI: As noted above, no GIB thus far today.  Pt started on his 2nd four liter bottle of Go-Lytely per team request for bowel prep/colonoscopy. However, the GI service just called to schedule his colonoscopy for Monday and therefore per team will d/c the Go-Lytely bowel prep for today and re-start Saturday evening.  Pt has normal bowel sounds and a soft abdomen.  1500ml bilious stool output today since MN.
+
+CV: Pt in Afib c a HR in the 110-140 range this AM c occasional PVC's. Pt subsequently started on an Esmolol gtt and currently infusing @ 50mcg/kg/min via cortis c good rate cntl (HR in the 90-110 range).  Pt also appears to have less ventricular ectopy on Esmolol gtt.  Will cont to keep SBP in the 140-170 range.  Palpable LE pulses.  Afebrile. R A-Line c optimally dampened waveform.  AM hypokalemia repleted this AM, repeat K value @ 12:00 = 4.1.  AM CXR s evidence of CHF, holding additional IV Lasix @ this time.  AM EKG s new changes.  [**6-13**] Echo results include; dialated LA, LVH, nl EF (50-60%), RV dialation, +2 TR.
+
+MS: Pt noted to be mumbling incoherently, attempting to get OOB and not able to follow commands/answer simple questions.  Pt subsequently med c a total of 4mg IV Lorazepam and 3mg IV Verced between 10:00 and 14:00 c good cntl of agitation.  Pt currently sedated but can easily be aroused in which he returns to his pre-sedated agitated state.  Pt agitation noted to increase his hyperdynamic state.  Pt currently in 2 point restraints c soft wrist restraints in place.  Per team, will attempt to lighten sedation as tol by pt.  However, pt still at risk for re-bleeding which can certainly be potentiated by abnormally elevated VS. 
+
+RESP: Pt received on 4LNCO2 c sats generally in the mid 90's today and a RR in the 20-30 range.  Pt sat noted to drop to the low 90's s/p iv sedation.  ABG drawn/sent @ 13:00 c the following values; 7.38-45-61.  Pt subsequently provided c a PRN Albuterol neb followed by a 50% hi-flow Venti-Mask and HOB raised to 30% angle.  Pt sat much improved c values in the 97-99 range.  Pt RR presently in the high 20's.  LS are clear in the upper lobes and diminished in the lower lobes (poor resp effort) c coarse bs appreciated in upper airway (NTS applied c minimal success).  Will cont to follow sats/RR closely, send repeat ABG as needed.  
+
+GU: Pt c over 3.0 liters UO today s/p 40mg IV Lasix during PM shift.  Pt considered for additional IV Lasix held 2nd no evidence of CHF on CXR.  Pt is currently + 6.0 liters input since admit, his I&O's for today are essentially equal.  Urine is clear and yellow incolorat
+",,
+14784,14565,18372,0,3326-06-14 14:42:00 EST,3326-06-14 15:27:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+(Continued)
+ion.
+
+FAMILY: Dtr [**Name (NI) 963**] (health care proxy) called this AM and kept up-to-date c POC/pt status.  [**Doctor First Name 963**] expects to visit later this evening.  Team HO to call [**Doctor First Name 963**] to answer any questions and also keep up-to-date c POC/pt status.  The pt is a DNR/DNI.
+
+OTHER: Please see CareVue for additional pt care data/comments. 
+",,
+14784,14565,18372,0,3326-06-15 04:53:00 EST,3326-06-15 05:32:00 EST,1740,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700:
+NEURO: During the evening pt was slightly restless, arousable, not opening eyes or responding verbally except moaning. He became very agitated late evening, and was given 5mg Zyprexa with no response, followed by total of 2mg MSO4 IV, still with no response. He was then given 100mg PO Trazadone, after which he bcame progressively less responsive. Eventually unresponsive to all stimuli, including NTS, peripheral ABG, turning, and sternal rub. Gag was absent, cough impaired. He has since become slightly more responsive, with better cough. Of note, Haldol has been avoided d/t documented allergy. However, we have been unable to ascertain the nature of the allergy; his daughter [**Name (NI) 963**] does not know, and is trying to reach her sister who is on vacation in CA. I spoke to the nurse [**First Name8 (NamePattern2) **] [**Last Name (Titles) 6494**] Healthcare, the LTC facility he has been at for the past 4 weeks; she confirmed the documentation of the allergy in their records, and located a D/C summary from [**Hospital3 **] which also stated this allergy. She was unable to find any reference to the nature of the pt's reaction. Pt has also recently been at [**Doctor First Name 6495**] hospital, [**Hospital1 **], and [**First Name4 (NamePattern1) 150**] [**Last Name (NamePattern1) **] NH in [**Location (un) **], though I am unsure of how recent these admissions were. 
+RESP: Increasing O2 requirements during the evening; ultimately on 95% HFN with sats in mid 90's. He had some wheezing early evening which resolved with albuterol neb. He later developed crackles t/o lung fields, and a CXR showed some degree of CHF; given 40mg IV Lasix with U/o of about 900cc's. His resp distress continued to worsen, and he was given 80 mg Lasix, but with no response (foley irrigated easily). Of note, pt was relatively hypotensive at the time. He also developed very significant thick, tan, foul-smelling secretions, with very decreased BS on entire right side; he was suctioned q1 hour for several hours. ABG at 0330 was 7.26/57/130; at 0500 ABG was 7.27/55/97 (both drawn on 95% HFN). By early AM his sats were low 90's on the HFN, with RR 30's and significant distress. His HR had increased to 140's sustained; when this was brought under better control his resp status improved. 
+C-V: Esmolol gtt initially decreased to 75mcg/kg/min; later in evening, wiht incraesed agitation, HR increased as well, and gtt was put back to 100mcg/kg/min. He was stable on that dose for several hours, but BP fell early morning, and esmolol was turned off for several hours. Eventually his HR climbed in to the 140's, sustained (bursts as high as 160), with a better BP, and the gtt was restarted at 50mcg/kg/hr with excellent effect. Currently HR is in the low 100's, with BP 90's/30's (MAP ~60). Of note, BP's are via NBP cuff; when he had an A-line earlier in the shift his A-line read higher. K+ WNL this AM; Ca was 6.7 and was repleted with 2 amps CaGlu. Right femoral angio site is slightly edematous with slight sero-sanguinous drainage. Area is a bit more mottled than before, including penis. Feet are warm with dopplerable pulses. 
+ID: Low-grade tem
+",,
+14784,14565,18372,0,3326-06-15 04:54:00 EST,3326-06-15 05:32:00 EST,1740,"N",69,"Nursing/Other",,"
+
+(Continued)
+p last evening, afebrile now. WBC has climbed to 21.5K, with his lungs being the presumed source. A sputum spec was sent. 
+GI: Minimal liquid golden OB+ stool via mushroom catheter. Belly benign. 
+HEME: Hct, plts and coags all stable; no evidence of further bleeding. 
+ENDO: Sugars stable without insulin.
+SKIN: Possible rash from last night appears resolved. He has a [**2-14**]-inch skin tear on right wrist that was covered with Tegaderm. Skin otherwise intact.
+ACCESS: With agitation, he lost his A-line and one PIV. He still has the Cordis and 2 PIV's. 
+
+A: probable new pnx, possible CHF, tachycardia, relative hypotension, as well as ongoing mental status issues.
+
+P: Monitor resp status; pulmonary hygeine; ? start IVAB. Keep NPO except meds; anticipate colonoscopy Monday (bowel prep Sunday). Monitor for further bleeding. Titrate esmolol for HR low 100's; follow BP closely. Replete lytes prn. F/U with other facilities regading question of Haldol allergy. Keep family informed and supported. 
+",,
+14784,14565,18372,0,3326-06-15 15:13:00 EST,3326-06-15 15:29:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing note 7-7p
+ Neuro pt very sadated most of morning , by 10 am pt becoming more restless, not following commands, legs over bed rail, poor cough and gag, not opening eyes to vioce, not responce to painful stimuli, by 11 am pt not only restless but more tachycardis hr^ 150 afib, pt changed to dilt drip, bolused with 15 mg iv, and drip ^ to 15 mg hr . with  little effect on hr. noted L perpherial line infutrated, drip change over to cordis,   over the next 30 min,  hr down to low 100's. also pt in resp distess at this time.
+  pt had been suction q 30 min all morning, for thick tan secreation requiring lavage, despite suctioning and pt rr remained 30-40, at 11 pt have asyncronized breathing using excessory muscles, suction and cpt unable to inprove breathing, spoke with resident about status.  resident called pt family.
+ pt's situation, explained to daughter, pt made cmo,  now pt started on mso4 q2 prn as need pt med with mso4 with good effect pt less agitated, hr 80-90, dilt drip at 10mg/hr, awaiting daughter this afternoon. will continue with comfort care measures only.
+",,
+14784,,18372,0,3326-06-16 04:25:00 EST,3326-06-16 04:30:00 EST,1740,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700:
+S/O: MSO4 gtt initiated to maintain comfort when boluses became insufficient. Pt has remained comfortable since. Pneumoboots, restraints, mushroom catheter and NGT removed. No contact from family. 
+A: comfortable at present
+P: maintain comfort; keep family informed and supported.
+",,
+14784,,18372,0,3326-06-16 11:07:00 EST,3326-06-16 11:09:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing progress note
+  pt  at 1205 pm became asystolic, no resperations, daughter in with patient. resident called to prononced patient.  ivf fluids d/c's  iv's d/c'd,  daughter went home.  body sent to morgue
+",,

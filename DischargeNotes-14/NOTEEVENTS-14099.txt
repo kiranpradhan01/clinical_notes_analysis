@@ -1,0 +1,212 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14099,1066,,,2759-08-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2759-8-20**]              Discharge Date:   [**2759-8-22**]
+ 
+Date of Birth:  [**2708-10-21**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 246**] 
+Chief Complaint:
+alcohol withdrawal, hematemesis
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+50 yo male with long hx of etoh abuse, hx of DT and seizure 
+during withdrawl, was at [**Hospital1 10122**] for detox and discharged to a 
+sober house.  Recently left the sober house and began drinking, 
+last drink [**8-18**]. Had left the sober house where had been living 
+and was drinking large amounts of vodka ""enough to pass out"". 
+Sent to [**Hospital1 19**] when developed n/v hematemesis. Denies melena, 
+hematochezia.  Reports multiple episodes of emesis that had 
+spots of blood.  Denies cough, sore throat, chest pain, SOB, 
+abdominal pain, dysuria, arthralgias, myalgias.
+ In ED noted to have continued emesis in ED which was 
+gastroccult positive.
+
+ 
+Past Medical History:
+1. EtOH withdrawl with DT and seizure
+2. Asthma
+3. Gout
+4. GERD
+5. UBIG ""from the esophagus""-unclear if varix but required 4u 
+PRBC transfusion (history per patient and studies performed at 
+[**Hospital1 9734**])  
+6. ?Hepatitis C
+
+ 
+Social History:
+Has been staying at a ""sober house"" in [**Location (un) 693**], MA.  Recently 
+has come to [**Location (un) **] and is currently homeless.  Currently on 
+military disability. Former printer.  40+ pk/yr history, current 
+smoker.  +IVDU in past including cocaine, [**Doctor First Name **] meth.
+ 
+Physical Exam:
+T 98.8 BP 188/97 HR 92 RR 17 96%@RA
+Gen- Lying in bed, tremulous, in mild distress
+HEENT- Anicteric, PERRL, EOMI, MMM, OP clear
+Neck- no JVD
+Lungs- +mild expiratory wheeze
+CV- S1S2, reg rate and rhythm, no m/r/g
+Abd- Soft, NT/ND, BS present. No HSM, negative [**Doctor Last Name **] sign, no 
+caput medusae, no spider angiomata, no asterixis.
+Ext- No calf tenderness, no edema.
+Skin- no rash
+Neuro- AOx3, CN II-XII intact, 5/5 strength all extremities 
+without deficit.
+
+ 
+Pertinent Results:
+[**2759-8-20**] 02:09AM BLOOD WBC-10.1 RBC-4.64 Hgb-11.9* Hct-36.0* 
+MCV-78* MCH-25.6* MCHC-33.0 RDW-15.0 Plt Ct-381
+[**2759-8-20**] 02:09AM BLOOD Neuts-81.5* Lymphs-13.4* Monos-3.8 
+Eos-0.5 Baso-0.8
+[**2759-8-20**] 02:09AM BLOOD PT-12.9 PTT-24.2 INR(PT)-1.1
+[**2759-8-20**] 02:09AM BLOOD Glucose-116* UreaN-15 Creat-0.9 Na-140 
+K-4.0 Cl-103 HCO3-25 AnGap-16
+[**2759-8-20**] 02:09AM BLOOD ALT-18 AST-24 AlkPhos-84 Amylase-57 
+TotBili-0.6
+[**2759-8-20**] 02:09AM BLOOD Lipase-33
+[**2759-8-21**] 03:30AM BLOOD calTIBC-384 VitB12-537 Ferritn-26* 
+TRF-295
+ 
+Brief Hospital Course:
+1. EtOH withdrawal: Pt was initiated on CIWA scale and was 
+loaded with IV Valium, requiring 50mg IV in the ED.  He was 
+requiring hourly checks for withdrawal and was sent to the 
+[**Hospital Ward Name 1600**] ICU for closer monitoring.  His CIWA score subsequently 
+decreased and was sent to the floor on [**2759-8-21**].   There were no 
+episodes of seizure.  On day of discharge the patient was > 
+72hours from his last drink and had an unremarkable CIWA score.  
+He was discharged with four tablets of 5mg Valium for anxiety.
+
+2. Hematemesis: NG lavage was performed in the ED which was 
+negative.  Rectal guiaic for occult blood was negative.  A GI 
+consult was obtained for further evaluation of his UGI tract 
+given his history of HCV and past UGIB requiring transfusions.  
+Serial HCT checks have been stable with no evidence of blood 
+loss.  GI recommended further outpatient workup to be performed 
+either at the [**Hospital1 9734**] or at [**Hospital1 19**].  The patient reports that he has 
+a planned upper and lower endoscopy at the [**Hospital1 9734**] later this month 
+and is already taking Protonix.
+
+3. Anemia: Notable anemia on laboratory data, likely 
+iron-deficiency.  He was started on FeSO4 and instructed to 
+continue these tablets.  
+ 
+Medications on Admission:
+Prozac 40mg PO QD
+Albuterol Inh
+Atrovent Inh
+Aciphex
+Indocin PRN
+Viagra PRN
+ 
+Discharge Medications:
+1. Multivitamin     Capsule Sig: One (1) Cap PO QD (once a day). 
+ 
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day).  
+3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2) 
+Puff Inhalation QID (4 times a day).  
+6. Fluoxetine HCl 20 mg Capsule Sig: Two (2) Capsule PO QD (once 
+a day).  
+7. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO QD 
+(once a day).  
+8. Quetiapine Fumarate 25 mg Tablet Sig: Two (2) Tablet PO QHS 
+(once a day (at bedtime)).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+alcohol withdrawal/ detoxification
+hematemesis
+
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+please use the taxi voucher to proceed to south station in 
+transit to your [**Location (un) 693**] facility/ sober house.
+
+please take [**11-21**] tablet of Valium tonight and tomorrow night for 
+anxiety.
+
+follow up at the [**Hospital **] Hospital for your scheduled endoscopy 
+procedures.
+ 
+Followup Instructions:
+follow up at the [**Hospital **] Hospital for your scheduled endoscopy 
+procedures.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 263**] MD [**MD Number 264**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10123**] MD [**MD Number 10124**] [**2759-8-22**] @ 1111
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: [**Doctor First Name 123**] [**2759-9-10**] 8:22 AM
+(End of Report)
+
+
+",,
+14099,1066,17530,0,2759-08-20 15:04:00 EST,2759-08-20 15:47:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing transfer accept note:","
+[**Hospital Ward Name **] 4 ICU nursing transfer accept note:
+ 50 y/o man transfered from 11r for further monitoring of possible DT's. Pt admitted early am after vomiting ??coffee grounds at detox center. c/o nausea but no vomiting..Had recieved 40mgm Valium in ew and 30mgm Valium on floor. 
+ PMHX: Multiple detoxes..is homeless..lives on street and shelters
+gout..gib in the 90's..gerd..depression. 
+Recieves disability from military.
+Estranged from family
+ Allergies: KNDA
+ System Review: 
+DT's..Neuro: Pt alert..orientated..concerned about not recieving medication every hr..following ciwa scale..[**1-26**]. Pt is requesting Valium every hr..initially asking for ""pain"" med..then stating he doesnt feel good. Developed tremor of left hand. Will continue to follow q1-2hrs.
+ Cardiac: HR 70-80's..bp 150-140/60-70
+ GI: c/o nausea..no vomiting or retching..c/o being ""weak"" not being able to eat. +BS no stool..Is npo..??some gi bleeding pre-admit..GI consult pnd..??scope.
+ Respiratory: Audible wheezing..pt is a smoker..given neb treatment..nicotine patch applied.
+ Lines: #22 left wrist..
+ Dispo: ??to return to floor 
+ 
+
+",,
+14099,1066,17530,0,2759-08-21 03:14:00 EST,2759-08-21 03:28:00 EST,760,"N",69,"Nursing/Other","Smicu nsg progress note","
+Smicu nsg progress note
+Neuro/detox- Pt initially requesting valium every hour despite ciwa scale 2-6. ""I need my medicine. I'm very sick [**Doctor First Name **] know"". After discussion with md/rn valium changed to po. Pt given 10mg po at 10pm and pt falling asleep. Sleeping soundly until awaken for blood draw at 4am. Pt asking for valium and given additional 10mg at 4am. Ciwa now 0-2.
+Cardiac- Stable bp. Hr 60-70'snsr when awake down to 48-52 when asleep
+Gi- C/o stomach pain but denies n/v. Taking clear liq without difficulty. No s/s bleeding. Am hct pending.
+Resp- Denies sob. Lungs with inspir/expir wheezes thoughout. Sats 96 on ra.
+Plan- Cont with prn valium. ? call out to floor. Discharge planning. Follow up with gi for possible scope in future.
+",,
+14099,1066,17530,0,2759-08-21 16:11:00 EST,2759-08-21 16:16:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN for 7a-7p:      FULL CODE     NKDA
+
+              Please See flowsheet for more details
+
+Neuro:  Lethargic, but alert and oriented x 3.  PERLA.  Requests Valium Q2-3hrs, but CIWA scale has only been 0-3 for my shift.   Given Valium 10mg x 2 doses today.  (10am and 1500).  Refused to get OOB for my time.
+
+Resp:  RA with adequate sats.  RR regular and unlabored.  Lung sounds clear in upper lobes and decreased in bases. No cough noted. 
+
+CV:  SB-SR with no ectopy.  HR 50-80's.  BP stable. No edema noted.  Palp. distals pulses x 4.  IV access is PIV x 1 #22g to left hand.
+
+GI/GU:  + BS noted. Abd, soft, round, non-tender, non-distended. No BM for my time. Voids in urinal without difficulty. 
+
+Social:  NO calls or visits today.
+
+Plan: Cont. with current plan of care.  May transfer out of ICU one bed becomes available. Monitor per protocol.  Monitor for s/sx's of ETOH withdrawl.  
+",,

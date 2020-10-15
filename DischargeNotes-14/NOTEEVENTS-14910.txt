@@ -1,0 +1,410 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14910,4781,,,3033-08-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+
+Admission Date:  [**3033-8-3**]       Discharge Date:  [**3033-8-4**]
+
+Date of Birth:   [**3033-8-3**]       Sex:  M
+
+Service:  NEONATOLOGY
+
+HISTORY:  Baby [**Name (NI) 106**] [**Known patient lastname 307**], twin #1 was born at 25-1/7 weeks
+gestation at 15:00 on [**3033-8-3**] and died at 14 hours of age on
+[**3033-8-4**] at 05:20 due to respiratory failure.
+
+Baby [**Name (NI) 106**] [**Known patient lastname 307**] was born by spontaneous vaginal delivery to a
+32-year-old gravida 4, para 0 now 2 woman.  The mother's
+prenatal screens were blood type O positive, antibody
+negative, rubella immune, RPR nonreactive, hepatitis surface
+antigen negative, and group B Strep unknown.  This pregnancy
+was complicated by in-[**Last Name (un) 22**] fertilization resulting in
+monochorionic/diamniotic twins and a twin-to-twin transfusion
+syndrome.
+
+The week prior to delivery, laser ablation of the vessels was
+attempted, but did not appear to be effective.  Several
+amniocentesis reductions of polyhydramnios from this twin
+were also done in the week prior to delivery.  Pregnancy was
+also complicated with preterm labor with contractions despite
+magnesium sulfate, rupture of membrane the morning prior to
+delivery, and progressive labor.
+
+The mother's medical history is remarkable for three
+spontaneous losses, asthma, and a history of an abnormal
+cervix, and cone biopsy.  
+     
+This infant emerged flexed with good color, spontaneous
+activity.  He was given positive pressure ventilation and
+intubated.  His Apgars were five at one minute and seven at
+five minutes.  His birth weight was 650 grams, his birth
+length was 31.5 cm, and his birth head circumference was 23
+cm.
+
+His admission physical exam revealed an extremely premature
+infant with fused eyes and flat nipple buds.  Tone and
+reflexes appropriate for gestational age.  Anterior fontanel
+is soft and flat, bruising of the occiput, a 1 cm superficial
+laceration in the occiput.  Eyes fused.  Palate intact.
+Breath sounds coarse, but with equal aeration, subcostal
+retractions.  Heart was regular, rate, and rhythm, no murmur.
+Positive bowel sounds.  Abdomen is flat.  Three vessel
+umbilical cord, bilateral testes undescended, patent anus.
+
+The infant's NICU stay by systems:  Respiratory status:
+Throughout his NICU stay, multiple ventilation and oxygen
+strategies were employed using the conventional ventilation
+and high frequency ventilation with increasing requirements
+needed and ultimately requiring 100% oxygen for several hours
+prior to his death.  He also received two doses of
+surfactant.  He had respiratory and metabolic acidosis that
+were corrected with ventilation strategies and sodium
+bicarbonate.  His last arterial blood gas was pH 7.20, pCO2
+of 49, pO2 of 31, bicarbonate of 20, and base deficit of -9.
+The chest x-ray showed the endotracheal tube in good
+position, and no acute changes to either lung fields.
+
+Cardiovascular status:  The infant required increasing
+pressor support after four boluses of normal saline.  He
+required a maximum of 25 mcg/kg/min of dopamine and 25
+mcg/kg/min of dobutamine.  At that point, hydrocortisone was
+also given.  A grade 2/6 systolic ejection murmur was heard
+at the left mid sternal [**Last Name (LF) 3469**], [**First Name3 (LF) **] indomethacin was begun to
+treat a presumed PDA.
+
+Fluids, electrolytes, and nutrition status:  He was
+maintained with an umbilical arterial and umbilical venous
+line with dextrose initially requiring several boluses of
+dextrose for hypoglycemia which was then resolved.  His
+electrolytes at eight hours of age was sodium 143, potassium
+3.4, chloride 108, bicarbonate 20.  His ionized calcium was
+1.27.
+
+Gastrointestinal status:  There are no issues.
+
+Hematological status:  His hematocrit at the time of
+admission was 45.7 with a followup of 49.5.  He did receive
+10 cc/kg of packed red blood cells to assist with blood
+pressure support.
+
+Infectious disease status:  Infant was started on ampicillin
+and gentamicin at the time of admission for sepsis risk
+factors.  His initial white count was 5.0 with a differential
+of 22 polys and 0 bands.  His platelets was 229,000.
+Follow-up CBC showed a white count of 4.2 with a differential
+of 20 polys and 0 bands, platelets of 184,000.  His blood
+cultures did remain negative.
+
+Neurological status:  [**Doctor Last Name 79**] showed rare spontaneous movement.
+He was treated with Fentanyl for pain and sedation.
+
+He experienced a progressive and then acute decompensation in
+his cardiac and respiratory activity with immediate cardiac
+arrest despite ongoing maximal support.  He was pronounced
+dead at 05:20 by Dr. [**First Name (STitle) **].  His parents were notified and
+updated throughout his NICU stay of his medical status and
+increase in support needs.  The infant was baptized.  The
+parents and extended family members came and spent time in
+the unit after he expired.  The parents were given
+photographs of the infant.
+
+The family declined a postmortem examination.
+
+DISCHARGE DIAGNOSES:
+1. Extreme prematurity at 25 weeks gestation.
+2. Respiratory distress syndrome.
+3. Respiratory failure.
+4. Presumed sepsis.
+5. Hypotension.
+6. Presumed patent ductus arteriosus.
+7. Status post hypoglycemia.
+
+
+
+                            [**First Name8 (NamePattern2) 47**] [**Name8 (MD) **], M.D.  [**MD Number 49**]
+
+Dictated By:[**Last Name (NamePattern1) 335**]
+MEDQUIST36
+
+D:  [**3033-8-5**]  02:45
+T:  [**3033-8-5**]  04:22
+JOB#:  [**Job Number 3470**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 47**] [**Name (STitle) **]
+ on: MON [**3033-8-5**] 10:00 AM
+(End of Report)
+
+
+",,
+14910,4781,,,3033-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-3**] 6:41 PM
+     BABYGRAM (CHEST & ABDOMEN) PORT                                 Clip # [**Clip Number (Radiology) 2714**]
+     Reason: s/p line placement
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity @ 25 wks GA
+     REASON FOR THIS EXAMINATION:
+      s/p line placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Infant with prematurity.
+     
+     A radiograph performed at 18:30 compared to one hour prior demonstrates that
+     the new UAC catheter tip terminates at the level of T7-8.  Two UVC catheters
+     are present: one in the upper right atrium and the other overlies the main
+     the left atrium. Diffuse bilateral ground glass opacities are present with
+     improved aeration of the left lower lobe. There is an overall paucity of bowel
+     gas. The patient is intubated with the endotracheal tube in good position.
+
+",,
+14910,4781,,,3033-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-3**] 5:43 PM
+     BABYGRAM (CHEST & ABDOMEN) PORT                                 Clip # [**Clip Number (Radiology) 2713**]
+     Reason: s/p uac/uvc placement and intubation
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity @ 25 wks GA
+     REASON FOR THIS EXAMINATION:
+      s/p uac/uvc placement and intubation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Prematurity.  Please assess line placement.
+     
+     There are no prior studies for comparison.
+     
+     The UAC catheter tip terminates at T7-8.  The UVC catheter tip is coiled with
+     a hairpin turn at the level of the IVC and the terminis of the catheter likely
+     in the IVC, just above the bifurcation.  The endotracheal tube is in good
+     position.  There are diffuse bilateral ground-glass opacities and mild
+     cardiomegaly.  An overall paucity of bowel gas is noted.
+
+",,
+14910,4781,,,3033-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-3**] 10:37 PM
+     BABYGRAM (CHEST & ABDOMEN) PORT                                 Clip # [**Clip Number (Radiology) 2715**]
+     Reason: check placementof uac/uvc and ettt
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity @ 25 wks GA
+     REASON FOR THIS EXAMINATION:
+      check placementof uac/uvc and ettt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Please assess line placement.
+     
+     Compared to an examination earlier today, one of the UVC catheters has been
+     removed. The UAC catheter terminates at the level of T7/8. The UVC catheter
+     tip terminates at the right atrium. Mild diffuse ground glass opacities are
+     stable. There is a paucity of bowel gas. ETT is in good position.
+
+",,
+14910,4781,18527,0,3033-08-03 19:08:00 EST,3033-08-03 19:48:00 EST,4548,"N",75,"Nursing/Other","Neonatology Attending Admission Note","
+Neonatology Attending Admission Note
+
+Infant is a 25 1/7wk, 650 gm male newborn A of twins born to a 32 y.o. G4P0 mother. 
+
+Maternal/prenatal history:
+ - EDC [**3033-11-16**]
+ - serologies: O+, antibody negative, HBsAg negative, RPR NR, Rubella immune, GBS unknown
+ - Mono/di IVF gestation complicated by twin-to-twin transfusion syndrome (TTTS)
+ - s/p laser ablation (of vessels) attempt last week, did not appear to be effective. Several amniocentesis reductions of polyhydramnios twin (A) also done .
+ - PTL with contractions despite magnesium. ROM this am at 4 cm dilation, progressive labor and proceeded to vaginal delivery.
+
+Maternal medical history:
+ - SAB x 3
+ - asthma, maintained on inhalers
+ - h/o HSV
+ - h/o abnormal cervix and cone biopsy
+
+Neonatology present at delivery.  Twin A emerged flexed, good color, spont activity. Dried, bulb suctioned, +weak cry. Gave PPV ventilation and proceeded with intubation with good response as shown by improving color and activity.  Infant wrapped, shown to parents and taken to the NICU. 
+
+Note: Twin B with early demise in delivery room despite resuscitation efforts.
+
+Exam: Complete admit exam notes recorded on ""Physician [**Name9 (PRE) **] Examination [**Name9 (PRE) **]"".  
+VS notable for mean BP<29, received fluid bolus x 2 then begun on dopamine infusion
+
+Labs:
+CXR - good lung expansion, mild RDS, ETT in good position, UAC in good position, initial UV attempt unsuccessful, second attempt able to pass liver, will need to be readjusted though.
+
+CBC, bld cx drawn - results pending
+
+Initial d/s < 50, has received 4 D10 bolus in addition to D5w IVFs.
+
+Impression:
+1.  Extremely premature male newborn
+2.  Respiratory distress syndrome
+3.  Hypotension
+4.  Hypoglycemia
+5.  r/o sepsis
+6.  occipital skin tear
+
+Plan:
+Respiratory: Currently on 17/5 x 25, ~30% FiO2 with acceptable blood gases. Will con't to adjust vent support as needed and give additional surfactant doses as needed. Monitor blood gases and CXR.
+
+Cardiac: Additional fluid boluses and vasopressors as needed. Will try to maintain mean BPs around 30.  Monitor for development of PDA.
+
+FEN: NPO. Maintenance IVFs at 120 cc/k/day. Monitor daily weights, urine outputs and metabolic issues (lytes, glucose).  Adjust dextrose infusion as needed, will maintain d/s > 50. 
+
+ID: r/o sepsis given prematurity, premature ROM, multiple amniocentesis. check CBC w/ blood cx. Begin broad spectrum abx. 
+
+Neuro:  Will need early HUS screening and qualifies for ophthalmalogic screening later in NICU course.
+
+Derm: For occipital tear will clean, place steristrips and apply bacitracin. Monitor healing process.
+
+Social: Both parents involved. Will provide SW support as needed given extreme prematurity of twin A ([**Doctor Last Name **]) and early demise of twin B ([**Doctor First Name **]).
+
+Pedi: parents undecided
+OB: Dr. [**Last Name (STitle) 1323**], delivered by Dr. [**Last Name (STitle) 1475**]
+
+Have updated parents regarding current clinical status and anticipated care.
+",,
+14910,,18527,0,3033-08-04 04:31:00 EST,3033-08-04 04:50:00 EST,4548,"N",75,"Nursing/Other","Neonatology Attending Note","
+Neonatology Attending Note
+Over the late evening/early morning [**Doctor Last Name **] required increasing respiratory and cardiac support.  
+
+Resp: [**Doctor Last Name **] experienced multiple, prolonged desaturations requiring him to be taken off the ventilator and hand-bagged.  Various ventilator strategies were employed (CV and HFV) each leading to increasing mean airway pressure to support adequate saturations.  CXRs revealed the ETT to be in appropriate position, and no acute changes to the pulmonary lung fields. Blood gases were followed which initially showed a respiratory acidosis and then a metabolic process. Both situations were addressed, the latter with bicarbonate infusion.  Two doses of surfactant were given.  
+
+Cardiac: Increasing cardiac support was required to maintain [**Doctor Last Name 800**] blood pressure. Several fluid volume boluses were given followed by increasing vasopressor support of dopamine and dobutamine.  A loud murmur was heard over the left sternal border and Indocin was begun for a presumed PDA.  After reaching maximal support with vasopressors, HCN was also begun.  
+
+FEN: Maintenance IVFs were continued throughout with correction of hypoglycemia and metabolic acidosis.  
+
+ID: Broad spectrum abx were being given for potential infection.  
+
+Neuro: Fentanyl was given for pain/sedation.
+
+Acutely [**Doctor Last Name **] experienced a decompensation in cardiac and respiratory activity with immediate cardiac arrest despite ongoing maximal support.  Time of death 05:20.
+
+The parents were notified and updated throughout the evening of [**Doctor Last Name 800**] medical status and increasing support needs.  [**Doctor Last Name 800**] parents came to the unit soon after hearing of his passing to hold him.  [**Doctor Last Name **] was baptized earlier and the parents did not want us to notify others for them at this time.  
+",,
+14910,,18527,0,3033-08-04 04:44:00 EST,3033-08-04 05:00:00 EST,4581,"N",75,"Nursing/Other",,"
+
+NPN
+Infant had a very difficult night with multiple ventilatory changes attempted.  Infant was initially on conventional--HIFI--back to conventional--numerous times with hand bagging at 100% throughout to keep sats 86-90.  This was a struggle the entire shift.  Infant received his second dose of Survanta; 4 NS boluses; and three doses of Na Bicarb.  Please see flow sheet for blood gas results.  Infant's BP was also very difficult to stabalize requiring increasing vasopressor support of dopamine and dobutamine.  A loud mumer was noted earlier in shift and Indocin was given for a presumed PDA.
+",,
+14910,,18527,0,3033-08-04 05:09:00 EST,3033-08-04 05:28:00 EST,4722,"N",75,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+Baby [**Known patient lastname **] received critically ill on vent settings 17/5 rate 28 FiO2 50%. 2nd dose of survanta given a 2150 hrs. CxR taken reveals ETT in good position, and no acute changes to the pulmonary lung fields. Through the night baby required increased vent support.  Various ventilator strategies were employed. Conventional ventilation, HiFi vent, and frequent hand bagging with 100% O2 for prolonged desaturations. Baby received several fluid boluses for BP. Started on dopamine and dobutamine. Fentanyl given for sedation/pain. Bicarb given for acidosis. At 0515 hrs baby experienced a decompensation in cardiac and respiratory acitivty with immediate cardiac arrest despite ongoing maximal support. Time of death 0520 hrs.
+",,
+14910,,18527,0,3033-08-04 05:18:00 EST,3033-08-04 05:36:00 EST,4581,"N",75,"Nursing/Other",,"
+
+NPN continued-
+Infant also received hydrocortisone x1.  Infant received 6cc of PRBC.  Infant continued to receive maintenance IVFs as ordered.  Infant had DS issues that were corrected with D10W bolus x1.  Infant received Fentanyls x1 for pain/sedation.  Infant had very little spontaneous movement throught night(noted to move his leg/foot a few times).  Infant noted to experience a decompensation with a desat and bradycardia to 50s that progressed to cardia arrest even though maximal support continued.  Dr. [**First Name (STitle) 131**] called time of death 0520.  Parents were notified and came up to be with infant.  Parents have been holding infant since.  All tubes were removed from infant and he was swaddled.  Parents have called their family and are awaiting their arrival.  Infant had been baptized yesterday. 
+
+",,
+14910,,18527,0,3033-08-04 08:48:00 EST,3033-08-04 09:30:00 EST,4539,"N",75,"Nursing/Other",,"
+
+
+
+LATE ENTRY NURSING ADMISSION NOTE
+
+Arrived in OR A subsequent to infant's delivery. Infant was
+on warmer and pale. Responded to stimulation, resps
+ineffective. Bag and mask ventilation inititated and HR
+noted to be <80 and not rising. Intubated with 2.5Fr oral
+ETT by Dr. [**First Name (STitle) 131**] and heart rate improved steadily with ambu
+bagging. Infant's eyes fused. 
+
+Small bleeding noted proximal to the [**Doctor Last Name **] clamp on
+umbilical cord. New clamp attached more proximal to infant's
+abdomen and no further bleeding noted. 
+
+Infant transported to NICU without incident after being seen
+by parents in delivery room. Placed on heated warmer and on
+Oximeter. Initial O2 sat=80. Vent settings adjusted to 18/5,
+rate 30, 100% FiO2. Subsequent abg as per flowsheet. Some
+weaning of vent rate accomplished. 
+
+Temp 93.9 rectally upon admission. Placed under warming
+lights and warm water gloves placed surrounding infant's
+skin protected with layers of blanket. Temp slowly increased
+over the next hour to 95.8 and lights and gloves weaned as
+temp approached normal limits. 
+
+UAC and DUVC placed by NNP Rivers. Babygram done and UVC
+removed. PIV inserted for maintenance glucose infusion until
+another DUVC line successfully placed and position verified
+by Xray. Infant tolerated procedures without decompensation.
+
+
+Initial dextrostix=30. Several boluses of D10(2cc/kg) given
+and last dextrostix=49. 4th bolus of dextrose given. TF
+120cc/kg. Infant has not voided or passed stool since birth.
+
+No murmur appreciated. baseline HR 112-130. Cap refill
+delayed, however mean BP 29. Blood out 1.5cc.
+
+Infant has noticeable bruising on caput of head with a 1cm
+laceration of scalp. Bleeding is minimal and DSD applied.
+Also noted is very small, superficial scratch of right
+dorsum of foot. Parents made aware of the above.
+
+Infant baptized by Catholic priest.
+
+Parents in to visit. Pictures taken. Gave infant's hat and
+diaper to parents. Extended family members in to visit. Mom
+is in room 620. 
+
+
+",,
+14910,,18527,0,3033-08-04 08:48:00 EST,3033-08-04 09:30:00 EST,4539,"N",75,"Nursing/Other",,"
+
+
+
+LATE ENTRY NURSING ADMISSION NOTE
+
+Arrived in OR A subsequent to infant's delivery. Infant was
+on warmer and pale. Responded to stimulation, resps
+ineffective. Bag and mask ventilation inititated and HR
+noted to be <80 and not rising. Intubated with 2.5Fr oral
+ETT by Dr. [**First Name (STitle) 131**] and heart rate improved steadily with ambu
+bagging. Infant's eyes fused. 
+
+Small bleeding noted proximal to the [**Doctor Last Name **] clamp on
+umbilical cord. New clamp attached more proximal to infant's
+abdomen and no further bleeding noted. 
+
+Infant transported to NICU without incident after being seen
+by parents in delivery room. Placed on heated warmer and on
+Oximeter. Initial O2 sat=80. Vent settings adjusted to 18/5,
+rate 30, 100% FiO2. Subsequent abg as per flowsheet. Some
+weaning of vent rate accomplished. 
+
+Temp 93.9 rectally upon admission. Placed under warming
+lights and warm water gloves placed surrounding infant's
+skin protected with layers of blanket. Temp slowly increased
+over the next hour to 95.8 and lights and gloves weaned as
+temp approached normal limits. 
+
+UAC and DUVC placed by NNP Rivers. Babygram done and UVC
+removed. PIV inserted for maintenance glucose infusion until
+another DUVC line successfully placed and position verified
+by Xray. Infant tolerated procedures without decompensation.
+
+
+Initial dextrostix=30. Several boluses of D10(2cc/kg) given
+and last dextrostix=49. 4th bolus of dextrose given. TF
+120cc/kg. Infant has not voided or passed stool since birth.
+
+No murmur appreciated. baseline HR 112-130. Cap refill
+delayed, however mean BP 29. Blood out 1.5cc.
+
+Infant has noticeable bruising on caput of head with a 1cm
+laceration of scalp. Bleeding is minimal and DSD applied.
+Also noted is very small, superficial scratch of right
+dorsum of foot. Parents made aware of the above.
+
+Infant baptized by Catholic priest.
+
+Parents in to visit. Pictures taken. Gave infant's hat and
+diaper to parents. Extended family members in to visit. Mom
+is in room 620. 
+
+
+",,

@@ -1,0 +1,1102 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14126,27673,,,3426-06-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3426-6-14**]              Discharge Date:   [**3426-6-23**]
+ 
+Date of Birth:  [**3338-6-9**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amiodarone / Quinidine/Quinine
+ 
+Attending:[**First Name3 (LF) 614**] 
+Chief Complaint:
+CC:[**CC Contact Info 10167**] 
+Major Surgical or Invasive Procedure:
+hemodialysis
+
+ 
+History of Present Illness:
+HPI: This is a 88My.o male with h/o of afib on comadin, CHF, 
+OSA, and advance prostate CA s/p TURP, h/o urosepsis sp b/l 
+stents, seen in clinic c/foul smelling urine today.  
+.  
+Patient describes that over the last 2 days he has been feeeling 
+more tired, lack of energy and his urine is coming out ""milky 
+and foul smelling"". He was given two doses of TMP/SMX or ?Cipro 
+last night and one this morning.  
+.  
+He denies any fever, chills, nausea, vomit, diaphroesis, 
+shortness of breath, chest pain, back pain, diarrhea, aabdominal 
+pain, but reported 10 lb wt loss in the past 3 months due to 
+loss of appetite from lost of taste budd.  
+When asked about his bruise on his left forehead, he said that 
+he bumped his head on Sunday with the refrigerator. He did not 
+lose any conciousness. Denies any headachees, blurred vision or 
+unsteady gait associated after the episode.  
+.  
+In ED, hemodynamically stable, has +UA, received Levoflox, and 
+cefepime.
+ 
+Past Medical History:
+PMH -
+- OSA
+- History of sinus infections.
+- Prostate CA s/p XRT/resection 
+- DM2
+- A. fib on Coumadin  
+- Right cataract.
+- Left retinal tear.  
+- Macular degeneration status post laser treatment.  
+- Gout.  
+- [**First Name8 (NamePattern2) 1148**] [**Last Name (NamePattern1) **] tear.
+- Squamous cell carcinoma of ear followed by derm
+- IBS w/chronic diarrhea for years/lactulose intolerance
+- myelodysplasia
+. 
+PSH - 
+- Spontaneous pneumothorax 15 years ago.  
+- s/p cholecystectomy
+- s/p left inguinal hernia repair,
+- s/p hemorrhoidectomy
+- Prostate CA s/p TURP and XRT s/p urethral stricture 
+- back surgery
+
+ 
+Social History:
+SH - Retired psychiatrist. Lives at home with his wife. Quit 
+tobacco many years ago. No EtOH, no illicits.
+
+ 
+Family History:
+FH - NC
+ 
+Physical Exam:
+Physical Exam:  
+Vitals: T 96.9 P: 67 BP 146/66 RR 17 Sats 96%RA  
+General: Awake, alert, NAD.  
+HEENT: dry oral mucose. echimosis on his left forehead.  
+Neck: supple, no JVD, left side adenopathy x 2, small, non 
+tender, mobile.  
+Pulmonary: Lungs CTA bilaterally without R/R/W  
+Cardiac: RRR, nl. S1S2, no M/R/G noted  
+Abdomen: BS+, soft, obese non tender, mildly distended. Liver 
+1cm below costal margin.  
+Extremities: asymetric bilateral LLE edema 2+.  
+Neurologic:  
+-mental status: Alert, oriented x 3. CNII-XII intact. Movilizing 
+all extremities.  
+ 
+Pertinent Results:
+Laboratory Data: see below  
+EKG: afib, with VR 70x, left axis, no st changes, difuse 
+flattenin t waves on v4-v5-v6. QTC 460  
+.  
+Radiologic Data:  
+Renal US: pending
+.  
+
+[**3426-6-14**] 05:40PM BLOOD WBC-12.1* RBC-4.64 Hgb-12.5* Hct-40.4 
+MCV-87 MCH-26.9* MCHC-30.8* RDW-17.3* Plt Ct-258
+[**3426-6-23**] 04:21AM BLOOD WBC-19.7* RBC-3.46* Hgb-9.9* Hct-29.9* 
+MCV-87 MCH-28.6 MCHC-33.0 RDW-18.5* Plt Ct-93*
+[**3426-6-14**] 05:40PM BLOOD PT-74.7* PTT-42.8* INR(PT)-9.7*
+[**3426-6-14**] 05:40PM BLOOD Plt Smr-NORMAL Plt Ct-258
+[**3426-6-23**] 04:21AM BLOOD PT-23.7* PTT-29.7 INR(PT)-2.4*
+[**3426-6-23**] 04:21AM BLOOD Plt Smr-LOW Plt Ct-93*
+[**3426-6-14**] 05:40PM BLOOD Glucose-304* UreaN-59* Creat-2.4* Na-136 
+K-4.2 Cl-101 HCO3-20* AnGap-19
+[**3426-6-22**] 05:41AM BLOOD Glucose-89 UreaN-63* Creat-3.7* Na-125* 
+K-6.6* Cl-94* HCO3-10* AnGap-28*
+[**3426-6-23**] 04:21AM BLOOD Glucose-116* UreaN-60* Creat-3.6* Na-130* 
+K-5.2* Cl-91* HCO3-13* AnGap-31*
+[**3426-6-16**] 06:45AM BLOOD ALT-32 AST-57* LD(LDH)-529* AlkPhos-312* 
+TotBili-1.0
+[**3426-6-23**] 04:21AM BLOOD ALT-476* AST-PND LD(LDH)-PND AlkPhos-573* 
+TotBili-1.9*
+[**3426-6-23**] 04:21AM BLOOD Albumin-2.2* Calcium-7.2* Phos-8.5* 
+Mg-2.0
+[**3426-6-16**] 06:45AM BLOOD PSA-<0.1
+[**3426-6-22**] 12:51PM BLOOD Type-ART pO2-81* pCO2-25* pH-7.04* 
+calHCO3-7* Base XS--23
+[**3426-6-22**] 07:11PM BLOOD Type-[**Last Name (un) **] Temp-35.0 O2 Flow-3 pO2-37* 
+pCO2-28* pH-7.20* calHCO3-11* Base XS--16 Intubat-NOT INTUBA
+ 
+Brief Hospital Course:
+87 y/o male with advanced prostate CA s/p TURP, h/o bilateral 
+hydronephrosis due to tumor at trigone s/p post stents (Right), 
+OSA, afib on coumadin who presents with UTI and ARF on CRI, and 
+elevated INR.  Given worsening renal failure secondary to 
+underlying metatstaic malingnancy and poor prognosis, Pt's wife 
+and family decided to concentrate on comfort and avoid 
+aggressive measures.  After several sessions of hemodialysis, 
+Family chose to further withdrawl care. Pt pronounced dead at 
+15:36 on [**3426-6-23**]. Family present in the room. Autopsy deferred
+.
+#. Acute on chronic renal failure - Patient has a baseline Cr of 
+1.6 with an elevation in BUN/Cr to 59/2.4. Pt with progressive 
+renal failure [**3-9**] to underlying malignancy and associated 
+obstruction.  Pt initiated on Hemodialysis which he tolerated 
+well.  Discussed with urology who recomended revision of uretral 
+stents which was not pursued as family wished to stress comfort. 
+
+.  
+# UTI: u/a compatible with urinary tract infection. Given prior 
+history of VRE and gram negative bacteremia (pseudomona) in 
+recent past, Pt was covered broadly. 
+.  
+#. Anion Gap Acidosis: Mixed lactic acidosis with acute renal 
+failure.  BG elevated on presentation, but urine ketones 
+negative.  Pt started on NaHCO3 and HD with little improvement 
+in acidosis.  Worsening lactic acidosis [**3-9**] tumor necrosis
+
+ 
+Medications on Admission:
+.  
+Medications:  
+Lasix 60 mg a day, Glipizide ER 10 mg, Lipitor 10 mg, Casodex 50 
+ 
+mg, Allopurinol 100 mg, potassium 10 mEq, Verapamil 40 mg,  
+Prilosec OTC 20 mg, vitamin B-12, Coumadin, 1-2.5 mg as dosed by 
+ 
+his INR, folic acid 1 mg a day, cholestyramine 1 pack daily,  
+ferrous sulfate, nitrofurantoin which he just finished as I  
+mentioned, and Ambien XL 6.25 mg.
+ 
+Discharge Medications:
+na
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+renal failure
+hyperkalemia
+
+ 
+Discharge Condition:
+deceased
+
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+NA
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 617**] MD [**MD Number 618**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 2010**] [**Last Name (NamePattern1) 5006**] MD [**MD Number 5007**] [**3426-6-23**] @ 1912
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: SAT [**3426-7-15**] 3:20 PM
+(End of Report)
+
+
+",,
+14126,27673,,,3426-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-14**] 10:06 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 6584**]
+     Reason: PROSTATE CA
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with history of prostate cancer s/p turp, h/o hydronephrosis 
+      s/p stent, with Acute on [**Last Name (un) 425**] renal insufficiency
+     REASON FOR THIS EXAMINATION:
+      r/o hydronephrosis                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Prostate cancer, status post TURP, history of hydronephrosis,
+     status post stent, with acute-on-chronic renal insufficiency.  Evaluate for
+     hydronephrosis.
+     
+     COMPARISON:  [**3426-3-1**].  Again seen is hydronephrosis and hydroureter
+     on the right side, not significantly changed from prior study.  Also again
+     seen is moderate hydronephrosis of the left kidney, not significantly changed
+     from prior study.  The right kidney measures 9.4 cm.  The left kidney measures
+     9.6 cm.  A stent is noted in the right ureter terminating within the bladder.
+     There is evidence of heterogeneous material within the bladder.  There is
+     also evidence of impinging mass, likely prostate.
+     
+     IMPRESSION:  Relatively unchanged bilateral hydronephrosis.  Stent seen within
+     the right ureter terminating within the bladder.  Heterogeneous material
+     within the bladder consistent with debris.  Likely prostate impinging on
+     bladder.
+     
+     Discussed with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 6585**] at 9:30am [**3426-6-15**], who reports patient has
+     known prostate cancer invasion into bladder.
+
+",,
+14126,27673,17564,,3426-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-15**] 3:04 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 6586**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: please eval bladder mass and other etiologies for persistent
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with advanced prostate CA s/p TURP, hydronephrosis from 
+      infiltrative tumor in bladder base admitted for UTI. Please eval for mass 
+      within bladder as seen in renal U/S [**6-14**].
+     REASON FOR THIS EXAMINATION:
+      please eval bladder mass and other etiologies for persistent hydronephrosis     
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  88-year-old man with advanced prostate cancer and bladder
+     cancer.  Admitted for urinary tract infection.  Also status post bilateral
+     ureteral stent placements.
+     
+     COMPARISONS:  Ultrasound from [**3425-6-14**].  No prior CT of the abdomen and
+     pelvis.
+     
+     TECHNIQUE:  Axial CT images of the abdomen and pelvis were obtained without
+     intravenous contrast, followed by CT imaging of the abdomen and pelvis with
+     oral and intravenous contrast.  Sagittal and coronal reconstructions were also
+     performed.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  Limited comparison is also
+     made to a chest CT from [**3426-3-14**].  There are residual small bilateral
+     pleural effusions, but improved since the prior study.  There is residual
+     ground-glass opacity and atelectasis and/or scarring at the bases.  The liver
+     is diffusely heterogeneous, consistent with innumerable small hypoattenuating
+     metastases.  This appearance is new in the visualized portions of the liver
+     since [**3426-3-14**].  There is also a new small amount of ascites about the
+     liver.  The patient is status post cholecystectomy.  There is extensive
+     calcification of the splenic artery.  There is again a small 4-mm
+     calcification in the spleen, probably a granuloma or perhaps a vascular
+     calcification as well.  The pancreas appears normal.  There are similar
+     bilateral adrenal masses, including a nodule-containing fat-like density of 19
+     mm in diameter in the left adrenal.  This lesion is most likely an adrenal
+     adenoma.  A nodule in the right adrenal of 28 x 36 mm in diameter is
+     indeterminate.  The kidneys are relatively small, and the left kidney exhibits
+     a 32-mm diameter simple cyst.  There are bilateral pigtail ureteral stents
+     extending from the renal pelvises bilaterally into the bladder.  There is
+     diffuse ureteral thickening particularly in the calices.  Although limited by
+     poor opacification of the bowel, the stomach, small and large bowel appear
+     unremarkable without obstruction.  There is extensive retroperitoneal
+     lymphadenopathy consistent with metastatic tumor spread and this appearance is
+     new since the prior chest CT.  There is diffuse edema in the subcutaneous
+     tissues and mesentery consistent with anasarca.
+     
+                                                                 (Over)
+
+     DATE: [**3426-6-15**] 3:04 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 6586**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: please eval bladder mass and other etiologies for persistent
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT OF THE PELVIS WITH AND WITHOUT IV CONTRAST:  There is a Foley catheter and
+     bilateral ureteral stents terminating in bladder which contains fluid and air.
+     It shows diffuse irregular wall thickening up to 18 mm in thickness consistent
+     with tumor spread.  There is infiltrate of soft tissue throughout the lower
+     pelvis up to approximately 7.4 x 5.5 cm in axial dimensions, with an adjacent
+     cystic area of 3.5 cm in diameter which could represent necrosis.  The soft
+     tissue density abuts and probably involves the rectal wall and there is
+     additional soft tissue extending about the right side of the rectum in the
+     adjacent fat.  There is also a poorly defined large left iliac mass, a likely
+     pelvic side wall lymph node or direct tumor extension.  There is no free
+     fluid.  There is also marked left inguinal lymphadenopathy including a node as
+     large as 23 x 22 mm.  There is a right inguinal hernia containing fat and
+     fluid.
+     
+     Mild left-sided hydronephrosis is unchanged.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  New appearance of extensive metastatic disease, including numerous liver
+     metastases, extensive retroperitoneal lymphadenopathy.
+     2.  Large mass at the base of the bladder with diffuse bladder wall
+     thickening, and likely involvement of the rectum posteriorly.
+     3.  Small amount of new ascites.
+     4.  Smaller pleural effusions.
+     5.  Left inguinal lymphadenopathy.
+     6.  Bilateral ureteral stents, with ureteral thickening, which may relate to
+     tumor involvement as well.
+                                                                           
+
+",,
+14126,27673,17564,,3426-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-15**] 3:04 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 6586**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: please eval bladder mass and other etiologies for persistent
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with advanced prostate CA s/p TURP, hydronephrosis from 
+      infiltrative tumor in bladder base admitted for UTI. Please eval for mass 
+      within bladder as seen in renal U/S [**6-14**].
+     REASON FOR THIS EXAMINATION:
+      please eval bladder mass and other etiologies for persistent hydronephrosis     
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  88-year-old man with advanced prostate cancer and bladder
+     cancer.  Admitted for urinary tract infection.  Also status post bilateral
+     ureteral stent placements.
+     
+     COMPARISONS:  Ultrasound from [**3425-6-14**].  No prior CT of the abdomen and
+     pelvis.
+     
+     TECHNIQUE:  Axial CT images of the abdomen and pelvis were obtained without
+     intravenous contrast, followed by CT imaging of the abdomen and pelvis with
+     oral and intravenous contrast.  Sagittal and coronal reconstructions were also
+     performed.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  Limited comparison is also
+     made to a chest CT from [**3426-3-14**].  There are residual small bilateral
+     pleural effusions, but improved since the prior study.  There is residual
+     ground-glass opacity and atelectasis and/or scarring at the bases.  The liver
+     is diffusely heterogeneous, consistent with innumerable small hypoattenuating
+     metastases.  This appearance is new in the visualized portions of the liver
+     since [**3426-3-14**].  There is also a new small amount of ascites about the
+     liver.  The patient is status post cholecystectomy.  There is extensive
+     calcification of the splenic artery.  There is again a small 4-mm
+     calcification in the spleen, probably a granuloma or perhaps a vascular
+     calcification as well.  The pancreas appears normal.  There are similar
+     bilateral adrenal masses, including a nodule-containing fat-like density of 19
+     mm in diameter in the left adrenal.  This lesion is most likely an adrenal
+     adenoma.  A nodule in the right adrenal of 28 x 36 mm in diameter is
+     indeterminate.  The kidneys are relatively small, and the left kidney exhibits
+     a 32-mm diameter simple cyst.  There are bilateral pigtail ureteral stents
+     extending from the renal pelvises bilaterally into the bladder.  There is
+     diffuse ureteral thickening particularly in the calices.  Although limited by
+     poor opacification of the bowel, the stomach, small and large bowel appear
+     unremarkable without obstruction.  There is extensive retroperitoneal
+     lymphadenopathy consistent with metastatic tumor spread and this appearance is
+     new since the prior chest CT.  There is diffuse edema in the subcutaneous
+     tissues and mesentery consistent with anasarca.
+     
+                                                                 (Over)
+
+     DATE: [**3426-6-15**] 3:04 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 6586**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: please eval bladder mass and other etiologies for persistent
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT OF THE PELVIS WITH AND WITHOUT IV CONTRAST:  There is a Foley catheter and
+     bilateral ureteral stents terminating in bladder which contains fluid and air.
+     It shows diffuse irregular wall thickening up to 18 mm in thickness consistent
+     with tumor spread.  There is infiltrate of soft tissue throughout the lower
+     pelvis up to approximately 7.4 x 5.5 cm in axial dimensions, with an adjacent
+     cystic area of 3.5 cm in diameter which could represent necrosis.  The soft
+     tissue density abuts and probably involves the rectal wall and there is
+     additional soft tissue extending about the right side of the rectum in the
+     adjacent fat.  There is also a poorly defined large left iliac mass, a likely
+     pelvic side wall lymph node or direct tumor extension.  There is no free
+     fluid.  There is also marked left inguinal lymphadenopathy including a node as
+     large as 23 x 22 mm.  There is a right inguinal hernia containing fat and
+     fluid.
+     
+     Mild left-sided hydronephrosis is unchanged.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  New appearance of extensive metastatic disease, including numerous liver
+     metastases, extensive retroperitoneal lymphadenopathy.
+     2.  Large mass at the base of the bladder with diffuse bladder wall
+     thickening, and likely involvement of the rectum posteriorly.
+     3.  Small amount of new ascites.
+     4.  Smaller pleural effusions.
+     5.  Left inguinal lymphadenopathy.
+     6.  Bilateral ureteral stents, with ureteral thickening, which may relate to
+     tumor involvement as well.
+                                                                           
+
+",,
+14126,27673,17564,,3426-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-15**] 3:04 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 6586**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: please eval bladder mass and other etiologies for persistent
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with advanced prostate CA s/p TURP, hydronephrosis from 
+      infiltrative tumor in bladder base admitted for UTI. Please eval for mass 
+      within bladder as seen in renal U/S [**6-14**].
+     REASON FOR THIS EXAMINATION:
+      please eval bladder mass and other etiologies for persistent hydronephrosis     
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  88-year-old man with advanced prostate cancer and bladder
+     cancer.  Admitted for urinary tract infection.  Also status post bilateral
+     ureteral stent placements.
+     
+     COMPARISONS:  Ultrasound from [**3425-6-14**].  No prior CT of the abdomen and
+     pelvis.
+     
+     TECHNIQUE:  Axial CT images of the abdomen and pelvis were obtained without
+     intravenous contrast, followed by CT imaging of the abdomen and pelvis with
+     oral and intravenous contrast.  Sagittal and coronal reconstructions were also
+     performed.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  Limited comparison is also
+     made to a chest CT from [**3426-3-14**].  There are residual small bilateral
+     pleural effusions, but improved since the prior study.  There is residual
+     ground-glass opacity and atelectasis and/or scarring at the bases.  The liver
+     is diffusely heterogeneous, consistent with innumerable small hypoattenuating
+     metastases.  This appearance is new in the visualized portions of the liver
+     since [**3426-3-14**].  There is also a new small amount of ascites about the
+     liver.  The patient is status post cholecystectomy.  There is extensive
+     calcification of the splenic artery.  There is again a small 4-mm
+     calcification in the spleen, probably a granuloma or perhaps a vascular
+     calcification as well.  The pancreas appears normal.  There are similar
+     bilateral adrenal masses, including a nodule-containing fat-like density of 19
+     mm in diameter in the left adrenal.  This lesion is most likely an adrenal
+     adenoma.  A nodule in the right adrenal of 28 x 36 mm in diameter is
+     indeterminate.  The kidneys are relatively small, and the left kidney exhibits
+     a 32-mm diameter simple cyst.  There are bilateral pigtail ureteral stents
+     extending from the renal pelvises bilaterally into the bladder.  There is
+     diffuse ureteral thickening particularly in the calices.  Although limited by
+     poor opacification of the bowel, the stomach, small and large bowel appear
+     unremarkable without obstruction.  There is extensive retroperitoneal
+     lymphadenopathy consistent with metastatic tumor spread and this appearance is
+     new since the prior chest CT.  There is diffuse edema in the subcutaneous
+     tissues and mesentery consistent with anasarca.
+     
+                                                                 (Over)
+
+     DATE: [**3426-6-15**] 3:04 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 6586**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: please eval bladder mass and other etiologies for persistent
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     Field of view: 38 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT OF THE PELVIS WITH AND WITHOUT IV CONTRAST:  There is a Foley catheter and
+     bilateral ureteral stents terminating in bladder which contains fluid and air.
+     It shows diffuse irregular wall thickening up to 18 mm in thickness consistent
+     with tumor spread.  There is infiltrate of soft tissue throughout the lower
+     pelvis up to approximately 7.4 x 5.5 cm in axial dimensions, with an adjacent
+     cystic area of 3.5 cm in diameter which could represent necrosis.  The soft
+     tissue density abuts and probably involves the rectal wall and there is
+     additional soft tissue extending about the right side of the rectum in the
+     adjacent fat.  There is also a poorly defined large left iliac mass, a likely
+     pelvic side wall lymph node or direct tumor extension.  There is no free
+     fluid.  There is also marked left inguinal lymphadenopathy including a node as
+     large as 23 x 22 mm.  There is a right inguinal hernia containing fat and
+     fluid.
+     
+     Mild left-sided hydronephrosis is unchanged.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  New appearance of extensive metastatic disease, including numerous liver
+     metastases, extensive retroperitoneal lymphadenopathy.
+     2.  Large mass at the base of the bladder with diffuse bladder wall
+     thickening, and likely involvement of the rectum posteriorly.
+     3.  Small amount of new ascites.
+     4.  Smaller pleural effusions.
+     5.  Left inguinal lymphadenopathy.
+     6.  Bilateral ureteral stents, with ureteral thickening, which may relate to
+     tumor involvement as well.
+                                                                           
+
+",,
+14126,27673,17564,0,3426-06-15 03:13:00 EST,3426-06-15 03:21:00 EST,977,"N",69,"Nursing/Other","MICU ADMIT NOTE","
+MICU ADMIT NOTE
+MR.[**Known patient lastname 5738**] IS AN 88 Y/O MALE WHO WAS BROUGHT TO THE ER FROM THE UROLOGY CLINIC DUE TO INCREASE WEAKNESS AND FOUL/MILKY URINE.  SEE FHP FOR PMH. PT. ALSO HAS A BRUISE ON HIS LEFT FOREHEAD HE STATED THAT HE BUMPED HIS HEAD ONTHE REFRIGERATOR AT HOME BUT DID NOT LOOSE CONSCIOUSNESS.
+
+NEURO: ALERT AND ORIENTATED X3, VERY SHARP, INTACT 88 Y/O MAN.
+
+RESP: HX. OF OSA ON CPAP AT HOME IS ON CPAP NOW WITH OUR EQUIPMENT. PT. LEFT HIS EQUIPMENT AT HOME.  SEE CAREVUE FOR CPAP SETTINGS.
+
+CV: HX. OF A-FIB TAKES COUMADIN, INR 9.7 COUMADIN IS ON HOLD FOR NOW. HR 60-70'S STABLE.
+
+GI: ABD. SOFTLY DISTENDED + BS.
+
+GU: FOLEY IN PLACE DRAINING MILKY COLORED URINE.  
+
+SOCIAL: PT. IS A RETIRED PYCHIATRIST.LIVES AT HOME WITH HIS 80 Y/O WIFE.
+
+PLAN:CONTINUE TO MONITOR URINE OUTPUT, CULTURES, ABX.
+
+",,
+14126,27673,17564,0,3426-06-15 05:25:00 EST,3426-06-15 05:28:00 EST,1341,"N",69,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt received from ED and placed on nasal CPAP 8cmH2O with 3 lpm O2 titrated in.  Did not know settings, so we tried a few and settled on 8.  Pt wears at home.  Tolerated well during the noc.  Nasal mask is a medium.
+
+                               [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT
+",,
+14126,27673,17564,0,3426-06-15 17:20:00 EST,3426-06-15 17:30:00 EST,7212,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Neuro: Pt. alert and orineted x3. Cooperative and pleasant with cae. MAE. 
+
+CV: VSS. +2 bil lower ext. edema. K and Mg. repleated today. HR 60's A-fib with rare PVCs. INR 13.6 this AM Vit.K 5 mg PO x1 today. Coags in AM. No s/s of bleeding.
+
+Resp: LSC bil. No cough denies SOB. O2 sat 95-97% on RA.
+
+GI: Abd soft non tender, BS+. On [**Doctor First Name 196**] diet and tolerating well. BS<150. No BM this shift. Tolerating PO fluids well. FS QID
+
+GU: Foley cath in place and draining thick brown urine. CT of abd and pelvis done today, results pending. Pt. on Cefipime and Zyvox. Hx. of VRE in urine. Pt. has bil urethral stents and urology consuted to guide infection treatment. BUN and creat improving.
+
+Skin: Large bruise to L forehead and L hip/buttock area, otherwise skin intact.
+
+Social: Pt.is a full code. Pt.'s wife visited today and updated on plan of care. 
+
+Plan: Pt. called out to medical unit awaiting bed. Transfer note compleated. Team will write transfer orderes when Pt. has a bed.
+
+
+
+
+",,
+14126,27673,17564,0,3426-06-16 03:44:00 EST,3426-06-16 03:51:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900- 0700
+
+NEURO: AXOX3, PLEASANT AND COOPERTIVE GENTLEMAN. C/O INSOMNIA. GIVEN 50MG TRAZADONE AND 5 MG AMBIEN W/ POOR RESULTS. DID NOT FALL ASLEPP UNTIL ~ 0400.STATES THIS HAS BEEN A PROBLEM OVER THE LAST FEW WEEKS.
+
+RESP: LCTA , REFUSED CPAP OVER NOC, ON 2 L NC FOR [**Doctor Last Name **], MAINT SATS 95-98%.
+
+C/V: A FIB, 60-80'S , BP STABLE.
+
+F/E/N: RECIEVED 1 L NSS OVER NOC, UO ~ 100-150 HR ,BECOMING CLEARER AND LIGHTER IN COLOR. NO STOOL OVER NOC.TOL PO'S.
+
+PLAN: C/O TO FLOOR, TRANSFER WHEN BED AVAILABLE.
+
+
+",,
+14126,27673,17564,0,3426-06-16 05:39:00 EST,3426-06-16 05:40:00 EST,1341,"N",69,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt did not want CPAP during the noc d/t insomnia.  On nasal cannula 2 lpm.  Will try again tonight.
+
+                        [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT
+",,
+14126,27673,,,3426-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-19**] 10:46 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6587**]
+     Reason: eval for bony mets, mass, bleed.                            
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with metastatic prostate Ca.  acute MS change.                  
+     REASON FOR THIS EXAMINATION:
+      eval for bony mets, mass, bleed.                                                
+     CONTRAINDICATIONS for IV CONTRAST:
+      elevated Cr in setting of complex uro hx.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     NON-CONTRAST HEAD CT SCAN
+     
+     HISTORY:  Metastatic prostate cancer.  Acute mental status change.  Evaluate
+     for bony metastases, mass or bleed.
+     
+     TECHNIQUE:  Non-contrast head CT scan.
+     
+     COMPARISON STUDY:  [**3426-2-12**] head CT scan.
+     
+     FINDINGS:  A number of the images are degraded by patient motion.
+     
+     There is no sign of an intracranial hemorrhage.  There is no definite interval
+     appearance of a major vascular territorial infarction.  Multiple chronic
+     lacunar infarcts involving the basal ganglia are again seen.  No overt
+     osteolytic or blastic lesion involves the skull.  However, there has been
+     interval appearance (since the prior January study) of a relatively small area
+     of scalp soft tissue swelling in the left frontal region superior to the
+     lateral ventricles.  Has there been recent trauma to account for this finding?
+     If not, a most unusual subcutaneous neoplastic or inflammatory process needs
+     to be considered.
+     
+     CONCLUSION:  No intracranial hemorrhage.  New left frontal scalp abnormality -
+     see above report.
+
+",,
+14126,27673,,,3426-06-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-20**] 1:04 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 6588**]
+     Reason: evidence of worsening hydronephrosis?                       
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with history of prostate cancer s/p turp, h/o hydronephrosis  
+      s/p stent, now with likely metastatic bladder cancer. [**6-20**], creat increased, 
+      low UOP.
+     REASON FOR THIS EXAMINATION:
+      evidence of worsening hydronephrosis?                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88-year-old with locally advanced prostate and bladder cancer,
+     status post TURP with hydronephrosis on prior study status post bilateral
+     stents, evaluate for worsening hydronephrosis.
+     
+     RENAL ULTRASOUND:  Compared to renal ultrasound of [**3426-6-14**] and CT abdomen and
+     pelvis of [**3426-6-15**].  There has been interval improvement and near resolution of
+     the bilateral hydronephrosis seen on the prior ultrasound. Again noted is an
+     approximately 3 cm simple cyst involving the mid to upper pole of the left
+     kidney.  The left kidney measures approximately 10 cm and the right kidney
+     measures approximately 10 cm.  No focal renal masses nor calculi are seen. The
+     proximal portions of the stent are not well visualized; however, the distal
+     portions of the bilateral internalized stents can be seen within the bladder.
+     There is extensive soft tissue within the expected region of the bladder and
+     prostate, presumably secondary to the extensive metastatic disease better
+     delineated on the prior CT scan.
+     
+     IMPRESSION:
+     1) Interval improvement of bilateral hydronephrosis.
+     2) Extensive soft tissue within and surrounding the bladder, corresponding to
+     the metastatic disease better delineated on the prior CT.
+     3) S/p bilateral internalized ureteral stents, only the distal ends well
+     visualized in this study.
+     4) Left simple renal cyst.
+     
+
+",,
+14126,27673,,,3426-06-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-20**] 7:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6589**]
+     Reason: change in cardiopulm status?                                
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88M with likely metastatic bladder CA, now with ARF                             
+     REASON FOR THIS EXAMINATION:
+      change in cardiopulm status?                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old male with likely metastatic bladder carcinoma, now with
+     ARF.  Change in cardiopulmonary status.
+     
+     AP SEMI-UPRIGHT PORTABLE CHEST X-RAY:  As on [**3426-3-13**], the	re is
+     cardiomegaly.  A left-sided pleural opacity is demonstrated again, which may
+     be partly related to chronic pleural thickening seen on older radiographs and
+     possibly additional fluid.  There is lateralization of the right hemidiaphragm
+     and haziness over the right lower hemithorax compatible with a right
+     subpulmonic and partially layering effusion.  There is pulmonary
+     redistribution, indistinctness of the central pulmonary vessels, compatible
+     with congestion.
+     
+     IMPRESSION:  Cardiomegaly with signs of congestion and/or fluid overload. 
+     Left chronic pleural thickening with possible superimposed effusion.  Right
+     pleural effusion.
+
+",,
+14126,27673,,,3426-06-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14126,27673,17565,,3426-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-21**] 12:50 PM
+     TEMP DIALYSIS LINE PLCT                                         Clip # [**Clip Number (Radiology) 6590**]
+     Reason: please place temporary dialysis catheter WITH EXTRA PORT FOR
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ********************************* CPT Codes ********************************
+     * 36556 NON-TUNNELED                   75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with advanced prostate CA, CRI with UTI and acute renal failure 
+      requiring dialysis to be done today.  please place temporary dialysis catheter 
+      WITH EXTRA PORT for meds, etc. 
+     REASON FOR THIS EXAMINATION:
+      please place temporary dialysis catheter WITH EXTRA PORT FOR MEDS,ETC           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old male with renal failure.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 1657**] and Dr. [**Last Name (STitle) 609**], the Attending Radiologist, who
+     was present and supervising throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  The right lower neck was prepped and draped
+     sterilely.  Preprocedure timeout was performed.  Ultrasound imaging was
+     performed to confirm patency of the right internal jugular vein.  1% lidocaine
+     was administered.  21-gauge needle was advanced under ultrasound guidance into
+     the right internal jugular vein and a 0.018 guidewire was placed into the SVC
+     under flouroscopic guidance . The needle was exchanged for a 4.5-French
+     angiographic introducer sheath. The wire was exchanged for a 0.035 [**Doctor Last Name 555**] wire.
+     7- and 10- French dilators were then used to dilate the tract.  Finally, a 12-
+     French 16- cm double-lumen with a VIP port hemodialysis catheter was placed
+     positioning the tip at the SVC/RA junction.  Excellent blood flow was obtained
+     through all three ports.  The line was secured to the skin with  0 silk stitch
+     and sterile dressing was applied.  The line is ready for use.
+     
+     IMPRESSION:  Successful placement of a 16-cm 12-French double-lumen
+     hemodialysis catheter with a VIP port under ultrasound and fluoroscopic
+     guidance.  The line is ready for use.
+     
+     
+
+",,
+14126,27673,17565,,3426-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-21**] 12:50 PM
+     TEMP DIALYSIS LINE PLCT                                         Clip # [**Clip Number (Radiology) 6590**]
+     Reason: please place temporary dialysis catheter WITH EXTRA PORT FOR
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ********************************* CPT Codes ********************************
+     * 36556 NON-TUNNELED                   75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with advanced prostate CA, CRI with UTI and acute renal failure 
+      requiring dialysis to be done today.  please place temporary dialysis catheter 
+      WITH EXTRA PORT for meds, etc. 
+     REASON FOR THIS EXAMINATION:
+      please place temporary dialysis catheter WITH EXTRA PORT FOR MEDS,ETC           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old male with renal failure.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 1657**] and Dr. [**Last Name (STitle) 609**], the Attending Radiologist, who
+     was present and supervising throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  The right lower neck was prepped and draped
+     sterilely.  Preprocedure timeout was performed.  Ultrasound imaging was
+     performed to confirm patency of the right internal jugular vein.  1% lidocaine
+     was administered.  21-gauge needle was advanced under ultrasound guidance into
+     the right internal jugular vein and a 0.018 guidewire was placed into the SVC
+     under flouroscopic guidance . The needle was exchanged for a 4.5-French
+     angiographic introducer sheath. The wire was exchanged for a 0.035 [**Doctor Last Name 555**] wire.
+     7- and 10- French dilators were then used to dilate the tract.  Finally, a 12-
+     French 16- cm double-lumen with a VIP port hemodialysis catheter was placed
+     positioning the tip at the SVC/RA junction.  Excellent blood flow was obtained
+     through all three ports.  The line was secured to the skin with  0 silk stitch
+     and sterile dressing was applied.  The line is ready for use.
+     
+     IMPRESSION:  Successful placement of a 16-cm 12-French double-lumen
+     hemodialysis catheter with a VIP port under ultrasound and fluoroscopic
+     guidance.  The line is ready for use.
+     
+     
+
+",,
+14126,27673,17565,,3426-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-21**] 12:50 PM
+     TEMP DIALYSIS LINE PLCT                                         Clip # [**Clip Number (Radiology) 6590**]
+     Reason: please place temporary dialysis catheter WITH EXTRA PORT FOR
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ********************************* CPT Codes ********************************
+     * 36556 NON-TUNNELED                   75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with advanced prostate CA, CRI with UTI and acute renal failure 
+      requiring dialysis to be done today.  please place temporary dialysis catheter 
+      WITH EXTRA PORT for meds, etc. 
+     REASON FOR THIS EXAMINATION:
+      please place temporary dialysis catheter WITH EXTRA PORT FOR MEDS,ETC           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old male with renal failure.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 1657**] and Dr. [**Last Name (STitle) 609**], the Attending Radiologist, who
+     was present and supervising throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  The right lower neck was prepped and draped
+     sterilely.  Preprocedure timeout was performed.  Ultrasound imaging was
+     performed to confirm patency of the right internal jugular vein.  1% lidocaine
+     was administered.  21-gauge needle was advanced under ultrasound guidance into
+     the right internal jugular vein and a 0.018 guidewire was placed into the SVC
+     under flouroscopic guidance . The needle was exchanged for a 4.5-French
+     angiographic introducer sheath. The wire was exchanged for a 0.035 [**Doctor Last Name 555**] wire.
+     7- and 10- French dilators were then used to dilate the tract.  Finally, a 12-
+     French 16- cm double-lumen with a VIP port hemodialysis catheter was placed
+     positioning the tip at the SVC/RA junction.  Excellent blood flow was obtained
+     through all three ports.  The line was secured to the skin with  0 silk stitch
+     and sterile dressing was applied.  The line is ready for use.
+     
+     IMPRESSION:  Successful placement of a 16-cm 12-French double-lumen
+     hemodialysis catheter with a VIP port under ultrasound and fluoroscopic
+     guidance.  The line is ready for use.
+     
+     
+
+",,
+14126,27673,17565,,3426-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-21**] 12:50 PM
+     TEMP DIALYSIS LINE PLCT                                         Clip # [**Clip Number (Radiology) 6590**]
+     Reason: please place temporary dialysis catheter WITH EXTRA PORT FOR
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ********************************* CPT Codes ********************************
+     * 36556 NON-TUNNELED                   75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with advanced prostate CA, CRI with UTI and acute renal failure 
+      requiring dialysis to be done today.  please place temporary dialysis catheter 
+      WITH EXTRA PORT for meds, etc. 
+     REASON FOR THIS EXAMINATION:
+      please place temporary dialysis catheter WITH EXTRA PORT FOR MEDS,ETC           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old male with renal failure.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 1657**] and Dr. [**Last Name (STitle) 609**], the Attending Radiologist, who
+     was present and supervising throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  The right lower neck was prepped and draped
+     sterilely.  Preprocedure timeout was performed.  Ultrasound imaging was
+     performed to confirm patency of the right internal jugular vein.  1% lidocaine
+     was administered.  21-gauge needle was advanced under ultrasound guidance into
+     the right internal jugular vein and a 0.018 guidewire was placed into the SVC
+     under flouroscopic guidance . The needle was exchanged for a 4.5-French
+     angiographic introducer sheath. The wire was exchanged for a 0.035 [**Doctor Last Name 555**] wire.
+     7- and 10- French dilators were then used to dilate the tract.  Finally, a 12-
+     French 16- cm double-lumen with a VIP port hemodialysis catheter was placed
+     positioning the tip at the SVC/RA junction.  Excellent blood flow was obtained
+     through all three ports.  The line was secured to the skin with  0 silk stitch
+     and sterile dressing was applied.  The line is ready for use.
+     
+     IMPRESSION:  Successful placement of a 16-cm 12-French double-lumen
+     hemodialysis catheter with a VIP port under ultrasound and fluoroscopic
+     guidance.  The line is ready for use.
+     
+     
+
+",,
+14126,27673,17565,0,3426-06-21 05:12:00 EST,3426-06-21 05:14:00 EST,1341,"N",69,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt did not want to wear Bipap.  Pt sleeping through noc.  No periods of desaturation.  Will follow.
+
+                              [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT
+",,
+14126,27673,17565,0,3426-06-21 05:30:00 EST,3426-06-21 05:41:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+pleasant 88 [**Doctor First Name **] with advanced prostate ca, recently discharged from ficu on [**6-16**] after admission for urosepsis, readmitted from 12 r due to low urine ouput and rising K+ levels and low Na. 
+
+neuro: aox3, very tired, did not want to use bipap overnight, has beendozing off and on , arousable, very HOH, hearing aids are on bedside table.
+
+pain: denies pain, 
+
+cad hr afib in the 70's pvc's noted around 5am, previous K+ 6.9 which was tx with amp of d50, 10 units, insulin and kayexalate. awaiting am labs, nbp 102/41 to 134/45.
+
+resp: ls clear, refused mask venti. overnight, sats 94% on RA, 
+
+gi: bs+, one soft form bm awaiting results of kayexalate,
+
+gu: uo miniaml, 59cc total out, ns 500cc over 5hours. awainting am lytes, last na 119
+
+id: afebrile, ant.cont from urosepsis
+
+skin: buttocks area with bright red rash, aleovista applied, 
+
+plan: ? if ureteral stents need to be evaluated for patency, cont to tx high K+, check am lytes, coritsol levels being checked.
+",,
+14126,27673,17565,0,3426-06-21 14:17:00 EST,3426-06-21 14:33:00 EST,117,"N",69,"Nursing/Other","MICU NPN 11AM-3PM:","
+MICU NPN 11AM-3PM:
+Neuro: Pt sleepy but arousable and alert, oriented times three. Very HOH. C/O generalized discomfort from the body edema. Also c/o back pain. Turned and positioned and given back care. Strong cough noted.
+
+CV: BP 110-140/50-70. HR 70's a-fib. K+ 7.1 at noon and pt given dextrose and insulin as well as calcium gluconate 2gm IV. Sodium remains low at 122 and CO2 10. Pt given one amp bicarb also. Pt transported to IR for insertion of dialysis line and decision made to dialize pt this afternoon which will be done soon. Repeat labs to be checked at 9PM.
+
+Resp: Pt remains on O2 2 L N/C with good sat. Dry cough noted. Lungs clear. RR 20's.
+
+GI: Pt is NPO for potential insertion of percutanous stents tomorrow. He did eat breakfast but has been NPO since noon. Hct stable.
+
+GU: Minimal UO via foley. Bladder scan done at bedside which did not see bladder distension. Pt needs foley to be flushed with NS TID if UO is low. BUN/Creat continue to rise. Pt may need percutaneous ureteral stents placed tonight or tomorrow.
+
+Heme: Pt with elevated INR this AM to 2.5. Will need FFP for procedures. Hct stable. 
+
+Endo: Blood glucose WNL, no sliding scale coverage needed.
+
+ID: Temp low 96PO this afternoon. Repeat urine culture done. Pt is on cefipime IV and linezolid PO.
+
+IV Access: Pt has two peripheral IV's in place. Pt was evaluated by IVT for PICC at bedside but they felt he would need IR PICC or central line due to bleeding/bruising in AC sites. Decision made to insert dialysis line with sideport for nursing to use as needed. Pigtail port will be used for infusion and blood draws.
+",,
+14126,27673,17565,0,3426-06-21 19:30:00 EST,3426-06-21 19:42:00 EST,117,"N",69,"Nursing/Other","MICU NPN 3PM-11PM:","
+MICU NPN 3PM-11PM:
+Neuro: Pt had episode of restlessness/pulling at lines associated with low back pain at the end of his dialysis treatment. This was associated with drop in BP to 69 just as dialysis finished. Low BP and pain resolved when treament stopped but restlessness continues for a while. It has resolved at this point but pt sometimes found pulling off O2 sat monitor, O2 and may be at risk for self d/c lines. Bears close watching. Left unrestrained at this point. Follows commands. Oeriented times three. Spoke to his wife by phone tonight.
+
+CV: Except for one drop in BP at the end of dialysis pt has been hemodynamically stable. BP 110-140/50. HR 70-80 a-fib. Repeat labs post dialysis due to be drawn at 9PM. 1800cc's fluid restriction ordered for hyponatremia.
+
+Resp: O2 2L N/C with sat 96%. Lungs coarse on the right. Dry cough noted.
+
+GI: Can have diet as tolerated since the decision was made to redo the ureteral stents on Friday. Took small mats PO. He is not hungry. Abdomen softly distended. +BS Stool times one negative guaiac.
+
+GU: UO remains very minimal. Dialysis for one and one-half hours today took off 2Liters. Tolerated well until acute back pain/agitation and hypotension briefly at the very end. Symptoms subsided when treatment ended. Repeat labs due at 2100. Foley irrigates easily without resistance and returns easily the amount that I used to irrigate.
+
+ID: Pt low temp but refused to put on extra blankets saying he is not cold and he is comfortable. WBC 14 at noon. 
+
+Social: Wife in to visit briefly. Pt has son who is a MD [**First Name8 (NamePattern2) **] [**Last Name (Titles) 5739**] MD who is involved in decision making. Pt usually defers treament decisions to his son. Son spoke to our team several times today for consents and has been updated.
+
+Access: Brown pigtail port on dialysis line is for blood draws and meds as needed. Don't access the dialysis ports/only for dialysis nurse use.(Line is flushed with 5,000U heparin/cc). Pt also has two peripheral IV's in place working well.
+
+
+
+ 
+",,
+14126,27673,17565,,3426-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3426-6-22**] 12:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6591**]
+     Reason: please eval for interval change - infiltrate, effusions     
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88M with likely metastatic bladder CA, now with ARF and tachypnea              
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change - infiltrate, effusions                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88-year-old man with likely metastatic bladder cancer, now with
+     acute renal failure, evaluate for interval change.
+     
+     CHEST PORTABLE:  Comparison is made to a prior study of [**3426-6-20**].  There is
+     cardiomegaly, this is unchanged.  Again noted is upper zone vascular
+     redistribution and prominence of the interstitial markings.  There is scarring
+     at the left lung base.  There is no definite evidence for pleural effusions. 
+     A central venous line is seen with its tip at the cavoatrial junction.
+     
+     IMPRESSION:
+     
+     1.  Cardiomegaly and CHF stable in appearance.
+     
+     2,  New central venous line with its tip at the cavoatrial junction.
+
+",,
+14126,27673,17565,0,3426-06-22 04:38:00 EST,3426-06-22 04:45:00 EST,7780,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. visited  for applicaation of nasal mask for nightly use of BIPAP. Pt. aggreed to application but complained about mask fit and irritation to his eyes.  Tol mask for a very short period of time.(see Care Vue for exact time) PT. kept removing mask and was cooperative when asked to re-apply mask, seemed to not be fully aware that he was removing the mask. After the third reapplication of the mask pt. was changed back to N.C. for the remainder of the shift.
+",,
+14126,27673,17565,0,3426-06-22 05:03:00 EST,3426-06-22 05:33:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+   Renal: only 32cc of blood tinged sedimented urine all night. pt is lethargic, admits to having trouble finding his words tonight. speech thick. easily falling asleep. recieved kayeaxalate prior to this shift. did have three stools since dose. (given for K of 6.1) am labs pnd. 
+   Cardiac: HR 70-80 afib, no VEA, BP stable 
+   Respiratory: on nasal cannula all night did try CPAP for short period of time ...c/o the mask bother him, BS coarse throughout. 
+   Neuro: increasly lethargic, calling out at times for staff. calling out for the missing ""call light"" when pt is holding the call light in his hand increasly confused. and pt recognizing the confusion. MAE
+   Skin: very edematous ... especially in the extremites. and scotrum. +++ rash on buttocks. double guard applied. constant oozing of stool not helping. [**Male First Name (un) **] stockings remain on . 
+   dialysis line in place in the right subclavian. with side port for blood draws. 
+   Plan: for dialysis today. cont to monitor electrolytes and treat accordingly.  
+  
+   
+",,
+14126,27673,17565,0,3426-06-22 10:12:00 EST,3426-06-22 10:36:00 EST,6176,"N",69,"Nursing/Other",,"
+
+NPN 7A-11A:
+
+NEURO: PT IS A/OX1 THIS AM. CALLING OUT "" FIND MY WIFE RIGHT NOW. WE HAVE TO DO THE PAPER WORK"". HE IS NOT [**Last Name (un) **] REORIENTED. HE HAS MADE ATTEMPTS TO GET OOB. NOW HE IS OOB TO CHAIR. WITH A MAX ASSIST OF TWO. HE IS UNSTEADY ON HIS FEET. 
+
+CV: A FIB HR 70-90 NO ECTOPY. B/P 120/64(59). 
+
+RSEP: 2L NC W/ O2 SAT 93%. LS COURSE BILAT. WEAK NON PRODUCTIVE COUGH.
+
+GI/GU: HOUSE DIET. PILLS WERE CRUSHED W/ APPLE SAUCE. HE DID 50% OF AM MEAL. ABD FIRM ROUND NONTENDER W/+ BS . BM X2 TODAY. BROWN LOOSE STOOL. FOLEY CATH WITHOUT NOTED. 
+
+SKIN: BUTTON IS LIGHT PINK WTIHOUT OPEN AREAS NOTED.
+
+LABS: K 6.6. NA 125. 
+
+POC: QUESTION H/D TODAY. NO NEW ORDERS.    
+",,
+14126,27673,17565,0,3426-06-22 15:53:00 EST,3426-06-22 16:12:00 EST,117,"N",69,"Nursing/Other","MICU NPN 11AM-6PM:","
+MICU NPN 11AM-6PM:
+Neuro: Began shift with pt in chair, calling out in pain ""Can't [**Doctor First Name **] give me an injection for the pain!"" ""Why are they withholding pain meds from me?"" Pt very restless in chair and in obvious pain which he says in centered in the small of his back. Assisted back to bed with maximal support. Continued to be restless and c/o increasing pain in lower back. Pt became increasingly agitated, tachypneic and confused. Seem by team and ordered for pain med. Given morphine 1mg with slight improvement. Pt also had very poor ABG at that time and required agressive intervention with bicarb and calcium. Pain/restlessness/agitation improved after treatment for the acidosis. Pt's wife called during this time and relayed to me that she and her son want pt to be comfortable. She came in to see him and met with Dr. [**First Name8 (NamePattern2) 48**] [**Last Name (NamePattern1) 1425**], the attending on his case, and after much discussion he was made DNR/DNI. We will continue dialysis/antibiotics etc and start PRN morphine as needed. Lidocaine patch also applied to lower back. We will not use pressors if BP drops. Comfort is major goal of treatment at this point. Pt MAE, confused and pulls at lines/tubes. Order for soft restraints obtained.
+
+CV: BP 90-130/50. HR 70-80's a-fib. Dialysis took off 2000cc's. PM labs to be done at 6PM. Denies chest pain. K+ 6.6 prior to dialysis and zero K+ bath used for the 2.5 hour treatment. Color is pale, skin cool and dry. Hct 34 today.
+
+Resp: O2 sat 90-95% on 3L N/C. RR varied today depending on LOC. Currently sleeping with RR 18. Lungs coarse and deminished at bases. Dry strong cough noted. Pt found to be acidotic with pH 7.04 at 12:30 today and treated with bicarb one amp bolus and bicarb drip at 150cc/hr continuous.
+
+GI/heme: Passing brown OB+ stool frequently. Abdomen soft distended positive bowel sounds. hct stable. Coags elevated. Pt given 10mg PO vit K+ before he became unstable today.
+
+GU: Minimal UO via foley. Flushed foley TID as ordered.
+
+Endo: No need for sliding scale coverage so far today.
+
+ID: WBC is rising to 15 today and lactate 9.8. Team feels that the bladder tumor may be developing some necrosis which may be making him sicker. Temp was down to 94.6 PO after dialysis and pt put on bear hugger. Pt continues on cefipime and linezolid.
+
+Social: As above, after wife met with attending the decision was made to make pt comfort major goal. Will continue with dialysis and antibiotics but use morphine PRN. 
+",,
+14126,27673,17565,0,3426-06-22 19:34:00 EST,3426-06-22 19:41:00 EST,117,"N",69,"Nursing/Other","Brief Update NPN 6PM-11PM:","
+Brief Update NPN 6PM-11PM:
+Neuro: Pt lethargic and sleeping most of the time. Talking ragtime in his [**Doctor Last Name 8**]. Wakes up confused and pulling at lines at times. Follows commands to turn. MAE.
+
+CV: BP 100-120/ HR 70-80's A-fib no ectopy. CO2 10 and K+ 5.1, Continues on bicarb drip at 150cc/hr. No UO via foley.
+
+Resp: RR 14-20 non-labored on 3L N/C. Lungs coarse and deminsihed.
+
+GI: Not taking PO's due to lethargy. Important meds switched to IV. Passed brown OB+ stool twice.
+
+GU: Few drops urine out via foley.
+
+ID: Temp down to 94.5 after dialysis and pt was on bear hugger for a while. Shut off at 8PM when temp better. Linezolid switched to IV and given.
+
+Social: Wife in to visit again this evening. Remains realistic but still hopeful. Wants him to be comfortable.
+
+Plan: Comfort main goal. Pt DNR/DNI but will continue treatment but no pressors. Use MSO4 PRN but sparingly to try not to cloud sensorium. Plan to do dialysis again tomorrow. Check labs in AM. Wife will call later this eve for update.
+",,
+14126,,17565,0,3426-06-23 04:23:00 EST,3426-06-23 04:32:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+neuro: confused, calling out while sleeping, needed to be reoriented several times, agitated at times, compliant eventhough confused. will answer to name calling but not able to state  where he is or situation.
+
+pain: seems less restless after removing lidocaine patch. denied pain.
+
+cad hr afib no ecotpy noted hr 70 to 60's with nbp 102/38 to 119/38.
+
+resp on 3l nc with sats 94% rr teens, ls clear with diminished bases.
+
+gi: bs+ incontinent x1 for liquid blackish stool, 
+
+gu: total urine out 10cc brownish with sediment, ivf ns with 150 meq bicarb cont. at 100cc/hr, will flush foley as ordered at 6am. dialysis line intact.
+
+id: afebrile, cont on antb., c-diff sent yesterday. on vre prec.
+
+skin: buttocks area reddened,  body guard cream applied.
+
+family wife called
+
+plan: keep pt comfortable, pt made dnr yesterday, control pain, monitor uo, vs and labs.
+
+",,
+14126,,17565,0,3426-06-23 15:29:00 EST,3426-06-23 15:32:00 EST,379,"N",69,"Nursing/Other","MICU EAST NSG DEATH NOTE.","
+MICU EAST NSG DEATH NOTE.
+
+
+PT REMAINED CONFUSED. RECEIVED HD AND TOL WELL. WIFE VISITED AND WANTED EVERYTHING STOPPED AS HE HAS ALREADY BEEN THROUGH SO MUCH WITH LITTLE CHANCE OF RECOVERY. HD FINISHED. BICARB GTT DC'D. GIVEN 1MG IV MOS4 FOR RESTLESSNESS AT PT'S WIFE'S REQUEST. MIN EFFECT. RECEIVED 1MG ATIVAN AND PT APPEARED MUCH MORE COMFORTABLE. ASYSTOLE AT 1545. WIFE'S FAMILY FRIEND PRESENT. NO OTHER VISITORS. PT'S BELONGINGS GIVEN TO WIFE.
+",,

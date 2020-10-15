@@ -1,0 +1,762 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14846,27125,,,2837-04-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2837-4-26**]              Discharge Date:   [**2837-4-28**]
+ 
+Date of Birth:  [**2738-8-6**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Codeine
+ 
+Attending:[**First Name3 (LF) 3794**] 
+Chief Complaint:
+SOB/hypoxia 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+98F NH resident with h/o CAD, CHF, ppm (non-functioning) who 
+presents with acute SOB from [**Hospital **] Rehab. The family states 
+that the SOB started soon after she was fed. She was noted 6pm 
+to become acutely SOB with hyoxia to 80s, with bp 210/110, HR 
+130s, t 99.8. She was given atrovent, nitro paste with bp to 
+170/100 sats improved to 95% on NC. Per [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] fellow note at 
+the NH, th patient was DNR/DNI at the nursing home, so there was 
+initial reluntance to send the pt to the ED, altough ultimately 
+an ambulance was called. Per ED staff, the DNR status was 
+reversed in ED. Ambulance arrived, pt was placed on NRB, noted 
+to be wheezy.  
+In ED, initial vitals were 200/86 p 130 rr 30s 83% RA. Pt was in 
+apparent respiratory distress and was placed on BiPAP. She 
+transiently had bp to 80s which quickly came up to 100s when she 
+was taken off Bipap and given 1L IVF. She recieved 
+vanc/ctx/azithro for possible PNA (she had WBC to 29.4). There 
+was initial concern for ICU admission. She was evaluated in the 
+ED by ICU attending in whose assessment the SOB was of unclear 
+etiology. Diagnostic possibilities included aspiration, CHF, 
+less likely sepsis given the clinical improvement. CTA was 
+negative for PE, though showed, Bilateral moderate pleural 
+effusions. CT abd was done for abd pain and showed no acute 
+process. The patient stabilized from a respiratory standpoint 
+and was admitted to medicine. She arrived on the floor in stable 
+condition satting 100% on 4L  
+
+ 
+Past Medical History:
+CAD: no h/o MI per son  
+CHF  
+PPM, non-functional  
+hyperlipidemia  
+HTN  
+gait instability  
+anemia  
+Chronic leukocytosis, baseline [**12-15**].  
+
+ 
+Social History:
+No smoking, occasional alcohol, no drug use. 
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+VS: Temp: 96.2 BP: 136/67 HR: 87 RR: 20 O2sat: 100 4L  
+GEN: in bed, with mild agitation, NAD  
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions  
+NECK: no JVD  
+RESP: basilar rales, no wheezes  
+CV: distant heart sounds, RR, S1 and S2 wnl, no m/r/g  
+ABD: mild distension, +b/s, soft, nt, no HSM  
+EXT: no c/c/e, DP pulses intact  
+NEURO: alert and oriented to self. follows commands, states that 
+she needs to urinate. maew.  
+.  
+
+ 
+Pertinent Results:
+Admission Labs:
+[**2837-4-26**] 10:00PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 302**]-1.024
+[**2837-4-26**] 10:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-TR
+[**2837-4-26**] 10:00PM URINE  RBC-0-2 WBC-0-2 BACTERIA-RARE YEAST-NONE 
+EPI-0-2
+[**2837-4-26**] 09:00PM   PO2-326* PCO2-44 PH-7.40 TOTAL CO2-28 BASE 
+XS-2
+[**2837-4-26**] 08:30PM   GLUCOSE-206* UREA N-27* CREAT-1.0 SODIUM-136 
+POTASSIUM-5.2* CHLORIDE-101 TOTAL CO2-22 ANION GAP-18
+[**2837-4-26**] 08:30PM   estGFR-Using this
+[**2837-4-26**] 08:30PM   ALT(SGPT)-21 AST(SGOT)-38 CK(CPK)-70 ALK 
+PHOS-107 AMYLASE-103* TOT BILI-0.5
+[**2837-4-26**] 08:30PM   LIPASE-75*
+[**2837-4-26**] 08:30PM   cTropnT-0.13*
+[**2837-4-26**] 08:30PM   CK-MB-NotDone proBNP-7443*
+[**2837-4-26**] 08:30PM   CALCIUM-9.3 PHOSPHATE-5.7* MAGNESIUM-2.3
+[**2837-4-26**] 08:30PM   WBC-29.4* RBC-3.44* HGB-10.6* HCT-32.0* 
+MCV-93 MCH-31.0 MCHC-33.3 RDW-15.6*
+[**2837-4-26**] 08:30PM   NEUTS-91.9* BANDS-0 LYMPHS-4.9* MONOS-2.8 
+EOS-0.2 BASOS-0.2
+[**2837-4-26**] 08:30PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+[**2837-4-26**] 08:30PM   PLT SMR-HIGH PLT COUNT-579*
+[**2837-4-26**] 08:30PM   PT-10.5 PTT-18.3* INR(PT)-0.9
+[**2837-4-26**] 08:29PM   LACTATE-2.1*
+.
+Discharge Labs:
+WBC 9.3, Hct 37.0, Plt 436 
+.
+Imaging:
+CTA:
+IMPRESSION:
+1. No evidence of thoracic aortic dissection or pulmonary 
+embolism.
+2. Atherosclerotic change of the thoracic aorta, with ulcerated 
+plaques.
+3. Coronary artery, aortic, aortic valve and mitral valve 
+calcifications.
+4. Bilateral moderate pleural effusions, right greater than 
+left, simple in nature.
+5. Appearance of the trachea during respiratory motion raises 
+the possibility of tracheomalacia. If this is of clinical 
+concern, a dedicated tracheal CT study could be performed.
+6. 2 mm subpleural nodular opacity of the right upper lobe. In 
+the absence of risk factors for lung cancer, no followup is 
+needed. If risk factors are present, one-year CT followup could 
+be obtained.
+7. Compression deformity of the lower thoracic vertebral body, 
+with near complete collapse seen anteriorly, acuity 
+indeterminate.
+.
+CT Abd/Pelvis:
+IMPRESSION:
+1. No definite acute inflammatory pathology is identified within 
+the abdomen or pelvis to account for the patient's symptoms. 
+Mildly limited exam, as additional IV contrast was not 
+administered for the exam.
+2. Bilateral pleural effusions, right greater than left.
+3. Sigmoid diverticulosis, without definite CT evidence of 
+diverticulitis.
+4. T12 and L1 compression fractures, acuity indeterminant.
+.
+CXR:
+FINDINGS: Single frontal view of the chest was obtained without 
+prior study available for comparison. The heart size and 
+cardiomediastinal contours are within normal limits. There is a 
+dual-lead pacemaker on the left. There are low inspiratory lung 
+volumes. There are small bilateral pleural effusions and 
+probable associated mild basilar atelectasis. No definite focal 
+airspace consolidation is identified. The bones are 
+demineralized.
+
+IMPRESSION: Low inspiratory volumes, small bilateral pleural 
+effusions, and mild bibasilar atelectasis
+.
+ECHO:
+Conclusions:  
+The left atrium is normal in size. Left ventricular wall 
+thicknesses are  
+normal. The left ventricular cavity size is normal. Tissue 
+Doppler imaging suggests an increased left ventricular filling 
+pressure (PCWP>18mmHg). Right ventricular chamber size and free 
+wall motion are normal. The aortic valve leaflets are moderately 
+thickened. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is 
+seen. The tricuspid valve leaflets are mildly thickened. There 
+is a small pericardial effusion.  
+
+ 
+Brief Hospital Course:
+98F NH resident with h/o CAD, CHF, ppm (non-functioning) who 
+presents with acute SOB.  Her hospital course is as follows:
+.  
+Shortness of breath:  Pt arrived to the ED in respiratory 
+distress and hypertensive.  She was stabilized on BiPAP briefly, 
+but her BP dropped and she was put on nasal cannula.  ABG showed 
+good oxygenation and ventilation.  CTA ruled out PE or other 
+acute processes, though she did have moderate bilateral pleural 
+effusions.  It was thought that the patient may have aspirated 
+or had pulmonary edema.  Her WBC was 29 but repeat was 9.  
+Lactate was 2.1.  She was afebrile.  Blood/urine cultures were 
+went.  Sepsis was at a low likelihood.  She arrived on the floor 
+stabile.  We titrated her off of 02.  Speech and swallow 
+recommended pureed diet with nectar pre-thickened liquids.  She 
+was given 1 unit of PRBCs.  [**4-5**] into her unit, she developed 
+agitation and mild hypoxia, as well as hypertension to 230 
+systolic.  With suspicion for edema, she was given lasix and 
+diuresed well.  She returned to her baseline oxygenation.  She 
+was also given nitropaste and her BP improved.  Her antibiotics 
+were swtiched to include only levo/flagyl to cover for possible 
+aspiration pneumonia.  Her symptoms were thought likely 
+aspiration pneumonitis vs mild fluid overload.  ECHO showed 
+elevated PCWP, but no other abnormality.  She is VERY sensitive 
+to fluid shifts, and any fluids must be given with great care, 
+and blood products should be followed by diuresis.  Her 
+antibiotics were D/Cd on discharge.  Can consider gentle 
+diuretics at home, and monitor fluid status closely.
+.  
+Cardiac Enzymes:  On admission, her troponin was found to  be 
+elevated, with a negative CK/MB.  Her EKG showed some TWIs in 
+the setting of her HTN, tachycardia.  This was felt to be demand 
+ischemia, especially given her anemia.  We trended her enzymes 
+which peaked at 0.23 but trended down thereafter.  We gave her 2 
+units PRBCs as per above.  She remained chest pain free 
+thereafter.
+.  
+Anemia: Her Hct was went from 32 - >25 -> 37.  She did not have 
+any active signs of bleeding.  Her imaging was negative for 
+bleed.  She was hemodynamically stable.  to support her, we gave 
+her 2 units PRBCs.  She required diruesis with her units as she 
+was very sensitive to these fluid shifts.
+.  
+FEN: Speech and swallow recommended pureed foods with nectar 
+pre-thickened liquids.  She is to eat upright, have her pills 
+crushed in applesauce.  Please see attached nutrition/speech 
+consult
+.  
+Code: DNR/DNI for this admission
+ 
+Medications on Admission:
+Tylenol 975 mg 4x/day  
+Ca+Vit.D 250 mg BID  
+Colace 100 mg BID  
+Prilosec 20 mg once daily  
+Ensure plus BID  
+Ampicillin 1 g PO prn before dental procedure  
+Nitrobid 1 inch topically prn for SBP >200  
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Three (3) Tablet PO every 
+six (6) hours as needed.  
+2. CALCIUM 500+D 500-125 mg-unit Tablet Sig: One (1) Tablet PO 
+once a day.  
+3. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.  
+4. Prilosec OTC 20 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO once a day.  
+5. Nitro-Bid 2 % Ointment Sig: One (1) inch Transdermal ASDIR: 
+PRN for SBP>200.  
+6. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed for shortness of breath or 
+wheezing.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 77**] for the Aged - MACU
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Aspiration
+Pulmonary Edema
+.
+Secondary Diagnosis:
+Coronary Artery Disease
+Congestive Heart Failure
+Hyperlipidemia
+Hypertension
+Anemia
+
+ 
+Discharge Condition:
+Good, afebrile, hemodynamically stable, good oxygenation
+
+ 
+Discharge Instructions:
+Ms [**Known patient lastname 1113**] was diagnosed with likely aspiration event.  She is 
+also very sensitive to fluid shifts.  She was supported with 
+oxygen, blood transfusions, and gentle diuresis.  Additional 
+diuresis can be considered at home.  Otherwise, she is to resume 
+her previous medications.  Please see dietary suggestions to 
+prevent aspiration
+ 
+Followup Instructions:
+Please follow up with your primary physician [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 1300**] [**Last Name (NamePattern1) 11295**] as 
+needed or in the next 2 weeks.  [**Telephone/Fax (1) 11296**]
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 3802**] MD [**MD Number 3803**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 28**] [**Last Name (NamePattern1) 1011**] MD [**MD Number 1012**] [**2837-4-28**] @ 1545
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: TUE [**2837-5-5**] 10:28 AM
+(End of Report)
+
+
+",,
+14846,27125,,,2837-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-4-26**] 9:27 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 12897**]
+     Reason: SOB.TACHY.?PE
+     Field of view: 36 Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with respirtory distress and tachycardia, RBBB                
+     REASON FOR THIS EXAMINATION:
+      eval for PE                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa SUN [**2837-4-26**] 10:23 PM
+      No PE or dissection. Atherosclerosis of the thoracic aorta with ulcerated
+      plaques. Coronary artery, aortic, aortic valve and mitral valve
+      calcifications. Moderate bilateral pleural effusions. Lower most thoracic
+      vertebral body imaged demonstrates a compression deformity with probable near
+      complete collapse anteriorly, acuity indeterminate.
+      Appearance of trachea on the scan (during respiration) raises the possibility
+      of tracheomalacia.
+     WET READ AUDIT #1 KKXa SUN [**2837-4-26**] 10:21 PM
+      No PE or dissection. Atherosclerosis of the thoracic aorta with ulcerated
+      plaques. Coronary artery, aortic, aortic valve and mitral valve
+      calcifications. Moderate bilateral pleural effusions. Lower most thoracic
+      vertebral body imaged demonstrates a compression deformity with probable near
+      complete collapse anteriorly, acuity indeterminate.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory distress and tachycardia with right bundle branch
+     block.  Evaluate for PE.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Contiguous axial images through the chest were obtained before and
+     after the intravenous administration of 90 cc of IV Optiray.  Coronal,
+     sagittal, and oblique reformatted images were generated.
+     
+     CTA OF THE CHEST:  There is no evidence of thoracic aortic dissection.  There
+     are marked atherosclerotic changes of the thoracic aorta, with several
+     ulcerated plaques seen.  There are no filling defects within the pulmonary
+     arterial branches to suggest a pulmonary embolism.  There are coarse
+     calcifications of the mitral valves, and to a lesser degree of the aortic
+     valve.  There are also coronary artery calcifications.  There is no
+     pericardial effusion.  There are bilateral pleural effusions, moderate, right
+     greater than left.  The effusions are simple in nature.  A pacemaker is seen
+     within the left chest, with leads of the right atrium and right ventricle.
+     There is a subpleural 2 mm nodular opacity within the right upper lobe (series
+     3, image 27).  No other definite nodules are visualized.  There are no
+     consolidations within the lungs, and there is no definite failure.  Bilateral
+     dependent atelectasis is seen adjacent to the effusions.  The airways are
+     patent to the subsegmental level bilaterally.  However, as the patient is
+     breathing through the image acquisition, at least some degree of tracheal
+     collapse is seen, raising the possibility of tracheomalacia.  This possibility
+     is perhaps best seen on series 3, image 30.  A borderline lymph node is seen
+                                                                 (Over)
+
+     DATE: [**2837-4-26**] 9:27 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 12897**]
+     Reason: SOB.TACHY.?PE
+     Field of view: 36 Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     within the right hilum, measuring 11 mm in the short axis.  There are other
+     small lymph nodes within the mediastinum that do not meet CT size criteria for
+     pathologic enlargement.
+     
+     Within the imaged portion of the upper abdomen, the visualized portions of the
+     liver and spleen are unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  There
+     is a compression deformity of the inferiormost thoracic vertebral body imaged
+     on the sagittal reformatted series, with near complete collapse of the
+     vertebral body anteriorly.  Vacuum disc phenomenon between this vertebral body
+     and the one below is appreciated.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.
+     
+     IMPRESSION:
+     
+     1.  No evidence of thoracic aortic dissection or pulmonary embolism.
+     
+     2.  Atherosclerotic change of the thoracic aorta, with ulcerated plaques.
+     
+     3.  Coronary artery, aortic, aortic valve and mitral valve calcifications.
+     
+     4.  Bilateral moderate pleural effusions, right greater than left, simple in
+     nature.
+     
+     5.  Appearance of the trachea during respiratory motion raises the possibility
+     of tracheomalacia.  If this is of clinical concern, a dedicated tracheal
+     CT study could be performed.
+     
+     6.  2 mm subpleural nodular opacity of the right upper lobe.  In the absence
+     of risk factors for lung cancer, no followup is needed.  If risk factors are
+     present, one-year CT followup could be obtained.
+     
+     7.  Compression deformity of the lower thoracic vertebral body, with near
+     complete collapse seen anteriorly, acuity indeterminate.
+     
+
+",,
+14846,27125,,,2837-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-4-26**] 8:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12896**]
+     Reason: infiltrate, edema                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with respiratory distress                                     
+     REASON FOR THIS EXAMINATION:
+      infiltrate, edema                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old female with respiratory distress.
+     
+     FINDINGS:  Single frontal view of the chest was obtained without prior study
+     available for comparison.  The heart size and cardiomediastinal contours are
+     within normal limits.  There is a dual-lead pacemaker on the left.  There are
+     low inspiratory lung volumes.  There are small bilateral pleural effusions and
+     probable associated mild basilar atelectasis.  No definite focal airspace
+     consolidation is identified.  The bones are demineralized.
+     
+     IMPRESSION:  Low inspiratory volumes, small bilateral pleural effusions, and
+     mild bibasilar atelectasis.
+     
+     
+     
+
+",,
+14846,27125,18447,,2837-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-4-27**] 2:28 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12898**]
+     Reason: DIFFUSE ABD PAIN
+     Admitting Diagnosis: HYPOXIA,PLEURAL EFFUSION
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with abdominal pain diffusely                                 
+     REASON FOR THIS EXAMINATION:
+      eval for obstrution/abscess                                                     
+     CONTRAINDICATIONS for IV CONTRAST:
+      recent IV contrast bolus
+     ______________________________________________________________________________
+     WET READ: KKXa MON [**2837-4-27**] 3:20 AM
+      No definite acute pathology seen. Limited exam as additional IV contrast could
+      not be administered. Sigmoid diverticulosis without diverticulitis. T12 and L1
+      compression fractures, acuity indeterminate.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diffuse abdominal pain.  Evaluate for obstruction or abscess.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral contrast only.  Since IV
+     contrast was administered earlier today for a chest CT, additional IV contrast
+     was not administered.  Coronal and sagittal reformatted images were generated.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  Moderate pleural effusions are again seen at
+     the lung bases.  Evaluation of the solid organs is limited without concurrent
+     use of IV contrast, but the non-contrast enhanced appearance of the liver,
+     spleen, pancreas, and adrenal glands is unremarkable.  Contrast continues to
+     be excreted from both kidneys, which show no hydronephrosis.  There is mild
+     stranding about both kidneys, which is a nonspecific finding.  This stomach,
+     small and large bowels are normal.  There is no free air or free fluid in the
+     abdomen.  No pathologically enlarged mesenteric or retroperitoneal lymph
+     nodes.  There is atherosclerosis of the abdominal aorta, which is normal in
+     caliber.  Calcified sutures are seen within the anterior abdominal wall.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is sigmoid diverticulosis, without
+     definite evidence of diverticulitis.  There is a Foley catheter within the
+     bladder.  The uterus and adnexa are not visualized, and may have been removed.
+     No pathologically enlarged pelvic or inguinal lymph nodes.
+     
+     BONE WINDOWS:  The bones are demineralized.  A left total hip replacement is
+     present.  No suspicious lytic or blastic lesions are seen.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.  The near complete collapse of the T12 vertebral body
+     is again seen, and anterior compression of the L1 vertebral body is also seen.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2837-4-27**] 2:28 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12898**]
+     Reason: DIFFUSE ABD PAIN
+     Admitting Diagnosis: HYPOXIA,PLEURAL EFFUSION
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  No definite acute inflammatory pathology is identified within the abdomen
+     or pelvis to account for the patient's symptoms.  Mildly limited exam, as
+     additional IV contrast was not administered for the exam.
+     
+     2.  Bilateral pleural effusions, right greater than left.
+     
+     3.  Sigmoid diverticulosis, without definite CT evidence of diverticulitis.
+     
+     4.  T12 and L1 compression fractures, acuity indeterminant.
+                                                                           
+
+",,
+14846,27125,18447,,2837-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-4-27**] 2:28 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12898**]
+     Reason: DIFFUSE ABD PAIN
+     Admitting Diagnosis: HYPOXIA,PLEURAL EFFUSION
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with abdominal pain diffusely                                 
+     REASON FOR THIS EXAMINATION:
+      eval for obstrution/abscess                                                     
+     CONTRAINDICATIONS for IV CONTRAST:
+      recent IV contrast bolus
+     ______________________________________________________________________________
+     WET READ: KKXa MON [**2837-4-27**] 3:20 AM
+      No definite acute pathology seen. Limited exam as additional IV contrast could
+      not be administered. Sigmoid diverticulosis without diverticulitis. T12 and L1
+      compression fractures, acuity indeterminate.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diffuse abdominal pain.  Evaluate for obstruction or abscess.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral contrast only.  Since IV
+     contrast was administered earlier today for a chest CT, additional IV contrast
+     was not administered.  Coronal and sagittal reformatted images were generated.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  Moderate pleural effusions are again seen at
+     the lung bases.  Evaluation of the solid organs is limited without concurrent
+     use of IV contrast, but the non-contrast enhanced appearance of the liver,
+     spleen, pancreas, and adrenal glands is unremarkable.  Contrast continues to
+     be excreted from both kidneys, which show no hydronephrosis.  There is mild
+     stranding about both kidneys, which is a nonspecific finding.  This stomach,
+     small and large bowels are normal.  There is no free air or free fluid in the
+     abdomen.  No pathologically enlarged mesenteric or retroperitoneal lymph
+     nodes.  There is atherosclerosis of the abdominal aorta, which is normal in
+     caliber.  Calcified sutures are seen within the anterior abdominal wall.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is sigmoid diverticulosis, without
+     definite evidence of diverticulitis.  There is a Foley catheter within the
+     bladder.  The uterus and adnexa are not visualized, and may have been removed.
+     No pathologically enlarged pelvic or inguinal lymph nodes.
+     
+     BONE WINDOWS:  The bones are demineralized.  A left total hip replacement is
+     present.  No suspicious lytic or blastic lesions are seen.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.  The near complete collapse of the T12 vertebral body
+     is again seen, and anterior compression of the L1 vertebral body is also seen.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2837-4-27**] 2:28 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12898**]
+     Reason: DIFFUSE ABD PAIN
+     Admitting Diagnosis: HYPOXIA,PLEURAL EFFUSION
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  No definite acute inflammatory pathology is identified within the abdomen
+     or pelvis to account for the patient's symptoms.  Mildly limited exam, as
+     additional IV contrast was not administered for the exam.
+     
+     2.  Bilateral pleural effusions, right greater than left.
+     
+     3.  Sigmoid diverticulosis, without definite CT evidence of diverticulitis.
+     
+     4.  T12 and L1 compression fractures, acuity indeterminant.
+                                                                           
+
+",,
+14846,27125,,,2837-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-4-28**] 3:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12899**]
+     Reason: assess for flash pulm edema                                 
+     Admitting Diagnosis: HYPOXIA,PLEURAL EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman h/o CAD, CHF s/p blood transfusion, in acute SOB             
+     REASON FOR THIS EXAMINATION:
+      assess for flash pulm edema                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with history of coronary artery disease and
+     CHF, status post blood transfusion, acute shortness of breath, evaluate for
+     flash pulmonary edema.
+     
+     COMPARISON:  [**2837-4-26**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There are small bilateral effusions and
+     bibasilar atelectasis.  Left retrocardiac opacity may represent atelectasis
+     and/or consolidation.  There is mild pulmonary vascular congestion, which
+     appears slightly more prominent in comparison to the prior study. 
+     
+     IMPRESSION:  Persistent bilateral pleural effusions and bibasilar atelectasis.
+     Left retrocardiac opacity may represent atelectasis and/or consolidation. Mild
+     increase in pulmonary vascular congestion / interstitial markings, c/w CHF or
+     transfusion reaction.
+
+",,
+14846,,,,2837-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-5-6**] 9:42 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12900**]
+     Reason: ct abd/pel with contrast, abdominal pain and anorexia
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with 
+     REASON FOR THIS EXAMINATION:
+      ct abd/pel with contrast, abdominal pain and anorexia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abdominal pain and anorexia.
+     
+     COMPARISON:  [**2837-4-27**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral and 130 cc of Optiray contrast
+     IV.  Coronal and sagittal reformatted images were generated.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are moderate pleural effusions again
+     seen at the lung bases, unchanged.  There is mild associated atelectasis.
+     There are mitral valve calcifications, coronary calcifications, and a
+     pacemaker in place.  The liver, spleen, pancreas, and left adrenal gland are
+     unremarkable.  There is very miniscule nodularity to the inferior aspect of
+     the right adrenal, without a definite lesion seen.  The common bile duct
+     measures up to about 10 mm and tapers normally, within normal limits for a
+     near centenarian.  The kidneys enhance and excrete symmetrically.  The
+     stomach, small and large bowel are normal.  There is no free air or free fluid
+     in the abdomen. No pathologically enlarged mesenteric or retroperitoneal lymph
+     nodes. The aorta is of normal caliber, with atherosclerotic calcification. The
+     proximal celiac, SMA, and [**Female First Name (un) **] are patent.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is a left total hip replacement, with
+     artifact obscuring detail.  There is sigmoid diverticulosis, without definite
+     evidence of diverticulitis. However, there is apparent thickening of the wall
+     of the sigmoid over several centimeters, which could be related to
+     nondistention though a mass at this locale cannot be excluded. The uterus and
+     adnexa are again not visualized and may be surgically absent. There is no free
+     fluid in the pelvis, and no pathologically enlarged pelvic or inguinal lymph
+     nodes.
+     
+     BONE WINDOWS:  The bones are demineralized.  Compression fractures of T12 and
+     L1 appear similar.
+     
+     IMPRESSION:  
+     
+     1.  No definite acute inflammatory pathology is identified within the abdomen
+     or pelvis to account for the patient's symptoms.
+     
+     2.  Apparent thickening of the sigmoid colon over a segment of several
+     centimeters. While the appearance may be due to nondistention, a mass at this
+     locale cannot be excluded. Correlation with sigmoidoscopy/colonoscopy
+     recommended.
+                                                                 (Over)
+
+     DATE: [**2837-5-6**] 9:42 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12900**]
+     Reason: ct abd/pel with contrast, abdominal pain and anorexia
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  Moderate bilateral pleural effusions are unchanged.  
+     
+     4.  T12 and L1 compression fractures, unchanged.
+     
+     
+     
+
+",,
+14846,,,,2837-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-5-6**] 9:42 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12900**]
+     Reason: ct abd/pel with contrast, abdominal pain and anorexia
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with 
+     REASON FOR THIS EXAMINATION:
+      ct abd/pel with contrast, abdominal pain and anorexia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abdominal pain and anorexia.
+     
+     COMPARISON:  [**2837-4-27**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral and 130 cc of Optiray contrast
+     IV.  Coronal and sagittal reformatted images were generated.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are moderate pleural effusions again
+     seen at the lung bases, unchanged.  There is mild associated atelectasis.
+     There are mitral valve calcifications, coronary calcifications, and a
+     pacemaker in place.  The liver, spleen, pancreas, and left adrenal gland are
+     unremarkable.  There is very miniscule nodularity to the inferior aspect of
+     the right adrenal, without a definite lesion seen.  The common bile duct
+     measures up to about 10 mm and tapers normally, within normal limits for a
+     near centenarian.  The kidneys enhance and excrete symmetrically.  The
+     stomach, small and large bowel are normal.  There is no free air or free fluid
+     in the abdomen. No pathologically enlarged mesenteric or retroperitoneal lymph
+     nodes. The aorta is of normal caliber, with atherosclerotic calcification. The
+     proximal celiac, SMA, and [**Female First Name (un) **] are patent.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is a left total hip replacement, with
+     artifact obscuring detail.  There is sigmoid diverticulosis, without definite
+     evidence of diverticulitis. However, there is apparent thickening of the wall
+     of the sigmoid over several centimeters, which could be related to
+     nondistention though a mass at this locale cannot be excluded. The uterus and
+     adnexa are again not visualized and may be surgically absent. There is no free
+     fluid in the pelvis, and no pathologically enlarged pelvic or inguinal lymph
+     nodes.
+     
+     BONE WINDOWS:  The bones are demineralized.  Compression fractures of T12 and
+     L1 appear similar.
+     
+     IMPRESSION:  
+     
+     1.  No definite acute inflammatory pathology is identified within the abdomen
+     or pelvis to account for the patient's symptoms.
+     
+     2.  Apparent thickening of the sigmoid colon over a segment of several
+     centimeters. While the appearance may be due to nondistention, a mass at this
+     locale cannot be excluded. Correlation with sigmoidoscopy/colonoscopy
+     recommended.
+                                                                 (Over)
+
+     DATE: [**2837-5-6**] 9:42 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12900**]
+     Reason: ct abd/pel with contrast, abdominal pain and anorexia
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  Moderate bilateral pleural effusions are unchanged.  
+     
+     4.  T12 and L1 compression fractures, unchanged.
+     
+     
+     
+
+",,

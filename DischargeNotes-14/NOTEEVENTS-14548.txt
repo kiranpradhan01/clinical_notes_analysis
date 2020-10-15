@@ -1,0 +1,159 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14548,23305,,,2872-08-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2872-8-26**]              Discharge Date:   [**2872-8-27**]
+ 
+Date of Birth:  [**2781-3-1**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1676**] 
+Chief Complaint:
+transfer from OSH for subdural hematoma and unresponsiveness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ [**Age over 90 **] y/o transferred from Mt. [**Hospital 10836**] Hospital after being found 
+at home, unresponsive, by his wife at 2:30 pm. He was ""not 
+waking up"" per her report. She called EMS who found him 
+responsive only to painful stimuluoi. He was tranported to [**Last Name (un) 1229**] 
+where he was found to have a large, Lt. - sided SDH with midline 
+shift, GCS of 4. He was also found to have an INR of 4.1 - he is 
+on coumadin for atrial fibrillation as an outpatient. 
+Transferred here for neurosurgery after being given FFP and 
+Vitamin K. On arrival here, pupils were dilated to 5 mm without 
+response to light. Neurosurgery was consulted, and they feel 
+that there would be no meaningful recovery from this injury and 
+no therefore no indication for intervention. A discussion was 
+started with the family about the withdrawal of care, and they 
+have decided to make him DNR, but would like other measures 
+undertaken short of compressions and shocks at the time of my 
+evaluation.
+ 
+Past Medical History:
+AFib on coumadin  
+CVA with residual lt. hemiparesis  
+HTN  
+Hyponatremia  
+Hypothyroidism  
+
+ 
+Social History:
+Lives in [**Location 773**] with his wife. 
+ 
+Family History:
+NC 
+ 
+Physical Exam:
+Intubated, non-responsive, not on sedation  
+Cervical collar in place  
+[**Last Name (un) **] [**Last Name (un) **] rhythm  
+CTAB  
+Soft, ND, BS+  
+No edema  
+
+ 
+Pertinent Results:
+[**2872-8-26**] 06:20PM   GLUCOSE-154* UREA N-17 CREAT-1.0 SODIUM-136 
+POTASSIUM-4.5 CHLORIDE-100 TOTAL CO2-23 ANION GAP-18
+[**2872-8-26**] 06:20PM   CK(CPK)-223*
+[**2872-8-26**] 06:20PM   cTropnT-<0.01
+[**2872-8-26**] 06:20PM   CK-MB-5
+[**2872-8-26**] 06:20PM   WBC-7.0 RBC-3.75* HGB-11.3* HCT-31.9* MCV-85 
+MCH-30.1 MCHC-35.4* RDW-13.1
+[**2872-8-26**] 06:20PM   NEUTS-91.3* BANDS-0 LYMPHS-5.9* MONOS-2.4 
+EOS-0.2 BASOS-0.2
+[**2872-8-26**] 06:20PM URINE  RBC-0-2 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-0
+[**2872-8-26**] 06:20PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+ 
+Brief Hospital Course:
+Pt was transferred from [**Hospital6 2604**] with a subdural 
+hematoma with midline shift as confirmed on CT scan. Shortly 
+after admission, patient was made comfort measures only by the 
+family and was extubated without complication. All medications 
+and treatments were stopped and patient was made comfortable 
+with morphine. Patient died without any complications and with 
+family present at the bedside. 
+ 
+Medications on Admission:
+Digoxin  
+Coumadin  
+Lisinopril  
+Levothyroxine 
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Subdural Hematoma in the setting of elevated INR
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+Pt. expired.
+ 
+Followup Instructions:
+None
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1680**] MD [**MD Number 1681**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 888**] MD [**MD Number 889**] [**2872-8-27**] @ 1807
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**2872-9-5**] 12:25 PM
+(End of Report)
+
+
+",,
+14548,23305,,,2872-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2872-8-26**] 6:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10387**]
+     Reason: SOB.CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Short of breath, CHF.
+     
+     CHEST, SINGLE AP VIEW. No previous chest x-rays on PACS record for comparison.
+     
+     ET tube in satisfactory position approximately 4.1 cm above the carina.  No
+     CHF, focal infiltrate, or effusion detected.  A tiny right apical pneumothorax
+     would be difficult to exclude.  The lungs are hyperinflated, suggesting
+     background COPD, with some distortion of interstitial markings. Osteopenia and
+     degenerative changes of the spine. Aortic calcification.
+     
+     IMPRESSION:
+     
+     ET tube in satisfactory position.  Background COPD. A tiny right apical
+     pneumothorax cannot be excluded.   Otherwise, no definite acute superimposed
+     process.
+
+",,
+14548,,18080,0,2872-08-27 01:05:00 EST,2872-08-27 01:34:00 EST,3116,"N",54,"Nursing/Other","MICU 6 NPN 2100-","
+MICU 6 NPN 2100-
+     Pt is a [**Age over 90 **] yo male, who had been to the [**Name8 (MD) **] MD earlier in the day.  Returned home, had lunch, and ~1pm, pt's wife noted that he wasn't making sense when speaking.  He increasingly became lethargic and EMS was called.  Transferred to [**Hospital6 **].  Pt arrived with an INR of 4.1 (on coumadin for chronic AF). Intubated for airway protection.  A CT  revealed a  large left sided subdural bleed with midline shift.  Given Vit K and FFP and transferred to [**Hospital1 10**].  Neuro evaluated on arrival, no intervention due to severity of bleed.   Transferred to MICU for supportive care.
+     
+     Arrived to MICU ~9pm, accompanied by multiple family members.  After much discussion, pt's wife, [**Doctor First Name 427**], their daughter, [**Doctor First Name 963**], and son [**Name (NI) 1199**], decided on comfort measures only.  Pt extubated ~2300, continued to breathe spontaneously.  Placed on Morphine gtt at 1mg/hr at 0130.
+Pt appears comfortable, RR 20's.  Family has been in throughout shift. Wife, son, daughter, 2 nephews and a niece in law.  All very supportive of the decision and of each other. 
+",,
+14548,,18080,0,2872-08-27 13:38:00 EST,2872-08-27 13:42:00 EST,6324,"N",54,"Nursing/Other","Condition update","
+Condition update
+please see carevue for specifics.
+
+Assumed care of Mr. [**Known patient lastname 6216**] [**Last Name (Titles) 1795**] 0700am. Pt unresponsive, nt withdrawing to pain. pupils fixed and non reactive, LS clear w/ Chain [**Doctor Last Name **] breathing, sats 60's-70's on room air. foley patent, morphine gtt at 1mg/ hour infusing. Pt's family in all shift visiting. Time of death approx 1348. MICU MD in to pronounce pt. [**Location (un) **] organ bank called, but d/t pt's age, he was not a candidate for [**Last Name (un) **] donation. 
+",,

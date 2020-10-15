@@ -1,0 +1,1540 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14633,,,,3213-05-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-5-23**] 2:07 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 11210**]
+     Reason: crf, laparoscopic tencknoff cath
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      crf
+      laparoscopic tencknoff cath
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Preop for laparoscopic procedure.
+     
+     PA & LATERAL CHEST:  Comparison is made with [**3211-1-24**].  There are
+     small bilateral pleural effusions.  No vascular congestion, infiltrates or
+     pneumothorax.  The cardiac and mediastinal contours are stable.  There is
+     calcification of the aorta.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+14633,5508,,,3213-05-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3213-5-24**]        Discharge Date: [**3213-6-4**]
+
+Date of Birth:  [**3133-3-10**]        Sex:  F
+
+Service:  [**Last Name (un) **]
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 80 year old
+female with a history of diabetes, hypertension and
+hypercholesterolemia and a questionable history of myocardial
+infarction who was to undergo laparoscopic placement of
+peritoneal dialysis catheter on [**3213-5-24**]. However, the
+beginning of the procedure was complicated by bowel
+perforation via trocar placement. The procedure was converted
+to an open procedure and the perforation was closed. No
+peritoneal dialysis catheter was placed. For operative
+details, please see operative note. There was a small pinhole
+injury at the transverse colon which was repaired. There was
+no gross peritoneal contamination identified. The patient was
+stable. Postoperatively, the patient did well, was afebrile
+and the vitals were stable. However, the postop course was
+complicated by bouts of atrial fibrillation and the patient
+was seen by Cardiology immediately postoperatively. The
+patient had a brief, about 30 minute, bout of atrial
+fibrillation postop in the setting of decreased blood
+pressure thought to be secondary to sedation and converted
+spontaneously and the blood pressure improved. However, over
+the course of the next few days, the patient continued to go
+back into atrial fibrillation and was ultimately placed on
+amiodarone drip.
+
+ALLERGIES:  ACE inhibitor causes increased K.
+
+MEDICATIONS ON ADMISSION:  Lopressor 150 mg bid, levofloxacin
+250 mg qd, Flagyl 500 mg tid, Valsartan 80 qd, Lipitor 20.
+
+PHYSICAL EXAMINATION:  General - HEENT - pupils are equal,
+round, react to light and accommodation. Extraocular muscles
+were intact. Sclera are anicteric. Neck was supple without
+lymphadenopathy. Heart is regular rate and rhythm with no
+murmurs, rubs or gallops. Abdomen is soft, nontender and
+nondistended.
+
+LABORATORY:  PT is 26 and INR of 1.3. Sodium is 143, K is
+4.3, chloride 104, bicarb 23, BUN 51, creatinine 2.7, glucose
+311.
+
+HOSPITAL COURSE:  On postop Day 1, the patient was continued
+on Levo/Flagyl and continued to be followed by the Renal
+Team. In order to initiate dialysis, the patient had a
+Permacath placed by Interventional Radiology on postop Day 4.
+The patient was followed for her increasing sugars. The
+patient was on insulin drip until postop Day 3. On postop Day
+6, she began to tolerate a diet and had frequent dialysis on
+Tuesday, Thursday, Saturday schedule. The patient's sugars
+were well controlled on an insulin regimen. Physical Therapy
+evaluated the patient on [**3213-5-31**] and deemed her suitable
+for rehabilitation secondary to generalized weakness. The
+patient had been in normal sinus rhythm 48 hours prior to
+discharge on stable PO amiodarone regimen. She was changed to
+Levo/Flagyl PO on [**3213-6-3**] and discharged to Rehabilitation
+on [**6-4**] on postop Day 11, Levo/Flagyl Day 12.
+
+DISCHARGE DIAGNOSIS:  Iatrogenic bowel perforation status
+post attempted peritoneal dialysis catheter placement
+laparoscopically converted to open procedure, status post
+postop atrial fibrillation, acute renal disease with
+hemodialysis status post Permacath placement.
+
+DISCHARGE INSTRUCTIONS:  The patient was discharged to
+Rehabilitation and instructed to follow up with Transplant
+Service at the next available visit. She was to call [**Telephone/Fax (1) 10987**] for an appointment.
+
+DISCHARGE MEDICATIONS:  The patient was discharged on
+medications of levofloxacin 250 mg po q48h, Coumadin 1 mg po
+hs, Flagyl 500 mg po tid, Flagyl and Levo for two weeks,
+Lopressor 50 mg po tid, amiodarone 400 mg po qd, insulin
+sliding scale and Pepcid 20 mg po qd.
+
+
+
+
+                        [**Name6 (MD) **] [**Name8 (MD) **], [**MD Number 890**]
+
+Dictated By:[**Doctor Last Name 10988**]
+MEDQUIST36
+D:  [**3213-6-4**] 08:26:57
+T:  [**3213-6-4**] 09:24:58
+Job#:  [**Job Number 10989**]
+Signed electronically by: DR. [**First Name (STitle) 58**] [**Name (STitle) **]
+ on: [**Doctor First Name 123**] [**3213-6-6**] 12:08 PM
+(End of Report)
+
+
+",,
+14633,5508,,,3213-05-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-5-26**] 6:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11211**]
+     Reason: please eval for position, pneumo                            
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with ESRD unstable a fibs/p L subclavian placement            
+     REASON FOR THIS EXAMINATION:
+      please eval for position, pneumo                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  History of subclavian CV line placement. 
+     
+     PORTABLE AP CHEST: The tip of the left subclavian CV line is in proximal SVC.
+     NG tube extends below diaphragm. No pneumothorax. No pulmonary consolidations.
+     
+
+",,
+14633,5508,18190,0,3213-05-26 18:45:00 EST,3213-05-26 19:03:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV-AFIB/ALT IN GI","
+CCU NSG NOTE: ALT IN CV-AFIB/ALT IN GI
+S: ""I feel so much better""
+O: For complete details of admit see admit note. This pleasant 80y old female was admitted [**5-24**] for elective placement of PD catheter. Surgery was aborted when bowel was nicked. She was transfered to [**Hospital Ward Name **] 6 [**5-25**] with NG tube. She was hypotensive to the 90s [**5-25**] in NSR. BP was up on [**5-26**] and she began receiving lopressor. At ~2pm she went into a-fib with her BP down to 80s. She received IVF and was transfered to CCU for further care.
+CV: Pt arrived at 1630 in a-fib with hr in 140-150s and BP 75-85/40s. Pt was mentating, but feeling terrible. She received 150mg amiordarone bolus at 1645 and started amiodarone gtt at 1mg/min at 1700. Her hr slowed down to 1-teens and just prior to cardioversion she converted to NSR with bp now in low 100s. She feels much better. She received 5mg IV lopressor at 1845 and hr in now in 80s. CKs are being cycled. Central line was placed and heparin will be started as soon as line is cleared for use. 
+ID: WBCs 16.9. Pt and flagyl and will start levofloxacin tonight.
+GI: Abdomen very tender. Dsg dry and in tact. Pt has NG tube to low intermittent suction, draining bile colored, slightly G+ liquid. She has very diminished bowel sounds. SHe is not passing gas.SHe is receiving 1 liter 1/2 NS at 100cc/hr.
+RESP: Pt has crackles at the bases. SHe is now sating 98-100% on 2L NP. Sats were lower when in a-fib.
+ENDO: Pt arrived on insulin gtt at 3.5u/hr. Last finer stick was 143 on 4u/hr. 
+RENAL: Foley draining clear urine at ~10cc/hr. 
+MS: Pt oriented X 3. When not moving she denies pain. She is able to assist with care. 
+A: Conversion to NSR after amiodarone/BP stable
+P: Start heparin. Check PTT 6 hrs later. Monitor finger sticks Q 1 hrs. Assess for pain. Change abd dsg bid. 
+
+
+",,
+14633,5508,18190,,3213-05-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14633,5508,18190,0,3213-05-27 02:15:00 EST,3213-05-27 02:29:00 EST,199,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+S: "" ALL I WANT TO DO IS [**Doctor Last Name **]""
+
+O: CV: AMIODARONE GTT DECREASED TO 0.5MG PT REMAINS IN NSR. NO EPISODES OF A-FIB NOTED. HR 73-80. CK#1 1472. DENIES C/O CP BP STABLE MAP'S 62-90 SBP 100-130. HEPARIN INFUSING @ 500U/HR. AWAITING AM PTT AND #2 CPK. CON'T ON LOPRESSOR 5MG IV Q6/HR.
+
+RESP: DENIES SOB. SATS 96-97%. RR-15-20 CON'T ON O2 @ 2L NPO BD CL/DIMINISHED AND COURSE AT BASES.
+
+GI: NTG TO LIS. DRAINING BILIOUS DRAINAGE. GUIAC TRACE POSITIVE. PH 5. ABD SOFT DISTENDED. NONTENDER. NO STOOL THIS SHIFT.
+
+GU: U/O 15-30CC/HR AMBER URINE. BUN 60 CREAT 3.5
+
+SKIN: ABD INCISION SITE C/D STERI STRIPS INTACT., INITIAL DSG CHG. HAD SM AMT'S SERSANG OLD DRAINAGE.  HEELS RED,UNBROKEN.
+
+NEURO: A/O FOLLOWS COMMANDS. MAE APPROPRIATE DENIES PAIN AND IS REFUSING PAIN MED. 
+
+ENDO: INSULIN GTT TITRATED TO 1.0U/HR SEE FLOW REGARDING BS. GOAL IS BS <120
+
+LABS: HCT 30.3
+      CK 1472
+
+ID: WBC 16.9 TEMP MAX 99.1 CON'T ON FLAGYL AND LEVOFLOXCIN
+
+IVF: 1/2 NS @ 100CC/HR INFUSING. TRIPLE LUMEN CONFIRMED BY CXR.
+
+SOCIAL: NO INQUIERES OVERNOC
+
+A/P: SERIAL CK'S
+     FOLLOW LYTES IN LIGHT OF ESRD
+     CON'T LOPRESSOR
+     CON'T PER NSG JUDGEMENT
+",,
+14633,5508,18190,0,3213-05-27 03:30:00 EST,3213-05-27 03:32:00 EST,199,"N",1,"Nursing/Other",,"
+
+ADDENDUM: AM PTT 36.4 MD [**Last Name (Titles) 1243**]. HEPARIN RATE INCREASED TO 800U/HR PER ORDER. AM #2 CPK 1212. AWAITING FURTHER LABS
+",,
+14633,5508,18190,1,3213-05-27 16:29:00 EST,3213-05-27 17:17:00 EST,506,"Y",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/ALT IN RENAL/ALT IN GI","
+CCU NSG NOTE: ALT IN CV/ALT IN RENAL/ALT IN GI
+CCU ADDENDUM: Team rounded and decided to increase heparin to 1000u/hr X 2 hours for a mini-bolus then turn it back to 800u and at midnight get PTT.
+",,
+14633,5508,18190,0,3213-05-27 16:29:00 EST,3213-05-27 16:59:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/ALT IN RENAL/ALT IN GI","
+CCU NSG NOTE: ALT IN CV/ALT IN RENAL/ALT IN GI
+S: ""I feel better than yesterday, but not that great.""
+O: For complete VS see CCU flow sheet.
+CV: Pt remains in NSR with rate in 70-80s without ectopy. She conts to received lopressor 5mg IV QID. Amiodarone conts at .5. Heparin was stopped for a few hours in AM and restarted at 1030 at 800u with PTT 47.1 at 5pm. Team will decide whether to increase or not. Last ck was 980 and mbs have been flat. 
+RESP: RR 18-22. Pt has crackles at bases that have decreased thru the day. She is sating 97-98% on 2L NP and is comfortable lying flat.
+GI: Pt remains NPO. Pt had NG tube clamped for 2 hours with 40cc bile asp. Bile was tossed and in ~45min pt c/o of nausea and had wretching. Another 40cc was asp from tube. Pt felt better. Tube was returned to intermittent suction. Attending requested it be changed to low constant suction at 1700 and it was. She has drained a total of 140cc since 4am, 240cc since midnight. The bile is slightly +. BY the afternoon she had bowel sounds and was passing gas. Her dsg was changed and incision is clean and dry. 
+RENAL: Foley draining clear urine. She is ~ 800cc po for the day and 1500 since admission here. The plan is for a tunnel catheter to be placed tomorrow and probably a fistula as well.
+ENDO: BLood sugars have been very labile ranging a low of 84 up to 190. drip was most recently  at 1.5u/hr. 
+COMFORT: Pt denies pain when lying still. She does have some abdominal discomfort with movement, though it seems less than yesterday. Her lower legs remain very tender with pre-existing parasthesias. 
+MS: Pt A & O X 3, pleasant and cooperative. Her husband and daughter were in to visit. Pt and family are aware of plan.
+A: Improved bowel sounds/passing gas/remains in NSR.
+P: Monitor for rhythm change. Check with team on rounds about heparin dose. Assist pt with position change. Keep careful I & O.
+
+",,
+14633,5508,18190,,3213-05-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14633,5508,18190,0,3213-05-28 05:02:00 EST,3213-05-28 05:08:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note-sicu border.","
+ccu nsg progress note-sicu border.
+o:remains sr wo ectopy-amiodarone @ 0.5mg/min-hemody stable. heparin @ 800u/hr w theraputic ptt-50.0. npo-ngt clamped-wo co nausea-hypoactive bowel sounds-passing flatus. <20ml/hr uo-am bun/creat 58/3. am bs-130 w insulin gtt presently @ 2u/hr. afebrile-abx as ordered. 
+
+a:stable throughout shift. insulin gtt titrated to bs.
+
+p:contin present management. hd catheter placement-?time. support as indicated.
+",,
+14633,5508,,,3213-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 885**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with esrd s/p iatrogenic enterotomy                           
+     REASON FOR THIS EXAMINATION:
+      dialysis tunneled line for HD                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Attempted Tenckhoff catheter placement for peritoneal dialysis
+     complicated by bowel perforation, now needs tunnedled line for long-term
+     dialysis access.
+     
+     PHYSICIANS:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2267**] (Resident), Dr. [**First Name (STitle) 5804**] [**Name (STitle) 952**] (Fellow), and
+     Dr. [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**], the attending radiologist, who was present and supervising.
+     
+     PROCEDURE/FINDINGS:  After explaining the risks and benefits of the procedure,
+     written informed consent was obtained.  The patient was placed supine on the
+     angiographic table.  The right neck was prepped and draped in the usual
+     sterile fashion.  Ultrasound was used to document a patent right internal
+     jugular vein.  Hardcopy ultrasound images of the vein were taken before and
+     during venopuncture.  The skin and subcutaneous soft tissues at the right
+     internal jugular site were anesthetized using approximately 5 cc of Lidocaine.
+     Under continuous sonographic guidance, a micropuncture needle was advanced
+     into the internal jugular vein.  A 0.018 guidewire was then advanced through
+     the needle.  A skin [**Doctor Last Name **] was made, and the needle was removed and exchanged
+     for the micropuncture sheath sets.  The inner portion of the sheath and the
+     wire were removed.  A 0.035 short [**Doctor Last Name 555**] guidewire was then advanced through
+     the sheath and into the inferior vena cava under fluoroscopic guidance.  The
+     length of the catheter was measured and determined to be a 24 cm tip to hub
+     catheter. The exit site for the tunnedled portion was anesthetized using 5 cc
+     of 1% Lidocaine.  The tract to the internal jugular puncture site was also
+     anesthetized using and additional 5 cc of 1% Lidocaine.  The incision for the
+     tunnedled exit was then made.  The catheter was attatched to the tunneler,
+     which was advanced to the internal jugular puncture site.  At this point, the
+     micropuncture sheath was removed from the internal jugular guidewire, and the
+     tract was serially dilated to accomodate the dialysis catheter.  The stiffener
+     was advanced through both lumens of the sheathless dialysis catheter system,
+     and the dialysis catheter was advanced over the wire into the right atrium,
+     under direct fluoroscopic guidance.  The stiffener and wire were then removed.
+     The catheter was flushed.  The internal jugular puncture site was sutured
+     using 2,O Dexon, using a single simple suture.  The catheter hub was secured
+     to the anterior chest wall using O Dexon.  An additional sutured anchored the
+     catheter at the tunnedled exit site, using 2,O Dexon.  The catheter was
+     heplocked.
+     
+                                                                 (Over)
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MEDICATION:  Fentanyl and Versed were given in divided doses under continuous
+     hemodynamic monitoring by radiology nursing staff for conscious sedation.
+     
+     IMPRESSION:  Successful placement of a 24 cm tip-to-hub tunnedled dialysis
+     catheter.  The catheter is ready for immediate use.
+     
+     
+     
+
+",,
+14633,5508,,,3213-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 885**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with esrd s/p iatrogenic enterotomy                           
+     REASON FOR THIS EXAMINATION:
+      dialysis tunneled line for HD                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Attempted Tenckhoff catheter placement for peritoneal dialysis
+     complicated by bowel perforation, now needs tunnedled line for long-term
+     dialysis access.
+     
+     PHYSICIANS:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2267**] (Resident), Dr. [**First Name (STitle) 5804**] [**Name (STitle) 952**] (Fellow), and
+     Dr. [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**], the attending radiologist, who was present and supervising.
+     
+     PROCEDURE/FINDINGS:  After explaining the risks and benefits of the procedure,
+     written informed consent was obtained.  The patient was placed supine on the
+     angiographic table.  The right neck was prepped and draped in the usual
+     sterile fashion.  Ultrasound was used to document a patent right internal
+     jugular vein.  Hardcopy ultrasound images of the vein were taken before and
+     during venopuncture.  The skin and subcutaneous soft tissues at the right
+     internal jugular site were anesthetized using approximately 5 cc of Lidocaine.
+     Under continuous sonographic guidance, a micropuncture needle was advanced
+     into the internal jugular vein.  A 0.018 guidewire was then advanced through
+     the needle.  A skin [**Doctor Last Name **] was made, and the needle was removed and exchanged
+     for the micropuncture sheath sets.  The inner portion of the sheath and the
+     wire were removed.  A 0.035 short [**Doctor Last Name 555**] guidewire was then advanced through
+     the sheath and into the inferior vena cava under fluoroscopic guidance.  The
+     length of the catheter was measured and determined to be a 24 cm tip to hub
+     catheter. The exit site for the tunnedled portion was anesthetized using 5 cc
+     of 1% Lidocaine.  The tract to the internal jugular puncture site was also
+     anesthetized using and additional 5 cc of 1% Lidocaine.  The incision for the
+     tunnedled exit was then made.  The catheter was attatched to the tunneler,
+     which was advanced to the internal jugular puncture site.  At this point, the
+     micropuncture sheath was removed from the internal jugular guidewire, and the
+     tract was serially dilated to accomodate the dialysis catheter.  The stiffener
+     was advanced through both lumens of the sheathless dialysis catheter system,
+     and the dialysis catheter was advanced over the wire into the right atrium,
+     under direct fluoroscopic guidance.  The stiffener and wire were then removed.
+     The catheter was flushed.  The internal jugular puncture site was sutured
+     using 2,O Dexon, using a single simple suture.  The catheter hub was secured
+     to the anterior chest wall using O Dexon.  An additional sutured anchored the
+     catheter at the tunnedled exit site, using 2,O Dexon.  The catheter was
+     heplocked.
+     
+                                                                 (Over)
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MEDICATION:  Fentanyl and Versed were given in divided doses under continuous
+     hemodynamic monitoring by radiology nursing staff for conscious sedation.
+     
+     IMPRESSION:  Successful placement of a 24 cm tip-to-hub tunnedled dialysis
+     catheter.  The catheter is ready for immediate use.
+     
+     
+     
+
+",,
+14633,5508,,,3213-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 885**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with esrd s/p iatrogenic enterotomy                           
+     REASON FOR THIS EXAMINATION:
+      dialysis tunneled line for HD                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Attempted Tenckhoff catheter placement for peritoneal dialysis
+     complicated by bowel perforation, now needs tunnedled line for long-term
+     dialysis access.
+     
+     PHYSICIANS:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2267**] (Resident), Dr. [**First Name (STitle) 5804**] [**Name (STitle) 952**] (Fellow), and
+     Dr. [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**], the attending radiologist, who was present and supervising.
+     
+     PROCEDURE/FINDINGS:  After explaining the risks and benefits of the procedure,
+     written informed consent was obtained.  The patient was placed supine on the
+     angiographic table.  The right neck was prepped and draped in the usual
+     sterile fashion.  Ultrasound was used to document a patent right internal
+     jugular vein.  Hardcopy ultrasound images of the vein were taken before and
+     during venopuncture.  The skin and subcutaneous soft tissues at the right
+     internal jugular site were anesthetized using approximately 5 cc of Lidocaine.
+     Under continuous sonographic guidance, a micropuncture needle was advanced
+     into the internal jugular vein.  A 0.018 guidewire was then advanced through
+     the needle.  A skin [**Doctor Last Name **] was made, and the needle was removed and exchanged
+     for the micropuncture sheath sets.  The inner portion of the sheath and the
+     wire were removed.  A 0.035 short [**Doctor Last Name 555**] guidewire was then advanced through
+     the sheath and into the inferior vena cava under fluoroscopic guidance.  The
+     length of the catheter was measured and determined to be a 24 cm tip to hub
+     catheter. The exit site for the tunnedled portion was anesthetized using 5 cc
+     of 1% Lidocaine.  The tract to the internal jugular puncture site was also
+     anesthetized using and additional 5 cc of 1% Lidocaine.  The incision for the
+     tunnedled exit was then made.  The catheter was attatched to the tunneler,
+     which was advanced to the internal jugular puncture site.  At this point, the
+     micropuncture sheath was removed from the internal jugular guidewire, and the
+     tract was serially dilated to accomodate the dialysis catheter.  The stiffener
+     was advanced through both lumens of the sheathless dialysis catheter system,
+     and the dialysis catheter was advanced over the wire into the right atrium,
+     under direct fluoroscopic guidance.  The stiffener and wire were then removed.
+     The catheter was flushed.  The internal jugular puncture site was sutured
+     using 2,O Dexon, using a single simple suture.  The catheter hub was secured
+     to the anterior chest wall using O Dexon.  An additional sutured anchored the
+     catheter at the tunnedled exit site, using 2,O Dexon.  The catheter was
+     heplocked.
+     
+                                                                 (Over)
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MEDICATION:  Fentanyl and Versed were given in divided doses under continuous
+     hemodynamic monitoring by radiology nursing staff for conscious sedation.
+     
+     IMPRESSION:  Successful placement of a 24 cm tip-to-hub tunnedled dialysis
+     catheter.  The catheter is ready for immediate use.
+     
+     
+     
+
+",,
+14633,5508,,,3213-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 885**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with esrd s/p iatrogenic enterotomy                           
+     REASON FOR THIS EXAMINATION:
+      dialysis tunneled line for HD                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Attempted Tenckhoff catheter placement for peritoneal dialysis
+     complicated by bowel perforation, now needs tunnedled line for long-term
+     dialysis access.
+     
+     PHYSICIANS:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2267**] (Resident), Dr. [**First Name (STitle) 5804**] [**Name (STitle) 952**] (Fellow), and
+     Dr. [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**], the attending radiologist, who was present and supervising.
+     
+     PROCEDURE/FINDINGS:  After explaining the risks and benefits of the procedure,
+     written informed consent was obtained.  The patient was placed supine on the
+     angiographic table.  The right neck was prepped and draped in the usual
+     sterile fashion.  Ultrasound was used to document a patent right internal
+     jugular vein.  Hardcopy ultrasound images of the vein were taken before and
+     during venopuncture.  The skin and subcutaneous soft tissues at the right
+     internal jugular site were anesthetized using approximately 5 cc of Lidocaine.
+     Under continuous sonographic guidance, a micropuncture needle was advanced
+     into the internal jugular vein.  A 0.018 guidewire was then advanced through
+     the needle.  A skin [**Doctor Last Name **] was made, and the needle was removed and exchanged
+     for the micropuncture sheath sets.  The inner portion of the sheath and the
+     wire were removed.  A 0.035 short [**Doctor Last Name 555**] guidewire was then advanced through
+     the sheath and into the inferior vena cava under fluoroscopic guidance.  The
+     length of the catheter was measured and determined to be a 24 cm tip to hub
+     catheter. The exit site for the tunnedled portion was anesthetized using 5 cc
+     of 1% Lidocaine.  The tract to the internal jugular puncture site was also
+     anesthetized using and additional 5 cc of 1% Lidocaine.  The incision for the
+     tunnedled exit was then made.  The catheter was attatched to the tunneler,
+     which was advanced to the internal jugular puncture site.  At this point, the
+     micropuncture sheath was removed from the internal jugular guidewire, and the
+     tract was serially dilated to accomodate the dialysis catheter.  The stiffener
+     was advanced through both lumens of the sheathless dialysis catheter system,
+     and the dialysis catheter was advanced over the wire into the right atrium,
+     under direct fluoroscopic guidance.  The stiffener and wire were then removed.
+     The catheter was flushed.  The internal jugular puncture site was sutured
+     using 2,O Dexon, using a single simple suture.  The catheter hub was secured
+     to the anterior chest wall using O Dexon.  An additional sutured anchored the
+     catheter at the tunnedled exit site, using 2,O Dexon.  The catheter was
+     heplocked.
+     
+                                                                 (Over)
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MEDICATION:  Fentanyl and Versed were given in divided doses under continuous
+     hemodynamic monitoring by radiology nursing staff for conscious sedation.
+     
+     IMPRESSION:  Successful placement of a 24 cm tip-to-hub tunnedled dialysis
+     catheter.  The catheter is ready for immediate use.
+     
+     
+     
+
+",,
+14633,5508,,,3213-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 885**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with esrd s/p iatrogenic enterotomy                           
+     REASON FOR THIS EXAMINATION:
+      dialysis tunneled line for HD                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Attempted Tenckhoff catheter placement for peritoneal dialysis
+     complicated by bowel perforation, now needs tunnedled line for long-term
+     dialysis access.
+     
+     PHYSICIANS:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2267**] (Resident), Dr. [**First Name (STitle) 5804**] [**Name (STitle) 952**] (Fellow), and
+     Dr. [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**], the attending radiologist, who was present and supervising.
+     
+     PROCEDURE/FINDINGS:  After explaining the risks and benefits of the procedure,
+     written informed consent was obtained.  The patient was placed supine on the
+     angiographic table.  The right neck was prepped and draped in the usual
+     sterile fashion.  Ultrasound was used to document a patent right internal
+     jugular vein.  Hardcopy ultrasound images of the vein were taken before and
+     during venopuncture.  The skin and subcutaneous soft tissues at the right
+     internal jugular site were anesthetized using approximately 5 cc of Lidocaine.
+     Under continuous sonographic guidance, a micropuncture needle was advanced
+     into the internal jugular vein.  A 0.018 guidewire was then advanced through
+     the needle.  A skin [**Doctor Last Name **] was made, and the needle was removed and exchanged
+     for the micropuncture sheath sets.  The inner portion of the sheath and the
+     wire were removed.  A 0.035 short [**Doctor Last Name 555**] guidewire was then advanced through
+     the sheath and into the inferior vena cava under fluoroscopic guidance.  The
+     length of the catheter was measured and determined to be a 24 cm tip to hub
+     catheter. The exit site for the tunnedled portion was anesthetized using 5 cc
+     of 1% Lidocaine.  The tract to the internal jugular puncture site was also
+     anesthetized using and additional 5 cc of 1% Lidocaine.  The incision for the
+     tunnedled exit was then made.  The catheter was attatched to the tunneler,
+     which was advanced to the internal jugular puncture site.  At this point, the
+     micropuncture sheath was removed from the internal jugular guidewire, and the
+     tract was serially dilated to accomodate the dialysis catheter.  The stiffener
+     was advanced through both lumens of the sheathless dialysis catheter system,
+     and the dialysis catheter was advanced over the wire into the right atrium,
+     under direct fluoroscopic guidance.  The stiffener and wire were then removed.
+     The catheter was flushed.  The internal jugular puncture site was sutured
+     using 2,O Dexon, using a single simple suture.  The catheter hub was secured
+     to the anterior chest wall using O Dexon.  An additional sutured anchored the
+     catheter at the tunnedled exit site, using 2,O Dexon.  The catheter was
+     heplocked.
+     
+                                                                 (Over)
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MEDICATION:  Fentanyl and Versed were given in divided doses under continuous
+     hemodynamic monitoring by radiology nursing staff for conscious sedation.
+     
+     IMPRESSION:  Successful placement of a 24 cm tip-to-hub tunnedled dialysis
+     catheter.  The catheter is ready for immediate use.
+     
+     
+     
+
+",,
+14633,5508,,,3213-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 885**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with esrd s/p iatrogenic enterotomy                           
+     REASON FOR THIS EXAMINATION:
+      dialysis tunneled line for HD                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Attempted Tenckhoff catheter placement for peritoneal dialysis
+     complicated by bowel perforation, now needs tunnedled line for long-term
+     dialysis access.
+     
+     PHYSICIANS:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2267**] (Resident), Dr. [**First Name (STitle) 5804**] [**Name (STitle) 952**] (Fellow), and
+     Dr. [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**], the attending radiologist, who was present and supervising.
+     
+     PROCEDURE/FINDINGS:  After explaining the risks and benefits of the procedure,
+     written informed consent was obtained.  The patient was placed supine on the
+     angiographic table.  The right neck was prepped and draped in the usual
+     sterile fashion.  Ultrasound was used to document a patent right internal
+     jugular vein.  Hardcopy ultrasound images of the vein were taken before and
+     during venopuncture.  The skin and subcutaneous soft tissues at the right
+     internal jugular site were anesthetized using approximately 5 cc of Lidocaine.
+     Under continuous sonographic guidance, a micropuncture needle was advanced
+     into the internal jugular vein.  A 0.018 guidewire was then advanced through
+     the needle.  A skin [**Doctor Last Name **] was made, and the needle was removed and exchanged
+     for the micropuncture sheath sets.  The inner portion of the sheath and the
+     wire were removed.  A 0.035 short [**Doctor Last Name 555**] guidewire was then advanced through
+     the sheath and into the inferior vena cava under fluoroscopic guidance.  The
+     length of the catheter was measured and determined to be a 24 cm tip to hub
+     catheter. The exit site for the tunnedled portion was anesthetized using 5 cc
+     of 1% Lidocaine.  The tract to the internal jugular puncture site was also
+     anesthetized using and additional 5 cc of 1% Lidocaine.  The incision for the
+     tunnedled exit was then made.  The catheter was attatched to the tunneler,
+     which was advanced to the internal jugular puncture site.  At this point, the
+     micropuncture sheath was removed from the internal jugular guidewire, and the
+     tract was serially dilated to accomodate the dialysis catheter.  The stiffener
+     was advanced through both lumens of the sheathless dialysis catheter system,
+     and the dialysis catheter was advanced over the wire into the right atrium,
+     under direct fluoroscopic guidance.  The stiffener and wire were then removed.
+     The catheter was flushed.  The internal jugular puncture site was sutured
+     using 2,O Dexon, using a single simple suture.  The catheter hub was secured
+     to the anterior chest wall using O Dexon.  An additional sutured anchored the
+     catheter at the tunnedled exit site, using 2,O Dexon.  The catheter was
+     heplocked.
+     
+                                                                 (Over)
+
+     DATE: [**3213-5-29**] 7:31 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11212**]
+     Reason: dialysis tunneled line for HD                               
+     Admitting Diagnosis: CHRONIC RENAL FAILURE;OPEN EXPLORATORY LAP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     MEDICATION:  Fentanyl and Versed were given in divided doses under continuous
+     hemodynamic monitoring by radiology nursing staff for conscious sedation.
+     
+     IMPRESSION:  Successful placement of a 24 cm tip-to-hub tunnedled dialysis
+     catheter.  The catheter is ready for immediate use.
+     
+     
+     
+
+",,
+14633,,,,3213-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-18**] 6:16 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11213**]
+     Reason: pre op chest x ray                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with cold left foot and ble edema                             
+     REASON FOR THIS EXAMINATION:
+      pre op chest x ray                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST:
+     
+     INDICATION:  Cold left foot and bilateral lower extremity edema.  Preop exam.
+     
+     COMPARISON:  [**3213-5-29**]
+     
+     FINDINGS:  There has been interval removal of the NG tube and left subclavian
+     central venous line.  A dual lumen right sided dialysis catheter is present,
+     the tip of which overlies the cavoatrial junction.  The heart is top normal in
+     size.  The aortic arch is calcified.  There is no pulmonary vascular
+     congestion, pleural effusion, focal infiltrate, or pneumothorax.  The bones
+     are unremarkable.
+     
+     IMPRESSION: mild cardiomegaly without over failure.
+     
+
+",,
+14633,,,,3213-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      eval cold foot, previous aortobifem                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80 year old female with cold and painful left lower extremity.
+     Please perform arteriography.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr.
+     [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising
+     throughout.  After the risks and benefits of the procedure were discussed with
+     the patient and informed consent was obtained, the patient was placed supine
+     on the angiography table.  Her left upper extremity was prepped and draped in
+     the standard sterile fashion.  The skin and subcutaneous tissues in the
+     antecubital fossa were anesthetized with 3 cc of 1% lidocaine.  The left
+     brachial artery was accessed using a 21 gauge micropuncture needle in the
+     retrograde fashion.  A .018 guidewire was advanced through the access needle
+     into the axillary artery under fluoroscopic visualization.  The skin entry
+     site was incised with an #11 blade scalpel.  The access needle was exchanged
+     for a 5 FR micropuncture sheath and inner dilator.  The inner dilator and
+     guidewire were removed.  A .035 [**Last Name (un) 528**] wire was advanced through the
+     micropuncture sheath into the axillary artery.  An exchange was then made for
+     a 5 FR angiographic sheathr.  After the inner dilator was removed, the sheath
+     was assembled to a continuous saline flush.  A 5 FR pigtail catheter was then
+     advanced over the [**Last Name (un) 528**] wire into the ascending aorta.  The [**Last Name (un) 528**] wire was
+     exchanged for a guidewire.  Using this combination, the catheter was advanced
+     into the abdominal aorta.
+     
+     With the catheter positioned at the L1 vertebral level, an abdominal aortogram
+     was performed.  This demonstrated patent renal arteries bilaterally.  The
+     right limb of the aortobifemoral bypass graft was widely patent.  The left
+     limb was occluded.  The native left common iliac was visualized but is
+     severely diseased throughout.  The native SFA is occluded.  There is
+     reconstitution of the profunda femoris artery.  The above knee popliteal
+     artery is patent.  There is focal plaque present in the below knee popliteal
+     artery.  At the level of the trifurcation, the anterior tibial artery is
+     patent with mild stenosis proximally.  The peroneal and posterior tibial
+     arteries are occluded.  The anterior tibial artery remains patent to the foot.
+     There is a short focal occlusion of the dorsalis pedis artery.  There is
+     retrograde filling of diseased plantar branches.  After the arteriogram was
+                                                                 (Over)
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     performed, a .035 [**Last Name (un) 528**] wire was advanced through the pigtail catheter.
+     After the catheter was straightened, the guidewire and pigtail catheter were
+     removed.  The patient was transferred to the recovery room where the 5 FR
+     angiographic sheath was removed.  Manual pressure was held until hemostasis
+     was achieved.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% lidocaine.  0.5 mg of Versed and 50 mcg of Fentanyl were
+     administered in intermittent doses with continuous monitoring of vital signs
+     by the nursing staff.
+     
+     CONTRAST:  220 cc of Visipaque.
+     
+     IMPRESSION:
+     
+     1.  Abdominal angiography revealed an occluded left limb of the aortobifemoral
+     bypass graft.  The right limb is patent.
+     
+     2.  Left lower extremity arteriography revealed a present but severely
+     diseased native common iliac artery.  There is reconstitution of the profunda
+     femoris.  The superficial femoral artery is occluded but there is
+     reconstitution of the above knee popliteal artery.  There is focal stenosis
+     present in the below knee popliteal.  At the level of the trifurcation, there
+     is a single vessel runoff via the anterior tibial artery with mild stenosis
+     proximally.  There is a short focal occlusion of the dorsalis pedis artery.
+     There was retrograde filling of diseased plantar branches.
+     
+     
+     
+
+",,
+14633,,,,3213-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      eval cold foot, previous aortobifem                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80 year old female with cold and painful left lower extremity.
+     Please perform arteriography.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr.
+     [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising
+     throughout.  After the risks and benefits of the procedure were discussed with
+     the patient and informed consent was obtained, the patient was placed supine
+     on the angiography table.  Her left upper extremity was prepped and draped in
+     the standard sterile fashion.  The skin and subcutaneous tissues in the
+     antecubital fossa were anesthetized with 3 cc of 1% lidocaine.  The left
+     brachial artery was accessed using a 21 gauge micropuncture needle in the
+     retrograde fashion.  A .018 guidewire was advanced through the access needle
+     into the axillary artery under fluoroscopic visualization.  The skin entry
+     site was incised with an #11 blade scalpel.  The access needle was exchanged
+     for a 5 FR micropuncture sheath and inner dilator.  The inner dilator and
+     guidewire were removed.  A .035 [**Last Name (un) 528**] wire was advanced through the
+     micropuncture sheath into the axillary artery.  An exchange was then made for
+     a 5 FR angiographic sheathr.  After the inner dilator was removed, the sheath
+     was assembled to a continuous saline flush.  A 5 FR pigtail catheter was then
+     advanced over the [**Last Name (un) 528**] wire into the ascending aorta.  The [**Last Name (un) 528**] wire was
+     exchanged for a guidewire.  Using this combination, the catheter was advanced
+     into the abdominal aorta.
+     
+     With the catheter positioned at the L1 vertebral level, an abdominal aortogram
+     was performed.  This demonstrated patent renal arteries bilaterally.  The
+     right limb of the aortobifemoral bypass graft was widely patent.  The left
+     limb was occluded.  The native left common iliac was visualized but is
+     severely diseased throughout.  The native SFA is occluded.  There is
+     reconstitution of the profunda femoris artery.  The above knee popliteal
+     artery is patent.  There is focal plaque present in the below knee popliteal
+     artery.  At the level of the trifurcation, the anterior tibial artery is
+     patent with mild stenosis proximally.  The peroneal and posterior tibial
+     arteries are occluded.  The anterior tibial artery remains patent to the foot.
+     There is a short focal occlusion of the dorsalis pedis artery.  There is
+     retrograde filling of diseased plantar branches.  After the arteriogram was
+                                                                 (Over)
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     performed, a .035 [**Last Name (un) 528**] wire was advanced through the pigtail catheter.
+     After the catheter was straightened, the guidewire and pigtail catheter were
+     removed.  The patient was transferred to the recovery room where the 5 FR
+     angiographic sheath was removed.  Manual pressure was held until hemostasis
+     was achieved.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% lidocaine.  0.5 mg of Versed and 50 mcg of Fentanyl were
+     administered in intermittent doses with continuous monitoring of vital signs
+     by the nursing staff.
+     
+     CONTRAST:  220 cc of Visipaque.
+     
+     IMPRESSION:
+     
+     1.  Abdominal angiography revealed an occluded left limb of the aortobifemoral
+     bypass graft.  The right limb is patent.
+     
+     2.  Left lower extremity arteriography revealed a present but severely
+     diseased native common iliac artery.  There is reconstitution of the profunda
+     femoris.  The superficial femoral artery is occluded but there is
+     reconstitution of the above knee popliteal artery.  There is focal stenosis
+     present in the below knee popliteal.  At the level of the trifurcation, there
+     is a single vessel runoff via the anterior tibial artery with mild stenosis
+     proximally.  There is a short focal occlusion of the dorsalis pedis artery.
+     There was retrograde filling of diseased plantar branches.
+     
+     
+     
+
+",,
+14633,,,,3213-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      eval cold foot, previous aortobifem                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80 year old female with cold and painful left lower extremity.
+     Please perform arteriography.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr.
+     [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising
+     throughout.  After the risks and benefits of the procedure were discussed with
+     the patient and informed consent was obtained, the patient was placed supine
+     on the angiography table.  Her left upper extremity was prepped and draped in
+     the standard sterile fashion.  The skin and subcutaneous tissues in the
+     antecubital fossa were anesthetized with 3 cc of 1% lidocaine.  The left
+     brachial artery was accessed using a 21 gauge micropuncture needle in the
+     retrograde fashion.  A .018 guidewire was advanced through the access needle
+     into the axillary artery under fluoroscopic visualization.  The skin entry
+     site was incised with an #11 blade scalpel.  The access needle was exchanged
+     for a 5 FR micropuncture sheath and inner dilator.  The inner dilator and
+     guidewire were removed.  A .035 [**Last Name (un) 528**] wire was advanced through the
+     micropuncture sheath into the axillary artery.  An exchange was then made for
+     a 5 FR angiographic sheathr.  After the inner dilator was removed, the sheath
+     was assembled to a continuous saline flush.  A 5 FR pigtail catheter was then
+     advanced over the [**Last Name (un) 528**] wire into the ascending aorta.  The [**Last Name (un) 528**] wire was
+     exchanged for a guidewire.  Using this combination, the catheter was advanced
+     into the abdominal aorta.
+     
+     With the catheter positioned at the L1 vertebral level, an abdominal aortogram
+     was performed.  This demonstrated patent renal arteries bilaterally.  The
+     right limb of the aortobifemoral bypass graft was widely patent.  The left
+     limb was occluded.  The native left common iliac was visualized but is
+     severely diseased throughout.  The native SFA is occluded.  There is
+     reconstitution of the profunda femoris artery.  The above knee popliteal
+     artery is patent.  There is focal plaque present in the below knee popliteal
+     artery.  At the level of the trifurcation, the anterior tibial artery is
+     patent with mild stenosis proximally.  The peroneal and posterior tibial
+     arteries are occluded.  The anterior tibial artery remains patent to the foot.
+     There is a short focal occlusion of the dorsalis pedis artery.  There is
+     retrograde filling of diseased plantar branches.  After the arteriogram was
+                                                                 (Over)
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     performed, a .035 [**Last Name (un) 528**] wire was advanced through the pigtail catheter.
+     After the catheter was straightened, the guidewire and pigtail catheter were
+     removed.  The patient was transferred to the recovery room where the 5 FR
+     angiographic sheath was removed.  Manual pressure was held until hemostasis
+     was achieved.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% lidocaine.  0.5 mg of Versed and 50 mcg of Fentanyl were
+     administered in intermittent doses with continuous monitoring of vital signs
+     by the nursing staff.
+     
+     CONTRAST:  220 cc of Visipaque.
+     
+     IMPRESSION:
+     
+     1.  Abdominal angiography revealed an occluded left limb of the aortobifemoral
+     bypass graft.  The right limb is patent.
+     
+     2.  Left lower extremity arteriography revealed a present but severely
+     diseased native common iliac artery.  There is reconstitution of the profunda
+     femoris.  The superficial femoral artery is occluded but there is
+     reconstitution of the above knee popliteal artery.  There is focal stenosis
+     present in the below knee popliteal.  At the level of the trifurcation, there
+     is a single vessel runoff via the anterior tibial artery with mild stenosis
+     proximally.  There is a short focal occlusion of the dorsalis pedis artery.
+     There was retrograde filling of diseased plantar branches.
+     
+     
+     
+
+",,
+14633,,,,3213-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      eval cold foot, previous aortobifem                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80 year old female with cold and painful left lower extremity.
+     Please perform arteriography.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr.
+     [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising
+     throughout.  After the risks and benefits of the procedure were discussed with
+     the patient and informed consent was obtained, the patient was placed supine
+     on the angiography table.  Her left upper extremity was prepped and draped in
+     the standard sterile fashion.  The skin and subcutaneous tissues in the
+     antecubital fossa were anesthetized with 3 cc of 1% lidocaine.  The left
+     brachial artery was accessed using a 21 gauge micropuncture needle in the
+     retrograde fashion.  A .018 guidewire was advanced through the access needle
+     into the axillary artery under fluoroscopic visualization.  The skin entry
+     site was incised with an #11 blade scalpel.  The access needle was exchanged
+     for a 5 FR micropuncture sheath and inner dilator.  The inner dilator and
+     guidewire were removed.  A .035 [**Last Name (un) 528**] wire was advanced through the
+     micropuncture sheath into the axillary artery.  An exchange was then made for
+     a 5 FR angiographic sheathr.  After the inner dilator was removed, the sheath
+     was assembled to a continuous saline flush.  A 5 FR pigtail catheter was then
+     advanced over the [**Last Name (un) 528**] wire into the ascending aorta.  The [**Last Name (un) 528**] wire was
+     exchanged for a guidewire.  Using this combination, the catheter was advanced
+     into the abdominal aorta.
+     
+     With the catheter positioned at the L1 vertebral level, an abdominal aortogram
+     was performed.  This demonstrated patent renal arteries bilaterally.  The
+     right limb of the aortobifemoral bypass graft was widely patent.  The left
+     limb was occluded.  The native left common iliac was visualized but is
+     severely diseased throughout.  The native SFA is occluded.  There is
+     reconstitution of the profunda femoris artery.  The above knee popliteal
+     artery is patent.  There is focal plaque present in the below knee popliteal
+     artery.  At the level of the trifurcation, the anterior tibial artery is
+     patent with mild stenosis proximally.  The peroneal and posterior tibial
+     arteries are occluded.  The anterior tibial artery remains patent to the foot.
+     There is a short focal occlusion of the dorsalis pedis artery.  There is
+     retrograde filling of diseased plantar branches.  After the arteriogram was
+                                                                 (Over)
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     performed, a .035 [**Last Name (un) 528**] wire was advanced through the pigtail catheter.
+     After the catheter was straightened, the guidewire and pigtail catheter were
+     removed.  The patient was transferred to the recovery room where the 5 FR
+     angiographic sheath was removed.  Manual pressure was held until hemostasis
+     was achieved.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% lidocaine.  0.5 mg of Versed and 50 mcg of Fentanyl were
+     administered in intermittent doses with continuous monitoring of vital signs
+     by the nursing staff.
+     
+     CONTRAST:  220 cc of Visipaque.
+     
+     IMPRESSION:
+     
+     1.  Abdominal angiography revealed an occluded left limb of the aortobifemoral
+     bypass graft.  The right limb is patent.
+     
+     2.  Left lower extremity arteriography revealed a present but severely
+     diseased native common iliac artery.  There is reconstitution of the profunda
+     femoris.  The superficial femoral artery is occluded but there is
+     reconstitution of the above knee popliteal artery.  There is focal stenosis
+     present in the below knee popliteal.  At the level of the trifurcation, there
+     is a single vessel runoff via the anterior tibial artery with mild stenosis
+     proximally.  There is a short focal occlusion of the dorsalis pedis artery.
+     There was retrograde filling of diseased plantar branches.
+     
+     
+     
+
+",,
+14633,,,,3213-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      eval cold foot, previous aortobifem                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80 year old female with cold and painful left lower extremity.
+     Please perform arteriography.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr.
+     [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising
+     throughout.  After the risks and benefits of the procedure were discussed with
+     the patient and informed consent was obtained, the patient was placed supine
+     on the angiography table.  Her left upper extremity was prepped and draped in
+     the standard sterile fashion.  The skin and subcutaneous tissues in the
+     antecubital fossa were anesthetized with 3 cc of 1% lidocaine.  The left
+     brachial artery was accessed using a 21 gauge micropuncture needle in the
+     retrograde fashion.  A .018 guidewire was advanced through the access needle
+     into the axillary artery under fluoroscopic visualization.  The skin entry
+     site was incised with an #11 blade scalpel.  The access needle was exchanged
+     for a 5 FR micropuncture sheath and inner dilator.  The inner dilator and
+     guidewire were removed.  A .035 [**Last Name (un) 528**] wire was advanced through the
+     micropuncture sheath into the axillary artery.  An exchange was then made for
+     a 5 FR angiographic sheathr.  After the inner dilator was removed, the sheath
+     was assembled to a continuous saline flush.  A 5 FR pigtail catheter was then
+     advanced over the [**Last Name (un) 528**] wire into the ascending aorta.  The [**Last Name (un) 528**] wire was
+     exchanged for a guidewire.  Using this combination, the catheter was advanced
+     into the abdominal aorta.
+     
+     With the catheter positioned at the L1 vertebral level, an abdominal aortogram
+     was performed.  This demonstrated patent renal arteries bilaterally.  The
+     right limb of the aortobifemoral bypass graft was widely patent.  The left
+     limb was occluded.  The native left common iliac was visualized but is
+     severely diseased throughout.  The native SFA is occluded.  There is
+     reconstitution of the profunda femoris artery.  The above knee popliteal
+     artery is patent.  There is focal plaque present in the below knee popliteal
+     artery.  At the level of the trifurcation, the anterior tibial artery is
+     patent with mild stenosis proximally.  The peroneal and posterior tibial
+     arteries are occluded.  The anterior tibial artery remains patent to the foot.
+     There is a short focal occlusion of the dorsalis pedis artery.  There is
+     retrograde filling of diseased plantar branches.  After the arteriogram was
+                                                                 (Over)
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     performed, a .035 [**Last Name (un) 528**] wire was advanced through the pigtail catheter.
+     After the catheter was straightened, the guidewire and pigtail catheter were
+     removed.  The patient was transferred to the recovery room where the 5 FR
+     angiographic sheath was removed.  Manual pressure was held until hemostasis
+     was achieved.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% lidocaine.  0.5 mg of Versed and 50 mcg of Fentanyl were
+     administered in intermittent doses with continuous monitoring of vital signs
+     by the nursing staff.
+     
+     CONTRAST:  220 cc of Visipaque.
+     
+     IMPRESSION:
+     
+     1.  Abdominal angiography revealed an occluded left limb of the aortobifemoral
+     bypass graft.  The right limb is patent.
+     
+     2.  Left lower extremity arteriography revealed a present but severely
+     diseased native common iliac artery.  There is reconstitution of the profunda
+     femoris.  The superficial femoral artery is occluded but there is
+     reconstitution of the above knee popliteal artery.  There is focal stenosis
+     present in the below knee popliteal.  At the level of the trifurcation, there
+     is a single vessel runoff via the anterior tibial artery with mild stenosis
+     proximally.  There is a short focal occlusion of the dorsalis pedis artery.
+     There was retrograde filling of diseased plantar branches.
+     
+     
+     
+
+",,
+14633,,,,3213-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      eval cold foot, previous aortobifem                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80 year old female with cold and painful left lower extremity.
+     Please perform arteriography.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name4 (NamePattern1) 258**] [**Last Name (NamePattern1) 259**] and Dr.
+     [**First Name8 (NamePattern2) 553**] [**Name (STitle) 250**].  Dr. [**Last Name (STitle) 250**], the staff radiologist, was present and supervising
+     throughout.  After the risks and benefits of the procedure were discussed with
+     the patient and informed consent was obtained, the patient was placed supine
+     on the angiography table.  Her left upper extremity was prepped and draped in
+     the standard sterile fashion.  The skin and subcutaneous tissues in the
+     antecubital fossa were anesthetized with 3 cc of 1% lidocaine.  The left
+     brachial artery was accessed using a 21 gauge micropuncture needle in the
+     retrograde fashion.  A .018 guidewire was advanced through the access needle
+     into the axillary artery under fluoroscopic visualization.  The skin entry
+     site was incised with an #11 blade scalpel.  The access needle was exchanged
+     for a 5 FR micropuncture sheath and inner dilator.  The inner dilator and
+     guidewire were removed.  A .035 [**Last Name (un) 528**] wire was advanced through the
+     micropuncture sheath into the axillary artery.  An exchange was then made for
+     a 5 FR angiographic sheathr.  After the inner dilator was removed, the sheath
+     was assembled to a continuous saline flush.  A 5 FR pigtail catheter was then
+     advanced over the [**Last Name (un) 528**] wire into the ascending aorta.  The [**Last Name (un) 528**] wire was
+     exchanged for a guidewire.  Using this combination, the catheter was advanced
+     into the abdominal aorta.
+     
+     With the catheter positioned at the L1 vertebral level, an abdominal aortogram
+     was performed.  This demonstrated patent renal arteries bilaterally.  The
+     right limb of the aortobifemoral bypass graft was widely patent.  The left
+     limb was occluded.  The native left common iliac was visualized but is
+     severely diseased throughout.  The native SFA is occluded.  There is
+     reconstitution of the profunda femoris artery.  The above knee popliteal
+     artery is patent.  There is focal plaque present in the below knee popliteal
+     artery.  At the level of the trifurcation, the anterior tibial artery is
+     patent with mild stenosis proximally.  The peroneal and posterior tibial
+     arteries are occluded.  The anterior tibial artery remains patent to the foot.
+     There is a short focal occlusion of the dorsalis pedis artery.  There is
+     retrograde filling of diseased plantar branches.  After the arteriogram was
+                                                                 (Over)
+
+     DATE: [**3213-11-19**] 7:29 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 11214**]
+     Reason: eval cold foot, previous aortobifem                         
+     Admitting Diagnosis: LEFT FOOT PVD
+      Contrast: VISAPAQUE Amt: 225
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     performed, a .035 [**Last Name (un) 528**] wire was advanced through the pigtail catheter.
+     After the catheter was straightened, the guidewire and pigtail catheter were
+     removed.  The patient was transferred to the recovery room where the 5 FR
+     angiographic sheath was removed.  Manual pressure was held until hemostasis
+     was achieved.
+     
+     COMPLICATIONS:  None.
+     
+     MEDICATIONS:  1% lidocaine.  0.5 mg of Versed and 50 mcg of Fentanyl were
+     administered in intermittent doses with continuous monitoring of vital signs
+     by the nursing staff.
+     
+     CONTRAST:  220 cc of Visipaque.
+     
+     IMPRESSION:
+     
+     1.  Abdominal angiography revealed an occluded left limb of the aortobifemoral
+     bypass graft.  The right limb is patent.
+     
+     2.  Left lower extremity arteriography revealed a present but severely
+     diseased native common iliac artery.  There is reconstitution of the profunda
+     femoris.  The superficial femoral artery is occluded but there is
+     reconstitution of the above knee popliteal artery.  There is focal stenosis
+     present in the below knee popliteal.  At the level of the trifurcation, there
+     is a single vessel runoff via the anterior tibial artery with mild stenosis
+     proximally.  There is a short focal occlusion of the dorsalis pedis artery.
+     There was retrograde filling of diseased plantar branches.
+     
+     
+     
+
+",,
+14633,,,,3213-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-21**] 3:57 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11215**]
+     Reason: r/o PTX, check line placement                               
+     Admitting Diagnosis: LEFT FOOT PVD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with s/p central line                                         
+     REASON FOR THIS EXAMINATION:
+      r/o PTX, check line placement                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P central line placement, evaluate for pneumothorax.
+     
+     COMPARISON: Radiograph dated [**3213-11-18**].
+     
+     PA UPRIGHT PORTABLE VIEW CHEST: There has been interval placement of a left IJ
+     central venous catheter with its distal tip in the SVC. No evidence of
+     pneumothorax. Again noted is a right internal jugular double lumen dialysis
+     catheter with its distal tip in the region of the distal SVC. The heart size
+     is at the upper limits of normal. There is a retrocardiac opacity and possible
+     left pleural effusion. Incidental note is made again of aortic calcifications.
+     The right lung is clear.
+     
+     IMPRESSION: 1) S/P left IJ central venous catheter placement with tip in the
+     SVC. No evidence of pneumothorax. 2) Retrocardiac opacity that may represent
+     consolidation or atelectasis. Possible left pleural effusion.
+
+",,
+14633,,,,3213-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14633,,,,3213-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-25**] 3:45 PM
+     ART EXT SGL LEVEL                                               Clip # [**Clip Number (Radiology) 11216**]
+     Reason: s/p L fem [**Hospital Unit Name **] ? healing of TMA please get PVR's and ABI's   
+     Admitting Diagnosis: LEFT FOOT PVD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      s/p L fem [**Hospital Unit Name **] ? healing of TMA please get PVR's and ABI's                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON:  Status post left fem-[**Hospital Unit Name **] with incomplete healing of TMA wound.
+     
+     FINDINGS:
+     
+     Pulse volume recordings were performed bilaterally at the ankle and metatarsal
+     level.  There is a reasonably preserved waveform at the left ankle with a
+     rather blunted waveform at the right ankle with further diminishment of
+     waveform quality at the metatarsal level bilaterally.  There is 2 mm of
+     deflection at the right metatarsal and 5 mm at the left.  Ankle brachial
+     indices were calculated on the right.  Its value was 0.44 and on the left,
+     0.53.
+     
+     IMPRESSION:
+     
+     Significant bilateral lower extremity arterial occlusive disease, right
+     greater than left.
+                                                                           
+
+",,
+14633,,,,3213-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-26**] 1:46 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 11217**]
+     Reason: Please place picc, pull CVL once line is placed please      
+     Admitting Diagnosis: LEFT FOOT PVD
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with need for IV abx at rehab/home.                           
+     REASON FOR THIS EXAMINATION:
+      Please place picc, pull CVL once line is placed please                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with left foot infection requiring long-term IV
+     antibiotics.
+     
+     RADIOLOGISTS: [**Last Name (NamePattern4) 2166**] [**Last Name (NamePattern4) 340**] and [**Doctor Last Name 603**], with Dr. [**Last Name (STitle) 603**], the Attending
+     Radiologist, being present and supervising.
+     
+     TECHNIQUE:  The left upper arm was prepped and draped in the standard sterile
+     fashion.  Since no suitable superficial veins were visible, ultrasound was
+     used for localization of a suitable vein.  The basilic vein was patent and
+     compressible.  After local anesthesia of approximately 4 cc of 1% lidocaine,
+     the basilic vein was entered under ultrasonographic guidance with a 21- gauge
+     needle.  A 0.018 guidewire was advanced under fluoroscopy into the superior
+     vena cava.  Based on the markers of the guidewire, it was determined that the
+     length of 40 cm would be suitable.  The PICC line was trimmed to length and
+     advanced over a 4-French introducer sheath, and then fluoroscopic guidance
+     into the superior vena cava.  The sheath was removed. The cannula was flushed.
+     The final chest x-ray was obtained and showed the tip to be in the superior
+     SVC. The line is ready for use.  A STAT-lock device was applied, and the line
+     was HEP-blocked.
+     
+     IMPRESSION:  Successful placement of a 40 cm total length PICC line with the
+     tip in the superior vena cava, ready for use.
+     
+
+",,
+14633,,,,3213-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-26**] 1:46 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 11217**]
+     Reason: Please place picc, pull CVL once line is placed please      
+     Admitting Diagnosis: LEFT FOOT PVD
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with need for IV abx at rehab/home.                           
+     REASON FOR THIS EXAMINATION:
+      Please place picc, pull CVL once line is placed please                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with left foot infection requiring long-term IV
+     antibiotics.
+     
+     RADIOLOGISTS: [**Last Name (NamePattern4) 2166**] [**Last Name (NamePattern4) 340**] and [**Doctor Last Name 603**], with Dr. [**Last Name (STitle) 603**], the Attending
+     Radiologist, being present and supervising.
+     
+     TECHNIQUE:  The left upper arm was prepped and draped in the standard sterile
+     fashion.  Since no suitable superficial veins were visible, ultrasound was
+     used for localization of a suitable vein.  The basilic vein was patent and
+     compressible.  After local anesthesia of approximately 4 cc of 1% lidocaine,
+     the basilic vein was entered under ultrasonographic guidance with a 21- gauge
+     needle.  A 0.018 guidewire was advanced under fluoroscopy into the superior
+     vena cava.  Based on the markers of the guidewire, it was determined that the
+     length of 40 cm would be suitable.  The PICC line was trimmed to length and
+     advanced over a 4-French introducer sheath, and then fluoroscopic guidance
+     into the superior vena cava.  The sheath was removed. The cannula was flushed.
+     The final chest x-ray was obtained and showed the tip to be in the superior
+     SVC. The line is ready for use.  A STAT-lock device was applied, and the line
+     was HEP-blocked.
+     
+     IMPRESSION:  Successful placement of a 40 cm total length PICC line with the
+     tip in the superior vena cava, ready for use.
+     
+
+",,
+14633,,,,3213-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-26**] 1:46 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 11217**]
+     Reason: Please place picc, pull CVL once line is placed please      
+     Admitting Diagnosis: LEFT FOOT PVD
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with need for IV abx at rehab/home.                           
+     REASON FOR THIS EXAMINATION:
+      Please place picc, pull CVL once line is placed please                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with left foot infection requiring long-term IV
+     antibiotics.
+     
+     RADIOLOGISTS: [**Last Name (NamePattern4) 2166**] [**Last Name (NamePattern4) 340**] and [**Doctor Last Name 603**], with Dr. [**Last Name (STitle) 603**], the Attending
+     Radiologist, being present and supervising.
+     
+     TECHNIQUE:  The left upper arm was prepped and draped in the standard sterile
+     fashion.  Since no suitable superficial veins were visible, ultrasound was
+     used for localization of a suitable vein.  The basilic vein was patent and
+     compressible.  After local anesthesia of approximately 4 cc of 1% lidocaine,
+     the basilic vein was entered under ultrasonographic guidance with a 21- gauge
+     needle.  A 0.018 guidewire was advanced under fluoroscopy into the superior
+     vena cava.  Based on the markers of the guidewire, it was determined that the
+     length of 40 cm would be suitable.  The PICC line was trimmed to length and
+     advanced over a 4-French introducer sheath, and then fluoroscopic guidance
+     into the superior vena cava.  The sheath was removed. The cannula was flushed.
+     The final chest x-ray was obtained and showed the tip to be in the superior
+     SVC. The line is ready for use.  A STAT-lock device was applied, and the line
+     was HEP-blocked.
+     
+     IMPRESSION:  Successful placement of a 40 cm total length PICC line with the
+     tip in the superior vena cava, ready for use.
+     
+
+",,
+14633,,,,3213-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-11-26**] 1:46 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 11217**]
+     Reason: Please place picc, pull CVL once line is placed please      
+     Admitting Diagnosis: LEFT FOOT PVD
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with need for IV abx at rehab/home.                           
+     REASON FOR THIS EXAMINATION:
+      Please place picc, pull CVL once line is placed please                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with left foot infection requiring long-term IV
+     antibiotics.
+     
+     RADIOLOGISTS: [**Last Name (NamePattern4) 2166**] [**Last Name (NamePattern4) 340**] and [**Doctor Last Name 603**], with Dr. [**Last Name (STitle) 603**], the Attending
+     Radiologist, being present and supervising.
+     
+     TECHNIQUE:  The left upper arm was prepped and draped in the standard sterile
+     fashion.  Since no suitable superficial veins were visible, ultrasound was
+     used for localization of a suitable vein.  The basilic vein was patent and
+     compressible.  After local anesthesia of approximately 4 cc of 1% lidocaine,
+     the basilic vein was entered under ultrasonographic guidance with a 21- gauge
+     needle.  A 0.018 guidewire was advanced under fluoroscopy into the superior
+     vena cava.  Based on the markers of the guidewire, it was determined that the
+     length of 40 cm would be suitable.  The PICC line was trimmed to length and
+     advanced over a 4-French introducer sheath, and then fluoroscopic guidance
+     into the superior vena cava.  The sheath was removed. The cannula was flushed.
+     The final chest x-ray was obtained and showed the tip to be in the superior
+     SVC. The line is ready for use.  A STAT-lock device was applied, and the line
+     was HEP-blocked.
+     
+     IMPRESSION:  Successful placement of a 40 cm total length PICC line with the
+     tip in the superior vena cava, ready for use.
+     
+
+",,

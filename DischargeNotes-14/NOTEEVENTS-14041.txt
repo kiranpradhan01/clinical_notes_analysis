@@ -1,0 +1,2921 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14041,,,,3395-06-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3395-6-9**]              Discharge Date:   [**3395-6-15**]
+ 
+Date of Birth:  [**3310-6-5**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 2049**] 
+Chief Complaint:
+weakness, epigastric discomfrot
+ 
+Major Surgical or Invasive Procedure:
+attempted L sided thoracentesis
+
+ 
+History of Present Illness:
+84 male with heavy EtOH consumption, hypothyroidism and dementia 
+was admitted to an OSH on [**3395-6-4**] with 2-3 days of generalized 
+weakness and epigastric discomfort. In their ED, he had melena 
+and hematocrit of 21.4. His was markedly hypovolemic with Cr of 
+1.8, BUN 88, SBP 95, HR:80. He never had gross bleeding but his 
+Hct failed to improve with transfusion. During his admission 
+there, he was transfused 12U PRBC and 4U FFP. He underwent an 
+EGD twice, both times revealing large duodenal ulcer with 
+overlying clot; intervention was not possible as the endoscopist 
+found it difficult to keep the scope in the duodenum. On 
+admission, [**6-4**], he was noted to be in NSR but ECG dated [**6-5**] 
+shows him in atrial fibrillation. On the AM of transfer, he was 
+noted to be mottled and cold, clammy with HR in the 150s, BPs 
+160/110, tachypnic and with sats in the 70s. There was concern 
+for volume overload due to multiple transfusions vs. aspiration 
+pneumonia. He was intubated and given propofol for sedation; his 
+BP dropped perhaps due to positive pressure ventilation vs. 
+propofol. He was given neosynephrine for hypotension. He spiked 
+a fever to 103.3. Tanish secretions were noted coming from ETT. 
+He was placed on Zosyn but when PCN allergy was detected, he was 
+changed to levofloxacin. An OG tube was placed with drainage of 
+400 cc of greenish-brown material. His left AC IV was noted to 
+be erythematous (?reaction to levaquin). He was given benadryl 
+and the levaquin was discontinued. There was a long discussion 
+with the patient's wife (his healthcare proxy) about his goal of 
+care. She ""wanted to do everything possible to save his life."" 
+His friends, who came to visit, however, stated that ""Mr. 
+[**Name14 (STitle) 10025**] did not wish to have heroics done or any invasive 
+procedures."" It was their impression that the patient's wife was 
+somewhat demented. The team decided to respect the wife's 
+statements as the patient's goals given that she is his proxy. 
+As his neo was being infused through a peripheral IV, a right IJ 
+was placed by the surgical service under sterile conditions. He 
+was transferred to the MICU on [**3395-6-9**] at [**Hospital1 19**] for management of 
+GI Bleed and shock.  
+.  
+In the [**Hospital1 19**] MICU, the right IJ was removed (based on the new 
+[**Hospital1 19**] line policy that requires all lines placed at outside 
+hospitals to be removed), and a left subclavian line was placed. 
+He was extubated as his oxygenation and ventilation were normal. 
+His neo was weaned off. GI was consulted to evaluate him. It was 
+their impression that since his Hct was stable and he was known 
+not to have varices that they would not perform another EGD 
+here. They recommended bid IV PPI and vitamin K to reverse his 
+Vitamin K deficiency (likely nutritional). The patient's WBC 
+count on admission was 21 with 14% bands. He was placed on 
+ceftriaxone, vanco and flagyl empirically. The bandemia rose to 
+24% on [**3395-6-10**]. He remained hemodynamically stable 
+post-extubation, afebrile with lactate of 1.6. Cortisol level of 
+20. All blood cultures were negative, with the exception of a 
+sputum culture from [**6-9**] which grew gram negative rods. A TTE was 
+performed on [**6-10**] given the patient's afib, low voltage and 
+transient hypotension. The LVEF was 55%, 1+MR/1+AR, LA was 
+dilated. Trivial effusion. His Hct remained stable for 24 hours 
+and was 28 on the day of transfer ([**6-12**]).  
+
+ 
+FLOOR COURSE [**6-12**] -> TODAY  
+Upon transfer, [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 10026**] from social work was consulted 
+regarding confusion with code status. It was determined that the 
+patient's wife was stated that his wanted all measures because 
+she was ""terrified that her husband would not come home to take 
+care of her."" Patient also confirmed that he wished to remain 
+full code and have cardioversion and be reintubated if need 
+arose as he would always look forward to seeing his wife again. 
+Upon arrival to the floor patient has no specific complaints and 
+is very stoic. He is unclear of why he is in the hospital but he 
+does know he is in [**Hospital3 **]. Alert to place, month and name. 
+Remmembers family phone members, no long term memory deficits.  
+.  
+ROS: he DENIED any fever, chills, no n/v, no dysphagia, sore 
+throat, no chest discomfort, dyspnea, no cough, he even equates 
+his breathing close to his baseline, no ABD pain, no dysuria, no 
+myalgias/arthralgias  
+ 
+Past Medical History:
+PMH:  
+Hernia Repair [**10-13**]  
+PNA 2003 (details unknown)  
+Hypothyroidism - for years  
+Dementia (details unknown)  
+
+ 
+Social History:
+SH: Large EtOH use, 2 shots of bourbon per night with a few 
+glasses of wine. Never had EtOH W/D. No cigarette use - quit 
+1954 after 15 year smoking x 4 ppd. Lives @ home w/wife who he 
+takes care of. He does the cooking in the house. Married x 55 
+years. No children but have a friend, [**Doctor First Name **] [**Doctor First Name 10027**], whom they 
+consider to be their son. He is the next in line after his wife 
+per the durable power of attorney form.  
+- [**Last Name (un) 10028**] [**Known patient lastname 10029**] (their home #) [**Telephone/Fax (1) 10030**]  
+- [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 10027**] - [**Telephone/Fax (1) 10031**]  
+
+ 
+Family History:
+FH: NC  
+ 
+Physical Exam:
+PE:  
+Temp:98.4/98.3 HR: 70s-80s, BP:110-140s/70s, RR:16, O2:98% 2L NC 
+ 
+Gen: NAD. A/O x 2. speaks in full sentences, audible wheezes  
+HEENT: PEARLA. EOMI. anicteric. OP: no exudates, no LAD, no JVD, 
+no carotid bruits.  
+CV: Irreg, irreg, nl S1, S2, no extra HS  
+Pulm: Coarse sounds b/l with inspiratory/exp wheezes; I:E 1:2  
+ABD: + BS, SNT/ND, no masses, no rebound,  
+Ext: trace edema, + 1 full DP b/l  
+Neuro: Motor: Hip flexors [**5-13**] b/l. Moves all extremities. 
+Sensation GI to LT. CN II-XII GI. Followed commands 
+appropriately. No asterixis. Mild extended tremor.  
+Skin: Mutiple stage 1 decub on coccyx. Left SC line with minimal 
+oozing - no erythema or pus noted.  
+ 
+Pertinent Results:
+ECG: Bordline low-voltage. Nl Axis. P-waves not clearly visible. 
+Most likely Afib with VR of 60. No ischemic ST/T changes.  
+.  
+Micro:  
+Blood cultures [**3395-6-9**] from OSH: NGT 
+Blood cultures x 4: NGT, last set [**6-10**] - NGTD  
+Urine culture: NGT [**6-9**]  
+Sputum culture ([**3395-6-9**]): Klebsiella:
+.
+RESPIRATORY CULTURE (Final [**3395-6-12**]): 
+      RARE GROWTH OROPHARYNGEAL FLORA. 
+      KLEBSIELLA PNEUMONIAE.    SPARSE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------     2 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+.  
+CXR ([**3395-6-10**]:  
+Opacity in the left mid and lower lung could represent 
+pneumonia.  
+Small left pleural effusion persists. Left subclavian central 
+venous catheter at the junction of the brachiocephalic vein and 
+superior vena cava.  
+.  
+ECHO [**3395-6-10**]  
+1. The left atrium is markedly dilated. The left atrium is 
+elongated. The right atrium is moderately dilated.  
+2. Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. Due to suboptimal technical 
+quality, a focal wall motion abnormality cannot be fully 
+excluded. Overall left ventricular systolic  
+function is normal (LVEF>55%).  
+3.Right ventricular chamber size is normal. Right ventricular 
+systolic function is normal.  
+4.The aortic root is mildly dilated.  
+5.The aortic valve leaflets are mildly thickened. Mild (1+) 
+aortic  
+regurgitation is seen.  
+6.The mitral valve leaflets are mildly thickened. Mild (1+) 
+mitral  
+regurgitation is seen.  
+7.Moderate [2+] tricuspid regurgitation is seen.  
+8. There is mild pulmonary artery systolic hypertension.  
+9.There is a trivial/physiologic pericardial effusion.  
+.
+CT [**6-13**]:
+CT OF THE CHEST WITHOUT IV CONTRAST: The heart is top normal in 
+size with extensive coronary artery calcifications. There are 
+mural calcifications of the aortic arch. Multiple small lymph[**MD Number 761**] of the mediastinum are present in the paratracheal, 
+pretracheal and aorticopulmonary window regions measuring up to 
+12 mm maximum. There is no axillary lymphadenopathy. There is 
+extensive consolidation of the left lower lobe as well as 
+lingula and apex of the left upper lobe with associated air 
+bronchograms consistent with pneumonia. There are large 
+bilateral pleural effusions with associated bilateral lower lobe 
+posterobasal atelectasis. Consolidation and air bronchograms of 
+the posterior right lower lobe are likely due to atelectasis. 
+Fluid also tracks into the fissures and peripheral interlobular 
+septae bilaterally. There are wedge- shaped pleural-based 
+opacities of the right middle and right upper lobes which are 
+likely inflammatory, possibly spread of pneumonia, infarcts are 
+much less likely. There are multiple small bilateral apical 
+blebs. No pneumothorax. Limited evaluation of the abdomen 
+demonstrates an atrophic appearing pancreas but otherwise 
+unremarkable limited views of the liver, spleen, adrenal glands, 
+and kidneys.
+
+BONE WINDOWS: No suspicious lytic or sclerotic osseous lesions 
+are identified. There are degenerative changes of the thoracic 
+spine including anterior osteophyte formation.
+
+IMPRESSION:
+1. Multifocal pneumonia of the left lower lobe, lingula, and 
+left upper lobe.
+Two small wedge-shaped pleural-based opacities of the right 
+upper and middle lobes may represent spread of pneumonia.
+2. Moderate bilateral layering pleural effusions with associated 
+posterobasal atelectasis of the lower lobes bilaterally.
+3. Probable component of congestive heart failure given pleural 
+effusions, fissural fluid, and interstitial prominence.
+4. Multiple small bilateral apical blebs.
+.
+CXR [**6-15**]:
+CHEST: The left subclavian line has been removed. The asymmetric 
+interstitial [**Doctor Last Name 9850**] present on the prior chest x-ray is again 
+seen and allowing for differences in penetration it is not 
+significantly changed. Blunting of the left costophrenic angle 
+is present. No pneumothorax is identified on this side.
+
+IMPRESSION: No pneumothorax. No significant change in chest 
+appearance.
+.
+Labs:
+Hematology 
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct 
+[**3395-6-15**] 05:26AM    9.7 3.15* 9.4* 28.8* 91 29.8 32.7 15.7* 
+268 
+[**3395-6-14**] 05:30AM    9.0 3.15* 9.5* 29.0* 92 30.2 32.8 15.5 
+236 
+[**3395-6-13**] 05:25AM    8.7 3.22* 9.9* 29.4* 91 30.7 33.6 15.5 
+213 
+[**3395-6-12**] 04:45PM          28.2*           
+[**3395-6-12**] 05:28AM    11.8* 3.07* 9.5* 27.8* 91 30.8 34.0 15.9* 
+190 
+[**3395-6-11**] 10:03PM          28.3*           
+[**3395-6-11**] 03:29AM    15.4* 3.13* 9.4* 28.1* 90 30.1 33.6 16.3* 
+163 
+[**3395-6-10**] 08:07PM          28.2*           
+[**3395-6-10**] 12:49PM          27.4*           
+[**3395-6-10**] 03:54AM    15.1* 3.10* 9.6* 27.6* 89 31.0 34.8 16.2* 
+157 
+[**3395-6-9**] 11:30PM    17.0* 3.04* 9.5* 27.3* 90 31.4 34.9 16.2* 
+161 
+[**3395-6-9**] 08:02PM    21.4* 3.31* 10.2* 29.0* 88 30.9 35.3* 
+16.3* 194 
+  DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas 
+Myelos 
+[**3395-6-13**] 05:25AM    81.1*   9.6* 4.3 4.8* 0.2       
+  RED CELL MORPHOLOGY Hypochr Anisocy Poiklo Macrocy Microcy 
+Polychr Ovalocy 
+[**3395-6-13**] 05:25AM    1+             
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Smr Plt Ct 
+INR(PT) 
+[**3395-6-15**] 05:26AM          268   
+BASIC COAGULATION (FIBRINOGEN, DD, TT, REPTILASE, BT) Fibrino 
+[**3395-6-9**] 08:02PM    474* 
+ 
+Chemistry 
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+[**3395-6-15**] 05:26AM    101 14 0.9 137 3.6 106 22 13 
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase 
+TotBili DirBili 
+[**3395-6-10**] 03:54AM    24 59*     49       
+OTHER ENZYMES & BILIRUBINS Lipase 
+[**3395-6-9**] 08:02PM    10 
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron 
+
+[**3395-6-15**] 05:26AM          7.6* 3.0 1.6     
+  PITUITARY TSH 
+[**3395-6-12**] 05:28AM    1.8 
+[**3395-6-9**] 08:02PM    2.3 
+OTHER ENDOCRINE Cortsol 
+[**3395-6-9**] 08:02PM    20.8* 
+ 
+Blood Gas 
+  BLOOD GASES Type Temp Rates Tidal V PEEP FiO2 O2 Flow pO2 pCO2 
+pH calHCO3 Base XS   Intubat Vent 
+[**3395-6-9**] 09:30PM    ART 37.4       50   115* 35 7.40 22 -1   
+INTUBATED SPONTANEOU 
+[**3395-6-9**] 08:00PM    ART 35.2           188* 31* 7.44 22 -1 
+ASSIST/CON INTUBATED   
+ 
+Brief Hospital Course:
+A/P: 85 male with chronic EtOH use transferred from OSH to MICU 
+with UGIB, shock, and respiratory failure, now much improved 
+being transferred to medical floor for further management  
+.  
+1) GI Bleed- 
+Pt w/EGD X 2 @ OSH showing likely source as duodenal ulcer.   It 
+was felt that there was no indication for repeat intervention as 
+patient's Hct remained stable.   His last transfusion was before 
+arrival to [**Hospital1 19**] on [**6-9**].   His discharge Hct is 28.8 and he 
+appears to have settled in that range.  Patient is to continue 
+on Protonix BID in the meantime for his ulcer.  He is to avoid 
+any anticoagulation for his afib.  He may require a repeat EGD 
+if his Hct starts to drop or if he experiences hematemesis.
+.  
+2) Hypotension/Shock - Now resolved. Most likely etiology was 
+sepsis given bandemia with pneumonia as seen with lung 
+infiltrates.  +/- hypovolemia due to blood loss. Patient 
+subsequently with hypertension.  Patient underwent cortisol stim 
+test and it was norm la, there was no evidence of adrenal 
+insufficiency.  Patient's BCx remained negative while in house.  
+His UCx was unremarkable as well.  Patient finished 7 day course 
+of IV CTX/Flagyl while in house.  He is to complete 5 days more 
+of Levoquin/Flagyl PO.  
+.
+3) Hypoxia -
+Pneumonia -
+Patient was found to have Klebsiella on sputum on [**6-9**] that was 
+pan-sensitive.  A CT done on [**6-13**] showed multilobular PNA that 
+was treated with 7 days of IV CTX/Flagyl.  Patient is to 
+complete another 5 day course of Levofloxacin at acute rehab.  
+Interventional Pulmonary service was consulted in house to 
+attempt a diagnostic/therapeutic thoracentesis.  The effusion 
+was visualized with US and a tap was attempted.  No fluid was 
+extracted.  The procedure was without complication.  Follow up 
+CXR was without pneumothorax.  Patient remained afebrile since 
+after his d/c from ICU on [**6-12**] and his WBC remained normal.
+.
+? diastolic CHF - patient with E/E' <8, thus suggesting PCWP 
+<12, and EF > 55%, but patient does have 55%.  Patient was 
+attempted at diuresis as his CT appeared to have b/l pleural 
+effusions and he was given prn IV lasix (20-40) prior to 
+discharge with good UO.  
+.
+Patient is sating 95%+ on 2L at the time of discharge.  However 
+desats quickly with little movement. 
+- He would certainly benefit from pulmonary reevaluation at the 
+end of his antibiotic course as his treatment course may need to 
+be extended for this complicated multilobar pneumonia. Continued 
+diuresis and rate control for chf will also likely be helpful. 
+.  
+3) Afib- Appears new and likely secondary to medical conditions. 
+Large atrial size suggests that it will most definitely be 
+recurrent. Patient tolerated low dose BB well and remained well 
+controlled with rate in 50-60s. 
+.  
+4) R shoulder pain - patient states the pain has been there for 
+last few years.  CXR here showed no evidence of fracture, with 
+some suggestion of OA changes.  The high riding humerus may 
+suggest an underlying chronic rotator cuff injury that should 
+perhaps be further evaluated by an orthopedic specialist - 
+nonacutely.
+- tylenol/oxycodone for pain
+.
+5) EtOH use:  no evidence of withdrawal despite use of 2-3 
+drinks a day.
+>>> d/c CIWA scale as patient with neglible scores, likely out 
+of window. Received versed (benzo) in MICU which may confound 
+the withdrawal period.  
+.  
+7) Hypothyroid:  
+>>> continue synthroid 50 mcg QD  
+>>> TSH - nl  
+.  
+8) FEN- clear diet- ADAT; pt continue on thin liquids and 
+regular consistency
+solids. 
+
+.  
+9) CODE/COMM: d/w patient who appears competent and he wishes to 
+be FULL CODE.  His wife confirmed his wishes.  After speaking to 
+family's caretaker, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10032**] it appears that the situation 
+should be readressed where Mr. [**Known patient lastname 10029**] to remain 
+intubated/trached for a long time .  
+ 
+Medications on Admission:
+Meds: Pharmacy is [**Company 10033**] in [**Location (un) 1089**] - confirmed meds.  
+Synthroid 50 mcg QD - [**3395-5-14**] - Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 10034**] ([**Telephone/Fax (1) 10035**]  
+Nemenda 10 mg QD - [**3395-6-4**]  
+Aricept 10 mg BID - [**3395-4-9**]  
+Arthrotec 75 QD -  
+ 
+Discharge Medications:
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.  
+3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO once a day. 
+ 
+4. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).  
+5. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.  
+6. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours) as needed.  
+7. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+neb Inhalation Q6H (every 6 hours) as needed.  
+8. Aricept 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Namenda 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day): Hold for SBP<100, HR<60  .  
+11. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical  BID 
+(2 times a day).  
+12. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day 
+for 5 days.  
+13. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO twice a day.  
+14. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO three 
+times a day for 5 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital 222**] Medical Center - [**Hospital1 223**]
+ 
+Discharge Diagnosis:
+1. PNEUMONIA - MULITIFOCAL
+- L lower lobe, lingula, L upper lobe; R upper and middle lobes
+2. Upper GI Bleed 
+3. Duodenal Ulcer
+4. Atrial Fibrillation
+5. Hypotension
+6. Anemia - chronic
+7. EtOH abuse
+8. Hypothyroidism
+
+ 
+Discharge Condition:
+stable. Oxygenating well on RA. Tolerating PO.  Requires 
+assistance with transfer from chair.
+
+ 
+Discharge Instructions:
+Please take all your medications as instructed.  It is very 
+important for [**Doctor First Name **] to avoid further intake of alcohol.  [**Doctor First Name 54**] will 
+also need to follow up with Dr. [**Last Name (STitle) 10034**] in 1-2 weeks after your 
+discharge from rehab.  Please seek immediate medical attention 
+if [**Doctor First Name **] experience fevers/chills, increasing productive cough, 
+chest pain or lightheadeness.  Do the same if [**Doctor First Name **] notice a 
+change in your stool color, or have blood in your cough, vomit 
+or stool.
+ 
+Followup Instructions:
+Please follow up with your primary care doctor in 1-2 weeks
+
+ 
+                             [**First Name4 (NamePattern1) 1940**] [**Last Name (NamePattern1) **] MD [**MD Number 2055**]
+ 
+Completed by: [**Name6 (MD) 7063**] [**Name8 (MD) 3967**] MD [**MD Number 7500**] [**3395-6-15**] @ 1550
+Signed electronically by: DR. [**First Name4 (NamePattern1) 1940**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**3395-6-18**] 10:26 PM
+(End of Report)
+
+
+",,
+14041,,,,3395-06-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-9**] 6:48 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 5782**]
+     Reason: ?ETT placement.  ?PNA  ?Efussions                           
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with UGIB, intubated @ OSH for resp failiure.                   
+     REASON FOR THIS EXAMINATION:
+      ?ETT placement.  ?PNA  ?Efussions                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure.  Question ETT placement.  Question
+     pneumonia, question effusions.
+     
+     TECHNIQUE:  AP semi-upright portable chest radiograph.
+     
+     No prior studies are available for comparison purposes on PACS.
+     
+     FINDINGS:  An NG tube is located with the tip approximately 2 cm above the
+     carina.  Retraction of approximately 2 cm is recommended.  An NG tube is seen
+     coursing over the stomach, the tip is not included in the study.  A right
+     internal jugular venous central catheter is seen with the tip projecting over
+     the distal SVC.  The size of the cardiac silhouette is within normal limits
+     given technique.  Mediastinal contours are unremarkable. There is a hazy
+     opacity over the left lung which may represent a layering pleural effusion.
+     The left costophrenic angle is not included in the study. There may be a very
+     small right-sided pleural effusion as well.  No definite consolidations are
+     seen. There are degenerative changes in the right glenohumeral joint.
+     
+     IMPRESSION:
+     
+     1.  ETT 2 cm above carina.  Retraction of approximately 2 cm is recommended.
+     
+     2.  Hazy opacity over the left lung most likely representing a layering
+     pleural effusion.
+     
+     3.  No definite evidence for pneumonia.
+     
+     
+     
+
+",,
+14041,,17463,0,3395-06-09 17:36:00 EST,3395-06-09 17:54:00 EST,7316,"N",54,"Nursing/Other","Admission and Progress Note 1800-1900:","
+Admission and Progress Note 1800-1900:
+In brief, this is an 85 yo male pt with a history of alcohol abuse, hx of NSAID use (on Arthrotec prior to admission), who presented to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1113**] hospital with epigastric discomfort and generalized weakness, The pt was found to be severely anemicwith Hb 7.5 and Hct 21.4, pt had black hem positive stool and he received multiple blood transfusions.
+Today pt was transferred to [**Hospital1 10**] for further evaluation of GI bleeding and management. He was given 10 units of bld yesterday and 2 units of packed RBCs today and 1 unit of FFP today, he was started on Neosynephrine due to hypotension and he came by EMS intubated, received Ativan prior to admission. Pt received Levoquin right prior to his admission here after which he developed rashes over neck, chest and scotum, given 50 mg Benadryl by EMS, rash disappeared, pt has a central line that is not [**Name8 (MD) 5621**], MD aware.
+Currently, 
+Neuro: Pt is responding to verbal stimuli, by opening his eyes and following commands, visited by friends, responded to them.
+
+Resp: Intubated on mechanical ventilator AC 14, 450, 60 %, PEEP 5, suctioned with minimal thick yellowish secretions, SPO2 100%, LS coarse to auscultation, with a peripheral IV line in lt hand and a peripheral in rt hand and Rt IJ central line (not sutured MD informed). CXR done.
+
+CV: A-Fib HR 64-85, BP 70-100/50-64, on Neosynephrine started at 0.5 and now at o.9 mcg/kg/min, peripheral pulses weak, has left Lower extremity cellulitis, has 2 peripherals and a central line. weak peripheral pulses.
+
+GI/GU: With OG tube in place., NPO, abdomen obese, BS present, with Foley draining clear yellowish u/o.
+
+Integ: With red rashes over sacral area, cellulitis at LLE, T 99.7 
+",,
+14041,,17463,0,3395-06-09 20:48:00 EST,3395-06-09 20:49:00 EST,7819,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt extubated to 60% CAFT w/o noted complications.  Pt able to follow commands, able to lift head from pillow and RSBI 44.  Sc'ed via ETT and orally then ETT removed.  BBS-CTA and w/good aeration.  Bag and mask at bedside.  Continue to monitor closely.
+",,
+14041,,17463,,3395-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-10**] 6:18 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 5783**]
+     Reason: line placement                                              
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with UGIB, intubated @ OSH for resp failiure.  s/p Left 
+      subclavian line placement                 
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  New left subclavian central venous line.
+     
+     COMPARISON:  Chest x-ray from [**3395-6-9**].
+     
+     SINGLE PORTABLE AP SUPINE CHEST RADIOGRAPH:  There has been interval placement
+     of a left subclavian central venous catheter with its tip terminating at the
+     junction of the left brachiocephalic vein and the superior vena cava.  There
+     is a right internal jugular central venous catheter with its tip in the mid
+     superior vena cava.  There appears to have been interval extubation and
+     removal of a nasogastric tube.  The patient is rotated, but given this
+     limitation, the cardiac and mediastinal contours appear stable.  There is an
+     opacity in the mid and lower left lung which is more prominent than on the
+     prior study.  There also appears to be a small left pleural effusion.  No
+     pneumothoraces are clearly identified.
+     
+     IMPRESSION:  Opacity in the left mid and lower lung could represent pneumonia.
+     Small left pleural effusion persists.  Left subclavian central venous catheter
+     at the junction of the brachiocephalic vein and superior vena cava.
+                                                                           
+
+",,
+14041,,17463,0,3395-06-10 02:22:00 EST,3395-06-10 02:51:00 EST,6440,"N",54,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+event: pt was extubated, wean NEO.
+
+neuro: reeceived intubated, not sedated, response to voice, folows commands, opnes eyes to voice. at 2230 was extubated, alert, follows commands,  orientes  x1, but needs to be oreineted in place often,PERL 2mm/slugish. pt did not take any alcohol beverage for 4days.
+
+resp: p twas intubated in OSH d/t ?aspiration and sat 70's. in the unit recived intubated AC 60%/450/20, put on CPAP/PS 10 peep 5 and changed to SBT 5/0,ABG: 7.40/35/115, was extubated, put hi flow neb [**First Name9 (NamePattern2) 5622**] [**Last Name (un) **] 50%, sat 100%, pt has good cough and abale to cough out white secretion. LS clear/dim at bases.
+
+cv: HR 60-70's, Afib, that new and was found in OSH per ECG, no ectopy. received on NEO 0.9mcg/kg/min for hypotension likely to Gi bleed and sepsis, cortisol leb=vel sent, if <15 steroids, if <15 cortstim, titrate to MAP>60, currently off NEO. received fluid bolus NS 1000cc for MAP58-60, CVP 8-9 with good response.ABP 110-115/50's, MAP >60.CVP 10-12.MAg 1.3, repleted. HCT 27.3( 30). morning labs pending.plan CArdio ECHO.
+
+gi/gu: foley in place, u/o25-35 cc/hr, MD aware. ABD soft/dist, BS +, no BM. pt is NPO.
+
+id: Tmax 99.7, pan cx sent, start vanco/ceftriaxon/flagyl for ?aspiration pna vs cellulitis.
+
+skin: red unbrocken skin on cocyx, open to air. redness d/t ?cellulitis in left low extremeite.
+
+social: full code, freinds visites/updated.
+
+plan: cont monitoring neuro/resp/cardio status
+      lytes repleted as needed.
+       cardio ECHO.
+       monitoring signs of withdrawal.
+
+
+",,
+14041,,17463,0,3395-06-10 13:57:00 EST,3395-06-10 14:10:00 EST,3933,"N",54,"Nursing/Other",,"
+
+NPN 0700-1500;
+
+s;"" am i going for surgery.?""
+neuro; aoox1-2mae to command calls out  does not always consistently follow commands ?hoh.asks appropriate questions at times perla [**3-13**] arcus senilis  lethargic  no coverage on ciwa scale.pt with one restraint on since 1300 when changed from face tent to n/c as seems less likely to pull at things.
+
+resp; lungs coarse upper diminished at bases coughs when reminded but swallows, sats on 4ln/c 94-97% rr 22-28 
+
+cvs; tmax 99.9 po afib with frequent pvc;s (k pending) rate controoled at 60-75.bp 95-115/49 by aline bp lt arm higher  by 10 pts.cvp 8-9.
+cardiac echo done results pending.
+gu; passing min amounts urine via foley.
+
+gi;belly soft distended pos bs no stool no flatus denies pain and n/v taking clear liquids with meds npo otherwise.
+
+soc; family friend called and updated with ptscurrent concition will visit later today.
+
+a/p stable hct following sesrial hcts
+stable hemodynamics off neo
+continue to reorientate as nec follow ciwa scale to pick up on early sigms of withdrawl. 
+
+skin coccyx red/purple  nursed side  to side.
+",,
+14041,,17463,0,3395-06-10 17:56:00 EST,3395-06-10 17:58:00 EST,7316,"N",54,"Nursing/Other","Addendum NPN:","
+Addendum NPN:
+A lt subclavian central line inserted, CXR taken, when confirmed in, RIJ to be pulled out because it's inserted in an outside hospital, pt started on regular cardiac diet, eating with no aspiration.
+",,
+14041,,17463,0,3395-06-11 01:09:00 EST,3395-06-11 01:21:00 EST,6168,"N",54,"Nursing/Other",,"
+
+NPN 7P-7A:
+
+
+NEURO: PT [**Last Name (un) **] AND CONFUSED. HE CONFUSED WITH TIME OF DAY, AND PLACE. HE IS ABLE TO MAE. AND HE FOLLOWS COMMANDS. PUPILS ARE EQUAL AND REACTIVE. NOW IT HAS BEEN 5 DAYS SINCE LAST DRINK.
+
+RESP: LS COURSE BILAT. HE WAS EXTUBATED ON [**6-10**]. AND NOW HE IS ON NC 3L, WITH O2 SAT >95%. HE HAS A GOOD NON PRODUCTIVE COUGH.
+
+GI/GU: HE IS ON A HOUSE DIET AND HAS A GOOD PO FLUID INTAKE. ABD LAREG ROUND NON TENDER, W/ + BS. SMALL GUIAC + STOOL ON NIGHTS. FOLEY CATH WITH GOOD OUT PUT. 30-40CC OF CLEAR YELLOW URINE. 
+
+CV: A FIB HR 71 TO 81. HIS BLOOD THINERS ARE ON HOLD [**3-12**] UGIB.B/P VIA A LINE 117/54 TO 147/71. NEO WAS D/C ON [**6-10**].
+
+SKIN: HE HAS MULTIPLE STAGE ONE ON HIS COCCYX AND BOTTOM. HIS BILAT HEELS ARE BRIGHT PINK.
+
+
+POC: QUESTION CALL OUT IN AM. HOLD ANTICOAGULATION. [**Doctor Last Name 285**] IV ABX [**3-12**] A QUESTION OF ASP PNEUMONIA.
+",,
+14041,,17463,0,3395-06-11 17:24:00 EST,3395-06-11 17:33:00 EST,3888,"N",54,"Nursing/Other",,"
+
+MICU Progress Note:
+
+see nursing transfer note
+
+ADDENDUM: R radial Aline D/C'd- dsg d&i- liquid brown stool X4 today- quiac (+)- vss- T max 98.9 Po- coccyx area red/purple- 1 small area size of pea with broken skin noted- duoderm dsg applied- K 3.7- KCL 40meq po given.
+",,
+14041,,17463,0,3395-06-11 21:01:00 EST,3395-06-11 21:07:00 EST,6826,"N",54,"Nursing/Other","MICU Transfer Addendum Note  2200","
+MICU Transfer Addendum Note  2200
+ refer to previous transfer note.  
+
+Neuro:  A+Ox2, pleasant and cooperative, confused to time, moving all extremities, PEARL, no complaints of pain, follows all commands, no acute neuro change
+
+Cardiac:  Remains rate controlled in Afib 70-80's with occas. PVC's.  BP stable 120-140/60-70's.  Left SC TLC site C/D/I and all ports patent.
+
+Resp:  Lungs with inspiratory wheezes and diminished at base, RR= 20-30. Junky sounding nonprod. cough noted, denies SOB, 02 at 2 L NC with Sats 98-100%.
+
+Abd:  Abd soft with + bowel sounds all quads, Loose brown guiac + stool x 2 , tolerating house diet.
+
+GU:  Foley to CD draining amber clear urine >30 ml/hr.
+
+Skin:  duoderm intact on coccyx, no other changes noted.
+
+Plan:  Transfer to [**Hospital Ward Name **] 211 for further management.  
+",,
+14041,,,,3395-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-12**] 9:30 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5784**]
+     Reason: evaluate for interval change                                
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with UGIB, ?pneumonia now extubated, improving on medical 
+      floor                
+     REASON FOR THIS EXAMINATION:
+      evaluate for interval change                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old male with upper GI bleed and pneumonia.
+     
+     COMPARISON:  [**3395-6-10**].
+     
+     AP UPRIGHT CHEST:  The tip of a left subclavian venous catheter terminates in
+     the upper SVC. The heart size is top normal.  The aorta is slightly tortuous
+     without focal dilatation.  Moderate asymmetric interstitial pulmonary edema
+     favoring the left lung has improved since [**3395-6-10**].  Bilateral pleural
+     effusions, left greater than right, remain stable.  No pneumothorax is
+     identified.  Left lower lobe atelectasis or pneumonia is unchanged.
+     
+     IMPRESSION:
+     1)  No pneumothorax.
+     2)  Stable left lower lobe consolidation representing atelectasis or
+     pneumonia.
+     3) Improving asymmetric pulmonary interstitial edema.
+
+",,
+14041,,,,3395-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-13**] 10:34 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 5785**]
+     Reason: please further characterize pneumonia and effusions seen on 
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with pneumonia, pleural effusions                               
+     REASON FOR THIS EXAMINATION:
+      please further characterize pneumonia and effusions seen on AP CXR              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old male with pneumonia and pleural effusions.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the chest were obtained
+     without IV contrast.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  The heart is top normal in size with
+     extensive coronary artery calcifications.  There are mural calcifications of
+     the aortic arch.  Multiple small lymph nodes of the mediastinum are present in
+     the paratracheal, pretracheal and aorticopulmonary window regions measuring up
+     to 12 mm maximum.  There is no axillary lymphadenopathy.  There is extensive
+     consolidation of the left lower lobe as well as lingula and apex of the left
+     upper lobe with associated air bronchograms consistent with pneumonia.  There
+     are large bilateral pleural effusions with associated bilateral lower lobe
+     posterobasal atelectasis. Consolidation and air bronchograms of the posterior
+     right lower lobe are likely due to atelectasis.  Fluid also tracks into the
+     fissures and peripheral interlobular septae bilaterally. There are wedge-
+     shaped pleural-based opacities of the right middle and right upper lobes which
+     are likely inflammatory, possibly spread of pneumonia, infarcts are much less
+     likely. There are multiple small bilateral apical blebs.  No pneumothorax.
+     Limited evaluation of the abdomen demonstrates an atrophic appearing pancreas
+     but otherwise unremarkable limited views of the liver, spleen, adrenal glands,
+     and kidneys.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesions are
+     identified.  There are degenerative changes of the thoracic spine including
+     anterior osteophyte formation.
+     
+     IMPRESSION:
+     1.  Multifocal pneumonia of the left lower lobe, lingula, and left upper lobe.
+     Two small wedge-shaped pleural-based opacities of the right upper and middle
+     lobes may represent spread of pneumonia.
+     2.  Moderate bilateral layering pleural effusions with associated posterobasal
+     atelectasis of the lower lobes bilaterally.
+     3.  Probable component of congestive heart failure given pleural effusions,
+     fissural fluid, and interstitial prominence.
+     4.  Multiple small bilateral apical blebs.
+                                                                 (Over)
+
+     DATE: [**3395-6-13**] 10:34 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 5785**]
+     Reason: please further characterize pneumonia and effusions seen on 
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14041,,,,3395-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-15**] 12:56 PM
+     SHOULDER 1 VIEW RIGHT PORT                                      Clip # [**Clip Number (Radiology) 5787**]
+     Reason: old OA/RA changes, ? fracture in R shoulder vs rotator cuff 
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with UGIB, ?pneumonia now extubated, improving on medical  
+      floor s/p attempted thoracentesis on L.               
+     REASON FOR THIS EXAMINATION:
+      old OA/RA changes, ? fracture in R shoulder vs rotator cuff                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate for right shoulder fracture versus rotator cuff
+     pathology.
+     
+     FINDINGS:  A single AP portable view of the shoulder is provided, making this
+     a limited evaluation. No discrete fracture is seen on this single view. The
+     humerus is high riding with respect to the glenoid, suggestive of a chronic
+     rotator cuff tear.
+
+",,
+14041,,,,3395-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-15**] 12:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5786**]
+     Reason: eval interval PNA, CHF and r/o PTX; please perform with R sh
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old man with UGIB, ?pneumonia now extubated, improving on medical  
+      floor s/p attempted thoracentesis on L.               
+     REASON FOR THIS EXAMINATION:
+      eval interval PNA, CHF and r/o PTX; please perform with R shoulder XRay         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post attempted thoracentesis on left side.
+     
+     CHEST:  The left subclavian line has been removed.  The asymmetric
+     interstitial [**Doctor Last Name 1168**] present on the prior chest x-ray is again seen and
+     allowing for differences in penetration it is not significantly changed. 
+     Blunting of the left costophrenic angle is present.  No pneumothorax is
+     identified on this side.
+     
+     IMPRESSION:  No pneumothorax.  No significant change in chest appearance.
+                                                                           
+
+",,
+14041,,,,3395-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-16**] 9:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5788**]
+     Reason: pneumonia?  chf?  interval change                           
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          85 year old man with UGIB and hypoxia                                       
+     REASON FOR THIS EXAMINATION:
+      pneumonia?  chf?  interval change                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST X-RAY OF [**3395-6-16**]
+     
+     COMPARISON:  [**6-15**] and [**3395-6-12**], chest radiographs.
+     
+     INDICATION:  Upper GI bleed.  Hypoxia.
+     
+     An asymmetrical alveolar process involving the left lung diffusely with
+     relative sparing of the apex, and involving the right lower lobe posteriorly
+     in the retrocardiac region shows slight interval improvement, and likely
+     reflects an improving multifocal pneumonia, particularly in conjunction with
+     the appearance of the opacities on recent CT of [**3395-6-13**].  Small left
+     pleural effusion has not changed appreciably.  Right pleural effusion is
+     difficult to assess due to exclusion of the right costophrenic sulcus from the
+     radiograph.
+                                                                           
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,,3395-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with GI bleed and known duodenal ulcer on EGD last week at OSH. 
+      EGD here on [**6-17**] was unsuccessful, unable to pass scope into stomach.
+     REASON FOR THIS EXAMINATION:
+      pls evaluate GI bleed for embolization                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old man with GI bleed and known duodenal ulcer on upper
+     endoscopy at an outside institution.  The duodenal ulcer was unable to be
+     treated by endoscopy by report.  Upper endoscopy was attempted here but was
+     unsuccessful passing the scope beyond the cervical esophagus.
+     
+     PHYSICIANS:  [**First Name8 (NamePattern2) 620**] [**Doctor Last Name 621**] and [**First Name4 (NamePattern1) 1983**] [**Last Name (NamePattern1) 2281**] with Dr. [**Last Name (STitle) 2281**], the attending
+     radiologist, present and supervising throughout the procedure.
+     
+     PROCEDURE:  Following written informed consent with the patient's daughter and
+     son-in-law, the patient was positioned supine on the angiography table.
+     Preprocedure timeout was performed to confirm patient, procedure and site.
+     Standard sterile prep and drape of the right inguinal region.  Local
+     anesthesia with 7 cc of 1% lidocaine subcutaneously.  Using a combination of
+     palpatory and fluoroscopic guidance, a single wall puncture of the right
+     common femoral artery was performed.  A 0.035-inch guidewire was advanced
+     through the needle into the abdominal aorta using fluoroscopic guidance.
+     Needle was exchanged for a 5-French vascular sheath, however, due to marked
+     tortuosity of the iliac arteries this did not provide adequate stability for
+     catheter manipulations in the aorta.  As such, the sheath was exchanged for a
+     long 6-French vascular sheath.  A cobra catheter was used to select the
+     superior mesenteric artery and superior mesenteric arteriography was
+     performed.  Attempts were made to catheterize the celiac artery with cobra
+     catheter, Sos Omni catheter, [**Doctor Last Name 2272**] catheter, but these were all
+     unsuccessful.  Finally, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5790**] catheter was successful at selecting the
+     celiac artery.  Celiac arteriography was performed.  Based on the patient's
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     clinical presentation and the findings of the diagnostic arteriograms, it was
+     determined that the patient was a suitable candidate for and may benefit from
+     embolization of the gastroduodenal artery.  A 3-French microcatheter was
+     advanced with a 0.018-inch guidewire through the [**Last Name (un) 5790**] catheter and used
+     to select the gastroduodenal artery.  Gastroduodenal arteriography was
+     performed.  Coil embolization of the gastroduodenal artery was then performed
+     through the microcatheter using a total of four 2 mm x 2 cm microcoils and
+     four 4 mm x 4 cm microcoils.  The catheter was displaced into the common
+     hepatic artery and common hepatic arteriography was performed post-
+     embolization.  Based on the findings of this post-embolization arteriogram, we
+     attempted to regain access to the proximal stump of the gastroduodenal artery,
+     however, these attempts were unsuccessful.  All catheters, wires, and the
+     sheath were removed and hemostasis was ensured with direct manual compression.
+     
+     There were no immediate complications.
+     
+     Moderate sedation was provided by administering divided doses of intravenous
+     Versed (total of 2 mg) and intravenous fentanyl (total of 200 mcg).  There was
+     a total intraservice time of 2 hours, during which the patient's hemodynamic
+     parameters were continuously monitored.
+     
+     Total of 150 cc of Optiray radiographic contrast was utilized.
+     
+     FINDINGS:  Superior mesenteric arteriography demonstrated patency of the
+     superior mesenteric artery and its major branches.  A replaced right hepatic
+     artery arises from the proximal portion of the superior mesenteric artery.  No
+     source of bleeding or active extravasation was identified in the visualized
+     portions of the superior mesenteric artery territory.
+     
+     Celiac arteriography demonstrates the splenic artery, left gastric artery and
+     common hepatic artery to arise from the celiac artery.  The left hepatic
+     artery arises from the common hepatic artery.  The gastroduodenal artery
+     arises from the common hepatic artery.  The celiac artery and its major
+     branches are patent.  Active extravasation or potential source of bleeding
+     from the celiac artery territory was not identified.  The imaging was carried
+     out into the venous phase and the splenic vein, main and right and left main
+     portal veins are patent.
+     
+     Gastroduodenal arteriography demonstrates patency of the right gastroepiploic
+     artery and the superior pancreaticoduodenal arteries.
+     
+     Common hepatic arteriography post-embolization demonstrates ongoing patency of
+     the downstream portion of the common hepatic artery and the left hepatic
+     artery.  The proximal stump of the gastroduodenal artery is patent.  The coil
+     embolization was performed from the origin of the gastroepiploic artery back
+                                                                 (Over)
+
+     DATE: [**3395-6-17**] 2:55 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5789**]
+     Reason: pls evaluate GI bleed for embolization                      
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to near the origin of the gastroduodenal artery.  On this arteriogram, a small
+     branch arising from the proximal gastroduodenal artery was still perfused.
+     Attempts to reenter the gastroduodenal artery stump to embolize this branch
+     were unsuccessful.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  No arterial source of bleeding identified on celiac arteriography
+     and superior mesenteric arteriography (with imaging focused on the superior
+     half of the bowel).  Based on the history of a duodenal ulcer with blood clot
+     at a prior upper endoscopy at an outside hospital and the findings of the
+     diagnostic arteriograms, it was determined that the patient may benefit from
+     and was a suitable candidate for gastroduodenal artery embolization.  This was
+     performed with a residual small branch of the proximal gastroduodenal artery
+     not occluded.  At the time of the final angiographic run, there was still some
+     perfusion through the superior coils into another branch of the gastroduodenal
+     artery as well.
+     
+
+",,
+14041,,17464,0,3395-06-17 04:48:00 EST,3395-06-17 05:12:00 EST,3913,"N",54,"Nursing/Other",,"
+
+Nursing Note (2000-0700)
+
+Pt is a 84yr old male who returns to [**Hospital1 1979**] after having several BRBPR at rehab.  Pt was recently d/c'd [**6-16**] from [**Hospital1 1979**] for an UGIB found to be caused by a duodenal ulcer bleed; pt received 12U PRBC and 4 units FFP on last admission and was found to have a pna.  
+At present pt has received a total of 3units PRBC and 4 units FFP without significant rise in his Hct.  He cont to have large melena stools. plan is prob to do an EGD today as workup.
+
+Review of systems:
+Neuro: At baseline, it appears pt is A&Ox2; lives at home with wife.  Per neighbor- [**Doctor First Name **] and [**First Name5 (NamePattern1) 261**] [**Last Name (NamePattern1) 5623**]--this couple have been functioning marginally at home.  Pt has had repeated hospitalizations and is requiring rehab placement once d/c'd from this admission.  Wife has had several cancer related surgeries/procedures as well as orthopaedic and is performing her ADL with increasing difficulty.  Both are reported by neighbors to have ETOH issues. On past admission, first contact was pt's neighbor--""stepson""--[**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 5623**] who would then pass the info along to his wife who is HCP.  Pt agrees to this arrangement.  Presently pt requiring very frequent repetition of NPO status and reason for continued admission. He yells out quickly with position changes but denies pain. PERL; moving all extremities with some difficulty r/t deconditioning. 
+
+CV: A-fib, lopressor on hold. HR 60-70's. BP stable 110-130/60-70's with occasional decrease to 90's while sleeping. Despite total of 3 units PRBC, no significant rise in Hct; 4th unit presently infusing for Hct 26.2. One large melena stool of approx 400cc at about 3am--pt became clammy, diaphoretic;;stating not feeling well. Symptoms resolved after about 5min. Rest of am labs pnd.  PIV's x3--become increasingly tender and prob requiring restarts d/t multiple blood  tx--? need for TLCL with poor access. Ankle edema 2+.  Cocyx with old bedsore; kept off back for extended periods of time; barrier cream applied.
+
+Resp: LS diminished, coarse to lower bases. Expectorating sm/mod amts thin mucous, white to clear. ?aspirating.  Would benefit from swallow eval; given sips water with meds--noted to cough afterwards. Ceftriaxone for prob asp pna. Adequate 02 sats on 4L nc.
+
+gi/GU: NPO except with meds. Abd large soft, bs present. Urine amber, marginal. Foley placed.
+
+Social: Brief visit by neighbor [**Name (NI) 261**]. Full code.
+
+Plan: Cont with serial Hct Q6hrs. obtain set of blood cx. F/U with team for prob TLCL for poor access. Prob EGD today. Social work consult. Freq position changes, skin care. Full code.
+",,
+14041,,17464,1,3395-06-17 16:29:00 EST,3395-06-17 17:43:00 EST,7996,"Y",54,"Nursing/Other","NSG 7AM-7PM","
+NSG 7AM-7PM
+CORRECTION:  MG LEVEL 1.4, REPLETED.
+ANGIO SUCCESSFUL, PT BACK TO FLOOR.V/SS. PULSE HEARD BY DOPPLER IN BOTH EXTREMITIES.  EMBOLIZED GASTRIC ARTERY AND COIL INSERTED. ARTERIAL LINE TO BE PULLED BY RADIOLGY TEAM
+",,
+14041,,17464,0,3395-06-17 16:29:00 EST,3395-06-17 17:20:00 EST,7996,"N",54,"Nursing/Other","NSG 7AM-7PM","
+NSG 7AM-7PM
+85 YR OLD MALE TRANSFERED FROM A REHAB FACILITY SECONDARY TO MULTIPLE STOOLS WITH PRESENCE OF BRIGHT RED BLOOD. ON ADMISSION HCT:23, RECEIVED A TOTAL OF 4U OF PRBCS AND 3 UNITS OF FFPS. ACTUAL HCT 28.0
+
+
+NEURO: PT ALERT AND OX3. CALM AND COOP. OBEYS COMMANDS. SEDATED WITH 3 OF VERSED AND 25MCG OF FENT. TOLERATES WELL. MAINTAINS STABLE V/S.
+ 
+CV: HR REMAINS IN 6OS, SBP 110S-130S. LOPRESSOR HELD SECONDARY TO PT'S GI BLEED STATUS. UOP TRENDS DOWN PROGRESSIVELY/ RECEIVED 500CC BOLUS OF NS. MG LEVEL 2.4 REPLETED WITH 2GM OF MG IV. WILL MONITOR MG LEVEL.
+
+RESP: LUNG SOUNDS CLEAR AND DIMINISHED IN LOWER LOBES. MAINTAINS SATO2 94-99% ON 4L NC. SOB ON EXERTION. TEAM MADE AWARE.
+
+GI: ABD SOFT POS BS LOOSE BMX2 WITH BLACK RED BLOOD APPROX 250CC EACH. NO CHANGE IN V/S. PT REMAAINS NPO FOR PROCEDURES. EGD ATTEMTED/UNABLE TO PERFORM SECONDARY TO ESOPHAGEAL DEFECT. WILL PROCEED TO ANGIO. PRESENTLY ANGIO IN PROGRESS. NO ACUTE BLEEDING. HCT TRENDS UP TO 28. WILL MONITOR.
+
+GU: FOLEY DRAINING AMBER CLEAR URINE. CURRENTLY PT IS POS 745. 
+
+PLAN: MONITOR BLEED, H AND H.
+      MONITOR RIGHT GROIN
+      CENTRAL LINE IF POSS. 
+
+ 
+",,
+14041,,17464,0,3395-06-18 03:40:00 EST,3395-06-18 04:08:00 EST,8067,"N",54,"Nursing/Other",,"
+
+7am to 7 am:
+
+PT WAS READMITTED TO [**Hospital1 **] [**6-16**] WITH DX OF UGIB. THEY WERE UNABLE TO DO EGD [**6-17**] [**3-12**] ESAPHOGEAL DEFECT. PT HAD AN ANGIO DONE [**6-17**] VIA RT FEM, AND HAD A GASTRIC ARTERY CAUTERIZED. HCT HAS STAYED STABLE SINCE (HCT 28- 27.6 AND 29.0 AT 4AM), GOAL TO KEEP HCT >28.
+
+NEURO)  PT HAS BEEN AWAKE AND ALERT MOST OF THE NIGHT. PT HAS SHORT TERM MEMORY LOSS, AND WILL ASK THE SAME QUESTIONS FERQUENTLY. PT IS VERY PLEASANT AND IS ORIENTED X 2.
+
+CV)  PT REMAINS IN AFIB WITHOUT ANY ECTOPY NOTED,- WITH A VENTRICULAR RESPONSE IN 50 - 60'S. (PT'S HR DID GO DOWN TO 40'S FOR A FEW SECONDS WHILE ASLEEP X 1). SBP 130- 140'S WITH MAP OF 80-90'S. (PT IS CURRENTLY NOT ON ANY BP MEDS). PT HAS +3 PEDAL EDEMA AND BODY EDEMA. PT HAS GOOD PULSES AS NOTED TO PALP. NO HEMATOMA OR BLEED NOTED TO RT FEM. NO NUMBNESS NOTED TO RLE. 
+
+RESP)  LS COARSE TO LLL AND RLL (LT > RT). LS CLEAR THIS AM. PT NEEDS TO BE INC TO DB&C W/A. PT IS 96-98 % ON 1 L NC. NO RESP DISTRESS NOTED.
+
+GI)    BS+ TO ALL 4 QUADERANTS. ABD SL DIST AND SOFT TO TOUCH. NO N/V/D AT THIS TIME. PT IS NPO WITH IVF AT KVO. PT HAD ONE LIQ MOHAGONY COLORED STOOL ( 50 CC) AT 5 AM. HCT HAS BEEN STABLE AS NOTED. ? WHEN THEY WOULD LIKE TO REPEAT HCT TODAY. PT WILL KEEP ASKING FOR SOMETHING TO DRINK.
+
+GU)   GOOD U/O VIA FOLEY CATHETER.
+
+PAIN)  PT DID REPORT SOME ARTHRITIS PAIN TO RUE AND LUE. TYLENOL WAS GIVEN WITH GOOD EFFECT. PT DID ALSO REPORT SOME NECK PAIN AT 1AM, WHICH WAS RELIEVED WITH REPOSITION.
+
+SKIN)  PT HAS 2 SML SUPERFICIAL SKIN ABRATIONS TO BOTTOCKS. DUODERM WAS REMOVED AND AREA CLEANCED AND ALOE VESTA CREAM APPLIED. PT'S SKIN AROUND RECTUM ALSO VERY RED. ALOE VESTA CREAM APPLIED.
+
+PLAN) ? NEXT HCT DUE.
+      ? ADVANCE TO SIPS OF CLEARS IF HCT STAYS STABLE.
+",,
+14041,,17464,0,3395-06-18 13:12:00 EST,3395-06-18 13:22:00 EST,3576,"N",54,"Nursing/Other",,"
+
+NPN 7a-3p
+
+Events-  Pt. HCT 31.4 w/ stable VSS.  Pt. OOB to chair w/ full 2 person assistance.  Requires 2-3L O2 when sleeping.  Conts in Afib w/ HR <60 at times.  U/o marginal- call in to team about ? lasix vs. fluid bolus.  
+
+Review of systems-
+
+Neuro-  intact, forgetful, short term memory loss
+
+resp-  92-96% on RA.  LS- diminished Left base- known pna from prior admission, no resp. distress noted.  + DOE.  will need rehab for strenghthing and conditioning.  WBC 11.8.
+
+cv-  Afib.  VSS.  Afebrile.  Generalized edema, dependent regions +3 pitting.  Angio site looks good.  HCT stable 31.4 on repeat.  Will recheck tonight.  Mag repleted.  
+
+GI-  ABD soft, no tenderness.  C/o hunger.  Needs bedside and possible video swallowing study.  Pt. coughing when sipping or taking things by mouth.  EGD would not pass to esophagus ? d/t diverticulum in upper esoph.  Could be the cause of impaired swallowing.  Teaching done around tucking chin to chest, sitting bolt upright when taking POs, coughing advised after sipping etc.  This sounds like an ongoing problem that pt. reports he had a video study during a prior admission.  Bedside eval should happen today.  
+
+GU-  U/o marginal- will give FB of 500cc now and if does not work, may then try lasix.
+
+ID-  99.0 TMAX this afternoon.  Conts on flagyl, ceftriaxone (+GNR pna) regimen.
+
+Social-  lives w/ wife of 54 years.  Ability to take care of self and judgement in question d/t short term memory and physical limitations.  Will need appropriate follow up w/ home health services when out of rehab. 
+",,
+14041,,,,3395-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-19**] 2:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5793**]
+     Reason: ? CHF, ? aspiration                                         
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           85 year old man with UGIB and resolving PNA now with acute SOB.            
+     REASON FOR THIS EXAMINATION:
+      ? CHF, ? aspiration                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, PORTABLE
+     
+     INDICATION:  85-year-old man with upper GI bleed and resolving pneumonia, now
+     with acute shortness of breath, evaluate for CHF or aspiration.
+     
+     CHEST, PORTABLE:  Comparison is made to prior study of [**3395-6-16**].  The heart size
+     is in the upper limits of normal.  Again noted are patchy opacities throughout
+     the left lung.  These are not significantly changed; however, there are now
+     new opacities at the right base and small bilateral pleural effusions are
+     present that are not changed.
+     
+     IMPRESSION:  New opacities at the right base.  This raises concern for
+     aspiration.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 5794**].
+                                                                           
+
+",,
+14041,,,,3395-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-19**] 9:03 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 5791**]
+     Reason: ? aspiration                                                
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with resolving PNA, and UGIB s/p coils, now with ? aspiration   
+     REASON FOR THIS EXAMINATION:
+      ? aspiration                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old man with resolving pneumonia and upper GI bleed
+     status post coils now with question of aspiration.  Evaluate for aspiration.
+     
+     Oropharyngeal video swallow fluoroscopic evaluation:
+     
+     Mild oral and pharyngeal dysphagia with no evidence of aspiration.  A large
+     diverticulum is noted in the pharynx.  Difficult to determine type of
+     diverticulum (Zenker's versus Killian-[**Last Name (un) 5792**]).  Solid and liquids were
+     observed to collect within diverticulum along with backflow swallow following
+     throat clearing.  For further details, please refer to the video swallow
+     evaluation from [**3395-6-19**].
+                                                                           
+
+",,
+14041,,,,3395-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-21**] 10:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5795**]
+     Reason: please assess for interval change.                          
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with UGIB and resolving PNA                                     
+     REASON FOR THIS EXAMINATION:
+      please assess for interval change.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST ON [**3395-6-21**] AT 11:13
+     
+     INDICATION:  Upper GI bleed and resolving pneumonia.
+     
+     COMPARISON:  [**3395-6-19**].
+     
+     FINDINGS:  Less density to the right lower lung airspace disease is
+     visualized.  I cannot compare the left airspace disease as this has been cut
+     off from view.  There are no new airspace findings in the upper lungs.
+     
+     IMPRESSION:  Poor quality film - improving airspace disease at the right lower
+     lung.
+     
+
+",,
+14041,,,,3395-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-22**] 8:38 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 5796**]
+     Reason: ? obstruction, ? diverticulitis.                            
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with with duodenal ulcer s/p coils, resolving PNA and now new 
+      LLQ abd pain.
+     REASON FOR THIS EXAMINATION:
+      ? obstruction, ? diverticulitis.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Duodenal ulcer status post coiling, new left lower quadrant
+     abdominal pain.
+     
+     COMPARISON:  CT of the abdomen and pelvis, [**3395-6-13**].
+     
+     TWO AP SUPINE VIEWS OF THE ABDOMEN:  Again seen are bibasilar opacities as
+     well as small bilateral pleural effusions.  No dilated loops of small or large
+     bowel are identified.  Coils from the recent Interventional Radiology
+     procedure are seen in the right upper quadrant.  Degenerative changes seen
+     within the spine.
+     
+     IMPRESSION:  No evidence of small or large bowel obstruction.
+
+",,
+14041,,,,3395-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3395-6-24**] 4:39 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5797**]
+     Reason: ? new infection, aspiration                                 
+     Admitting Diagnosis: UPPER GI BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with resolving multilobar PNA, silent aspirations now febrile   
+     REASON FOR THIS EXAMINATION:
+      ? new infection, aspiration                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS
+     
+     INDICATION:  85-year-old man with resolving multilobar pneumonia.  Aspiration.
+     
+     COMMENTS:  PA and lateral radiographs of the chest are reviewed, and compared
+     with previous study dated [**3395-6-21**].
+     
+     The previously identified left lower lobe opacity has been slightly
+     decreasing.  There is continued small bilateral effusion.  There is mild
+     congestive heart failure with cardiomegaly.  No pneumothorax is identified.
+     
+     IMPRESSION:  Slightly improving left lower lobe pneumonia.  Mild congestive
+     heart failure with cardiomegaly and bilateral pleural effusion.
+                                                                           
+
+",,

@@ -1,0 +1,359 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14935,17921,,,2521-09-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2521-9-19**]     Discharge Date:  [**2521-9-23**]
+
+Date of Birth:   [**2441-7-29**]     Sex:  F
+
+Service:  Medicine, [**Location (un) **] Firm
+CHIEF COMPLAINT:  Gastrointestinal bleed.
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 80-year-old woman
+with cryptogenic cirrhosis, known portal hypertension, history of
+hepatic coma, and coronary artery disease who presented to
+[**Hospital 2882**] Hospital on [**2521-9-19**] with a 2-day to 3-
+day history of melena.
+
+She was found to be guaiac-positive by examination, but since she
+was hemodynamically stable at the time, she was discharged home
+from the Emergency Department.  She had a light dinner that
+evening, and shortly afterwards became diaphoretic, nauseous, and
+had one episode of hematemesis.
+She was brought back to the Emergency Department at [**Hospital1 **]
+[**Hospital 922**] Hospital approximately three hours after she was initially
+discharged.  At this time, she was found to be hypotensive,
+diaphoretic, and with a hematocrit drop to 26.  An nasogastric
+lavage was performed in the Emergency Department and did not
+clear with 2 liters of normal saline. An emergent
+esophagogastroduodenoscopy was done which showed very large 10-cm
+varices crossing the gastroesophageal junction.  Sclerotherapy
+was used but unable to stop the bleeding.  She was intubated and
+then sent to [**Hospital1 10**].
+
+PAST MEDICAL HISTORY:
+ 1.  Cryptogenic cirrhosis diagnosed one year ago.
+ 2.  Diverticulosis.
+ 3.  Coronary artery disease.
+ 4.  History of ulcerative colitis.
+ 5.  Hypertension.
+ 6.  Portal hypertension.
+ 7.  Question of diabetes mellitus.
+ 8.  Gastroesophageal reflux disease.
+ 9.  Status post cholecystectomy.
+10.  Status post hysterectomy.
+11.  Status post appendectomy.
+12.  Cataracts.
+
+SOCIAL HISTORY:  The patient is married.  She lives with her
+husband who is very supportive.  She denies any history of
+alcohol, tobacco, or intravenous drug use.
+
+FAMILY HISTORY:  Family medical history was noncontributory.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Isordil 30 mg p.o. q.d.
+2.  Nadolol 40 mg p.o. q.d.
+3.  Asacol 800 mg p.o. t.i.d.
+4.  Captopril 25 mg p.o. t.i.d.
+5.  Lactulose 20 g p.o. q.i.d.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Vital signs on
+admission revealed temperature was 98.1, blood pressure
+was 118/56, heart rate was 64, oxygen saturation was 100%
+(intubated), respiratory rate was 10 to 14.  Physical
+examination in general revealed the patient was intubated and
+sedated.  Her pupils were equal, round, and reactive.  Her
+neck was supple with no lymphadenopathy appreciated.  Her
+sclerae were anicteric.  Her mucous membranes were moist.
+Her chest was clear to auscultation bilaterally.  Her heart
+had a regular rate.  Normal first heart sound and second
+heart sound.  A [**1-22**] soft early peaking systolic murmur at the
+left upper sternal border.  No third heart sound or fourth
+heart sound were appreciated.  Her abdomen was markedly
+distended with normal active bowel sounds.  It was soft and
+nontender.  No fluid wave was appreciated.  Three well-healed
+surgical scars were noted.  The liver and spleen could not be
+palpated secondary to ascites.  She had no cyanosis,
+clubbing, or edema.  Her lower extremities were in Pneumo
+boots with 2+ dorsalis pedis and posterior tibialis pulses
+bilaterally.  On skin examination, she had no rashes, palmar
+erythema, or prominent spider hemangiomas.
+
+PERTINENT LABORATORY DATA ON PRESENTATION:   Laboratory
+values on admission revealed white blood cell count was 4,
+hemoglobin was 10, hematocrit was 29.1, platelets were 81.
+PT was 15.3, PTT was 27.2, INR was 1.6.  Chemistry panel
+revealed sodium was 139, potassium was 4.4, chloride was 112,
+bicarbonate was 17, blood urea nitrogen was 12, creatinine
+was 0.5, and blood glucose was 183.  Calcium was 6.1,
+magnesium was 1.4, phosphorous was 3.4.  ALT was 12, AST
+was 18, LDH was 188, alkaline phosphatase was 52, total
+bilirubin was 0.7.
+
+PERTINENT STUDIES DURING HOSPITALIZATION:
+1.  Cardiac enzymes were cycled times three with a peak
+creatine kinase of 385, CK/MB was 11, and troponin was less
+than 0.3.
+2.  A chest x-ray on [**2521-9-20**] showed an opacity in the
+left lower lobe with minimal left pleural effusion.
+3.  A right upper quadrant ultrasound on [**2521-9-20**]
+showed a heterogenous liver consistent with cirrhosis, no
+intrahepatic or extrahepatic ductal dilatation.  Positive
+splenomegaly.  Positive small amount of ascites noted in
+perihepatic, perisplenic, and pelvic areas.
+4.  Esophagogastroduodenoscopy done on [**2521-9-20**]
+revealed grade III varices starting in the lower one-third of
+the esophagus with a stigmata of recent bleed and oozing from
+multiple areas. Six and six injections sclerotherapy were
+performed with appropriate hemostasis.  Clotted blood was
+seen throughout the whole stomach.  A large adherent clot was
+present in the fundus which prevented complete visualization.
+
+IMPRESSION:  This is an 80-year-old with cryptogenic
+cirrhosis and portal hypertension presenting with a
+gastrointestinal bleed secondary to a esophageal varices.
+
+HOSPITAL COURSE:
+
+1.  GASTROINTESTINAL:  Upon admission, the patient was
+directly transferred to the Medical Intensive Care Unit where
+an nasogastric lavage was performed which did not clear after
+5 liters of normal saline.
+
+An emergent esophagogastroduodenoscopy was performed which
+showed grade III varices which were successfully sclerosed.
+No other sites of bleeding were noted.  The patient was then
+started on Octreotide on which she was continued for 72 hours
+without complications.
+
+A right upper quadrant ultrasound was performed which showed
+a small amount of ascites; however, the patient was started
+on ciprofloxacin for spontaneous bacterial peritonitis
+prophylaxis in the setting of a variceal bleed.
+
+The patient's cause for cirrhosis has been evaluated extensively;
+and per records from [**Hospital 2882**] Hospital, she is hepatitis
+negative and rapid plasma reagin nonreactive. She has a history
+of hepatic coma one year prior to this admission, at which time
+her cirrhosis was initially diagnosed. Fortunately, alpha-
+fetoprotein has been negative over the past year.
+
+In addition to Octreotide, the patient was restarted on her
+outpatient dose of nadolol 40 mg p.o. q.d.
+
+The patient's primary gastroenterologist, Dr. [**Last Name (STitle) 911**] at
+[**Hospital 2882**] Hospital was contacted through Dr. [**Last Name (STitle) 10358**]
+who performed the esophagogastroduodenoscopy at [**Hospital1 392**].
+
+2.  HEMATOLOGY:  The patient with a baseline hematocrit of
+around 34.  On presentation, hematocrit was 26 at the outside
+hospital and 29 on admission to [**Hospital1 391**].  She received a total of 2 units of packed red blood
+cells with an appropriate hematocrit bump in the Intensive
+Care Unit.  After transfusion and sclerotherapy, the
+patient's hematocrit remained stable for greater than 48
+hours prior to discharge.
+
+On admission, the patient's INR was elevated to 2.5 secondary
+to liver disease.  She was given three doses of vitamin K
+with INR normalizing at 1.3.
+
+She was also noted to have thrombocytopenia which was thought
+secondary to her splenomegaly.
+
+3.  CARDIOVASCULAR:  The patient with a history of hypertension
+and coronary artery disease.  Given anemia, she was at high risk
+for demand ischemia; and therefore she was ruled out for
+myocardial infarction by cardiac enzymes.  On admission, she was
+hypotensive; and therefore blood pressure medications were held
+on hospital day one.  As her blood pressure normalized, her ACE
+inhibitor and beta blocker were titrated up with no
+complications.  She was to restart her long-acting nitrate upon
+discharge.
+
+4.  PULMONARY:  On admission, the patient was intubated and
+sent directly to the  Medical Intensive Care Unit.  After an
+emergent esophagogastroduodenoscopy, she was weaned off the
+ventilator and extubated the following morning without any
+difficulties.  Her oxygen saturation remained high for the
+remainder of her hospital course.
+
+5.  INFECTIOUS DISEASE:  The patient was afebrile with a normal
+to slightly elevated white blood cell count throughout her
+hospitalization.  Given her portal hypertension and small amount
+of ascites, there was some concern for spontaneous bacterial
+peritonitis, and she was started on ciprofloxacin for
+prophylaxis.  She was discharged with instructions to complete a
+7-day course of ciprofloxacin.
+
+6.  ENDOCRINE:  On presentation, the patient with a questionable
+history of diabetes mellitus; however, she was not on any
+outpatient medications for this diagnosis.  Her fingerstick
+glucose throughout this admission was consistently less than 200
+and most in the 100 to 150 range. She was monitored on q.i.d.
+fingersticks and covered on a regular insulin sliding-scale.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable
+and improved.
+
+DISCHARGE DIAGNOSES:
+1.  Upper gastrointestinal bleed.
+2.  Grade III esophageal varices; status post sclerotherapy.
+3.  Portal hypertension.
+4.  Cryptogenic cirrhosis.
+5.  Hypertension.
+6.  Gastroesophageal reflux disease.
+
+MEDICATIONS ON DISCHARGE:
+1.  Nadolol 40 mg p.o. q.d.
+2.  Asacol 800 mg p.o. t.i.d.
+3.  Isordil 30 mg p.o. q.d.
+4.  Captopril 25 mg p.o. t.i.d.
+5.  Lactulose 20 g p.o. q.i.d.
+6.  Ciprofloxacin 500 mg p.o. b.i.d. (times five days; to
+complete a 7-day course).
+
+DISCHARGE INSTRUCTIONS:
+1.  The patient was to follow up with her primary care
+physician (Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3318**]) in approximately two to four
+weeks.
+2.  The patient was to follow up with her primary
+gastroenterologist (Dr. [**Last Name (STitle) 911**]) at [**Hospital 2882**] Hospital
+for follow-up esophagogastroduodenoscopy with possible
+variceal banding.
+
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 269**]
+
+Dictated By:[**Last Name (NamePattern1) 4362**]
+
+MEDQUIST36
+
+D:  [**2521-9-23**]  18:11
+T:  [**2521-9-27**]  02:59
+JOB#:  [**Job Number 11422**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: FRI [**2521-10-3**] 2:15 PM
+(End of Report)
+
+
+",,
+14935,17921,18555,,2521-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2521-9-20**] 9:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13543**]
+     Reason: Please evaluate for aspiration                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with ugib and cirrhosis                                       
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for aspiration                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, AP PORTABLE.
+     
+     HISTORY:  Upper GI bleed and cirrhosis. Evaluate for aspiration.
+     
+     No priors for comparison.
+     
+     An ET tube is in place with the tip 1.3 cm above the carina.  This is a poor
+     inspiration film degrading quality.
+     
+     Increased opacity is seen in the left lower lobe with blunting of the left CP
+     angle.
+     
+     Accounting for poor technique, the right lung is unremarkable.  Clips are seen
+     in the right upper quadrant from prior cholecystectomy.  The cardiac
+     silhouettte is unremarkable.
+     
+     IMPRESSION:  Ill-defined opacity in left lower lobe with blunting of left CP
+     angle for which aspiration cannot be excluded.  Follow-up is suggested.
+     
+
+",,
+14935,17921,18555,,2521-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2521-9-20**] 11:08 AM
+     US ABD LIMIT, SINGLE ORGAN PORT                                 Clip # [**Clip Number (Radiology) 13544**]
+     Reason: KNOWN CIRRHOSIS, UPPER GI BLEED, ASSESS LIVER AND FLUID
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with cirrhosis, upper GI bleed                                
+     REASON FOR THIS EXAMINATION:
+      h/o of ascites, question of SBP                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cirrhosis, upper GI bleed.  Evaluate for ascites.
+     
+     TECHNIQUE:  Limited upper abdominal ultrasound.
+     
+     There are no prior studies available for comparison.
+     
+     FINDINGS:  The liver is heterogeneous, slightly echogenic and it has an
+     irregular contour consistent with history of cirrhosis.  The pancreas is
+     echogenic.  There is no intra- or extrahepatic ductal dilatation.  The spleen
+     is enlarged measuring 17.5 cm.  There is a small amount of ascites in the
+     perihepatic, perisplenic and pelvic regions.
+     
+     IMPRESSION:  Cirrhosis, splenomegaly and small amount of ascites.
+     
+
+",,
+14935,17921,18555,0,2521-09-20 03:14:00 EST,2521-09-20 03:31:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NSG Admission Note:
+  Pt is an 80 y/o female who presented today to an OSH with 2-3 day hx of melena.  She was initially d/c'd home with stable VS and Hct.  Later that  day she returned to [**Location **] with hematemesis and diaphoresis.  She had BRB with NG Lavage of 2 L and her Hct had dropped to 22.  She was scoped and actively bleeding varices were sclerosed.  Pt was transfused X 3 units and transferred to [**Hospital1 10**] for possible TIPS procedure.  
+  PMH includes cirrhosis (unknown etiology), varices, portal HTN, diverticulitis, GERD, CAD, HTN, DM-II, cataracts, herniorrhapy.
+  NKDA
+  Neuro:  Pt arrived by ambulance after being sedated with fentanyl/versed.  Propofol was started shortly after she arrived.  On 10 mcg/kg/min, pt wakens easily, follows commands, moves all extremities, easily agitated (gagging on ETT, coughing).  Propofol dose increased to 15 mcg/kg/min for sl. deeper level of sedation and to prevent wretching/gagging.  Plan to wean to extubate later today if pt does not rebleed. Note: 2 mg versed administered for endoscopy.
+  CV:  Afebrile.  Pt in NSR rate 60's.  No ectopy.  BP stable--100-120 while sedated, 160's while awake.  Clot current in BB.  First of 2 u PRBC hanging now, 2 units more available in BB.  Access =#18 PIV X 2, #16 PIV, #20 PIV.  Lytes sent at 2300--Mg and Ca low--repleted and f/u levels pending.  Hct at 2300 29.0-->blood hanging, will recheck hct after transfusion.  
+  Pulm:  Pt intubated for airway protection.  Vent maintained on AC 600/10/40%/5.  Pt with rare spontaneous breath.  ABG good at OSH, f/u abg pending.  Lungs CTA.  CXR with good ETT placement at OSH.  
+  GI:  Pt initially lavaged with 5 L via EWOL tube by GI fellow.  Solution did not clear.  Large clots removed.  Scope revealed multiple columns of huge esophageal varices (10 cm long) with signs of recent bleeding.  Sclerosing procedure performed and plan is to sent pt for TIPS if she rebleeds.  Octreatide gtt started at OSH, continues at 50 mcg/hr.  Abd huge, softly distended with air from two scopes, passing flatus, no stool yet.  OGT removed, not to be replaced except by GI.  NPO.
+  GU:  Foley in place draining adequate amts amber yellow urine.
+  Skin: Intact.
+  Family:  Pt has husband, his contact info is in chart.  No inquiries or visits.  Husband updated on events of night by MD via phone.
+",,
+14935,17921,18555,0,2521-09-20 15:12:00 EST,2521-09-20 15:25:00 EST,1741,"N",69,"Nursing/Other","MICU NSG 7A-7P","
+MICU NSG 7A-7P
+RESP--INITALLY ON AC 10 600 50% PEEP 5, BREATHING [**4-21**] OVER VENT.  AT ~12:30PM, PLACED ON PS5 PEEP 5 50%, RR 20-23, STV 400-800CC, EXTUB AND PLACED ON 50% COOL NEB FACE TENT.  POST EXTUB SATS >95%, RR 20'S, DENIES SOB, USING INCENTIVE SPIROMOETER Q2 PULLING TV 125-1500CC WITH EACH TRY.  STRONG COUGH , EXPECTORATING SM AMOUNTS THICK BROWN SPUTUM.  
+CV--HR 70-80'S SR WITH BBB.  BP 100-140/.  NO PERIPHERAL EDEMA NOTED. CYCLING CK'S/TROPONINS, #1 CK 249 MB 10 TROPONIN <0.3, #2 CK 336 MB 11 TROPONIN PENDING, 3RD SET DUE 8PM.  
+NEURO--WHEN INTUB SEDATED WITH PROPFOL, GTT OFF AT ~12:30PM IN ANTICIPATION OF EXTUB.  POST EXTUB, PT SLEEPY, EASILY ROUSABLE, ORIENTED X3.  WRIST RESTRAINTS REMOVED.
+GI--ABD REMAINS DISTENDED, BUT SOFT WITH ACTIVE BS, PASSING FLATUS, NO STOOL SO FAR THIS SHIFT.  TOL ICE CHIPS.  HCT STABLE AT 33, NEXT DUE AT 8PM. 
+HEME--HCT STABLE AS ABOVE, COAGS FROM THIS AM ELEVATED, INR 2.5, PT 19., RECHECKED AT 12P, INR 1.3 PT 13.4.  THROMBOCYTOPENIC WITH PLTS 70-80, TEAM AWARE AND FOLLOWING.  FDP AND D-DIMER SENT THIS AM, WNL.   
+GU--U/O 30-50CC/HR, AMBER URINE.  CONTS ON IVF.
+SOCIAL--HUSBAND IN TO VISIT, UPDATED BY INTERN ON PT CONDITION AND PLAN FOR DAY.  AWARE PT EXTUB.  PLANS TO VISIT TOMORROW.     
+",,
+14935,17921,18555,0,2521-09-21 05:11:00 EST,2521-09-21 05:26:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Remains alert and oriented x 3. MAE. Slept most of the noc.
+
+Resp - Lungs clear. 02 sat 95-97 on 4lNC. RR low 20s.  Sm prod cough thick brown sputum which pt removes with yankeur. 
+
+GI - Abd soft and nontender on palp. +BS. No stool Pt denies abd pain. No n/v. Octreotide infusing at 50mcgs/hr. Diet advanced to 1800 [**Doctor First Name 196**]. Pt tolerated cl liqs well. Hct stable at 30.2.
+
+C-V - HR 70 SR, no ectopy noted. BP 110-120/50-60. Third CPK 385 MB 8.
+Denies CP or SOB. 
+ 
+
+F/E - U/O 60-80ccs/hr via foley cath. s/p 1 liter d51/2ns. K 3.9 this am. 
+
+Endo - RISS.
+
+ID - Afeb. WBC 4.3. IV Cipro qd for SBP prophylaxis. 
+
+Social - No phone calls or visitors. 
+
+",,
+14935,17921,18555,0,2521-09-21 16:56:00 EST,2521-09-21 16:58:00 EST,-1,"N",69,"Nursing/Other","nursing note 7a-7p","
+nursing note 7a-7p
+pt. to be transfer to [**Hospital Ward Name 40**] 7,please read transfer note,pt. stable.
+",,

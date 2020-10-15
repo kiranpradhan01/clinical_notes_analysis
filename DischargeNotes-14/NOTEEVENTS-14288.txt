@@ -1,0 +1,293 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14288,136,,,3192-07-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3192-7-16**]       Discharge Date:  [**3192-7-23**]
+
+Date of Birth:   [**3109-7-30**]       Sex:  F
+
+Service:  NEUROLOGIC MEDICINE
+
+DISCHARGE DIAGNOSIS:  Left middle cerebral artery stroke.
+
+NOTE:  The following history is as garnered from the
+patient's daughter, [**First Name8 (NamePattern2) 446**] [**Last Name (NamePattern1) 10414**], at telephone [**Telephone/Fax (1) 10415**].
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 82 year old
+woman with Parkinson's disease and history of previous stroke
+who recently suffered a left middle cerebral artery stroke,
+status post TPA treatment, who is now being transferred to
+the neurology floor.  Her recent history includes four days
+of upper respiratory infection with signs and symptoms
+including nonproductive cough and fatigue.
+
+On [**3192-7-15**], the patient was at her Senior Center and had an
+episode of right knee weakness which was initially attributed
+to her arthritis.  However, by 4:00 p.m. that day, her knee
+collapsed and she was quite weak; her daughter took her home
+but she remained weak.  During this time, she continued to be
+oriented and had no other problems.
+
+She was taken to the [**Hospital3 1658**] where a diagnosis of
+right lower lobe pneumonia was made and Levofloxacin started
+in the Emergency Department at that time.  However, on
+transfer to the [**Hospital3 1658**] floor, she was noted to have
+a sudden onset of right sided arm and leg weakness and she
+was unable to articulate but was still able to nod
+appropriately to questions.
+
+Head CT showed atrophy and the patient was transferred to
+[**Hospital1 10**] for acute management of
+stroke.
+
+The patient underwent MR imaging study which showed decrease
+water diffusion in the distribution of the left middle
+cerebral artery without significant mass effect and she
+received TPA at 5:10 a.m.  Post TPA, she has been stable but
+clinically has not shown any appreciable improvement.  Repeat
+CT is without bleed or evidence of increased intracranial
+pressure.  Doppler without evidence of reflow.
+
+At baseline, the patient lives with her daughter and is quite
+functional, able to house chores and feed herself.  Per her
+daughter, she had a nonproductive cough and fatigue for four
+days with difficulty feeding herself the day prior to
+presentation to [**Hospital3 1658**].  No fever, chills, chest
+pain, palpitations, headache, loss of consciousness or focal
+weakness except for the right knee weakness; she has had
+urinary incontinence for the last six months.  Both the
+patient's daughter and son-in-law were ill with the flu in
+the days prior to presentation.
+
+PAST MEDICAL HISTORY:
+1.  Sepsis with pulmonary embolism some eleven years ago.
+2.  Parkinson's disease diagnosed ten years ago.
+3.  Macular degeneration.
+4.  Stroke in the past with diagnosis by MR in [**3190**] but
+without residual deficits.
+5.  History of dilated ventricles first seen in [**3190**], but
+repeat MR in [**3191**], was unchanged.
+6.  Recently diagnosed B12 deficiency.
+
+ALLERGIES:  Sulfa allergy as a child.
+
+MEDICATIONS ON ADMISSION:
+1.  Carbidopa 25/100 t.i.d.
+2.  Requip 0.25 mg t.i.d. (delusions at high doses).
+3.  Amantadine 100 mg q.d.
+4.  Detrol 2 mg b.i.d. p.r.n.
+5.  Dulcolax p.r.n.
+6.  B12 one q.week for four weeks which has been completed.
+
+SOCIAL HISTORY:  The patient lives with her daughter and
+son-in-law in [**Name2 (NI) 671**].  She was a homemaker without history
+of ethanol or tobacco use.  Her neurologist is Dr. [**Last Name (STitle) **] at
+[**Telephone/Fax (1) 10416**].  Primary care physician is [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] [**Telephone/Fax (1) 10417**].
+
+PHYSICAL EXAMINATION:  Temperature maximum 100.2, temperature
+current 98.8, heart rate 79, blood pressure 165/71, oxygen
+saturation 100% on two liters.
+
+General:  Elderly woman in no acute distress.
+
+Head and Neck:  Normocephalic, supple, no lymphadenopathy, no
+bruits.
+
+Cardiovascular:  Regular rhythm, normal rate.
+
+Pulmonary:  Clear to auscultation except some decreased
+breath sounds on the right.
+
+Abdomen:  Positive bowel sounds, soft, nontender,
+nondistended.
+
+Extremities:  Positive pulses.
+
+Neurologic:  Arousible but sleepy.  She will close eyes to
+command but not much else.  Nonverbal.
+
+Cranial nerves:  The pupils are equal, round, and reactive to
+light and accommodation, 3.0 millimeters going down to 2.0
+millimeters.  Extraocular movements are full.  Blinks to
+threat.  Closes eyes on command.  Right facial droop.
+
+Motor:  Bulk is normal. Tone is somewhat flaccid on the
+right.  The right arm and leg withdraw to pain.  Spontaneous
+left arm movement.  Resting tremor on the left hand.  Right
+arm and leg strength likely full.  Reflexes are 2+ in the
+biceps bilaterally, trace in the triceps bilaterally,
+brachial radialis 1+ bilaterally, patella 2+ on the left and
+3+ on the right, no gastrocnemius.  Toes are downgoing on the
+left and upgoing on the right.  Grasp reflex present on the
+left hand.
+
+LABORATORY DATA:  White blood cell count 10.0, hematocrit
+30.8, platelets 207,000.  Sodium 138, potassium 3.9, chloride
+103, bicarbonate 22, blood urea nitrogen 16, creatinine 0.8,
+and glucose 118.  Magnesium 2.0, calcium 8.1, phosphorus 3.1.
+
+Electrocardiogram:  Normal sinus rhythm at 70, Q wave in lead
+III, V1 and T wave inversion in II, III, aVF and V1 through
+V5.  No acute ST changes.
+
+MR imaging:  Decreased diffusion in the left middle cerebral
+artery distribution, no mass defect.  CT scan post TPA
+without bleed, no mass effect.
+
+Chest x-ray:  From the outside hospital revealed a slight
+right middle lobe opacity, no cardiomegaly and no effusion.
+
+HOSPITAL COURSE:  As indicated above, the patient was
+admitted after her new onset stroke and she received TPA
+intravenously but there was no reflow on post TPA studies.
+The patient clinically remained stable, however, did not have
+any significant meaningful clinical improvement over the
+course of the hospitalization.  She was initially responsive
+to noxious stimuli with appropriate withdrawal.  She would
+close her eyes to command.  However, on the day of this
+dictation, she was no longer responsive even to midline
+command of eye opening and closure.  She appeared
+comfortable.
+
+After further discussion with her family, both son and
+daughter, a decision was made to focus on her comfort and
+therefore, the patient was made comfort measures and referred
+to Hospice.  She is currently clinically stable and
+appropriate for transfer to a Hospice facility.  We
+anticipate that the patient will be given Morphine and Ativan
+as needed to keep her comfortable although we note that she
+is currently very comfortable both from a respiratory
+perspective and pain perspective without Ativan or Morphine.
+
+CONDITION ON DISCHARGE:  Not improved.
+
+DISCHARGE STATUS:  Discharged to Hospice facility.
+
+DISCHARGE DIAGNOSES:
+1.  Left middle cerebral artery stroke without clinical
+improvement despite TPA.
+2.  Currently comfort measures and being transferred to a
+Hospice facility.
+
+MEDICATIONS ON DISCHARGE:  Morphine and Ativan as needed for
+comfort.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3511**], M.D.  [**MD Number 3512**]
+
+Dictated By:[**Last Name (NamePattern4) 3513**]
+MEDQUIST36
+
+D:  [**3192-7-22**]  18:39
+T:  [**3192-7-22**]  19:12
+JOB#:  [**Job Number 10418**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: FRI [**3192-7-31**] 5:23 PM
+(End of Report)
+
+
+",,
+14288,136,,,3192-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-7-16**] 7:01 AM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8206**]
+     Reason: SUDDEN ONSET LOSS OF SPEECH AND MOTOR SKILLS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with Parkinsons disease, HTN had sudden onset right arm
+      weakness, right lower facial droop and difficulty speaking. Concern for left
+      MCA infarct now s/p TPA. Please do MRI with DWI and MRA. Thanks [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4722**]
+      p36125
+     REASON FOR THIS EXAMINATION:
+      r/o stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Parkinson disease, sudden onset right arm weakness, right lower
+     facial droop and difficulty speaking. Concern for left MCA infarct.
+     
+     No comparison studies available.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 and diffusion weighted images of the brain
+     were obtained with no administration of IV contrast.  3D time of flight MR
+     angiography imaging of the brain was then obtained with 3D reconstruction
+     images performed.
+     
+     MR BRAIN WITHOUT IV CONTRAST: Abnormal signal intensity is demonstrated on
+     diffusion weighted images in the left periventricular deep white matter
+     region, within the left MCA territory.  There is no significant mass effect or
+     shift of midline structures.  The images are highly degraded due to patient's
+     motion despite repeated attempts.
+     
+     MRA OF THE HEAD:  The supraclinoid portion of the internal carotid arteries,
+     as well as ACA and MCA's are not included on this study due to patient's
+     motion.  The left internal carotid arteries is occluded.
+     
+     IMPRESSION:  Left internal artery occlusion with left MCA territory acute
+     stroke.  Limited study due to patient's motion.  The supraclavicular ICA, ACA,
+     and MCA's are not included MR angiogram.
+
+",,
+14288,136,17757,,3192-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-7-17**] 10:16 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8207**]
+     Reason: FALL/ LOC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with sudden h/o of fall and unconsciousness                   
+     REASON FOR THIS EXAMINATION:
+      ? haemorrhage                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    Sudden history of fall and unconsciousness.
+     
+     TECHNIQUE:   Axial noncontrast Ct scans of the brain were obtained.
+     
+     COMPARISON:  Previous MRI from [**3192-7-16**].
+     
+     FINDINGS:   There is hypodensity involving the left insula, basal ganglia and
+     portions of the left frontal lobe. There is probably also a component of
+     hypodensity involving the anterior temporal lobe.    These areas represent
+     edema from recent infarction in the distribution of the left middle cerebral
+     arterial territory.  There is mild mass effect narrowing sulci. There is no
+     shift of midline structures. There is no evidence of hyperdensity in this
+     location or elsewhere in the brain to indicate acute hemorrhage. There are old
+     cerebellar infarctions.  There are calcifications of the carotid ciphon.
+     
+     IMPRESSION:   Evolving left middle cerebral territory infarction.  No evidence
+     of hemorrhage.
+
+",,
+14288,136,17757,,3192-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-7-17**] 1:49 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8208**]
+     Reason: CHECK POSITION OF FEEDING TUBE                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with STROKE                                                   
+     REASON FOR THIS EXAMINATION:
+      CHECK POSITION OF FEEDING TUBE                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check position of feeding tube.
+     
+     SUPINE ABDOMINAL RADIOGRAPH:  A feeding tube is seen in the stomach with tip
+     pointing to the gastric cardia.  There is a normal bowel gas pattern.  There
+     are degenerative changes in the lumbar spine and levoscoliosis.  The remaining
+     osseous structures are grossly unremarkable.
+     
+
+",,
+14288,136,17757,0,3192-07-17 04:03:00 EST,3192-07-17 04:11:00 EST,-1,"N",54,"Nursing/Other","Admission note","
+Admission note
+82 yr old lady adm to SICU from ED. transferred from [**Hospital1 **] clover as an in-pt for pneumonia, transferrd to [**Hospital1 10**] for acute rt sided weakness OSH CT scan showed Lt MCA CVA , received TPA in ED @ ~ 0400.
+Pt arrived awake not opening eyes, but mumbling incompreh sounds and consistently following simple command on Lt side, can lift and hold LT limbs, Rt arm flaccid but moves Rt leg in bed, withdraws briskly to stimuli. PERL.
+CV: Hr NSR, Bp stable, Bp goal 140-180 systolic, requires no pressors, BP maintained spont 150s systolic. no a-line. low grade temp, 99.8F
+Resp: 2L NC O2 sat 100%, clear bilat air entry.
+Plan: monitor neuro signs closely Q2H and repeat MRI.
+",,

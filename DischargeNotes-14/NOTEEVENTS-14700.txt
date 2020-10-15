@@ -1,0 +1,490 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14700,22732,,,2605-07-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+14700,22732,18263,0,2605-07-02 13:27:00 EST,2605-07-02 13:36:00 EST,511,"N",69,"Nursing/Other",,"
+
+Pt. adm from the ew with lower GI bleed.
+Resp: bs's clear. no o2 on. o2 sats in high 90's.
+GI: ON BEDPAN SEVERAL TIMES FOR MELENOTIC TYPE STOOL. SOFT. ABD SOFT. NO TENDERNESS. NPO X MEDS. NO C/O NAUSEA. GI CONSULT. ? OF COLONOSCOPY, BUT NO TIME YET. 
+RENAL: PT. HAS PROSTATE CA. THERE IS A ? WHETHER HE'S AWARE OF THIS, AS HE KEEPS TELLING ME THAT HE HAS BPH. DOES VOID IN SMALL AMTS. URINE APPEARS CLEAR. IVF'S AT 100CC/HR X1L. 
+NEURO: ALERT AND SOMEWHAT DISORIENTATED. PT. HAS EARLY ALZHEIMERS AND IS MORE CONFUSED SINCE WHEN HE ARRIVED, HOWEVER HE'S AWARE OF HIS DIAGNOSIS AND IS QUITE [**Last Name (un) **]. HE MAY NEED A SITTER IF HIS CONFUSION INCREASES. 
+CV: PT. IS ATRIAL PACED. HYPERTENSIVE. 
+HEM: REPEAT HCT AND INR DRAWN.
+SOCIAL: WIFE IS PRESENT AND CAN ANSWER ANY QUESTIONS. 
+J
+",,
+14700,22732,18263,0,2605-07-02 20:15:00 EST,2605-07-02 20:25:00 EST,348,"N",69,"Nursing/Other","3-11 pm NPN","
+[**4-12**] pm NPN
+GI:  pt to have endoscopy and colonoscopy tomorrow,  NPO after midnight.  pt drinking Golytely 4 liters this evening.   pt passed large melanotic loose stool,  changed to loose liquid brown, pt continues to drink golytely.   Hct 37.3    repeat at 9 pm 40.   PT~16.0    PTT~ 29.7   INR~1.7    no abd pain.    no further blood products.  
+
+RESP:  pt on RA   O2 sats 98-100%  rr~20  lungs clear. 
+
+GU:  pt voiding in urinal  200cc's at a time   (pt voided 1300 cc's) 
+
+CV:  bp 150-170/70  HR  60's A-paced.  off CV meds.    IVF KVO currently.  
+
+NEURO:  pt cooperative,  alert and oriented to person, place,  occ date.  @ times somewhat disoriented.  (early alzheimers) 
+
+IV lines:  2 peripherals  #18.  on pneumoboots.   SR up x 4.  
+
+A:  GIB
+P:  to have endoscopy/colonoscopy tomorrow.   continue to follow Hcts,  am labs.  NPO 
+",,
+14700,22732,18263,0,2605-07-02 23:30:00 EST,2605-07-02 23:55:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 2300-0700","
+Nursing Assessment Note 2300-0700
+NEURO: Pt alert, but slightly confused, pt aware of date and person, but is not able to recall place, despite me telling him several times, Pt moves all extremities well without deficit, PERL, Pt's grasps and push/pull equal & strong, pt denies dizziness or lightheadedness
+
+CV:  Pt's vss, afebrile, pt denies pain at this time, Pt in nsr, with occasional A-pace, Pt's pacermaker is left subclavian, Skin is pink, warm, and dry, pp + & =, without edema, Pt has 3 peripheral iv's, and NS @ kvo infusing well without problems, Pt has bilat pneumo boots on, 
+
+RESP:  Pt's lung sounds are clear, but diminished in bases, Pt denies cough or sob at this time, Pt on R/A, with sats 96%
+
+GI:  Pt npo except meds, Pt currently trying to finish golytely prep for colonoscopy in am, Pt denies nausea at this time, Bowel sounds are positive, with soft abd, Pt passing yellowish colored liquid stool, Pt encouraged to drink as much as possible
+
+GU:  Pt voiding clear yellow urine in small amounts, but total urine output is qs
+",,
+14700,22732,18263,0,2605-07-03 05:52:00 EST,2605-07-03 05:54:00 EST,6328,"N",69,"Nursing/Other","Addendum Note","
+Addendum Note
+Pt's am potassium level was 3.4, and phos level was 2.2, pt receving 30 MMOL K-Phos over 6 hours, Pt's magnesium level was 1.8, received 2 grams magnesium sulfate iv
+",,
+14700,22732,18263,0,2605-07-03 16:20:00 EST,2605-07-03 16:28:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:   Pleasant, oriented to name, a hospital, and [**2605-7-3**].  He is looking foreward to going home.
+
+CV:  VS stable today, tolerated the GI proceedure today.
+
+Resp: LS with exp wheezes, no SOB, 02 SATs upper 90s on RA, he does not take inhalers at home.
+
+GI:  He went for a colonoscopy today, per report his clean out was not very good though they were able to see numerous polyps, no sign of bleeding, he will need to have a repeat colonoscopy in 3-4 weeks.  He tolerated the proceedure well, he returned to the unit awake, talkative and oriented x3.  No further stool today, his am HCT was 38, he is due for a repeat HCT this afternoon.
+
+GU:  Voiding using a urinal.
+
+Dispo:  Awaiting a bed on the floor.
+
+
+",,
+14700,,,,2606-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2606-1-10**] 11:05 AM
+     LUMBO-SACRAL SPINE (AP & LAT)                                   Clip # [**Clip Number (Radiology) 11798**]
+     Reason: LOWER BACK PAIN 1 WEEK NO INJURY HX ADVANCED PROSTATE CA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      advanced prostate ca, lbp                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STANDING AP/LATERAL VIEWS OF THE LUMBAR SPINE
+     
+     INDICATION:  Advanced prostate CA.  Low back pain.
+     
+     FINDINGS:  There is dense sclerosis involving the left side of the L2
+     vertebral body consistent with osteoblastic metastatic prostate disease. There
+     is also sclerosis in the left ischial/acetabular region, most likely of the
+     same etiology.
+     
+     There is moderate narrowing of the L4-5 disc space with associated
+     degenerative changes and a grade I anterolisthesis of L4 relative to L5.
+     [**Name2 (NI) 11799**]e changes are seen in the facets at L4-5 and L5-S1.
+     
+     No acute findings are appreciated.
+
+",,
+14700,,,,2606-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2606-1-13**] 9:25 AM
+     BLADDER VOLUMETRIC US                                           Clip # [**Clip Number (Radiology) 11800**]
+     Reason: urinary frequency, prostate ca                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      urinary frequency, prostate ca                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  Bladder volumetric ultrasound.
+     
+     HISTORY:  78-year-old man with urinary frequency, prostate carcinoma.
+     
+     BLADDER VOLUMETRIC ULTRASOUND:
+     The bladder is unremarkable.  Pre-void bladder measurements are 7.6 x 8.6 x
+     9.1 cm for a total volume of 298 cc.
+     
+     Post-void bladder measurements are 5.2 x 3.1 x 4.2 cm for a total volume of
+     35.7 cc.
+     
+     The prostate gland measures 3.2 x 3.2 x 4.5 cm for a total volume of 24.8
+     cc., within normal limits.
+     
+     IMPRESSION:
+     1.  Small post-void residual volume of 35.7 cc.
+
+",,
+14700,,,,2606-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2606-3-21**] 11:07 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 11802**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: nephrolithiasis vs pyelonephritis                           
+     Field of view: 36 Contrast: VISAPAQUE Amt: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with metastatic prostate CA presents with acute onset of LLQ & 
+       L flank pain
+     REASON FOR THIS EXAMINATION:
+      nephrolithiasis vs pyelonephritis                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JVg FRI [**2606-3-21**] 12:26 PM
+      Moderate left hydronephrosis, mild-moderate left hydroureter. No radioopaque
+      stone seen bilaterally. Apparent transition point of left hydroureter seen on
+      series 3 image 64. Bilateral symmetric stranding around both kidneys.
+      Sclerotic bony lesions in pelvis and spine.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old man with metastatic prostate cancer with acute onset
+     of left lower quadrant pain.  Evaluate for nephrolithiasis versus
+     pyelonephritis.
+     
+     No comparison studies.
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen and pelvis were obtained
+     without IV contrast.  60 minute delayed images post-IV contrast administration
+     were then performed.  Multiplanar reformations were obtained.
+     
+     CT ABDOMEN WITHOUT AND WITH IV CONTRAST:  The liver, gallbladder, pancreas,
+     spleen, adrenal glands are within normal limits.  The left kidney demonstrates
+     moderate hydronephrosis with associated mild to moderate hydroureter.  A
+     transition point is seen in the distal ureter (series 3, image 64).  No
+     radiopaque stone is visualized.  No specific soft tissue density is seen
+     encompassing the transition point post-contrast administration.  Contrast is
+     not seen reaching transition point.  Within the left kidney, there are two
+     simple cysts, one in the mid pole, one in the lower pole.  The right kidney is
+     unremarkable with no evidence of hydronephrosis, hydroureter, or stones. There
+     is bilateral stranding seen surrounding both kidneys.  Both kidneys appear of
+     the same size.  The small bowel is unremarkable.  There is no free fluid or
+     free air.
+     
+     CT PELVIS:  Within the sigmoid colon, there are multiple small diverticuli
+     with no evidence of diverticulitis.  Multiple calcifications are seen within
+     the prostate gland.  There is no free fluid, lymphadenopathy, soft tissue
+     masses within the pelvis.
+     
+     BONE WINDOWS:  Sclerotic lesions are seen within the left acetabulum and iliac
+     bone.  Sclerotic lesions are seen within the entire L2 vertebral body.  Mild
+     sclerotic lesions are seen within the L5 and S1 vertebral bodies.  These
+     lesions are suspicious for metastatic lesions given history of prostate
+     cancer.
+                                                                 (Over)
+
+     DATE: [**2606-3-21**] 11:07 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 11802**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: nephrolithiasis vs pyelonephritis                           
+     Field of view: 36 Contrast: VISAPAQUE Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  Moderate left hydronephrosis with associated mild-to-moderate left
+     hydroureter.  Transition point seen in the distal left ureter with no definite
+     evidence of radiopaque stone.  No significant soft tissue surrounding the
+     transition point.  Possibilities for obstruction include metastatic stricture
+     or nonradiopaque stone.
+     
+     2.  No evidence of pyelonephritis.
+     
+     3.  Left simple renal cysts.
+     
+     4.  Diverticulosis with no evidence of diverticulitis.
+     
+     5.  Multiple sclerotic lesions within the pelvis and lumbar spine, likely
+     representing metastatic disease.
+
+",,
+14700,,,,2606-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2606-3-21**] 9:30 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11801**]
+     Reason: acute abdominal pain--r/o free air                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      acute abdominal pain--r/o free air                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old man with acute abdominal pain, rule out free air.
+     
+     Portable AP radiograph of the chest dated [**2606-3-21**] was compared to
+     portable AP radiograph of the chest dated [**2605-2-18**].
+     
+     Again seen is a dual chamber transvenous cardiac pacer with the lead tips
+     projecting over the right atrium and right ventricle, respectively.  The heart
+     size is normal.  Mediastinal and hilar contours are unremarkable.  The lungs
+     are clear.  There are no pleural effusions.  There is no significant interval
+     change.  No free air is seen under the diaphragm.
+     
+     IMPRESSION:  Unremarkable study without evidence of free intra-abdominal air.
+                                                                           
+
+",,
+14700,,,,2606-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2606-3-21**] 11:07 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 11802**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: nephrolithiasis vs pyelonephritis                           
+     Field of view: 36 Contrast: VISAPAQUE Amt: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with metastatic prostate CA presents with acute onset of LLQ & 
+       L flank pain
+     REASON FOR THIS EXAMINATION:
+      nephrolithiasis vs pyelonephritis                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JVg FRI [**2606-3-21**] 12:26 PM
+      Moderate left hydronephrosis, mild-moderate left hydroureter. No radioopaque
+      stone seen bilaterally. Apparent transition point of left hydroureter seen on
+      series 3 image 64. Bilateral symmetric stranding around both kidneys.
+      Sclerotic bony lesions in pelvis and spine.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old man with metastatic prostate cancer with acute onset
+     of left lower quadrant pain.  Evaluate for nephrolithiasis versus
+     pyelonephritis.
+     
+     No comparison studies.
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen and pelvis were obtained
+     without IV contrast.  60 minute delayed images post-IV contrast administration
+     were then performed.  Multiplanar reformations were obtained.
+     
+     CT ABDOMEN WITHOUT AND WITH IV CONTRAST:  The liver, gallbladder, pancreas,
+     spleen, adrenal glands are within normal limits.  The left kidney demonstrates
+     moderate hydronephrosis with associated mild to moderate hydroureter.  A
+     transition point is seen in the distal ureter (series 3, image 64).  No
+     radiopaque stone is visualized.  No specific soft tissue density is seen
+     encompassing the transition point post-contrast administration.  Contrast is
+     not seen reaching transition point.  Within the left kidney, there are two
+     simple cysts, one in the mid pole, one in the lower pole.  The right kidney is
+     unremarkable with no evidence of hydronephrosis, hydroureter, or stones. There
+     is bilateral stranding seen surrounding both kidneys.  Both kidneys appear of
+     the same size.  The small bowel is unremarkable.  There is no free fluid or
+     free air.
+     
+     CT PELVIS:  Within the sigmoid colon, there are multiple small diverticuli
+     with no evidence of diverticulitis.  Multiple calcifications are seen within
+     the prostate gland.  There is no free fluid, lymphadenopathy, soft tissue
+     masses within the pelvis.
+     
+     BONE WINDOWS:  Sclerotic lesions are seen within the left acetabulum and iliac
+     bone.  Sclerotic lesions are seen within the entire L2 vertebral body.  Mild
+     sclerotic lesions are seen within the L5 and S1 vertebral bodies.  These
+     lesions are suspicious for metastatic lesions given history of prostate
+     cancer.
+                                                                 (Over)
+
+     DATE: [**2606-3-21**] 11:07 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 11802**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: nephrolithiasis vs pyelonephritis                           
+     Field of view: 36 Contrast: VISAPAQUE Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  Moderate left hydronephrosis with associated mild-to-moderate left
+     hydroureter.  Transition point seen in the distal left ureter with no definite
+     evidence of radiopaque stone.  No significant soft tissue surrounding the
+     transition point.  Possibilities for obstruction include metastatic stricture
+     or nonradiopaque stone.
+     
+     2.  No evidence of pyelonephritis.
+     
+     3.  Left simple renal cysts.
+     
+     4.  Diverticulosis with no evidence of diverticulitis.
+     
+     5.  Multiple sclerotic lesions within the pelvis and lumbar spine, likely
+     representing metastatic disease.
+
+",,
+14700,,,,2606-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2606-3-21**] 11:07 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 11802**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: nephrolithiasis vs pyelonephritis                           
+     Field of view: 36 Contrast: VISAPAQUE Amt: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with metastatic prostate CA presents with acute onset of LLQ & 
+       L flank pain
+     REASON FOR THIS EXAMINATION:
+      nephrolithiasis vs pyelonephritis                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JVg FRI [**2606-3-21**] 12:26 PM
+      Moderate left hydronephrosis, mild-moderate left hydroureter. No radioopaque
+      stone seen bilaterally. Apparent transition point of left hydroureter seen on
+      series 3 image 64. Bilateral symmetric stranding around both kidneys.
+      Sclerotic bony lesions in pelvis and spine.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old man with metastatic prostate cancer with acute onset
+     of left lower quadrant pain.  Evaluate for nephrolithiasis versus
+     pyelonephritis.
+     
+     No comparison studies.
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen and pelvis were obtained
+     without IV contrast.  60 minute delayed images post-IV contrast administration
+     were then performed.  Multiplanar reformations were obtained.
+     
+     CT ABDOMEN WITHOUT AND WITH IV CONTRAST:  The liver, gallbladder, pancreas,
+     spleen, adrenal glands are within normal limits.  The left kidney demonstrates
+     moderate hydronephrosis with associated mild to moderate hydroureter.  A
+     transition point is seen in the distal ureter (series 3, image 64).  No
+     radiopaque stone is visualized.  No specific soft tissue density is seen
+     encompassing the transition point post-contrast administration.  Contrast is
+     not seen reaching transition point.  Within the left kidney, there are two
+     simple cysts, one in the mid pole, one in the lower pole.  The right kidney is
+     unremarkable with no evidence of hydronephrosis, hydroureter, or stones. There
+     is bilateral stranding seen surrounding both kidneys.  Both kidneys appear of
+     the same size.  The small bowel is unremarkable.  There is no free fluid or
+     free air.
+     
+     CT PELVIS:  Within the sigmoid colon, there are multiple small diverticuli
+     with no evidence of diverticulitis.  Multiple calcifications are seen within
+     the prostate gland.  There is no free fluid, lymphadenopathy, soft tissue
+     masses within the pelvis.
+     
+     BONE WINDOWS:  Sclerotic lesions are seen within the left acetabulum and iliac
+     bone.  Sclerotic lesions are seen within the entire L2 vertebral body.  Mild
+     sclerotic lesions are seen within the L5 and S1 vertebral bodies.  These
+     lesions are suspicious for metastatic lesions given history of prostate
+     cancer.
+                                                                 (Over)
+
+     DATE: [**2606-3-21**] 11:07 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 11802**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: nephrolithiasis vs pyelonephritis                           
+     Field of view: 36 Contrast: VISAPAQUE Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  Moderate left hydronephrosis with associated mild-to-moderate left
+     hydroureter.  Transition point seen in the distal left ureter with no definite
+     evidence of radiopaque stone.  No significant soft tissue surrounding the
+     transition point.  Possibilities for obstruction include metastatic stricture
+     or nonradiopaque stone.
+     
+     2.  No evidence of pyelonephritis.
+     
+     3.  Left simple renal cysts.
+     
+     4.  Diverticulosis with no evidence of diverticulitis.
+     
+     5.  Multiple sclerotic lesions within the pelvis and lumbar spine, likely
+     representing metastatic disease.
+
+",,
+14700,,,,2606-03-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 11803**]
+     Reason: PROSTATE CA, ? METS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Prostate cancer.  Multiple sclerotic foci on recent prior CT scan.   
+     Assess for osseous metastases. 
+      
+     INTERPRETATION:   
+      
+     Whole body images of the skeleton were obtained in anterior and posterior
+     projections. 
+      
+     There are multifocal areas of abnormal tracer uptake consistent with metastatic
+     disease.  These are seen within bilateral ribs, within the L2, L5, and S1
+     vertebral bodies, and within the pelvis (left much greater than right,
+     corresponding to the CT findings).  There is uptake within the left knee and
+     foot, and within the right ankle, likely degenerative.  Photopenic defects at
+     the right knee likely represent knee replacement.  The left collecting system
+     and ureter are dilated. 
+      
+     Comparison was made to the CT abdomen/pelvis of [**2606-3-21**]. 
+      
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion. 
+      
+     IMPRESSION:  Findings consistent with metastatic disease to the ribs, spine, and
+     pelvis.  Findings relayed to [**Doctor First Name 11804**] at Dr.[**Doctor Last Name 11805**] office at 1:55pm on
+     [**2606-3-24**]. 
+                                                                           
+
+             [**First Name8 (NamePattern2) 1583**] [**Last Name (NamePattern1) 1584**], M.D.
+             [**Last Name (NamePattern5) 145**], M.D.          Approved: WED [**2606-3-26**] 4:12 PM
+
+
+             Date Mailed: [**2606-3-27**]                     West [**Medical Record Number 11806**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+14700,,,,2606-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2606-5-8**] 4:22 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11807**]
+     Reason: c/o cough and gurgling (wheezing, noted on exam too, with di
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      c/o cough and gurgling (wheezing, noted on exam too, with diminished breath 
+      sounds, scattered crackles, has metastatic prostate ca
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Two view chest [**2606-5-8**].
+     
+     COMPARISON:  [**2606-3-21**].
+     
+     INDICATION:  Cough and gurgling.
+     
+     The heart size is normal.  There is slight upper zone vascular redistribution.
+     There is new perihilar haziness and peribronchial cuffing.  No confluent areas
+     of consolidation are observed in either lung, and there are no pleural
+     effusions.  The bones are diffusely demineralized.
+     
+     Permanent pacemaker is noted with leads in the right atrium and right
+     ventricle.  Redundancy of the ventricular lead within the right atrium is
+     noted unchanged.
+     
+     IMPRESSION:  New perihilar haziness and peribronchial cuffing.  This could
+     be due to interstitial edema from fluid overload, but differential diagnosis
+     includes viral infection and PCP.
+
+",,

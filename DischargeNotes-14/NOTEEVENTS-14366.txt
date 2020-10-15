@@ -1,0 +1,1053 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14366,8142,,,3205-10-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3205-10-5**]     Discharge Date:  [**3205-10-8**]
+
+Date of Birth:   [**3137-4-3**]     Sex:  M
+
+Service:  [**Location (un) 2089**]
+
+ADDENDUM:
+
+This is an addendum to the prior dictation summary starting
+with hospital course.
+
+The patient was admitted to the Medical Intensive Care Unit
+for management of hypotension, acute on chronic renal
+insufficiency and hyperkalemia.
+
+HOSPITAL COURSE BY SYSTEMS:
+
+1.  CARDIOVASCULAR:  In the medical Intensive Care Unit, the
+patient ruled out for myocardial infarction by three sets of
+cardiac enzymes.  Patient's blood pressure medications were
+discontinued and patient maintained systolic blood pressures
+in the 90s to 100s with normal saline boluses.  The patient
+was maintained on Telemetry which demonstrated rate
+controlled atrial fibrillation with occasional premature
+ventricular contractions.  The patient's Amiodarone was held
+for 24 hours without evidence of nonsustained ventricular
+tachycardia.  Amiodarone was restarted on hospital day #2
+without complication.
+
+The patient's volume depletion was repleted with intravenous
+fluids without signs of congestive heart failure.  The
+patient was continued on aspirin and Lipitor per outpatient
+regimen.  The patient was transferred to the floor on
+hospital day #3 and restarted on half dose of his outpatient
+Lopressor at 12.5 mg p.o. b.i.d. with continued blood
+pressures in the 120s to 130s over the 60s to 80s.  On
+hospital day #4, the patient was restarted on his after load
+reduction at a low dose of Zestril 10 mg p.o. q. day without
+complication.  The patient's remains without signs or
+symptoms of cardiac ischemia throughout the hospitalization.
+
+2.  INFECTIOUS DISEASE:  In the Medical Intensive Care Unit
+the patient was treated presumptively for a urinary tract
+infection with Ceftriaxone 1 gram q. 24 hours.  On previous
+hospitalization, the patient was diagnosed with an E.coli
+urinary tract infection sensitive to Ceftriaxone and
+resistant to Ciprofloxacin as well as Levofloxacin.  The
+patient was discharged to home on a course of Levofloxacin
+prior to culture sensitivities.
+
+The patient's urinary culture at the time of dictation
+demonstrate greater than 100,000 gram negative rods
+unspeciated with sensitivities pending.  Given the previously
+untreated E.coli urinary tract infection, the patient was
+continued on Ceftriaxone while awaiting sensitivities.  The
+patient remained afebrile with a normal white blood cell
+count throughout the hospitalization and demonstrated no
+further signs of acute infection.
+
+3.  RENAL:  Patient was admitted with an acute on chronic
+renal insufficiency the etiology of which is likely
+multifactorial secondary to an inadequately treated urinary
+tract infection, hypotension in the setting of a recently
+increased ACE inhibitor and decreased oral intact with
+decreased total body intravascular volume.  The Renal Team
+was consulted for recommendations.
+
+The patient's creatinine progressively improved with
+intravenous fluids, off the ACE inhibitor, Allopurinol and
+Colchicine as well as diuretics.  The patient continued to
+maintain excellent urine output throughout the
+hospitalization.  The patient's ACE inhibitor was
+reintroduced on hospital day #4 at a low dose to be titrated
+as tolerated.
+
+The patient was admitted with hyperkalemia which resolved
+following the treatment in the Emergency Department.  The
+hyperkalemia was without recurrence while the patient was off
+Aldactone and Ace inhibitor.
+
+4.  GI:  Patient has a history of chronic abdominal pain of
+unknown etiology.  The patient's abdominal pain was unchanged
+in quality or severity during the hospitalization and the
+patient was without evidence of liver function tests or
+pancreatic enzyme abnormality.  The patient tolerated oral
+intake without worsening of abdominal pain, nausea, vomiting
+or diarrhea and constipation.
+
+5.  HEMATOLOGY:  Patient was admitted on Coumadin for atrial
+fibrillation status post multiple cerebrovascular accidents.
+The patient's Coumadin was continued during the
+hospitalization and held on hospital day #3 secondary to a
+supratherapeutic INR of 5.3.  The patient received vitamin K
+and the Coumadin was held overnight.  The coagulation studies
+are pending at the time of dictation, however the Coumadin
+will be restarted with a goal INR of 2 to 3.
+
+6.  NEUROLOGY:  The patient has a known history of multiple
+cerebrovascular accidents with residual right hemiparesis,
+Broca's aphasia and neurogenic bladder.  The patient remained
+at his baseline.  Neurologic status without evidence of acute
+neurologic events.
+
+SUMMARY:  The patient is a 68-year-old male with a history of
+hypertension, chronic renal insufficiency, atrial
+fibrillation, congestive heart failure with a severely
+depressed ejection fraction and history of multiple
+cerebrovascular accident who is admitted with acute on
+chronic renal insufficiency, hypotension and hyperkalemia in
+the setting of recently increased ACE inhibitor, decreased
+p.o. intake and urinary tract infection.
+
+The patient is now status post a brief Medical Intensive Care
+Unit stay with resolving acute renal failure, normotension,
+and on empiric antibiotics for a urinary tract infection.
+
+CONDITION ON DISCHARGE:  Good.
+
+MEDICATIONS ON DISCHARGE:
+1.  Aspirin 81 mg p.o. q. day.
+2.  Lipitor 20 mg p.o. q. day.
+3.  Allopurinol 100 mg p.o. q. day.
+4.  Ditropan 5 mg p.o. q.i.d.
+5.  Zoloft 75 mg p.o. q. day.
+6.  Amiodarone 200 mg p.o. t.i.d.
+7.  Levsin 0.125 mg p.o. t.i.d.
+8.  Trazodone 100 mg p.o. q.h.s.
+9.  Coumadin 2 mg p.o. q.h.s. (to be dosed by INR with goal
+INR 2 to 3).
+10. Lopressor 12.5 mg p.o. b.i.d.
+11. Zestril 10 mg p.o. q. day.
+12. Lasix (dose to be determined).
+
+DISCHARGE DIAGNOSES:
+1.  Acute on chronic renal insufficiency.
+2.  Hyperkalemia.
+3.  Urinary tract infection.
+4.  History of multiple strokes with residual right
+hemiparesis and aphagia.
+5.  Neurogenic bladder with chronic indwelling Foley.
+6.  Atrial fibrillation.
+7.  Hypertension.
+8.  Gout.
+9.  [**Doctor Last Name **]-Parkinson-White syndrome.
+10. Depression.
+11. Hypotension.
+12. Status post prostate cancer.
+13. Hematuria.
+
+INSTRUCTIONS ON DISCHARGE:  Patient is to be discharged to
+acute rehab facility for continued Physical and Occupational
+Therapy.  The patient is to follow up with Dr. [**Last Name (STitle) **] in the
+Congestive Heart Failure Clinic at 9 AM on [**3205-10-11**].
+The patient is instructed to follow up with his primary care
+physician in one two weeks post discharge.  The patient is to
+continue with the [**Company **] Coumadin clinic for weekly INR checks
+and appropriate Coumadin management.
+
+
+
+
+                          [**Name6 (MD) **] [**Last Name (NamePattern4) 178**], M.D.  [**MD Number 179**]
+
+Dictated By:[**Name8 (MD) 10525**]
+
+MEDQUIST36
+
+D:  [**3205-10-7**]  16:44
+T:  [**3205-10-10**]  12:12
+JOB#:  [**Job Number 10526**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: MON [**3205-11-21**] 6:43 PM
+(End of Report)
+
+
+",,
+14366,8142,17859,0,3205-10-05 05:59:00 EST,3205-10-05 06:14:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NURSING NOTE 7P-7A
+
+PT ADMITTED TO MICU AT 0430. PT REFERED TO ER FROM PRIMARY'S OFFICE FOR K+6.4, CR 5.8. SEE ADMIT FLOWSHEET FOR PT HISTORY. 
+
+NEURO: PT ALERT, HAS EXPRESSIVE APHASIA FROM CVAX4 IN PAST. PT ABLE TO ANSWERE YES, NO QUESTIONS APPROPRIATELY. MAE, RIGHT SIDE WEAKNESS. FOLLOWS COMMANDS. DENIES ANY PAIN. 
+
+CV: PT HR 60-80'S AFIB, NO ECTOPY. EKG OBTAINED ON ADMISSION. SBP 90-110. AFEBRILE. BLOOD CULTURES OBTAINED IN ER. IVF CHANGED FROM D5NS TO NS AT 100CC/HR. 
+
+RESP: LS CLEAR, DIMINSHED AT BASES. PT RECEIVED ON 2L NC. O2 SATS 100%. HAVING DIFFICULTY OBTANING CONSTANT O2 STAT. PT DENIES ANY SOB, NO COUGH. 
+
+GI/GU: ABD SOFT, DISTENDED. +BS, NO BM. C/O N/V ON ARRIVAL TO UNIT GIVEN 12.5MG PROMETHAZINE W/ GOOD EFFECT. FOLEY IN TACT DRAINING LIGHT YELLOW CLOUDY URINE. UAC&S SENT BY ER. 
+
+ENDO: FS QID, 0530 WAS 109. 
+
+DISPO: LYTES TO BE DRAWN Q6HRS. CONT W/ ANTIBIOTICS FOR UTI. MONITOR BS. NO CONTACT W/ FAMILY, WIFE AND DAUGHTER WERE IN THE ER W/ PT EARLY IN EVENING. PT IS A FULL CODE. 
+",,
+14366,8142,17859,0,3205-10-05 17:04:00 EST,3205-10-05 17:16:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NPN see careview for details
+
+AXOX3, expressive aphasia noted.LCTA , RR wnl sats 97-99% .Maintianing BP 90-100's systolically.Afib w/ occ PVC's ,one episode of 6 beat Vtach noted. MD aware. K+ down to 4.9 now 5.6, no coags or CBC avail,diffaculty obtaining blood from this Pt.
+Cardiac meds held due to low baseline BP.
+Bolused w/ 500cc NSS ,infusing NSS @ 100 cc/hr. UO 150-200/hr.Renal cx , ? ATN.
+
+PLAN: cont AB tx for UTI, monitor BP, UO Called out to floor.
+",,
+14366,8142,17859,0,3205-10-06 05:49:00 EST,3205-10-06 06:06:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+MR.[**Known patient lastname **] HAD AN UNEVENTFUL NIGHT. PT AOX3, MAE, FOLLOWS COMMANDS. NO CHANGE IN MS. DENIES PAIN. O2 SATS 97-100% RA. NOT ABLE TO GET CONTINUOUS O2 SATS. LS CLEAR, DENIES ANY SOB. HR 60-90'S AFIB W/ OCC PVC'S. SBP 95-110. IVF NS @100CC/HR. AM K+ 4.9. FLOEY INTACT U/O ~100CC/HR. +BS, MED LOOSE BM. FS WNL, NO COVERAGE GIVEN. 
+PT IS CALLED OUT TO FLOOR AWAITING TELE BED. PT REMAINS IN MICU, PT IS FULL CODE.   
+",,
+14366,8142,17859,0,3205-10-06 13:34:00 EST,3205-10-06 13:45:00 EST,-1,"N",69,"Nursing/Other","Transfer/ npn","
+Transfer/ npn
+
+neuro: Pt is AxOx3. MAE, follows commands. Weakness on R side from previous stroke. Expresive aphasia, but pt is able to make his needs known.
+
+resp: LS clear and dim at bases. sats 98%. Difficult to obtain on finger; have been using an ear probe.
+
+CV: afib in the 80's with occasional PVC's. 
+
+Access: 2 peripheral IV's. VERY difficult blood draws. MD had to draw this am.
+
+GI/GU: Belly is soft and distended with + BS. + BM this am. Pt c/o abdominal pain this am; this is a frequent complaint at home. he will be followed up outpatient for this.  Hx of prostate ca and has an indwelling cath at home. + UTI and is on ceftriaxone.
+
+Skin: Intact.
+
+
+Social: Lives with wife an [**Name2 (NI) **].
+
+Plan: Hold coumadin for INR of 5.3. Hold aspirin until theraputic INR. 1x dose vit K, restart amiodorone.
+",,
+14366,,,,3206-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS 35476 PTA VENOUS                    *
+     * -51 MULTI-PROCEDURE SAME DAY         37203 INTRA VAS FB RETRIEVAL        *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -51 MULTI-PROCEDURE SAME DAY         36010 INTRO CATH SVC/IVC            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896 TRANSCATHETER INFUSION        *
+     * 75898 F/U STATUS INFUSION/EMBO       75978 PTA VENOUS                    *
+     * 75961 TRANSCATHETER RETRIEVAL INTRAV 75822 EXTREM BILAT VENOGRAPHY       *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with hematuria due to prostatic bleeding                        
+     REASON FOR THIS EXAMINATION:
+      suprapubic catheter                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old male with severe left arm swelling due to DVT.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 526**] [**Last Name (NamePattern1) 85**] and [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] with
+     the attending radiologist, Dr. [**First Name (STitle) 85**], being present for the entire procedure.
+     
+     PROCEDURE AND FINDINGS: The risks and benefits were explained to the patient's
+     wife and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the right groin
+     and left arm were prepped and draped in sterile fashion.  Under local
+     anesthesia, the right common femoral vein was accessed using a 19 gauge needle
+     and a 0.035 [**Last Name (un) 528**] wire was advanced into the inferior vena cava.  The needle
+     was exchanged for a long 6 french [**Last Name (un) 8335**]-tip sheath with the tip in the
+     superior vena cava over the [**Location (un) 8903**] wire. A 5 french H1 catheter was placed
+     over the wire and advanced into the left brachiocephalic vein, however, the
+     wire could not be advanced into the left subclavian vein.  Injection of
+     contrast through the H1 catheter showed occlusion of the left subclavian vein
+     at its junction with the left internal jugular vein. A 0.035 super stiff
+     glidewire was used to cannulate the left subclavian vein but only advanced
+     into the collateral veins.
+     
+     The left arm was prepped and draped in sterile fashion.  Under local
+     anesthesia and ultrasonographic guidance, the left antecubital vein was
+     accessed using a 21 gauge needle and a 0.018 wire was advanced into the
+     basilic vein.  The needle was exchanged for a micropuncture sheath.  Injection
+     of contrast shows the left basilic vein and its communicating superficial
+     veins are full of filling defects suggestive of thrombosis.  The left axillary
+     vein was not opacified. Some contrast flows through the collateral veins and
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified the left subclavian vein which also fills with blood clots. A 0.035
+     super stiff gluidewire was advanced through the sheath and the basilic vein
+     with its tip into the left brachiocephalic vein.  A short 6 french sheath was
+     placed over the wire into the basilic vein.  A 6 french Trellis Reserve
+     infusion catheter was placed over the wire with its distal balloon in the
+     medial left subclavian vein and its proximal balloon in the basilic vein. Both
+     balloons were inflated and totally 6 mg of Alteplase were injected through the
+     catheter into the occluded vein.  The system was on for approximately 15
+     minutes and then the lysed blood clot was aspirated through the catheter.
+     Fibrin-like material is seen in the aspirated blood.   Injection of contrast
+     showed the significantly less filling defects in the vein, however there is
+     tight stricture in the medial subclavian vein just before its junction with
+     the internal jugular vein.  A 6 mm x 4 cm  balloon was advanced over the wire
+     in the left arm and used to dilate the subclavian stricture.  Since a larger
+     diameter of the balloon was needed, a through-through system was made.  A
+     0.035 [**Doctor Last Name 555**] wire was advanced through the left arm vein with its tip in the
+     subclavian vein.  A 15 mm snare was instilled through the right femoral vein
+     sheath and advanced into the left subclavian vein.  The [**Doctor Last Name 555**] wire was
+     advanced and caught by the snare and pulled out through the right femoral
+     sheath i na foreign body removal maneuver.  A 10 mm x 4 cm balloon was
+     advanced through the [**Doctor Last Name 555**] wire in the femoral sheath and used to dilate the
+     left subclavian vein stricture. Followup venograms through Cobra catheter in
+     the left arm showed significant improvement in the caliber of the left
+     subclavian vein. The Trellis Reserve infusion catheter was placed again into
+     the left subclavian, axilla and basilic veins and 6 mg of TPA were injected to
+     lysis the residual blood clots. The final followup venogram through the sheath
+     in the left arm showed smooth lumen in the left basilic, axilla and subclavian
+     veins with no significant residual thrombosis. Contrast flow into the SVC  and
+     on significant collateral veins were visualized.  At the end of the procedure
+     both sheaths were removed and local hemostasis was achieved with manual
+     compression.
+     
+     The patient tolerated the procedure well with no complications.
+     
+     Totally 200 cc of 60% Visipaque were used for the venograms.  Versed and
+     fentanyl were given in small divided doses during the procedure for conscious
+     sedation.
+     
+     IMPRESSION: Successful thrombectomy and thrombolysis of left arm DVT.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14366,,,,3206-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS 35476 PTA VENOUS                    *
+     * -51 MULTI-PROCEDURE SAME DAY         37203 INTRA VAS FB RETRIEVAL        *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -51 MULTI-PROCEDURE SAME DAY         36010 INTRO CATH SVC/IVC            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896 TRANSCATHETER INFUSION        *
+     * 75898 F/U STATUS INFUSION/EMBO       75978 PTA VENOUS                    *
+     * 75961 TRANSCATHETER RETRIEVAL INTRAV 75822 EXTREM BILAT VENOGRAPHY       *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with hematuria due to prostatic bleeding                        
+     REASON FOR THIS EXAMINATION:
+      suprapubic catheter                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old male with severe left arm swelling due to DVT.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 526**] [**Last Name (NamePattern1) 85**] and [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] with
+     the attending radiologist, Dr. [**First Name (STitle) 85**], being present for the entire procedure.
+     
+     PROCEDURE AND FINDINGS: The risks and benefits were explained to the patient's
+     wife and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the right groin
+     and left arm were prepped and draped in sterile fashion.  Under local
+     anesthesia, the right common femoral vein was accessed using a 19 gauge needle
+     and a 0.035 [**Last Name (un) 528**] wire was advanced into the inferior vena cava.  The needle
+     was exchanged for a long 6 french [**Last Name (un) 8335**]-tip sheath with the tip in the
+     superior vena cava over the [**Location (un) 8903**] wire. A 5 french H1 catheter was placed
+     over the wire and advanced into the left brachiocephalic vein, however, the
+     wire could not be advanced into the left subclavian vein.  Injection of
+     contrast through the H1 catheter showed occlusion of the left subclavian vein
+     at its junction with the left internal jugular vein. A 0.035 super stiff
+     glidewire was used to cannulate the left subclavian vein but only advanced
+     into the collateral veins.
+     
+     The left arm was prepped and draped in sterile fashion.  Under local
+     anesthesia and ultrasonographic guidance, the left antecubital vein was
+     accessed using a 21 gauge needle and a 0.018 wire was advanced into the
+     basilic vein.  The needle was exchanged for a micropuncture sheath.  Injection
+     of contrast shows the left basilic vein and its communicating superficial
+     veins are full of filling defects suggestive of thrombosis.  The left axillary
+     vein was not opacified. Some contrast flows through the collateral veins and
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified the left subclavian vein which also fills with blood clots. A 0.035
+     super stiff gluidewire was advanced through the sheath and the basilic vein
+     with its tip into the left brachiocephalic vein.  A short 6 french sheath was
+     placed over the wire into the basilic vein.  A 6 french Trellis Reserve
+     infusion catheter was placed over the wire with its distal balloon in the
+     medial left subclavian vein and its proximal balloon in the basilic vein. Both
+     balloons were inflated and totally 6 mg of Alteplase were injected through the
+     catheter into the occluded vein.  The system was on for approximately 15
+     minutes and then the lysed blood clot was aspirated through the catheter.
+     Fibrin-like material is seen in the aspirated blood.   Injection of contrast
+     showed the significantly less filling defects in the vein, however there is
+     tight stricture in the medial subclavian vein just before its junction with
+     the internal jugular vein.  A 6 mm x 4 cm  balloon was advanced over the wire
+     in the left arm and used to dilate the subclavian stricture.  Since a larger
+     diameter of the balloon was needed, a through-through system was made.  A
+     0.035 [**Doctor Last Name 555**] wire was advanced through the left arm vein with its tip in the
+     subclavian vein.  A 15 mm snare was instilled through the right femoral vein
+     sheath and advanced into the left subclavian vein.  The [**Doctor Last Name 555**] wire was
+     advanced and caught by the snare and pulled out through the right femoral
+     sheath i na foreign body removal maneuver.  A 10 mm x 4 cm balloon was
+     advanced through the [**Doctor Last Name 555**] wire in the femoral sheath and used to dilate the
+     left subclavian vein stricture. Followup venograms through Cobra catheter in
+     the left arm showed significant improvement in the caliber of the left
+     subclavian vein. The Trellis Reserve infusion catheter was placed again into
+     the left subclavian, axilla and basilic veins and 6 mg of TPA were injected to
+     lysis the residual blood clots. The final followup venogram through the sheath
+     in the left arm showed smooth lumen in the left basilic, axilla and subclavian
+     veins with no significant residual thrombosis. Contrast flow into the SVC  and
+     on significant collateral veins were visualized.  At the end of the procedure
+     both sheaths were removed and local hemostasis was achieved with manual
+     compression.
+     
+     The patient tolerated the procedure well with no complications.
+     
+     Totally 200 cc of 60% Visipaque were used for the venograms.  Versed and
+     fentanyl were given in small divided doses during the procedure for conscious
+     sedation.
+     
+     IMPRESSION: Successful thrombectomy and thrombolysis of left arm DVT.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14366,,,,3206-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS 35476 PTA VENOUS                    *
+     * -51 MULTI-PROCEDURE SAME DAY         37203 INTRA VAS FB RETRIEVAL        *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -51 MULTI-PROCEDURE SAME DAY         36010 INTRO CATH SVC/IVC            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896 TRANSCATHETER INFUSION        *
+     * 75898 F/U STATUS INFUSION/EMBO       75978 PTA VENOUS                    *
+     * 75961 TRANSCATHETER RETRIEVAL INTRAV 75822 EXTREM BILAT VENOGRAPHY       *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with hematuria due to prostatic bleeding                        
+     REASON FOR THIS EXAMINATION:
+      suprapubic catheter                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old male with severe left arm swelling due to DVT.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 526**] [**Last Name (NamePattern1) 85**] and [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] with
+     the attending radiologist, Dr. [**First Name (STitle) 85**], being present for the entire procedure.
+     
+     PROCEDURE AND FINDINGS: The risks and benefits were explained to the patient's
+     wife and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the right groin
+     and left arm were prepped and draped in sterile fashion.  Under local
+     anesthesia, the right common femoral vein was accessed using a 19 gauge needle
+     and a 0.035 [**Last Name (un) 528**] wire was advanced into the inferior vena cava.  The needle
+     was exchanged for a long 6 french [**Last Name (un) 8335**]-tip sheath with the tip in the
+     superior vena cava over the [**Location (un) 8903**] wire. A 5 french H1 catheter was placed
+     over the wire and advanced into the left brachiocephalic vein, however, the
+     wire could not be advanced into the left subclavian vein.  Injection of
+     contrast through the H1 catheter showed occlusion of the left subclavian vein
+     at its junction with the left internal jugular vein. A 0.035 super stiff
+     glidewire was used to cannulate the left subclavian vein but only advanced
+     into the collateral veins.
+     
+     The left arm was prepped and draped in sterile fashion.  Under local
+     anesthesia and ultrasonographic guidance, the left antecubital vein was
+     accessed using a 21 gauge needle and a 0.018 wire was advanced into the
+     basilic vein.  The needle was exchanged for a micropuncture sheath.  Injection
+     of contrast shows the left basilic vein and its communicating superficial
+     veins are full of filling defects suggestive of thrombosis.  The left axillary
+     vein was not opacified. Some contrast flows through the collateral veins and
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified the left subclavian vein which also fills with blood clots. A 0.035
+     super stiff gluidewire was advanced through the sheath and the basilic vein
+     with its tip into the left brachiocephalic vein.  A short 6 french sheath was
+     placed over the wire into the basilic vein.  A 6 french Trellis Reserve
+     infusion catheter was placed over the wire with its distal balloon in the
+     medial left subclavian vein and its proximal balloon in the basilic vein. Both
+     balloons were inflated and totally 6 mg of Alteplase were injected through the
+     catheter into the occluded vein.  The system was on for approximately 15
+     minutes and then the lysed blood clot was aspirated through the catheter.
+     Fibrin-like material is seen in the aspirated blood.   Injection of contrast
+     showed the significantly less filling defects in the vein, however there is
+     tight stricture in the medial subclavian vein just before its junction with
+     the internal jugular vein.  A 6 mm x 4 cm  balloon was advanced over the wire
+     in the left arm and used to dilate the subclavian stricture.  Since a larger
+     diameter of the balloon was needed, a through-through system was made.  A
+     0.035 [**Doctor Last Name 555**] wire was advanced through the left arm vein with its tip in the
+     subclavian vein.  A 15 mm snare was instilled through the right femoral vein
+     sheath and advanced into the left subclavian vein.  The [**Doctor Last Name 555**] wire was
+     advanced and caught by the snare and pulled out through the right femoral
+     sheath i na foreign body removal maneuver.  A 10 mm x 4 cm balloon was
+     advanced through the [**Doctor Last Name 555**] wire in the femoral sheath and used to dilate the
+     left subclavian vein stricture. Followup venograms through Cobra catheter in
+     the left arm showed significant improvement in the caliber of the left
+     subclavian vein. The Trellis Reserve infusion catheter was placed again into
+     the left subclavian, axilla and basilic veins and 6 mg of TPA were injected to
+     lysis the residual blood clots. The final followup venogram through the sheath
+     in the left arm showed smooth lumen in the left basilic, axilla and subclavian
+     veins with no significant residual thrombosis. Contrast flow into the SVC  and
+     on significant collateral veins were visualized.  At the end of the procedure
+     both sheaths were removed and local hemostasis was achieved with manual
+     compression.
+     
+     The patient tolerated the procedure well with no complications.
+     
+     Totally 200 cc of 60% Visipaque were used for the venograms.  Versed and
+     fentanyl were given in small divided doses during the procedure for conscious
+     sedation.
+     
+     IMPRESSION: Successful thrombectomy and thrombolysis of left arm DVT.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14366,,,,3206-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS 35476 PTA VENOUS                    *
+     * -51 MULTI-PROCEDURE SAME DAY         37203 INTRA VAS FB RETRIEVAL        *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -51 MULTI-PROCEDURE SAME DAY         36010 INTRO CATH SVC/IVC            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896 TRANSCATHETER INFUSION        *
+     * 75898 F/U STATUS INFUSION/EMBO       75978 PTA VENOUS                    *
+     * 75961 TRANSCATHETER RETRIEVAL INTRAV 75822 EXTREM BILAT VENOGRAPHY       *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with hematuria due to prostatic bleeding                        
+     REASON FOR THIS EXAMINATION:
+      suprapubic catheter                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old male with severe left arm swelling due to DVT.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 526**] [**Last Name (NamePattern1) 85**] and [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] with
+     the attending radiologist, Dr. [**First Name (STitle) 85**], being present for the entire procedure.
+     
+     PROCEDURE AND FINDINGS: The risks and benefits were explained to the patient's
+     wife and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the right groin
+     and left arm were prepped and draped in sterile fashion.  Under local
+     anesthesia, the right common femoral vein was accessed using a 19 gauge needle
+     and a 0.035 [**Last Name (un) 528**] wire was advanced into the inferior vena cava.  The needle
+     was exchanged for a long 6 french [**Last Name (un) 8335**]-tip sheath with the tip in the
+     superior vena cava over the [**Location (un) 8903**] wire. A 5 french H1 catheter was placed
+     over the wire and advanced into the left brachiocephalic vein, however, the
+     wire could not be advanced into the left subclavian vein.  Injection of
+     contrast through the H1 catheter showed occlusion of the left subclavian vein
+     at its junction with the left internal jugular vein. A 0.035 super stiff
+     glidewire was used to cannulate the left subclavian vein but only advanced
+     into the collateral veins.
+     
+     The left arm was prepped and draped in sterile fashion.  Under local
+     anesthesia and ultrasonographic guidance, the left antecubital vein was
+     accessed using a 21 gauge needle and a 0.018 wire was advanced into the
+     basilic vein.  The needle was exchanged for a micropuncture sheath.  Injection
+     of contrast shows the left basilic vein and its communicating superficial
+     veins are full of filling defects suggestive of thrombosis.  The left axillary
+     vein was not opacified. Some contrast flows through the collateral veins and
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified the left subclavian vein which also fills with blood clots. A 0.035
+     super stiff gluidewire was advanced through the sheath and the basilic vein
+     with its tip into the left brachiocephalic vein.  A short 6 french sheath was
+     placed over the wire into the basilic vein.  A 6 french Trellis Reserve
+     infusion catheter was placed over the wire with its distal balloon in the
+     medial left subclavian vein and its proximal balloon in the basilic vein. Both
+     balloons were inflated and totally 6 mg of Alteplase were injected through the
+     catheter into the occluded vein.  The system was on for approximately 15
+     minutes and then the lysed blood clot was aspirated through the catheter.
+     Fibrin-like material is seen in the aspirated blood.   Injection of contrast
+     showed the significantly less filling defects in the vein, however there is
+     tight stricture in the medial subclavian vein just before its junction with
+     the internal jugular vein.  A 6 mm x 4 cm  balloon was advanced over the wire
+     in the left arm and used to dilate the subclavian stricture.  Since a larger
+     diameter of the balloon was needed, a through-through system was made.  A
+     0.035 [**Doctor Last Name 555**] wire was advanced through the left arm vein with its tip in the
+     subclavian vein.  A 15 mm snare was instilled through the right femoral vein
+     sheath and advanced into the left subclavian vein.  The [**Doctor Last Name 555**] wire was
+     advanced and caught by the snare and pulled out through the right femoral
+     sheath i na foreign body removal maneuver.  A 10 mm x 4 cm balloon was
+     advanced through the [**Doctor Last Name 555**] wire in the femoral sheath and used to dilate the
+     left subclavian vein stricture. Followup venograms through Cobra catheter in
+     the left arm showed significant improvement in the caliber of the left
+     subclavian vein. The Trellis Reserve infusion catheter was placed again into
+     the left subclavian, axilla and basilic veins and 6 mg of TPA were injected to
+     lysis the residual blood clots. The final followup venogram through the sheath
+     in the left arm showed smooth lumen in the left basilic, axilla and subclavian
+     veins with no significant residual thrombosis. Contrast flow into the SVC  and
+     on significant collateral veins were visualized.  At the end of the procedure
+     both sheaths were removed and local hemostasis was achieved with manual
+     compression.
+     
+     The patient tolerated the procedure well with no complications.
+     
+     Totally 200 cc of 60% Visipaque were used for the venograms.  Versed and
+     fentanyl were given in small divided doses during the procedure for conscious
+     sedation.
+     
+     IMPRESSION: Successful thrombectomy and thrombolysis of left arm DVT.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14366,,,,3206-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS 35476 PTA VENOUS                    *
+     * -51 MULTI-PROCEDURE SAME DAY         37203 INTRA VAS FB RETRIEVAL        *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -51 MULTI-PROCEDURE SAME DAY         36010 INTRO CATH SVC/IVC            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896 TRANSCATHETER INFUSION        *
+     * 75898 F/U STATUS INFUSION/EMBO       75978 PTA VENOUS                    *
+     * 75961 TRANSCATHETER RETRIEVAL INTRAV 75822 EXTREM BILAT VENOGRAPHY       *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with hematuria due to prostatic bleeding                        
+     REASON FOR THIS EXAMINATION:
+      suprapubic catheter                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old male with severe left arm swelling due to DVT.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 526**] [**Last Name (NamePattern1) 85**] and [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] with
+     the attending radiologist, Dr. [**First Name (STitle) 85**], being present for the entire procedure.
+     
+     PROCEDURE AND FINDINGS: The risks and benefits were explained to the patient's
+     wife and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the right groin
+     and left arm were prepped and draped in sterile fashion.  Under local
+     anesthesia, the right common femoral vein was accessed using a 19 gauge needle
+     and a 0.035 [**Last Name (un) 528**] wire was advanced into the inferior vena cava.  The needle
+     was exchanged for a long 6 french [**Last Name (un) 8335**]-tip sheath with the tip in the
+     superior vena cava over the [**Location (un) 8903**] wire. A 5 french H1 catheter was placed
+     over the wire and advanced into the left brachiocephalic vein, however, the
+     wire could not be advanced into the left subclavian vein.  Injection of
+     contrast through the H1 catheter showed occlusion of the left subclavian vein
+     at its junction with the left internal jugular vein. A 0.035 super stiff
+     glidewire was used to cannulate the left subclavian vein but only advanced
+     into the collateral veins.
+     
+     The left arm was prepped and draped in sterile fashion.  Under local
+     anesthesia and ultrasonographic guidance, the left antecubital vein was
+     accessed using a 21 gauge needle and a 0.018 wire was advanced into the
+     basilic vein.  The needle was exchanged for a micropuncture sheath.  Injection
+     of contrast shows the left basilic vein and its communicating superficial
+     veins are full of filling defects suggestive of thrombosis.  The left axillary
+     vein was not opacified. Some contrast flows through the collateral veins and
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified the left subclavian vein which also fills with blood clots. A 0.035
+     super stiff gluidewire was advanced through the sheath and the basilic vein
+     with its tip into the left brachiocephalic vein.  A short 6 french sheath was
+     placed over the wire into the basilic vein.  A 6 french Trellis Reserve
+     infusion catheter was placed over the wire with its distal balloon in the
+     medial left subclavian vein and its proximal balloon in the basilic vein. Both
+     balloons were inflated and totally 6 mg of Alteplase were injected through the
+     catheter into the occluded vein.  The system was on for approximately 15
+     minutes and then the lysed blood clot was aspirated through the catheter.
+     Fibrin-like material is seen in the aspirated blood.   Injection of contrast
+     showed the significantly less filling defects in the vein, however there is
+     tight stricture in the medial subclavian vein just before its junction with
+     the internal jugular vein.  A 6 mm x 4 cm  balloon was advanced over the wire
+     in the left arm and used to dilate the subclavian stricture.  Since a larger
+     diameter of the balloon was needed, a through-through system was made.  A
+     0.035 [**Doctor Last Name 555**] wire was advanced through the left arm vein with its tip in the
+     subclavian vein.  A 15 mm snare was instilled through the right femoral vein
+     sheath and advanced into the left subclavian vein.  The [**Doctor Last Name 555**] wire was
+     advanced and caught by the snare and pulled out through the right femoral
+     sheath i na foreign body removal maneuver.  A 10 mm x 4 cm balloon was
+     advanced through the [**Doctor Last Name 555**] wire in the femoral sheath and used to dilate the
+     left subclavian vein stricture. Followup venograms through Cobra catheter in
+     the left arm showed significant improvement in the caliber of the left
+     subclavian vein. The Trellis Reserve infusion catheter was placed again into
+     the left subclavian, axilla and basilic veins and 6 mg of TPA were injected to
+     lysis the residual blood clots. The final followup venogram through the sheath
+     in the left arm showed smooth lumen in the left basilic, axilla and subclavian
+     veins with no significant residual thrombosis. Contrast flow into the SVC  and
+     on significant collateral veins were visualized.  At the end of the procedure
+     both sheaths were removed and local hemostasis was achieved with manual
+     compression.
+     
+     The patient tolerated the procedure well with no complications.
+     
+     Totally 200 cc of 60% Visipaque were used for the venograms.  Versed and
+     fentanyl were given in small divided doses during the procedure for conscious
+     sedation.
+     
+     IMPRESSION: Successful thrombectomy and thrombolysis of left arm DVT.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14366,,,,3206-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS 35476 PTA VENOUS                    *
+     * -51 MULTI-PROCEDURE SAME DAY         37203 INTRA VAS FB RETRIEVAL        *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -51 MULTI-PROCEDURE SAME DAY         36010 INTRO CATH SVC/IVC            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896 TRANSCATHETER INFUSION        *
+     * 75898 F/U STATUS INFUSION/EMBO       75978 PTA VENOUS                    *
+     * 75961 TRANSCATHETER RETRIEVAL INTRAV 75822 EXTREM BILAT VENOGRAPHY       *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with hematuria due to prostatic bleeding                        
+     REASON FOR THIS EXAMINATION:
+      suprapubic catheter                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old male with severe left arm swelling due to DVT.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 526**] [**Last Name (NamePattern1) 85**] and [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] with
+     the attending radiologist, Dr. [**First Name (STitle) 85**], being present for the entire procedure.
+     
+     PROCEDURE AND FINDINGS: The risks and benefits were explained to the patient's
+     wife and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the right groin
+     and left arm were prepped and draped in sterile fashion.  Under local
+     anesthesia, the right common femoral vein was accessed using a 19 gauge needle
+     and a 0.035 [**Last Name (un) 528**] wire was advanced into the inferior vena cava.  The needle
+     was exchanged for a long 6 french [**Last Name (un) 8335**]-tip sheath with the tip in the
+     superior vena cava over the [**Location (un) 8903**] wire. A 5 french H1 catheter was placed
+     over the wire and advanced into the left brachiocephalic vein, however, the
+     wire could not be advanced into the left subclavian vein.  Injection of
+     contrast through the H1 catheter showed occlusion of the left subclavian vein
+     at its junction with the left internal jugular vein. A 0.035 super stiff
+     glidewire was used to cannulate the left subclavian vein but only advanced
+     into the collateral veins.
+     
+     The left arm was prepped and draped in sterile fashion.  Under local
+     anesthesia and ultrasonographic guidance, the left antecubital vein was
+     accessed using a 21 gauge needle and a 0.018 wire was advanced into the
+     basilic vein.  The needle was exchanged for a micropuncture sheath.  Injection
+     of contrast shows the left basilic vein and its communicating superficial
+     veins are full of filling defects suggestive of thrombosis.  The left axillary
+     vein was not opacified. Some contrast flows through the collateral veins and
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified the left subclavian vein which also fills with blood clots. A 0.035
+     super stiff gluidewire was advanced through the sheath and the basilic vein
+     with its tip into the left brachiocephalic vein.  A short 6 french sheath was
+     placed over the wire into the basilic vein.  A 6 french Trellis Reserve
+     infusion catheter was placed over the wire with its distal balloon in the
+     medial left subclavian vein and its proximal balloon in the basilic vein. Both
+     balloons were inflated and totally 6 mg of Alteplase were injected through the
+     catheter into the occluded vein.  The system was on for approximately 15
+     minutes and then the lysed blood clot was aspirated through the catheter.
+     Fibrin-like material is seen in the aspirated blood.   Injection of contrast
+     showed the significantly less filling defects in the vein, however there is
+     tight stricture in the medial subclavian vein just before its junction with
+     the internal jugular vein.  A 6 mm x 4 cm  balloon was advanced over the wire
+     in the left arm and used to dilate the subclavian stricture.  Since a larger
+     diameter of the balloon was needed, a through-through system was made.  A
+     0.035 [**Doctor Last Name 555**] wire was advanced through the left arm vein with its tip in the
+     subclavian vein.  A 15 mm snare was instilled through the right femoral vein
+     sheath and advanced into the left subclavian vein.  The [**Doctor Last Name 555**] wire was
+     advanced and caught by the snare and pulled out through the right femoral
+     sheath i na foreign body removal maneuver.  A 10 mm x 4 cm balloon was
+     advanced through the [**Doctor Last Name 555**] wire in the femoral sheath and used to dilate the
+     left subclavian vein stricture. Followup venograms through Cobra catheter in
+     the left arm showed significant improvement in the caliber of the left
+     subclavian vein. The Trellis Reserve infusion catheter was placed again into
+     the left subclavian, axilla and basilic veins and 6 mg of TPA were injected to
+     lysis the residual blood clots. The final followup venogram through the sheath
+     in the left arm showed smooth lumen in the left basilic, axilla and subclavian
+     veins with no significant residual thrombosis. Contrast flow into the SVC  and
+     on significant collateral veins were visualized.  At the end of the procedure
+     both sheaths were removed and local hemostasis was achieved with manual
+     compression.
+     
+     The patient tolerated the procedure well with no complications.
+     
+     Totally 200 cc of 60% Visipaque were used for the venograms.  Versed and
+     fentanyl were given in small divided doses during the procedure for conscious
+     sedation.
+     
+     IMPRESSION: Successful thrombectomy and thrombolysis of left arm DVT.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14366,,,,3206-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS 35476 PTA VENOUS                    *
+     * -51 MULTI-PROCEDURE SAME DAY         37203 INTRA VAS FB RETRIEVAL        *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -51 MULTI-PROCEDURE SAME DAY         36010 INTRO CATH SVC/IVC            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896 TRANSCATHETER INFUSION        *
+     * 75898 F/U STATUS INFUSION/EMBO       75978 PTA VENOUS                    *
+     * 75961 TRANSCATHETER RETRIEVAL INTRAV 75822 EXTREM BILAT VENOGRAPHY       *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with hematuria due to prostatic bleeding                        
+     REASON FOR THIS EXAMINATION:
+      suprapubic catheter                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old male with severe left arm swelling due to DVT.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 526**] [**Last Name (NamePattern1) 85**] and [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] with
+     the attending radiologist, Dr. [**First Name (STitle) 85**], being present for the entire procedure.
+     
+     PROCEDURE AND FINDINGS: The risks and benefits were explained to the patient's
+     wife and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the right groin
+     and left arm were prepped and draped in sterile fashion.  Under local
+     anesthesia, the right common femoral vein was accessed using a 19 gauge needle
+     and a 0.035 [**Last Name (un) 528**] wire was advanced into the inferior vena cava.  The needle
+     was exchanged for a long 6 french [**Last Name (un) 8335**]-tip sheath with the tip in the
+     superior vena cava over the [**Location (un) 8903**] wire. A 5 french H1 catheter was placed
+     over the wire and advanced into the left brachiocephalic vein, however, the
+     wire could not be advanced into the left subclavian vein.  Injection of
+     contrast through the H1 catheter showed occlusion of the left subclavian vein
+     at its junction with the left internal jugular vein. A 0.035 super stiff
+     glidewire was used to cannulate the left subclavian vein but only advanced
+     into the collateral veins.
+     
+     The left arm was prepped and draped in sterile fashion.  Under local
+     anesthesia and ultrasonographic guidance, the left antecubital vein was
+     accessed using a 21 gauge needle and a 0.018 wire was advanced into the
+     basilic vein.  The needle was exchanged for a micropuncture sheath.  Injection
+     of contrast shows the left basilic vein and its communicating superficial
+     veins are full of filling defects suggestive of thrombosis.  The left axillary
+     vein was not opacified. Some contrast flows through the collateral veins and
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     opacified the left subclavian vein which also fills with blood clots. A 0.035
+     super stiff gluidewire was advanced through the sheath and the basilic vein
+     with its tip into the left brachiocephalic vein.  A short 6 french sheath was
+     placed over the wire into the basilic vein.  A 6 french Trellis Reserve
+     infusion catheter was placed over the wire with its distal balloon in the
+     medial left subclavian vein and its proximal balloon in the basilic vein. Both
+     balloons were inflated and totally 6 mg of Alteplase were injected through the
+     catheter into the occluded vein.  The system was on for approximately 15
+     minutes and then the lysed blood clot was aspirated through the catheter.
+     Fibrin-like material is seen in the aspirated blood.   Injection of contrast
+     showed the significantly less filling defects in the vein, however there is
+     tight stricture in the medial subclavian vein just before its junction with
+     the internal jugular vein.  A 6 mm x 4 cm  balloon was advanced over the wire
+     in the left arm and used to dilate the subclavian stricture.  Since a larger
+     diameter of the balloon was needed, a through-through system was made.  A
+     0.035 [**Doctor Last Name 555**] wire was advanced through the left arm vein with its tip in the
+     subclavian vein.  A 15 mm snare was instilled through the right femoral vein
+     sheath and advanced into the left subclavian vein.  The [**Doctor Last Name 555**] wire was
+     advanced and caught by the snare and pulled out through the right femoral
+     sheath i na foreign body removal maneuver.  A 10 mm x 4 cm balloon was
+     advanced through the [**Doctor Last Name 555**] wire in the femoral sheath and used to dilate the
+     left subclavian vein stricture. Followup venograms through Cobra catheter in
+     the left arm showed significant improvement in the caliber of the left
+     subclavian vein. The Trellis Reserve infusion catheter was placed again into
+     the left subclavian, axilla and basilic veins and 6 mg of TPA were injected to
+     lysis the residual blood clots. The final followup venogram through the sheath
+     in the left arm showed smooth lumen in the left basilic, axilla and subclavian
+     veins with no significant residual thrombosis. Contrast flow into the SVC  and
+     on significant collateral veins were visualized.  At the end of the procedure
+     both sheaths were removed and local hemostasis was achieved with manual
+     compression.
+     
+     The patient tolerated the procedure well with no complications.
+     
+     Totally 200 cc of 60% Visipaque were used for the venograms.  Versed and
+     fentanyl were given in small divided doses during the procedure for conscious
+     sedation.
+     
+     IMPRESSION: Successful thrombectomy and thrombolysis of left arm DVT.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3206-4-28**] 8:14 AM
+     UNILAT SUBCLAV                                                  Clip # [**Clip Number (Radiology) 8902**]
+     Reason: CLOT
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,

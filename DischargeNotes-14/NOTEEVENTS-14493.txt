@@ -1,0 +1,640 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14493,6336,,,2879-10-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2879-10-23**]              Discharge Date:   [**2879-10-25**]
+ 
+Date of Birth:  [**2819-8-28**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Drug Allergy Information on File
+ 
+Attending:[**First Name3 (LF) 1928**] 
+Chief Complaint:
+transferred for bronchoscopy with possible interventional 
+ 
+Major Surgical or Invasive Procedure:
+Diagnostic/theraputic thoracentesis
+Bronchoscopy
+
+ 
+History of Present Illness:
+60 y/o M with poorly differentiated non-small cell lung CA Stage 
+IV metastatic to adrenals and bone who presented to [**Hospital 508**] 
+Hospital on [**2879-10-17**] with complaints of weakness, nausea, 
+left-sided chest pain, systolic blood pressures in the 60's. 
+Patient noted to have a dramatic HCT drop and abdominal CT 
+revealed a splenic hematoma and quickly underwent splenic artery 
+embolization on [**2879-10-19**]. He was also started on stress dose 
+steroids for suspected adrenal insufficiency in the setting of 
+adrenal metastatis as well as external beam radiation as 
+palliative treatment for his lung CA. At [**Hospital 508**] hospital the 
+patient had bronchoscopy and CT imaging and was noted to have a 
+left lower lobe collapse. He was transferred to [**Hospital1 19**] for 
+further airway management and possible mechanical intervention.  
+
+ 
+Past Medical History:
+NSC Lung CA dx'd in early [**September 2879**] by punch bx during bronch
+metastatic disease to adrenals, vertebral bodies, ribs
+splenic pericapsular hematoma s/p splenic artery embolization 
+[**10-21**]
+hx of squamous cell CA of larynx s/p XRT
+hx of spontaneous ptx
+HTN osteoporosis
+s/p appendectomy
+ 
+Social History:
+married, lives with wife 
+employed as material handler @ GE
+
+ 
+Family History:
+Father deceased from cirrhosis
+Mother deceased from liver CA
+ 
+Physical Exam:
+at the time of discharge:
+
+Temp 99.5, HR 103, BP 141/74, RR 13, sats 99% on shovel mask, 
+now extubated
+GEN: thin male, pleasant, in NAD
+HEENT: NCAT, PERRL, EOMI, oral pharynx clear
+PULM: CTA bilaterally w/out wheeze
+CV: tachycardic, nl S1/S2, no M/R/G
+ABD: +BS, soft NTND
+EXT: cachectic, no edema, WWP
+NEURO: alert and oriented, CN II-XII intact, no focal motor or 
+sensory deficits
+
+ 
+Pertinent Results:
+CT CHEST W/CONTRAST  [**2879-10-24**] 1:11 AMIMPRESSION:
+1. Perihilar lung mass measuring 4.0 x 2.9 cm causing occlusion 
+of the lower lobe branches to the left main pulmonary artery, 
+narrowing of the left proximal mainstem bronchus, and post 
+obstructive consolidation.
+2. Diffuse interstitial consolidation in the right upper lobe 
+and dependent consolidation in the right lower lobe with 
+appearance most typical for aspiration pneumonia.
+3. Bilateral pleural effusions, large in the left and small to 
+moderate in the right.
+4. Diffuse metastasis to multiple ribs and the T1 vertebral 
+body, as well as to the left adrenal gland.
+5. Large perisplenic hematoma, likely related to recent finding 
+of splenic artery aneurysm which is status post coiling.
+
+[**2879-10-25**] 03:31AM BLOOD WBC-19.9* RBC-4.49* Hgb-13.7* Hct-40.9 
+MCV-91 MCH-30.5 MCHC-33.5 RDW-15.8* Plt Ct-267
+[**2879-10-25**] 03:31AM BLOOD Plt Ct-267
+[**2879-10-25**] 03:31AM BLOOD Glucose-158* UreaN-28* Creat-0.6 Na-142 
+K-3.9 Cl-102 HCO3-35* AnGap-9
+[**2879-10-23**] 07:46PM BLOOD ALT-40 AST-30 LD(LDH)-588* CK(CPK)-156 
+AlkPhos-148* TotBili-1.4
+[**2879-10-23**] 07:46PM BLOOD Lipase-12
+[**2879-10-23**] 07:46PM BLOOD CK-MB-2 cTropnT-<0.01
+[**2879-10-25**] 03:31AM BLOOD Calcium-8.3* Phos-3.5 Mg-1.9
+[**2879-10-23**] 07:46PM BLOOD TSH-0.24*
+[**2879-10-23**] 07:46PM BLOOD Cortsol-115.9*
+[**2879-10-25**] 03:31AM BLOOD Vanco-7.9*
+[**2879-10-25**] 01:01PM BLOOD Type-ART pO2-116* pCO2-50* pH-7.48* 
+calHCO3-38* Base XS-12
+[**2879-10-25**] 08:07AM BLOOD Lactate-2.0
+[**2879-10-25**] 08:07AM BLOOD freeCa-1.19
+[**2879-10-24**] 08:41AM PLEURAL WBC-433* RBC-15444* Polys-75* Lymphs-8* 
+Monos-3* Macro-14*
+[**2879-10-24**] 08:41AM PLEURAL TotProt-2.5 Glucose-174 LD(LDH)-342 
+Albumin-1.6
+
+GRAM STAIN (Final [**2879-10-24**]): 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      NO MICROORGANISMS SEEN. 
+
+   RESPIRATORY CULTURE (Preliminary): 
+      ? OROPHARYNGEAL FLORA ABSENT. 
+      YEAST.    SPARSE GROWTH. 
+
+[**2879-10-24**] 8:41 am PLEURAL FLUID
+
+   GRAM STAIN (Final [**2879-10-25**]): 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Pending): 
+
+ 
+Brief Hospital Course:
+1.) Pulmonary: The patient was transferred to [**Hospital1 19**] intubated. 
+He was electively intubated at [**Hospital 508**] Hospital prior to 
+bronchoscopy there and remained intubated in anticipation of 
+further possible intervention. After arrival, overnight he was 
+maintained on AC on the vent. He had a chest CT overnight which 
+showed 
+--Perihilar lung mass measuring 4.0 x 2.9 cm causing occlusion 
+of the lower lobe branches to the left main pulmonary artery, 
+narrowing of the left proximal mainstem bronchus, and post 
+obstructive consolidation.  
+--Diffuse interstitial consolidation in the right upper lobe and 
+dependent consolidation in the right lower lobe with appearance 
+most typical for aspiration pneumonia.  
+--Bilateral pleural effusions, large in the left and small to 
+moderate in the right.  
+--Diffuse metastasis to multiple ribs and the T1 vertebral body, 
+as well as to the left adrenal gland.  
+In the AM [**2879-10-24**] the patient had a bedside thoracentesis both 
+therapeutic and diagnostic analyzing his left pleural effusion. 
+The effusion was exudative based on the lab results (see above). 
+A bronchoscopy was performed and no endobronchial lesions were 
+seen. The bronchioles were patent and a stent was not placed. 
+The patient will be continued on Levofloxacin and Flagyl for the 
+possibility of a post-obstructive pneumonia. The results of the 
+pleural fluid cytology are still pending at the time of transfer 
+back to [**Hospital 508**] hospital so it is unclear as to whether the 
+effusion was malignant(associated with lung CA) or [**12-19**] 
+infection. The patient was extubated on [**2879-10-25**] in the morning 
+without complication. He was evalutated at the bedside by Dr. 
+[**Last Name (STitle) **] and the interventional pulmonary team using 
+ultrasound which did not reveal any reaccumulation of pleural 
+fluid at the thoracentesis site. 
+
+2. CV: The patient has a history of HTN. At home he takes 
+atenolol, this was initially held on transfer because the 
+patient's BP was low. On the day of extubation, the patient's BP 
+had normalized and he had an episode of tachycardia and 
+persistent HTN s/p extubation. He was restarted on his atenolol 
+and was given 10 mg IV hydralazine and may continue this Q6H for 
+today during transfer. His BP regimen may need to be readressed 
+at [**Hospital 508**] Hospital
+
+3. NSC-lung CA: The patient has significant pain related to his 
+mets. He was on IV morphine in the hospital. On transfer he was 
+written for PO morphine SR and IR. 
+
+4. Adrenal insufficiency: On transfer, the patient was on 
+solumedrol for presumed adrenal insufficiency. A cortisol level 
+was drawn here and the level was markedly high, indicating the 
+steroids can be tapered and removed. The patient should be 
+placed on PO prednisone at [**Hospital 508**] hospital and an appropriate 
+taper started.
+
+5. FEN: The patient was initially NPO for the procedure, but at 
+the time of discharge was restarted on a regular diet. 
+
+ACCESS: right subclavian TLC, prophylaxis with PPI, subQ Heparin
+Patient remains a full-code
+
+ 
+Medications on Admission:
+on transfer
+Unasyn 1.5 G Q6h
+Morphine 3 mg IV drip
+Propofol 60 mcg drip
+Solumedrol 40 IV Q8h
+Heparin 5000 U subq TID
+Ativan 2 mg IV Q4h PRN
+Combivent MDI
+
+at home 
+atenolol 50 mg BID
+Morphine 16 mg Q4h
+Fentanyl transdermal 75 mcg Q3days
+ 
+Discharge Medications:
+1. Insulin Regular Human 100 unit/mL Solution Sig: One (1) inj 
+Injection ASDIR (AS DIRECTED).  
+2. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1) 
+inj Injection TID (3 times a day).  
+3. Atenolol 25 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+4. Morphine Sulfate 15 mg Tablet Sustained Release Sig: One (1) 
+Tablet Sustained Release PO Q12H (every 12 hours).  
+5. Morphine Sulfate 15 mg Tablet Sig: One (1) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.  
+6. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day 
+for 14 days.  
+7. Flagyl 500 mg Tablet Sig: One (1) Tablet PO three times a day 
+for 2 weeks.  
+8. Combivent 103-18 mcg/Actuation Aerosol Sig: Two (2) puffs 
+Inhalation every 4-6 hours.  
+9. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Non-small cell lung cancer status post thoracentesis and 
+bronchoscopy
+
+ 
+Discharge Condition:
+good
+ 
+Discharge Instructions:
+[**Doctor First Name 54**] are being transferred to [**Hospital 508**] hospital for further 
+management of your care.
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1929**] MD [**MD Number 814**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2851**] MD [**MD Number 2852**] [**2879-10-25**] @ 1517
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 813**]
+ on: [**First Name8 (NamePattern2) 123**] [**2879-11-23**] 7:22 PM
+(End of Report)
+
+
+",,
+14493,6336,18014,0,2879-10-23 19:41:00 EST,2879-10-23 19:52:00 EST,2748,"N",69,"Nursing/Other","Nursing Admission/Progress Note.","
+Nursing Admission/Progress Note.
+
+This is a 60 yr old male transferred from OSH for a rigid bronchoscopy & stent placement.  The pt has a PMH significant for SCLCa c mets to L hip, ribs and compression of L bronchus by tumor.  The pt was intubated on [**2879-10-22**] for agitation, MS change & resp distress.  The pt is married and is a Full Code.  NKDA.  Routine contact precautions in place.  Please see pt chart for comprehensive PMH.
+
+RESP: Pt received intubated on AC-10-60-500-5.0 c nl sats/RR and resp effort.  Pt c diffuse exp/ins wheezes, rhonchi and crackles in LLL.  RT providing Albuterol nebs Q4 hours.  Small thick blood tinged sec per ETT.  
+
+CV: The pt is hemodynamically stable and afebrile.  NSR c no ectopy.  Good peripheral pulses & good peripheral access noted as well.  Expect to draw/send labs shortly.  
+
+MS: Pt received on IV Propofol @ 60mcg/kg/min and IV Morphine Sulfate @ 4mg/hr.  Pt not responding to verbal stimuli.  PERRL.  Soft wrist restraints in place to protect invasive hardware.
+
+GI: NGT to LWIS c sm amounts of bilious output noted.  Abd is soft, NT and ND c +BS appreciated.  The pt is NPO.  Awaiting TPN orders from team for nutritional supplementation.
+
+GU: Pt voiding clear yellow urine via 16# french cath.  
+
+SOC: No calls or visitors recieved thus far.  The pts wife [**First Name8 (NamePattern2) **] [**Known patient lastname 6163**] phone number is; [**Telephone/Fax (1) 6164**].  
+
+OTHER: Please see CareVue for additional pt care data/comments.  Pt is tentatively scheduled to go for a chest CT later this evening.  
+",,
+14493,6336,18014,,2879-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-10-24**] 1:11 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 9927**]
+     Reason: eval lung mass                                              
+     Admitting Diagnosis: LUNG CANCER
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with lung CA, white out on chest x-ray                          
+     REASON FOR THIS EXAMINATION:
+      eval lung mass                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Lung cancer.
+     
+     TECHNIQUE: Multidetector, contrasts enhanced images of the chest were
+     performed following the administration of 150 cc of IV Optiray.
+     
+     IV CONTRAST: Nonionic IV Optiray contrast was used for the patient's debility.
+     
+     CT OF THE CHEST WITH CONTRAST: There is a soft tissue constricting lesion seen
+     in the proximal left mainstem bronchus as well as a mass in the left perihilar
+     region measuring 4.0 x 2.9 cm which is causing occlusion of the lower lobe
+     vessels of the left main pulmonary artery.  There are bilateral pleural
+     effusions, small to moderate on the right and large on the left.  Left lower
+     lobe postobstructive collapse/consolidation is seen.  On the right, there is
+     a smooth ovoid soft tissue density within the right bronchus intermedius,
+     possibly mucous or hemorrhage.  Apical blebs and mild upper lobe emphysema is
+     noted.
+     
+     There is diffuse interstitial consolidation and ground glass opacity seen in
+     the right upper lobe and more confluent consolidation more dependently within
+     the right lower lobe. The heart is normal in size, and there is no pericardial
+     effusion. Multiple rib metastatic lesions are appreciated.  Two involvr the
+     left third rib, one posteiorly and the other anteriorly.  Another lesion is
+     seen involving the left fourth rib anteriorly. On the right, there is a lesion
+     in the seventh rib posteriorly and in the fifth rib anteriorly.  In addition,
+     there is a lytic lesion involving the T1 vertebral body and its left pedicle
+     and lamina.
+     
+     Within the imaged portions of the upper abdomen, a large perisplenic hematoma
+     is noted measuring 14 x 9.8 cm, presumably related to recent rupture of a
+     splenic aneurysm which is now status post coiling.  There is a large
+     heterogeneous metastatic adrenal lesion measuring 6.5 x 3.7 cm.
+     
+     IMPRESSION:
+     1.  Perihilar lung mass measuring 4.0 x 2.9 cm causing occlusion of the
+     lower lobe branches to the left main pulmonary artery, narrowing of the left
+     proximal mainstem bronchus, and post obstructive consolidation.
+     2.  Diffuse interstitial consolidation in the right upper lobe and dependent
+     consolidation in the right lower lobe with appearance most typical for
+     aspiration pneumonia.
+     3.  Bilateral pleural effusions, large in the left and small to moderate in
+                                                                 (Over)
+
+     DATE: [**2879-10-24**] 1:11 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 9927**]
+     Reason: eval lung mass                                              
+     Admitting Diagnosis: LUNG CANCER
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the right.
+     4.  Diffuse metastasis to multiple ribs and the T1 vertebral body, as well as
+     to the left adrenal gland.
+     5.  Large perisplenic hematoma, likely related to recent finding of splenic
+     artery aneurysm which is status post coiling.
+     
+
+",,
+14493,6336,18014,,2879-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-10-24**] 10:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9929**]
+     Reason: s/p thoracentesis, ? re-expansion                           
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man with NSCLC, encasement of L mainstem, intubated, awaiting  
+      stent now s/p thoracentesis.
+     REASON FOR THIS EXAMINATION:
+      s/p thoracentesis, ? re-expansion                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60 year old man with non-small cell lung.  Status post
+     thoracentesis.
+     
+     COMMENT:  Portable AP radiograph of the chest were reviewed and compared to
+     the previous study at 6:48AM.
+     
+     The patient is status post thoracentesis.  No pneumothorax is identified.
+     
+     The tip of the endotracheal tube is identified 4 cm above the carina.  The
+     previously identified pulmonary edema has been slightly improving.   Again
+     note is made of left hilar mass with narrowing of the left main bronchus.
+     There is decrease in loculated left pleural effusion compared with the
+     previous study.  A nasogastric tube courses below the stomach.  The heart is
+     normal in size.
+     
+     IMPRESSION:
+     
+     1.  Decreased left pleural effusion compared with the previous study.  No
+     pneumothorax.  Slight improvement of the pulmonary edema compared with the
+     previous study.
+     
+     
+
+",,
+14493,6336,18014,,2879-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-10-24**] 6:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9928**]
+     Reason: ETT placement                                               
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with NSCLC, encasement of L mainstem, intubated, awaiting 
+      stent.
+     REASON FOR THIS EXAMINATION:
+      ETT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of nonsmall cell lung cancer, encasing the left mainstem.
+     Evaluate ETT placement.
+     
+     COMPARISON: Same day chest CT.
+     
+     AP UPRIGHT PORTABLE CHEST:  There is an endotracheal tube, with its tip
+     located 6 cm above the carina.  NG tube with its tip below the level of the
+     film.  Right-sided central line seen with its tip in the SVC. There is a large
+     left hilar mass, narrowing the left main bronchus. (Please see associated CT
+     scan). Moderate-sized left pleural effusion.  Pulmonary artery engorgement,
+     with associated upper zone redistribution, consistent with moderate pulmonary
+     edema.  The heart size appears with normal limits.  The visualized osseous and
+     soft tissue structures are otherwise unremarkable.
+     
+     IMPRESSION:
+     1) Large left hilar mass, narrowing the left main bronchus, consistent with
+     patient's known lung cancer.
+     2) Moderate pulmonary edema with associated large left pleural effusion.
+     3) Satisfactory position of ETT.
+     
+     
+     
+
+",,
+14493,6336,18014,,2879-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-10-24**] 1:11 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 9927**]
+     Reason: eval lung mass                                              
+     Admitting Diagnosis: LUNG CANCER
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with lung CA, white out on chest x-ray                          
+     REASON FOR THIS EXAMINATION:
+      eval lung mass                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Lung cancer.
+     
+     TECHNIQUE: Multidetector, contrasts enhanced images of the chest were
+     performed following the administration of 150 cc of IV Optiray.
+     
+     IV CONTRAST: Nonionic IV Optiray contrast was used for the patient's debility.
+     
+     CT OF THE CHEST WITH CONTRAST: There is a soft tissue constricting lesion seen
+     in the proximal left mainstem bronchus as well as a mass in the left perihilar
+     region measuring 4.0 x 2.9 cm which is causing occlusion of the lower lobe
+     vessels of the left main pulmonary artery.  There are bilateral pleural
+     effusions, small to moderate on the right and large on the left.  Left lower
+     lobe postobstructive collapse/consolidation is seen.  On the right, there is
+     a smooth ovoid soft tissue density within the right bronchus intermedius,
+     possibly mucous or hemorrhage.  Apical blebs and mild upper lobe emphysema is
+     noted.
+     
+     There is diffuse interstitial consolidation and ground glass opacity seen in
+     the right upper lobe and more confluent consolidation more dependently within
+     the right lower lobe. The heart is normal in size, and there is no pericardial
+     effusion. Multiple rib metastatic lesions are appreciated.  Two involvr the
+     left third rib, one posteiorly and the other anteriorly.  Another lesion is
+     seen involving the left fourth rib anteriorly. On the right, there is a lesion
+     in the seventh rib posteriorly and in the fifth rib anteriorly.  In addition,
+     there is a lytic lesion involving the T1 vertebral body and its left pedicle
+     and lamina.
+     
+     Within the imaged portions of the upper abdomen, a large perisplenic hematoma
+     is noted measuring 14 x 9.8 cm, presumably related to recent rupture of a
+     splenic aneurysm which is now status post coiling.  There is a large
+     heterogeneous metastatic adrenal lesion measuring 6.5 x 3.7 cm.
+     
+     IMPRESSION:
+     1.  Perihilar lung mass measuring 4.0 x 2.9 cm causing occlusion of the
+     lower lobe branches to the left main pulmonary artery, narrowing of the left
+     proximal mainstem bronchus, and post obstructive consolidation.
+     2.  Diffuse interstitial consolidation in the right upper lobe and dependent
+     consolidation in the right lower lobe with appearance most typical for
+     aspiration pneumonia.
+     3.  Bilateral pleural effusions, large in the left and small to moderate in
+                                                                 (Over)
+
+     DATE: [**2879-10-24**] 1:11 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 9927**]
+     Reason: eval lung mass                                              
+     Admitting Diagnosis: LUNG CANCER
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the right.
+     4.  Diffuse metastasis to multiple ribs and the T1 vertebral body, as well as
+     to the left adrenal gland.
+     5.  Large perisplenic hematoma, likely related to recent finding of splenic
+     artery aneurysm which is status post coiling.
+     
+
+",,
+14493,6336,18014,0,2879-10-24 05:40:00 EST,2879-10-24 05:54:00 EST,2789,"N",69,"Nursing/Other","NPN 7p-7a","
+NPN 7p-7a
+Pt. with non small cell lung cancer with mets to bone and adrenal glands tranferred here yesterday for stent placement as tumor is surrounding L mainstem.  
+Neuro: Pt. sedated on 3mg of MS04 and 40mcg of propofol.  Pt. is quite sedated on this.  Does not follow commands.  Outside hospital stated pt. was quite agitated when sedation is lightened. 
+
+CV: BP 110-150/70's.  A line placed last night. Given bolus of propofol when BP in 150 range for presumed pain.  HR 90-105 sinus rhythm with few APC's.  IV D51/2 NS infusing at 150/hr.  Pt. had 3 fluid boluses for low urine output-felt to be dry.  Urine output picking up to 50-60cc/hr.  Address IVF after this liter of fluid is infused.
+
+Resp: Vented on AC 40% 500x14 with 5 PEEP.  On 10 breaths pC02 was in 60's.  Now 55 (7.44/55/120).  Outside hospital reporeted L lung collapse but ct here showed bilateral expansion of lungs.  Formal report pnd.  Was ordered for sputum cx but unable to obtain due to very little secretions.   Breath sounds slightly diminished on L.  Plan to have stent placement today.
+
+GI: Was on TPN at outside hospital-has been NPO since here covered with sliding scale insulin.  No BM. 
+
+GU: Foley draining clear yellow urine.
+
+ID: Afebrile.  Started on Vanco and levo for possible pneumonia.  Blood cx x 2 obtained.   
+
+Social: wife called-she would like to be called at work after procedure is completed. (number in front of chart)
+",,
+14493,6336,18014,0,2879-10-24 18:40:00 EST,2879-10-24 19:06:00 EST,2720,"N",69,"Nursing/Other",,"
+
+MICU Nursing Progress NOte 7a-7p
+60 y/o male dx w/ small cell lung CA [**9-20**] w/ mets to adrenals and bone.
+Now intubated for resp distress and LLL colaplse. LLL now partially re-expanded post pleural tap.
+Neuro-
+Sedated on propofol 40m/k/m, and MSO4 5mg/hr, pt MAE, PERLA 2mm/bsk bilat, FC inconsistantly depending on sedation.
+REsp-
+AC/.40/500/14/srr2-3/5. BS clear x LLL>markedly diminished. CT and CXRY indicates L pleural effusion. Tapped by IP under U/S for 900cc, spec sent for various tests. LLL BS improved to insp wheeze to diminished but less. Psot CXRY showed improvement post tap. Bronch post XRAY sig for thich secretions cleared in L lung. No sig wall impingement seen. To repeat Chest CT [**10-25**].
+Treatment for ? pnx w/ vanco, flagyl and levofloxacin. Temp 99po, WBC 16k
+CV-
+BP 134-180/70-90, HR 90-110SR-ST. ^ BP w/ stimulation, resolved w/ ^ sedation prn. 
+Fluids-
+D5.45NS @ 150/hr, pt is +1200 for day. PM lytes done @1800
+GI-
+Started TF of respolar @10 psot bronchoscopy, then^20cc/hr @ 1800.
+Social-
+Wife and son visiting briefly this pm. Updated on present status. will inquire as to progress and plan tomorrrow post CT/general pulmonary evaluation. 
+RADIATION ONCOLOGY MD CONTACT # IN CHART--[**Doctor Last Name **] McINtyreMD, Cancer Center, [**Location (un) **], MA--[**Telephone/Fax (1) 6165**]. MICU MD given # and to call to inform on status.
+A/P
+RESP status stable on vent w/ sedation. Monitoring status closely post procedure w/  clinical exam, CXRY and CT.
+CV-[**Last Name (un) **] on sedation. Probable baseline HTN. Fluids- check 6pm lytes
+ID- T 99, cont antibx, monitor.
+Endo- RISS per rpotocol.
+Social- Support and inform pt and family of status, progress and plan appropriate to dx. Wife wishes pt to be as comfortable as possible while intubated.
+",,
+14493,6336,18014,,2879-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-10-25**] 6:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9930**]
+     Reason: Please assess interval change                               
+     Admitting Diagnosis: LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with NSCLC, encasement of L mainstem, intubated, awaiting stent 
+      s/p thoracentesis and bronch. Please assess interval change.
+     REASON FOR THIS EXAMINATION:
+      Please assess interval change                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of lung cancer, assess for interval change.
+     
+     COMPARISON:  Portable AP chest of [**2879-10-24**].
+     
+     AP UPRIGHT CHEST:  Endotracheal tube identified, approximately 6 cm above the
+     carina.  There is a right-sided central line, with its tip in the distal SVC.
+     NG tube identified, with its tip off the inferior margin of the film.  Again
+     identified is a large left hilar mass, somewhat impinging on the left main
+     bronchus, corresponding to the patient's known lung cancer.  Elevation of the
+     left hemidiaphragm.  Interval resolution of left-sided pleural effusion;
+     however, there remains a small pocket of loculated effusion seen on the
+     lateral wall.  Interval improvement in right-sided pulmonary edema.  No new
+     infiltrates identified.  Visualized osseous and soft tissue structures are
+     unremarkable.
+     
+     IMPRESSION:
+     1) Interval improvement in predominantly right-sided pulmonary edema.
+     2) Interval resolution of left-sided pleural effusion.
+     3) Stable appearance of left-sided hilar mass.
+
+",,
+14493,,18014,0,2879-10-25 03:43:00 EST,2879-10-25 03:48:00 EST,2308,"N",69,"Nursing/Other","Repiratory Care:","
+Repiratory Care:
+Pt. continues on settings per flowsheet.  Previous ABG well oxygenated with compensated metabolic alkalosis.  B/S with Lt UL wheeze, and scattered rhonchi.  ETS moderate, thick tan, with few small plugs.  MDI's given post SXN with no noticeable effect.  RSBI done on CPAP=0, was 11!  Pt. could be weaned to low level PSV, while awaiting decision on chest CT.  Will follow.
+",,
+14493,,18014,0,2879-10-25 04:42:00 EST,2879-10-25 05:20:00 EST,6439,"N",69,"Nursing/Other",,"
+
+micu 1900-0700 rn notes
+
+neuro:  Sedated on IV propofol 40mcg/kg/min, Morphine 5mg/hr, open eyes to pain/speech, not follows commands, nods head for pain, PERL. attempt to low IV morphine to 4mg/hr failed, pt appeared uncomfortable Morphine returned to 5mg/hr.
+
+resp: Intubated #8 ETT 24 @ lip, on vent A/C 500/40%/RR14/peep 5, OVB vent 2-3 bpm. TV>600 SAT 96-98%, RSBI 11. Sx white/tan small amt. LS clear/dim L base now clear. Change ETT position/tape. [**10-24**] Bronch revealled  L brochus stenosis no longer evident post thoracentesis, stent not placed Plan: CXR and CT [**10-25**]
+
+cv: HR 83-110,SR/ST, no ectopy, A-BP 134-160. HEME: HCT 40.9 up from 37.3. INR 1.2
+
+id: afebrile Tmax 98.8, cont triple ABX. WBC 19.9 down from 21.8
+
+gu/gi: foley u/o 30cc/hr amb/clear. Abd soft, +BS, no BM this shift
+
+endo: covered by INSULIN SCSS,last FS 150
+
+social:  full code, no family contact this shift
+
+plan: on [**10-25**] chest CT for evaluation of expanding LL
+      
+",,
+14493,,18014,0,2879-10-25 10:53:00 EST,2879-10-25 11:03:00 EST,2423,"N",69,"Nursing/Other",,"
+
+NPN 0700-11
+
+ RECEVED PT  INTUBATED AND SEDATED WITH 40 MCGS/KG/MIN PROPOFOL AND 5 MGS/HR I.V. MORPHINE.PROPOFOL WEANED TO OFF AND MSO4 WEANED FROM 5MGS TO 3MGS/HR PT AOOX3 MAE TO COMMAND  ANSWERA Y/N QUESTIONS APPROPRIATE.
+PTS HR AND BP INCREASED GIVEN ATIVAN .5 MGS I.V.  AS PT DENIED PAIN.  WITH MINIMAL EFFECT.  PT EXTUBATED AT 10 25 BP 202 HR 141 GIVEN LOPRESSOR 5MGS I.V. WITH GOOD EFFECT HR 98 BP 165/78. PT ABLE TO SPEAK  PLACED ON FACE TENT AT 35% FIO2 INCREASED TO 50%  FOR O2 SATS 91-93%  SATS CURRENTLY. 93%.RR 8-9 
+",,
+14493,,18014,0,2879-10-25 17:52:00 EST,2879-10-25 18:12:00 EST,2423,"N",69,"Nursing/Other",,"
+
+CONTINUATION OF ABOVE NOTE
+SUB; ""IF I GET THROUGH THIS MY WIFE AND I WILL COME BACK AND TAKE [**Doctor First Name **] OUT TO LUNCH""
+
+NEURO; AOOX1-2. EASILY REORIENTATED  THINKS HE IS AT [**Hospital **] HOSPITAL, OCCASSIONALLY STATES 88 OR 2008 TO YEAR.. MAE TO COMMAND VERY STIFF AT TIMES. ANS Y./N QUEATIONS APPROPRIATELY  . MSO4 GTT OFF AT 1500 WILL STAT PO MSO4 AT 6PM.  GIVEN ATIVAN .5 MGS I. FOR ANXIETY Q4 [**Name8 (MD) **] MD.PT APPEARS TO BE AT BARGAINING STAGE. UNABLE TO GIVE RESPONSE TO DNI/DNR STATUS.
+
+RESP; WEANED FROM  TENT MASK TO N/C AT 4L SATS 96$ RR 8-14/MIN LUNGS CLEAR DIMINISHED SLIGHTLY OVER LL. STRONG PRODUCTIVE COUGH WITH ENCOURAGEMENT.OF THICK WHITE SPUTUM  ULTRASOUND OF CHEST TODAY SHOWED NO REACCUMULATION OF FLUID
+
+CVS; TMAX 99.6PO NSR 120-89. AFTER LOPRESSOR 5MGS I.V. X3. BP [**Telephone/Fax (3) 6166**]/75 AFTER LOPRESSOR .HYDRALAZINE 10 MGS.I.V. X2 AND PO ATENOLOL 50 MGS.CURRENTLY 165 BY ALINE.
+
+GU; AUTODIURESING 100-150 MLS/HR CLEAR YELLOW URINE VIA FOLEY.
+
+GI; T/F OFF AT 7 AM FOR EXTUBATION. BELLY SOFT  DISTENDED POS BS SLIGHT  STOOL SMEARS ON TURNING. TAKING SMALL SIPS CLEAR LIQUIDS COUGHING OCCASSIONALLY WHEN DRINKING BUT MAINTAINING SATS..
+
+
+ENDO; NO COVERAGE ON RISS.
+
+ID; VANCO STOPPED TODAY. ?WBC DUE TO STEROIDS.
+
+INTEGRUM FEET COOL TOESS SLIGHLY MOTTLED.RT MORE THAN LT LT FOOT WITH PALP PULSES RT FOOT WITH DOPLARABLE PULSES S/[**Last Name (NamePattern5) 6167**] THOUGHT TO BERESIDUAL FROM EMBOLECTOMY SITE. NO BRUIT NOTED. NO HEMATOMA. SCROUM ECCHYMMOTIC FROM PREVIOUS SLENIC ARTERY BLEED.
+
+SOC; WIFE CALLED AND UPDATED WITH PT CURRENT CONDITION AND PLAN OF CARE AND PLAN FOR TRANSFER BACK TO [**Hospital **] HOSPITAL.
+
+A/P CONTINUE WIHT PULMONARY HYGIENE, CONTINUE TO CONTROL HYPERTENSION. AND OFFER EMOTIONAL SUPPORT TO PT AND FAMILY . 
+
+",,
+14493,,18014,0,2879-10-25 20:20:00 EST,2879-10-25 20:24:00 EST,6439,"N",69,"Nursing/Other",,"
+
+micu transfer rn notes 2000
+
+pt transfer by [**Location (un) **] ALS ambulance to the [**Hospital 2184**] hospital. refferal discharge summary. report given to [**Name8 (MD) 415**] RN. 
+",,

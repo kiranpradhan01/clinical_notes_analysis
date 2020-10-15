@@ -1,0 +1,1421 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14457,,,,2670-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-9-30**] 10:24 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 9560**]
+     Reason: carotid bruit
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      carotid bruit
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Carotid bruit, pre-op for abdominal aortic aneurysm.
+     
+     FINDINGS: Minimal plaque involving both carotid systems. The peak systolic
+     velocities bilaterally are normal as are the ICA-CCA ratios.  There is also
+     normal antegrade flow in both vertebral arteries.
+     
+     IMPRESSION: Minimal bilateral ICA plaque without any appreciable associated
+     stenosis however.
+
+",,
+14457,4896,,,2670-10-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2670-10-4**]       Discharge Date:  [**2670-10-28**]
+
+Date of Birth:   [**2593-12-4**]       Sex:  F
+
+Service:
+
+ADDENDUM:
+
+On postoperative day number twenty-three, the patient had no
+complaints.  The patient was afebrile and had stable vital
+signs.  The patient had bilateral dusky first toes and second
+toe on the right which was dusky as well.  The patient's
+antibiotic was stopped and podiatry was consulted to evaluate
+toenail on the second toe on the right side.  The patient's
+mental status was improving on that day.   On the day of
+discharge, the patient was alert with improved mental status
+and the patient was discharged to rehabilitation and to
+follow-up with Dr. [**Last Name (STitle) 1642**].
+
+MEDICATIONS ON DISCHARGE:  Medication as stated previously
+except for Ceftazidime.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2542**], M.D.  [**MD Number 2543**]
+
+Dictated By:[**Last Name (NamePattern1) 1977**]
+MEDQUIST36
+
+D:  [**2670-10-28**]  11:23
+T:  [**2670-10-28**]  11:45
+JOB#:  [**Job Number 10684**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: TUE [**2670-11-8**] 1:22 PM
+(End of Report)
+
+
+",,
+14457,4896,,,2670-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-4**] 1:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9561**]
+     Reason: s/p swan                                                    
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with s/p AAA repair                                           
+     REASON FOR THIS EXAMINATION:
+      s/p swan                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P AAA repair.  S/P PA catheter placement.
+     
+     COMPARISONS:  NONE.
+     
+     SINGLE VIEW CHEST, AP SUPINE:  The ET tube lies approximately 4 cm above the
+     carina. NG tube is seen with its tip in the stomach below the diaphragm.  The
+     SG catheter has a left subclavian approach with tip in the right main
+     pulmonary artery. The aorta is slightly prominent.  The lung fields are clear.
+     The pulmonary vasculature is normal.  No pneumothorax.  No pleural effusions.
+     
+     IMPRESSION:  SG catheter tip in right main pulmonary artery.  No pneumothorax.
+     
+     
+     
+
+",,
+14457,4896,,,2670-10-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-5**] 11:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9562**]
+     Reason: DECREASING  O2 SATS
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        76 year old woman with s/p AAA repair w/ decreasing o2 sats                   
+                 
+     REASON FOR THIS EXAMINATION:
+      ? CHF                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P AAA repair with decreasing O2 sats.  Respiratory distress.
+     
+     AP PORTABLE CHEST:  Comparison:  AP supine [**2670-10-4**].
+     
+     There is bilateral blunting of the CP angles, although they are partially
+     obscured.  There has been interval increase in prominence of the pulmonary
+     vasculature with upper zone redistribution.  No focal consolidations are seen.
+      The ET tube is 4 cm above the carina.  The left subclavian SG catheter tip is
+     within the right main pulmonary artery.  No pneumothorax.
+     
+     IMPRESSION:  Worsening LV failure with bilateral pleural effusions.
+
+",,
+14457,4896,17965,0,2670-10-05 22:05:00 EST,2670-10-05 22:31:00 EST,3136,"N",53,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Pt admitted from PACU s/p AAA reapir. pt surgery was [**10-4**], pt has been volume resusitated and continues to have low urine output, pt is acidotic and not ready for extubation, pt feet bilaterally are dusky and cool with dopperable pusles. 
+ROS
+Neuro- pt is awake and alert , following commands , moving all extremities, pt has epidural catheter in place, receiving hydromorphone/ Bupivicaine.1% infusing at 6cc hr,levelT9-T12.  pt appears uncomfortable at times and c/o pain shooting down her lt thigh and leg. Pt given Ativan .5mg with good effect and pt finally slept. 
+CV- pt has been hemodynamically stable in NSR with a rate in the 80's with rare PVC. lytes WNL.B/P 120-30 systolic down to 95-100 after ativan given and pt sleeping . Filling pressures 35/18 cvp 8 , swan does not wedge, cardiac index >2.5, hct 31.3, plat 78. pt feet reamin cool and dusky, lt and rt PT by doppler, rt DP by doppler, lt DP absent. Pt incision is clean and dry 
+gi- pt abd is soft and distended, pt has ng to suction draining brown thick dainiage at times with old blood. 
+resp- pt has remaind intubated on pressure support ventilation of 8 with 5 peep, pt SATS 93-95-on 40% FIO2 , repeat Abg ph 7.29, 54-88 27-1. Pt suctioned several times for thick yellow secretions. pt RR 18-22 Pt anxious during suctioning, Breath sounds are clear to diminished. 
+GU- pt has floey to gravity drainage , u/o  initially 12cc hr now up to 30. IVF infusing at 60cc hr. BUN now 30 with creat of 2.4 , urine lytes pending . 
+skin- pt skin on back and buttucks intact, see cv for status of feet.Pt extremities edematous 
+social - pt daughter here visiting, quite concerned that her mother is still intubated and now in the TSICU, also very concerned about her feet. She will call tonihgt and be in during the day. 
+A/P- Cont to monitor and asses, cont to kkep pt intubated overnight and reassess need for et tube in AM, cont to watch urine output closely. Try to keep pt as comfortable as possible, she seemed to do well with ativan, in small doses. ,
+",,
+14457,4896,17965,,2670-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-6**] 9:34 AM
+     RENAL U.S. PORT                                                 Clip # [**Clip Number (Radiology) 9563**]
+     Reason: s/p aaa repair, increase in creatinine, pls eval left kidney
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      s/p aaa repair, increase in creatinine, pls eval left kidney                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Elevated creatinine.
+     
+     FINDINGS:
+     
+     The clinical service requests evaluation of the left kidney. The study is
+     limited due to patient body habitus and medical condition, however, there is
+     no evidence of hydronephrosis. The left kidney measures 9.6 cm in length.
+     
+     The right kidney measures 9.7 cm in length and is also without hydronephrosis.
+     
+     IMPRESSION:
+     
+     Limited but unremarkable study of the kidneys.
+
+",,
+14457,4896,17965,0,2670-10-06 04:50:00 EST,2670-10-06 05:00:00 EST,3806,"N",53,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. bordering on hypoxia with an uncompensated respiratory acidosis.  Resident asked to increase peep.  Repeat ABG showed increase PaO2, unchanged respiratory acidosis.  B/S course rhonchi scattered throughout, with fine crackles bilateral bases (Rt.>Lt.), and Lt. sided exp. wheezes.  Started Pt. on bronchodilators with good effect for wheezes.  Attempting to diurese for CHF.  During RSBI, slight increase in B/P, and slight decrease in SPO2 noted.  RSBI was 107 (done on PS=0, Peep=0, ATC=100% for #7 ETT).  Will continue pulmonary hygiene, and discuss repiratory status on rounds.
+",,
+14457,4896,17965,0,2670-10-06 08:06:00 EST,2670-10-06 08:52:00 EST,3570,"N",53,"Nursing/Other","TSICU NPN 11P-7A","
+TSICU NPN 11P-7A
+S/O-
+NEURO- Pt arouses easily alert and appropriate, MAE's to command.  Pt con't w/ dilaudid/bupivicaine epidural .1% at 6cc's hr., pt grimaces w/ activity and complains of incisional pain yet is able to dose off inbetween activities and when not stimulated.
+
+CV- Pt in SR rate 80-100 rare PVC, BP from 100-140/67-87, PAP 39/21, unable to wedge swan, CVP 8- 13 w/ CO 5.86/ CI 3.2.  Hct stable at 31.9, lytes wnl's.  Legs con't mottled w/ bottom of feet and toes dusky bilaterally.  Able to doppler pulses in DP on right foot readily yet right PT less consistent, Left foot w/ PT more prominent  and consistent than DP yet able to doppler it transiently.         
+
+Resp-  pt on PSV of 8 w/ % of PEEP and 40% initially  yet pt w/ marginal sats 90-93%, PEEP increased to 8 and ultimately Fio2 increased to 50% w/ improved sats.  Pt suctioned for thick pale yellow secretions, BS's coarse bilatrerally.
+
+GI- pt w/ NGT to LCS putting out bilious drainage in small amts.   Abd distended yet soft, hypoactive bowel sounds.  Lateral incision on left w/ DSD D+I.  
+
+GU- BUN/Creat ^ at 35/2.6, pt making 18-30cc u/o hr.  IVF KVO's by tm and lasix 10mg given times one w/ minimal response. 
+
+Skin- backside intact w/ intact epidural site, legs mottled as above and feet w/ dusky toes/feet.
+
+A/P- con't to monitor closely, follow u/o , monitor hct.
+follow pulses, watch fluid status. 
+",,
+14457,4896,17965,0,2670-10-06 17:15:00 EST,2670-10-06 17:36:00 EST,3144,"N",53,"Nursing/Other","S/P AAA REPAIR-T/SICU NPN 7A-7P","
+S/P AAA REPAIR-T/SICU NPN 7A-7P
+S-INTUBATED
+O-NEURO-PT FOLLOWS COMMANDS MAE'S,CALM COOPERATIVE.
+CV-SEE FLOWSHEET FOR VS DETAILS,SBP 80'S-160'S,HR 80'S-100'S NSR->ST RARE VEA/PAC'S.DOPPLERABLE L DP/PT 3+ RDP 2+R PT.FEET WARM TOES REMAIN MOTTLED.CO/CI WNL,PAP 30'S-40'S/20'S.
+RESP-PT REMAINS INTUBATED,SEE RESP FLOWSHEET FOR VENT DETAILS AND ABG DATA,PT LS CTA->OCCAS COARSE DECREASED @ BASES,RR 14-20'S VT'S ~ 400,PT REMAINS ON 8PSV/8PEEP 50% FIO2,PT SXN'D  Q2-4HRS FOR MOD THICK YELLOW SPUTUM.NARD,STRONG COUGH EFFORT.SL MET/RESP ACIDOSIS PERSISTS TM AWARE.
+GI/GU-PT ABD SOFTLY DIST +HYPOACTIVE BS,NGT DRAINING SM AMTS BILIOUS,REMAINS NPO,U/O 20-110 CC/HR CLEAR YELLOW URINE VIA FOLEY,OCCAS SEDIMENT,URINE LYTES+U/A SENT FOR RENAL TEAM.U/O IMPROVED W/ SBP >130'S.
+COMFORT-EPIDURAL CAPPED THIS PM PCA DILAUDID STARTED SEE FLOWSHEET FOR DETAILS,PT REPORTS ADEQ PAIN RELIEF W/ PCA.
+ID-T MAX 37.9C.
+ENDO-FSBS WNL.
+SOC-PT'S DAUGHTER + SON IN LAW VISITING THIS PM.ASKING APPROPRIATE QUESTIONS.
+A-IMPAIRED RENAL FUNCTION R/T ATN/ RENAL.
+P-CONT MONITOR NEURO STATUS PRN,VS,HEMODYNAMICS,I+O,VENT/ORDERS,LABS/ORDERS,PCA/ORDERS,MONITOR EFFECT,FSBS,FAMILY SUPPORT PRN.MONITOR FEVER CURVE.
+",,
+14457,4896,17965,,2670-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-7**] 8:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9564**]
+     Reason: interval change                                             
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         76 year old woman with s/p AAA repair w/ decreasing o2 sats                  
+                   
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Decreasing O2 sats and status post AAA repair.
+     
+     COMPARISON:  [**2670-10-5**].
+     
+     SINGLE VIEW CHEST, AP SEMIERECT:  There has been interval slight improvement
+     in the bilateral pleural effusions.  There ET tube, SG catheter and NG tube
+     are in unchanged and satisfactory postions.  No pneumothorax.  No new
+     consolidations.  There is bibasilar subsegmental atelectasis.  The cardiac
+     contour is unremarkable.  There has been slight improvement in the upper zone
+     redistribution of the pulmonary vasculature.
+     
+     IMPRESSION:  Improvement in LV failure and bilaterally pleural effusions.
+
+",,
+14457,4896,17965,0,2670-10-07 05:57:00 EST,2670-10-07 06:11:00 EST,4226,"N",53,"Nursing/Other",,"
+
+TSICU NPN 11p-7a:
+
+ROS: 
+
+Neuro: Alert and mouthing words. Appropriately nods in answer to questions. Follows commands. MAE weakly. PERL. Obvious frustration noted when unable to understand pt mouthing words around ETT. PCA in place for pain control. Pt c/o leg and incisional pain during the noc. Good effect noted from meds. Awake during most of the night. 
+
+CV: SR/ST with occ. PACs and PVCs. Color pale. Skin warm and dry. DP and PT pulses present by doppler, faintly palpable. Toes on left foot cooler and more dusky than right side. Right toes also cool, pale. Gen edema. Hemodynamics stable. Unable to wedge SG catheter. PA 41-43/21-23. CVP 9-10. CO WNL.
+
+Resp: Orally intubated and ETT secure. Equal chest expansion. LS coarse, diminished in bases. Suctioning thick yellow secretions, although they have become thinner and more clear as the shift progressed.
+
+GI: NPO. No nutrition at this time. NGT to LCS with bilious drainage. Bowel sounds present. No stool. No flatus. Denies nausea and no vomiting. IV Protonix
+
+GU: Foley with marginal amounts clear yellow urine all noc--20-40cc/hour. Repleted K.
+
+Heme: HCT drop to 24.1. Repeat CBC pending. Pt also typed and cross-matched for 2 units PCs.
+
+ID: Low grade temps.
+
+Endo: No issues. SSRI as needed.
+
+Skin: Left side/abdominal surgical incision with staples intact and transparent dressing in place. Small amount serosanguinous drainage noted. Small skin tear noted just posterior to left lateral wound edge. Epidural site benign-catheter remains in place. Toes cool and dusky. 
+
+Social: No contact from family this shift.
+
+Plan: Continue with hemodynamic monitoring. Ongoing assessments of pain and provide for adequate pain control. Facilitate pt's communication with staff. ? source of bleeding and transfuse as necessary. Monitor lytes and urine output and RX as necessary.
+",,
+14457,4896,17965,0,2670-10-07 16:18:00 EST,2670-10-07 16:20:00 EST,3746,"N",53,"Nursing/Other",,"
+
+Attempted extubation, but no cuff leak...tube retaped at 22cm.  Will try to diurese more and attempt extubation again.
+",,
+14457,4896,17965,0,2670-10-07 18:54:00 EST,2670-10-07 19:33:00 EST,3144,"N",53,"Nursing/Other","S/P AAA REPAIR-T/SICU NPN 7A-7P","
+S/P AAA REPAIR-T/SICU NPN 7A-7P
+S-PT INTUBATED
+O-NEURO-PT MAE'S FOLLOWS COMMANDS NODS MOUTHS WORDS,PT REPORTS ADEQ PAIN RELIEF W/ PCA DILAUDID.
+CV-SEE FLOWSHEET FOR VS AND HEMODYNAMIC DETAILS,L DP/PT DOPPLERABLE,R DP 3+,R PT DOPPLERABLE->2+.2 UNITS PRBC TODAY.
+RESP-PR LS CTA->COARSE TO DECREASED @ BASES,PT SXN'D Q 2-4HRS FOR THICK YELLOW SM-MOD AMTS,PT REMAINS INTUBATED SECONDARY TO NO CUFF LEAK.O2 SATS 93-97%.RR 16-20'S SPONT VT 300'S-600'S.SEE RESP FLOWSHEET FOR VENT DETAILS AND ABG DATA.
+GI/GU-PT ABD SOFTLY DIST +BS,NO STOOL,U/O IMPROVED TODAY 40 -400 CC/HR VIA FOLEY CATH,LASIX 20 MG IV X 1 MOD DIURESIS.URINE CLEAR YELLOW.NPO.NGT W/ MIN BILIOUS OUTPUT.
+SKIN-NO NEW ISSUES.
+ENDO-BS WNL.
+ID-AFEBRILE
+SOC-PT'S FAMILY VISITING THIS EVE,ASKING APPROPRIATE QUESTIONS.
+A-ALT RESP STATUS R/T AIRWAY EDEMA
+P-PCA/ORDERS,MONITOR EFFECT,MONITOR NEURO STATUS PRN,MONITOR PERIPHERAL PULSES.VENT/ORDERS,I+O,MONITOR SKIN SKIN INTEGRITY QS AND PRN,FSBS,FAMILY SUPPORT PRN.
+",,
+14457,4896,17965,,2670-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-8**] 4:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9565**]
+     Reason: EXTUBATED, DECREASED SATS                                   
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          76 year old woman with s/p AAA repair w/ decreasing o2 sats                 
+                     
+     REASON FOR THIS EXAMINATION:
+      EXTUBATED, DECREASED SATS                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post AAA repair. Decreasing oxygen saturations.
+     
+     PORTABLE AP VIEW CHEST:  Comparison is made to exam of [**2670-10-7**]. The tip of an
+     endotracheal tube is approximately 2.5 cm above the carina and the tip of a
+     Swan Ganz catheter again overlies the expected region of proximal left main
+     pulmonary artery.  The heart size and mediastinal/hilar contours are stable in
+     appearance.  The lungs again demonstrate diffuse hazy opacifications slightly
+     more prominent within the lower lung fields.  There are no focal
+     consolidations or pneumothoraces.  The soft tissues and osseous structures are
+     stable.
+     
+     IMPRESSION:
+     1) Tip of endotracheal tube approximately 2.5 cm above the carina. Swan Ganz
+     catheter unchanged in position.
+     2) No significant change in radiographic appearance of the lungs. Probable
+     small bilateral pleural effusions, unchanged.
+     
+     
+
+",,
+14457,4896,17965,0,2670-10-08 05:49:00 EST,2670-10-08 05:53:00 EST,3971,"N",53,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+Patient managed to ""tongue"" her tube [**2-1**] of the way out of her mouth.  Decision made to extubate.  Patient tolerated this poorly and due to hypoxia and acidemia required re-intubation appx 4:25 am (see CareVue for settings).  Oxygenation improved on the next ABG, but the acidemia persisted.  Increased the rr to 16.  ABG's to follow. 
+",,
+14457,4896,17965,0,2670-10-08 06:57:00 EST,2670-10-08 07:10:00 EST,3409,"N",53,"Nursing/Other","nsg note","
+nsg note
+SEE FLOWSHEET FOR SPECIFICS. 
+
+NEURO-PT AWAKE, VERY RESTLESS, AGITATED, CONFUSED APPEARING. HALDOL GIVEN WITH SOME EFFECT. PT SOMEWHAT COMBATIVE, PULLING AT CAREGIVERS AND ATTEMPTING TO PULL OUT LINES TUBES. WHEN EXTUBATED, PT ORIENTED TO PERSON AND ""HOSPITAL"". MAE. FOLLOWED COMMANDS. PT NOW SEDATED ON PROPOFOL GTT D/T REINTUBATED. 
+
+CV-AFEB. HR UP TO 120 WHEN AGITATED. SINUS WITH OCC PVC'S. HR 80-90'S WHEN QUIET. CON'T ON LOPRESSOR. SBP STABLE. CO/CI STABLE. SKIN W+D. +PP VIA DOPPLER. FEET REMAIN WARM, BUT TOES MOTTLED AND DUSKY APPEARING. KCL REPLETED. 1 U PRBC'S GIVEN. HCT 
+
+RESP-PT ""TONGUED"" ETT [**2-1**] WAY OUT. + CUFF LEAK. HO/RESP THERAPY IN TO EVAL. DECISION MADE TO EXTUBATE. PT TOL FOR LITTLE WHILE THEN DEVELOPED RESP DISTRESS WITH O2 SAT DOWN TO 79. PT REINTUBTED. VENT CURRENTLY ON SIMV, 50% FIO2, 16X500. PEEP 5. ABG IMPROVING. SXN FOR MOD AMT THICK YELLOW SPUTUM. O2 SAT 94-96%. LS COARSE. 
+
+GI-ABD SOFTLY DISTENDED. +BS. +RF. NPO. LEFT FLANK INCISION WITH STAPLES, WITH SM AMT SEROUSSANG DRG. DSG APPLIED. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS CL YELLOW URINE. 
+
+COMFORT-PT HAD DILAUDID PCA. NOW THAT PR SEDATED, ? CHANGE TO PRN. 
+
+ENDO-SSRI. 
+
+PLAN-CON'T WITH CURRENT PLAN. ? CHANGE PAIN MED. MONITOR RESP STATUS. ? NGT. 
+",,
+14457,4896,17965,0,2670-10-08 17:25:00 EST,2670-10-08 17:30:00 EST,3944,"N",53,"Nursing/Other","RESP CARE","
+RESP CARE
+PT. REMAINS INTUBATED/SEDATED WITH PROPOFOL. SWITCHED OVER TO PSV THIS MORNING WITH GOOD EFFECT. ABGS: SLIGHTLY ACIDOTIC RETAINING CO2,WITH SOME METABOLIC COMPENSATION, WELL OXYGENATED. CO2 BASLINE IS LIKELY TO BE 50-60 GIVEN SHE WAS A SMOKER UP TO ADMISSION AND HAS H/O OF EMPHYSEMA. 
+BS: COARSE BILAT. SXN'D X2 FOR MOD. AMTS. GREENISH YELLOW
+PLAN: WEAN IPS AS TOLERATED
+",,
+14457,4896,17965,0,2670-10-08 18:04:00 EST,2670-10-08 18:16:00 EST,3259,"N",53,"Nursing/Other","SICU NPN","
+SICU NPN
+Pt remains intubated and sedated s/p AAA repair.  Pt had dislodged tube overnight, failed extubation trial and re-intubated in early AM.
+ROS:
+Neuro: Pt kept sedated most of day on propofol gtt. When lightened, pt appears alert, nods yes and no appropriately and follows commands. Pt also becomes restless and agitated, writhing in bed, popping off vent and hypertensive. Pt rec'd 1mg haldol X2 today, dilauded .25mg X3 today for pre-medication for turning and pt care.
+
+CV: HR 70-100's, SR no ectopy noted. SBP 130-180's, very hyptertensive and anxious when awake. Pt tolerating lopressor 5mg Q6 hours. PA pressures 40/20's, CVP 10-12 and CO 5.66. Unable to wedge line. Extremities warm, though both feet dusky and mottled looking, dopplerable pulses. No pneumoboots on. Pt continues on SC heparin.  Hct 26.4 this PM, pt given 1 U PRBCs. A-line site and PA line site both intact.
+
+Resp: Pt switched to PSV, tolerating 15PS/5PEEP most of day, now down to 12 PS with ABG pending. RR 12-18 most of day, up to 30's when awake and anxious.  Lungs sl coarse, dimished in bilateral bases. Pt suctioned Q2-3 hours for thick white sputum. Sats 97-100% all day.
+
+GI: Abd softly distended, very hypoactive BS noted. No gastric tube per Dr. [**First Name (STitle) **], as OGT had been d/c'd by attending MD. Pt remains NPO on protonix. Abd incision, l lateral abd, intact with staples. Large amt ecchymosis surrounding incision, moderate ammt serosang drainage. DSD changed PRN.
+
+GU/renal: Good u/o via foley catheter today, pt rec'd 20mg lasix post-transfusion. Repeat K pending. IVF at KVO. Calcium repleted.
+
+Endo: SSIC, see flowsheet for coverage. 
+
+Skin: Grossly intact, other than ecchymotic area surrounding incision and serosang drainage.
+
+ID: Afebrile
+
+Social: Pt's dtr [**Name (NI) **] in this PM to visit, will return tomorrow.
+
+A: Stable
+
+P: Monitor diuresis to lasix, consider repeating dose if pt remains positive today. Monitor lytes closely, ?need for more KCL. Cont aggressive pulm toilet, wean PS as pt tolerates. Cont with propofol for sedation, PRN haldol and dilauded as needed. Plan to wean pt more, consider extubation in AM if pt has cuff leak and tolerates vent wean. Cont NPO for now, address TPN with team in AM.
+",,
+14457,4896,17965,0,2670-10-09 05:42:00 EST,2670-10-09 05:45:00 EST,3971,"N",53,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on ventilatory support as noted in CareVue.  Morning ABG's reveal a compensated respiratory acidemia with good oxygenation on the current vent settings.
+
+RSBI = 78.2 on 0-PEEP and 0-PSV with ATC on 100%.  No SBT at this time due to level of sedation being used and patient's WOB.
+",,
+14457,4896,17965,0,2670-10-09 06:19:00 EST,2670-10-09 06:25:00 EST,3840,"N",53,"Nursing/Other",,"
+
+S/P AAA repair
+
+Pt is restless, attempting to extubate herself. MAE. Propofol drip and prn Haldol+Dilaudid with good effect.
+
+VSS. CO 5.4 Transfused with 1uRBC. HCT 30. KCL repleted.
+
+Suctioned q2-3 hr for thick white sputum. Breath sounds coarse. O2 sat 96%. When sedation lightened pt's RR ^^30s. No vent changes.
+
+Abd. soft. Pt passing flatus. No gastric tube. Incision with serosanginous drainage in mod. amt. DSD applied.
+
+Lasix 20mg given-urine output good. Cr 2.8.
+
+Pt's feet remained mottled, pedal pulses dopperable. Heparin SC given.
+
+Pt's daughter called.
+
+Plan: Wean from vent as tolerated.
+",,
+14457,4896,17965,0,2670-10-09 16:16:00 EST,2670-10-09 16:22:00 EST,3944,"N",53,"Nursing/Other","RESP CARE","
+RESP CARE
+PT. REMAINED ON PSV 5/5 FOR ENTIRE SHIFT, TOLERATING WELL. ABGS: RETURNING TOWARD BASELINE COMPENSATED RESP. ACIDOSIS, ADEQUATLY OXYGENATED. SECREATION PRODUCTION HAS INCREASED ALSO PT. HAS NO CUFF LEAK WHEN PILOT IS DEFLATED. SHE HAD A POLYP REMOVED AROUND A YEAR AGO AND MAY HAVE DIFFICULTY WITH EXTUBATION 2ND  TO SCARRING. GIVEN SOLUMEDEROL 1X DOSE, WOULD WAIT ON EXTUBATION UNTIL THIS IS RESOLVED.
+",,
+14457,4896,17965,0,2670-10-09 16:52:00 EST,2670-10-09 17:20:00 EST,3259,"N",53,"Nursing/Other","SICU NPN","
+SICU NPN
+s/p AAA repair
+
+ROS:
+Neuro: Pt extremely agitated today, when lightened off propofol will pinch at staff and pull at lines/ETT. Pt does MAE, follows commands, pupils [**1-4**] and reactive.  Pt mouthing out some confused sentences, not making much sense, not responding to re-orientation. Haldol increased with some effect, propofol dose increased to 30-40mcg/kg/min.
+
+Resp: Pt tolerated SBT this AM with adequate ABG, however no cuff leak detected so pt not extubated.  1 dose hydrocortisone given for ?airway edema. Pt required increased propofol dose due to extreme agitation, so pt placed on 5+5 for better support. Lungs coarse, scattered wheezes and crackles throughout. Pt requiring suctioning Q1-2 hours for copious ammts thick, tan sputum. ETT rotated and retaped at 22 at the lip on L side of mouth.
+
+CV: HR 70-100's, rare ectopy noted. PA line changed over wire to TLC, CVP 7-10. A-line site intact. L AC IV d/c'd due to routine change, new #20 G IV placed in L hand for propofol. SBP 130-180's most of day, tolerating SBP up to 170's per Dr [**Last Name (STitle) 6101**].  Pt started on serial Hct checks, stable around 30 today.  BLE continue to look mottled, warm with dopplerable pulses.  Qtc checked prior to haldol increase. No p-boots per team, pt continues on SC heparin.
+
+GI: Abd distended, BS present and +flatus. Pt remains NPO, no TPN ordered today, pt has no OGT/NGT. Plan per Dr. [**Last Name (STitle) 6101**] for feeding tube placement in IR tomorrow. Pt continues on protonix. 
+
+GU/renal: Good u/o today, >100cc/hr clear yellow urine. Pt given 40 mg IV lasix this AM with good results. Lytes stable. IVF at KVO.
+
+Endo: SSIC, see flowsheet for details.
+
+ID: Low grade temps, 99.4 Tmax. No abx started.
+
+Skin: Grossly intact, abd incision intact with staples, moderat ammt ecchymosis around L flank area.
+
+Social: Pt's dtr in most of PM, concerned re: pt's airway swelling.  Dtr also asking appropriate questions related to pt's confusion and agitation , reassurance provided as appropriate.
+
+A: Failed to extubate due to airway edema and no cuff leak.
+
+P: Continue sedation/ventilation, diuresis. Plan for feeding tube placement in IR tomorrow. Attempt extubation again in AM of pt has (+) cuff leak. Continue family support.
+",,
+14457,4896,17965,,2670-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-10**] 12:52 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 9566**]
+     Reason: post-pyloric feeding tube placement                         
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with AAA repair, respiratory failure                          
+     REASON FOR THIS EXAMINATION:
+      post-pyloric feeding tube placement                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:   For feeding tube placement following AAA repair.
+     
+     Distal end of feeding tube overlies 3rd portion of duodenum.  Lumbar scoliosis
+     convex to the right.  Distribution of bowel gas is unremarkable.
+
+",,
+14457,4896,17965,0,2670-10-10 05:49:00 EST,2670-10-10 05:53:00 EST,3971,"N",53,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remained on ventilatory support through the night with no changes required until morning ABG results indicated less compensation in the patient's respiratory acidemia.  PSV was then increased to 10 cm from 5 cm.  Oxygenation was good on the current FIO2.  
+",,
+14457,4896,17965,0,2670-10-10 06:01:00 EST,2670-10-10 06:07:00 EST,3840,"N",53,"Nursing/Other",,"
+
+S/P  AAA
+
+Pt received Propofol drip overnight with good sedation. MAE. Dilaudid prn.
+
+VSS. Heparin SC. HCT stable. KCL repleted.
+
+PSV with RR 20s, TV 380-410, O2 sats 98%. Suctioned q3hr for thick white sputum. Breath sounds clear.
+
+Abd. soft and distended. Staples intact in incision-draining serous fluid in mod. amt. Pt passing flatus. Remains NPO.
+
+Diuresing on own. Cr. 2.6.
+
+Plan: Continue to wean from vent as tolerated.
+",,
+14457,4896,17965,0,2670-10-10 14:10:00 EST,2670-10-10 14:34:00 EST,4061,"N",53,"Nursing/Other",,"
+
+
+FULL CODE       Universal Precautions  
+Allergy: Amoxicillin, Niacin
+
+
+Neuro:  Arouses to voice, will open eyes to verbal stim, but does not follow any commands.  MAEx4 spont/ on the bed.  Propofol weaned to 5mcg/kg/min from 30 and she remains sedated, but arouses more easily, still not following commands.  Med x2 w/ diluadid 1mg IV for discomfort.
+
+Cardiac:  HR=80s, NSR, no ectopy.  BP usually at 170/70, occ decreases to 150s after lopressor dose or dilaudid, but not for long.  Lopressor dose increased from 5mg to 10mg 16hr.  +periph pulses, DP palp, (L weaker than R, but palp).  PT very weak palp.  All pulses +w/ doppler.  Feet warm bilat.  Toes were cool this am, but have warmed up.  Toes remain purple - no change in status.  Multipodis boots on - foot drop noted bilat.
+
+Resp:  CPAP/PS [**4-9**] 50%w/ 02sat 98-99%.  Lungs clear, but decreased in lower fields.  Suctioning small amt thick tan secretions via ETT q2-3hr.  RSBI this am 148 and no cuff leak.  Steroids d/c'd (pt had been recieving steroids for airway - ? lack of cuff leak r/t edema).
+
+GI/GU: Abd round, soft, +BS, no BM.  Abd incision/dressing intact.  Dobhoff tube placed via R nare by surgical team at bedside and confirmed placement w/ KUB.  Nepro FS at 10cchr to be increased q4hr til goal of 30cc/hr.  Protonix IV.  Foley cath - clear yellow urine.  Recieved Lasix 40mg this am w/ good diuresis - 200-400cc/hr.  
+
+Pain:  Med x2 w/ Dilaudid 1mg for discomfort.
+
+Labs:  K this am was 3.6 - repleated w/ 40KCL IV considering she was getting the lasix as well.  Seen by renal team today.  BUN/Cr 59/2.6 - improving slowly.
+
+Social:  Daughter, [**Doctor First Name 6102**], called this am and will be in to visit this afternoon.  Expressed concerns about pt's inability to be extubated, not getting OOB and the risk for pnuemonia.
+
+Plan:  Contiune to monitor cardiac/resp/neuro status.  Wean propofol to off it tol, med w/ dilaudid prn for pain.  Continue to wean vent as tol.
+    
+",,
+14457,4896,17965,1,2670-10-10 14:10:00 EST,2670-10-10 18:05:00 EST,4061,"Y",53,"Nursing/Other",,"
+
+
+Pt's daughter arrived at 1630 - pt much more alert, following commands, nodding approp.  Propofol has been off since this afternoon.  Med w/ Dilaudid prn for comfort.
+
+BS=123 at 1800 - 2 units reg insulin sc per ISSC.  TF increased to 20cc/hr at 1800.
+",,
+14457,4896,17965,0,2670-10-10 16:54:00 EST,2670-10-10 17:00:00 EST,3944,"N",53,"Nursing/Other","RESP CARE","
+RESP CARE
+PT. CONTINUES TO BE INTUBATED/SEDATED ON MECHANICAL VENTILATION- PSV MODE. NO CUFF LEAK AND A POOR RSBI THIS MORNING. 
+BS: OCC. RHONCHI SXN'ING LESS AMTS. OF SPUTUM TODAY. NO ABG'S DONE.
+PLAN: CONTINUE CURRENT SUPPORT, RSBI/SBT AND CHECK CUFF LEAK IN AM. DIURESING TODAY/TONIGHT.
+",,
+14457,4896,17965,,2670-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-11**] 4:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9567**]
+     Reason: interval change                                             
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           76 year old woman with s/p AAA repair w/ decreasing o2 sats                
+                       
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aneurysm repair, diminished oxygenation.
+     
+     FINDINGS:  A Swan-Ganz catheter has been removed.  A left subclavian catheter
+     terminates in the mid to lower SVC.  The patient remains intubated, and a
+     feeding tube is in the distal portion of the stomach.  There are no focal
+     infiltrates and there is no evidence of failure.
+     
+     IMPRESSION:
+     
+     1.  There are no acute changes.
+     
+     2.  Left subclavian venous catheter insertion. No pneumothorax.
+     
+
+",,
+14457,4896,17965,0,2670-10-11 06:17:00 EST,2670-10-11 06:30:00 EST,3510,"N",53,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- when pt is alert, she will follow brief commands, mae's purposefully, strong cough. receiving haldol, and ativan for restless, and anxious behavior,tachypnea, biting ett etc.
+
+resp- sux freq. for lg amts of thick yellow secretions sent for cx, bs cta and diminished rll, cxr pnd. abg w/ pco2 69 ph 7.8 during episode of rr 40's, vt's 200's, peep inc to 10 from 5 and ps inc to 15 from 10, w/ gd results. risbi=127, no cuff leak with cuff down and pt coughing.
+
+cvs- sbp 140's-150's while calm and 170's-180's during periods of restlessness. cvp 6-9, tm 100.6po,pedal pulses palp. lytes repleted.
+
+gi- tf inc to goal of nepro @30cc/hr, abd soft,distended, +flatus, +bs, sm smearing of stool.
+
+gu- urine clear, yellow and in gd amts.
+
+skin- mult areas of echymosis, abd incision w/ staples intact and draining mod amt serous fluid.
+
+endo- bs covered w/ ssi.
+
+a: stable cvs, resp issues cont. swelling cont.
+
+p: monitor cvs per routine, follow labs and replete lytes as ordered.
+maintain strict pulmonary hygiene, cont to diurese as tol.med prn for pain and anxiety, support family.
+
+",,
+14457,4896,17965,0,2670-10-11 06:37:00 EST,2670-10-11 06:41:00 EST,3406,"N",53,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT REMAINS INTUBATED, SUPPORTED OVERNOC IN CPAP/PS MODE.  DECR VT, SPO2 W/INCR RR REQ INCR PEEP & PS TO IMPROVE VT & OXYGENATION.  BS COARSE EXP WHEEZES, RHONCHI, SXN FOR SM-MOD AMTS THICK YELLOW SEC. MDI COMBIVENT X3, ALBUTEROL X1.  PLEASE SEE RESP FLOWSHEET FOR DETAILS OF CHANGES, MDI ADMIN.  VENT CIRCUIT CHANGED TO HEATED WIRE TO IMPROVE LEVEL OF HUMIDITY TO AIRWAY.  AM ABG REFLECTS COMPENSATED RESP ACIDOSIS W/NORMOXIA, RSBI 127.  NO AIR LEAK AROUND DEFLATED CUFF X3 OVERNOC, BUT POSITIVE LEAK LATER IN AM.  PLAN TO WEAN PS & PEEP IN AM AS TOL.  
+",,
+14457,4896,17965,0,2670-10-11 14:50:00 EST,2670-10-11 15:09:00 EST,3325,"N",53,"Nursing/Other","T-SICU NURSING PROGRESS NOTE","
+T-SICU NURSING PROGRESS NOTE
+Neuro:  Somewhat lethargic but arousable to name, intermittently following commands (stuck tongue out to command, shook head ""no"" to pain).  MAEs, intermittently restless--responded to IV ativan.  
+
+CV:  HR 90s, NSR, no ectopy noted.  Hypertensive--lopressor increased to 15mg q6h.  CVP 5-8.  Skin warm to touch, palpable DP/PT pulses, toes mottled on both feet.  Foot drop on left foot.  
+
+Resp:  Breath sounds clear in upper lobes, diminished in the bases bilat, occas expir wheeze.  Strong, productive cough of thick, sticky yellow secretions.  Requires suctioning approx q2h.  PSV decreased to 10, continues with c02 59 but ph 7.37.  Resp rate mid to high 20s, tidal volumes 400-450cc.  
+
+Renal:  Excellent diuresis to 40mg IV lasix this am, approx 800cc negative since 12a, weight down 12 kg from preop.  K+ repleted.  Urine osmolality pending
+
+GI:  Abdomen soft, (+)bowel sounds, (+)flatus.  No stool.  Nepro tube feeds at goal of 30cc/hr.  
+
+Heme:  Hct stable at 30
+
+ID:  T. max 101.2, team aware, will cx for temp 101.5.  WBC 11 today.  Sputum cx from this am pending.  
+
+Skin:  No new issues
+
+Endo:  Blood sugar 170 this afternoon, covered with 6 units regular insulin per sliding scale
+
+Social:  Pt's daughter [**Name (NI) **] called this am, updated on pt's condition, she will be in to visit later this evening.
+
+A:  Requiring increased lopressor to keep SBP < 160, less agitated, tolerating slow vent wean
+
+P:  Pan culture if temp > 101.5, goal SBP < 160, continue with current plan, provide support to patient and family.  
+",,
+14457,4896,17965,0,2670-10-11 22:36:00 EST,2670-10-11 22:56:00 EST,3706,"N",53,"Nursing/Other","T/SICU NPN: 1500-2300","
+T/SICU NPN: 1500-2300
+S/O:  SYSTEM REVIEW
+NERUO:  INITIALLY RESTLESS  OPENS EYES TO NAME  MINIMAL EYE CONTACT PERRL 4>3MM WITH BRISK REACTION   MAE ALTHOUGH NOT TO COMMAND
++COUGH  +GAG  WITH RESTLESSNESS HR 90'S  SBP 180-190'S AND RR HIGH 30'S TO 40'S WITH TV'S LOW 300'S  RECEIVED 3MG IV HALDOL WITH NO REDUCTION IN RESTLESSNESS(IN ADDITION TO 15MG IV LOPRESSOR WITH NO CHANGE IN SBP)  THEN RECEIVED 1MG IV DILAUDID FOR SEDATIVE EFFECT   
+CVS:  HR 70-90'S NSR WITH NO ECTOPY  QTC=.394  SBP 120-150'S
+SBP UP WITH RESTLESSNESS  CONTINUES ON LOPRESSOR 15MG Q6HR
+PALPABLE PEDAL PULSES  SKIN WARM AND DRY  FEET--TOES/SOLES MOTTLED
+RESPIRATORY:  REMAINS INTUBATED  PS INCREASED TO 15 WITH RESTLESS/HYPERTENSIVE/TACHYPNEIC EPISODE  RR 10-20'S  TV'S 300-600'S
+SAO2 > 96%  ABG:  121-56-7.44-39+12  LUNGS COARSE  SUCTIONED FOR MODERATE AMOUNTS OF STICKY THICK YELLOW SECRETIONS  
+RENAL:  FOLEY PATENT AND DRAINING CLEAR YELLOW URINE  U/O 35-120CC/HR
+NEGATIVE ~1L TODAY SO FAR  LAST K+ 3.6  20 MEQ KCL IV FOR REPLETION
+NA 150  CONTINUES ON 250CC FREE WATER VIA FT Q6HRS
+GI:  ABDOMEN SOFT  +BS +FLATUS NO BM  FS NEPRO AT 30CC/HR VIA FT
+NO RESIDUALS  ON PROTONIX
+ENDOCRINE:  1800 FS 166  COVERED WITH 6U REGULAR INSULIN SQ 
+HEME:  ON HEPARIN SQ
+ID:  TMAX 101.3  ON NO ANTIBIOTICS
+SKIN:  DSG FALLING OFF  INCISION--PINK  STAPLES INTACT  DSD REAPPLIED  
+BACK AND BUTTOCKS INTACT WITH NO REDNESS
+PSYCHOSOCIAL:  DAUGHTER IN FOR VISIT  UPDATED ON CLINICAL SITUATION AND QUESTIONS ANSWERED  EXPRESSING CONCERN THAT PT MORE SEDATE AND STILL INTUBATED--WORRIED ABOUT PT GETTING ""PNEUMONIA""
+A:  AWAKING RESTLESS>>>HYPERTENSIVE/TACHYPNEIC  
+P:  CONTINUE TO MONITOR ABOVE PARAMETERS
+
+",,
+14457,4896,17965,,2670-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-12**] 4:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9568**]
+     Reason: left subclavian line change , pls eval position.  also, copi
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            76 year old woman with s/p AAA repair w/ decreasing o2 sats               
+                         
+     REASON FOR THIS EXAMINATION:
+      left subclavian line change , pls eval position.  also, copious secretions, 
+      eval for infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post AAA repair with decreasing 02 sats.  Respiratory
+     distress.
+     
+     COMPARISON:  [**2670-10-11**].
+     
+     SINGLE VIEW CHEST, AP:  The ET tube is approximately 4 cm above the carina.
+     The left subclavian central venous line tip lies within the mid-SVC.  No
+     pneumothorax.  The NG tube is seen coursing into the stomach.  The lung fields
+     are grossly clear.  There are no frank pleural effusions.
+     
+     IMPRESSION:  No pneumothorax.  No evidence of pneumonia.
+
+",,
+14457,4896,17965,0,2670-10-12 05:17:00 EST,2670-10-12 05:20:00 EST,3406,"N",53,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT REMAINS INTUBATED, SUPPORTED IN CPAP/PS MODE, NO CHANGES MADE THIS SHIFT.  BS FREQ COARSE, REQ SXN FOR MOD AMTS THICK YELLOW SEC.  MDI COMBIVENT GIVEN X3.  PT AGITATED, MOBILE IN BED, HYPERTENSIVE, OCCAS TACHYPNEIC, SPO2 STABLE.  AM ABG REFLECTS PARTIALLY COMPENSATED METABOLIC ALKALOSIS W/NORMOXIA.  NO RSBI THIS AM DUE TO HIGH PEEP & HYPERTENSION. 
+",,
+14457,4896,17965,0,2670-10-12 08:23:00 EST,2670-10-12 08:37:00 EST,3570,"N",53,"Nursing/Other","TSICU NPN 11p-7a","
+TSICU NPN 11p-7a
+S/O
+Neuro- pt arouses to voice very restless in bed particularly when congested and coughing thus followed by increased HTN, med w/ haldol and dilaudid in small doses overnight.  Pt does follow simple commands and MAE's.
+
+CV- pt very hypertensive at times, given one time order of PRN hydralazine 10mg IV x's 2 w/ good results.  Hct stable , K of 3.4 repleted w/ 40meq's kcl.  Na down to 148 after 3 boluses of 250cc's free h2o via gastric tube.  Extremities warm and dry except for bilateral toes which con't cool to touch and mottled dusky purple color (feet wram w/ palp pulses bilaterally).
+
+Resp- pt suctioned for large amt thick tenacious pale yellow sputum.  BS's coarse bilaterally.  No vent changes over night pt con't on 10 of PEEP, 15 of PSV and 50% fio2, TV's >400 and RR varying from 18 at rest to 40 when restless.    Sats from 94-99%.
+
+GI- con't on nepro at 30cc's hr, abd soft, pt passing flatus yet no BM.
+
+GU- u/o of 70-110cc's hr on own, creat down to 2.1
+
+ID- wbc's up , pt pan cultured per team this AM and to start abx's. 
+
+Skin- intact except toes as mentioned above.
+
+A/P- con't pulmonary toilet, reorient frequently and medicate as needed for Mental status. Increase activity, ? OOB, as tolerated for pulm rehab, ? additional [**Doctor Last Name 50**] for BP mangement.
+",,
+14457,4896,17965,0,2670-10-12 15:41:00 EST,2670-10-12 15:42:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, suctioned for mod. yellow secritiones, bs coares.
+",,
+14457,4896,17965,0,2670-10-12 17:32:00 EST,2670-10-12 17:45:00 EST,4267,"N",53,"Nursing/Other","T/SICU RN Progress Note","
+T/SICU RN Progress Note
+Neuro:  Agitated at times, MAE's LE only on bed UE purposefully.  Ativan prior to and after line change for increased agitation.  Follows commands inconsistenly, strong cough and gag.  Haldol and Dilaudid stopped per primary teams request.
+
+CV:  HR 80-100's SR no ectopy noted with aggitation and anxiety HR increases to 110's.  ABP systolic 140-170's when calm up to 200's with aggitation.  NBP noted marked difference of lower systolic, following arterial line.  CVP 6-14.  Remains on Heparin SQ, Pulses weak but palpable warm but color mottled to dusky.
+
+Resp:  Remains intubated PEEP decreased from 10 to 5 and PS from 15 to 10.  Strong cough copious amounts of tan thick secretions suctioned Q30minutes to 1H.  Sats 98-100%.  RR 20-40 depending on anxiety level.
+
+GU/GI:  Foley with clear yellow urine started on diamox and given 20mg IV lasix X1.  Remains on Nepro 35cc/hr with protonix Q24hrs, Conts with Free Water Boluses Q6hrs.
+
+Skin/Mobility:  Grossly intact reddened area in perineium powder ordered.  Up to chair for 4hrs tolerated well.
+
+Endo/Lytes:  Blood Glucose checked insulin as needed given 40meq KCL.
+
+ID:  Afebrile tmax 100.2 orally started on Levoflox Q48hrs.  TLCL changed overwire tip sent, u/a sent.
+
+Social:  Daughter phoned this am and visited this pm, updated.
+
+Plan:  Cont to monitor resp status, blood pressures, labs, cont to monitor and support, follow plan of care.
+",,
+14457,4896,17965,0,2670-10-13 06:13:00 EST,2670-10-13 06:26:00 EST,3510,"N",53,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- very restless all night, slept for 1hr following .5mg dilaudid d/t pt c/o back pain. follows commands inconsistently, mae's, gd strength.
+
+resp- sux q1-2h for very tenacious yellow secretions req ambu and ns at times to clear. bs coarse, oxygenation/ventillation at baseline. risbi=69. presently on spont breathing trial.
+
+cvs- hr 80's-90's nsr, no ectopy, sbp 140's-150's, tm 100.6po, cvp 5-11,  bcx w/ gm+cocci in pairs and clusters. lytes repleted. met alkalosis, cont on diamox.
+
+gi- tol tf @goal rate of 35cc, +bs, lots of flatus, no stool as yet. abd softly distended.
+
+gu- uo wnl via foley, clear yellow.
+
+endo- bs rx w/ ssi.
+
+skin- mult areas of bruising, abd incision w/ staples intact, no drainage and ota.
+
+soc- daughter, [**Doctor First Name **] in to visit last eve, concerned that pt seemed to be experiencing pain, also that she had so much pulm secretions.
+
+a: atable noc, NO [**Doctor Last Name **].
+
+p: monitor vs per routine, follow labs and replete lytes as ordered, cont spont breathing trial, maintain pulm hygiene, support pt and family.
+",,
+14457,4896,17965,0,2670-10-13 06:23:00 EST,2670-10-13 06:25:00 EST,3406,"N",53,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT REMAINS INTUBATED, SUPPORTED OVERNOC IN CPAP/PS MODE.  BS FREQ COARSE RHONCHI, REQ FREQ SXN FOR MOD AMTS THICK YELLOW SEC.  MDI COMBIVENT GIVEN X3. AM ABG REFLECTS COMPENSATED RESP ACIDOSIS W/HYPEROXIA.  RSBI 68.  SPONTANEOUS BREATHING TRIAL STARTED, PLAN TO ASSESS FOR POSSIBLE EXTUBATION IN AM.  
+",,
+14457,4896,17965,0,2670-10-13 15:44:00 EST,2670-10-13 15:45:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, bs coares, suctioned for yellow secritiones.
+",,
+14457,4896,17965,0,2670-10-13 16:50:00 EST,2670-10-13 17:04:00 EST,4267,"N",53,"Nursing/Other","T/SICU RN Progress Note","
+T/SICU RN Progress Note
+Neuro:  Awake most of day following most commands, napping throughout day.  0.5mg dilaudid given for c/o pain with effect.
+
+CV:  HR 80-100's SR no ectopy noted.  ABP systolic 120's-150's given lopressor hydralazine as ordered.  CVP 6-10.  SQ Heparin.  
+
+Resp:  Remains intubated on CPAP with PEEP 5 and PS 10 FiO2 50%, with RR 20-30's.  Sats 97-100% suctioned for moderate amounts of thick yellow secretions Q1h sometimes needing ambu.
+
+GU/GI:  Foley with clear yellow urine diamox d/c'd after 3rd dose.  Pedi tube with TF at goal, remains on protonix.  Free H2O Flushes increased to 500cc Q6H. 
+
+ID: a-line resited, started on vanco for + blood cultures.
+
+Skin/Mobility:  Up to chair for 4 hrs tolerated well, skin grossly intact no breakdown noted.
+
+Plan:  Possible extubation in am, cont with pulmonary hygeine, cont to monitor and support.
+",,
+14457,4896,17965,0,2670-10-14 05:48:00 EST,2670-10-14 05:54:00 EST,4235,"N",53,"Nursing/Other",,"
+
+RESP CARE: Pt remains intubated/on vent. No vent changes this shift. Mucomyst 4cc instilled down ETT as ordered. Pre medicated with ALB MDI. Bilat rhonchi/ Sxd mod amounts tenacious secretions. RSBI-88.  
+",,
+14457,4896,17965,0,2670-10-14 06:50:00 EST,2670-10-14 07:07:00 EST,3510,"N",53,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- alert, maes ,increasing strength, rarely follows commands, seems frustrated/confused. requires a lot of badgering to follow.
+
+resp- bs cta, decreased secretions, thick lt yellow, gd mv >10liters, sao2 100%., risbi=88, rr 20's pt seems comfortable,
+
+cvs- lopressor doses held d/t low bp . sbp at rest 98-110, hr 70's nsr no ectopy. cvp 9-13, lyted repleted, afeb.
+
+gi-tf nepro @35cc/hr, free water boluses given. abd soft, lg amt flatus, no stool.
+
+gu- uo wnl, cl yellow.
+
+skin- unchanged, abd incision intact w/ staples.
+
+a:improved resp status.
+
+p: monitor cvs/nvs per routine, follow labs as ordered, maintain vigilent pulm hygiene.
+",,
+14457,4896,17965,0,2670-10-14 17:09:00 EST,2670-10-14 17:17:00 EST,4267,"N",53,"Nursing/Other","T/SICU RN Progress Note","
+T/SICU RN Progress Note
+Resp:  Extubated this am to face tent 50% strong cough, coughning up thick yellow secretions, requiring NT suction occasionally.  Chest PT and C/DB aggressively done.  Lungs clear/coarse with decreased sounds in bases.  Sats 98-100%.  ABG's wnl.  
+
+Neuro:  Oriented to person only confused, following commands, c/o pain given 0.5mg dialudid with effect.
+
+CV:  HR 80-100's SR no ectopy noted ABP systolic 120-160's lopressor decreased to 15mg Q6hr and hydralazine d/c'd.  +Pulses DP/PP toes remain dusky.
+
+GU/GI:  Foley with clear yellow urine given 20mg lasix at 1630 with effect.  TF stopped prior to extubation, remain on protonix.  Will resume TF tonight.
+
+Skin/Mobility:  Up to chiar tol well today, skin grossly intact.
+
+ID:  Afebrile remains on vanco and levoflox.
+
+Social:  Daughter called and updated, family in to visit.
+
+Plan:  Cont to monitor and support follow plan of care.
+",,
+14457,4896,17965,,2670-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-15**] 4:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9569**]
+     Reason: evaluation for infiltrates/failure                          
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             76 year old woman recently extubated, now with increased work of 
+      breathing                                
+     REASON FOR THIS EXAMINATION:
+      evaluation for infiltrates/failure                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Recently extubated.  Now with increased work of breathing.  Evaluate
+     for infiltrate/failure.
+     
+     AP UPRIGHT CHEST at 5 am.  Since the prior  study of [**2670-10-12**], the patient has
+     been extubated.  An NG tube is still in place with its tip below the left
+     hemidiaphragm.  No acute cardiopulmonary disease is evident.
+     
+     IMPRESSION:  No acute cardiopulmonary disease.
+     
+     
+
+",,
+14457,4896,17965,0,2670-10-15 05:59:00 EST,2670-10-15 06:07:00 EST,3840,"N",53,"Nursing/Other",,"
+
+Altered Respiratory Status
+
+Pt initially confused, kicking and pinching. Haldol + Dilaudid didn't work well, improved with Ativan. Voice hoarse. MAE.
+
+Tachy. Receiving Lopressor. HCT stable. WBC up. Lytes repleted.
+
+In respiratory distress most of night. HO  and team aware. RR 40s, sats 95%. Pt unable to cough-NTS many times for thick yellow sputum. Pt did not tolerate mask ventilation. CPT done. Lasix given. CXR unchanged. Breath sounds coarse, nebs given for wheezing.
+
+Tube feeds held since 4am in case she is to be re-intubated.
+
+Moderate effect from Lasix. 
+
+Incision unchanged.
+
+Daughter visited last evening.
+
+Plan: Continue to assess respiratory status and hemodynamics.
+",,
+14457,4896,17965,0,2670-10-15 19:19:00 EST,2670-10-15 19:46:00 EST,3706,"N",53,"Nursing/Other","T/SICU NPN:  0700-1900","
+T/SICU NPN:  0700-1900
+S: ""I'M TIRED.""
+O:  SYSTEM REVIEW
+NEURO:  LETHARGIC  AROUSABLE TO VOICE/NAME  +EYE CONTACT  MAE--NO COMMANDS  MINIMAL SPEECH--TALKED MORE WITH DAUGHTER'S VISIT  
+DILAUDID/HALDOL/ATIVAN DISCONTINUED  TYLENOL 650MG FOR LEG PAIN PER PT'S DAUGHTER
+CVS:  HR 80-100'S SR/ST  NO ECTOPY  SBP 100-150'S  ON LOPRESSOR 15MG Q6HRS  A-LINE DAMPEN WITH NO BLOOD RETURN--WIRED OVER BY SICU MD
+A-LINE STILL WILL DAMPEN TRACE BUT WITH BLOOD RETURN  PALPABLE PEDAL PULSES  FEET WARM WITH SCATTERED MOTTLE AREAS  
+RESPIRATORY:  REMAINS EXTUBATED ON 40% FT  RR HIGH 30'S TO 40'S
+SAO2 > 96%  LUNGS COARSE TO CLEAR, DECREASED AT BASES  SPONTANEOUS
+WEAK CONGESTED COUGH  NTS FOR INITIALLY MODERATE TO NOW SCANT THICK YELLOW SECRETIONS  ALB/MUCOMIST NEBULIZERS PER RT  PAO2>>79>>162>>12
+PC02>>47>>42>>42  LAST ABG:  121-42-7.40-27+1  
+RENAL:  FOLEY PATENT AND DRAINING CLEAR YELLOW URINE  ~30 TO 200CC/HR
+LAST K+ 3.6  20MEQ KCL IV  
+GI:  ABDOMEN SOFT  +BS  TF'S RESTARTED AT 1700--FS NEPRO WITH PROMOD AT 10CC/HR  VIAL POST PYLORIC FT  FREE WATER ALSO RESTARTED--250CC Q6HR  ON PROTONIX
+ENDOCRINE:  LAST FS 119  NO INSULIN REQUIRED  
+HEME:  ON HEPARIN SQ
+ID:  TMAX 98.8AX  WBC UP TO 18,000  CONTINUES ON VANCOMYCIN AND LEVOFLOXACIN   TROUGH VANCO ~17  VANCO CHANGED TO 1GM Q36HRS
+SKIN:  INCISION OTA  STAPLES INTACT  NO DRAINAGE  BACK AND BUTTOCKS INTACT WITH NO REDNESS
+PSYCHOSOCIAL:  DAUGHTER AND SON IN LAW IN FOR VISIT THIS AFTERNOON
+UPDATED ON CLINICAL SITUATION AND QUESTIONS ANSWERED  DAUGHTER EXPRESSING MANY CONCERNS---IE: PT'S MENTAL STATUS, PULMONARY SECRETIONS, INFECTIONS  EMOTIONAL SUPPORT PROVIDED
+A:  REMAINS EXTUBATED ALTHOUGH TACHYPNEIC WITH POOR AIRWAY CLEARANCE
+ADEQUATE GAS EXCHANGE
+P:  CONTINUE TO MONITOR ABOVE PARAMETERS  PULMONARY HYGIENE
+",,
+14457,4896,17965,,2670-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-16**] 7:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9570**]
+     Reason: r/o pneumonia                                               
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              76 year old woman recently extubated, now with increased work of  
+      breathing                                
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  76 y/o woman recent extubated now with increased work of breathing.
+     Rule out pneumonia.
+     
+     AP PORTABLE UPRIGHT CHEST [**2670-10-16**] at 7:30 AM:
+     
+     Comparison is made to previous portable chest 1 day earlier.  There appears to
+     be no change.  No new focal infiltrates or CHF.
+
+",,
+14457,4896,17965,0,2670-10-16 05:22:00 EST,2670-10-16 05:38:00 EST,4330,"N",53,"Nursing/Other",,"
+
+NEURO: INITIALLY LETHARGIC AND FOLLOWED NO COMMANDS. AS SHIFT PROGRESSED BECAME INCREASINGLY MORE ALERT BUT YET SLEEPY.  FOLLOWED OCCASIONAL COMMANDS. MAE X'S 4. MULTIPODUS BOOTS ON BILAT. NO SEDATION THIS SHIFT
+
+CV: SINUS RHYTHM TO SINUS TACH NO ECTOPY NOTED. RECEIVING LOPRESSOR 15MG Q 6 HR.  SBP 120'S (AT REST) - 160'S (W/SX AND TURNING).  NO EDEMA NOTED. CVP 0 TO 6. LEFT RADIAL MAP POSITIONAL AND DIFFICULT TO DRAW BLOOD FROM.  NOT USED TO MONITOR BP, NIBP USED FOR THIS NEED.  LEGS AND TOES MOTTELD. C/O PAIN IN TOES, TYLENAL 650MG GIVEN VIA NG RELIEF OF PAIN.
+
+RESP: RESP RATE UPPER 35-45. LABOROUS @ ALL TIMES. LUNG SOUNDS COARSE W/WHEEZES ON RIGHT SIDE. STRIDOROUS RESPERATIONS AT TIMES.  MULTIPLE RT TXS PROVIDED. SUCTIONED EVERY 1-2 HOURS FOR MODERATE TO LARGE YELLOWISH THICK SPUTUM. PO2 65 ON ABGS THIS AM, FIO2 ^ TO 50%. SaO2 88-100%. SATS DROP MOMENTARILY UNTIL SX AND THEN RETURN TO 95% OR >  WEAK COUGH.
+
+GI: TUBEFEEDINGS INFUSING W/GTTS FOR RESIDUALS.  ADDVANCING RATE Q 4 HOURS. RECEIVING 250CC H2O BOLUS Q 6 HR. ABD SOFT ROUND W/ACTIVE BS THROUGH OUT. ABD INCISION INTACT W/STAPLES. DISTAL END OF INCISION RED AND SLIGHTLY SEPERATED. AREA DRY AND NO DRAINAGE NOTED.
+
+GU:  FOLEY CATH PATIENT DRAINING CLEAR YELLOW URINE IN AMT SUFFICIANT
+
+LABS: ACCU CHECKS COVERED W/LOW DOSE INSULIN. K+REPLEATED
+",,
+14457,4896,17965,0,2670-10-16 19:25:00 EST,2670-10-16 19:55:00 EST,3706,"N",53,"Nursing/Other","T/SICU NPN: 0700-1900","
+T/SICU NPN: 0700-1900
+S:
+O:  SYSTEM REVIEW
+NEURO:  MORE AWAKE--BRIGHTER TODAY  ORIENTED TO PERSON  CONFUSED
+COMMUINCATING NEEDS VERABALLY  MAE  INTERMITTENTLY FOLLOWING COMMANDS
+DENIES PAIN
+CVS:  HR 70-90'S NSR  RARE UNIFOCAL PVC'S  SBP UP TO 140-160'S
+LOPRESSOR INCREASED TO 20MG Q6HR  PALPABLE PEDAL PULSES--SEVERAL TOES MOTTLED  SKIN WARM AND DRY  
+RESPIRATORY:  REMAINS EXTUBATED ON 50% FT  SA02 > 96%
+RR 36-40  LUNGS COARSE I/E WHEEZES TO CLEAR  MUCOMIST/ALBUTEROL NEBULIZERS  SUCTIONED FOR SMALL TO MODERATE AMOUNTS OF THICK BLOOD-TINGED TO YELLOW SECRETIONS  
+RENAL:  FOLEY PATENT AND DRAINING CLEAR YELLOW URINE  U/O ADEQUATE
+LASIX 20MG IV TO MAINTAIN EVEN FLUID BALANCE  K+ 3.4 REPLETED WITH TOTAL OF 40MEQ KCL  REPEAT K+ 4.3
+GI:  ABDOMEN SOFT +BS  +BM--SMALL SOFT FORMED STOOLS X 2  FS NEPRO AT 35CC/HR WITH FREE WATER BOLUSES 250CC Q6HR  PROTONIX CHANGED TO PEPCID
+ENDOCRINE:  FS 140'S THROUGH DAY  RECEIVED 4U REGULAR INSULIN SQ X 2
+HEME:  ON HEPARIN SQ
+ID:  AFEBRILE  CONTINUES ON VANCO  LEVOFLOXACIN D/C'D  CEFTAZIDIME STARTED
+SKIN:  INCISION OTA  STAPLES INTACT  NO SX OF INFECTION  BACK AND BUTTOCKS INTACT WITH NO REDNESS
+PSYCHOSOCIAL:  SEVERAL VISITORS TODAY  DAUGHTER UPDATED ON CLINICAL SITUATION AND QUESTIONS ANSWERED  
+A:  IMPROVED MENTAL STATUS  MAINTAINING OXYGENATION/VENTILATION
+STILL REQUIRING SUCTIONING FOR AIRWAY CLEARANCE  
+P:  CONTINUE TO MONITOR ABOVE PARAMETERS  CONTINUE PULMONARY HYGIENE
+  
+",,
+14457,4896,17965,0,2670-10-17 04:22:00 EST,2670-10-17 04:38:00 EST,4330,"N",53,"Nursing/Other",,"
+
+Noc shift 
+
+Neuro: Pleasantly cooperative. Forgetfull. Follows commands w/all 4 extremities. weak grasps.
+
+CV: Sinus Rhythm to sinus tach no ectopy. BP stable. Left radial MAP line positional and difficult to draw blood from.  Receiving 20 mg of lopressor q 6 hr ivp.  CVP 0-2. Bilateral pitting edema in legs
+
+Resp: Lung sounds coarse w/wheezes at times. Upper airway wheezing and stridor at times as well which is relieved by sx. 50% face tent. Weak cough non productive or atleast swallows if it is productive. SaO2 92-100%.  NT sx thick tan.
+
+GI: Tube feeding at 35cc/hr with gtts for residuals. Receives 250cc free water bolus q 6 hours. Abd soft and round w/active bowel sounds in all 4 quad of abd. Abd. incision intact w/staples no redness, swelling or drainage noted. Towards the distal end of incision there is an area that is scabbed over approx 2cm long. Several small smears of brown BM
+
+GU: Foley patient draining clear yellow urine. Lasix 20mg IVP at MN as I>O. Diuresed 600cc as an initial responce from the lasix.
+
+Comfort: c/o pain in 1st and 2nd toes of right foot. These toes are mottled to purplish in color.  Very sensitive to touch. Tylenol 650 mg given via NG w/relieve of pain.
+
+Activity: Up in chair from [**2666**]-2400. Transfers w/2 assists. Stands and supports weight but does not move legs or feet very well to move self to chair.
+
+Labs: Glucose 134/2Unints insuline, K+3.7/20KCL
+
+",,
+14457,4896,17965,0,2670-10-17 12:54:00 EST,2670-10-17 13:10:00 EST,4214,"N",53,"Nursing/Other",,"
+
+TSICU Nursing Progress NOte 7a-3p
+Neuro- 
+Confused, A&Ox1 only, cont to take mask off, wirst restraints on. LE oob x2, needs cont reorientation.  OOB to chair w/ PT this am did well w/ LE wt bearing w/ 2 assist. LE splints in place most of day
+REsp- 
+.50 cool mask, RR 20's, BS clear/course w/ diminished bases improving w/ oob chair. Cough stronger, productive small amts from upper airway. 
+CV-
+BP 130-160/50-60, HR 80-100 sr/st, cont lopressor 20 mg iv q6. Peripheral LE pulses intact, [**12-2**] toes bilat sl tender/sensitve, + plae/discolored-imprved from yesterday. LE warm/normal.
+Fluids-
+Tube feeding cont, iv @ kvo, no lasix today, negative ~500cc. Na 143, free h20 changed to 250 bid from q6h.
+GI- 
+Tube feeding of mixed Nepro & PromoteFS @35/hr cont via pedi fdg tube, +BS, NT, ND, stool small-med amt 3x today, brown/loose.
+Skin-
+Left abd incision, staples intact, no erythema, d/c present, open to air. Temp 98-98.8, wbc 18K.
+Access-
+Aline d/c -severly dampened, unable to draw blood. CVL intact, vascular wishes to d/c. If peripheral placed can d/c CVL at that time. limit blood draw if peripheral iv placed.
+A/P
+REsp status and strength cont to improve. Cont CPT, PT, OOB chair.
+Attempt to decrease central access w/ infection risk wbc 18k.  Will d/c cvl inf able to place peripheral iv.
+Family informed today of current status. 
+",,
+14457,4896,17965,0,2670-10-18 05:47:00 EST,2670-10-18 05:48:00 EST,3971,"N",53,"Nursing/Other","Respiraotry Care:","
+Respiraotry Care:
+Patient received 2.5 mg albuterol/NS X 2 via aerosol mask, requiring NTS after the last treatment (see CareVue).
+",,
+14457,4896,17965,0,2670-10-18 07:42:00 EST,2670-10-18 07:50:00 EST,3660,"N",53,"Nursing/Other",,"
+
+nsg note:
+pt alert, very docile, but completely confused. mae to command 
+
+cv: tol lopressor iv. bp 150's to 120's hr nsr 60's to 80's no ectopy
+
+afebrile.
+
+foley draining clear yellow urine. qs. ivf at kvo.
+
+gi: abd soft tol tube feeds. stooling. soft brown in sm amts. insulin per sliding scale. 
+
+skin area around anus very red and tender due to the frrequent stooling skin barrier applied will order double guard.
+
+resp: on 50% face mask resp rate 20's breathsounds coarse mostly upper airway. coughing secretions up at times but swallowing suctioned twice in 12 hrs for thick tan sputum. sats 98 to 100%.
+
+pt in chair put back to bed at 830 pm. two person transfer pt stood with lots of assistence but would not move her feet.
+",,
+14457,4896,17965,0,2670-10-18 14:45:00 EST,2670-10-18 14:59:00 EST,3933,"N",53,"Nursing/Other",,"
+
+NPN0700-1500
+S; IAM GOING HOME RIGHT NOW.
+NEURO; WAXWS AND WANES,AOOX1 CONFUSED COMBATIVE  WHEN ATTEMPTING TO CLEAN UP STOOL,PERLA 3MM MAE   SPONTANEOUSLY  BUT NOT TO COMMAND.OOB TO CHAIR BY SLIDEBOARD.
+
+RESP; LUNG SOUNDS COARSE RHONCHEROUS EXP WHEEZE TOLERATING NEB TREATMENTS STRONG COUGH BUT UNABLE TO EXPECTORATE USING YANKEUR TOASP SECRETIONS FROM MOUTH REQUIRES NXT Q 3-4 HOURS FOR THICK TENATIOUS YELLOW SPUTUM. SATS 99-100% 0N TENT MASK.AT 50%.NO EPISODES OF DESATING EVEN WHEN MASK OFF FOR SHORT TIME. TODAY.
+
+CVS; TMAX 99.8 NSR 70-80 BP 130-140/  NO ECTOPY NOTED TOLERATING LOPRESSOR 20 MGS I.V. WELL.POS PALP PULSES IN BOTH FEET. WARM TOES ON FEET WITH DUSKY AREAS REMAIN UNCHANGED MULTIPODUS BOOTS ON WHEN MOVED OOB TO CHAIR.
+
+GU; MOD AMOUNTS CLEAR YELLOW URINE VIA FOLEY. 
+
+GI; TOLERATING T/F AT GOAL ON NEPRO THROUGHOUT AM DUE TO DIFFICULTY IN OBTAINING MIX BUT NOW BACK ON NEPRO WITH PROMOD. BELLY SOFT POS BS. LARGE THICK BROWN STOOL AT 10 AM SMALL SMEARS NOTED ANAL AREA VERY RED AND EXCORIATED.
+
+SURVEILLANCE CULTURES SENT.
+
+DAUGHTER CALLED AND UPDATED WITH CURRENT CONDITION AND PLAN OF CARE,
+
+P CONTINUE TO REORIENTATE , CONTINUE WITH AGGRESSIVE PULMONARY CARE.
+",,
+14457,4896,17965,0,2670-10-18 22:43:00 EST,2670-10-18 22:58:00 EST,3246,"N",53,"Nursing/Other","T/SICU NPN","
+T/SICU NPN
+Brief ROS:
+Neuro- Pt. remains confused. Calls out ""help me"" without any response when nrs is present. MAE with gd strength, not consistantly to command. Appears purposeful in movement.
+
+CV- Stable BP and HR. Skin warm and dry. Periph pulses palpable. Color pale.
+
+Resp- Remains on face tent with gd sats. Coughs productively but appears to swallow secretions. Have not needed to NTS pt. this shift. Breath sounds are coarse. 
+
+GI- Abd soft and sl distended. Tolerates tube feeds well. Cont. to have occ stooling, very soft but not quite liquid. Very irritating to skin. 
+
+GU- U/O adequate via foley. 
+
+Integ- Skin intact except for buttocks and incision on trunk. Incision sl red in some areas but appears to be healing well. Buttocks are is red and very sore to pt. around rectum. Zinc/vitamin A&D/lidocaine jelly applied to entire area after stools.
+
+Social- Family in to visit this evening.
+",,
+14457,4896,17965,0,2670-10-19 08:19:00 EST,2670-10-19 08:34:00 EST,3570,"N",53,"Nursing/Other","Tsicu NPN 11p-7a","
+Tsicu NPN 11p-7a
+S/O 
+Neuro- pr con't confused, oriented only to self, ? head CT today.  Mae's and appropriate at times, restless yet not pulling at line and tubes.  No sedation given.
+
+CV- pt remains in SR , no ectopy, getting lopresser 20mg q 6hr IVP,  Hct stable , other AM labs pnd.  BP 100-120/60-70.
+
+Resp- pt tachypnic w/ exertion w/ RR up to low 30's w/ bed change yet other wise RR 20-30, non labored, con't very wheezy and coarse throughout yet cough strong and pt able to expectorate.  Sats maintained at 96-100%.
+
+GI- abd soft, nontender, pt getting TF's of nepro w/ promode at 35cc's hr via nasal pedi tube.  Pt having frequent soft brown stool, spec to be sent for c-diff, did recieve enema to r/o high impaction w/ minimal response.  Perirectal area becoming excoriated, Triple cream applied frequently.
+
+GU- pt voiding via foley cath w/o diff.
+
+Skin as above.  Endo, pt covered by sscale, T max 99.8 po.
+
+A/P- pt con't w/ tenuous resp status however getting stronger w/ improved oxygenation. Con't to require vigirous pulmonary toilet, Impaired skin secondary to stooling, ? c-diff.
+",,
+14457,4896,17965,0,2670-10-19 16:27:00 EST,2670-10-19 16:46:00 EST,3409,"N",53,"Nursing/Other","nsg note","
+nsg note
+see flowsheet for specifics
+
+NEURO-PT ORIENTED TO PERSON ONLY. CONFUSED IN CONVERSATION, FOLLOWS COMMANDS INCONSISTENTLY. MAE. PT STRONG IN ALL EXTREMITIES. 
+
+CV-AFEB. HR/SBP STABLE. CHANGED TO PO LOPRESSOR. SKIN W+D. +PP. FEET WARM WITH BRISK CAP REFILL. FEW TOES MOTTLED. 
+
+RESP-O2 SAT 99% ON 50% FACE TENT. LS WITH INSP WHEEZES, DECREASED  AT BASES. NEB TX BY RESP THERAPY. NARD NOTED. PT NOT REQUIRING NT SXN THUS FAR. COUGH STRONG. 
+
+GI-ABD SOFT, NT/ND. +BS. TF AT GOAL VIA FEEDING TUBE. PT WITH LARGE AMT LIQ BROWN STOOL. SPEC SENT FOR CDIFF. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS CL YELLOW URINE. 
+
+ACT-OOB TO CHAIR FOR 2 HRS. TOL WELL. PT TURNS WITH 1 ASSIST. 
+
+COMFORT-APPEARS COMFORTABLE. 
+
+ENDO-SSRI.
+
+SKIN-ABD INCISION WITH STAPLES, OTA. PERIANAL AREA PINK AND RAW. FREQ SKIN CARE DONE AND DOUBLE GUARD APPLIED. 
+
+PLAN-CON'T WITH CURRENT PLAN. MONITOR FOR CHANGES. FOLLOW MS. SKIN CARE. ? TX TO VICU WHEN BED AVAIL. ? SPEECH/SWALLOW STUDY.
+",,
+14457,4896,17965,0,2670-10-19 18:52:00 EST,2670-10-19 18:56:00 EST,4232,"N",53,"Nursing/Other",,"
+
+NPN:
+NEURO: ALERT. ORIENTED TIMES ONE. SLIGHTLY DECREASED STRENGTH RUE. FOLLOWS COMMANDS INCONSISTENTLY.
+
+RESP: SWALLOW STUDY. PT DEVELOPED COARSE BREATH SOUNDS. NTS FOR THICK TAN SPUTUM. EXP WHEEZES TX WITH ALBUTEROL.
+
+ENT CONSULT, SWALLOW STUDY.
+
+CV: VSS SEE FLOWSHEET.
+
+GU: ADEQUATE UO
+
+SKIN: BUTTOCKS RED, SMALL AMOUNT OF BREAKDOWN. AREA CLEANSED, BARRIER CREAM APPLIED.
+
+PAIN; PATIENT DENIES INCISIONAL PAIN. OCCASIONALLY C/O PAIN BILATERAL TOES PAIN.
+",,
+14457,4896,17965,,2670-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-20**] 2:07 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9571**]
+     Reason: ? etiology of post op confusion,;r/o cva, bleed             
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman 2 weeks s/p AAA repair, prolonged vent wean, persistent 
+      abnormal mental status
+     REASON FOR THIS EXAMINATION:
+      ? etiology of post op confusion,;r/o cva, bleed                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     NON-CONTRAST HEAD CT SCAN.
+     
+     HISTORY:  Abnormal mental status two weeks after abdominal aortic aneurysm
+     repair.  Assess for intracranial hemorrhage or infarct.
+     
+     TECHNIQUE:  Non-contrast head CT scan.
+     
+     FINDINGS:  There is a probable punctate chronic lacunar infarct within the
+     head of the right caudate nucleus and a questionable few mm area of slight
+     hypodensity within the extreme posterior aspect of the left internal capsule.
+     This latter finding could represent a subacute-to-chronic infarct, as well.
+     There is no major vascular territorial infarct, mass effect or shift of
+     normally midline structures.  There is probable minimal peripheral atrophy
+     involving the left frontal lobe cortex.  There is mild mucosal thickening
+     within the visualized portion of the maxillary sinuses (the base of each sinus
+     was not included on this head imaging study).  There is loss of aeration of
+     the left sphenoid air cell and moderate mucosal thickening in the right
+     sphenoid air cell.  Additionally, there is opacification of both tympanic
+     cavities, epitympanic recesses and mastoid antra, as well as mastoid sinuses.
+     All of these sinus abnormalities may potentially relate to intubation or be
+     indicative of inflammatory disease.
+     
+     CONCLUSION:  Probable small infarcts, as noted above.  Mucosal thickening seen
+     within the visualized portions of the maxillary sinus (the lower half of each
+     maxillary sinus was not included on this head study).
+
+",,
+14457,4896,17965,0,2670-10-20 03:57:00 EST,2670-10-20 04:02:00 EST,4330,"N",53,"Nursing/Other",,"
+
+[**Date range (1) 6103**] noc shift
+
+Neuro: Alert follows commands confused. Talks to self pretty much of the noc. Dozing at intervals.
+
+CV: SR no ectopy VSS
+
+Resp:  Lungs coarse thoughout. No sx this shift. No nonproductive cough noted. Humidified air via face tent.
+
+GI: TF at target rate gtts for residuals. Active BS. Liquid brown stool
+
+GU: foley patient draining clear yellow urine in amt. sufficiant
+
+Skin: Perirectal area red and excoriated.  Triple cream applied. Toes on each foot have purle areas on them. C/o pain w/toes on right foot. Tylenal given for pain w/relieve.
+
+Labs: K 3.8 repleated w/40 KDUR
+",,
+14457,4896,17965,0,2670-10-20 13:52:00 EST,2670-10-20 13:54:00 EST,3209,"N",53,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+FOR NURSING PROGRESS NOTE PLEASE REFER TO NURSING TRANSFER NOTE IN ""NURSING TRANSFER NOTE"" SECTION OF CAREVIEW. THANK  [**Doctor First Name **].
+
+THERE IS NOTHING NEW THAT HAS HAPPENED SINCE TRANSFER NOTE WRITTEN EXCEPT THAT PT WAS ABLE TO BEAR WT AND TAKE SMALL STEPS WITH MAX ASSIST OF 2 PERSONS. SHE HAS BEEN OOB IN CHAIR SINCE 1100.
+
+AWAITING BED AVAIL TO TRANSFER
+",,
+14457,4896,17965,0,2670-10-20 22:29:00 EST,2670-10-20 22:52:00 EST,3706,"N",53,"Nursing/Other","T/SICU: 1500-2300","
+T/SICU: 1500-2300
+S: ""OH, MY GOD!""
+O:  SYSTEM REVIEW:
+NEURO:  LETHARGIC TO AWAKE  ALERT AND ORIENTED TO PERSON AND ABLE TO STATE ONCE THAT IN HOSPITAL--""ANEURYSM TAKING OUT""  OTHERWISE DISORIENTED TO PLACE/TIME  CONFUSED   MAE INCONSISTENTLY TO COMMAND  +HALLUCINATIONS--THOUGHT CHAIR IN ROOM WAS A MAN THAT GREW UP WITH DAUGHTER  OCCASIONALLY ANSWERING QUESTIONS--DOES NOT ALWAYS COMPLETE THOUGHT  NEUROLOGY CONSULT THIS EVENING
+CVS:  HR 70-90'S NSR WITH NO ECTOPY  SBP 140-150'S  CONTINUES ON 50MG LOPRESSOR  SKIN WARM AND DRY  STRONG PALPABLE PEDAL PULSES  SEVERAL TOES OF FEET-CYANOTIC
+RESPIRATORY:  RR 20'S  LUNGS CLEAR, DECREASED AT BASES  FAIR SPONTANEOUS COUGH--NON-PRODUCTIVE  SAO2 > 96%  ON 50% FT
+RENAL:  FOLEY PATENT AND DRAINING CLEAR YELLOW URINE  45-100CC/HR
+GI:  ABDOMEN SOFT  +BS  +BM--SMALL AMOUNT OF LIQUID BROWN STOOL
+FS NEPRO WITH PROMOD AT 35CC/HR  250CC FREE WATER Q6HRS  
+ON PEPCID
+ENDOCRINE:  FS 130  COVERED WITH 2U REGULAR INSULIN SQ
+HEME:  ON HEPARIN SQ
+ID:  TMAX 99.7  VANCO D/C'D  CONTINUES ON CEFTAZIDIME  
+SKIN:  INCISION OTA--STAPLES INTACT  NO DRAINAGE  PERI-RECTAL AREA
+EXCORIATED
+PSYCHOSOCIAL:  NO CALLS FROM DAUGHTER
+A:  CONTINUES TO AWAIT BED IN VICU
+P:  CONTINUE TO MONITOR ABOVE PARAMETERS  NEUROLOGY WORK UP
+",,
+14457,4896,17965,0,2670-10-21 05:08:00 EST,2670-10-21 05:11:00 EST,3826,"N",53,"Nursing/Other",,"
+
+NPN
+N: PT SLEPT IN NAPS. CONFUSED/OX1. PLEASANT/COOPERATIVE. DENIES PAIN.
+CV: STABLE. SEE CAREVUE FOR SERIAL VS.
+R: LUNGS CLEAR/DIM AT BASES. FT @ 70% AND SATS >95%. RR 20'S. DRY NON PRODUCTIVE COUGH.
+GI: ABD SOFT/DISTENDED WITH +BS. NEPRO WITH PROMOD AT 35CC/HR. LOOSE STOOL X1 ABD INCISION D/I.
+GU: U/O ADEQUATE CLEAR YELLOW.
+HEME: STABLE.
+ID: AFEBRILE. CONT ON CEFTAZ.
+ENDO: GLUCOSE TREATED PER RISS.
+A/P: TRANSFER TO FLR/VICU.
+
+",,
+14457,4896,,,2670-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-22**] 6:17 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 9573**]
+     Reason: Evaluate Dopphoff placement                                 
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old woman s/p AAA repair                                               
+       
+     REASON FOR THIS EXAMINATION:
+      Evaluate Dopphoff placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76 year old woman with status post AAA repair.  Evaluate Dobbhoff
+     placement.
+     
+     COMMENT:  A portable supine AP radiograph of the abdomen is reviewed, and
+     compared with the previous study at 4:02 AM.
+     
+     The feeding tube is coiled within the stomach with its tip in the gastric
+     fundus.  A portion of the feeding tube is already in the descending duodenum.
+     Multiple surgical staples are seen throughout the abdomen indicating patient's
+     status post AAA repair.
+     
+     IMPRESSION:  The feeding tube is coiled in the stomach with its tip in the
+     gastric fundus.
+     
+
+",,
+14457,4896,,,2670-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-22**] 3:57 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 9572**]
+     Reason: Please asses enteroflex position                            
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman s/p AAA repair                                                
+     REASON FOR THIS EXAMINATION:
+      Please asses enteroflex position                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check tube position.
+     
+     PORTABLE ABDOMEN:  A single supine view shows a feeding tube with the tip in
+     the left upper quadrant of the abdomen, likely in the body of the stomach.
+     Multiple surgical clips from abdominal aneurysm repair are noted.
+
+",,
+14457,4896,,,2670-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-23**] 12:44 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 9574**]
+     Reason: Evaluate Dopphoff placement                                 
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old woman with AAA repair, respiratory failure                         
+       
+     REASON FOR THIS EXAMINATION:
+      Evaluate Dopphoff placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76 y/o woman with AAA repair.
+     
+     COMMENT:  Portable AP supine radiograph of the abdomen is reviewed and
+     compared to the previous study of yesterday.
+     
+     The quality of the radiograph is suboptimal due to patient's motion.  The tip
+     of the feeding tube is identified probably in the transverse portion of the
+     duodenum.  There is no evidence of bowel obstruction.  Multiple surgical
+     staples are seen in the mid abdomen, consistent with patient's history of
+     repair of AAA.
+     
+     IMPRESSION:  The tip of the feeding tube is in the transverse portion of the
+     duodenum.
+
+",,
+14457,4896,,,2670-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-10-25**] 1:53 PM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9575**]
+     Reason: Stroke Eval                                                 
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old woman with s/p AAA repair with confusion ?aphasia with old 
+      infarcts  on recent head CT please eval with MRI with diffusion images
+     REASON FOR THIS EXAMINATION:
+      Stroke Eval                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Confusion and ? aphasia.  Status post AAA repair.
+     
+     MRI OF THE BRAIN WITH DIFFUSION-WEIGHTED SEQUENCES:
+     
+     There is no evidence of mass effect or hemorrhage.  There is no displacement
+     of normally midline structures.  There is no evidence of a focal extaaxial
+     lesion or fluid collection. There is no evidence of restricted diffusion to
+     suggest the presence of acute infarction.  A few scattered T2 high signal
+     intensity foci in the periventricular white matter and centrum semiovale
+     consistent with microvascular angiopathy.  There is increased signal within
+     the mastoid sinuses.  The intracranial flow patterns are not unusual.
+     
+     IMPRESSION:  No evidence of acute infarct.  Bilateral mastoid sinus disease.
+     Multiple T2 high signal intensity foci consistent with microvascular
+     angiopathy.
+
+",,
+14457,,,,2670-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-12-29**] 12:36 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9576**]
+     CT RECONSTRUCTION
+     Reason: PATIENT WITH LEFT LATERAL ABD FACIAL DEFECT.
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left lateral fascia defect.
+     
+     COMPARISON:  [**2670-8-23**]
+     
+     TECHNIQUE:  Helically acquired axial images of the abdomen and pelvis were
+     obtained with PO contrast only.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  The lung bases are clear, without evidence of
+     pleural effusion or focal consolidation.  Again noted are three tiny low
+     attenuation lesions within the liver, too small to characterize and they
+     remain unchanged from the prior study.  The gallbladder, pancreas, spleen,
+     adrenal glands and kidneys appear unremarkable.  There is post surgical change
+     noted within the infrarenal aorta, currently measuring 3.2 x 2.9 cm.  The
+     evaluation is limited due to lack of IV contrast.  Also noted is a
+     nonstrangulated hernia of the left lateral abdominal wall, measuring
+     approximately 6.2 cm in its opening.  Contrast is noted distally, without
+     evidence of obstruction.  There is no free air or free fluid within the
+     abdomen.  There is no significant mesenteric or retroperitoneal
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  The urinary bladder, rectum, and intrapelvic
+     [**Last Name (un) **] loops appear unremarkable.  There is no pelvic lymphadenopathy or pelvic
+     fluid.
+     
+     Bone windows demonstrate no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     
+     1)  There is a nonstrangulated hernia of the left lateral abdominal wall.
+     2)  Postoperative appearance of previously described infrarenal aortic
+     aneurysm.
+     3)  There are three tiny low attenuation lesions noted within the liver, too
+     small to characterize but remain stable from the prior exam.
+     
+
+",,
+14457,,,,2670-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-12-29**] 12:36 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9576**]
+     CT RECONSTRUCTION
+     Reason: PATIENT WITH LEFT LATERAL ABD FACIAL DEFECT.
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left lateral fascia defect.
+     
+     COMPARISON:  [**2670-8-23**]
+     
+     TECHNIQUE:  Helically acquired axial images of the abdomen and pelvis were
+     obtained with PO contrast only.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  The lung bases are clear, without evidence of
+     pleural effusion or focal consolidation.  Again noted are three tiny low
+     attenuation lesions within the liver, too small to characterize and they
+     remain unchanged from the prior study.  The gallbladder, pancreas, spleen,
+     adrenal glands and kidneys appear unremarkable.  There is post surgical change
+     noted within the infrarenal aorta, currently measuring 3.2 x 2.9 cm.  The
+     evaluation is limited due to lack of IV contrast.  Also noted is a
+     nonstrangulated hernia of the left lateral abdominal wall, measuring
+     approximately 6.2 cm in its opening.  Contrast is noted distally, without
+     evidence of obstruction.  There is no free air or free fluid within the
+     abdomen.  There is no significant mesenteric or retroperitoneal
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  The urinary bladder, rectum, and intrapelvic
+     [**Last Name (un) **] loops appear unremarkable.  There is no pelvic lymphadenopathy or pelvic
+     fluid.
+     
+     Bone windows demonstrate no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     
+     1)  There is a nonstrangulated hernia of the left lateral abdominal wall.
+     2)  Postoperative appearance of previously described infrarenal aortic
+     aneurysm.
+     3)  There are three tiny low attenuation lesions noted within the liver, too
+     small to characterize but remain stable from the prior exam.
+     
+
+",,
+14457,,,,2670-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2670-12-29**] 12:36 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9576**]
+     CT RECONSTRUCTION
+     Reason: PATIENT WITH LEFT LATERAL ABD FACIAL DEFECT.
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left lateral fascia defect.
+     
+     COMPARISON:  [**2670-8-23**]
+     
+     TECHNIQUE:  Helically acquired axial images of the abdomen and pelvis were
+     obtained with PO contrast only.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  The lung bases are clear, without evidence of
+     pleural effusion or focal consolidation.  Again noted are three tiny low
+     attenuation lesions within the liver, too small to characterize and they
+     remain unchanged from the prior study.  The gallbladder, pancreas, spleen,
+     adrenal glands and kidneys appear unremarkable.  There is post surgical change
+     noted within the infrarenal aorta, currently measuring 3.2 x 2.9 cm.  The
+     evaluation is limited due to lack of IV contrast.  Also noted is a
+     nonstrangulated hernia of the left lateral abdominal wall, measuring
+     approximately 6.2 cm in its opening.  Contrast is noted distally, without
+     evidence of obstruction.  There is no free air or free fluid within the
+     abdomen.  There is no significant mesenteric or retroperitoneal
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  The urinary bladder, rectum, and intrapelvic
+     [**Last Name (un) **] loops appear unremarkable.  There is no pelvic lymphadenopathy or pelvic
+     fluid.
+     
+     Bone windows demonstrate no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     
+     1)  There is a nonstrangulated hernia of the left lateral abdominal wall.
+     2)  Postoperative appearance of previously described infrarenal aortic
+     aneurysm.
+     3)  There are three tiny low attenuation lesions noted within the liver, too
+     small to characterize but remain stable from the prior exam.
+     
+
+",,

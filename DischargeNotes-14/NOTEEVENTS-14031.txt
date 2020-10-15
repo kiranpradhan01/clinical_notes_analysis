@@ -1,0 +1,873 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14031,,,,3085-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3085-12-6**] 9:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5694**]
+     Reason: pt had line placed please check placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman with  hx as above
+     REASON FOR THIS EXAMINATION:
+      pt had line placed please check placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Line placement.
+     
+     CHEST AP:  There is interval placement of a right sided IJ central line, with
+     the catheter folded upon itself, with the tip most likely in the subclavian.
+     There is no evidence of pneumothorax.  The pulmonary vascularity appears
+     slightly prominent, but not significantly changed from the prior study
+     obtained 5 hours earlier.
+     
+     IMPRESSION:  Interval placement of right sided IJ central line, with catheter
+     folded upon itself.  No evidence of pneumothorax.  Discussed with ER resident
+     promptly.
+
+",,
+14031,,,,3085-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3085-12-6**] 4:21 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5693**]
+     Reason: r/o bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman with severe cirrhosis s/p fall w/ head trauma
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DEWd [**First Name8 (NamePattern2) **] [**3085-12-6**] 4:41 PM
+      no ich
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  64 year old woman with severe cirrhosis status post fall with
+     trauma to head.
+     
+     CT OF THE HEAD WITHOUT CONTRAST.
+     
+     COMPARISON:  [**3084-3-15**].
+     
+     TECHNIQUE:  CT of the head without contrast.
+     
+     FINDINGS:  There is no intra- or extra-axial hemorrhage, mass effect or shift
+     of the normally midline structures.  The ventricles, sulci and cisterns are
+     normal.  There is normal [**Doctor Last Name 63**]-white matter differentiation.  There are no
+     major vascular territorial infarcts.
+     
+     The visualized paranasal sinuses and mastoid air cells are well aerated.
+     
+     IMPRESSION:  No intracranial hemorrhage.
+     
+
+",,
+14031,,,,3085-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3085-12-6**] 3:57 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5692**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman with fever, SOB, tachypnea and worsening cough
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath, fever, tachypnea and worsening cough.
+     
+     COMPARISONS:  [**3085-7-13**].
+     
+     PA AND LATERAL CHEST:  The cardiac, mediastinal and hilar contours are stable.
+     Pulmonary vascularity is normal.  The lungs appear clear, with no
+     pneumothorax.  There are no pleural effusions.  The soft tissues and osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  No evidence of pneumonia.  No change from [**3085-7-13**].
+     
+
+",,
+14031,1966,,,3085-12-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3085-12-7**]     Discharge Date:  [**3085-12-11**]
+
+Date of Birth:   [**3021-4-2**]     Sex:  F
+
+Service:
+
+ADDENDUM:  The patient's chest x-ray was unchanged in the
+interval from prior without any evidence of pneumonia.
+
+HOSPITAL COURSE:  In general, this is a 64-year-old white
+Russian-speaking female with a history of hepatitis C
+cirrhosis, esophageal varices, asthma, and hypertension, who
+presents with three days of fever and chills, evaluated for
+hypotension.
+
+The etiology of the patient's hypotension was believed to be
+secondary to urosepsis.  The patient was taken to the ICU
+where she was closely monitored and for the duration of the
+patient's stay after the patient left the Emergency
+Department, the patient was normotensive.  Another possible
+etiology was that the patient was septic from bacterial
+peritonitis so the patient received abdominal
+ultrasonography, the results of which showed splenomegaly
+previously noted on prior ultrasound without any evidence of
+ascites.
+
+The patient was started on p.o. ciprofloxacin to treat the
+patient's urinary tract infection.  The patient continued to
+have moderate grade fevers following 48 hours, temperature
+maximum of 102.8 on the ciprofloxacin.  The patient was
+afebrile for greater than 48 hours at the time of discharge.
+
+On the third day of admission, blood cultures returned one
+blood culture bottle positive for E. coli sensitive for
+fluoroquinolones, further suggesting likely febrile etiology
+of urosepsis.
+
+Of note, the patient also received a CAT scan of the head in
+the Emergency Department which was negative for any
+hemorrhage.
+
+Workup for the patient's fever, the patient received multiple
+blood cultures which were all negative except that previously
+reported and multiple chest x-rays were negative for
+infiltrate.
+
+Finally, the patient's third issue during this hospital stay
+was the patient's hematocrit.  The patient's hematocrit was
+low at baseline on admission.  Following hydration, the
+patient had a hematocrit of 28 which slowly trended downward
+over the duration of the hospital stay to a hematocrit of
+23.7.  At this time, the patient denied any blood per rectum,
+any hematemesis.  The patient was rechecked and again was
+Guaiac negative.
+
+The patient had a past history of anemia which was felt to be
+due to a hemolytic anemia and folate deficiency in addition
+to prior diagnosis of iron-deficiency anemia.  The patient
+was consented and transfused 2 units of packed red blood
+cells with an appropriate increase in the patient's
+hematocrit to a hematocrit of 30.  Further, the patient's
+ALT, AST normalized during the hospital stay.  The patient's
+B12 was 800.  The patient's ferritin was 267.  The patient
+had an MCV of 95.  The patient's bilirubin was only slightly
+elevated compared to prior total bilirubin and on previous
+admissions throughout 2002.  The patient's bilirubin at the
+time of discharge had decreased to 4.8 which is in the range
+of the patient's prior bilirubins during admissions
+throughout 2003.
+
+DISCHARGE CONDITION:  Stable and improved.
+
+DISCHARGE DIAGNOSIS:  Urosepsis.
+
+DISCHARGE MEDICATIONS:  The patient will be discharged on all
+admission medications in addition to ciprofloxacin 500 mg
+p.o. q.d. times an additional ten days.
+
+FOLLOW-UP:  The patient is to follow-up with primary care
+provider next week for follow-up of fever and recheck of the
+patient's hematocrit.
+
+DISCHARGE INSTRUCTIONS:  The patient was given clear
+instructions at the time of discharge to return to the
+Emergency Department for any additional fevers, chills,
+lightheadedness, weakness, vomiting blood, or any blood per
+rectum, or any other concerns.
+
+
+
+                          [**First Name11 (Name Pattern1) 625**] [**Last Name (NamePattern1) 626**], M.D.  [**MD Number 627**]
+
+Dictated By:[**Last Name (NamePattern1) 4191**]
+
+MEDQUIST36
+
+D:  [**3085-12-11**]  02:08
+T:  [**3085-12-13**]  17:11
+JOB#:  [**Job Number 10012**]
+Signed electronically by: DR. [**First Name (STitle) 625**] [**Doctor Last Name **]
+ on: MON [**3085-12-14**] 11:52 AM
+(End of Report)
+
+
+",,
+14031,1966,,,3085-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3085-12-7**] 10:45 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 5696**]
+     Reason: ? ascites                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       64 year old woman with cirrhosis, septic yesterday                             
+     REASON FOR THIS EXAMINATION:
+      ? ascites                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 64 y/o woman with cirrhosis with ? of ascites.
+     
+     FINDINGS: Limited evaluation of the abdomen reveals no evidence of ascites.
+     Splenomegaly, as previously noted in the study of [**3085-11-4**], is again seen . A
+     small left effusion is also present.
+     
+     IMPRESSION: No evidence of ascites.
+
+",,
+14031,1966,,,3085-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3085-12-7**] 12:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5695**]
+     Reason: r/o PTX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman s/p left IJ central line failed attempt. Pt is
+      hemodynamically stable
+     REASON FOR THIS EXAMINATION:
+      r/o PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post failed central line attempt.
+     
+     CHEST, PORTABLE AP:  The heart appears stable in size.  The hilar and
+     mediastinal contours are unremarkable.  There is stable appearance of the
+     diffuse interstitial pattern bilaterally.  The pulmonary vascularity is
+     normal. There is no pneumothorax or pleural effusion. Visualized soft tissues
+     and the osseous structures are unremarkable.
+     
+     IMPRESSION:  Normal chest radiograph.  No evidence of pneumothorax.
+     
+
+",,
+14031,1966,17448,0,3085-12-07 06:04:00 EST,3085-12-07 06:45:00 EST,-1,"N",69,"Nursing/Other",,"
+
+npn 3a-7a; (pt admitted 3a.m.) admitted for probable urosepsis, dyspnea after ER IVF replacement
+
+neuro: a/o x3; russian prim language; understands simple english; +purposeful movement all extremities, symmetrical;
+
+c-v:  pt s/p 5L IVF in ER for sbp 80's; goal for mbp 60, pt >65 since admission to MICU-A therefore neosymephrine drip not needed as of yet; sbp low 100's-110's with map hi 60's-70's since admission, tr-1+ edema bilat lower extremities; 
+
+resp: pt w/ bilat basilar CR starting in ER s/p IVF's; since pt maintaining adeq b/p and urine output, checked with MD [**First Name (Titles) **] [**Last Name (Titles) 3709**] order; stated Ok to hold IVF order of 150cc/hr at this time; may run at approx 100cc/hr including IV Abx; pt's ER careview stated pt had hx CHF, will be cautious re IVF's; RR 33-35 at admission, down to 28-30 by 6:30 a.m.;
+
+g-i: abd obese/rounded; + bowel sounds;  mildly jaundiced w/ icteric sclera; although serum ammonium level ad elevated, pt not confused,
+ therefore PO laculose held 6 [**Name8 (MD) 4476**] MD;
+
+g-u: urine + nitrites; clear amber at 06:00; output low but acceptable since admission;
+
+heme:  pt w/ dec wbc and plt; MD [**First Name (Titles) **] [**Last Name (Titles) 4362**] of DIC; pt placed on heparin and protonix;
+
+access:  LH periph SL; Rt fem [**First Name9 (NamePattern2) 2088**] [**Last Name (un) **] CVL; 
+
+labs:  a.m. labs pending
+
+social: pt Russian speaking; pt's son present in ER;
+
+
+",,
+14031,1966,,,3085-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3085-12-8**] 5:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5697**]
+     Reason: eval for PNA vs CHF.  pt with PND/orthopnea Sx's and fevers 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       64 year old woman s/p left IJ central line failed attempt. Pt is 
+      hemodynamically stable
+     REASON FOR THIS EXAMINATION:
+      eval for PNA vs CHF.  pt with PND/orthopnea Sx's and fevers                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    History of attempted CV line placement.
+     
+     CHEST: No pneumothorax or pleural effusions. Focal area of calcific density in
+     the metaphyseal region of the left humerus consistent with bone infarcts.
+     
+     IMPRESSION:   No pneumothorax.
+
+",,
+14031,,,,3086-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-5-21**] 1:56 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 5698**]
+     Reason: r/o hepatoma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with cirrhosi and HCV, need screeing abd us
+     REASON FOR THIS EXAMINATION:
+      r/o hepatoma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of HCV.
+     
+     FINDINGS:  The liver is diffusely heterogeneous in echotexture and mildly
+     nodular in contour.  No focal liver lesions are identified.  There is no
+     intrahepatic or extrahepatic ductal dilatation.  The common bile duct measures
+     5 mm.  There is normal hepatopetal flow in the main portal vein.  There is
+     splenomegaly, with a splenic measurement of 18.5 cm.  There is mild
+     perisplenic varices.
+     
+     CONCLUSION:
+     
+     Heterogeneous liver with slightly nodular contour and splenomegaly is
+     consistent with cirrhosis.  No liver lesions are identified.
+     
+
+",,
+14031,,,,3086-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-8**] 9:36 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 5700**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: LIVER CIRRHOSIS
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Liver cirrhosis and hepatitis-C.
+     
+     COMPARISON:  Abdominal ultrasound study of [**3086-11-8**].
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     following the administration of oral contrast and 150 cc of Optiray.  In
+     addition, a multiphasic study of the liver was performed.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  The liver is normal in
+     appearance.  The small hypoechoic lesion in the right lobe of the liver
+     identified on the ultrasound study of the same day is not seen on multiphasic
+     liver imaging, and is likely a regenerative nodule.  There is recanalization
+     of the para-umbilical vein.  The spleen is enlarged.  The pancreas, adrenal
+     glands, and kidneys are normal in appearance.  Both kidneys enhance
+     symmetrically.  There is no free air or free fluid in the pelvis. There is a
+     dilated distal esophagus, with prominent esophageal varices present.  The
+     opacified stomach, small and large bowel loops are unremarkable. There is
+     significant collateralization of the omental vessels.  There is splenomegaly.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectosigmoid colon, bladder, distal
+     ureters, and uterus are normal.  There is a small amount of free fluid in the
+     pelvis.  No free air is identified.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.  There is a small bone
+     island in the vertebral body of L5 on the left.  There is sclerosis of the
+     left S1 joint posteriorly.
+     
+     IMPRESSION:
+     1.  Splenomegaly.
+     2.  No liver lesions identified.  The hypoechoic lesion seen on the ultrasound
+     study of [**3086-11-8**] in the right lobe is therefore likely a small
+     regenerative nodule.
+     3.  Esophageal varices, with recanalized para-umbilical vein and omental
+     collaterals.
+     
+
+",,
+14031,,,,3086-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-8**] 7:30 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 5699**]
+     Reason: LIVER CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      liver cirrhosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  65 year-old woman with liver cirrhosis.
+     
+     COMPARISON:  [**3084-10-17**].
+     
+     ABDOMINAL ULTRASOUND STUDY:  Diffusely echogenic liver, not significantly
+     changed from the prior study, and consistent with the patient's known history
+     of hepatitis C.  There is a relative hypoechoic nodule in the right lobe of
+     the liver measuring 1.1 x 1.2 x 0.7 cm, without a hypoechoic rim or without
+     increased vascularity.  The patient is scheduled for a CT of the abdomen, and
+     attention to this region should be pain.
+     
+     The gallbladder is not visualized, consistent with the patient's history of a
+     cholecystectomy.  The main portal vein is patent and flow is hepatopetal.  The
+     left and right branches of the main portal vein are also patent, with normal
+     flow.  The right kidney measures 8.7 cm in length, and the left kidney
+     measures 9.3 cm in length.  No renal stones, masses, or hydronephrosis.  The
+     spleen is enlarged measuring 18.2 cm, not significantly changed from the prior
+     study.
+     
+     IMPRESSION:  1)  Echogenic liver consistent with patient's known history of
+     hepatitis C.
+                  2)  Small hypoechoic nodule in the right lobe of the liver
+     could represent a regenerative nodule,however HCC cannotbe excluded. The
+     patient is scheduled for a CT study today, and attention to this region is
+     recommended.
+                  3)  Splenomegaly unchanged.
+     
+
+",,
+14031,,,,3086-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-8**] 9:36 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 5700**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: LIVER CIRRHOSIS
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Liver cirrhosis and hepatitis-C.
+     
+     COMPARISON:  Abdominal ultrasound study of [**3086-11-8**].
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     following the administration of oral contrast and 150 cc of Optiray.  In
+     addition, a multiphasic study of the liver was performed.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  The liver is normal in
+     appearance.  The small hypoechoic lesion in the right lobe of the liver
+     identified on the ultrasound study of the same day is not seen on multiphasic
+     liver imaging, and is likely a regenerative nodule.  There is recanalization
+     of the para-umbilical vein.  The spleen is enlarged.  The pancreas, adrenal
+     glands, and kidneys are normal in appearance.  Both kidneys enhance
+     symmetrically.  There is no free air or free fluid in the pelvis. There is a
+     dilated distal esophagus, with prominent esophageal varices present.  The
+     opacified stomach, small and large bowel loops are unremarkable. There is
+     significant collateralization of the omental vessels.  There is splenomegaly.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectosigmoid colon, bladder, distal
+     ureters, and uterus are normal.  There is a small amount of free fluid in the
+     pelvis.  No free air is identified.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.  There is a small bone
+     island in the vertebral body of L5 on the left.  There is sclerosis of the
+     left S1 joint posteriorly.
+     
+     IMPRESSION:
+     1.  Splenomegaly.
+     2.  No liver lesions identified.  The hypoechoic lesion seen on the ultrasound
+     study of [**3086-11-8**] in the right lobe is therefore likely a small
+     regenerative nodule.
+     3.  Esophageal varices, with recanalized para-umbilical vein and omental
+     collaterals.
+     
+
+",,
+14031,,,,3086-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-8**] 9:36 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 5700**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: LIVER CIRRHOSIS
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Liver cirrhosis and hepatitis-C.
+     
+     COMPARISON:  Abdominal ultrasound study of [**3086-11-8**].
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     following the administration of oral contrast and 150 cc of Optiray.  In
+     addition, a multiphasic study of the liver was performed.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  The liver is normal in
+     appearance.  The small hypoechoic lesion in the right lobe of the liver
+     identified on the ultrasound study of the same day is not seen on multiphasic
+     liver imaging, and is likely a regenerative nodule.  There is recanalization
+     of the para-umbilical vein.  The spleen is enlarged.  The pancreas, adrenal
+     glands, and kidneys are normal in appearance.  Both kidneys enhance
+     symmetrically.  There is no free air or free fluid in the pelvis. There is a
+     dilated distal esophagus, with prominent esophageal varices present.  The
+     opacified stomach, small and large bowel loops are unremarkable. There is
+     significant collateralization of the omental vessels.  There is splenomegaly.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectosigmoid colon, bladder, distal
+     ureters, and uterus are normal.  There is a small amount of free fluid in the
+     pelvis.  No free air is identified.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.  There is a small bone
+     island in the vertebral body of L5 on the left.  There is sclerosis of the
+     left S1 joint posteriorly.
+     
+     IMPRESSION:
+     1.  Splenomegaly.
+     2.  No liver lesions identified.  The hypoechoic lesion seen on the ultrasound
+     study of [**3086-11-8**] in the right lobe is therefore likely a small
+     regenerative nodule.
+     3.  Esophageal varices, with recanalized para-umbilical vein and omental
+     collaterals.
+     
+
+",,
+14031,7671,,,3086-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-18**] 4:49 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 5702**]
+     Reason: n/v, r/o obstruc
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      n/v, r/o obstruc
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEWS ABDOMEN.
+     
+     INDICATIONS:  Nausea and vomiting.
+     
+     SUPINE AND UPRIGHT ABDOMINAL RADIOGRAPHS:  There is no evidence of free air.
+     There is a single prominent loop of small bowel in the mid abdomen with a
+     single air-fluid level.  The loop is not pathologically dilated.  Air is seen
+     in the colon and to the level of the rectum.
+     
+     IMPRESSION:  No evidence of obstruction.
+
+",,
+14031,7671,,,3086-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-18**] 5:45 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 5704**]
+     Reason: please check for ascites and mark for paracentesis          
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 F hep c cirrhosis w/ abd pain, fever, white count. r/o sbp.                 
+     REASON FOR THIS EXAMINATION:
+      please check for ascites and mark for paracentesis                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fever s/p cystoscopy 1 day earlier. History of Hep B cirrhosis.
+     Distended abdomen. Also, ? of paraumbilical hernia.
+     
+     FINDINGS: Ultrasound images in all 4 quadrants reveal a small amount of pelvic
+     free fluid within the midline. No ascites is seen in the lateral lower
+     quadrants or in the upper quadrants adjacent to the liver and/or spleen.
+     
+     A small fluid collection is seen at the site of the umbilicus is consistent
+     with that identified on recent CT exam. No bowel is seen to herniate at this
+     location. The small fluid collection measures 2.4 by .7 by 3.5 cm.
+     
+     IMPRESSION:
+     1) Small amount of pelvic free fluid in the midline, difficult to drain at the
+     bedside. If clinically indicated, ultrasound guided aspiration in the
+     ultrasound department during working hours is recommended.
+     2) No anterior abdominal wall hernia. Small likely seroma/cyst adjacent to the
+     umbilicus, as seen on previous CT scan of [**3086-11-8**].
+
+",,
+14031,7671,,,3086-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-18**] 4:48 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5701**]
+     Reason: fever, r/o infil
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      fever, r/o infil
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Fever and chills.
+     
+     PA AND LATERAL CHEST:  Comparison is made with [**3085-12-8**].  Heart size,
+     mediastinal contours, and pulmonary vasculature are within normal limits.  No
+     pleural effusions.  The lung parenchyma is clear.  Osseous structures are
+     unremarkable.
+     
+     IMPRESSION:  No evidence of pneumonia.
+
+",,
+14031,7671,,,3086-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-18**] 6:49 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 5703**]
+     Reason: line placement left IJ, r/o ptx, eval line
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      line placement left IJ
+      r/o ptx, eval line
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Line placement.
+     
+     AP CHEST:  Comparison is made to the study from two hours earlier.  The newly
+     inserted right internal jugular central venous line tip is in the distal SVC
+     in satisfactory position.  There is no pneumothorax.  The appearance of the
+     heart and lungs is unchanged in the short interval since the prior study.
+
+",,
+14031,7671,,,3086-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-18**] 6:49 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 5703**]
+     Reason: line placement left IJ, r/o ptx, eval line
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      line placement left IJ
+      r/o ptx, eval line
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Line placement.
+     
+     AP CHEST:  Comparison is made to the study from two hours earlier.  The newly
+     inserted right internal jugular central venous line tip is in the distal SVC
+     in satisfactory position.  There is no pneumothorax.  The appearance of the
+     heart and lungs is unchanged in the short interval since the prior study.
+
+",,
+14031,7671,17449,0,3086-11-18 18:48:00 EST,3086-11-18 19:02:00 EST,2807,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Events: admitted to Micu at 1520 on Sepsis MUST Protocol
+
+Neuro: A&O, based on translation of son since pt only speaks Russian, MAE's, follows commands with physical prompting, denies any pain except in her abdomen, which is currently being worked up by team
+
+CV: HR 50-60's, ABP 110-130/50-70's NSR no ectopy with MAP's >65,  Levophed titrated off, +PP/csm, awaiting MgSO4 from pharmacy to replete, 1800 labs sent/pending per protocol
+
+Resp: LS coarse, RR 16, Sats 99-100% on 2L via NC, pt rc'd albuterol neb at 1600 with little effect (and requires a great deal of encouragement to complete) and is due again at 2000 per HO
+
+GI: +bs/flatus, no stool this shift, abdoment soft/distended ?ascites, Abdominal US done
+
+GU: u/o amber and clear, 40-70cc/hr
+
+Integ: warm/dry/intact
+
+Endo: 1800 fs 105, covered by RISS
+
+Social: pt only speaks Russian, lives with son, [**Doctor First Name 5605**], and receives services from VNA qMonday and has a Home Health Aide also
+
+Code: full
+",,
+14031,7671,17449,,3086-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-19**] 2:58 PM
+     PARACENTESIS DIAG. OR THERAPEUTIC; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 5706**]
+     Reason: Needs diagnostic/theraputic tap                             
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with cirrhosis and new ascites                                
+     REASON FOR THIS EXAMINATION:
+      Needs diagnostic/theraputic tap                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: New ascites. Fever.
+     
+     ULTRASOUND GUIDED PARACENTESIS: Written and, signed informed consent were
+     obtained from the patient, via translation. Grayscale ultrasound was used to
+     identify a suitable pocket of fluid within the right lower quadrant. The
+     overlying skin was prepped draped in sterile fashion and 1% lidocaine was
+     infiltrated into the subcutaneous tissue. A 19 gauge [**Last Name (un) 2233**] needle was then
+     inserted after sterilization of the skin surface, and approximately 900 cc of
+     straw colored fluid was withdrawn. Samples were sent for the requested
+     studies. The patient tolerated the procedure satisfactorily and there were no
+     immediate complications.
+     
+     IMPRESSION: Technically successful ultrasound guided paracentesis.
+
+",,
+14031,7671,17449,,3086-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-19**] 9:00 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 5705**]
+     Reason: 65 yr old with class B cirrhosis presents with fever of 102 
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      see above
+     REASON FOR THIS EXAMINATION:
+      65 yr old with class B cirrhosis presents with fever of 102 and urinary
+      infection.  Want to rule out ascites fluid - had u/s and ct performed on
+      [**3086-11-8**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cirrhosis and fever.
+     
+     ABDOMINAL ULTRASOUND:  Moderate free fluid is seen within the bilateral lower
+     quadrants, new in comparison to recent prior CT scan [**3086-11-8**]. The liver has a
+     somewhat heterogeneous echotexture without evidence of focal mass. There is no
+     intra or extrahepatic biliary ductal dilatation.
+     
+     IMPRESSION:  New ascites. Findings were discussed with the clinical team at
+     the time of the study.
+
+",,
+14031,7671,17449,,3086-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-19**] 2:58 PM
+     PARACENTESIS DIAG. OR THERAPEUTIC; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 5706**]
+     Reason: Needs diagnostic/theraputic tap                             
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with cirrhosis and new ascites                                
+     REASON FOR THIS EXAMINATION:
+      Needs diagnostic/theraputic tap                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: New ascites. Fever.
+     
+     ULTRASOUND GUIDED PARACENTESIS: Written and, signed informed consent were
+     obtained from the patient, via translation. Grayscale ultrasound was used to
+     identify a suitable pocket of fluid within the right lower quadrant. The
+     overlying skin was prepped draped in sterile fashion and 1% lidocaine was
+     infiltrated into the subcutaneous tissue. A 19 gauge [**Last Name (un) 2233**] needle was then
+     inserted after sterilization of the skin surface, and approximately 900 cc of
+     straw colored fluid was withdrawn. Samples were sent for the requested
+     studies. The patient tolerated the procedure satisfactorily and there were no
+     immediate complications.
+     
+     IMPRESSION: Technically successful ultrasound guided paracentesis.
+
+",,
+14031,7671,17449,0,3086-11-19 06:19:00 EST,3086-11-19 06:37:00 EST,2434,"N",69,"Nursing/Other","Nursing Note-","
+Nursing Note-
+65 yr old admitted with ? urosepsis on levo and vanco.
+
+CV- Hr 50s sb, no ectopy, bp labile; when awake syst 140s, when aseep, drops to the mid 80s, levophed drip restarted, also bolus with fluids total 1.5L with good effect, levo able to be weaned off at 0515. Sbp 100 - 120s. CVp 14 - 18, svo2 70s.
+
+N- Pt speaks [**Last Name (LF) **], [**First Name3 (LF) 17**] son at the beginning of shift, pt alert and oriented x3, no pain anywhere, she was instructed to inform the staff if she is having discomfort, slept most of shift. Afebrile.
+
+Resp- Bil ls clear, coarse at bases, rr 17 - 24, sats 99 - 100% on O2 2l.
+
+GI- Abd distended, soft, no stool, sips of water overnight. 
+
+GU- foley in place voiding cl amber colored urine; 30 -40cc/o.
+
+Skin- Warm, dry and intact.
+
+Social- Son [**Name (NI) 5606**] was updated on her progress.
+
+Plan- Maintain MAP>65, ?whether pt is intravacularly dry, bolus with flds for hypotensive episodes. 
+",,
+14031,7671,,,3086-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-11-21**] 10:32 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5707**]
+     Reason: Please eval for CHF/pna                                     
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with new onset SOB                                           
+     REASON FOR THIS EXAMINATION:
+      Please eval for CHF/pna                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST TWO VIEWS PA AND LATERAL
+     
+     HISTORY:  New onset shortness of breath.
+     
+     Heart size is normal. No evidence for CHF. Possible linear atelectasis at the
+     left base, but the lungs are otherwise clear and there are no pleural
+     effusions.
+     
+     IMPRESSION:  No evidence for pneumonia or CHF. Linear atelectasis left base.
+
+",,
+14031,,40126,0,3090-10-09 04:35:00 EST,3090-10-09 04:37:00 EST,4038,"N",54,"Nursing/Other",,"
+
+Resp: Rec'd pt intubated 7.0, retaped and secured @ 20 lip, transfer from pacu. Vent settings a/c 20/33/0+5/50%. BS are coarse bilaterally and suctioning for copious amounts of thick yellow secretions. Am ABG 7.46/50/113/37. RSBI=126. Plan to wean as tolerated. 
+",,
+14031,,40126,0,3090-10-09 04:51:00 EST,3090-10-09 05:16:00 EST,8919,"N",54,"Nursing/Other","Nursing Admission Note:","
+Nursing Admission Note:
+NKDA
+
+FULL CODE
+
+CONTACT PRECAUTIONS for recent h/o C. diff at [**Hospital1 **]/? treated here for C. diff
+
+Please admission history/FHP; son [**Name (NI) 5607**] HCP
+
+NEURO: pt lightly sedated on propofol 40mcg/kg/min; will open eyes spontaneously and to pain; does not follow commands as pt is Russian speaking only; PERL, pupils 4mm and brisk bilaterally; appears in no pain, morphine available prn
+
+CV: HR NSR no ectopy; ABP and SBP correlating; ABP 124-107, MAP >60; HCT stable at 26.7, from 26.6 in PACU, no order to transfuse; EBL 250; +PP/RP; no edema noted; lytes pending; INR elevated @ 2; venodynes in place; CVP 11-12
+
+RESP: pt vented on  AC 50%/330/20/5, may make vent changes this am d/t ABG results; LS clear at apices, dim at bases; suctioned for copious amt thick yelowish-tan secretions, lavaged x1; OETT rotated and retaped on admission to MICU; sputum culture sent, lactate 2.1; sats 97%
+
+GI/GU: +hypoactive BS, abd with ascites and huge umbilical hernia; NPO; no OGT placed d/t varices; bleeding gums; foley in place draining clear amber urine, BUN/cr WNL; ordered for lactulose enemas until able to take lactulose PO/NGT
+
+ACCESS: TLC and art line WNL
+
+SKIN: ecchymotic area inner left thigh and peri area d/t hip surgery; hip incision with elastoplast dsd cdi; peri area and buttocks with fungal rash, ordered for miconazole powder and awaiting from pharmacy
+
+POC: probably will hold off on extubation given copious secretions/pna; frequent suctioning; follow HCT replete lytes prn; may place NGT today, will consult GI; follow sputum culture, cont vanco and zosyn; pain mgt as needed
+",,
+14031,,40126,0,3090-10-09 14:07:00 EST,3090-10-09 14:25:00 EST,3789,"N",54,"Nursing/Other","FOCUS; NURISNG PROGRESS NOTE","
+FOCUS; NURISNG PROGRESS NOTE
+69 YEAR OLD RUSSIAN SPEAKING FEMALE WITH HEP C C/W ASCITES, VARICES, SBP. SHE WAS ADMITTED [**10-1**] WITH ABD PAIN AND DECREASED NS. SHE HAD FALLEN 10 DAYS PRIOR AND FX HER LEFT FINGER. ONCE MS IMPROVED ON LACTULOSE SHE C/O OF LEFT HIP PAIN. XRAY AND MRI OF HIP SHOWED LEFT HIP FX INTERTROCHANTERIC. SHE WENT TO THE OR ON [**10-8**] FOR PINNING. CXR ON ADMISSION WAS NEG. SHE WAS TX WITH LEVO AND FLAGYL FOR ? ASP PNA. POST OP SHE HAD THICK TAN SECRETIONS. SHE WAS BRONCED AND LEFT INTUBATED. BRONCH GREW GPC IN PRS AND CLUSTERS. SHE WAS PLACED ON VANCO AND ZOSYN. 
+REVIEW OF SYSTEMS-
+NEURO- THIS AM SHE WAS SEDATED ON 60MCGS/KG/MIN OF PROPOFOL. THIS WAS SHUT OFF THIS AM FOR DAILY WAKEUP. SHE DOES NOT OBEY COMMANDS BUT IS NOT ENGLISH SPEAKING. SHE TRACKS. MAE. ASSISTS WITH TURNS. PROPOFOL WAS RESTARTED AFTER DAILY WAKEUP AND THEN LATER DC'D FOR WEAN TO EXTUBATE. SHE IS PRESENTLY OFF ALL SEDATION. SHE APPEARED UNCOMFORTABLE WITH TURNING. WAS MED X1 WITH 2MG IV MSO4 WHICH MADE HER LOOK MUCH MORE COMFORTABLE AS EVEIDNCED BY HER LYING IN BED WITH HER EYES CLOSED. 
+RESP- SHE IS INTUBATED AND VENTED. WAS WEANED TO SBP FOR 2 HOURS. ON THIS SHE WAS BREATHING IN MID 20'S WITH TV LOW 300'S. ABG 1 HOUR INTO TRIAL 7.42/52/87/35. SHE HAS A COUGH BUT DOES NOT COUGH SEDCRETIONS UP HER ETT. MIN GAG. MICU TEAM MADE AWARE. THEY WILL TALK WITH DR [**Last Name (STitle) 142**] FOR ? EXT. FOR TIME BEING SHE IS ON PS 5 PEEP AND 50% FI02. BS ARE COARSE UPPER DIMINISHED AT THE BASES. 
+CARDIAC-0 HR 70-80'S NSR WITHOUT ECTOPI. SBP 113-142. K THIS AM 3.4. WAS TX WITH A TOTAL OF 80MEQ IV. HAD CARDIAC ECHO DONE TODAY TO ASSESS HEART FUNCTION. 
+GI- ABD WITH ASCITES. LARGE UMBILICAL HERNIA. POS BS. HAS NO GI ACCESS. NO PO MEDS ADMINISTERED. DR [**Last Name (STitle) 5608**] MADE AWARE. IF NOT EXTUBATED TEAM WILL PLACE DOBOFF AS OK PER GI PER DR [**Last Name (STitle) 5608**]. RECEIVED 1 LACTULOSE ENEMA WITH ENEMA LOOKING RETURNS. MIN STOOL. ON TID LACTULOSE ENEMAS. ONCE ABLE TO TAKE POS'S IF EXTUBATED ON HAS DOBOFF MAY CHANGE TO LACTULOSE PO. 
+GU- FOLEY PATENT DRAINING AMBER CLEAR URINE AT 40-100CC/HR. IS NEG 200CC SO FAR TODAY. ON BID IV LASIX. NEXT DOSE DUE AT 1600. 
+HEME- HCT STABLE AT 26.5. INR STABLE AT 2.0. STARTED ON ENOXAPRIM 30MG Q 12 HOURS TODAY. 
+ID- TEMP MAX 99.8. WBC 8.3. CONT ON VANCO AND ZOSYN. 
+SKIN- HAS HALF CAST ON LEFT ARM. FINGERS WITH GOOD PERFUSION. HAS ELASTOPLAST DRESSING ON LEFT HIP. C AND D. ORTHO BY. WEA RE NOT TO CHANGE DRESSSING. THEY WILL CHANGE IN AM. HAS YEAST RASH IN GROIN. MYCOSTATIN POWDER APPLIED. HAS ECCHYMOSIS ON ARMS. 
+SOCIAL- NO CONTACT WITH FAMILY SO FAR TODAY. DR [**Last Name (STitle) 5608**] WAS TO CALL AND UPDATE PATIENT'S SON THIS AFTERNOON. 
+ACCESS- RIJ TRIPLE LUMEN CATH AND RIGHT RAD ALINE. 
+DISPO- IN MIUC A FULL CODE. 
+PLAN- ? EXTUBATE TODAY. IF EXTUBATED WILL HOPEFULLY BE ABLE TO TAKE POS'S LATER TODAY. IF NOT EXTUBATED TEAM NEEDS TO PLACE DOBOOF FOR MEDS. 
+",,
+14031,,40126,0,3090-10-09 18:48:00 EST,3090-10-09 18:49:00 EST,3789,"N",54,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+RESP- EXTUBATED AT 1730 AND PLACED ON 50% COOL NEB. SATS IN THE MID 90'S. ABG TO BE DRAWN.  
+",,
+14031,,40126,0,3090-10-10 03:31:00 EST,3090-10-10 04:49:00 EST,9034,"N",54,"Nursing/Other",,"
+
+PT. REMAINS A FULL CODE AT THIS TIME.
+
+PT. HAS NKDA.
+
+PT. HAS HAD AN UNEVENTFUL SHIFT. PT. REMAINS AFEBRILE WITH TMAX OF 99.3. PT. IS RUSSIAN SPEAKING ONLY. AND, THEREFORE DOESN'T FOLLOW COMMANDS. PT. IS NOTED TO MAE'S. 
+
+PT. HAS REMAINED NSR 70-90'S WITH NO NOTED ECTOPY. B/P HAS BEEN 94-110/40-50'S. PT. HAS RIGHT RADIAL ALINE WHICH IS DAMPENED AT TIMES BUT IS FUNCTIONING. CVP MONITORED [**1-29**]. PULSES ARE WEAK BUT EASILY PALPABLE. PT. HAS A HALF CAST TO LEFT LOWER ARM. CIRCULATION TO THIS EXTREMITY IS WNL'S. 
+
+PT. WAS SUCCESSFULLY EXTUBATED YESTERDAY AFTER REMAINING INTUBATED POSTOP DUE TO EXCESSIVE SECRETIONS. PT. REMAINS ON A 50% HUMIDIFIED FACE SHOVEL, WITH O2 SATS >95% PT'S LUNG SOUNDS REMAIN UNCHANGED AND ARE COARSE FROM MID TO UPPER LOBE AND BIBASILAR DIMINISHED. PT. DOES HAVE A COUGH, BUT REMAINS UNPRODUCTIVE AT THIS TIME. 
+
+PT. REMAINS NPO EXCEPT FOR MEDS. ABD, IS DISTENDED WITH ASCITIES. PT. HAS UMBILICAL HERNIA, WHICH IS PROTRUDING AT PRESENT. BOWEL SOUNDS ARE EASILY AUDIBLE AND PT. GETS LACTULOSE ENEMA WHICH HAS ONLY RETURNED MINIMAL STOOL. BLOOD SUGARS ARE SLIGHTLY ELEVATED WITH SMALL AMT'S OF COVERAGE GIVEN. PT. HAS FOLEY CATHETER WHICH IS DRAINING >35CC/HR OF CLEAR AMBER URINE. 
+
+SKIN EXHIBITS DRESSING TO LEFT OUTTER THIGH WHICH REMAINS D&I AT THIS TIME. WE ARE INSTRUCTED NOT TO CHANGE THIS DRESSING AS SURGERY WILL. PT. HAS RIGHT IJ TLC. PERINEUM AND COCCYX IS VERY VERY REDDENED AND INFLAMED. PT. IS BEING TREATED FOR YEAST WITH MICONAZOLE POWDER AND CREAM.
+
+PT. SOCIAL ASPECTS INCLUDE SON [**Doctor Last Name **] WHICH HAS TO BE REMINDED OF ICU PROTOCOL'S. HE IS QUITE AGITATED AND HAS BEEN NOTED ON PREVIOUS ADMISSIONS TO GET UPSET WITH PT'S CARE ISSUES. 
+
+PLAN IS TO WEAN O2. FREQUENT CHEST PT.                  
+",,
+14031,,40126,0,3090-10-10 17:15:00 EST,3090-10-10 17:42:00 EST,4306,"N",54,"Nursing/Other","Nursing Note: 0700-1900","
+Nursing Note: 0700-1900
+Able to wean O2 to n/c.
+
+Called out to floor.
+
+
+NEURO: Alert/unable to determine orientation due to language barrier. Able to d/c restraints as no indication of pulling of lines. Moving upper extrems. 
+
+RESP: O2 @ 2L n/c maintaining sats high 90s. LS coarse at times/diminished at bases. RR 20s. 
+
+C/V: HR 60s-70s, SR. ABP 90s-110s and correlating with NBP. Lasix on sched. Left leg edema secondary to surgical procedure. 
+
+GI/GU: Tolerating PO meds without difficulty. Mushroom cath inserted for liquid stool; Lactulose now given PO. U/O marginal at times but adaquate.
+
+ID: Afebrile.
+
+SKIN: Excoriated peri area; barrier ointment applied. Staples at left hip intact; dsg can be changed QD.
+
+DISPO: Full code; contact precautions for MRSA in sputum; no contact from family today. 
+",,

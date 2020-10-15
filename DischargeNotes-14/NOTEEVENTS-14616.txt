@@ -1,0 +1,386 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14616,8835,,,2777-12-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2777-12-13**]              Discharge Date:   [**2777-12-27**]
+ 
+Date of Birth:  [**2717-5-1**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5688**] 
+Chief Complaint:
+Complex recurrent incisional hernias of the abdomen.
+Recurrent colon cancer
+ 
+Major Surgical or Invasive Procedure:
+1.  Incisional hernia repair with SurgiSIS.
+2.  Completion colectomy by Dr. [**Last Name (STitle) 84**].
+3.  Aspiration right renal cyst.
+4.  PICC line placement
+
+Open total colectomy, ventral hernia repair with mesh
+
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 10957**] is a 60-year-old white male status post colorectal 
+cancer 
+both in [**2762**] for which he underwent a left colon cancer 
+resection 
+for stage III colon cancer. He recieved chemotherapy 5-FU and 
+leucovorin. In [**2769**], he also underwent additional resection, a 
+low anterior resection, for rectal cancer per the patient's 
+report. He was in his usual state of health until [**11-23**] 
+and he underwent his routine interval colonoscopy which was 
+noted to have a right colon mass in the cecum as well as a polyp 
+at the rectosigmoid junction. Pathology noted from outside 
+hospital, the right cecal mass to be consistent with 
+adenocarcinoma and the polypectomy specimen to be consistent 
+with dysplasia. Recent CEA notes range anywhere from 4.2-4.9. 
+The patient was referred from his primary care provider to Dr. 
+[**Last Name (STitle) **] and Dr. [**Last Name (STitle) 84**] for evaluation of possible laparoscopic 
+intervention of his right-sided colon cancer. 
+
+ 
+Past Medical History:
+1991 colon cancer, stage III.
+Treated with chemo and surgery in [**2769**], low anterior resection 
+for rectal cancer.
+History of urinary retention, as a result of nerve injury 
+secondary to his low anterior resection.
+NIDDM 
+Impotence. A left hemicolectomy in [**2762**], ventral 
+hernia repair with mesh in [**2763**], low anterior resection in [**2769**]. 
+
+Borderline hypertension. 
+
+ 
+Social History:
+A heavy smoker, 2-3 packs per day for 20 years, quit in April of 
+06. Denies heavy alcohol use. He reports approximately two 
+drinks per week. Denied 
+illicit drugs or any other drug abuse. He is employed as an 
+insurance [**Doctor Last Name 11**]. He is divorced. He has a one biological 
+daughter.  
+
+ 
+Family History:
+NC
+ 
+Physical Exam:
+VSS: T: 96.7 P: 84, RR 16, spo2 100% on RA, BP 112/62
+5 feet 10 inches, his weight is 194 pounds
+
+General Appearance: No apparent distress. A well-appearing 
+60-year-old man. Psychiatric history: is AO x3.  
+Eyes: Pupils equal, round, reactive to light. Extraocular 
+muscles intact. His sclerae anicteric. ENT exam with normal.  
+Neck: No mass. 
+Lymph System: Negative. 
+Respiratory System: Clear to auscultation bilaterally. 
+Cardiac Exam: Regular rate and rhythm. No murmurs, rubs, or 
+gallops. He had no bruits per his carotid exam, normal 
+pulsations in his upper and lower 
+extremities. 
+GI system: soft, nontender, no masses palpable. On Valsalva, he 
+has a large ventral hernia in the midline, multiple well-healed 
+scars. Again, no masses palpated. Rectal exam has poor tone, 
+heme negative. No mass. 
+Neuro: Cranial nerves II through XII grossly intact. 
+Musculoskeletal: good strength and range of motion in all four 
+extremities. Skin: Within normal limits. 
+ 
+
+ 
+Pertinent Results:
+[**2777-12-27**] 04:22AM BLOOD PT-12.8 INR(PT)-1.1
+
+ECHO results:
+IMPRESSION: Normal global and regional LV systolic function. 
+Mild mitral  
+regurgitation.  
+. 
+CLINICAL IMPLICATIONS:  
+The patient has mild mitral regurgitation.  
+Based on 1997 AHA endocarditis prophylaxis recommendations, the 
+echo findings  
+indicate a moderate risk (prophylaxis recommended). Clinical 
+decisions  
+regarding the need for prophylaxis should be based on clinical 
+and  
+echocardiographic data.  
+ . 
+
+Cytology Report RT RENAL CYST Procedure Date of [**2777-12-13**] 
+ . 
+SPECIMEN DESCRIPTION: Received 25ml clear yellow fluid. 
+  Prepared 1 ThinPrep slide. 
+  
+CLINICAL DATA: Colon cancer. 
+REPORT TO: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **] 
+.  
+DIAGNOSIS: FNA, right renal cyst, aspiration: 
+ .   
+  NEGATIVE FOR MALIGNANT CELLS. 
+ .   
+  Hypocellular specimen. 
+ .   
+  Few scattered macrophages (see Note). 
+ .   
+  Note: The findings are compatible with cyst contents; 
+  however, epithelial elements are not represented. Clinical 
+  correlation is recommended 
+.
+UNDERLYING MEDICAL CONDITION:
+60 year old man s/p total colectomy, POD 8 now with nausea and 
+vomiting. 
+REASON FOR THIS EXAMINATION:
+evaluate for obstruction 
+INDICATION: Status post total colectomy, postop day 8, now with 
+nausea and vomiting. Evaluate for obstruction.
+.
+ABDOMEN, SUPINE AND ERECT: There are multiple loops of dilated 
+small bowel with air-fluid levels. An NG tube is in place in the 
+stomach. Surgical clips are visualized in the lower midline.
+.
+There are areas of calcification overlying the region of the 
+pubic symphysis which may represent calcification in the 
+prostate gland or stones in the bladder.
+.
+IMPRESSION: Multiple dilated small bowel loops which may 
+represent ileus or small bowel obstruction.
+.
+[**2777-12-24**] 9:05 am URINE     Site: CATHETER
+
+                            **FINAL REPORT [**2777-12-26**]**
+
+   URINE CULTURE (Final [**2777-12-26**]): 
+      PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML.. 
+         OF TWO COLONIAL MORPHOLOGIES. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CIPROFLOXACIN---------     2 I
+GENTAMICIN------------     8 I
+IMIPENEM--------------     8 I
+MEROPENEM-------------     2 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname 10957**] was admitted on [**2777-12-13**] for scheduled open total 
+colectomy and ventral hernia repair with mesh, see Op note for 
+details. He was transferred to PACU post-op and was extubated. 
+He recovered well and was transferred to [**Hospital Ward Name 455**] 9. 
+.
+Abdomen: POD #1 Abdominal binder was in place with clean dry 
+dressings intact. An intact JP #1 drained adequate output from 
+the RLQ and JP #2 drained serosainguinous fluid from the LLQ. 
+The incision remained well approximated with staples and no 
+drainage. NGT was in place post-op, and removed on POD#1. Flatus 
+was noted on POD #4. Bowel movement occurred on POD#5. JP #1 was 
+removed on POD #6. POD#8, first small loose bowel movement. 
+Frequent loose stools developed over the next 24 hours, he was 
+treated with immodium prn with fair results. On POD #8, NGT was 
+reinserted due to development of ileus, when 1000 cc of green 
+drainage was rapidly evacuated. C. Diff was negative x3. He was 
+held NPO, and KUB obtained, see pertinent results. 
+On POD #13, NGT was removed, patient tolerated well. Bowel 
+function resumed on POD#13 with Staples were removed on POD#12, 
+incision remained C/D/I, abdomen soft and nontender. JP #2 was 
+removed on POD#15.
+.
+Pain: Epidural PCA was used with fair effect from HD#1 until POD 
+#4. He was then transitioned to percocet po for pain control, 
+with IV morphine injections for breakthrough pain until POD#7. 
+Patient reported minimal post-op pain, and required no po 
+narcotics after POD#8. 
+.
+Cardiovascular: Pt was stable in NSR until POD #5 when he 
+developed atrial fibrillation. A cardiology consult was 
+obtained. He was transferred to SICU for amiodarone drip. He 
+converted to normal sinus rhythm, was transferred to CC6 and 
+started on oral amiodarone. A TTE was performed, see pertinent 
+results. He was monitored on telemetry, with intervals of afib, 
+converting back to NSR over the next few POD days. He recieved 
+lopressor IV until POD# 12, which he initially refused when he 
+was immediately post-op. Coumadin was initiated and recommended 
+by cardiology for 1 month. Amiodarone was continued po, and 
+recommended for 3 months. He remained in NSR at the time of 
+discharge.
+.
+Genitourinary: Foley catheter was in place until POD#7, when it 
+was initially dc'd. The patient triggered on POD#7, related to 
+low urine output of 45 cc over 4 hours. 
+Foley was replaced, and output improved with fluid boluses. On 
+POD#13, urine culture revealed pseudomonas, and cefipime IV was 
+initiated, and continued at home after DC x 7 days total. Foley 
+was left in place to leg bag for discharge home. 
+.
+Respiratory: Patient was on 2L nasal cannula O2 immediately 
+post-op and weaned by POD#7. Upon development of ileus, O2 sats 
+dropped and he was replaced on O2 4L to keep sats> 92%. On 
+POD#10, patient was weaned to RA. 
+.
+Activity: Pt was up to the chair on POD#1 and ambulating halls 
+POD#2. He remained active throughout his admission. 
+.
+Nutrition: TPN was started due to prolonged NPO status as a 
+result of ileus. He recieved TPN from POD#10 until POD#12. His 
+diet was advanced and he tolerated a regular diet on POD#13. 
+.
+He was discharged to home on POD#14 with appropriate follow up 
+appointments and VNA service for IV antibiotics. 
+
+ 
+Medications on Admission:
+Flomax 0.4 mg po BID
+Aspirin 81 mg po qd
+Avandia 8 mg po qd
+Metformin 1000 mg po qam, 15oo mg po qpm
+Lipitor 5 mg po qhs
+Lisinopril 5 mg po qd 
+Androgel applied daily
+
+ 
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+2. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1) 
+Capsule, Sust. Release 24HR PO HS (at bedtime).  
+3. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+4. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+5. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+6. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+7. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+8. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day): until [**2778-1-7**] (then take 200mg once daily).
+Disp:*20 Tablet(s)* Refills:*0*
+9. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily): take until directed to stop by primary care physician 
+(~3 month course).
+Disp:*90 Tablet(s)* Refills:*0*
+10. Cefepime 1 g Recon Soln Sig: One (1) gram Intravenous  Q12H 
+(every 12 hours) for 5 days.
+Disp:*10 gram* Refills:*0*
+11. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+Disp:*QS x 5 days mL* Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Right colon cancer
+S/P Open total colectomy, ventral hernia repair with mesh
+Atrial Fibrillation
+Urinary Tract Infection
+Ileus
+
+ 
+Discharge Condition:
+good
+
+ 
+Discharge Instructions:
+Please call your doctor or return to the emergency room if [**Doctor First Name **] 
+develop a fever greater than 101.5, shortness of breath, rapid 
+heart rate, chest pain, foul smelling drainage from your 
+incision, pain unrelieved by your pain medications, any problems 
+with the Foley catheter, more than 3 loose stools per day, 
+persistent nausea/vomiting or inability to pass gas/stool, or 
+any other symptoms concerning to [**Doctor First Name **].
+.
+No driving while on pain medications.
+.
+No tub baths or swimming, [**Doctor First Name **] may shower, keep incision open to 
+air, clean and dry, keep PICC line clean and dry. Keep PICC line 
+covered with plastic wrap while showering. Cover your abodminal 
+incision with a dressing if [**Doctor First Name **] notice clear drainage.
+.
+Resume your prior home medications, as directed by your primary 
+care physician. [**Name10 (NameIs) **] your physician's office this week to have 
+your blood drawn for INR level and Coumadin dosed accordingly. 
+[**Doctor First Name 54**] may require Immodium if [**Doctor First Name **] have more than 4 loose, watery 
+stools per day. If so, please call Dr.[**Doctor Last Name 10958**] office (number 
+below) for instructions on dosing.
+
+ 
+Followup Instructions:
+See your primary care physician's office this week to have your 
+blood drawn (INR level) and Coumadin dose adjusted.
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], MD [**MD Number 224**]:[**Telephone/Fax (1) 10959**] 
+Date/Time:[**2777-1-6**] 3:00, at [**Hospital Ward Name **] 3rd floor Surgical 
+Specialties.
+
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 84**] (colorectal surgery) will see [**Doctor First Name **] when [**Doctor First Name **] 
+have your appointment with Dr. [**Last Name (STitle) **]. Her telephone # is 
+[**Telephone/Fax (1) 4161**].
+
+[**Doctor First Name 54**] have an appointment with Dr. [**Last Name (STitle) 10960**] in Winsockett on Thursday 
+[**2777-12-29**] at 10:00 am. 
+The office is located at [**Doctor Last Name 10961**], Room 202.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number 5689**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 9101**] NP[**MD Number 9102**] [**2777-12-27**] @ 1247
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2777-12-28**] 3:23 PM
+(End of Report)
+
+
+",,
+14616,8835,18170,0,2777-12-17 17:44:00 EST,2777-12-17 18:27:00 EST,514,"N",1,"Nursing/Other",,"
+
+Nsg admit note
+60 yo male s/p total colectomy and ventral hernia repair day 6. His HR was noted to be rapid and irregular, ekg showed afib with rapid ventricular response, pt was diaphoretic, bp dropped to 70/. He was given total of 15mg IV lopressor HR down to 135 he was transferred to SICU for more intensive monitoring. He arrived to the unit HR 130 BP 97/ he was alert and oriented in NAD. The patient went to his PCP on [**11-23**] he underwent a routine colonoscopy which showed a right cecal mass and a polp at the rectosigmoid junction. Pathology showed it to be consistent with adenocarcinoma and the polyp was consistent with dysplasia. He was referred to [**Hospital1 10**]. PMH 1991 colon ca stage 3, tx with chemo and surgery in [**2769**], low anterior resection for rectal ca. Hx of urinary retention  ? related to nerve injury secondary to his low anterior resection, NIDDM, impotence, borderline HTN. PSH lt hemicolectomy in [**2762**], ventral hernia repair with mesh in [**2763**], low anterior resection in [**2769**]. Allergies NKDA. Social hx he was a heavy smoker [**2-4**] ppd quit [**2777-3-2**]. He denies heavy etoh use. He is owner of a insurance company> He is divorced x2. He has one daughter 
+O. Neuro alert oriented x3 moving all extremities, c/o of abd pain [**2781-6-8**] epidural d/c by pain service he received morphine 2mg and percocet 2 x2 with relief to [**2781-2-4**] acceptable by pt
+cvs HR He was bolused with aminodarone 150mg IV and placed on a 1mg/hr gtt x6 hr which was decreased to .5mg/min q hr. In addition he was given total of 10mg of lopressor IV His HR went from 130 to 50-60 SB-NSR it again went into afib rapid vent response 130-140's bp 70/45-110/ and was given 500cc of LR. His hct 23.3. K+ 3.5 on d5.45 with 20 kcl at 80cc qhr. Skin w+d pp+. He becomes diaphoretic. Cardiac enzymes are being cycled tropinin .03
+Resp 2lnp lungs cta o2 sat 100%
+gu u/o foley > 30cc qhr
+gi taking po clear liq, dsg d+i abd soft tender BS+ passing flatus no stool MD [**First Name (Titles) **] [**Last Name (Titles) 6306**] exam ob neg
+ID temp 100.2 po wbc 3.3
+endo received 9 u reg insulin bs 167
+access 2 periph 22g and 20g
+a. rapid afib s/p total colectomy and ventral hernia repair post op day 6
+p. amiodarone gtt cont monitor HR, BP, cardiac consult, cont to cycle cardiac enzymes one more set due at 2300
+",,
+14616,8835,18170,0,2777-12-18 05:49:00 EST,2777-12-18 06:06:00 EST,626,"N",1,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: neuro: alert and oriented. moves all extremities off the bed. movement slow secondary to surgery. perla and reacts briskly. 
+
+resp: chest pt done. spirocare done q2-4hrs. breath sounds clear. coughing and raising thick white sputum. o2 at 2liters nasal prongs. 
+
+cardiac: remains in nsr. amiordione gtt at 0.5mg/min infusing k 3.4 and phos level 2.6. potassium phosphorus iv ordered. magnesium level 1.7, calicium 7.5 and calicium gluconate 2gms iv given. cpk 195. hct 23.8 and 2units prbc iv given  with repeat hct 27.5. 
+
+gI abd soft with incision intact with jp's x2 draining sero sang drainage. taking sips of h2o. small stool. passing flatus. 
+
+gu: foley patent and draining amber colored urine.
+
+action: labs as ordered. chest pt. spirocare prn. amiordione gtt as ordered. jp's to bulb suction. magnesium and calicium gluconate iv given. iv d51/2ns with 20meq kcl at 80cc/hr. percocet 2tabs given for pain but pills ineffective and mso4 2mg iv given as ordered with relief. napping. 
+
+response: monitor closely
+",,
+14616,8835,18170,0,2777-12-18 14:57:00 EST,2777-12-18 15:13:00 EST,6251,"N",1,"Nursing/Other","Nursing Progress Note:","
+Nursing Progress Note:
+Please refer to CareVue for details.
+   Pt alert and oriented x3. Pleasant and cooperative w/ care. PERRLA (3mm bilat; brisk). Follows commands. Moves all extremities. Clear speech. Tmax 99.8. HR 70s (NSR; no ectopy noted). NBP 90s-120s/ 40s-60s. Amiodarone gtt stopped at 1400; changed to PO. Amiodarone 400mg PO BID ordered. Pt denies chest pain. EKG done. Echo ordered for tomorrow. D5 1/2NS w/ 20meq KCl @ 80cc/hr. Trace generalized edema. DP/PT pulses palpable. Hct due to be checked at 1800. Lungs clear, diminished at bases. O2 sat >/= 95% on 2L nasal cannula. Pt w/ strong cough; nonproductive. Pt using incentive spirometer appropriately. Inspiratory volume 1000mL. Cough/deep breathing encouraged. Abdomen soft w/ hypoactive bowel sounds. Pt w/ +flatus. Pt incontinent of small BM x2; liquid brown stool. Tolerating clear liquid diet; encourage to increase PO intake. No c/o nausea. FS q6hr w/ RISS. Foley intact w/ clear, yellow urine. UO 30-140cc/hr. Abdominal incision w/ staples clean, dry, and intact. DSD over incision intact. Abdominal binder on at all times. Morphine 2mg IV given for incisional pain w/ +effect. Pt refused Percocet d/t ""it does not help with the pain"" per pt. JPx2 to bulb suction w/ small amount serosanguinous drainage. DSD over JP drains intact. No pressure ulcer noted. Pt turned and repositioned frequently to maintain skin integrity. Pt ambulated w/ RN and PCT around SICU-B and in the hallway; then pt sat up in chair. Pt's daughter visited; updated on pt's condition and on plan of care. 
+Plan: Monitor VS, I's and O's, labs. Check Hct at 1800. Monitor neuro and respiratory status. Offer morphine for pain. Daily EKG; cardiac echo tomorrow. Encourage coughing/deep breathing and IS use. Transfer to floor tomorrow w/ telemetry. Update pt and family on plan of care. Continue ICU care and treatment.  
+",,

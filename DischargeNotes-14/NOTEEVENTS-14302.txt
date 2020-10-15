@@ -1,0 +1,901 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14302,14791,,,2724-01-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2724-1-30**]              Discharge Date:   [**2724-2-14**]
+ 
+Date of Birth:  [**2668-12-8**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2434**] 
+Chief Complaint:
+CC:[**CC Contact Info 10439**] 
+Major Surgical or Invasive Procedure:
+Bronchoalveolar Lavage
+ 
+History of Present Illness:
+55 yo man with Hx of extensive tobacco use, metastatic 
+esophageal cancer s/p stent placement x 2, course complicated by 
+pain from acid reflux, unable to control at home with Tagamet, 
+Protonix, and Carafate. He was admitted to the hospital for pain 
+mgmnt, and poor po intake leading to acute renal failure. He 
+complains of pain, burning and severe gas after placement of his 
+esophageal stent on [**2724-1-31**].He denies any vomiting or hematemesis 
+and complains of occassional nausea. He was evaluated by ICU 
+team for progressive SOB x 3 days and increased work of 
+breathing. His pulse oximetry dropped to as low as 85% on 6L NC 
+and recovered to low 90's on 100% NRB. At that time he had a 
+resp rate of 24, ABG was  7.43/ 36/82 on 100%NRB. in addition he 
+was found to have tachycardia to 130's a lactate of 4.6 and WBC 
+increase to 16.2. Received IV lasix 40 mg x 2, Nebs x 1. 
+ 
+Past Medical History:
+1)Hypertension  
+2)Metastatic Esophageal cancer s/p 6 cycles of cisplatin and 
+Irinotecan. Mets to mediastinal and Abd lymph[**MD Number 285**], Liver, 
+Adrenal  
+3)Severe GERD  
+
+ 
+Social History:
+ 2 packs of cigarette per day for the last few years, 1 ppd 
+before that since age 20. He denies any  
+alcohol use. He owns his loan business detail in [**Location (un) **]; however, 
+ 
+he has been unable to work since the end of July. He is  
+divorced. He has 1 child. The child does not live locally.  
+.  
+
+ 
+Family History:
+Father and aunt -pancreatic cancer  
+Uncle - liver cancer  
+Grandfather -liver cancer  
+
+ 
+Physical Exam:
+vitals: 99.1 130 140/83 26 87-90% on 100%NRB  
+GENERAL: awake, in mild resp distress on NRB mask, cooperative  
+HEENT: atraumatic, anicteric sclerae, dry mucosa, clear OP  
+NECK: Supple, no JVD, Ant Cerv LAD  
+LUNGS: Diffuse end exp wheeze b/l, no accessory muscle use, no 
+ronchi or crackles  
+BACK: no spinal or CVAT  
+HEART: Regular, tachy, no M/R/G  
+ABDOMEN: soft, Mild midepigastric tenderness, normal BS, no 
+guarding, no rebound, no masses appreciated  
+EXTREMITIES: trace b/l le edema. Warm, full DP pulses B/L  
+NEURO: CN II-XII intact, no focal deficits  
+
+ 
+Pertinent Results:
+[**2724-1-30**] 02:15PM   WBC-12.0* RBC-3.81* HGB-12.2* HCT-35.7* 
+MCV-94 MCH-32.0 MCHC-34.2 RDW-14.7
+[**2724-1-30**] 02:15PM   PLT COUNT-407
+[**2724-1-30**] 02:15PM   [**Last Name (un) 1056**] CT-10750*
+[**2724-1-30**] 02:15PM   ALBUMIN-3.5 CALCIUM-8.7 PHOSPHATE-2.5* 
+MAGNESIUM-2.1 CHOLEST-168
+[**2724-1-30**] 02:15PM   LIPASE-14 GGT-87*
+[**2724-1-30**] 02:15PM   ALT(SGPT)-21 AST(SGOT)-28 ALK PHOS-117 
+AMYLASE-13 TOT BILI-0.3 DIR BILI-0.1 INDIR BIL-0.2
+[**2724-1-30**] 02:15PM   GLUCOSE-119* UREA N-30* CREAT-1.6* SODIUM-133 
+POTASSIUM-4.1 CHLORIDE-97 TOTAL CO2-23 ANION GAP-17
+[**2724-1-30**] 07:50PM   CK-MB-2 cTropnT-0.02*
+[**2724-1-30**] 07:50PM   CK(CPK)-32*
+
+ABDOMEN (SUPINE & ERECT)  [**2724-1-30**] 4:38 PM
+
+ABDOMEN (SUPINE & ERECT)
+
+Reason: perforation, obstruction, stent placement 
+
+UNDERLYING MEDICAL CONDITION:
+55 year old man with esophageal carcinoma, s/p stent placement 
+REASON FOR THIS EXAMINATION:
+perforation, obstruction, stent placement 
+INDICATION: 55-year-old man with esophageal carcinoma, status 
+post stent placement.
+
+TECHNIQUE: Supine and upright abdominal radiographs.
+
+No comparison.
+
+FINDINGS: The patient is status post esophageal stent placement 
+at lower esophagus and GE junction. Note is made of unremarkable 
+bowel gas pattern with few air-fluid levels, without evidence of 
+significant dilatation or obstruction. No evidence of ascites is 
+seen on this radiograph. The osseous structures are 
+unremarkable.
+.
+CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST
+
+Reason: please eval pulmonary embolism with CTA, but please also 
+inc
+Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+55 year old man with esophageal cancer, pleural effusions, 
+worsening hypoxia 
+REASON FOR THIS EXAMINATION:
+please eval pulmonary embolism with CTA, but please also include 
+cuts to eval for worsening lung injury from chronic aspirations 
+vs pneumonia, also eval size of pleural effusions 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Hypoxia, history of esophageal cancer.
+
+COMPARISON: Non-contrast CT from a PET study of [**2724-1-10**], chest x-ray from [**2724-2-4**].
+
+TECHNIQUE: Multidetector CT scanning was performed of the chest 
+before and after the administration of 100 cc of Optiray 
+intravenous contrast. Multiplanar reformations were obtained.
+
+CT OF THE CHEST: Bilateral hilar as well as mediastinal 
+adenopathy is seen. The heart and pericardium appear 
+unremarkable. There is a dilated esophagus with a stent 
+extending to the gastroesophageal junction. A central venous 
+catheter seen with its tip terminating in the superior vena 
+cava. The great vessels appear unremarkable. The pulmonary 
+arteries do not demonstrate any central or segmental filling 
+defects to suggest pulmonary embolism. Bilateral moderate 
+pleural effusions are identified of simple fluid attenuation, 
+which were not present on the [**1-10**] study. There has been 
+new development of extensive ground glass and consolidative 
+opacities involving the majority of the upper lobes bilaterally, 
+as well as the lingula, right middle lobe, and lower lobes to a 
+lesser extent. The airways are patent to the level of the 
+segmental bronchi bilaterally.
+
+In the visualized abdomen again seen are multiple 
+low-attenuation masses within the liver, which appear to be 
+increased in size and extent since the prior study of [**1-10**]. The osseous structures demonstrate no concerning lytic or 
+sclerotic lesions.
+
+IMPRESSION:
+1. Bilateral ground-glass and consolidative opacities involving 
+multiple lobes, but most notably the upper lobes. This has 
+developed since the prior CT of [**1-10**] and is worsened since 
+the recent chest x-ray. These findings are most consistent with 
+aspiration pneumonia, though there may be an element of 
+superimposed pulmonary edema. Bilateral moderate-sized pleural 
+effusions have also developed in the interim.
+2. Dilated esophagus with a stent extending to the 
+gastroesophageal junction. Extensive hilar and mediastinal 
+lymphadenopathy. Multiple liver hypodensities consistent with 
+metastatic disease.
+3. No evidence of central or segmental pulmonary embolism.
+
+These findings were discussed with Dr. [**Last Name (STitle) **] at 4:30 p.m. on 
+[**2724-2-6**].
+
+IMPRESSION: Esophageal stent in lower esophagus and GE junction. 
+Unremarkable bowel gas pattern. Please also refer to the 
+official report of chest radiograph obtained on the same day.
+.
+BRONCHIAL WASHINGS Procedure Date of [**2724-2-6**] 
+ 
+    
+REPORT APPROVED DATE: [**2724-2-8**] 
+SPECIMEN RECEIVED: [**2724-2-7**]    06-08976    BRONCHIAL WASHINGS 
+  
+SPECIMEN DESCRIPTION: Received 7.5 ml of bloody fluid and 1 
+hematology 
+  slide for referal. Total 2 slides. 
+  
+CLINICAL DATA: Known esophageal cancer, acute hypoxemic 
+respiratory 
+  failure. 
+PREVIOUS BIOPSIES: 
+ [**2723-8-10**]   [**3-/4167**]7   MEDIASTINAL LYMPH NODE 
+ 
+ 
+REPORT TO: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2176**] 
+  
+DIAGNOSIS: Bronchial lavage: 
+    
+  POSITIVE FOR MALIGNANT CELLS consistent with 
+  adenocarcinoma 
+
+ 
+Brief Hospital Course:
+A/P: 55 yo male with metastatic esophagel cancer, recent ARF [**1-3**] 
+dehydration who was transferred to ICU for increased oxygen 
+demand, Lactic Acidosis, and Elevated WBC Count:  
+.  
+1. Increased oxygen demand/ARDS: Unclear etiology, initially 
+thought to be secondary to pneumonitis/PNA 2x2 aspiration. There 
+was no evidence of PE. BAL did not show an infectious etiology.  
+Bacteremia was revealed by blood cultures.
+Patient was initially treated with IV antibiotics and ARDS low 
+volume ventilation strategy. Despite this measures, patient 
+continue to be febrile, with elevated lactic acidosis and high 
+WBC. Even an steroid trial was given but patient still required 
+high FIO2.
+.
+Fevers and elevated WBC: Initially treated as a pulmonary 
+source. Patient initially responded to antibiotics, but later on 
+developed high grade fevers. Last blood cultured showed Gram 
+positive cocci. 
+.
+Elevated Lactate. Persistent elevated lactate despite adequated 
+CVP and Mix venous saturations. It was thought to be secondary 
+to sepsis, with contribution of tumor burden and liver 
+metaastasis.
+.
+Acute renal failure: thought to be secondary to prerenal 
+azotemia in setting of sepsis. Creatinine remained at 1.4-1.6.
+.
+On [**2724-2-14**] a family meeting was held. The clinical situation was 
+explained to the family worsening ARDS, severe dead space 
+ventilation, worsening leukocytosis and fevers, associated with 
+metastatic esophageal cancer gave him very low possibilities of 
+recovery. Family felt that the medical team should direct goals 
+of care towards confort at thats time. Patient passed away 
+quietly in the presence of his family.
+
+ 
+Medications on Admission:
+Levaquin 500 mg po qd  
+Flagyl 500 po tid  
+Maalox QID  
+Anzemet PRN  
+Colace 100 mg po bid  
+Fentanyl patch 75 mcg q72  
+Heparin 5000 sq tid  
+Reglan 5 mg qid  
+Metoprolol 50 bid  
+Morphine PCA  
+Morphine SE 30 mg bid  
+Nexium 40 bid  
+Zantac 300 mg qhs  
+Sucralfate 1 qid  
+Simethicone 40 qid  
+
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Acute Respiratory Distress Syndrome
+Metastatic esophageal cancer
+Multiorgan failure
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+n/a
+ 
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2176**] MD [**MD Number 2439**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 5198**] [**Initial (NamePattern1) **] [**Name8 (MD) 5199**] MD [**MD Number 5200**] [**2724-9-8**] @ 1831
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2176**]
+ on: WED [**2724-9-24**] 3:03 PM
+(End of Report)
+
+
+",,
+14302,14791,,,2724-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-2-3**] 2:46 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8362**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like abdominal CT w/ IV contrast to evaluate for  infl
+     Admitting Diagnosis: ESOPHAGEAL CANCER;PAIN CONTROL
+     Field of view: 37 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with esophageal cancer, persistent abdominal pain and reflux 
+      after stent placement on [**1-24**]
+     REASON FOR THIS EXAMINATION:
+      would like abdominal CT w/ IV contrast to evaluate for  inflammation, perf, 
+      intussusception, etc.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Esophageal cancer with persistent abdominal pain and reflux after
+     stent placement on [**1-24**].  Evaluate for perforation, inflammation or
+     intussusception.
+     
+     COMPARISON:  PET CT dated [**2724-1-10**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral and 150 cc of Optiray contrast.
+     Coronal and sagittal reconstructions were obtained.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are small bilateral pleural effusions.
+     There is atelectasis at the lung bases.  There is an esophageal stent in place
+     at the gastroesophageal junction, in good position.  There is surrounding soft
+     tissue density, consistent with an esophageal mass.  There are innumerable
+     rounded low density liver lesions consistent with metastases, throughout the
+     liver.  The size and number of lesions have significantly increased since
+     [**1-10**].  The portal vein remains patient.  The gallbladder, spleen,
+     pancreas and right adrenal gland are normal.  A large left adrenal mass is
+     again noted, measuring 4.7 x 3.0 cm, and it is contiguous with adjacent
+     lymphadenopathy.  The right kidney enhances and excretes normally.  There is a
+     delayed nephrogram within the left kidney, and new moderate hydronephrosis on
+     the left.  The proximal left ureter is dilated as well, to the level of left
+     paraaortic lymphadenopathy.  The stomach, small and large bowel loops are
+     unremarkable.  No free air within the abdomen.  There is interval worsening of
+     paraaortic lymphadenopathy.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder, prostate, seminal vesicles and
+     rectum are normal.  There is sigmoid diverticulosis, without evidence of
+     diverticulitis.  No free fluid in the pelvis, and no pathologically enlarged
+     pelvic or inguinal lymph nodes.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  There
+     are degenerative changes of the spine.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case
+     
+                                                                 (Over)
+
+     DATE: [**2724-2-3**] 2:46 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8362**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like abdominal CT w/ IV contrast to evaluate for  infl
+     Admitting Diagnosis: ESOPHAGEAL CANCER;PAIN CONTROL
+     Field of view: 37 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  No evidence of acute inflammatory pathology of the bowel.  There is no
+     evidence of bowel obstruction.
+     2.  Esophageal stent is well positioned at the gastroesophageal junction.
+     There is surrounding soft tissue at the lower esophagus, consistent with the
+     esophageal mass.
+     3.  Significant interval progression of metastatic disease, with innumerable
+     liver lesions increased in both size and number, increased left adrenal lesion
+     and worsening lymphadenopathy within the abdomen.
+     4.  Interval development of moderate left hydronephrosis, with dilation of the
+     left ureter to the level of left paraaortic lymphadenopathy.
+     
+     The findings were discussed with Dr. [**Last Name (STitle) 3684**] at 8:45 p.m. on [**2724-2-3**].
+
+",,
+14302,14791,,,2724-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-2-3**] 2:46 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8362**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like abdominal CT w/ IV contrast to evaluate for  infl
+     Admitting Diagnosis: ESOPHAGEAL CANCER;PAIN CONTROL
+     Field of view: 37 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with esophageal cancer, persistent abdominal pain and reflux 
+      after stent placement on [**1-24**]
+     REASON FOR THIS EXAMINATION:
+      would like abdominal CT w/ IV contrast to evaluate for  inflammation, perf, 
+      intussusception, etc.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Esophageal cancer with persistent abdominal pain and reflux after
+     stent placement on [**1-24**].  Evaluate for perforation, inflammation or
+     intussusception.
+     
+     COMPARISON:  PET CT dated [**2724-1-10**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral and 150 cc of Optiray contrast.
+     Coronal and sagittal reconstructions were obtained.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are small bilateral pleural effusions.
+     There is atelectasis at the lung bases.  There is an esophageal stent in place
+     at the gastroesophageal junction, in good position.  There is surrounding soft
+     tissue density, consistent with an esophageal mass.  There are innumerable
+     rounded low density liver lesions consistent with metastases, throughout the
+     liver.  The size and number of lesions have significantly increased since
+     [**1-10**].  The portal vein remains patient.  The gallbladder, spleen,
+     pancreas and right adrenal gland are normal.  A large left adrenal mass is
+     again noted, measuring 4.7 x 3.0 cm, and it is contiguous with adjacent
+     lymphadenopathy.  The right kidney enhances and excretes normally.  There is a
+     delayed nephrogram within the left kidney, and new moderate hydronephrosis on
+     the left.  The proximal left ureter is dilated as well, to the level of left
+     paraaortic lymphadenopathy.  The stomach, small and large bowel loops are
+     unremarkable.  No free air within the abdomen.  There is interval worsening of
+     paraaortic lymphadenopathy.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder, prostate, seminal vesicles and
+     rectum are normal.  There is sigmoid diverticulosis, without evidence of
+     diverticulitis.  No free fluid in the pelvis, and no pathologically enlarged
+     pelvic or inguinal lymph nodes.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  There
+     are degenerative changes of the spine.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case
+     
+                                                                 (Over)
+
+     DATE: [**2724-2-3**] 2:46 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8362**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like abdominal CT w/ IV contrast to evaluate for  infl
+     Admitting Diagnosis: ESOPHAGEAL CANCER;PAIN CONTROL
+     Field of view: 37 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  No evidence of acute inflammatory pathology of the bowel.  There is no
+     evidence of bowel obstruction.
+     2.  Esophageal stent is well positioned at the gastroesophageal junction.
+     There is surrounding soft tissue at the lower esophagus, consistent with the
+     esophageal mass.
+     3.  Significant interval progression of metastatic disease, with innumerable
+     liver lesions increased in both size and number, increased left adrenal lesion
+     and worsening lymphadenopathy within the abdomen.
+     4.  Interval development of moderate left hydronephrosis, with dilation of the
+     left ureter to the level of left paraaortic lymphadenopathy.
+     
+     The findings were discussed with Dr. [**Last Name (STitle) 3684**] at 8:45 p.m. on [**2724-2-3**].
+
+",,
+14302,14791,,,2724-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-2-6**] 2:39 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8363**]
+     Reason: please eval pulmonary embolism with CTA, but please also inc
+     Admitting Diagnosis: ESOPHAGEAL CANCER;PAIN CONTROL
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with esophageal cancer, pleural effusions, worsening hypoxia    
+     REASON FOR THIS EXAMINATION:
+      please eval pulmonary embolism with CTA, but please also include cuts to eval 
+      for worsening lung injury from chronic aspirations vs pneumonia, also eval size 
+      of pleural effusions
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia, history of esophageal cancer.
+     
+     COMPARISON:  Non-contrast CT from a PET study of [**2724-1-10**], chest x-ray
+     from [**2724-2-4**].
+     
+     TECHNIQUE:  Multidetector CT scanning was performed of the chest before and
+     after the administration of 100 cc of Optiray intravenous contrast.
+     Multiplanar reformations were obtained.
+     
+     CT OF THE CHEST:  Bilateral hilar as well as mediastinal adenopathy is seen.
+     The heart and pericardium appear unremarkable.  There is a dilated esophagus
+     with a stent extending to the gastroesophageal junction.  A central
+     venous catheter seen with its tip terminating in the superior vena cava.  The
+     great vessels appear unremarkable.  The pulmonary arteries do not demonstrate
+     any central or segmental filling defects to suggest pulmonary embolism.
+     Bilateral moderate pleural effusions are identified of simple fluid
+     attenuation, which were not present on the [**1-10**] study.  There has been
+     new development of extensive ground glass and consolidative opacities
+     involving the majority of the upper lobes bilaterally, as well as the lingula,
+     right middle lobe, and lower lobes to a lesser extent.  The airways are patent
+     to the level of the segmental bronchi bilaterally.
+     
+     In the visualized abdomen again seen are multiple low-attenuation masses
+     within the liver, which appear to be increased in size and extent since the
+     prior study of [**1-10**].  The osseous structures demonstrate no concerning
+     lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Bilateral ground-glass and consolidative opacities involving multiple
+     lobes, but most notably the upper lobes.  This has developed since the prior
+     CT of [**1-10**] and is worsened since the recent chest x-ray.  These findings
+     are most consistent with aspiration pneumonia, though there may be an element
+     of superimposed pulmonary edema.  Bilateral moderate-sized pleural effusions
+     have also developed in the interim.
+     2.  Dilated esophagus with a stent extending to the gastroesophageal junction.
+     Extensive hilar and mediastinal lymphadenopathy.  Multiple liver
+     hypodensities consistent with metastatic disease.
+     3.  No evidence of central or segmental pulmonary embolism.
+                                                                 (Over)
+
+     DATE: [**2724-2-6**] 2:39 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8363**]
+     Reason: please eval pulmonary embolism with CTA, but please also inc
+     Admitting Diagnosis: ESOPHAGEAL CANCER;PAIN CONTROL
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 8364**] at 4:30 p.m. on [**2724-2-6**].
+     
+     
+
+",,
+14302,14791,17773,0,2724-02-06 19:01:00 EST,2724-02-06 19:12:00 EST,379,"N",69,"Nursing/Other","MICU EAST NSG ACCEPTANCE NOTE 1830","
+MICU EAST NSG ACCEPTANCE NOTE 1830
+
+55 YO man transferred from 11R in resp distress, probable pna per ct scan and sepsis w/lactate >3.3.
+
+Pt w/ h/o metastatic esophageal adeno ca. S/P stent placement [**8-5**]. Continued to have reflux. Pt also stated he finished his chemo ""a few weeks ago"".
+
+Admitted to 11R [**1-30**] w/severe abd pain. R/O'd for MI. [**1-31**] EGD showed patent stent but severe ulceration above and below stent d/t reflux. Pt needs HOB ^ 90 degrees at all times. Head chest and abd ct scan done today. PEs r/o'd ? asp pneumonia. He had been spiking temps over the past few days per 11R RN report.
+
+Arrived on 100% NR w/O2sats 88-92%. Able to speak in full sentences but tachypneic. A%) x3. Tol lying flat poorly. Lung sds w/ I:E wheezes throughtout. Currently getting neb.
+
+BP now wnl on Lopressor. He is currently receiving 1L NS IVB. HR 130s ST.
+
+Pain mgmt has been a challenge on 11R. He is getting a 75mcg patch, SR MSO4 and oxycodone. Pain currently [**2-8**] and aceptable.
+
+He is presently undergoing a liver ultrasds at bedside.
+
+
+",,
+14302,14791,17773,0,2724-02-07 04:42:00 EST,2724-02-07 05:03:00 EST,830,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT ALERT AND ORIENTED X 3. C/O ABD PAIN MED WITH SR MSO4 AROUND THE CLOCK. 
+
+RESP: PT ON NRB THEN SWITHCHED OVER TO 95% HIGH FLOW MASK. LUNG SOUNDS WITH INSP/EXP WHEEZES THROUGHOUT AND THEN DEVELOPED CRACKLES THROUGHOUT. PT EXTREMELY SOB WITH ANY FORM OF PHYSICAL EXHERTION. AT 2300 PT EXTREMELY SOB WITH NO RELIEF FROM NEBS. EXTREMETIES BECAME MOTTLED. UNABLE TO OBTAIN O2 SAT. ABG DONE, SEE FLOWSHEET FOR DATA. 
+LASIX 20MG IV, THEN INTUBATED AND BRONCHED. SEE FLOWSHEET FOR SETTINGS. 
+
+CV: HR ST WITH RATES IN THE 120'S WITH OCC PVC'S. BP STARTED OUT IN ACCEPTABLE RANGE AND THEN SHOT UP TO THE 180'S WHEN RESP DISTRESS STARTED. ONCE INTUBATED HR DOWN IN THE 90'S BUT CONT TO HAVE ECTOPY. EKG DONE AND LAB SENT FOR CK AND TROPONIN. LACTATE UP TO 4. TEMP 97.6 AX. 
+
+GI: PT ABLE TO TAKE CLEAR LIQS BEFORE INTUBATION. TOOK ALL GI MEDS PRIOR TO INTUBATION. UNABLE TO INSERT OGT DUE TO ESOPHAGEAL CA/STENT.  
+ABD SOFT WITH POS BOWEL SOUNDS, NO STOOL. 
+
+GU: PT INITIALLY VOIDING IN URINAL BUT THEN BECAME TOO DIFF AND WAS THEN CATHETERIZED FOR 1200CC CLEAR YELLOW URINE AFTER RECEIVING LASIX. 
+
+SKIN: PT HAS SOME ECHYMOTIC AREAS ON RIGHT UPPER ARM. NO OTHER SKIN BREAKDOWNS. 
+
+IV ACCESS. PT HAS #18 PERIPH IV. ALSO HAS RIGHT SUBCLAVIEN PORTACATH WHICH WAS RENEEDLED BY IV THERAPY. LEFT RADIAL ALINE INSERTED TONIGHT. 
+
+SOCIAL: PT VISITED BY NEPHEW TONIGHT, NO OTHER FAMILY MEMBERS. 
+",,
+14302,14791,17773,0,2724-02-07 06:57:00 EST,2724-02-07 07:00:00 EST,1341,"N",69,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt intubated with anesthesia 0200 after period of increased respiratory distress and increased O2 requirements.  Orally intubated with 8.0 ETT taped 25 @ the lip.  Bronch performed immediately after with BAl sent.  ABG this 0600 shaows adequate ventilation and marginal oxygenation given FiO2 100%.
+
+                             [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT
+",,
+14302,14791,17773,0,2724-02-07 16:11:00 EST,2724-02-07 16:37:00 EST,107,"N",69,"Nursing/Other","altered resp status","
+altered resp status
+d: received pt this am on propofol gtt at 20mcg/kg/min and pt attempting to sit up in bed. propofol gtt now infusing at 50 mcg/kg/min and have now added fentanyl gtt at 75mcg/hr for pain control. fentanyl topical patch d/c'd. pt does occasionally open his eyes when being talked to. pt moving all extremities. will continue to titrate sedation as needed.
+
+resp: orally intubated with vent settings currently at 100%fio2/500tv ac rate of 26 with 10 peep. rr 20's and observed tv 550-620. insp/exp wheezes at bases otherwise coarse on auscultation.abg of 7.35/39/78/-[**2-20**] was on fio2 of 80% with the other settings unchanged. with repositioning this afternoon pt's sbp climbed to 160 and his o2 sats dropped to 85%. resp therapist to bedside and increased peep until pt's o2 sat recovered. peep increased for very brief period of time.during this episode pt was also bolused with additional bolus of 25 mcg of propfol. will continue to follow ards protocol and monitor his resp status closely.pt has not required and suctioning via ett. 
+
+
+cv: pt's ht has been in the 90-100's with occasional pvc's and sbp has ranged from 103-133. electrolytes wnr and wil continue to check them as ordered and replete as needed. cardiac echo done at the bedside today and results are pending. 
+
+gi: ogt placed and cxr confirmed placement. tube fdgs of probalance started at 10cc's/hr and will increase as tolerated to a goal rate of 65cc's/hr. pt also with hs of reflux dx and will continue with famotidine and pantoprazole as ordered. abd soft and nontender with hypoactive bowel sounds on asucultation and no stool output this shift.
+
+gu:concern that pt was intravascularly dry so pt bolused with a total of 2 liters ns in divided boluses. once central line was placed cvp was monitored and = to [**9-10**]. hct down to 26.3 and pt was transfused with a u prbc without complications. i&o for this shift pos 2.5 liters and for los pos 4.3 liters. will follow fluid status closely and creat now down to 1.2 
+
+id: All culture data pending. afebrile and wbc=12.4. continues to receive bactrim,vancomycin, meropenum,and levofloxacin until final culture results come back. follow fever curve and medicate with tylenol as needed. lactic acid level as high as 4.8 but with hydration last lactate level=3.1. will check lactate levels as ordered.
+
+
+social: pt is a full code. dr. [**Last Name (STitle) **] met with pt's brother, and mother . they were updated with current medical status and realize that he is cririca. will continue to keep them updated on a daily basis and offer emotional support to them. continue with present medical management.
+",,
+14302,14791,17773,0,2724-02-07 16:46:00 EST,2724-02-07 16:48:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains on a/c vent on 100%. freq desats with movement. Pt continues with MDI's.
+",,
+14302,14791,17773,0,2724-02-08 06:12:00 EST,2724-02-08 06:28:00 EST,830,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT SEDATED ON FENTANYL/PROPOFOL. PT FLEXES AND WITHDRAWS FROM PAIN, AROUSES TO LOUD SPEECH AND STIMULATION. PEARL 2MM. OVERBREATHING THE VENT WITH STIMULATION. SEDATION INC SLIGHTLY TO SLOW PT DOWN. PT HAS POS GAG/COUGH REFLEX.
+
+RESP: PT INTUBATED ON VENT A/C 100% 400 X 26 +10 PEEP. PT SX FOR MOD AMT OF THICK TAN SECRETIONS X 1 AT BEGINING OF SHIFT. SX'D AGAIN LATER ON AND IT WAS CLEAR. O2 SAT'S IN THE HIGH 90'S. LUNG SOUNDS COARSE WITH EXP WHEEZES. ETT ROTATED TO LEFT SIDE OF MOUTH. 
+
+CV: PT IN NSR WITH RARE PVC WITH RATE IN THE 70'S. BP WITHIN NORMAL LIMITS TOLERATING FENT/PROP DRIPS. AFEBRILE. TEMP DOWN TO 96.4 THIS AM WILL PUT [**Doctor Last Name 1018**] HUGGER BLANKET ON WHEN ARRIVE TO UNIT. CVP 8-13. PT HAS RECEIVED 500CC FLUID BOLUSES X 4. PT CONT ON MULTIPLE ANTIBX AND GASTRIC MEDS FOR ESOPHAGEAL EROSIONS. 
+
+GI: PT ON TUBE FEEDS AT BEGINING OF SHIFT AT 10CC/HR. RESIDUALS AT 2000 150CC. TUBE FEEDS TURNED OFF. OGT PLACED TO SX, DRAINED 425CC FOR THE SHIFT. POS BOWEL SOUNDS, NO STOOL OVERNIGHT. ABD SOFT. 
+
+GU: FOLEY CATH PATENT DRAINING SMALL AMT'S OF CLEAR YELLOW URINE. PT'S LOW URINE OUTPUT TREATED WITH FLUID BOLUSES. PT HAD FAIR RESPONSE TO THE FLUID. 
+
+ENDO: PT ON SSRI FINGERSTICKS CHECKED Q6/HR. 
+
+SKIN: SKIN INTACT. HANDS BECOMING EDEMATOUS DUE TO FLUID RESUSCITATION. 
+
+SOCIAL: PT VISITED BY HIS COUSIN LAST EVENING AND WAS UPDATED ABOUT PT'S CONDITION. PT IS FULL CODE. 
+",,
+14302,14791,17773,0,2724-02-08 15:33:00 EST,2724-02-08 15:56:00 EST,7314,"N",69,"Nursing/Other","NPN 0700-1900:","
+NPN 0700-1900:
+Neuro: pt is sedated on Propofol 60 mcg/kg/min and Fentanyl 80 mcg/hr, opens eyes to painful stimuli, responding to painful stimuli by localizing pain, PERLA.
+
+Resp: Intubated on mechanical ventilation, FiO2 decreased to 80%, TV 400, RR 26, PEEP 10, breathing 3-8 breaths above ventilator, ABGs 7.29, 40, 108, BE -6, SPO2 87-98, started desating after reducing FiO2 though ABGs didn't show deterioration, so PEEP was increased from 10 to 12, suctioned with minimal thick yellowish secretions, sputum specimen sent for lab, LS coarse with exp wheezes at bases.
+
+CV: NSR HR 68-81, BP 98-128/56-103 MAP 74-94, with rt Hickman cath, Lt Portocath SCL, lt arterial line, and rt peripheral line, on Vancomycin, Meropenam and Levofloxacin, Bactrin D/Cd, peripheral pulses weakly palpable, bld test revealed lactate 4.8, Cr 1.6, Hct 26.7, bld sugar was 120, no insulin needed.
+
+GI/GU: With OGT clamped, had 100cc biliary residue, kept NPO, abdomen soft, BS present, no BM during this shift; with Foley cath drained 15-130 ml/hr clear yellowish u/o.
+
+Integ: Skin integrity is intact, T max 97.5. 
+Pt is on universal precaution, Full code.
+ 
+Social: Family members visited in and updated on POC, pt is restrained for intubation/extubation interference.
+
+Plan: Continue mechanical ventilator, wean FiO2 as tolerated, continue antibiotics, follow up on cx, keep CVP 8-12, hydrate if U/O or CVP decreased, monitor Hct and transfuse with bld if needed.
+",,
+14302,14791,17773,0,2724-02-09 03:56:00 EST,2724-02-09 03:57:00 EST,6507,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent. Intubated with #8 ett @ 25, patent and secure. Suctioned mod amt of thick yellow secretions. Decreased settings based abgs. Mdis given with good result. Will continue to monitor.
+",,
+14302,14791,17773,0,2724-02-09 06:10:00 EST,2724-02-09 06:22:00 EST,251,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: WELL SEDATED ON 60MCG PROPOFOL AND 80MCG FENTANYL. REQUIRES BOLUSES AT TIMES OF 20-30MCG PPF FOR CARE AND TURNING AND RARE AGITATION. AROUSES TO VOICE AND WILL OPEN EYES. FOLLOWING COMMANDS AMD MOVING ALL EXTREMITIES. RESTRAINED FOR SAFETY OF LINES AMD TUBES. 
+
+CARDIAC: HR 83-93 SR WITH NO ECTOPY NOTED. BP 110-147/63-80. BP WITH ^^ TO 180'S WITH CARE/TURNING/COUGHING. HCT STABLE @25.4/25.9. NO SIGNS OF BLEEDING. PPP.
+
+RESP: RECEIVED ON A/C 400X26 75% +12. RR 26-33. SATS 97-95%. ABG 7.34/38/93/21. DECREASED FIO2 TO 70% AND RR TO 24 WITH ABG 7.33/38/83/21. LS COARSE WITH INSP WHEEZES AND FINE BIBASILAR CRACKLES. SXTED FOR THICK YELLOW SPUTUM. CXR DONE THIS AM. 
+
+GI/GU: ABD SOFT WITH HYPOACTIVE BS. NO STOOL. ON BOWEL MEDS AND REGLAN. OGT IN PLACE AND PATENT. BILIOUS ASPIRATES. UOP 30-165CC/HR YELLOW AND CLEAR. CREAT REMAINS 1.6.
+
+FEN: CVP 8-11 AND RECEIVED 500CC FLUID BOLUS. +7.8L LOS. LYTES PER CAREVUE. FS Q6HRS WITH SSRI. NO COVERAGE NEEDED. REMAINS NPO.
+
+ID: TMAX 98.8 WITH WBC 15, UP FROM 10. CX'S NGTD. CONTINUES OM MEROPENEM, VANCO, AND LEVOFLOX.
+
+SKIN: W/D/I.
+
+ACCESS: LSC HICKMAN, RCW PORTACATH, LEFT AT LINE, PIV X1.
+
+SOCIAL/DISPO: FULL CODE. COUSINS VISITING. CONTINUE TO WEAN VENT AS TOLERATED.  
+
+",,
+14302,14791,17773,0,2724-02-09 18:11:00 EST,2724-02-09 18:25:00 EST,7314,"N",69,"Nursing/Other","NPN 0700-1900:","
+NPN 0700-1900:
+Neuro: Pt is sedated with Fentanyl 100 mcg/hr and Propofol 80 mcg/kg/min, in the morning was so agitated tryied to remove ET tube and jump outside bed, opens eyes to speech, responding to verbal stimuli, but not following commands, PERLA.
+
+Resp: Intubated on mechanical ventilator APRV 50%, P high 24, T high 4, T low 0.5, suctioned with moderate thich yellowish secretions (copious at times), LS coarse with some wheezes, on Alb and Ipr tx, SPO2 93-100%.
+
+CV: NSR-ST HR 88-110, BP 120-163/70-101, A-line out, with Rt Hickman cath, LSC line and a peripheral line, all IV tubings changed today, peripheral pulses palpable, on antibiotics, started on Erythromycin PO, CVP 5-23, bld test revealed Cr 1.6, K 5.4, Mg 2.7.
+
+GI/GU: NPO (MD aware), with OGT for meds, abdomen soft distended, BS positive, no BM during this shift, with Foley U/O 80-160 ml clear yellowish, urine test sent for lab.
+
+Integ: Skin integrity is intact, T max 98.3, on universal precautions, FULL CODE.
+
+Social: Family members visited in and updated on POC.
+
+Plan: Continue weaning mechanical ventilation as tolerated, continue antibiotics, monitor U/O and CVP.
+",,
+14302,14791,17773,0,2724-02-10 04:32:00 EST,2724-02-10 04:37:00 EST,540,"N",69,"Nursing/Other",,"
+
+Resp Care Note, Remains on APRV a few vent changes made to ^ ventilation. ABG'S improving. Suctioned for mod amts thick tan secretions. MDI'S given. HR-PVC'S-ST.Sedated with fentanyl and propofol. No RSBI @ this time.Pt not ready for weaning. Will cont to monitor resp status.
+",,
+14302,14791,17773,0,2724-02-10 06:23:00 EST,2724-02-10 06:36:00 EST,251,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: REMAINS SEDATED ON 100MCG FENTANYL AND 80MCG PROPOFOL. AROUSES SLIGHTLY TO VOICE AND WILL OPEN EYES. DOES NOT FOLLOW COMMANDS AND MOVEMENT SEEN. RESTRAINED FOR SAFETY OF LINES/TUBES. 
+
+CARDIAC: HR 94-110 SR/ST WITH OCCASIONAL ECTOPY. BP 133-156/73-88. HCT STABLE @31. PPP. 
+
+RESP: REMAINS ON APRV MODE. CHANGES MADE TO IMPROVE VENTILATION. ABG 7.32/41/118/22. RR 25-32 WITH SATS 95-99%. LS CLEAR WITH CRACKLES NOTED IN RIGHT BASE. SXTED FOR THICK TAN SPUTUM. 
+
+GI/GU: ABD SOFT AND SLIGHTLY DISTENDED WITH +BS. NO STOOL DESPITE MEDS AND KAYXELATE. OGT IN PLACE AND PATENT. BILIOUS ASPIRATES. HIGH RESIDUALS DESPITE REGLAN AND EMYCIN.  UOP 30-80CC/HR YELLOW AND CLEAR. CREAT DOWN TO 1.4.
+
+FEN: CVP UPPER TEENS WHEN REZEROED DOWN TO 13. 1L FB WITH CVP UP TO 17. +10L LOS. LYTES PER CAREVUE. K+ 5.3, ^ LFT'S. FS Q6HRS WITH SSRI. NO COVERAGE NEEDED. REMAINS NPO. 
+
+ID: TMAX 98.3 WITH WBC CLIMBING TO 20. LACTATE REMAINS @4. CONTINUES ON VANCO, MEROPENEM, AND LEVOFLOX.
+
+SKIN: W/D/I.
+
+ACCESS: PIV, POC, HICKMAN, NEW RIGHT ART LINE.
+
+SOCIAL/DISPO: FULL CODE. CONTINUE TO WEAN VENT AS ORDERED. 
+",,
+14302,14791,17773,0,2724-02-10 17:06:00 EST,2724-02-10 17:20:00 EST,7314,"N",69,"Nursing/Other","NPN 0700-1900:","
+NPN 0700-1900:
+Neuro: Pt is sedated on Fentanyl 100 mcg/hr and Propofol 100 mcg/kg/min, responding to verbal stimuli by opening eyes, localizes pain, not following commands.
+
+Resp: Intubated on mechanical ventilator APRV 40%, suctioned with excessive thick yellowish secretions, LS course to clear, SPO2 96-100%, ABGs revealed 7.33, 40, 120, -4, 22.
+
+CV: ST HR 108-121, with occasional PVCs, BP 120-157/87-103, with Rt Hickman cath, Lt Portocath, Rt radial A line and a peripheral line, on antibiotics, peripheral pulses palpable, Lactate increased to 5, and WBCs high in 20,000s.
+
+GI/GU: With OGT in place, TF started at 10 ml/hr well tolerated so far, abdomen softly distended, BS present, passed BM, Guaiac negative, sample sent for C diff, with Foley drained 55-100 ml/hr clear yellowish u/o. Fs 129 no insulin coverage needed.
+
+Integ: Skin is warm and wet, perspiring occasionally, skin integrity is intact, T max 98, on universal precaution, Full Code.
+
+Social: Many family members visited in and spent most of the day with pt, updated about POC.
+
+Plan: Continue weaning mechanical ventilation as tolerated, continue antibiotics, monitor electrolytes, mainly potassium, u/o, and cvp, bolus as needed, consider Kayexalate if potassium is high.
+",,
+14302,14791,17773,0,2724-02-11 04:04:00 EST,2724-02-11 04:08:00 EST,540,"N",69,"Nursing/Other",,"
+
+Resp Care Note, Vent changes made from ARRV to A/C. Pt was out of sync very air hungry.Suctioned mod amts thick tan secretions.MDI'S given. Sedated with propofol and fentanyl.HR-ST.FI02 also ^ for decreased Pa02. Will cont  to monitor resp status.  
+",,
+14302,14791,17773,0,2724-02-11 06:26:00 EST,2724-02-11 06:41:00 EST,251,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: SEDATED ON 100MCG FENTANYL AND 100MCG PROPOFOL. OCCASIONAL NEED FOR BOLUS WITH EFFECT. AROUSE TO VOICE. WILL OPEN EYES. DOES NOT FOLLOW COMMANDS. LITTLE MOVEMENT OF EXTREMITIES. RESTRAINED FOR SAFETY OF LINES/TUBES. 
+
+CARDIAC: HR 97-113 SR/ST WITH NO ECTOPY. BP 94-131/60-79. HCT PENDING. PPP.
+
+RESP: RECEIVED ON APRV MODE. BECAME OUT OF SYNC WITH VENT WITH ^^RR AND AIR HUNGER. CHNAGED TO A/C MODE WITH BETTER CONTROL AND COMFORT. 450X30 40% +12PEEP. PAO2 ONLT 74. INCREASED FIO2 TO 60% WITH ABG 7.39/36/211/23. DECREASED FIO2 TO 50% WILL NEED AN ABG. RR 28-40 WITH SATS 96-100%. LS CLEAR AND SXTED FOR THICK TAN SPUTUM. 
+
+GI/GU: ABD FIRM AND DISTENDED WITH +BS. MED BROWN SOFT STOOL X1. OGT IN PLACE AND PATENT. CONTINUES ON EMYCIN AND REGLAN. UOP 21-60CC/HR YELLOW AND CLEAR. CREAT REMAINS 1.4.
+
+FEN: CVP 10-18, +11.8L LOS. 1+ PERPHERAL EDEMA. LYTES PENDING, TROUBLE WITH LAB. RECEIVED KAYXELATE X1 LAST NOC WITH STOOL X1. FS Q6HRS WITH SSRI. TUBE FEEDS @20CC/HR WITH MINIMAL RESIDUALS.
+
+ID: TMAX 97.5 WITH WBC PENDING. CONTINUES ON VANCO, MEROPENEM, AND LEVOFLOX. CDIFF PENDING. 
+
+SKIN: W/D/I.
+
+ACCESS: POC, HICKMAN, ART LINE.
+
+SOCIAL/DISPO: FULL CODE. NO CONTACT FOM FAMILY. CONTINUE TO WEAN AS TOLERATED. ADVANCE FEEDS AS TOLERATED. 
+",,
+14302,14791,17773,0,2724-02-11 15:51:00 EST,2724-02-11 16:13:00 EST,107,"N",69,"Nursing/Other","altered resp status","
+altered resp status
+d: pt effectively sedated on fentanyl gtt at 100mcg/hr and propofol at 100mcg/kg/min. pt does attempt to open his eyes to voice but is not following simple commands. no spontaneous movements of his  extremities. soft wrist devices in place for safety of his lines should he awake.  once his vent setting requirements improve will attempt daily wake up.
+
+resp: orally intubated and ahave been able to wean his fio2 down to 40% with o2 sats> 93%. coarse bs bil on asucultation. suctioned once for mod amts fo thick tan sputum. vent settings presently 40%/500/ac 30 with 12 peep and rr 32-36. will continue to wean vent as pt tolerates.
+
+cv: hr has been 100-110's and sbp 111-149. k+ this am 5.2 and pt did receive 1 dose pf kayexalate 30 gm via ngt and will continue to follow electrolytes as ordered. no active cardiac issues at present time.
+
+gi: ogt in place and pt receiving probalance with fiber at 30cc's/hr with minimal residuals. goal rate of his tube fdgs are 65c's/hr and will continue to increase fdgs as he tolerates. abd firm and distended  with pos bowel sounds on auscultation. pt was incontinent of 2 loose brown stools [**Last Name (un) 3853**] were heme neg. hct stable at 25. pt conintues to receive reglan,erythromycin and famotidin as ordered. 
+
+gu: foley cath in place with adequate hourly uo. bun=46 and creat=1.4. i&o for this shift pos 1 liter and for los + 12 liters and increased edema noted to all 4 extremities. follow fluid status closely.
+
+id: afebrile this shift with wbc=16.4. all micro data neg to date so vancomycin and meropenem were d/c'd but will continue with levofloxacin. follow fever curve and if pt spikes fever will need to consider reculturing. 
+
+iv access: pt has r subclavian portacath, r radial aline and l subclavian triple lumen.
+
+social: pt is a full code. his mother was in to visit today and spoke with the pulmonary fellow who updated her on his medical status. continue to keep her well informed on a daily basis and offer emotional support to family.continue with present medical management.
+",,
+14302,14791,17773,0,2724-02-11 19:34:00 EST,2724-02-11 19:39:00 EST,175,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+Pt. remains on CMV now; on settings as per Carevue. The Fio2 was decreased to 40% from the 60% upon initial change at MN last noc.
+No further changes today; secretions are minimal and MDI's given as ordered. The Flovent has been D/C'd (see MAR).plan is to continue to wean as tolerated.
+",,
+14302,14791,17773,0,2724-02-12 05:42:00 EST,2724-02-12 05:46:00 EST,1017,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated/sedated. Tachypneic appears flow hungry at times. Tidal volume increased, appears somewhat more comfortable however remains tachypneic with MV 18-22lpm. 
+Bs: coarse with scattered rhonchi. Sxn'd x3 for sm- mod. thick yellow.
+abgs:adequately oxygenated, resp. alkalosis .
+Plan: VD/VT measurement to be done this morning.
+",,
+14302,14791,17773,0,2724-02-12 06:18:00 EST,2724-02-12 06:38:00 EST,830,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT ADEQUATELY SEDATED ON PROPOFOL/[**Last Name (LF) **], [**First Name3 (LF) **] OPEN EYES WITH STIMULATION AND CALLING OUT HIS NAME. PT NOT MOVING ANY EXTREMETIES UNLESS AGITATED. PEARL. 
+
+RESP: PT ON A/C 40% 500 X 30 12 PEEP, VERY TACHYPNEIC, ABG DONE SHOWED RESP ALKALOSIS. RRATE DROPPED TO 20 FROM 30 AND TV INC TO 600 FROM 500. LUNG SOUNDS HEARD THROUGHOUT WITH SCATTERED RHONCHI. ETT ROTATED TO LEFT SIDE OF THE MOUTH AND RETAPED. THIS STIMULATED MOVEMENT OF SECRETIONS. PT SX FOR COPIOUS AMT'S OF THICK YELLOW SECRETIONS. O2 SAT'S HAVE BEEN STABLE IN THE UPPER 90'S. 
+
+CV: PT IN ST THROUGHOUT THE NIGHT WITH RATES IN THE ONE TEENS UP TO 130. OCCASIONAL PVC'S ALL NOC. BP WITHIN NORMAL LIMITS AND TOLERATING [**First Name3 (LF) **]/PROP. AFEBRILE. 
+
+GI: PT TOLERATING TUBE FEEDS, RATE INC TO 40/HR. RESIDUALS MINIMAL. GOOD BOWEL SOUNDS, ABD DISTENDED, NO STOOL OVERNIGHT. ORAL CAVITY DEVELOPING THRUSH. 
+
+GU: FOLEY CATH PATENT DRAINING VERY LOW AMT'S OF AMBER URINE. PT GIVEN ONE FLUID BOLUS OF 500CC WITH MINIMAL RESPONSE. SCROTUM VERY EDEMATOUS. 
+
+ENDO: RECEIVING SSRI OVERNIGHT. FINGERSTICKS Q 6/HR. 
+
+SKIN: NO BREAKS, LEFT ARM SLIGHTLY MOTTLED, MANY LITERS POS EXTREMETIES VERY EDEMATOUS. 
+
+IV ACCESS: RIGHT SC PORTACATH, LEFT SC TLC, RIGHT RAD ALINE, ALL WITHIN NORMAL LIMITS. 
+
+SOCIAL: FAMILY IN VISITING LAST EVENING, NO CALLS OVERNIGHT, PT REMAINS FULL CODE. 
+",,
+14302,14791,17773,1,2724-02-12 16:06:00 EST,2724-02-12 18:43:00 EST,954,"Y",69,"Nursing/Other",,"
+
+pt with drop in sat to 86, taccycardic, hypertensive and taccypneic. abg sent and returned to previous vent settings. dr. [**Last Name (STitle) 5943**] notified. 
+",,
+14302,14791,17773,0,2724-02-12 16:06:00 EST,2724-02-12 16:34:00 EST,954,"N",69,"Nursing/Other",,"
+
+55 yo with metastatic esoph ca s/p recent stent placement with persistent reflux and pain refractory to meds causing inability to take po's which lead to arf. tx'd to icu for ^'d fio2 requirements, lactic acidosis and ^wbc...intub [**2-6**].
+
+neuro: accepted on fentanyl (120 mcg/hr) and propofol (100 mcg/kg/min) gtt's. fentanyl weaned 20% in am, order to d/c propofol and use versed prn. versed 6 mg ivp administered with poor response. propofol weaned and eventually off once versed gtt initiated. pt initially hypertensive to 190's taccycardic to 130's and rr up to 40. fentanyl gtt increased to 175 mcg/hr and versed titrated to 5 mg/hr. opens eyes to pain but does not follow commands. does not withdraw to pain or noxious stimuli, however bp and hr ^ when stimulated. pt does turn head side to side in bed and bites down on oral swabs as well as with being sxn'd. 
+cv: monitor shows st with occ pvc's noted. r radial aline with good waveform analysis (nibp 10 mm hg < aline). hypertensive and taccycardic while attempting to wean sedation. cvp 11-14.
+resp: vent changed from a/c->cpap+ps [**9-9**] with fio2 40%. abg on these settings: 7.49/28/83. dr [**Last Name (STitle) 3558**] aware. sxn for mod amts thick yellow secretions via ett. ls coarse throughout.
+gi: abd soft and distended. +bs noted. tf's advanced to goal of 65 cc/hr with minimal residuals noted. inc soft brown stool. remains on reglan, maalox, emycin, pepcid and protonix. 
+gu: foley intact and patent draining amber colored urine with no sedimentation noted. received 500 cc bolus of ns in am for marginal uo with improvement. 
+skin: c/d/i. oral thrush noted on nystatin s+s applied. 
+i-d: temp max 100.1 po. lactate on the rise and felt to be from tumor burden or liver mets per dr [**Last Name (STitle) 3558**]. remains on levofloxacin. cx's with ngtd. 
+endo: remains on fingersticks q6hr with riss.
+heme: Na phos infusing over 6hrs as ordered. 1400 lytes sent...phos 2.2 up from 1.2. k=4.7, cr 1.5
+psy-soc: mother called x2 and updated on status and plan of care by this rn. dr [**Last Name (STitle) **] called mother for update and plan for family meeting on thurs @ 1130. if unable to wean sedation/ventilator support, ? code status to be changed to cmo [**1-3**] poor prognosis and met disease. remains full code on micu service.  
+",,
+14302,14791,17773,0,2724-02-12 17:09:00 EST,2724-02-12 17:13:00 EST,6644,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt received on full ventilatory support. Placed on CPAP/PSV as documented, and tolerating well. VD/VT measurment done and documented. B/S sl coarse sx'ing sm thick yellow. Will continue to follow closely.
+",,
+14302,14791,17773,0,2724-02-13 04:18:00 EST,2724-02-13 04:33:00 EST,585,"N",69,"Nursing/Other","micu npn 1900-0700","
+micu npn 1900-0700
+please see carevue flowsheet for all objective data
+
+pt spiked temp to 102 last evening. febrile most of the night. tylenol, cooling blanket and cool bath eventually kicking in this am to decrease to 101. blood, urine and sputum sent for culture w/temp spike. all cultures have been ngtd thus far. pt's wbc count had jumped yesterday from 16 to 21, and the day before his broad spectrum abx coverage of vanco and meropenum was d/c'd. he remains on levofloxacin only. no changes have been made w/his regimine overnight.
+
+ros-
+
+neuro- pt at change of shift w/bp to 170 systolic, tachypnic to the 40's and appeared to be really struggling. fentanyl gtt increased to 200 mcg/hr and versed to 6 mg/hr. pt remains very sedated, although very sensitive w/droppping his 02sats to 90-91% w/turning, am care, etc. +cough, no gag noted. perl bilaterally 2-3mm.
+
+cv- hr from 1teens-130's sinus. occ to rare pvc noted. bp from 170's early in shift to 120's over last few hours. +pp. 
+
+resp- remains on a/c 40%  10peep 600x18, breathing above [**6-9**] above. abg last eve wnl. has maintained sats >95% for the most part, has dropped below that w/activity, but will recover when given time afterward. very thick yellow secretions via his ett q2-3 hrs. l/s course w/occ esp wheezes throughout.
+
+gi/gu- abd soft distended +bs. no stool o/n. uop ~50-70cc/hr of amber clear urine. tube feeds of probalance continue at goal rate of 65cc/hr. 
+
+endo- riss for bs of 191 at midnight. wnl.
+
+cont pulm toilet, f/u labs, cultures. ?changing over lines, all sites look good.. cooling blanket, tylenol prn for fever. fentanyl/versed for comfort.. plan for family meeting thursday am to revisit code status if conts to be unable to make proress in weaning from the vent in light of metastatic disease. 
+",,
+14302,14791,17773,0,2724-02-13 04:30:00 EST,2724-02-13 04:33:00 EST,1017,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated/sedated/febrile overnight. Overbreathing  set rate. Abgs: reveal resp. alkalosis with adequate oxygenation. No changes made to ventilator overnight.
+Bs: coarse at times R>L. Lavaged and sxn'd q4 for mod. thick yellow.
+Plan: continue to support. 
+",,
+14302,14791,17773,0,2724-02-13 17:17:00 EST,2724-02-13 17:53:00 EST,7687,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*DNR (CPR not indicated)
+
+*Access:  LSC multi lumen, Rrad A-line, RSC portacath
+
+*NKDA
+
+In brief: PMH HTN, met esophageal adeno CA, status post stent placement [**8-5**], finished chemo ""a few days before admission"", severe gastric reflux.  Came into FICU from 11Reis w/ resp distress, ?PNA /sepsis(increased lactate).  EGD showed patent stent w/ severe ulcerations above and below.
+
+Neuro:  Pt sedated [**Month/Year (2) **] 200mcg/hr, Versed 7mg/hr.  Arouses to pain, flexes and withdraws, does not follow commands and does not move extremities.  PERL 3mm/brisk.  Required boluses when turning.
+
+Cardiac:  ST w/ frequent to rare PVC's, vent trigeminy, and tachy episodes to 180's quickly resolving and at times sustaining in 170's.  Required Lopressor IVP and started on PO order.  This shift HR 108-180 (180's not captured by carevue), SBP 109-145.  Last Hct 27.7.  
+
+Resp:  AC 40%/600/18/10peep, last ABG 7.42/35/79/23.  Was tried on Psup last night but ABG 7.49/28/83/22 and not tolerating, so put back on AC, no vent changes today.  LS coarse throughout w/ insp wheezes in LLL, but little to no return when sxn'd.  Morning CXR showed bil infiltrate [**Name8 (MD) 17**] md.  RR 19-22, O2sat 93-96.  
+
+GI/GU:  Pt was on TF (Probalance) @ goal 65cc/hr, but vomitted while turning so TF off since 1600.  No stool this shift, urine amber/clear out foley 35-140cc/hr.  +BS.  Finger stick 180 RISS 2U.  
+
+ID:  Temp 100.1-101.9 oral, had temp 102 last evening also.  Today, given 650 tylenol and put on cooling blanket set at 60.3F.  WBC up to 27 from 21, pt on Levofloxacin only at this time.  MD's do not want to treat unless they see something specific to treat which may be causing the temp increase.  Cx's pending.  
+
+Skin:  intact, bil upper extremity edema, line sites wnl.  Portacath to be changed tomorrow by IV team unless it is felt that he has enough access already.  
+
+Psychosocial:  pt had mother and aunt into visit today.  they were updated on his condition and are planning to attend a fam meeting w/ md's tomorrow @ 11am to discuss his code status.  
+
+Dispo:  Cont to monitor HR, resp status, I&O, med regimen, Blood sugar, discuss portacath line change, and cont ICU treatment plan.  Support fam and provide CMO if fam changes code status.  At this point he remains DNR w/ CPR not indicated.
+",,
+14302,14791,17773,0,2724-02-13 18:12:00 EST,2724-02-13 18:19:00 EST,6691,"N",69,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on AC as noted. No changes this shift. BS coarse throughout. Pt suctioned for small amt of secretions. MDI's given with improved aeration as well as coarseness. Pt had an increase in HR around 12pm - ? as to whether MDI was the cause, but HR was 110 at 5:30pm and remained 110-111 after MDI's. Plan to continue on current settings at this time - a family meeting is scheduled for tomorrow.
+",,
+14302,,17773,0,2724-02-14 03:18:00 EST,2724-02-14 03:30:00 EST,7281,"N",69,"Nursing/Other","PROGRESS NOTE 7P-7A","
+PROGRESS NOTE 7P-7A
+THIS IS A PT. WITH PMH: HTN, MET. ESOPHAGEAL ADENO CA S/P STENT PLACEMENT [**8-5**]. TRANSFERRED TO MSICU FROM 11 [**Hospital Ward Name **] ON [**2724-2-6**] WITH RESP. DISTRESS. ? PNA/SEPSIS.
+
+IN BRIEF MDS SPOKE WITH PT.'S MOTHER YESTERDAY [**Name2 (NI) 2627**] HIS CONDITION/PROGNOSIS. (PT. HAS FAILED PRESSURE SUPPORT TRIAL AND DOES NOT APPEAR TO BE RESPONDING TO ANTIBIOTICS.) HE WAS MADE DNR-CPR NOT INDICATED YESTERDAY AND PLAN IS TO HAVE FAMILY THIS AM AT 11AM [**Name2 (NI) 2627**] CMO OPTION. 
+
+NEURO: PT. SEDATED ON FENTANYL 200MCG/HR AND FENTANYL 7MG/HR. REQUIRES BOLUSES WITH TURNING. PUPILS EQUAL AND REACTIVE. NO SPONTANEOUS MOVEMENT NOTED. 
+
+RESP: INTUBATED WITH #8 ETT. ON VENTILATOR: AC-40%/600/18/10. DID NOT TOLERATE PRESSURE SUPPORT YESTERDAY. BREATH SOUNDS COARSE BILAT. NO SECRETIONS NOTED WITH SUCTIONING.
+
+CVS: PT. NSR/ST WITH RATE 90'S TO 120'S. (LOPRESSOR 10MG IVP GIVEN AT MIDNIGHT WITH GOOD RESPONSE) SBP WNL. BILAT UPPER EXTREMITIES EDEMATOUS. BILAT. LOWER EXTREMITIES COOL TO TOUCH. PULSES WEAK. TMAX 101.7 AXILLARY. COOLING BLANKET TURNED BACK ON AT THIS TIME. BLOOD CULTURE BOTTLE SENT [**2-12**] GROWING GRAM + COCCI IN PAIRS AND CHAINS. ONE DOSE VANCO (1 GM) GIVEN AT 2200. PT. TO HAVE ONE MORE DOSE THIS AM AT 0800. HE REMAINS ON LEVAQUIN AS WELL.
+
+GI: ABD. DISTENDED AND FIRM. OGT REMAINS IN PLACE. WHEN CONNECTED TO SUCTION, APPROX. 200CC OF COFFEE GROUND DRAINAGE NOTED. MDS AWARE. T-FEEDS RESTARTED AT 10CC/HR D/T MINIMAL BOWEL SOUNDS NOTED. GOAL IS 65CC/HR. NO BM THIS SHIFT.
+
+GU: FOLEY. GOOD UO
+
+ACCESS: R CHEST PORT-A-CATH (NEEDLE CHANGED BY IV NURSE THIS AM)
+        L SCTL
+
+PLAN: FAMILY MEETING THIS AM AT 11AM TO DISCUSS CODE STATUS WITH FAMILY. UNTIL THEN CONTINUE WITH CURRENT POC. MONITOR RESP/HEMODYNAMIC/GI/FLUID STATUS CLOSELY. INCREASE T-FEEDS AS TOLERATED.  
+",,
+14302,,17773,0,2724-02-14 04:06:00 EST,2724-02-14 04:09:00 EST,487,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubted and mechanically vented. Vent checked and alarms functioning. No vent changes made this shift. Current settings: A/C 600 * 18 40% with 10 peep. Breathsounds are coarse. Bronchodilators given. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation.
+",,
+14302,,17773,0,2724-02-14 05:45:00 EST,2724-02-14 05:47:00 EST,7281,"N",69,"Nursing/Other","ADDENDUM TO PROGRESS NOTE 7P-7A","
+ADDENDUM TO PROGRESS NOTE 7P-7A
+AT 0500 TEMP 102.8 AXILLARY. MD CALLED, TEMP OF COOLING BLANKET DECREASED TO 50 DEGREES. AT THIS TIME PT. BECAME TACHYCARDIAT 180 FOR ABOUT ONE MINUTE. AT THIS TIME (0545) PT. APPEARS TO BE IN PSVT. ANOTHER 10MG OF LOPRESSOR GIVEN IVP WITH GOOD EFFECT. WILL CONTINUE TO MONITOR CLOSELY.
+",,
+14302,,17773,0,2724-02-14 06:47:00 EST,2724-02-14 06:48:00 EST,7281,"N",69,"Nursing/Other","PROGRESS NOTE ADDENDUM #2","
+PROGRESS NOTE ADDENDUM #2
+KAYEXELATE 30MG GIVEN AND EKG DONE FOR K+ OF 6.0 
+",,
+14302,,17773,0,2724-02-14 16:27:00 EST,2724-02-14 16:36:00 EST,7687,"N",69,"Nursing/Other","Nursing Progress Note 0700-1455","
+Nursing Progress Note 0700-1455
+Pt started shift by increasing HR to 180's and decreasing SBP to 80's.  Given Lopressor 5mg and 500cc NS bolus w/ good effect.  Resp requirements remained the same pt was not improving.  Temp cont above 101 w/ Tmax overnight to 102.8.  Cause of infection unknown at this point.  Oncology stated that there was nothing more that could be done for the pt's cancer.  The medical issues regarding the pt were discussed with the family and it was decided to change his code status to comfort measures only.  Orders were written and a priest was called to visit w/ the pt and the family.  The pt was extubated @ 1430 and morphine gtt was started @ 5mg for agonal breathing and comfort, bolus as required.  The pt expired @ 1455.  Pt transferred to morgue w/ no belongings.
+",,

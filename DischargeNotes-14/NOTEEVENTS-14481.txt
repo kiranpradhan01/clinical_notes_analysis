@@ -1,0 +1,250 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14481,21320,,,3401-06-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3401-6-5**]     Discharge Date:  [**3401-6-10**]
+
+Date of Birth:   [**3310-2-24**]     Sex:  M
+
+Service: Neurosurgery
+HISTORY OF PRESENT ILLNESS:  The patient is a [**Age over 90 **]-year-old
+male with asymptomatic left carotid stenosis.
+
+PAST MEDICAL HISTORY:   The patient has a past medical
+history of type 2 diabetes times 30 years, hypertension,
+
+PAST SURGICAL HISTORY:  A past surgical history of an
+appendectomy and bilateral cataract surgery.
+
+ALLERGIES:  He has no known allergies.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  On physical
+general, he was in good health and in no acute distress.  His
+head, eyes, ears, nose, and throat examination showed there
+were no palpable nodes.  He had bilateral carotid bruits.
+Cranial nerve examination was intact.  His chest was clear to
+auscultation.  His cardiovascular examination revealed a
+regular rate and rhythm.  No murmurs, rubs or gallops.  His
+abdomen was soft, nontender, and nondistended.  No masses or
+bruits.  His lower extremities revealed he had trace pedal
+edema, positive pedal pulses, and his strength was intact
+except for some mild right lower extremity weakness.  His
+gait was normal.
+
+HOSPITAL COURSE:   The patient was admitted for attempted
+carotid stenting which was unsuccessful because of a calcified
+and highly tortuous aortic arch which prevented successful
+catheterization. The patient tolerated the procedure well.  His
+pulses were intact.  His groin site was clean, dry, and intact.
+He was started back up on his Coumadin; currently, at 4 mg p.o.
+q.d.  His INR was 2.1.  He was to have his INR checked after
+discharge on [**3401-6-11**].  He was to follow up with his primary
+care doctor, Dr. [**Last Name (STitle) 10730**], next week.
+
+MEDICATIONS ON DISCHARGE:  Other medications at the time of
+discharge included atorvastatin 20 mg p.o. q.d.
+
+DISCHARGE FOLLOWUP:  The patient was to follow up with his
+primary care doctor.
+
+CONDITION AT DISCHARGE:  He was in stable condition at the
+time of discharge.
+
+
+
+                          [**Name6 (MD) 331**] [**Last Name (NamePattern4) **], M.D., Ph.D.[**MD Number 9434**]
+
+Dictated By:[**Last Name (NamePattern1) 805**]
+
+MEDQUIST36
+
+D:  [**3401-6-10**]  13:36
+T:  [**3401-6-10**]  14:17
+JOB#:  [**Job Number 10731**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 331**] [**Name (STitle) **]
+ on: WED [**3401-6-24**] 3:18 PM
+(End of Report)
+
+
+",,
+14481,21320,,,3401-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3401-6-5**] 8:08 AM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9834**]
+     Reason: [**Age over 90 **] year old male with carotid stenosis. Plan is for a diagno
+      Contrast: OPTIRAY Amt: 240
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75680 CAROTID/CEREBRAL BILAT        *
+     * 75671 CAROTID/CEREBRAL BILAT                                             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with carotid stenosis.
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] year old male with carotid stenosis. Plan is for a diagnostic cerebral
+      angiogram and carotid stent angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Rule out left internal carotid artery stenosis,
+     status post left hemispheric stroke approximately 6 years ago.
+     
+     POSTOPERATIVE DIAGNOSIS:  Critical stenosis greater than 90% of the left
+     internal carotid status post attempted microcatheterization for anticipation
+     of angioplasty and stenting.
+     
+     INDICATION:  This is a [**Age over 90 **] year old man who 6 years ago suffered a stroke after
+     taking a transatlantic flight to his native [**Country 9835**].  This was characterized by
+     aphasia and weakness of his right side.  He has subsequently undergone follow
+     up carotid ultrasounds which has revealed progression.  He has significant
+     medical history including diabetes and coronary artery.
+     
+     CONSENT:  The patient and his family were given a full and complete
+     explanation of the procedure including the risks, benefits and possible
+     complications.  These include but are not limited to stroke, infection, death,
+     vessel rupture, vessel injury, as well as other unforeseen complications. They
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the endovascular suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.
+     
+     ANESTHESIA:  Anesthesia was provided by members of the anesthesia department
+     under monitored anesthesia care (MAC).
+     
+     PROCEDURE IN DETAIL:  A 5 FR vascular sheath was placed into the right common
+     femoral artery. He was kept on a heparinized saline flush. A 5 FR Berenstein 2
+     catheter was used to attempt to catheterize the right common carotid artery.
+     This was, however, unsuccessful because of the tortuosity of the patient's
+     aortic artery and its heavily calcified nature. To that end [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2272**] catheter
+     was utilized and this allowed us to catheterize the right common carotid
+     artery.  With the catheter in the right common carotid artery, series of
+     biplane angiographic runs were obtained of the bifurcation as well as of the
+     intracranial circulation.  The catheter was then used to place into the left
+     common carotid artery.  With the catheter in the left common carotid artery, a
+                                                                 (Over)
+
+     DATE: [**3401-6-5**] 8:08 AM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9834**]
+     Reason: [**Age over 90 **] year old male with carotid stenosis. Plan is for a diagno
+      Contrast: OPTIRAY Amt: 240
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     series of biplane angiographic runs were obtained in both AP and lateral
+     projections of the neck and head. At this point, examination of the studies
+     revealed the presence of greater than 90% stenosis at the bifurcation on the
+     left side. This was deemed to be significant enough to warrant an attempt at
+     endovascular treatment. To that end, a  300 cm exchange wire was used through
+     the [**Doctor Last Name 2272**] catheter and placed in the left external carotid artery. The
+     [**Doctor Last Name 2272**] catheter was then exchanged successfully.  This was performed after
+     increasing the vascular sheath size to an 8 FR and with the exchange wire in
+     the left external carotid artery, an attempt was made to place the 8 FR guide
+     catheter into the left common carotid artery.  However, repeated attempts were
+     made and because of the heavily calcified native of the aortic arch and the
+     tortuous origin, it was not possible for the guidewire to follow into the left
+     common carotid artery.  After four attempts in addition to achieve significant
+     purchase in the left external carotid artery with the wire to enable
+     transition of the guide catheter, a decision was made to halt in order to
+     avoid disturbing the plaque in the left internal carotid artery and cause an
+     embolus.  To that and the guide catheter system and wire were removed and the
+     patient appeared to have suffered no neurological sequela as a result of the
+     procedure. The 8 FR vascular sheath was withdrawn over a wire and a perclose
+     device was used to perform the closure of the arteriotomy site.  This
+     procedure was done while the patient was heparinized.  Of note, he received
+     5,000 units of bolus of heparin at the beginning of the procedure after
+     obtaining femoral access and his preoperative ACT at baseline increased from
+     138 to 300.  He received an additional 2,500 units of heparin 1 hour later.
+     After removal and closure of the arteriotomy site, the patient was transferred
+     to the recovery room in excellent neurologic condition having suffered no
+     neurological sequelae and was maintained on heparin.
+     
+     RESULTS:  Injection of the right common carotid artery reveals the presence of
+     a smooth 20% plaque at the origin of the right internal carotid artery with no
+     significant hemodynamic compromise.  The injection of the right common carotid
+     artery reveals the right external carotid artery to [**Hospital1 4289**] no evidence of
+     arteriovenous shunting.  The supraclinoid segment of the right internal
+     carotid artery is smooth, however, the distal cavernous segment appears to
+     have two focal regions of minimal stenosis with no significance
+     hemodynamically.  Intracranially, the internal carotid artery is seen to
+     provide flow to both anterior cerebral arteries via a patent anterior
+     communicating artery.  There is no evidence of intracranial aneurysm or
+     arteriovenous malformation from the right-sided injection.  Injection of the
+     left common carotid artery reveals a 2 cm long segment of severe stenosis
+     ranging to a peak of greater than 90%.  There is no evidence of stenosis at
+     the origin of the left external carotid artery.  Intracranially, the left
+     internal carotid artery supplies the middle cerebral artery territory and the
+     anterior cerebral artery A1 segment is not visualized from this injection.
+     
+     IMPRESSION:  Severe greater than 90% left internal carotid artery stenosis at
+                                                                 (Over)
+
+     DATE: [**3401-6-5**] 8:08 AM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 9834**]
+     Reason: [**Age over 90 **] year old male with carotid stenosis. Plan is for a diagno
+      Contrast: OPTIRAY Amt: 240
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     the bifurcation.  Status post an unsuccessful attempt at placement of a guide
+     catheter in anticipation for stent angioplasty.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+14481,21320,18001,0,3401-06-06 03:15:00 EST,3401-06-06 03:38:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Mr. [**Known patient firstname 2420**] [**Known patient lastname 6146**], [**Age over 90 **] yrs old,  was transfer from PACU to NSICU (569) at 2130 on [**3401-6-5**]. He is a pt of Dr. [**Last Name (STitle) **]. Admitted dx: Carotid Stenosis. Surgical procedure: Cerebral angiogram, Left carotid stent (Fail - secondary to tortuosity of vessel). 
+
+allergies: NKDA
+
+PMH: HTN, diabetic type 2, high cholestrol, CVA - mild with weakness R. side (5 years ago), APPY (1930), Cataract. 
+
+neuro: Alert and orients X3 (full name, birthdate, hospital, 2002). Clear speech. MAE, slight weakness on right side. Follow all commands. Strong DP and posterior tibial pulses bilaterally. PERL - brisk. No drift of arms. Toungue midline, equal smile. Good gag and cough reflex. [**Last Name **] problem swallowing liquid - no chocking. No HA. No pain per pt. 
+
+cv: NSR 66-70 with rare PVC, pr .24, qrs- .12, qt - .40. Nipride drip to maintain SBP <150. afebrile. Warm, dry, no edema. R. femoral cath site - dry, clean, intact, no hematoma, no pain, DSD.  Heparin drip titrate per PTT and order of MD (PTT 150 - 900 units, PTT 132 - 750). PT is on Bleeding precaution.
+
+resp: Clear lung sound bilaterally, coarse at the bases. 2l NC - SaO2 93-96%. no SOB, no use of accessory muscle. RR 12-20.
+
+gu/gi: soft abd. +BS X4. Foley reinflated, reinserted and reposition - pt complain of bladder pain, with red drainage of urine. Pt more comfortable - urine light pink/clear >40 cc/hr. No pain in bladder or urination. 
+
+int: skin int.
+
+Verbally comfort pt and explain all procedures.
+
+Plan: Neuro and hemodynamic monitor, peripheral pulses monitor. d/c nipride ? . d/c heparin ?. d/c floor. 
+
+
+",,
+14481,21320,18001,0,3401-06-06 08:41:00 EST,3401-06-06 08:50:00 EST,3409,"N",54,"Nursing/Other","NSG TRANSFER NOTE","
+NSG TRANSFER NOTE
+SEE FLOWSHEET FOR SPECIFICS.
+
+SEE ADMIT NOTE FROM NOCS FOR HISTORY AND HOSP COURSE. PE AS FOLLOWS:
+
+NEURO-VERY PLEASANT. A+OX3. MAE. NORMAL EQUAL STRENGTH. PERRL. NO NEURO DEFICITS NOTED.
+
+CV-AFEBRILE. HRR. 50-60'S. SINUS, NO ECTOPY. SBP 120-150. SKIN W+D. +PP BILAT. NO EDEMA. DENIES CARDIAC COMPLAINTS. RIGHT GROIN ANGIO SITE WNL, NO S/S HEMATOMA NOTED. CON'T ON HEPARIN GTT. PTT AT 8AM 99.2, HEP GTT DECREASED TO 700U/HR. WILL NEED REPEAT PTT AT 14:30PM. COUMADIN RESTARTED LAST NOC. 
+
+RESP-O2 SAT 97%RA. LS CLEAR TO COARSE. RR 10'S. NARD NOTED. DENIES SOB/DOE.
+
+GI-ABD SOFT, NT/ND. +BS. TOL PO'S WIHTOUT N/V. HAD LARGE GUIAC NEG BM THIS AM. 
+
+GU-FOLEY D/C'D AT 8:30AM. AWAITING SPONT VOID. DTV 14:30-16:30. 
+
+ACT-ACTIVITY RESTRICTION DONE. OOB TO CHAIR WITH 1 ASSIST. TOL WELL.
+
+COMFORT-DENIES PAIN. 
+
+ENDO-SSRI. 
+
+PLAN-CON'T WITH CURRENT PLAN. FOLLOW COAGS. HEP GTT. TO GET COUMADIN TONOC. NEURO CHECKS. TRANSFER TO FLOOR WHEN BED AVAIL. 
+",,

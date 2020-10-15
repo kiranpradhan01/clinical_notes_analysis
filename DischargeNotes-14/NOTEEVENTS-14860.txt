@@ -1,0 +1,128 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14860,20160,,,2855-09-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2855-9-21**]     Discharge Date:  [**2855-9-26**]
+
+Date of Birth:   [**2796-2-12**]     Sex:  F
+
+Service:  CCU
+
+ADDENDUM:  On hospital day #6, the patient was found to be
+unresponsive.  Cardiac arrest code was called.  The patient
+was found to be in pulseless electrical activity.
+Cardiopulmonary resuscitation was initiated with
+electrocardiogram changes showing acute ST elevations in II,
+III, and aVF, which progressed to third degree heart block.
+
+A transvenous pacer was utilized in attempts to control her
+rhythm.  Cardiac arrest code was performed for approximately
+45 minutes without benefit.  The patient expired on [**2855-9-26**].  Family was notified and a postmortem examination
+was declined at this time.
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1067**], M.D.  [**MD Number 7034**]
+
+Dictated By:[**Name8 (MD) 6441**]
+
+MEDQUIST36
+
+D:  [**2855-9-27**]  19:21
+T:  [**2855-10-4**]  07:36
+JOB#:  [**Job Number 11321**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 123**] [**2855-10-7**] 9:51 AM
+(End of Report)
+
+
+",,
+14860,20160,18465,0,2855-09-22 04:38:00 EST,2855-09-22 04:54:00 EST,-1,"N",1,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE 2345-0700
+
+Pt. arrived from Cath Lab at 2345 via stretcher to room 0672. Pt. with IMI from RCA occlusion. See FHP for history/admission data.
+
+NEURO: Pt. A&Ox3, cooperative. Care and procedures explained to pt. Rationale explained to pt. for lying flat and keeping right leg straight post-cath, pt. compliant.
+
+RESP: Initially on 4lpm N/C with O2 sats 100%. Weaned O2 off by 0500. Pt. remains on R/A with O2 sats 94-95%. Lung sounds are clear throughout. Pt. denies SOB.
+
+CV: NSR/SB noted without ectopy. Initially returned from cath lab on Nitro gtt at 0.61 mcg/kg/min. SBP 88-90 range, NTG weaned off at 0130. Pt. has denied chest pain. Initially c/o left arm aching, resolved after BP cuff changed to right arm. IV fluids .45NS at 100ml/hr via right wrist IV. Right femoral groin site with bandaid, scant amt. old blood. No hematoma or ecchymosis noted. Feet warm bilaterally with palpable pedal pulses bilat. HCT and CKs pending this am.
+
+GI: Pt. with much nausea throughout shift. Did have approx. 100cc watery pink emesis(cranberry juice given in cath lab), upon arrival to CCU. Phenergan 25mg IV given without effect on nausea. Zofran 4mg given IV at 0130 with good effect. Pt. without futher emesis as of yet. Abd soft, +BS noted. Tolerating small amts. ice chips.
+
+GU: Foley catheter in place, draining adequate amounts clear yellow urine. At times 30cc/hr. MDs aware, therefore continuance of IV maintenance fluids.
+
+ID: Tmax 98.8
+
+SKIN: Right femoral site as noted above. No skin breakdown on back or buttocks noted.
+
+SOCIAL: Pt's son [**Name (NI) 87**] and other family member in to visit upon pt's arrival to CCU. Family spoke with MD, update given.
+
+PLAN: Monitor  heart rhythm,BP, chest pain, parameters for cardiac meds. Treat nausea with anti-emetics as ordered. Probable call-out to floors today. Update pt. and family on plan of care.
+",,
+14860,20160,18465,0,2855-09-22 16:23:00 EST,2855-09-22 16:38:00 EST,104,"N",1,"Nursing/Other","CCU progress note 7a-7p","
+CCU progress note 7a-7p
+Eventful morning. Pt had rec'd at 730am Zofran 4mg IVP for nausea and tylenol for general achyness.  Upon 8am assessment, pt c/o of aching L shoulder and upper L arm pain [**5-28**]. EKG done. MSO4 2mg IVP given w/ pain level [**2863-1-20**].  Started back on NTG gtt @ 1-2mcg/k/min, then pt became hypotensive, gtt stopped. Started on Dopa @ 5mcg/k/min and given fluid bolus. vomited x1, given zofran 4mg ivp again. Sent to cath lab for LAD intervention. ([**9-21**] cath had PTCA of RCA w/ no intervention to 85% occluded LAD). back to CCU w/ continued discomfort [**2863-1-20**] in L shoulder and upper arm to elbow. no increase noted. con't to monitor. awaiting sheaths to be pulled from L groin. 
+
+NEURO: a+ox3. mae. keeping L leg straight post cath intervention this afternoon. family in to visit and multiple calls from family members. 
+
+ID: tmax 99.9 . no abx. 
+
+CARDIAC: SB/SR 50-60s. held todays dose of lopressor and captopril d/t low SBP/HR. SBP currently 120s. con't w/ ache [**2863-1-20**] in L shoulder/upper arm. HO aware. Interventional fellow to pull sheaths this evening. post cath fluids .45NS@150cc/hr x 2L. pm K 4.2 . CKs trending down 400s this afternoon. repeat CKs tonite. 
+
+RESP: LS clear, placed on 3L n/c this morning w/ onset of L shoulder discomfort. sats 100%. no sob.
+
+GI/GU: foley patent. good urine output. Zofran given twice this morning for nausea. vomited 300cc greenish bile this morning. taking sips water post cath. no appetite this evening. FS qid. no insulin sliding scale required. 
+
+PLAN: check CK labs @ 11pm tonite. sheaths to be pulled this evening. con't monitoring L shoulder discomfort, make HO aware if increases. 
+",,
+14860,20160,18465,0,2855-09-23 04:39:00 EST,2855-09-23 04:56:00 EST,-1,"N",1,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE 1900-0700
+
+
+NEURO: Pt. A&Ox3, pleasant and cooperative. Compliant with lying flat with left leg straight post-sheath removal. Care and procedures explained to pt. Able to turn self this am, MAE.
+
+RESP: Initially on O2@ 2lpm N/C with O2 sats 100%. Weaned off O2. Pt. now on R/A with O2 sats 93%. Lung sounds clear throughout. Pt. denies SOB.
+
+CV: NSR rate 60s-70s, no ectopy noted. SBP >95, tolerating doses of captopril and lopressor. At beginning of shift, pt c/o ""slight"" left shoulder pain, states ""2"" on scale 1-10. Pt. states ""not too bad"". Dr. [**First Name (STitle) 446**] aware, no further orders received. Pt. denies chest pain and has denied futher left shoulder pain. Left femoral cath site ([**9-22**]) with dsd. No ecchymosis noted at site, slight hematoma, soft, not extending past outlined markings. Cath site on right femoral from [**9-21**] without drainage, ecchymosis or hematoma. Palpable pedal pulses bilat, feet warm bilaterally.
+
+GI: Pt. denies nausea. No emesis this shift. Tolerating ginger ale and toast. Abd. soft, +BS noted. No BMs this shift. Blood sugars WNL, no ss insulin coverage needed. 
+
+GU: Adequate urine output via foley catheter. Clear yellow, >50cc/hr.
+
+SKIN: Left femoral site as noted above. No skin breakdown on back or buttocks.
+
+ID: Tmax 100.3 orally.
+
+SOCIAL: Update given to pt's daughter over phone.
+
+PLAN: Monitor HR, BP,  note parameters for cardiac meds. Question MDs to have fingerstick glucose d'cd, as pt. is not a diabetic. Monitor left cath sit and pedal pulses. Probable transfer out of CCU today. Update pt. and family on plan of care.
+",,
+14860,20160,,,2855-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2855-9-24**] 3:59 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13009**]
+     Reason: r/o infitrate                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with acute inferior mi now with fever.                        
+     REASON FOR THIS EXAMINATION:
+      r/o infitrate                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of myocardial infarction with fever. Evaluate for pneumonia.
+     
+     Heart size is normal and there is no evidence for CHF. There is flattening of
+     the diaphragms consistent with COPD and there are small bilateral pleural
+     effusions. There are old healed fractures of the right 6th and 7th ribs
+     posteriorly.
+     
+     IMPRESSION: Small bilateral pleural effusions. COPD. No evidence for pneumonia
+     or CHF.
+
+",,

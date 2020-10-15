@@ -1,0 +1,515 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14423,20428,,,3065-10-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3065-10-3**]              Discharge Date:   [**3065-10-12**]
+ 
+Date of Birth:  [**2983-3-18**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Opioid Analgesics
+ 
+Attending:[**First Name3 (LF) 246**] 
+Chief Complaint:
+Malaise
+ 
+Major Surgical or Invasive Procedure:
+Debridement of R toe ulcer
+.
+PICC line placement
+ 
+History of Present Illness:
+82 y/o M with h/o DMII, CAD, non healing foot ulcer, s/p right 
+hallux amputation ([**9-1**]) and wound closure ([**9-5**]), MSSA infection, 
+who presents to ED with chief complaint of lethargy and fatigue, 
+feels ""week as a kitten"", found to have fever to 102, 
+tachycardia to 120's, hypotension (SBP in 80's-90's).  
+.  
+In ER, given 4 L IVF with rise in SBP to 110's. Also given 
+clinda/Vanco IV abx. Subsequently remained HD stable. PIV in 
+place. WBC 13.8.  
+.  
+Recent admit [**Date range (1) 10626**] with MSSA bacteremia. Source was foot 
+ulcer which also grew MSSA. Initially treated with nafcillin, 
+CTX, flagyl. Upon discharge ([**Hospital3 2340**] and Rehab), he 
+completed a 2 week course of dicloxacillin, with last dose 10 
+days ago.  
+.  
+Also on that admit, noted to have acute blood loss from bleeding 
+peptic ulcer. EGD revealed gastic ulcerations (fundus and 
+antrum). He was transfused 2U pRBC prior to discharge (Hct 28.5) 
+and started on ferrous sulfate 325mg po qd. He was also 
+instructed to hold coumadin  
+.  
+
+ 
+Past Medical History:
+1. CAD s/p CABG in [**3047**] for 80% distal LMCA, 90% mid LAD, 90%  
+prox d2, 80% prox OM1 and 80% mid RCA disease  
+2. CHF [**3065-8-31**] EF of 25%  
+3. PVD (Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1476**]) s/p right fem-af op bpg  
+4. AF on anti-coagulation  
+5. s/p L foot debridement in 10/05 (Dr [**First Name (STitle) **])  
+6. Hyperlipidemia  
+7. DM2  
+8. Diabetic neuropathy (multiple foot ulcers followed with Dr  
+[**First Name (STitle) **] in Podiatry)  
+9. MSSA bacteremia- source R foot ulcer  
+
+ 
+Social History:
+Lives with wife.  Stopped smoking 40 years ago. no ETOH or 
+drugs.
+
+ 
+Family History:
+no hx of DM or HTN
+ 
+Physical Exam:
+vitals- T 96.1, HR 77 irreg, BP 101/60, RR 16, 100% on 2L 02  
+gen- non-toxic, mentating, a&o x 3  
+heent- EOMI. OP clear  
+neck-non-distended jvp  
+pulm- CTA b/l  
+cv- irreg, no murmurs, rubs, gallops  
+abd- soft, NT/ND. NABS  
+ext- cool dist ext on left. RLE warm w/ erythema around R distal 
+hallux. R hallux s/p amputation, dressed w/ gauze w/o purulent 
+drainage. non-palpable dist pulses b/l (dopplerable);  
+neuro- CNII- XII intact, language fluent.  
+
+ 
+Pertinent Results:
+R Ankle/Foot X-ray
+1. Prominent soft tissue swelling at the first toe amputation 
+site with a probable small ulceration of the distal soft 
+tissues. The appearance of the remaining aspect of the first 
+metatarsal is unchanged, although radiographs have limited 
+sensitivity for detection of osteomyelitis.
+2. Additional postoperative changes of the right foot are 
+unchanged. 
+.
+MICRO DATA: 
+=========
+**FINAL REPORT [**3065-10-5**]**
+
+AEROBIC BOTTLE (Final [**3065-10-5**]): 
+STAPH AUREUS COAG +.    FINAL SENSITIVITIES. 
+
+SENSITIVITIES: MIC expressed in MCG/ML
+  STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------<=0.25 S
+PENICILLIN------------ =>0.5 R
+
+ANAEROBIC BOTTLE (Final [**3065-10-5**]): 
+STAPH AUREUS COAG +.    SENSITIVITIES PERFORMED FROM AEROBIC 
+BOTTLE
+. 
+[**3065-10-3**] 6:00 am SWAB      RT. HALLUX. 
+
+GRAM STAIN (Final [**3065-10-3**]): 
+2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES. 
+4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    IN PAIRS AND CLUSTERS. 
+ 
+Brief Hospital Course:
+82 y/o M w/ h/o CAD, DMII, R foot ulcer, s/p recent amputation, 
+MSSA bacteremia, who presents with fever/hypotension
+. 
+# MSSA Bacteremia: Initially presented with hypotension and SIRS 
+criteria including fever, tachycardia, leukocytosis, was 
+admitted to the Medical ICU. Hypotension was fluid responsive 
+after 2.5L NS and he had no evidence of end organ damage. He did 
+not require pressor support. Given his recent MSSA bacteremia (S 
+to oxacillin, clinda) and preliminary R hallux wound culture 
+with GP Cocci, he was treated empirically with vanco/clinda IV. 
+Blood culture data returned 4/4 bottles positive for methicillin 
+sensitive staph aureus, and antibiotics were tapered to IV 
+nafcillin. Suspected source was his R hallux ulcer which also 
+grew MSSA. This ulcer was debrided by the podiatry service. 
+Surveilence blood cultures remained negative to date and he has 
+remained hemodynamically stable; his last positive blood culture 
+was on [**3065-10-3**].  Oral dicloxacillin was discussed as an 
+alternative antibiotic, but he will be discharged on a two week 
+course of nafcillin IV because of his high grade bacteremia and 
+diabetes (To be continued through [**10-17**]).  He got a 
+transesophageal echo as an inpatient to rule out endocarditis 
+given his risk factors, which was negative.
+. 
+# DM type 2: Controlled with sliding scale insulin while 
+inpatient. Resumed metformin and glyburide.  With rising 
+creatine, will monitor for hypoglycemia in the setting of being 
+on glyburide as well as problems with metformin.   Please 
+consider changing to glipizide if this becomes a problem.  
+.
+# CAD/CHF: s/p CABG in [**3047**]; no signs of active ischemia or 
+volume overload. Continued on simvastatin, ASA. Metoprolol, 
+lasix held until HD stable and subsequently re-started.  Will 
+start lisinopril today prior to discharge for improved mortality 
+benefit.  Will need a creatinine check 10 days after starting 
+ACE-I (on [**10-20**]) to ensure that Cr not elevated.  Consider 
+starting spironolactone if his creatinine remains stable over 
+next few days.
+.  
+# Acute on chronic renal failure: Initial creat 1.5, baseline 
+creat 1.2-1.4. Likely pre-renal component. Volume repleted with 
+IVF's and pRBC and creatinine returned to baseline levels.  On 
+discharge, he was 1.5.  He should have this checked in one week.
+.
+# Insomnia/anxiety: The patient had an episode where he crawled 
+out of bed after receiving Ativan and Ambien.  We stopped both 
+of these medications and gave him haldol for [**Doctor Last Name 292**] (2mg) with 
+good effect.  As a result of this, he has an abrasion of his 
+right elbow which is superficial in nature, not requiring 
+stitches.  He also required olanzapine for anxiety.  He should 
+follow up with his PCP for his chronic anxiety/insomnia 
+problems.
+.  
+# Atrial fib: Rate controlled, holding coumadin anti-coagulation 
+in setting of recent GI bleed. Follow-up with cardiology as 
+outpatient to assess whether or not to restart coumadin given 
+that patient is a fall risk.
+. 
+# Anemia: Initial hematocrit 26. guaiac negative. Transfused 1 
+unit pRBC given h/o CAD and PVD with appropriate increase to 29. 
+ His hematocrit has been stable since.  
+.
+# R foot ulcer: As above, treated with antibiotics and 
+debridement. Podiatry and Vascular surgery consulted. Vanco 
+given for MSSA and levo/flagyl empirically at first, switched to 
+nafcillin prior to discharge.  He needs to follow up with 
+vascular surgery as an outpatient given his non-healing ulcer 
+and repeated infections as well as with Dr. [**First Name (STitle) **] of podiatry for 
+repacking/resuturing of foot.  
+.
+# Dispo: Patient seen by PT/OT and it was felt that the best 
+thing for him in terms of rehabilitation is to go to a rehab 
+center.  
+
+ 
+Medications on Admission:
+1. Folic Acid 1 mg PO DAILY  
+2. Terazosin 2 mg PO HS 
+3. Cyanocobalamin 1000 mcg PO DAILY 
+4. Multivitamin PO DAILY 
+5. Aspirin 81 mg PO DAILY   
+6. Metoprolol Tartrate 50 mg PO BID 
+7. Omeprazole 20 mg PO once a day
+8. Ferrous Sulfate 325 PO daily 
+9. Glyburide-Metformin 5-500 mg PO twice a day.  
+10. Simvastatin 20 mg PO qhs 
+11. Lasix 20mg QOD 
+ 
+Discharge Medications:
+1. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. Cyanocobalamin 500 mcg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+5. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO QHS (once a 
+day (at bedtime)).  
+7. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO QHS (once 
+a day (at bedtime)).  
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO EVERY OTHER 
+DAY (Every Other Day).  
+9. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.  
+10. Ketoconazole 2 % Cream Sig: One (1) Appl Topical  BID (2 
+times a day).  
+11. Hydrocortisone Valerate 0.2 % Cream Sig: One (1) Appl 
+Topical  BID (2 times a day).  
+12. Glyburide-Metformin 5-500 mg Tablet Sig: One (1) Tablet PO 
+BID (2 times a day).  
+13. Nafcillin in D2.4W 2 g/100 mL Piggyback Sig: One (1) 2g 
+Intravenous  Q6H (every 6 hours): Started on [**10-3**], to continue 
+through [**10-17**].  
+14. Haloperidol 5 mg Tablet Sig: One (1) Tablet PO at bedtime as 
+needed for insomnia.
+Disp:*qs Tablet(s)* Refills:*0*
+15. Olanzapine 2.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day) as needed for anxiety.  
+16. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR 
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).  
+17. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+18. Terazosin 2 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 375**] - [**Location (un) **]
+ 
+Discharge Diagnosis:
+Staph aureus bacteremia (methicillin sensitive) secondary to 
+foot ulcer
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please call if [**Doctor First Name **] have any fever/chills, worsening or 
+uncontrolled foot pain, worsening malaise, fatigue.  
+.
+[**Doctor First Name 54**] will need 2 weeks of treatment with IV Naficllin (First day 
+on [**10-3**] to continue through [**10-17**])
+.
+Please check creatinine in 10 days to ensure stable (ACE-I 
+started on day of discharge).
+ 
+Followup Instructions:
+-Provider: [**First Name11 (Name Pattern1) 10627**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1897**], DPM Phone:[**Telephone/Fax (1) 1542**] 
+Date/Time:[**3065-10-13**] 3:10
+.
+-Dr. [**Last Name (STitle) 1476**] of Vascular Surgery ([**Telephone/Fax (1) 10628**]
+Date/Time:[**3065-10-25**] at 9:45
+.
+-Provider: [**First Name11 (Name Pattern1) 1328**] [**Last Name (NamePattern4) 2987**], MD [**MD Number 224**]:[**Telephone/Fax (1) 1774**] 
+Date/Time:[**3065-10-25**] 3:30
+.
+-Provider: [**First Name11 (Name Pattern1) 421**] [**Last Name (NamePattern4) 7026**], M.D. [**MD Number 224**]:[**Telephone/Fax (1) 4537**] 
+Date/Time:[**3066-1-19**] 10:00
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 263**] MD [**MD Number 264**]
+ 
+Completed by: [**First Name8 (NamePattern2) 6070**] [**First Name8 (NamePattern2) 164**] [**Last Name (NamePattern1) **] MD [**MD Number 6071**] [**3065-10-12**] @ 1319
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: SUN [**3065-10-15**] 11:58 AM
+(End of Report)
+
+
+",,
+14423,20428,17925,0,3065-10-03 15:50:00 EST,3065-10-03 16:12:00 EST,7436,"N",1,"Nursing/Other","CCU Admission Note 0900-1900","
+CCU Admission Note 0900-1900
+Please see FHPA for complete PMH, allergies, meds.  Briefly, pt. admitted to EW with weakness, T 102 po, Tachycardia and SBP 80's.  Pt. given 2500cc NS, clinda and vanco.  Blood cultures, urine, and R feet wound culture sent.  Pt. admitted to CCU ? sepsis.
+
+CV: HR 65-87 AF with rare PVC's.  BP 93-113/59-67, MAP 65-87.  Receiving NS @ 100cc/hour, d/c'd once starting po's  Hct 26.2, receiving 1U PRBC over 4 hours.   
+
+Resp:  lungs clear, O2 weaned to off with o2 sats 98-99%.  
+
+GU:  foley in place, draining clear yellow urine, BUN 29, Cr 1.5.  U/o50-250cc/hour, ~ 2.5 L positive since admission.
+
+GI:  abdomen soft, +BS, reports having diarrhea for several weeks at home 1-2X/day.  No stool yet, but needs c diff sent.
+
+ID:  T max 96.8 po, on clinda, received vanco in EW, will received next vanco tomorrow, needs Vanco trough sent in am.  WBC 13.8.
+
+Skin:  just below coccyx, has 6 mm X2 mm decube, no drainage from site.  Cleansed with NS, duocerm gel, duoderm dressing and hy-tape picture frame done.  Right foot with great toe removed last month.  Draining serosanguinous drainage.  Foot pink up to mid foot.  Pulses all dopplerable. Surgery in to see pt.,site packed with (1) 4X 4 dampened with NS then wrapped in Kerlix.  Dressing to be changed bid, next due in the am (surgical team will do am dressing).  Middle toe on Right foot also has eschar, size of [**Last Name (un) **] (this is covered by kerlix)  Pt. placed on Kinair bed.
+
+Access:  PIV #18 X2, sites clean.
+
+Neuro:  alert and oriented X3, follows requests, MAE.  c/o not sleeping at home--falls asleep at ~ 2200, sleeps 'til midnight and is then awake all night. Requesting sleeper for tonight, though pt's wife reports that pt. gets anixous and nasty with narcotics and sleepers.  Pt. states he does well with ambien or extra strength tylenol for [**Doctor Last Name 8**].
+
+Social:  wife updated on multidisciplinary POC by phone.  Will have soical worker assess home situation--81 yo wife walks with cane and is caring for pt. (including doing dressing changes on MWF).  Pt. reports wife is putting off having a sciatica problem addressed because of pt's health care requirements.  Pt's children live in [**State 109**].
+
+A:  82 yo male admitted for ? sepsis d/t leg wound.  Hemodynamically stable at this time and is afebrile.  Skin breakdown. ? adequate support at home.
+
+P""  continue skin care as above.  Have SW assess home situation.  Continue to monitor BP/HR.  Recheck Hct post transfusion.  Check with intern re: sleeper 
+",,
+14423,20428,17925,0,3065-10-04 02:39:00 EST,3065-10-04 02:49:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: ""I feel like a bundle of nerves...""
+O: please see carevue for complete assessment details.
+No events
+NEURO: Pt A&Ox3, anxious and restless @ start of shift. Med w/ 0.5mg PO ativan w/ effect, pt slept in naps, also 1gm tylenol @ HS. MAE, turning self in bed, denies pain. No focal neuro deficits noted. Cont to c/o mild weakness, improved since admission. 
+
+CV: Hemodynamically stable, BP 100s-120s/60s, HR AFib 70s-90s w/ frequtent multifocal PVCs (in setting of Mg 1.3->repleted w/ 3gm).  HR intermittently ^ 120s w/ heightened anxiety, improved upon admin of anxiolytics. Extremities warm, distal pulses +1/dop. Denies CP/palpitations. Post transfusion Hct stable @ 29. 
+
+RESP: Breathing comfortably on RA, RR 16-20, intermittent periods of [**Doctor Last Name 8**] apnea lasting ~25seconds noted; SpO2 maintained >93%. LSCTA, no cough/sputum. Denies dyspnea. 
+
+GI: Abd soft, distended, nontender. +BS/-BM. Tol meds and po liquids, declining dinner d/t poor appetite. 
+
+GU: Foley draining adequate amts CYU. 
+
+ENDO: BG covered w/ HISS PRN. 
+
+ID: afebrile, cont clinda/zosyn. BC from [**10-3**] w/ GPC in pairs/clusters growing in 2/4 bottles. 
+
+SKIN: decub on coccyx w/ duoderm intact. Rfoot incision not visualized, DSD intact. PIV x 2 patent, no other breakdown noted. 
+
+SOC: SW to follow in am RE: home environment, ability of wife to care for pt @ home. 
+
+A: 82yo presenting w/ hypotension, R foot wound infection, currently hemodynamically stable on IV abx. Culture data pending. 
+P: Cont to monitor hemodynamics, follow up am labs, cont abx a/o. Surgery to change dsg in am. Encourage PO intake, ^ activity as tolerated. Anticipate c/o to floor. 
+",,
+14423,20428,17925,0,3065-10-04 15:18:00 EST,3065-10-04 15:46:00 EST,7436,"N",1,"Nursing/Other","CCU Nursing Progress Note (MICU service) 0700-1900","
+CCU Nursing Progress Note (MICU service) 0700-1900
+S:  ""I'm just a bag of nerves, I'm going to just jump out of this bed, I can't get things off of my mind.""
+
+O:  See CCU flow sheet for complete objective information
+
+CV:  HR 77-101 AF with multifocal PVC's including occ. couplet.  Restarted to lopressor at 12.5 mg bid.  BP 106-130/67-89, MAP 76-104.  Repeat Hct 32.5.
+
+Resp:  lungs clear, RR 15-22, O2 sats 96-98% on room air.
+
+GI:  good appetite, covered with 4 Humalog insulin for BS 207.  Mod sized OB soft, formed OB (-) stool.
+
+GU:  foley draining dark yellow clear urine.  BUN 23 (29) Cr 1.3 (1.5)
+
+ID:  t max 98 po.  Continues on IV vanco, clinda d/c'd, started to po levoflox and flagyl.  WBC 9.1 (13.8)
+
+Skin:  Duoderm over coccyx intact.  Dressing over right foot intact.  Feet warm.  Turning freely in bed (Kinair).  Encouraged to stay off of back.  Patient going to OR tomorrow for debridement of foot.  NPO after midnight.  
+
+Neuro:  alert and oriented X3.  Given 0.5 mg po ativan for anxiety at 1400.  Wife states that pt. usually gets anxious at home in mid afternoon and extra-strength tylenol sometimes helps.  At 1600, pt. had above c/o anxiety.  Given 1 Gm Tylenol.  Still with c/o anxiety, team in to reassess.
+
+Social:  met with social worker today, given options for further support upon discharge.
+
+A:  remains afebrile on current antibiotics.  Anxiety continues.  Tolerating addition of beta blocker.
+
+P:  continue with bid dressing changes to foot; duoderm dressing to be changed Friday (duoderm gel/duoderm dressing/hy-tape).  Continue to minimize stimuli in room, offer emotional support.  NPO after midnight for surgery.
+
+
+
+
+",,
+14423,20428,17925,0,3065-10-05 04:06:00 EST,3065-10-05 04:40:00 EST,2540,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700 MICU Borderq","
+CCU Nursing Progress Note 1900-0700 MICU Borderq
+S: ""Are [**Doctor First Name **] other patients as anxious as me?""
+
+O: Please see careview for complete VS/ additional objective data.
+
+MS: AAOx3. Pleasant and cooperative. PEARL. MAE. Assisting with care. Frustrated with lack of [**Doctor Last Name 8**] despite 1.5 mg po Ativan, 25 mg Trazadone, and Tylenol given late on prior shift and current shift. Becoming increasingly anxious and less patient. Requiring continued emotional support. HO's presence requested. Pt given Ambien 5 mg po with good effect.
+
+CV: Remains hemodynamically stable.  Chronic Afib w/ rare PVC. HR 60-80. NIBP 116-131/70. SBP decreased to 80s while sidelying/ asleep. otherwise MAPs>85. HCT stable at 30. Electrolytes wnl. R foot distal pulses dopplerable. L foot pulses +1. 
+
+Resp: LS cta. Breathing nonlabored. Pt denies SOB/ difficulty breathing. Tolerates lying flat during pm care/ repositioning. RR 13-18. O2 sats 97-98% off all supplemental O2.
+
+GI/GU: NPO after midnight in preparation for surgery. Tolerating po meds. +BS. Incontinent for sm brown thick stool x1. Guiac negative. F/C to gravity draining adequate UOP. Improved UOP following repositioning. Pt negative 230cc since midnight. Remains +3.8L LOS. BUN/Cr 25/1.4. 
+
+Endo: BS 171 last pm. Received 2 units coverage per  Humalog sliding scale. This am BS 75. Cont to follow. 
+
+ID: Afebrile. Tmax 98.8 PR. Continues triple abx for GPC growth in pairs/ cluster in 2/4 BC bottles from [**10-3**]. 
+
+Skin: Duoderm intact on coccyx decubitus. To be changed on Friday. Not visualized by current shift. Foot dsg changed BID. AM change to be completed by consulting vascular team. Dsg W-D. Changed on prior shift. Dsg remains CDI.
+
+Social: SW involved. Lives with spouse who has developed chronic condition but has deferred treatment until pt's health has improved. Lives on second floor. Will need at home services. Son's family lives in VA. Wife is supportive. Called overnoc for update.
+
+Dispo: Full code
+
+A/P: 82 yo male w/ pmhx of DM2, Afib, CAD s/p CABG x5, PUD, PVD w/ chronic non healing R foot ulcer s/p R hallux amputation [**3065-9-1**]. Course c/b MSSA infection. Discharged home from rehab 10d pta. Admitted to [**Hospital1 10**] following hypotension/ and fever secondary to presumed sepsis of R leg wound. Received fluid resuscitated in EW and started on abx.  Cont emotional support as needed. Cont Ativan prn./ Ambien HS. Follow temp curve and cont abx x3. Cont skin care as instructed. Cont SW involvement regarding at home situation. NPO after midnight for surgery planned for today. 
+",,
+14423,11092,17927,0,3066-04-06 03:05:00 EST,3066-04-06 03:13:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+THIS IS AN 83YO MALE WHO PRESENTED TO EW WITH HYPOGLYCEMIA (BLOOD GLUCOSE AS LOW AS 44). HE IS A TYPE II DIABETIC WHO WAS TAKING HIS ORAL HYPERGLYCEMICS DESPITE HAVING DIARRHEA X 3-4 DAYS. PMH INCLUDES CAD, PVD (S/P TOE AMPUTATION 2 WEEKS AGO), CABG, CHRONIC ANEMIA, CHRONIC AFIB, CHF, CVA, GIB AND MSSA BACTERMIA OF R FOOT ULCER. HE WAS GIVEN ORAL GLUCOSE IN EW WITH LITTLE EFFECT. AFTER GIVEN AN AMP OF D50 HIS SUGARS INCREASED TO LOW 200'S. TRANSFERRED HERE TO MSICU FOR CLOSE GLUCOSE MONITORING.
+
+NEURO: ALERT AND ORIENTED X3. VERY PLEASANT AND COOPERATIVE. MAE. ASSISTS WITH NSG. CARE. NO C/O PAIN THIS SHIFT.
+
+RESP: PT. ON 2L NC WITH SATS >97%. BREATH SOUNDS CLEAR THROUGHOUT ALL LUNG FIELDS. NO COUGH OR SOB NOTED.
+
+CV: PT. IN AFIB (CHRONIC) WITH RATE 70'S TO 90'S. PT. NO ON ANTICOAGULATION AS PT. HAS FREQUENT GIBS. BP WNL. PEDAL PULSES HEARD WITH DOPPLER. NOT PALPABLE. EVENING K+ 3.2 REPLETED WITH 40 MEQ PO AND PT. STARTED ON D5LR WITH 40KCL AT 75CC/HR X 1 LITER.
+
+GI: ABD. SOFT. NONTENDER. BS PRESENT. PT. DOES HAVE DIET ORDERS AND ATE DINNER IN EW. TOLERATING PO'S WELL. NO BM T HIS SHIFT. REPORTEDLY HAD LOOSE STOOL X2 IN EW
+
+GU: PT. VOIDING CLEAR YELLOW URINE IN URINAL.
+
+SKIN: INTACT. TOE AMPUTATION  SITE SEEN BY ID IN EW AS SITE A LITTLE RED. HE WAS GIVEN 1 DOSE OF VANCO PROPHYLACTICALLY, HOWEVER THEY FEEL AS THOUGH SITE LOOKS ""GOOD"". NO C/O PAIN AT SITE. 
+
+ACCESS: 2 18G PIVS
+
+PLAN: CONTINUE CHECKING BLOOD SUGARS Q2H. IF BLOOD SUGARS REMAIN STABLE PROBABLE C/O TO FLOOR THIS AM. AM LABS PENDING. PT.'S WIFE CALLED BY MD'S AND UPDATED ON HIS POC. FULL CODE. 
+",,
+14423,11092,17927,0,3066-04-06 17:15:00 EST,3066-04-06 17:17:00 EST,175,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+Pt has required NO tx's today as per himself. He had numerous runs of V-tach over a short time this PM, MD's aware.
+",,
+14423,11092,17927,0,3066-04-06 18:47:00 EST,3066-04-06 19:01:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Alert and oriented, needs reinforcement for some request like asking for a urinal and bed pan.
+
+CV:  He started to have frequent runs of VT this afternoon of at least 28 beats, he does not feel anything when this is occuring, his BP remains stable.  Lytes were sent, he was given 2 grams of magnesium in addition to his morning 2 grams.  An EKG was done, no chest pain, EP was called and the recommended that he be given 12.5 mg of PO lopressor and then 37.5 mg 2 hours later, his VT has decreased some later this afternoon.
+
+Resp:  LS clear to exp wheezes, no cough, 02 SAT on room air has been in the upper 90s.
+
+GI:  He has been having frequent loose stool greyish in color, LFTs were sent as well as a cdif.  He has a good appitite and is able to feed himself after his food has be cut up.
+
+GU:  Using a urinal though he has not always been able to get all of the urine in the container.
+
+Endo:  His blood sugars were up to the 190s this morning, his finger sticks have been changed to QID before meals and at bedtime, his FS this evening was 135.  He is not on an oral [**Doctor Last Name 50**] for his BS at this time.
+
+
+
+
+ 
+",,
+14423,,17927,0,3066-04-07 02:37:00 EST,3066-04-07 02:48:00 EST,5273,"N",69,"Nursing/Other",,"
+
+Nursing Note: 1900-0700 pt full code, contact precs.
+
+Neuro: pt AAOx2/3, pt knows he is in [**Hospital3 **], but occasionally confused why he is in hospital, noted to be easily forgetful. pulled off cardiac leads overnight, reoriented frequently, c/o trouble sleeping, 5mg prn ambien given HS. sleeping on/off during night, denies pain.
+
+Resp: sats 98-100 on 2L NC, lungs diminished bilaterally. no cough noted.
+
+CV: HR 80-120 afib with occasional PVC's, NBP 100-120/50-60. tolerated PO lopressor. tmax 99.6, pos distal pulses. 
+
+GI/Endo: pos bowel sounds, sm grey formed BMx1 overnight. good appetite, HS blood glucose 131, no insulin coverage needed.
+
+GU: pt voids, attempts to use urinal occasionally but mostly incontinient, brief applied and frequently changed.
+
+IV: 18g PIV x2 WNL, pos blood return.
+
+Skin: no active skin breakdown noted, reddened area on coccyx, barrier cream applied.
+
+Social: no calls or visits from family overnight.
+
+Plan: cont to monitor vitals, resp status, reorient patient as needed, labs. ? call out tomorrow. update pt and family as appropriate, assessment ongoing.
+
+
+",,
+14423,,17927,0,3066-04-07 15:19:00 EST,3066-04-07 15:21:00 EST,1520,"N",69,"Nursing/Other",,"
+
+MICU Transfer note:
+
+Pt. being tx'd to extended care facility at 15:30 in stable conditions.  Please see carevue flowsheet and discharge summary for more details.  Thanks!
+
+
+",,
+14423,,40139,0,3067-06-11 04:17:00 EST,3067-06-11 04:55:00 EST,6839,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S:""Water please""
+O: 84 y/o M c mult medical problems including an extensive cardiac hx, c recent hospital admissions. Last DCd from [**Hospital1 **] [**6-6**] to nsg home, admitted yesterday for SOB & malaise x1 week. 
+
+CV: AF c freq PVCs, rare short runs NSVT. K 3.8, Mg 1.7-->to be repleted. Not on anticoagulation d/t chronic GIB. Rate controlled c 6.25mg Carvedilol BID. SBP 80-100, lower to mid 80s when asleep. Total body anasarca. 40mg IV lasix given c good response. CE sent x3. Peak Trop 0.19 upon admission. HCT this am 27 (29.9), h/o anemia. PLT 108. 
+
+RESP: O2 sats >95% on 3L NC. LS course, diminished. Audible wheezes, tx'd c albuterol neb c + effect. +congestive NP cough.
+
+NEURO: A&Ox3. Following commands. Assisting c turns in bed. 
+
+GI/GU/ENDO: Asp prec. Thin liq via cup c no straw and reg solids. May take lg pills crushed c puree and sm pills whole c puree--per recs of recent S&S study. Cardiac/Diabetic diet. HOB in high fowlers c PM meds. No s/s aspiration. 1500cc fluid restriction. No BM overnoc, LBM yesterday, PTA per Pt. Need stool for CDiff sample. Foley draining good amts CYU from diuresis. UA/ UCx sent. Renal u/s today. BUN/Cr 116/4.3 (119/4.3). New Baseline Cr 4.0-4.3. No coverage needed for FS--on RISS.
+
+ID: Contact prec for MRSA. Initially cool c PO temp 92 and rectal temp 96. Bair hugger applied--4am temp up to 98 R-->Bair hugger off. On Levoquin for RLL PNA. BCx from yesterday PND. WBC remains flat. 
+
+SKIN: Mult skin issues, see careview for details. Mult old, dried scratches/scabs on head, arms and legs. Scab on L cheek. R foot no toes, L great toe amp--L remaining toes c abrasions/ulcers. BUE and left neck ecchymotic. Knees pink/red--blanching. RUE skin tear. Coccyx c opened area--allevyn dsg intact.
+
+SOCIAL: Lived c wife prior to nsg home. Wife [**Name (NI) 6072**] called, updated by RN. Spoke to pt via phone in room. FULL code.
+
+A/P: CHF decompensation c ? infectious process, PNA.
+-?more lasix, goal -1.5/day. Strict I&Os, daily wts- 1500cc FR
+-replete lytes
+-Echo today to assess LV fxn and EF
+-renal u/s today
+-?Nutrition c/s, maintain asp prec.
+-CDiff sample if stools
+-^ activity as tol, OOB. ?PT eval
+-emotional support to pt and wife. update on POC. Awaiting further plan from CCU team.
+-?Discuss code status c pt and wife
+
+",,

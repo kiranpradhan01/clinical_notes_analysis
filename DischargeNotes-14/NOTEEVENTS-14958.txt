@@ -1,0 +1,570 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14958,13206,,,2804-05-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2804-5-30**]       Discharge Date:  [**2804-6-14**]
+
+Date of Birth:   [**2738-5-7**]       Sex:  F
+
+Service:
+
+ADDENDUM:  The patient remained hospitalized until [**2804-6-14**]
+when she was discharged to [**First Name4 (NamePattern1) 1916**] [**Last Name (NamePattern1) **] with hospice.
+
+DISCHARGE MEDICATIONS:
+1. Tylenol 650 mg p.r. q. 6 hours.
+2. Fosphenytoin 225 mg intramuscular b.i.d. alternate arms.
+3. Diastat 2.5 mg p.r. q. 10 minutes p.r.n. seizures until
+seizing stops.
+4. Morphine elixir 20 mg per mL 5 mg sublingual q. 1 hour
+p.r.n. for minimal distress.
+5. Morphine sulfate 20 mg per mL solution, 10 mg sublingual
+q. 1 hour as needed for moderate distress.
+6. Morphine sulfate 20 mg sublingual q. 1 hour as needed for
+severe distress.
+7. Ativan 1 mg p.o. q. 3 hours, please give sublingual.
+8. Ativan 1 mg p.o. q. 1 hour as needed for agitation,
+respiratory distress.
+9. Scopolamine patch q. 72 hours.
+
+
+
+
+
+                            [**Name6 (MD) 128**] [**Last Name (NamePattern4) 11457**], M.D.  [**MD Number 11458**]
+
+Dictated By:[**Last Name (NamePattern1) 1551**]
+MEDQUIST36
+
+D:  [**2804-6-14**]  14:05
+T:  [**2804-6-14**]  15:23
+JOB#:  [**Job Number 11459**]
+Signed electronically by: DR. [**First Name (STitle) 128**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: FRI [**2804-6-25**] 5:34 PM
+(End of Report)
+
+
+",,
+14958,13206,,,2804-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-5-30**] 7:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13717**]
+     Reason: r/o PNA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with seizures and temp to 104; page [**Doctor Last Name 9595**] [**Pager number 9596**]
+     REASON FOR THIS EXAMINATION:
+      r/o PNA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Seizures and fever.
+     
+     CHEST X-RAY, PORTABLE AP VIEW:  Comparison made to prior film of [**2803-2-23**].  There is an indentation along the right tracheal wall in the lower
+     neck.  This likely indicates a right thyroid nodule.  The cardiomediastinal
+     contour is unremarkable.  A small amount of atelectasis is present at the left
+     lung base.  No consolidations, effusions, or pneumothorax.  The osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1) No acute cardiopulmonary disease.
+     
+     2) Likely right thyroid nodule.
+
+",,
+14958,13206,,,2804-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-5-30**] 7:10 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13718**]
+     Reason: r/o bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman p/with sz, underlying sz d/order not taking meds; bad htn,
+      h/o CVA's; page [**Doctor Last Name 9595**] [**Pager number 9596**]
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb SUN [**2804-5-30**] 9:32 AM
+      Infarction left fronto-parietal region. New since [**January 2803**]. At least couple
+      days old.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CLINICAL HISTORY:  Seizures.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     COMPARISON:  [**2803-2-23**].
+     
+     FINDINGS:  There is no evidence of intracranial region of high attenuation to
+     suggest acute hemorrhage.  There is a region of hypoattenuation of white
+     matter and adjacent cortex involving the left frontoparietal lobe extending
+     from the region just posterior to the insula superiorly and posteriorly to
+     near the vertex.  This is new since [**2803-2-23**] and is consistent with
+     an infarction.  There is effacement of the adjacent sulci and slight relative
+     narrowing of the left lateral ventricle suggesting mass effect associated with
+     edema.  There is stable chronic ventriculomegaly of the right lateral
+     ventricle.  There is stable hypodensity in the right basal ganglia and in the
+     frontal lobe white matter adjacent to the right lateral ventricle which are
+     unchanged and consistent with old infarcted areas.  The basal cisterns are
+     normal.  There are no soft tissue or osseous abnormalities.  The mastoid air
+     cells and visualized paranasal sinuses are clear.
+     
+     IMPRESSION:
+     
+     1) Large area of infarction in the left frontoparietal region which is new
+     since [**2803-2-23**].  There is effacement of adjacent sulci and slight
+     narrowing of the adjacent left lateral ventricle suggesting associated edema.
+     This area of infarction is at least two days old to be seen on CT scan.
+     Clinical correlation is necessary to attempt to date the infarction.
+     
+     2) No change in ventriculomegaly and old infarcts involving the right basal
+     ganglia and right frontal lobe.
+
+",,
+14958,13206,,,2804-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14958,13206,18580,0,2804-05-30 17:04:00 EST,2804-05-30 17:18:00 EST,2369,"N",69,"Nursing/Other",,"
+
+Micu Progress Nursing Note:
+
+See admission history. Admitted from ED from nursing home with change in mental status, refusing food and meds for several days. Ambulance personnel witnessed seizures. Temp 104.1 rectal in ED. RR 40s. BP 210/100. Blood sugar 305. GIven 10 units reg. insulin and  placed on insulin gtt. 10mg Decadron also given in ED.  Arrived in MICU B 1030 with mask on.  Patient is on resp precautions, ? meningitis. Taken to CT with diagnosis of embolic stroke. DNR/DNI. Placed on 2l NC with sats high 90s. Paradoxical breathing, rate 30s-40s. Non-verbal. Flaccid right side from old CVA. BP 190s-200s systolic. HR ST 140s, no ectopy. Received with Nipride gtt titrated over next several hours to 5mics with BP ~180 to low 200s. Goal is BP ~180 systolic. Nipride dc'd and Labetolol gtt started this afternoon. Patient had lumbar puncture with cloudy fluid, opening pressures ~50. Bottle one with WC of 23,000 and bottle 4 with WC 20,000. Patient received Vanco this am, Ceftriaxone, Ampicillin this afternoon. Blood cultures x2 sent as well as urine spec. Temps have remained 102 orally or axillary and 104 to 103 rectally. Patient received Tylenol pr x2 and is on cooling blanket. Family have been in and have been instructed about airborne precautions, masks, hand washing. 
+Plan: To MRI tonight with sedation with Versed. Maintain systolic pressures ~180-200. Monitor temps, electrolytes, blood sugars.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] RN
+",,
+14958,13206,18580,,2804-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-5-31**] 9:42 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 13719**]
+     Reason: RUQ PAIN, EVAL FOR CHOLANGITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with GN rod meningitis, RUQ tenderness, elevated alkaline 
+      phosphatase
+     REASON FOR THIS EXAMINATION:
+      please eval. for evidence of cholangitis                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient with a history of meningitis and right upper quadrant
+     tenderness, elevated alkaline phosphatase.
+     
+     ULTRASOUND FINDINGS: The liver is normal in size, contour and echogenicity.
+     There is no intrahepatic or extrahepatic ductal dilatation, common bile duct
+     measures 6 mm. There is a gallstone within the neck of the gallbladder, and
+     the gallbladder is slightly distended. There is no evidence of pericholecystic
+     fluid. Color Doppler evaluation demonstrates normal hepatopetal flow in the
+     main portal vein. There is mild right renal pelvicaliectasis. There is a
+     complex, septated and cystic right adnexal mass which demonstrates some flow
+     within the septae on color Doppler evaluation. The mass measures 9.6 cm in
+     greatest dimension and is adjacent to the right ovary.
+     
+     CONCLUSION: Mildly dilated gallbladder with gallstones. There is no
+     gallbladder wall thickening and there is no pericholecystic fluid. There is no
+     intrahepatic or extrahepatic biliary ductal dilatation.
+     
+     2) Mild right renal pelvicaliectasis with a complex cystic mass in the right
+     adnexa concerning for ovarian neoplasm. Further characterization with MR can
+     be performed if clinically warranted.
+     
+     Findings were relayed to Dr. [**Last Name (STitle) 12747**] by telephone.
+     
+     
+     
+     
+
+",,
+14958,13206,18580,0,2804-05-31 03:58:00 EST,2804-05-31 04:31:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO: PT. IS LETHARGIC BUT AROUSABLE TO VERBAL STIMULI. PUPILS ARE REACTIVE BUT SLUGGISH. PT. IS SPEAKS ONLY SPANISH BUT IS UNABLE TO VERBALIZE ANYTHING AT THIS POINT. PT. DOES NOT FOLLOW COMMANDS. PT. HAS BEEN RUNNING A LOW GRADE TEMP WITH T MAX 102.1. PT. HAS BEEN CULTURED. PT. IS POSITIVE FOR MENINGITIS.
+
+C.V: PT. HAS BEEN NSR 70=80'S WITH NO ECTOPY NOTED. B/P HAS BEEN CONTROLLED WITH LABETALOL GTT WITH GOAL SBP ~180. SBP HAS RANGED 150-190'S PT. IS A DNR/DNI.
+
+RESP: PT. REMAINS COARSE THROUGHOUT WITH O2 SATS READING 97-100% RESP RATE IS IN THE MID TO UPPER 20'S WITH LABOURED RESPS NOTED. PT. CONTINUES ON RESPIRATORY PRECAUTIONS.
+
+G.I: PT. IS NPO WITH ABD, BENIGN IN ASSESSMENT. FBS ARE RANGING BETWEEN 140-230'S PT. REMAINS ON INSULIN GTT.
+
+G.U: PT. HAS FOLEY CATHETER WHILE DRAINING SMALL BUT AMPLE AMT'S OF CLEAR YELLOW URINE.
+
+I.V. LEFT RADIAL ALINE REMAINS INTACT BUT NO BLOOD RETURN NOTED. SLIGHT KINK IN LINE NOTED AT THE BEGINNING OF THIS SHIFT. THIS LINE DOES CORRELATE BETWEEN CUFF PRESSURES. LEFT FEMOURAL TLC REMAINS INTACT WITH ALL PORTS PATENT. IVF ARE INFUSING AS ORDERED.
+
+DISP: PT. REMAINS DNR/DNI WITH I.D. TO RE EVALUTE ANTIBOITIC THERAPY WITH THE CONFIRMED CASE OF MENINGITIS. GOAL IS TO MAINTAIN EFFECTIVE B/P CONTROL WITH THE CONFIRMED EMBOLIC STROKE UPON ADDMISSION.
+
+
+",,
+14958,13206,18580,0,2804-05-31 11:56:00 EST,2804-05-31 12:19:00 EST,-1,"N",69,"Nursing/Other","Nursing Note","
+Nursing Note
+Pt remains on droplet precautions for menengitis. Gram stain still pending, spinal tap done yest had aprox 28 thous wbc's and had the appearance of ""grapefruit juice"". Also has new (since last ct in [**2802**]), a L frontal parietal infarct. Unclear of source of menengitis. 
+Last cxr showed a nodule of rt thyroid. U/S today of liver/fall showed some stones, and possible cyst showed on ovary as per tech. 
+
+Neuro: Grimaces, moves rt side only. No purposeful movements, garbled speech, rt lat gaze at times. PERL, 3mm slgh. Agitated at times, dozing on and off. Does not respond to son. No sz activity noted, but had one episode that may have been, as pt appeared to tense and eyes looked upward, lasting approx 30 secs. Recvd Dilantin 500 mg iv load. 
+
+Resp: 2L nc, sats low as 90, high as 100%, tend to stay 98%. BBS coarse rhonchi this am, now clear, but dim, and rr labored. Use of accessories great, rr mid 20's, high as 30's. 
+
+CV: HR SR, 60-70's  no ect. Skin occ moist, afebrile t max 99.0, palp pulses, lips pink. On Labetolol at 1mg/min for sbp <180. SBP avg 140-160's. High as 190 w/ agitation. 
+
+GI/GU: Foley intact, u/o adequate, yellow, clear. No stool, abd obese, bs hypo. Grimaces w/ palp of ruq. NPO. 
+
+Pt is DNR/DNI. Son is visiting from CT, dtr lives here. Are supportive 
+",,
+14958,13206,18580,0,2804-05-31 12:23:00 EST,2804-05-31 12:23:00 EST,-1,"N",69,"Nursing/Other","Nursing addendum","
+Nursing addendum
+Lab reported gr pos cocci in clusters found in previous blood culture.
+",,
+14958,13206,18580,,2804-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-6-1**] 3:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13722**]
+     Reason: evaluate NG tube location                                   
+     Admitting Diagnosis: DKA, SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old woman with CVA and meningitis. Recent NG tube placement            
+     REASON FOR THIS EXAMINATION:
+      evaluate NG tube location                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: CVA and meningitis. NG tube inserted. Evaluate position.
+     
+     FINDINGS: Two AP upright views. Comparison study dated [**2804-5-30**]. The
+     nasogastric tube appears to be well positioned, its distal end extending into
+     the lower portion of the stomach below the margin of the image. The heart
+     shows some left ventricular enlargement. The pulmonary vessels show some upper
+     zone redistribution but it appears that the image was taken with the patient
+     supine, though mislabeled.
+     
+     IMPRESSION: Satisfactory placement of NG line. Appearance is otherwise
+     essentially unchanged. 
+
+",,
+14958,13206,18580,,2804-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GALLBLADDER SCAN                                                Clip # [**Clip Number (Radiology) 13720**]
+     Reason: RIGHT UPPER QUADRANT TENDERNESS, ELEVATED LIVER ENZYMES, GALLSTONE IN THE GALLBLADDER NECK ON US, ? CHOLECYSTITIS.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Sixty-six year old female with gram-negative rod meningitis, right  
+     upper quadrant tenderness, elevated alkaline phosphatase and GGT, and a
+     gallstone in the gallbladder neck on recent ultrasound.  Evaluate for biliary
+     filling defects or evidence of cholecystitis.
+     
+     INTERPRETATION:  Serial images over the abdomen show normal uptake of tracer
+     into the hepatic parenchyma.  At about 25 minutes, faint activity is visualized
+     in the expected location of the gallbladder.  Activity in this location
+     continues to slowly increase over the next hour of imaging.  Tracer activity
+     within the small bowel is first noted at approximately 10 minutes of imaging. 
+     
+     IMPRESSION:  Persistent increasing activity in the expected location of the
+     gallbladder which would exclude a diagnosis of acute cholecystitis.  No evidence
+     of biliary obstruction. /nkg 
+                                                                           
+
+             [**Name6 (MD) 795**] [**Name8 (MD) 796**], M.D.
+             [**Last Name (NamePattern5) 145**], M.D.          Approved: WED [**2804-6-2**] 9:10 AM
+
+
+             Date Mailed: [**2804-6-3**]                     West [**Medical Record Number 13721**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+14958,13206,18580,0,2804-06-01 05:42:00 EST,2804-06-01 05:55:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO: PT. CONTINUES TO REMAIN LETHARGIC AND AROUSABLE TO NOXIOUS STIMULI. PT'S TMAX WAS 99.8. 
+
+C.V: PT. REMAINS NSR 70-80'S WITH NO NOTED ECTOPY NOTED DURING THIS SHIFT. B/P HAS REMAINED STABLE DURING THIS SHIFT. PT. IS DNR/DNI.
+
+RESP: PT. CONTINUES TO REMAIN COARSE FROM MID TO UPPER LOBES WHILE DIMINISHED IN THE BASES. O2 SATS READ 97-100% ON 2L/MIN VIA NASAL CANNULA.
+
+G.I: PT'S B.S. HAVE BEEN COVERED WITH SLIDING SCALE. THIS AM SHE IS 415 WITH 12UNITS OF REGULAR INSULIN GIVEN. BOWEL SOUNDS ARE SLIGHTLY HYPO IN ALL QUADRANTS. 
+
+G.U: PT. HAS BEEN DRAINING SMALL BUT AMPLE AMT'S OF YELLOW URINE WITH SMALL AMT'S OF SEDIMENT NOTED. 
+
+DISP: AT DAUGHTER REQUEST NO VISITORS ARE PERMITTED AT THIS TIME. PT. REMAINS DNR/DNI ON RESPIRATORY/DROPLET PRECAUTIOUS. DUE TO DX: MENNINGITIS.
+",,
+14958,13206,18580,0,2804-06-01 16:01:00 EST,2804-06-01 16:12:00 EST,2437,"N",69,"Nursing/Other","NURSING NOTE: 7A-7P","
+NURSING NOTE: 7A-7P
+NEURO- PT ONLY AROUSABLE TO PAINFUL STIMULI. UNABLE TO COMMUNICATE. UNABLE TO FOLLOW COMMANDS. MOVING R ARM PURPOSEFULLY AT TIMES AND MOVES R LEG ON BED, NO MOVEMENT NOTED ON LEFT. PUPILS EQUAL AT 3MM BUT NON-REACTIVE TO THIS RN. PUPIL RESPONSE DISCUSSED WITH DR [**Last Name (STitle) **] AND HE ASSESSED FOR VERY MINIMAL REACTIVENESS. MRI NOT REATTEMPTED [**2-1**] BREATHING PATTERN AND HEAD MOVEMENT. 
+
+RESP- LS COARSE. SATS ON 2L N/C HIGH 90'S. RESPIRATIONS VERY DISCORDINATE AND PARADOXICAL AT TIMES. RESP PRECAUTIONS D/C'D PER ID.
+
+CV- HR 80-90'S NSR NO ECTOPY NOTED. NON-INVASIVE SBP 140-200 OFF LABETALOL GTT.  LOW GRADE FEVER.
+
+GI- ABD OBESE +BS, TWO GUAIAC NEGATIVE SOFT BROWN STOOL. NGT PLACED BY INTERN. CXR TAKEN, AWAITING WORD OF +PLACEMENT. PLAN IS TO USE FOR MEDS AND POSSIBLY INITIATE FEEDINGS. HIDA SCAN DONE WAS NEGATIVE.
+
+ENDO- FSBS LOW 100'S. INSULIN GTT ORDERED FOR GOAL 70-130. NOT STARTED AS FSBS HAVE BEEN IN RANGE.
+
+GU- FOLEY PATENT FOR CLOUDY YELLOW URINE. ADEQUATE AMOUNTS.
+
+ACCESS- ALINE LOST TODAY. PIV INTACT. FEMORAL TLCL INTACT.
+
+SOCIAL- PER DAUGHTER [**Known patient firstname **] [**Name2 (NI) **], NO VISITORS OR INFORMATION TO ANYONE OTHER THAN HERSELF AND HER BROTHER [**First Name8 (NamePattern2) 6658**] [**Name2 (NI) 6659**]. DAUGHTER UPDATED BY PHONE BY THIS RN AND PLANS ON VISITING THIS EVENING AND AT THAT TIME WOULD LIKE THE TEAM TO UPDATE HER.
+
+DISPO- REMAINS IN MICU, DNR/DNI. CONTINUE TO MONITOR NEURO STATUS AND FEVERS. CONTINUE TO SUPPORT FAMILY. ? SOURCE OF INFECTION.                               
+",,
+14958,13206,18580,,2804-06-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-6-2**] 9:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13723**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: DKA, SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        66 year old woman with CVA and meningitis. now with fever                     
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2804-6-2**]:
+     
+     CLINICAL INDICATION:  Fever.
+     
+     Comparison is made to prior chest x-rays of [**5-30**] and [**6-1**].
+     
+     The examination is limited by severe respiratory motion.  Allowing for this
+     factor, the cardiac and mediastinal contours are stable.  No definite foci of
+     pneumonia are identified, but a subtle pneumonia may be obscured by the
+     extensive motion.
+     
+     A NGT courses below the diaphragm.
+     
+     IMPRESSION:  Limited study due to motion.  No definite pneumonia but repeat
+     study with improved breath-holding would be helpful for more complete
+     assessment.
+
+",,
+14958,13206,18580,0,2804-06-02 03:53:00 EST,2804-06-02 04:06:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO: PT. REMAINS UNRESPONSIVE AND PUPILS REMAIN UNREACTIVE TROUGH THIS SHIFT. PT. HAS BEEN AFEBRILE DURING THIS SHIFT. PT. REMAINS FLACCID ON HER LEFT SIDE WITH SLIGHT POSTURING NOTED TO UPPER EXT.
+
+C.V: PT HAAS REMAINED NSR WITH NO NOTED ECTOPY NOTED DURING THIS SHIFT. B/P HAS REMAINED WITHIN GOAL WITH SUPPORT OF LABETALOL GTT. PT. REMAINS DNR/DNI AT THIS TIME.
+
+RESP: PT. HAS BEEN COARSE LUNG SOUNDS IN ALL FIELDS. PT. REMAINS ON 2L/MIN VIA NASAL CANNULA WITH O2 SAT 98-100%.
+
+G.I: PT. IS NPO WITH NGT IN PLACE AND CLAMPED AT THIS TIME. BLOOOD SUGARS ARE RANGING 120-160'S AND PT. REMAINS ON REGULAR INSULIN GTT AT 1UNIT/HR.
+
+G.U: PT. HAS FOLEY CATHETER WHICH CONTINUES TO DRAIN AMPLE AMT'S OF YELLOW SEDIMENT URINE.
+
+I.V: LEFT FEMORAL ACCESS REMAINS FUNCTIONING WELL. 
+
+DISP: PT'S DAUGHTER [**Known patient firstname **] WAS IN TO VISIT AND HAD CONVERSATION WITH [**Name6 (MD) **] [**Name8 (MD) **] M.D. NEUROLOGICAL STAUS WAS DISCUSSED ALONG WITH OVARIAN MASS DETAILS. PT'S DAUGHTER TOOK THIS INFORMATION WELL. PLANS TO RECHECK L.P. TODAY AND WITH THOSE RESULTS TEAM WILL PLAN FURTHER CAREPLAN INVOLVING DAUGHTER'S WISHES.
+",,
+14958,13206,18580,0,2804-06-02 17:40:00 EST,2804-06-02 17:56:00 EST,2437,"N",69,"Nursing/Other","nursing note: 7a-7p","
+nursing note: 7a-7p
+neuro- unchanged. only withdraws to painful stimuli. pupils equal and non-reactive. 
+
+resp- ls coarse. sats on 2l >95%. rr 20's. respirations paradoxical at times and discoordinate. 2mg iv mso4 given x1 with good effect on respirations. pt is a dnr/dni. 
+
+cv- hr 80-100 sr no ectopy. sbp up to 220 off labetalol. restarted briefly until lopressor via ngt effective. labetalol now off with sbp 170-190's. per neuro and micu teams tolerate bp's to 200. 
+
+gi- abd soft obese +bs small bm. ngt in place. tf started. 
+remains on insulin gtt at 1u/h today with fsbs 80-100's.
+
+gu- foley patent for 60-120 cc of cloudy yellow urine. 1/2ns at 150cc/h cont. 
+
+access- femoral tlcl intact. poor perip. access. eval for picc done and needs ir for placement, possibly tomorrow.
+
+social- daughter [**Known patient firstname **] [**Name2 (NI) **] is primary spokesperson. spoke at length with this rn re: aggressiveness of treatment and mom's prognosis. plans to be in tonight to meet with team. daughter feels her mother would not want aggressive treatment. son [**Doctor First Name 341**] in to visit today and per daughter he has not seen her in some time. another son [**Name (NI) 6660**] from CT was updated by phone by this rn and plans to be here on friday.
+
+
+dispo- remains in micu, dnr/dni. await family meeting.
+",,
+14958,13206,18580,,2804-06-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14958,13206,18580,,2804-06-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-6-3**] 9:48 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13724**]
+     Reason: please assess for cerebral abscess                          
+     Admitting Diagnosis: DKA, SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with bacterial meningitis, persistent fevers and no 
+      improvement in mental status despite antibiotics
+     REASON FOR THIS EXAMINATION:
+      please assess for cerebral abscess                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: Bacterial meningitis, persistent fevers, and no improvement in
+     mental status. Assess for cerebral abscess.
+     
+     TECHNIQUE: Routine noncontrast head CT. No intravenous contrast was
+     administered secondary to the patient's elevated creatinine.
+     
+     COMPARISON: [**2804-5-30**].
+     
+     FINDINGS: Patient motion degrades the quality of the images. There has been no
+     significant change from the prior study. Again noted is a large infarct in the
+     left frontoparietal region as well as foci of decreased attenuation in the
+     right frontal lobe. The size of the ventricles is also unchanged. No areas of
+     hemorrhage are appreciated. No mass lesions are identified, though the
+     evaluation is somewhat limited without intravenous contrast. The visualized
+     paranasal sinuses and osseous structures are unremarkable.
+     
+     IMPRESSION: No significant change from the prior study. If clinically
+     warranted, MRI could be considered if the patient's creatinine does not
+     normalize to allow a contrast-enhanced CT study.
+     
+
+",,
+14958,13206,18580,0,2804-06-03 05:29:00 EST,2804-06-03 05:46:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: INITIALLY PATIENT OPENED EYES TO VOICE BUT DID NOT LOOK AT SPEAKER. DID NOT TRACK. PERL@4MM AND BRISK. REST OF SHIFT NO RESPONSE TO VOICE WOULD JUST STARE. WITHDRAWS TO NAILBED PRESSURE. UNABLE TO ILLICIT IF FOLLOWING COMMANDS OR HAVING PAIN [**2-1**] LANGUAGE BARRIER. COUGH/GAG IMPAIRED. MOVING RIGHT SIDE, LEFT SIDE NO MOVEMENT SEEN. NO SIGNS OF SEIZURE ACTIVITY. CONTINUES ON DILANTIN.
+
+CARDIAC: HR 75-85 SR WITH NO ECTOPY. SBP 147-219 REMAINED OFF LABETOLOL, WOULD RESTART IF SBP >220. TOLERATING LOPRESSOR. PULSES PALPABLE. HCT STABLE AT 28.
+
+RESP: CONTINUES ON 2L N/C WITH RR 16-26 WITH SATS .98%. RESP PATTERN ERRATIC, BUT EFFECTIVE. GIVEN MSO4 2MG AND THEN 5MG WITH SOME EFFECT. LS COARSE WITH FEW INSP WHEEZES. NO SXTN DONE BUT PATIENT WITH COPIUS ORAL SECRETIONS. 
+
+GI/GU: ABD SOFT WITH +BS, NO STOOL. NGT IN PLACE FOR FEEDS. U/O 30-120CC/HR, YELLOW WITH SEDIMENT. CRE 2.0 DOWN [**Last Name (un) 126**] 2.3.
+
+FEN: HAS .45%NS @150CC/HR. CURRENTLY +1.5L TODAY. LYTES PER CAREVUE. ON INSULIN GTT @1U/HR WITH FS 104-129. HAS TUBE FEEDS @30CC/HR WITH GOAL OF 75/HR. MINIMAL RESIDUALS. FREE WATER BOLUSES. 
+
+ID: SPIKED TEMP OF 101.7, BLOOD CX'S AND URINE SENT. APAP GIVEN WITH TEMP DOWN TO 100.4 BUT BACK UP THIS AM TO 101.3 AND GIVEN ANOTHER 650MG APAP PR. WBC 20.6 UP FROM 14.3. LEFT FEM LINE D/C'D AND TIP CULTURED. CONTINUES ON MEROPENUM, VANCO AND CEFTRIAXONE. 
+
+SKIN: INTACT BUT GROINS YEASTY AND RED.
+
+ACCESS: 2 PIV IN RLA. 
+
+SOCIAL/DISPO: DNR/DNI, DAUGHTER [**Known patient firstname **] IN LAST NOC AND SPOKE WITH INTERN. SHE AGREED TO HAVE PEG PLACED. PLAN IS TO GO TO IR TODAY FOR PICC PLACEMENT.    
+",,
+14958,13206,18580,0,2804-06-03 14:44:00 EST,2804-06-03 14:59:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS NTOE","
+FOCUS; NURSING PROGRESS NTOE
+REVIEW OF SYSTEMS-
+NEURO- PATIENT IS MINIMALLY RESPONSIVE. RESPONDS TO PAINFUL STIMULI BY WITHDRAWING. DOES OPEN HER EYES WHEN HER NAME IS CALLED. DOES CLOSE EYES TO THREAT BUT IS VERY SLOW TO DO THIS.PEARL. IMPAIRED COUGH AND GAG.  HEAD CT DONE TODAY. PER DR [**Last Name (STitle) **] CT SHOWS EDEMA PRESSING ON BRAINSTEM. TX WOULD BE OPEN CRANIECTOMY IF FAMILY WISHED TO BE THAT AGRESSIVE. 
+RESP- ON 2L NC SATS 99-100%. RESP 15-20. BS COARSE. 
+CARDIAC- HR 70-80'S NSR W/O ECTOPI. SBP RANGING 164-225. GOAL IS TO KEEP IT BELOW 220. WHEN SBP UP TO 225 TX WITH MSO4 WITH SBP DOWN TO 195. LOPRESSOR DOSE INCREASED TODAY FROM 12.5 TO 25MG BID. SHOULD LABETELOL DRIP NEED TO BE STARTED 3RD PERIPHERAL IV PLACED TODAY. 
+GI- ABD OBESE WITH POS BS. TF OF PROMOTE AT 50CC/HR. GOAL IS 75CC/HR. TO ADVANCE 10CC/HR Q 6 HOURS TO HER GOAL. ON FREE H20 BOLUSES OF 100CC Q 8 HOURS. RESIDUALS 0-5CC. STARTED ON COLACE BID TODAY. 
+GU- URINE VIA FOLEY SLIGHTLY CLOUDY DRAINING 30-130CC/HR. 
+HEME- HCT STABLE AT 27.9. 
+ID- WBC UP TO 20.6 TODAY. TEMP MAX 99.6. CONTINUES ON CEFTRIAXONE AND MEROPENUM. VANCO ORDERED TO START IN AM 1000MG Q 48 HOURS. ALL FOR GM NEG RODS IN CSF FLUID. HAS BC,URINE AND CATH TIP ALL PENDING FROM [**6-3**].
+SOCIAL- DAUGHTER [**Known patient firstname **] CALLED AND WAS UPDATED THIS AM BY NURSING. DR [**Last Name (STitle) **] GIVEN HER CELL PHONE NUMBER SO THAT HE COULD UPDATE HER ABOUT THE HEAD CT FINDING AND SEE HOW AGRESSIVE THE FAMILY WANTED TO BE. 
+DISPO- REMAINS IN THE MICU A DNR/DNI 
+",,
+14958,13206,18580,0,2804-06-03 16:16:00 EST,2804-06-03 16:19:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+ENDO- INSULIN DRIP CONT. AT 1U/HR WITH BS KEPT AT THE RANGE OF >70<130.
+ID- TEMP SPIKE TO 101.6. DR [**Last Name (STitle) **] NOTIFIED. TYLENOL GIVEN. NO CULT AS PATIENT WAS CULT LAST PM. 
+SOCIAL- TALKED WITH DR [**Last Name (STitle) **] ABOUT TX PLAN. HE HAS SPOKEN WITH PATIENT'S DAUGHTER [**Known patient firstname **]. IT IS HER WISH THAT WE NOT CONSULT NEUROSURGERY FOR CRANIE. WE WILL CONTINUE TO TREAT WITH ANTIBIODICS AS WE ARE DOING. 
+",,
+14958,13206,18580,0,2804-06-04 05:14:00 EST,2804-06-04 05:40:00 EST,2467,"N",69,"Nursing/Other",,"
+
+NPN 7P-7A
+
+Neuro: Pupils [**3-2**]+ Brisk at start of night, now R pupil sluggish. Eyes open spontaneously @ times, slow response to threat.  Initially only wd'ing to painful stim with lower extremities, now wd's to painful stim with all 4 extremities.  Noted to have nonpurposeful mvmt- L side neglect with minimal nonpurposeful mvmt, does not follow commands.   ?If posturing noted @times. Impaired cough/ gag.  Resp pattern irregular, labored.  
+
+CV:  HR 70-90's, no ectopy.  BP still hypertensive- lopressor dose increased to 50mg BID.  Remains to have episodes of sbp to 210-220, seems to occur with painful stim/ position changing.  MSO4 4mg given prior to pt care activities.  At rest, SBP 168-190's, HR 60's post increased lopressor dose. 
+
+Resp:  Labored, abdominal breathing, irregular pattern, Lungs cs upper, decreased lower, exp wheezing noted @ times.  Sat 98-100% O2 2LNC.
+
+ID: T MAX 101.6 PO @0600.  S/P BC x2, Urine sent [**Name8 (MD) 17**] MD [**Last Name (Titles) 6661**].  650mg Tylenol given.
+
+GI:  Promote increased to 70cc/hr @)600- goal 75cc, no residules. NGT placement confirmed with auscultation of air bolus  Insulin gtt titrated t/o night.  Increased to 2u/hr @ 0600 for BS 176.
+
+GU:  Cloudy Urine via foley.  Needs diflucan when available from pharmacy, pt with lg amt of vaginal drainage. 
+
+Skin:  Intact, fungal rash noted to skin folds.  Mycostatin powder ordered. T&P q4. 
+
+Social:  Dtr into visit.
+
+Plan:  Tylenol for t spikes- cx pending from today,  continue to follow BP, Neuro exams, ABX as orederd, Diflucan when available, PICC and PEG tube when afebrile x24 hs.
+
+",,
+14958,13206,18580,0,2804-06-04 15:34:00 EST,2804-06-04 15:50:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+REVEIW OF SYSTEMS-
+NEURO- PATIENT OPENS HER EYES WHEN HER NAME IS CALLED. WITHDRAWS TO PAINFUL STIMULI IN ALL EXTREMITIES.  PEARL. EYES IN UPWARD RIGHT DIRECTION. MOVING RIGHT ARM AND LEG ON BED. AT TIMES EVEN LIFTS RIGHT ARM. EEG DONE TODAY. RESULTS PENDING. NEG GAG OR COUGH. FREE DILANTIN LEVEL SENT RESULTS PENDING.   
+RESP- ON 2L NC WITH SATS HIGH 90'S TO 100%. RESP [**11-27**] AND PARADOXICAL. LOOKS LABORED, ESPECIALLY AFTER CARE IS GIVEN TO HER. IS RECEIVING 4MG MSO4 AT THE TIMES SHE APPEARS MORE UNCOMFORTABLE. BS COARSE. 
+CARDIAC- HR 70-90'S NSR WITHOUT ECTOPI. SBP 180-220. LOPRESSOR DOSE INCREASED TO 50MG PER NG TID. GOAL IS TO KEEP SBP < 220. 
+GI- ABD OBESE WITH POS BS. PASSING FLATUS. TF FS PROMOTE AT GOAL RATE OF 75CC/HR WITH MINIMAL RESIDUALS. CONT ON Q 8 HOUR 100CC FREE H20 BOLUSES. 
+GU- URINE VIA FOLEY CATHETER CLOUDY LIGHT YELLOW. URINE SPEC FROM [**6-3**] NEG. URINE CULT FROM THIS AM PENDING. UO 30CC OR GREATER AN HOUR. 
+ENDO- INSULIN DRIP SHUT OFF AT 1500. BS 137 AND 168 SINCE DRIP OFF. WILL CHECK BS Q1 HOUR FOR 4 MORE HOURS. SHE DID RECEIVE 6U NPH PRIOR TO SHUTTING OFF DRIP. SHE IS ON AN AGRESSIVE SS FOR Q 6 HOUR SUGARS. SHE WILL BE ON 12U NPH Q AM AND 8 U NPH AT BEDTIME. 
+HEME- HCT STABLE AT 27.3. 
+ID- WBC STABLE AT 19.9. TEMP 101.1 TODAY TX WITH TYLENOL AS PATIENT HAD BEEN PAN CULT EARLIER THIS AM. SHE CONT ON MEROPENUM. VANCO AND CEFTAZ DC'D. 
+SKIN- HAS HERPETIC APPEARING LESIONS ON LIPS. DR [**Last Name (STitle) 6662**] DID SCRAPPINGS FOR VIRAL CULT. HAS YEAST UNDER ARMS, BREASTS AND IN GROIN. RECEIVING MICONAZOLE POWDER TO THESE AREAS. 
+SOCIAL- DAUGHTER CALLED AND WAS UPDATED BY PHONE THIS AM. NO VISITORS TODAY. 
+DISPO- IS A CALL OUT TO THE FLOOR WHEN A BED IS AVAILABLE. SHE IS A DNR DNI.  
+",,
+14958,13206,18580,0,2804-06-04 17:13:00 EST,2804-06-04 17:15:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+NEURO- FREE DILANTIN LEVEL 2.7. DR [**Last Name (STitle) **] ANSWERED PAGE FOR DR [**Last Name (STitle) 6662**]. DR [**Last Name (STitle) 6662**] TO BE BY AFTER HE FINISHES A PROCEDURE TO WRITE NEW DILANTIN ORDER. DILANTIN HELD AND RETIMED FOR 2000. 
+",,
+14958,13206,18580,0,2804-06-04 17:38:00 EST,2804-06-04 17:39:00 EST,2291,"N",69,"Nursing/Other","focus; addendum","
+focus; addendum
+NEURO- DILANTIN DOSE HELD TONIGHT. WILL BE RESTARTED AS 100MG QD TOMMORROW. 
+",,
+14958,13206,,,2804-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-6-6**] 1:33 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13726**]
+     Reason: R/O OBSTRUCTION                                             
+     Admitting Diagnosis: DKA, SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with CVA, bacteremia, and distension                          
+     REASON FOR THIS EXAMINATION:
+      R/O OBSTRUCTION                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMINAL SERIES ON [**2804-6-6**] at 14:29
+     
+     INDICATION:  Distention.
+     
+     FINDINGS:  The bowel gas pattern is non-specific and non-obstructed.  No
+     definite free air or pneumatosis is seen.  However, the evaluation is markedly
+     limited by underpenetration due to body habitus.  A radioopaque catheter is
+     seen in the left-upper quadrant, presumably a nasogastric tube with it's tip
+     in the stomach.
+     
+     IMPRESSION:
+     
+     No evidence for obstruction in this limited study secondary to body habitus.
+
+",,
+14958,13206,,,2804-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-6-6**] 1:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13725**]
+     Reason: r/o new infiltrate or effusion                              
+     Admitting Diagnosis: DKA, SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         66 year old woman with CVA, GNR meningitis and Candidemia. Now with fever 
+      spikes.                     
+     REASON FOR THIS EXAMINATION:
+      r/o new infiltrate or effusion                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:  14:03
+     
+     INDICATION:  Fever.
+     
+     COMPARISON:  [**2804-6-2**]
+     
+     FINDINGS:  The current study is of better quality compared to the prior.
+     There is no definite focal consolidation.  The lateral costophrenic sulcus are
+     sharply delineated.  The heart size appears enlarged but there is a shallow
+     level of of inspiration which could exaggerate that appearance.  Nasogastric
+     tube extends well below the diaphragm though its tip is not seen.  There is no
+     pneumothorax and the pulmonary vascular markings are within normal limits.
+     
+     IMPRESSION:  No pneumothorax.
+     
+
+",,

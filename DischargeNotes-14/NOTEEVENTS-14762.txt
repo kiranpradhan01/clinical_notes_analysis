@@ -1,0 +1,1244 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14762,14748,,,2636-02-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2636-2-26**]              Discharge Date:   [**2636-3-3**]
+ 
+Date of Birth:  [**2569-9-21**]             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Penicillins / Demerol
+ 
+Attending:[**First Name3 (LF) 2683**] 
+Chief Complaint:
+stroke
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+History of Present Illness:  Ms. [**Known patient lastname 11180**] is a 66 year old
+right-handed woman who has a history of two prior strokes with
+residual weakness (husband not sure which side) and trouble with
+speech, multiple MI's, and thyroid disease, who was found lying
+on the floor by her husband 30 minutes ago.  She was last seen
+normal at 3:30 p.m. when her husband observed her sitting up in
+bed watching TV.  Then at about 5 p.m. he heard a thump and 
+found
+that she had fallen out of bed and was lying on her left side. 
+He thinks that she was trying to talk but says she wasn't
+producing any sounds, and wasn't following any commands.  EMS
+arrived and found her to be nonverbal with left sided weakness. 
+She was then brought to the [**Hospital1 19**] ED.  I was able to examine her
+(as described below) immediately upon arrival, after which she
+was intubated due to her somnolence.
+
+Per her husband Ms. [**Known patient lastname 11180**] had strokes in 9/04 and [**1-29**], both 
+of
+which were treated at the [**Hospital1 168**].  He is not sure where the
+strokes were located, but thinks they were from clots and not
+bleeding.  She has residual weakness on one side (first he said
+left, then right) and has trouble speaking, but can walk with a
+cane at baseline.  He notes that her function has been declining
+lately but cannot say why.  She does not take any medications 
+per
+her own choice.  She has no history of diabetes or hypertension. 
+
+
+Review of systems:  No known recent systemic illness per her
+husband.  
+
+ 
+Past Medical History:
+Past Medical History:
+- Strokes in 9/04 and [**1-29**] as above
+- Per husband had [**3-27**] MI's total
+- High cholesterol
+- Thyroid problem
+
+ 
+Social History:
+Social History: Lives with her husband.  Uses marijuana.  No
+tobacco/EtOH/other drug use.
+
+ 
+Family History:
+Family History: N/C
+
+ 
+Physical Exam:
+Examination:
+T  afebrile    HR 93   BP 161/86   RR 18  Pulse Ox 100% on O2 NC
+General appearance: Frail 66 year old woman lying in bed with
+eyes closed, occasionally squirming with right arm and leg
+HEENT:  c-spine collar in place due to fall
+CV: Regular rate and rhythm without murmurs, rubs or gallops. No
+carotid bruits.
+Lungs: Clear to auscultation bilaterally.
+Abdomen: Soft, nontender, nondistended, no hsm or masses 
+palpated
+Extremities: no clubbing, cyanosis or edema
+
+Mental Status:  Eyes are closed, does not open them to voice or
+noxious stimuli.  Does not follow commands.  Does not produce 
+any
+sounds or attempt to speak.  She does squirm with her right arm
+and leg with sternal rub.
+
+Cranial Nerves: Right pupil round and reactive 3>2, left round
+and reactive 2.5>2.  Right gaze preference, can get to midline
+but not past (could not check with OCR due to C-spine collar). 
+Does not blink to threat on either side.  There is no nystagmus.
+She has R>L facial weakness.  She would not open her mouth.
+
+Motor System: Diffusely diminished muscle bulk.  Tone is normal
+on the right, flaccid on the left.  She spontaneously moves the
+right arm and leg, semi-purposefully, but has no movement of the
+left arm and leg, even to noxious stimuli.
+
+Reflexes: Deep tendon reflexes are 2+ and symmetric.  Plantar
+responses are extensor on the right, equivocal on the left.  No
+[**Doctor Last Name 4294**].
+
+Sensory: She neglects the left side completely, with her head
+turned to the right. Localizes to noxious stimuli with right
+arm/leg, does not seem to notice noxious stimuli on the left
+(although the latter assessment was made difficult by the fact
+that she was getting needle sticks on both the right and left
+side simultaneously during my examination)
+
+Coordination/Gait:  Could not assess
+
+ 
+Pertinent Results:
+[**2636-2-26**] 05:30PM   PT-12.3 PTT-24.1 INR(PT)-1.1
+[**2636-2-26**] 05:30PM   PLT COUNT-309
+[**2636-2-26**] 05:30PM   NEUTS-37.1* LYMPHS-50.3* MONOS-5.6 EOS-6.5* 
+BASOS-0.4
+[**2636-2-26**] 05:30PM   WBC-9.2 RBC-4.05* HGB-13.0 HCT-37.0 MCV-91 
+MCH-32.0 MCHC-35.0 RDW-13.6
+[**2636-2-26**] 05:30PM   CALCIUM-9.3 PHOSPHATE-3.3 MAGNESIUM-2.5
+[**2636-2-26**] 05:30PM   CK-MB-3 cTropnT-<0.01
+ 
+Brief Hospital Course:
+Patient admitted to ICU under Neurology Service because 
+intubated.
+Neurology:Patient had MRI done on day of admission which showed 
+right MCA inferior division acute stroke. Concern for seizure 
+was less likely and Dialntin and EEG cancelled. Patient had a 
+full stroke work up which revealed triglycerides of >900, 
+cholesterol > 300 and TSH >100. She was started on gemfibrazole, 
+Synthroid, and Atorvastatin. She had a TTE which was negative 
+for LV dysfunction, thrombus, or vegestations. In terms of her 
+exam, she followed no commands, had no speech, was very agitated 
+despite propofol/fentanyl, did not blink to threat, had left 
+hemiparesis arm > leg. She was able to be weaned to CPAP but 
+extubation was not possible because of copius secretions and 
+lower lung collapse. She developed a ventilator associated 
+pneumonia and was started on Vancomycin and Zosyn. She was fed 
+via NG tube. Her daughter and proxy made the decison to make the 
+patient CMO as it was likely patient would need PEG and 
+tracheostomy in long term management. Palliative Care was 
+consulted and patient made CMO. She died on [**2636-3-3**]. 
+ 
+Medications on Admission:
+Patient not compliant on medication
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+stroke
+ 
+Discharge Condition:
+died
+ 
+Discharge Instructions:
+None
+ 
+Followup Instructions:
+None
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) **] MD, [**MD Number 2685**]
+ 
+Completed by: [**Name6 (MD) 8446**] [**Last Name (NamePattern4) 8615**] MD [**MD Number 8616**] [**2636-3-4**] @ 1909
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: SAT [**2636-4-16**] 9:45 PM
+(End of Report)
+
+
+",,
+14762,14748,,,2636-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman code stroke, hx of prior w/known left side defecit.           
+     REASON FOR THIS EXAMINATION:
+      eval for ischemic changes, bleed                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KCLd FRI [**2636-2-26**] 9:09 PM
+      large area of hypodensity in left mca territory consistent with subacute
+      infarct.  no evidence of acute hemorrhage.
+      
+      hypodensity in right cerebellum suggesting prior infarct
+      
+      cta:  no definite filling defect identified
+     WET READ AUDIT #1 KCLd FRI [**2636-2-26**] 9:08 PM
+      large area of hypodensity in left mca territory consistent with subacute
+      infarct.
+      
+      hypodensity in right cerebellum suggesting prior infarct
+      
+      cta:  no definite filling defect identified
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left hemiplegia and right gaze deviation.  History of previous
+     cerebral infarctions involving the left middle cerebral and right posterior
+     cerebral arterial territories.
+     
+     COMPARISON:  No previous studies at [**Hospital1 1937**].
+     
+     TECHNIQUE:  Noncontrast head CT was obtained.  CT angiogram of the circle of
+     [**Location (un) **] and the neck vessels was performed using 100 cc of intravenous Optiray,
+     and multiplanar two-dimensional and three-dimensional reformatted images were
+     obtained.  A CT perfusion study with evaluation of cerebral blood flow and
+     cerebral blood volume was performed and analyzed.
+     
+     NON-CONTRAST HEAD CT:  There is no acute intracranial hemorrhage.  The acute
+     infarction demonstrated in the right temporal lobe on the subsequent
+     diffusion-weighted MR images on [**2636-2-27**] is occult on the current
+     study. There is a large subacute-appearing infarction in the left middle
+     cerebral artery territory, which was shown to be older than 10 days on the
+     subsequent MRI. There are small bilateral chronic posterior cerebral artery
+     territory infarctions.  The ventricles are normal in size.  There are no
+     abnormal extra-axial collections.
+     
+     The petrous apices are pneumatized bilaterally.  There is anterior fusion in
+     the cervical spine at C5 through C7. The patient is intubated.  The imaged
+     paranasal sinuses are normally aerated.
+     
+                                                                 (Over)
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT ANGIOGRAM OF THE CIRCLE OF [**Location (un) 4**] AND NECK VESSELS:  Bilateral common
+     carotid, internal carotid and vertebral arteries are patent without evidence
+     of significant stenoses.  The petrous segments of the internal carotid
+     arteries are markedly tortuous, particularly on the right.  The V3 segments of
+     the vertebral arteries are also tortuous.
+     
+     The right middle cerebral artery is smaller in caliber than the left.  The M1
+     segment is patent.  A horizontal branch of the M2 segment is thrombosed
+     (series 4, image 245). However, it appears patent on the MRA dated [**2636-2-27**],
+     possibly due to thrombus resolution. Other tributaries of the circle of [**Location (un) **]
+     are patent without evidence of occlusion, stenosis, or aneurysm.
+     
+     CT PERFUSION:  There is a large area of decreased blood flow (increased mean
+     transit time) and decreased blood volume in the right temporal lobe,
+     consistent with irreversible infarction.  There are moderate area of decreased
+     blood flow (increased mean transit time) and relatively preserved blood volume
+     posterior and anterior to the irreversible infarction, and a large area of
+     decreased blood flow (increased mean transit time) and relatively preserved
+     blood volume inferior to the irreversible infarction, consistent with ischemic
+     penumbrae.
+     
+     The following preliminary report was provided by Dr. [**First Name (STitle) 1345**] on [**2636-2-26**]
+     in CCC:  Large area of hypodensity in left middle cerebral artery territory,
+     consistent with subacute infarct.  No evidence of acute hemorrhage.
+     Hypodensity in right cerebellum suggesting prior infarct.  No definite feeling
+     defects identified on CTA.
+     
+     IMPRESSION:
+     1.  CT perfusion study demonstrates a large irreversible infarction in the
+     right temporal lobe, which is occult on routine CT images.  There is a large
+     ischemic penumbra inferior to the irreversible infarction and moderate
+     ischemic penumbrae anterior and posterior to the irreversible infarction.
+     
+     2.  Thrombosis of a horizontal branch of the M2 segment of the right middle
+     cerebral artery. Please note that the thrombosis is no longer evident on the
+     [**2636-2-27**] circle of [**Location (un) **] MRA.
+     
+     3.  Late subacute infarction in the left middle cerebral artery territory.
+     Chronic infarctions in the right and left posterior cerebral artery
+     territories.
+     
+                                                                           DFDkq
+                                                                 (Over)
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14762,14748,,,2636-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman code stroke, hx of prior w/known left side defecit.           
+     REASON FOR THIS EXAMINATION:
+      eval for ischemic changes, bleed                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KCLd FRI [**2636-2-26**] 9:09 PM
+      large area of hypodensity in left mca territory consistent with subacute
+      infarct.  no evidence of acute hemorrhage.
+      
+      hypodensity in right cerebellum suggesting prior infarct
+      
+      cta:  no definite filling defect identified
+     WET READ AUDIT #1 KCLd FRI [**2636-2-26**] 9:08 PM
+      large area of hypodensity in left mca territory consistent with subacute
+      infarct.
+      
+      hypodensity in right cerebellum suggesting prior infarct
+      
+      cta:  no definite filling defect identified
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left hemiplegia and right gaze deviation.  History of previous
+     cerebral infarctions involving the left middle cerebral and right posterior
+     cerebral arterial territories.
+     
+     COMPARISON:  No previous studies at [**Hospital1 1937**].
+     
+     TECHNIQUE:  Noncontrast head CT was obtained.  CT angiogram of the circle of
+     [**Location (un) **] and the neck vessels was performed using 100 cc of intravenous Optiray,
+     and multiplanar two-dimensional and three-dimensional reformatted images were
+     obtained.  A CT perfusion study with evaluation of cerebral blood flow and
+     cerebral blood volume was performed and analyzed.
+     
+     NON-CONTRAST HEAD CT:  There is no acute intracranial hemorrhage.  The acute
+     infarction demonstrated in the right temporal lobe on the subsequent
+     diffusion-weighted MR images on [**2636-2-27**] is occult on the current
+     study. There is a large subacute-appearing infarction in the left middle
+     cerebral artery territory, which was shown to be older than 10 days on the
+     subsequent MRI. There are small bilateral chronic posterior cerebral artery
+     territory infarctions.  The ventricles are normal in size.  There are no
+     abnormal extra-axial collections.
+     
+     The petrous apices are pneumatized bilaterally.  There is anterior fusion in
+     the cervical spine at C5 through C7. The patient is intubated.  The imaged
+     paranasal sinuses are normally aerated.
+     
+                                                                 (Over)
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT ANGIOGRAM OF THE CIRCLE OF [**Location (un) 4**] AND NECK VESSELS:  Bilateral common
+     carotid, internal carotid and vertebral arteries are patent without evidence
+     of significant stenoses.  The petrous segments of the internal carotid
+     arteries are markedly tortuous, particularly on the right.  The V3 segments of
+     the vertebral arteries are also tortuous.
+     
+     The right middle cerebral artery is smaller in caliber than the left.  The M1
+     segment is patent.  A horizontal branch of the M2 segment is thrombosed
+     (series 4, image 245). However, it appears patent on the MRA dated [**2636-2-27**],
+     possibly due to thrombus resolution. Other tributaries of the circle of [**Location (un) **]
+     are patent without evidence of occlusion, stenosis, or aneurysm.
+     
+     CT PERFUSION:  There is a large area of decreased blood flow (increased mean
+     transit time) and decreased blood volume in the right temporal lobe,
+     consistent with irreversible infarction.  There are moderate area of decreased
+     blood flow (increased mean transit time) and relatively preserved blood volume
+     posterior and anterior to the irreversible infarction, and a large area of
+     decreased blood flow (increased mean transit time) and relatively preserved
+     blood volume inferior to the irreversible infarction, consistent with ischemic
+     penumbrae.
+     
+     The following preliminary report was provided by Dr. [**First Name (STitle) 1345**] on [**2636-2-26**]
+     in CCC:  Large area of hypodensity in left middle cerebral artery territory,
+     consistent with subacute infarct.  No evidence of acute hemorrhage.
+     Hypodensity in right cerebellum suggesting prior infarct.  No definite feeling
+     defects identified on CTA.
+     
+     IMPRESSION:
+     1.  CT perfusion study demonstrates a large irreversible infarction in the
+     right temporal lobe, which is occult on routine CT images.  There is a large
+     ischemic penumbra inferior to the irreversible infarction and moderate
+     ischemic penumbrae anterior and posterior to the irreversible infarction.
+     
+     2.  Thrombosis of a horizontal branch of the M2 segment of the right middle
+     cerebral artery. Please note that the thrombosis is no longer evident on the
+     [**2636-2-27**] circle of [**Location (un) **] MRA.
+     
+     3.  Late subacute infarction in the left middle cerebral artery territory.
+     Chronic infarctions in the right and left posterior cerebral artery
+     territories.
+     
+                                                                           DFDkq
+                                                                 (Over)
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14762,14748,,,2636-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman code stroke, hx of prior w/known left side defecit.           
+     REASON FOR THIS EXAMINATION:
+      eval for ischemic changes, bleed                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KCLd FRI [**2636-2-26**] 9:09 PM
+      large area of hypodensity in left mca territory consistent with subacute
+      infarct.  no evidence of acute hemorrhage.
+      
+      hypodensity in right cerebellum suggesting prior infarct
+      
+      cta:  no definite filling defect identified
+     WET READ AUDIT #1 KCLd FRI [**2636-2-26**] 9:08 PM
+      large area of hypodensity in left mca territory consistent with subacute
+      infarct.
+      
+      hypodensity in right cerebellum suggesting prior infarct
+      
+      cta:  no definite filling defect identified
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left hemiplegia and right gaze deviation.  History of previous
+     cerebral infarctions involving the left middle cerebral and right posterior
+     cerebral arterial territories.
+     
+     COMPARISON:  No previous studies at [**Hospital1 1937**].
+     
+     TECHNIQUE:  Noncontrast head CT was obtained.  CT angiogram of the circle of
+     [**Location (un) **] and the neck vessels was performed using 100 cc of intravenous Optiray,
+     and multiplanar two-dimensional and three-dimensional reformatted images were
+     obtained.  A CT perfusion study with evaluation of cerebral blood flow and
+     cerebral blood volume was performed and analyzed.
+     
+     NON-CONTRAST HEAD CT:  There is no acute intracranial hemorrhage.  The acute
+     infarction demonstrated in the right temporal lobe on the subsequent
+     diffusion-weighted MR images on [**2636-2-27**] is occult on the current
+     study. There is a large subacute-appearing infarction in the left middle
+     cerebral artery territory, which was shown to be older than 10 days on the
+     subsequent MRI. There are small bilateral chronic posterior cerebral artery
+     territory infarctions.  The ventricles are normal in size.  There are no
+     abnormal extra-axial collections.
+     
+     The petrous apices are pneumatized bilaterally.  There is anterior fusion in
+     the cervical spine at C5 through C7. The patient is intubated.  The imaged
+     paranasal sinuses are normally aerated.
+     
+                                                                 (Over)
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT ANGIOGRAM OF THE CIRCLE OF [**Location (un) 4**] AND NECK VESSELS:  Bilateral common
+     carotid, internal carotid and vertebral arteries are patent without evidence
+     of significant stenoses.  The petrous segments of the internal carotid
+     arteries are markedly tortuous, particularly on the right.  The V3 segments of
+     the vertebral arteries are also tortuous.
+     
+     The right middle cerebral artery is smaller in caliber than the left.  The M1
+     segment is patent.  A horizontal branch of the M2 segment is thrombosed
+     (series 4, image 245). However, it appears patent on the MRA dated [**2636-2-27**],
+     possibly due to thrombus resolution. Other tributaries of the circle of [**Location (un) **]
+     are patent without evidence of occlusion, stenosis, or aneurysm.
+     
+     CT PERFUSION:  There is a large area of decreased blood flow (increased mean
+     transit time) and decreased blood volume in the right temporal lobe,
+     consistent with irreversible infarction.  There are moderate area of decreased
+     blood flow (increased mean transit time) and relatively preserved blood volume
+     posterior and anterior to the irreversible infarction, and a large area of
+     decreased blood flow (increased mean transit time) and relatively preserved
+     blood volume inferior to the irreversible infarction, consistent with ischemic
+     penumbrae.
+     
+     The following preliminary report was provided by Dr. [**First Name (STitle) 1345**] on [**2636-2-26**]
+     in CCC:  Large area of hypodensity in left middle cerebral artery territory,
+     consistent with subacute infarct.  No evidence of acute hemorrhage.
+     Hypodensity in right cerebellum suggesting prior infarct.  No definite feeling
+     defects identified on CTA.
+     
+     IMPRESSION:
+     1.  CT perfusion study demonstrates a large irreversible infarction in the
+     right temporal lobe, which is occult on routine CT images.  There is a large
+     ischemic penumbra inferior to the irreversible infarction and moderate
+     ischemic penumbrae anterior and posterior to the irreversible infarction.
+     
+     2.  Thrombosis of a horizontal branch of the M2 segment of the right middle
+     cerebral artery. Please note that the thrombosis is no longer evident on the
+     [**2636-2-27**] circle of [**Location (un) **] MRA.
+     
+     3.  Late subacute infarction in the left middle cerebral artery territory.
+     Chronic infarctions in the right and left posterior cerebral artery
+     territories.
+     
+                                                                           DFDkq
+                                                                 (Over)
+
+     DATE: [**2636-2-26**] 6:18 PM
+     CTA HEAD W&W/O C & RECONS; ED STROKE HEAD CT W/O CONTRAST       Clip # [**Clip Number (Radiology) 12254**]
+     CTA NECK W&W/OC & RECONS; CT BRAIN PERFUSION
+     Reason: eval for ischemic changes, bleed                            
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14762,14748,,,2636-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-26**] 6:16 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 12253**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with ?stroke s/p fall.                                        
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KCLd FRI [**2636-2-26**] 11:19 PM
+      no evidence of acute fracture
+      
+      severe degenerative changes in the cervical spine with anterior fusion
+      hardware seen
+      
+      grade 1 anterolisthesis of c2 on c3, grade 1 retrolisthesis of c4 on c5,
+      possibly degenerative although ligamentous injury cannot be excluded.
+      clinical correlation recommended, mri could be helpful for further evaluation
+      if clinically indicated
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  66-year-old woman with question stroke, status post fall,
+     evaluate for fracture.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Axial non-contrast images of the cervical spine were obtained.
+     Coronal and sagittal reformatted images were also displayed.
+     
+     FINDINGS:  There is no evidence of acute fracture.  Evaluation of the
+     prevertebral soft tissues is limited by endotracheal tube.  Fusion hardware
+     seen in the anterior cervical spine at the C5 through 7 levels, with screws
+     within C5 and C7.  Marked degenerative changes are seen throughout the
+     cervical spine with osteophyte formation and disc space narrowing at multiple
+     levels.  There is mild 1 anterolisthesis of C2 on C3.  There is mild grade 1
+     retrolisthesis of C4 on C5.  CT does not provide intrathecal detail comparable
+     to MR, however the thecal sac appears grossly intact.  Scarring is noted at
+     the visualized lung apices.  Contrast material noted intracranially,
+     consistent with recent CTA.
+     
+     IMPRESSION:
+     1.  No evidence of acute fracture.  Mild anterolisthesis of C2 on C3 and
+     retrolisthesis of C4 on C5, possibly degenerative although ligamentous injury
+     cannot be excluded on this study.
+     2.  Severe degenerative changes seen throughout the spine.
+     3.  Anterior cervical fusion hardware noted.
+
+",,
+14762,14748,,,2636-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14762,14748,,,2636-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-26**] 6:03 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12252**]
+     Reason: eval ETT                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with ETT                                                      
+     REASON FOR THIS EXAMINATION:
+      eval ETT                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  66-year-old woman with endotracheal tube.
+     
+     COMPARISONS:  None.
+     
+     CHEST, AP SUPINE:  An endotracheal tube terminates 3 cm above the carina.  The
+     heart size is normal.  The mediastinal and hilar contours are unremarkable. 
+     The lungs are clear.  There is no pleural effusion or pneumothorax.
+     
+     IMPRESSION:  Endotracheal tube 3 cm above the carina.  No evidence of acute
+     cardiopulmonary disease.
+                                                                           
+
+",,
+14762,14748,18344,,2636-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-27**] 2:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12255**]
+     Reason: interval change?  ngt placement?                            
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old woman with ETT  s/p ngt placement                                  
+                        
+     REASON FOR THIS EXAMINATION:
+      interval change?  ngt placement?                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Endotracheal tube and nasogastric tube placed, check
+     position.
+     
+     The endotracheal tube lies 2.9 cm from the carinal angle.  Position unchanged.
+     The nasogastric tube lies within the stomach.
+     
+     The lung fields remain clear and no failure or infiltrates are present.
+     
+     IMPRESSION:  Endotracheal tube position unchanged, nasogastric tube position
+     satisfactory.
+                                                                           
+
+",,
+14762,14748,18344,,2636-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-27**] 12:56 PM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 12256**]
+     MRA NECK W&W/O CONTRAST
+     Reason: evaluate for new stroke                                     
+     Admitting Diagnosis: STROKE;TELEMETRY
+      Contrast: MAGNEVIST Amt: 30CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with past history of multiple small infarcts, including left 
+      MCA, right PCA, who fell out of bed and has left sided hemiplegia and right 
+      gaze deviation. Please eval for new stroke.
+     REASON FOR THIS EXAMINATION:
+      evaluate for new stroke                                                         
+     ______________________________________________________________________________
+     WET READ: AFSN SAT [**2636-2-27**] 3:38 PM
+      Acute right posterior division MCA infarct with enhancement. Chrnoic left MCA
+      and bilateral PCA infarcts. Head MRA shows deminished right MCA sylvian
+      branches but no occusion of major vessels around Circle of [**Location (un) **]. Normal neck
+      MRA.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI of the brain and MRA of the head and neck.
+     
+     CLINICAL INFORMATION:  Patient with history of multiple infarcts including
+     left MCA and PCA, for further evaluation.  The patient has left-sided
+     hemiplegia and right gaze deviation.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR, T2, susceptibility, and diffusion
+     axial images of the brain were obtained before gadolinium.  T1 axial,
+     sagittal, and coronal images of the brain were obtained following gadolinium.
+     2D time-of-flight MRA of the neck vessels and 3D time-of-flight MRA of the
+     circle of [**Location (un) **] were obtained.  Gadolinium-enhanced 3D time-of-flight MRA of
+     the neck was also acquired.
+     
+     FINDINGS:  BRAIN MRI:
+     
+     There is an acute infarct seen in the posterior division of right middle
+     cerebral artery.  This infarct demonstrates enhancement following the
+     administration of gadolinium related to loss of blood brain barrier.  There is
+     a chronic left MCA infarct identified in bilateral chronic posterior cerebral
+     artery, partial territorial infarcts are also seen as indicated by history.
+     There is no evidence of midline shift seen.  No hydrocephalus is identified.
+     No other abnormal areas of enhancement seen on the post-gadolinium images.  No
+     evidence of acute or chronic blood products seen.
+     
+     IMPRESSION:  Acute right posterior division MCA infarct.  Chronic left MCA and
+     bilateral posterior cerebral artery territorial infarcts.  No evidence of
+     midline shift or hydrocephalus.
+     
+     MRA OF THE NECK:
+     
+     Neck MRA demonstrates normal flow signal in the carotid and vertebral
+     arteries.
+                                                                 (Over)
+
+     DATE: [**2636-2-27**] 12:56 PM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 12256**]
+     MRA NECK W&W/O CONTRAST
+     Reason: evaluate for new stroke                                     
+     Admitting Diagnosis: STROKE;TELEMETRY
+      Contrast: MAGNEVIST Amt: 30CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Normal MRA of the neck.
+     
+     MRA OF THE HEAD:
+     
+     The head MRA is slightly limited by artifacts.  There is diminished flow
+     signal seen and diminished number of branches visualized in the right sylvian
+     region which could be secondary to diminished flow from the infarct or due to
+     occlusion.  However, the middle cerebral artery trunk is well visualized.  The
+     remaining arteries of anterior and posterior circulation demonstrate normal
+     flow signal.
+     
+     IMPRESSION diminished sylvian branches of right MCA as described above,
+     otherwise unremarkable MRA of the head.
+     
+     
+
+",,
+14762,14748,18344,,2636-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-27**] 12:56 PM
+     MR CERVICAL SPINE W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 12257**]
+     Reason: met seen on CT neck                                         
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with right [**Hospital Unit Name 212**] dev, left hemi                                 
+     REASON FOR THIS EXAMINATION:
+      met seen on CT neck                                                             
+     ______________________________________________________________________________
+     WET READ: AFSN SAT [**2636-2-27**] 3:40 PM
+      Degenerative changes. S/P fusion.No cord compression or acute abnormalities.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI of the cervical spine.
+     
+     CLINICAL INFORMATION:  Patient with right [**Hospital Unit Name 212**] deviation and left-sided
+     hemiplegia with question of mets seen on the CT of the neck.
+     
+     TECHNIQUE:  T1, T2, and inversion recovery sagittal and gradient echo and T2
+     axial images of cervical spine were obtained.
+     
+     FINDINGS:  There are postoperative changes identified with fusion from C5 to
+     C7 level with anterior plate and screws.
+     
+     At the craniocervical junction and C2-3, mild degenerative changes are noted.
+     
+     At C3-4, mild bulging and mild left foraminal stenosis seen.
+     
+     At C4-5, there is posterior ridging and bulging with mild left foraminal
+     stenosis.  From C5 to C7, there has been fusion.  The spinal canal is patent.
+     The foramina demonstrate no evidence of high-grade stenosis although the
+     evaluation is slightly limited by metallic implants and artifacts.
+     
+     At C7-T1 to T3-4, no abnormalities are identified.  The spinal cord shows
+     normal signal intensities without extrinsic compression.  No evidence of
+     intraspinal mass identified.
+     
+     There is fluid seen within the nasopharynx secondary to intubation.  No
+     obvious soft tissue masses are identified in the peri-spinal region.
+     
+     IMPRESSION:  Status post fusion and mild multilevel degenerative changes in
+     the cervical region.  No evidence of high-grade spinal stenosis or extrinsic
+     spinal cord compression.  No evidence of intraspinal mass.  No evidence of
+     bony metastasis in the cervical spine.
+     
+
+",,
+14762,14748,18344,,2636-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-27**] 12:56 PM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 12256**]
+     MRA NECK W&W/O CONTRAST
+     Reason: evaluate for new stroke                                     
+     Admitting Diagnosis: STROKE;TELEMETRY
+      Contrast: MAGNEVIST Amt: 30CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with past history of multiple small infarcts, including left 
+      MCA, right PCA, who fell out of bed and has left sided hemiplegia and right 
+      gaze deviation. Please eval for new stroke.
+     REASON FOR THIS EXAMINATION:
+      evaluate for new stroke                                                         
+     ______________________________________________________________________________
+     WET READ: AFSN SAT [**2636-2-27**] 3:38 PM
+      Acute right posterior division MCA infarct with enhancement. Chrnoic left MCA
+      and bilateral PCA infarcts. Head MRA shows deminished right MCA sylvian
+      branches but no occusion of major vessels around Circle of [**Location (un) **]. Normal neck
+      MRA.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI of the brain and MRA of the head and neck.
+     
+     CLINICAL INFORMATION:  Patient with history of multiple infarcts including
+     left MCA and PCA, for further evaluation.  The patient has left-sided
+     hemiplegia and right gaze deviation.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR, T2, susceptibility, and diffusion
+     axial images of the brain were obtained before gadolinium.  T1 axial,
+     sagittal, and coronal images of the brain were obtained following gadolinium.
+     2D time-of-flight MRA of the neck vessels and 3D time-of-flight MRA of the
+     circle of [**Location (un) **] were obtained.  Gadolinium-enhanced 3D time-of-flight MRA of
+     the neck was also acquired.
+     
+     FINDINGS:  BRAIN MRI:
+     
+     There is an acute infarct seen in the posterior division of right middle
+     cerebral artery.  This infarct demonstrates enhancement following the
+     administration of gadolinium related to loss of blood brain barrier.  There is
+     a chronic left MCA infarct identified in bilateral chronic posterior cerebral
+     artery, partial territorial infarcts are also seen as indicated by history.
+     There is no evidence of midline shift seen.  No hydrocephalus is identified.
+     No other abnormal areas of enhancement seen on the post-gadolinium images.  No
+     evidence of acute or chronic blood products seen.
+     
+     IMPRESSION:  Acute right posterior division MCA infarct.  Chronic left MCA and
+     bilateral posterior cerebral artery territorial infarcts.  No evidence of
+     midline shift or hydrocephalus.
+     
+     MRA OF THE NECK:
+     
+     Neck MRA demonstrates normal flow signal in the carotid and vertebral
+     arteries.
+                                                                 (Over)
+
+     DATE: [**2636-2-27**] 12:56 PM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 12256**]
+     MRA NECK W&W/O CONTRAST
+     Reason: evaluate for new stroke                                     
+     Admitting Diagnosis: STROKE;TELEMETRY
+      Contrast: MAGNEVIST Amt: 30CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Normal MRA of the neck.
+     
+     MRA OF THE HEAD:
+     
+     The head MRA is slightly limited by artifacts.  There is diminished flow
+     signal seen and diminished number of branches visualized in the right sylvian
+     region which could be secondary to diminished flow from the infarct or due to
+     occlusion.  However, the middle cerebral artery trunk is well visualized.  The
+     remaining arteries of anterior and posterior circulation demonstrate normal
+     flow signal.
+     
+     IMPRESSION diminished sylvian branches of right MCA as described above,
+     otherwise unremarkable MRA of the head.
+     
+     
+
+",,
+14762,14748,18344,0,2636-02-27 04:46:00 EST,2636-02-27 05:20:00 EST,6440,"N",54,"Nursing/Other",,"
+
+1900-0700 rn  notes micu
+
+pt admitted to unit at 2230.
+
+allergie: ?ASA, penicillin, demerol
+
+full code
+
+66 y.o F with hx of s/p strokex2,unclear what side deficite, s/p MI, hyperlipidemia, thyroid dis, on Plavix and syntroid per husaband, but did not want to take meds, fall from bed, was found by her husband on the floor, pt was not speaking and not moving left side,presented to ED and was intubated fro airway protection and decreased  LOC, put on propofol gtt. pt was exam by neuro team head CT shown old large left MCA nad bilat PCA infarcts, no evidence of bleeding, was not candidate for tpa, not given ASA d/t allergie per husband, [**Last Name (un) 2867**] reaction.pt received dilantin for seizures, twitching on both legs notes in ED.pt on c- collar, c -spine CT done, but was not reading by attending.transfer to unit for furthre management.
+
+neuro: neuro exam done q2hr, admitted sedated on propofol gtt 20mcg/kg/min, pt moves spont R side,lift and hold R arm and make a move to ETT, does not move L side,,but withdraw and posture on left side,also withdraw to pain on R side, incraesed propofol to 40mcg/min/kg, pt required several time boluses of propofol for reposition, suction. PERL 3mm/brisk, gag/cough reflex impair, corneal reflex intact on R side and impair on Left. pt with c-collar, staying flat in the bed per neuro ordrer. pt cont dilantin IV, plan: EEG, MRI please fill out check list.
+
+resp: intubated via ETT 7.5, 24 at lips, AC 50%/500/RR20/peep 5,ABG 7.63/18/200/20, vent changeg made 40%/RR 12/TV 400, ABG 7.44/36/198/25. suction small yellow secretion.
+
+cv: HR 78-83, NSR, no ectopy, SBP 138-144/80,goal SBP 130-140, Lopressor 5mg IV prn for SBP>140 written. .start NS 100c/hr for 1000cc.blood for toxic sreen neg. Abcent R dorsal Ped pulse,rest found by doppler. Tmax 99.4
+
+gi/gu: foley drainged light yellow urine >150cc/hr, MD aware. ABD soft, BS +, OGT placed, confirmed wiht CXR.pt NPO.
+
+endo: pt on RISS, no coverage needed.
+
+skin: intact
+
+access: 2piv 18g, 20g .
+
+social: full code, pt's husband left before pt was transferd from ED, no calls  from husband. 
+
+plan: cont monitoring neuro/resp/cardio status
+      EEG
+      head MRI, please fill check list.
+      keep SBP 130-140.
+
+
+",,
+14762,14748,18344,0,2636-02-27 05:18:00 EST,2636-02-27 05:23:00 EST,3746,"N",54,"Nursing/Other",,"
+
+Respiratory Care: Pt is a 66 yo F, admitted to MICU from ED. s/p fall from bed, found by husband. Not moving L side. Intubated #7.5 24 @  lip. Plan on going to MRI in am, possible wean after.
+",,
+14762,14748,18344,0,2636-02-27 16:00:00 EST,2636-02-27 16:01:00 EST,3447,"N",54,"Nursing/Other","respiratory care","
+respiratory care
+pt on the vent changes pt was taken to MRI tol well.  see respiratory page of carevue for more information. 
+",,
+14762,14748,18344,0,2636-02-27 16:08:00 EST,2636-02-27 16:18:00 EST,3789,"N",54,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+66 YEAR OLD WITH HX OF CVA X2 AS WELL AS MI. WHO PRESENTED TO [**Hospital1 10**] ER ON [**2-26**] S/P FALL OOB AT HOME. FOUND BY HUSBAND. ? SEIZURE VS A STROKE. INTUBATED IN ER FOR AIRWAY PORTECTION. HEAD CT WITH OLD INFARCT. PATIENT DID NOT RECEIVE ASA AS HAS AN ALLERGY TO IT. 
+REVEIW OF SYSTEMS-
+NEURO- OFF PROPOFOL MOVES ONLY RIGHT SIDE. GOES FOR ETT SO RIGHT ARM RESTRAINED. NO MOVEMENT OF LEFT SIDE. DOES WITHDRAW WITH ALL EXT. POSTURING OF UPPER EXT TO PAINFUL STIMULI. PEARL. 3MM-2.5MM. HAS IMPAIRED GAG AND COUGH. HAD MRI OF HEAD AND SPINE TODAY. DR [**First Name (STitle) **] CALLED SHORTLY AFTER MRI TO TELL ME IT SHOWED STROKE OF RIGHT MCA. HE CANCELLED EEG. ORDERED CARDIAC ECHO. PROP WAS DC'D BY HIM AND WE ARE NOW TOLERATING SBP UP TO 180.
+RESP- SHE IS INTUBATED AND VENTED. CHANGED FROM A/C MODE OF VENT TO 40% FIO2 WITH 5 PEEP AND 5PS. ON THIS SHE IS BREATHING 14-20 WITH TV 240-300. ABG ON THIS 7.38/43/199/26. BS CLEAR. SUCTIONED FOR SCANT THICK YELLOW SPUTUM. 
+CARDIAC- HR 80-[**Street Address 486**]. SBP 130-150. PER DR [**First Name (STitle) **] WILL ACCEPT SBP UP TO 180. K THIS AM 3.6 TX WITH 40MEQ KCL PO. OF NOTE HAS SS ORDER FOR KCL. HAS DOPPLER PT AND DP PULSES. ON THE RIGHT THEY ARE FLEETING. AT TIMES PRESENT AT OTHER TIMES DIFFICULT TO FINDGI- ABD SOFT WITH POS BS. NO STOOL TODAY. HAS OGT. STARTED ON TF OF REPLETE WITH FIBER AT 20CC/HR. MIN RESIDUALS. TF PRESENTLY ON HOLD FOR ? EXTUBATION. 
+GU- FOLEY PATENT DRAINING CLEAR YELLOW URINE AT 45-100CC/HR. 
+ENDO-= BS AT NOON 134. 
+ID- AFEBRILE. WBC 12.8. U/A SENT. 
+ 
+",,
+14762,14748,18344,0,2636-02-27 17:53:00 EST,2636-02-27 17:54:00 EST,3789,"N",54,"Nursing/Other","focus; addenum","
+focus; addenum
+resp- tf have been off since return from mri in case paitent is extubated. She had a rsbi of 45 and was placed on spont breaTHING TRIAL AT 1700. ABG ON SBT 7.40/36/204/23. DR [**First Name (STitle) **] TO BE UP LATER THIS EVEING FOR ? EXTUBATION. 
+",,
+14762,14748,18344,0,2636-02-27 18:44:00 EST,2636-02-27 18:47:00 EST,3789,"N",54,"Nursing/Other","focus; addendum","
+focus; addendum
+resp- placed back on ps 5 and peep 5. awaiting tsicu resident to come and see if patient shoule be extubated. 
+neuro- at 1900 appears patient has pos corneals in both eyes. more purposeful movement of right arm. pushes me away when i try to check her gag. Moving right side more. 
+",,
+14762,14748,18344,0,2636-02-28 04:47:00 EST,2636-02-28 04:57:00 EST,3324,"N",54,"Nursing/Other",,"
+
+[**2636-2-28**] ""B"" NPN
+
+66 year old woman with multiple CVA's in past, admitted with new Rt MCA infarct.
+
+CVS:  Afebrile.  HR=96-112 SR no ectopy noted. SBP=105-156. IV NS+40meq KCL at 50ml/hr.  Propofol drip for sedation.  
+
+Resp:  Attempted to extubate pt at 10pm but no air flow with cuff down.  Kept intubated overnight.  Will try again in am.  On PSV5/peep5 40% Fio2 during night, ABG good, Tolerated well.  Suctioned for blood- tinged sputum.  Lung sounds clear, diminished at bases.  Sats=96-100%.
+
+GU:  U/O=30-185cc/hr
+
+GI:  TF  replete w fiber on at 20cc/hr from 10pm to 4am.  Shut off to prepare for early extubation today.  +BS, no stools.
+
+Endo:  SSRI per q6h BS. 12AM=173 2units Regular Insulin given.
+
+Skin:  No red or open areas noted. No edema.
+
+Neuro:  Pupils=+, Does not open eyes spontaneously.  Moves rt arm and leg well.  When pt was off sedation she did move left leg.  Left arm rigid but pt does not move it.  Did not follow any commands.
+
+Access:  rt arm IV d/c'd due to redness.  Aline and left PPIV intact.
+
+Plan:  Extubate today.  Continue to monitor neurovital signs.
+",,
+14762,14748,18344,0,2636-02-28 05:55:00 EST,2636-02-28 05:58:00 EST,4235,"N",54,"Nursing/Other",,"
+
+RESP CARE: Pt remained intubated/on vent overnight. Planned extubation last noc held due to absence of cuff leak. Pt on [**5-28**]/.40 all noc Tol well. Pt does not open eyes. RSBI this am on 0 PEEP/5 PS was 75. 1cc air in cuff at this time. Plan is to extubate in am.
+",,
+14762,14748,18344,0,2636-02-28 15:27:00 EST,2636-02-28 15:32:00 EST,3789,"N",54,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+66 YEAR OLD WITH NEW R MCA STROKE. 
+REVEIW OF SYSTEMS-
+NEURO- SHE HAS BEEN OFF PROPOFOL ALL DAY. SHE HAS NOT RECEIVED ANY SEDATION. SHE MOVES ANS HOLD RIGHT ARM AND LEG OFF BED, MOVES LEFT LEG ON THE BED. LEFT ARM HAS NO SPONTANEOUS MOVEMENT. SHE WITHDRAW TO PAIN. AT TIMES ON LEFT ARM EXTENDS IT TO PAINFUL STIMULI. HER PEARL. HAS POS CORNEALS. DOES NOT OPEN EYES TO PAIN.HE RIGHT ARM HAS A SFETY DEVICE ON IT TO PREVENT HER FROM ACCIDNETLY PULLING OUT ETT. 
+RESP- SHE REMAINS INTUBATED. CUFF IS DOWN ON HER ETT DUE TO LACK OF AIRLEAK. SHE IS ON 40% FIO2 PEEP 5 PS OF 5 WITH TV 260-470CC. RESP 22-24. BS COARSE UPPER DIMINISHED AT THE BASES. SUCTIONED FOR THICK BLOD TINGED TO THICK YELLOW SECRETIONS.  
+",,
+14762,14748,18344,0,2636-02-28 15:38:00 EST,2636-02-28 15:52:00 EST,3789,"N",54,"Nursing/Other","FOCUS- CONTINUATION OF ABOVE NOTE","
+FOCUS- CONTINUATION OF ABOVE NOTE
+CARDIAC- HR 87-[**Street Address 1198**]. SBP 140-170. PER NEURO MED THEY DO NOT WANT TO TREAT HER BP. WANTED LOPRESSOR DC'D WHICH TRAUMA SICU DID. NEURO MED WANTS BP TO AUTOREGULATE. 
+GI- ABD SOFT WITH POS BS. PASSING FLATUS. WHEN DECISON MADE NOT TO EXTUBATE THE PATIENT TODAY HER TF WERE RESTARTED. REPLETE WITH FIBER IS INFUSING AT 40CC/HR. GOAL IS 50CC/HR. MIN RESIDUALS. 
+GU- FOLEY PATENT DRAINING CLEAR YELLOW URINE AT 30-80CC/HR. 
+ENDO- BS AT NOON 137. 
+ID- TEMP MAX 100.2. WBC UP TO 14.1. 
+SOCIAL- TEAM CONCERNED AS TO WHO HCP IS. HUSBAND IS COMMON LAW HUSBAND. TEAM PLACED SOCIAL WORK CONSULT TO SORT OUT WHO HEALTH CARE PROXY IS. COMMON LAW HUSBAND CALLED TODAY. THIS NURSE SPOKE TO HIM ABOUT HIS BRINGING IN HEALTH CARE PROXY . HE IS NOT SURE WHERE IT IS. HE STATES HE IS NAMED AS THE HEALTH CARE PROXY THOUGH. I TOLD HIM WE WOULD NEED A COPY OF THIS. HE FEELS [**Hospital1 669**] HAS A COPY. WILL NEED TO CONTACT SOCIAL SERVICES IN AM TO SEE HOW WE COULD GET THIS. ALSO OF NOTE COMMON LAW HUSBAND [**Name (NI) **] STATES THAT THE PATIENT HAS A DAUGHTER WHO IS IN [**State **] AT PRESENT. HE STATED THAT SHE WOULD BE UP THIS WAY NEXT WEEK. TOLD HIM WE WOULD NEED TO TAKE CARE OF HEALTH CARE PROXY ISSUES IN THE NEXT DAY OR TWO. HE WAS UPDATED ON PATIENT'S CONDITION ON THE PHONE AND WAS CRYING ON THE PHONE. STATED HE FELT HE COULD NOT COME IN TODAY. TOLD THE SOCIAL WORKER WOULD BE GETTING IN CONTACT WITH HIM TOMMORROW. 
+DISP- IN MICU A FULL CODE. 
+PLAN- DETERMINE HEALTH CARE PROXY ISSUES IN THE AM. 
+      ? TRIAL OF EXTUBATION. 
+      HOPEFULLY FAMILY MEETING IN AM.  
+",,
+14762,14748,18344,0,2636-02-28 16:03:00 EST,2636-02-28 16:03:00 EST,3447,"N",54,"Nursing/Other","respiratoyr care","
+respiratoyr care
+pt on the vent no changes made tol well.  see respiratory page of carevue for more information.
+",,
+14762,14748,18344,0,2636-02-28 18:26:00 EST,2636-02-28 18:27:00 EST,3789,"N",54,"Nursing/Other","focus; addendum","
+focus; addendum
+TACHY TO 118. TEMP 100.2. INCREASED SECXRETIONS SUCTIONED FROM ETT. DR [**First Name (STitle) **] FROM TSICU INFORMED. PROPOFOL RESTARTED AT 20MCGS/KG/MIN. HR DOWN TO 107. LESS AGGGITATED. 
+",,
+14762,14748,18344,,2636-02-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-2-29**] 4:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12258**]
+     Reason: any acute cardiopulm findings?                              
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        66 year old woman with ETT with new elevation in WBC and increased 
+      secretions.
+     REASON FOR THIS EXAMINATION:
+      any acute cardiopulm findings?                                                  
+     ______________________________________________________________________________
+     WET READ: MMBn MON [**2636-2-29**] 10:23 AM
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  66-year-old female with endotracheal tube and new elevation in
+     white blood cell count.
+     
+     COMPARISON:  AP supine portable chest x-ray dated 2/30/07.
+     
+     AP SUPINE PORTABLE CHEST X-RAY:  An endotracheal tube is positioned 1 cm above
+     the carina.  The nasogastric tube descends below the diaphragm with the tip
+     not visualized.  The cardiac silhouette, mediastinal and hilar contours are
+     within normal limits.  The pulmonary vasculature is normal and there is no
+     pneumothorax.  There is a new ill-deifned parenchymal opacity in the left
+     lowerling.  The right lung is clear. Degenerative changes and mild scoliosis
+     are seen along the imaged spine. Cervical stabilization plate is again noted.
+     
+     IMPRESSION:  New left lower lung opacity - likely lower lobe.  This is
+     concerning for pneumonia given the cliunical history.
+
+",,
+14762,14748,18344,0,2636-02-29 03:54:00 EST,2636-02-29 04:01:00 EST,3324,"N",54,"Nursing/Other",,"
+
+[**2636-2-29**] ""B"" NPN
+
+CVS:  T100.8-98.7 po. HR=111-122 ST no ectopy noted. SBP=119-160. IV Propofol at 30mcgs for agitation, will turn it off for wake up in am.  Pt has been easily arousable with Propofol on.
+
+Resp:  On Vent CPAP+PSV, sats=95-100%, cuff down but not passing air by the endotube.  Suctioned for blood-tinged sputum. Lung sounds coarse diminished at bases.
+
+GU:  u/o=30-100cc/hr
+
+GI:  Passing flatus, no stool, +BS. TF replete w fiber at goal of 50cc/hr.  No residuals noted.  Abdomen soft and flat.
+
+Neuro:  Pupils=+, corneal reflex present.  Moves rt and and leg purposefully.  Moves left leg slightly on the bed.  No movement left arm.  
+
+Social:  Pt's boyfriend is trying to find the HCP form.  Daughter is in [**State 598**] and will be up next week.  Social worker needs to be called to assist boyfriend in obtaining HCP that he thinks exists at the [**Hospital1 1382**].
+
+Skin:  No red or open areas noted, no edema.
+
+Plan:  Need spokesperson designated to discuss plans for reintubation or comfort care.  Continue to monitor on Vent, until safe for extubation.
+",,
+14762,14748,18344,0,2636-02-29 06:18:00 EST,2636-02-29 06:23:00 EST,4235,"N",54,"Nursing/Other",,"
+
+RESP CARE: Pt remains intubated/on vent on settings per carevue. Still on CPAP/PS 5/5/.40. 8.0 ETT in place. Sxd thick white small amt sputum. RSBI this am on 0 PEEP/5 PS was 85/ Plan is to extubate this am. 
+",,
+14762,14748,18344,0,2636-02-29 14:57:00 EST,2636-02-29 15:32:00 EST,8712,"N",74,"Nursing/Other","NURSING PROGRESS NOTE 0700-1900","
+NURSING PROGRESS NOTE 0700-1900
+PT IS A 66 YO FEMALE W/PMH OF MI, THYROID DISORDER, CVAX2 W/RESIDUAL (? WHICH SIDE) ADMITTED [**2636-2-26**]. PER NOTES, PT WAS FOUND ON THE FLOOR BY HUSBAND - PT WAS UNABLE TO FOLLOW COMMANDS AND NOT PRODUCING ANY SOUNDS ALTHOUGH IT APPEARED SHE WAS TRYING TO TALK. EMS WAS CALLED, AND UPON ARRIVAL PT WAS FOUND TO BE NONVERBAL W/LEFT SIDED WEAKNESS. THE PT WAS INTUBATED UPON ARRIVAL TO [**Hospital1 10**] FOR AIRWAY PROTECTION D/T SOMNOLENCE. HEAD CT WAS NEGATIVE. PT IS A FULL CODE.
+
+NEURO: CURRENTLY LIGHTLY SEDATED ON 15MCG/KG/MIN FOR AGITATION. AROUSES TO STIMULATION, WITHDRAWS TO PAINFUL STIMULI. DOES NOT OPEN EYES, PERRL 3MM/BRISK BILATERALLY. UNABLE TO FOLLOW COMMANDS, PURPOSEFUL MOVEMENT. ABLE TO MOVE RUE AND RLE WITH FULL STRENGTH - LIFTS OFF BED. LUE HAS NO MOVEMENT AND LLE HAS OCCASIONAL MOVEMENT ON THE BED. GAG REFLEX IS IMPAIRED, COUGH REFLEX INTACT. SOFT WRIST RESTRAINT MAINTAINED FOR PT SAFETY. NO SEIZURE ACTIVITY NOTED. PT IS AFEBRILE. 
+
+CV: S1 S2 AS PER AUSCULTATION, HR 80'S-105 NSR W/O ECTOPY. SBP 130'S-140'S - NOTED TO INCREASE TO 150'S-160'S W/STIMULATION. MAP >60. BILATERAL PALPABLE RADIALS/DP/PT PULSES. PT HAS 2 PIV'S AND A LEFT RADIAL A-LINE - ALL SECURE AND PATENT. 
+
+RESP: OETT SECURE AND PATENT, CURRENT VENT SETTINGS ARE CPAP 5/5 40% FIO2 TV'S 300-400. BILATERAL CHEST EXPANSION NOTED, RR 20'S SPO2 > OR = 95%. LUNGS CLEAR AND DIMINISHED AT THE BASES. SUCTIONED FOR SCANT TO SM AMTS OF THICK YELLOW SECRETIONS. 
+
+GI/GU: ABDOMEN SOFT, NONDISTENDED. BOWEL SOUNDS PRESENT X4. TF AT GOAL RATE OF 45ML/HR W/0-10 RESIDUALS. OG TUBE SECURE AND PATENT - POSITIVE PLACEMENT VERIFIED BY INSTILLING 30ML AIR. MUSHROOM CATHETER SECURED THIS AM AND ACTIVE FOR LIQUID BROWN STOOL. INDWELLING FOLEY CATHETER SECURE AND PATENT W/APPROX 60-120ML/HOUR CLEAR YELLOW URINE. 
+
+INTEG: SKIN WARM AND PINK. NO SIGNS OF BREAKDOWN TO BACK OR BUTTOCKS.
+
+ENDO: FSBS COVERED W/SS INSULIN.
+
+SOCIAL: SISTER AND DAUGHTER CALLED TODAY. ALL QUESTIONS ANSWERED APPROPRIATELY.
+
+PLAN: NEURO CHECKS Q2HOURS. REPLETE LYTES PRN. SUCTION PRN. ? FAMILY MEETING/DISCUSSION W/MD REGARDING PLAN.
+
+
+",,
+14762,14748,18344,0,2636-02-29 22:05:00 EST,2636-02-29 22:10:00 EST,6438,"N",74,"Nursing/Other",,"
+
+1900-2200 rn notes micu
+
+pt transfer to TSICU
+
+neuro: no changeds in neuro status, pt does not follow commands, does not open eyes , withdraw to pain, spont movement on R side, no movement on L side. PERL 3mm/brisk.
+
+resp: intubated via ETT CPAP 5/5. suction for yellow c=secreiton, LS clear.
+
+cv: HR 80-100.NSR. SBP 130-140/80.
+
+gi/gu: foley, y/o 20-35cc/hr. cont TF 50cc/hr, ABD soft/bs +.
+
+pt is full code, transfer to TSICU. 
+",,
+14762,14748,18344,0,2636-03-01 04:29:00 EST,2636-03-01 04:32:00 EST,660,"N",74,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt received from MICU mech ventilated as per Carevu. Lung sounds coarse suct sm off white sput. ABGs stable; no vent changes required overnoc; on minimal support. Cont PSV/trach and PEG soon.
+",,
+14762,14748,18344,0,2636-03-01 06:21:00 EST,2636-03-01 06:31:00 EST,8775,"N",74,"Nursing/Other","Nursing Progress Note:","
+Nursing Progress Note:
+
+Review of Systems:
+
+Skin: skin intact. no s/s of breakdown
+
+Neuro: perrl.no opening eyes spont. R upper and lower extrem move off the bed spont. seems slightly purposeful with RUE. L upper and L lower extrem withdraw to pain only.pt on diprivan gtt @ 20mcg
+
+CV: SR-ST 90's to low 100's. SBP 110's- 140's. afebrile. p boots on.lopressor bid 
+
+Resp; sats 99-100%. RR 14 approx. LS clear bilat and throughout. not sxning anything from ETT.
+
+GI: npo. ogt with replete with fiber @ 60cc/hr. abd soft/ND. present BS. pt with mushroom cath-draining loose, brown stool.
+
+GU: foley cath draining clear, yellow urine. approx 30cc/hr. couple hours dropped to 15-25-MD's aware.
+
+Access: L radial aline. 2 pIV's
+
+Pain: prn fentanly ordered. when given for change in vital-has good effect.
+
+ID-no antibiotics ordered
+
+Endo: pt on q 6 hours BS checks -RISS-covered once during the night with 2 units
+
+Plan: cont with 2 hour neuro checks
+      wean to extubate today?
+
+
+",,
+14762,14748,18344,0,2636-03-01 20:00:00 EST,2636-03-01 20:25:00 EST,8745,"N",74,"Nursing/Other","Progress Note, 0700-1900","
+Progress Note, 0700-1900
+Resp: CPAP + PS, [**5-28**], FiO2 40%. 7.46/34/142/25/1. SpO2 >99%, RR 16-24. LS coarse bilaterally. Scant to moderate amts thick yellow secretions sxned via ETT.
+
+CVS: NSR to ST, w/ occ runs of PVCs. HR 83-110s, SBP 137-143, Tmax 100.2. Palpable pulses, skin warm & dry. Lopressor 25 mg BID. No antibiotics ordered.
+
+Neuro: Lightly sedated on 20 mcg/hr propofol. Arouses to painful stimuli, GCS 6 (e1v1m4), does not open eyes or follow commands, however purposeful movement noted in R extremities. No purposeful movement with L extremities- only slight withdrawal with nailbed pressure. Neuro assessments Q2H. Fentanyl ordered PRN for discomfort.
+
+GI: Abd soft, NT, ND. + BS. Mushroom catheter in place, small amts liquid brown stool noted. TFs via OGT. Replete w/ fiber ordered for 45 cc/hr- however infusing at 50 cc/hr. Minimal TF residual. OGT w/ free water flushes, 50 cc Q6H. FS 130-150, requiring coverage w/ RISS.
+
+GU: Foley draining cloudy yellow urine w/ notable sediment. u/o 30-120 cc/hr. Pt received 250 cc bolus of NS this am for diminishing to no u/o over 3 hr period, u/o picked up to 30-80 cc/hr.
+
+Skin/Access: Skin warm, dry, & intact. PIV x2, Lft Radial A-line.
+
+Social: Pt lives with common-law husband, however daughter in [**Name2 (NI) 598**] is health care proxy- she is expected to arrive to [**Location (un) **] sometime this week for family meeting in which POC is to be decided upon. Social work has been in touch with family.
+
+Plan of Care: ? Extubation 
+              Pulm toileting
+              Monitor hemodynamics
+              Neuro assesments Q2H
+              Plan family meeting as soon as daughter arrives
+",,
+14762,14748,18344,,2636-03-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-3-2**] 9:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12259**]
+     Reason: pneumonia?  chf?                                            
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         66 year old woman with ETT with new elevation in WBC and increased  
+      secretions w/ new desats
+     REASON FOR THIS EXAMINATION:
+      pneumonia?  chf?                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  66-year-old female intubated with elevated white cell count and
+     increasing secretions.
+     
+     Comparison is made to prior radiographs dated [**2-27**] and [**2636-2-29**].
+     
+     SINGLE AP PORTABLE CHEST RADIOGRAPH
+     
+     When compared to prior film, there is increased patchy opacity involving much
+     of the right lower lobe and a more well defined consolidative opacity
+     retrocardiacally likely within the left lower lobe which likely represents an
+     area of segmental left lower lobe collapse.  There is increased plate-like
+     atelectasis noted within the left base. Cardiomediastinal silhouette and hilar
+     contours are grossly unchanged and there is no evidence of pulmonary edema or
+     pleural effusions.  Endotracheal tube is approximately 3 cm from the carina
+     and nasogastric tube is identified within the stomach with its distal tip not
+     visualized.
+     
+     IMPRESSION:
+     1.  Increased patchy opacification of right lower lobe worrisome for pneumonia
+     in this ventilated patient.
+     
+     2.  Increased better defined retrocardiac opacity likely representing a
+     segmental left lower lobe collapse with underlying consolidation also in the
+     differential.
+     
+     Findings discussed with caring physician, [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) 621**] on date of exam at
+     approximately 1:10 p.m.
+
+",,
+14762,14748,18344,0,2636-03-02 03:48:00 EST,2636-03-02 03:50:00 EST,660,"N",74,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds sl coarse after suct sm=>mod th off white sput. Pt in NARD on current settings, no vent changes required overnoc. Cont PSV.
+",,
+14762,14748,18344,0,2636-03-02 05:24:00 EST,2636-03-02 05:32:00 EST,7797,"N",74,"Nursing/Other","T/SICU Nursing 19-07","
+T/SICU Nursing 19-07
+Neuro: Lightly sedated on propofol. Moves RUE and RLE purposefully on this level of sedation. Moves LLE on the bed non-purposefully. LUE is flacid. Pupils 4mm, equal, round, reactive to light. Slight disconjugate gaze. Does not regard examiner or interact or follow commands. Localizes to ETT and oral care. Gag, cough reflexes impaired, corneal reflexes intact. No change in neuro exam off propofol however pt does appear very uncomfortable and becomes relatively hypertensive and tachycardic and tachypnic with sedative off.
+
+Pain: Treated with 25 mcg fentanyl x2 at 5AM and 515AM for pain as evidenced by tachycardia (120's+), tachypnea (30's) with good result - RR decreased to approx 20, HR 100-110, and SPO2 rose from low 90's to high 90's.
+
+Resp: Lungs are coarse in the upper fields, diminished bibasilar. Suctioned for large amounts of neon yellow sputum, cx sent. Plan to send an ABG shortly.
+
+CV: Sinus tachy rhythm with rate 100's-110's, occ ventricular ectopy. Vital signs as noted in flowsheets. Palpable distal pulses. Pneumoboots on, sc heparin continues. PIVx2.
+
+GI: Abd soft and non-distended. Bowel sounds present. Tolerating tube feeds at goal 45cc/hr as per order via OGT. Removed mushroom catheter as it has had no output recently.
+
+GU: Foley to gravity drains cloudy foul-smelling yellow urine in adequate amounts.
+
+Endo: RISS with coverage as ordered.
+
+Lytes: Repleted potassium with 40meq PO.
+
+Skin: Intact.
+
+Social: No family contact
+
+Plan:
+-Maintain safety
+-Pain / sedation management
+-Q2 hr neuro checks
+-Pulmonary toileting, ween vent as tolerated
+-Notify team of acute changes
+",,
+14762,14748,18344,0,2636-03-02 17:18:00 EST,2636-03-02 17:36:00 EST,5249,"N",74,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt remains orally intubated on PSV. FiO2 increased this AM d/t desat to 90%. SpO2 high 90s on .50%. Continues on +5/+5. Suctioned for moderate amounts of thick tannish/yellow sputum.  See resp flowsheet for specifics.
+
+Plan: maintain support
+",,
+14762,14748,18344,0,2636-03-02 19:29:00 EST,2636-03-02 19:35:00 EST,412,"N",74,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Events- Daughter arrived from [**State 598**] and had meeting with neuromedicine. Decision made to withdraw support.
+
+Neuro- Pt MAEs, very restless. Reaches for ETT, restraints on. No eye opening, not FCs. PERRLA.
+
+Resp- PS and tolerating well. Will be extubating pt soon for CMO. Lungs coarse, diminished LLL. Vanco had been started this am.
+
+CV- ST. Normotensive. T max 101.2. Skin w/d/i.
+
+GI/GU- Abd soft, +BS. TF at goal. Med BM. Foley patent but occ leaks. Foul smelling urine.
+
+Plan- Pt made CMO. Will extubate when family ready.
+
+",,

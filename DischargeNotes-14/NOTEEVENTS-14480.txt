@@ -1,0 +1,301 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14480,23890,,,2736-10-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2736-10-7**]              Discharge Date:   [**2736-10-9**]
+ 
+Date of Birth:  [**2666-4-29**]             Sex:   M
+ 
+Service: CMED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1062**] 
+Chief Complaint:
+elective carotid stenting
+ 
+Major Surgical or Invasive Procedure:
+[**Doctor First Name **] stenting
+
+ 
+History of Present Illness:
+70 yo male with PMH DM, HTN, hyperlipid, smoking, mult strokes 
+admitted for elective carotid angiography/intervention.  
+*  
+Carotid ultrasound in [**Female First Name (un) 771**] found occlusion of right internal 
+carotid artery and a high grade stenosis of the origin of the 
+left internal cartoid artery.  
+*  
+Pt denies any neurologic symptoms (visual, slurred speech, 
+numbness, weakness, other stroke-like sx.  
+*  
+In cath lab found occluded [**Country **], focal 90% stenosis of [**Doctor First Name **]. 
+Successful stenting of the [**Doctor First Name **] was performed.  
+
+ 
+Past Medical History:
+NIDDM (diet control)  
+Non small cell lung cancer 16 yrs ago s/p chemo and XRT  
+2-3 years ago had EMPYEMA rx���d with decortication & chest tube  
+Hematuria 2 weeks ago, now resolved  
+S/P IVP/cystourethrogram on [**2736-9-9**]  
+COPD  
+s/p cardiac stent  
+h/o pseudomona sepsis [**4-14**]  
+hypercholesterolemia  
+HTN  
+
+ 
+Social History:
++ Cigs (now smokes 1/2ppd (previously [**1-14**])for 50years) still 
+smoking, occasional alcohol, no illicit drugs. lives with wife 
+on farm, owns bed and bkfst. 
+ 
+Family History:
+dad ?; mom died of pneumonia, (+) HTN; daughter- HTN 
+ 
+Physical Exam:
+VS: t98, p80, 120/80
+Gen: NAD, pleasant
+HEENT: PERRL, EOMI, clear OP
+Neck: supple, no LAD
+CVS: RRR, nl s1 s2, no m/g/r, distant heart sounds
+Lungs: CTAB, no c/w/r
+Abd: soft, NT, ND, +BS
+Ext: no c/e/e
+Neuro: CN2-12 intact, [**4-15**] upper and lower extremity strength, 
+sensation intact to light touch
+ 
+Pertinent Results:
+[**2736-10-8**] 05:57AM BLOOD WBC-8.4 RBC-4.15* Hgb-12.3* Hct-35.4* 
+MCV-85 MCH-29.6 MCHC-34.7 RDW-14.4 Plt Ct-196
+[**2736-10-8**] 05:57AM BLOOD PT-12.6 PTT-25.9 INR(PT)-1.0
+.
+[**2736-10-7**] 08:56PM   GLUCOSE-84 UREA N-26* CREAT-0.9 SODIUM-135 
+POTASSIUM-4.3 CHLORIDE-100 TOTAL CO2-27 ANION GAP-12
+[**2736-10-7**] 08:56PM   CALCIUM-8.9 PHOSPHATE-3.2 MAGNESIUM-1.8
+.
+[**2736-10-7**] Cardiac cath:
+1.  Access was retrograde via the right CFA to the selective 
+subclavian, 
+carotid, and vertebral arteries. 
+2.  The thoracic arch was Type I without significant disease. 
+3.  Subclavian arteries:  The RSC was normal.  The LSC had mild 
+disease 
+without lesions. 
+4.  Carotid/vertebrals:  The RCCA was normal.  The [**Country **] was 
+occluded. 
+The right vertebral was normal.  The right vertebral filled the 
+cerebellar and basilar sytems and the right MCA via the PCOM.  
+The left 
+vertebral was without lesions.  The [**Doctor First Name **] had a focal 90% lesion. 
+ The 
+ICA filled the ACA/MCA with contralateral filling of the ACA. 
+5.  Successful stenting of the [**Doctor First Name **] was performed with a tapered 
+[**9-17**] x 
+30 mm Acculink stent. 
+6.  Angioseal of the right groin was performed. 
+  
+FINAL DIAGNOSIS:     
+1. Occluded [**Country **]. 
+2. Severe stenosis of [**Doctor First Name **]. 
+3. Stenting of the [**Doctor First Name **]. 
+4. Angioseal of groin. 
+
+ 
+Brief Hospital Course:
+1. [**Doctor First Name **] stenosis. Pt had a left carotid stent placed without any 
+complications. He was initially started on neosynephrine given 
+risk of hypotension with disruption of baroreceptors. He was 
+gradually weaned off of neo for SBP between 95-140. Serial neuro 
+checks were normal. Pt was continued on Plavix.
+*  
+2. CAD: No active issues. Pt was continued on asa, bb, ace, 
+statin.  
+*  
+3. DM: No active issues. Pt was continued on amaryl  
+*  
+4. COPD: Pt was continued on home inhalers.  
+  
+
+ 
+Medications on Admission:
+NIDDM, HTN, CAD ([**4-14**]:s/p PCI x 2,cypher to LAD and taxus to 
+RCA), hyperlipid,COPD, hematuria 2 weeks ago (s/p 
+IVP/cystourethrogram), non-small cell lung cancer 
+ 
+Discharge Medications:
+1. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**12-13**] 
+Puffs Inhalation Q6H (every 6 hours) as needed.
+Disp:*1 1* Refills:*3*
+5. Clonazepam 0.5 mg Tablet Sig: Two (2) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+6. Advair Diskus 500-50 mcg/Dose Disk with Device Sig: One (1) 
+puff Inhalation twice a day.
+Disp:*1 1* Refills:*3*
+7. Amaryl 1 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Lasix 20 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+L internal carotid artery stenosis
+
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+Restart your home medications.
+
+call Dr. [**First Name (STitle) **] to schedule a follow-up appointment
+ 
+Followup Instructions:
+Follow-up with Dr. [**First Name (STitle) **]
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1067**] MD [**MD Number 1068**]
+ 
+Completed by: [**Last Name (NamePattern1) 2381**] MD [**MD Number 2382**] [**2737-1-3**] @ 1332
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: WED [**2737-1-6**] 9:04 AM
+(End of Report)
+
+
+",,
+14480,23890,18000,0,2736-10-07 21:00:00 EST,2736-10-07 21:17:00 EST,2015,"N",1,"Nursing/Other","CCU NURSING - S/P RICA STENT","
+CCU NURSING - S/P [**Country **] STENT
+S.  DENIES CP/SOB/NEURO SYMPTOMS
+
+O.  SEE CAREVUE FOR COMPLETE VS, SEE ICU ADMIT NOTE FOR PMH/HPI
+
+BRIEFLY, PT IS A 70 YO MAN ADMITTED TODAY FOR [**Country **] STENT PROCEDURE - REMAINED ON NEO POST-PROCEDURE FOR HYPOTENSION - TRANSFERRED TO CCU AT 1715 WHEN BED AVAILABLE. (PT RECOVERING IN HOLDING AREA SINCE 1100)
+
+CV:  PT ADMITTED ON .45MCGS/KG/MIN NEO (32 GTTS OF 20MG IN 250CC GTT) - DECREASED TO 28 GTT - .39 MCGS/KG W/STABLE BP UNTIL PT WENT TO [**Doctor Last Name **] - BP DROPPED TO 89/30 - NEO BACK UP TO .45MCGS W/BP STABLE AT 127/
+HR 70-80'S SR W/FREQUENT PVC'S, SHORT RUNS, NO LYTES SENT FROM CATH LAB - 2115 LABS SENT - PND; PT SITTING ON SIDE OF BED - OOB TO VOID, TOLERATING WELL W/O DIZZYNESS
+
+NEURO:  PT AWAKE/ALERT AND ORIENTED X3 - EXTREMITIES W/EQUAL AND NORMAL STRENGTH BILAT, PERL, NO COMPLAINTS ON DIZZYNESS
+
+RESP:  RR 18-24, LUNGS W/EXP WHEEZES - ON INHALERS - GIVEN AT 1800,
+CONGESTED COUGH, PT STATES HE CONTINUES TO SMOKE [**12-13**] PPD
+
+GI:  TOLERATING CARDIAC DIET FOR SUPPER, NO STOOL
+
+GU:  VOIDING WELL ON OWN, 1 LITER POSITIVE SINCE PROCEDURE
+
+SOCIAL:  LIVES IN [**Location 6143**], NH W/WIFE AND SON, RUNS BED AND BREAKFAST,
+FAMILY WAS IN HOSPITAL EARLIER, WENT HOME PRIOR TO ADMISSION TO CCU
+NO OTHER VISITORS THIS SHIFT
+
+A:  REMAINS NEO DEPENDENT, INC ECTOPY W/LYTES PENDING
+    NO NEURO SYMPTOMS S/P CAROTID STENT 
+
+P:  ASSESS ANY CHNAGES IN NEURO STATUS, MONITOR BP AND WEAN NEO AS TOLERATED, FOLLOW HR/RHYTHM, REPLACE LYTES AS NEEDED, ASSESS FLUID STATUS, EMOTIONAL SUPPORT, POST-PROCEDURE TEACHING, INCREASE ACTIVITY AS TOLERATED. 
+",,
+14480,23890,18000,0,2736-10-08 03:30:00 EST,2736-10-08 03:35:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 11P-7A/ S/P CAROTID STENT","
+CCU NSG PROGRESS NOTE 11P-7A/ S/P CAROTID STENT
+
+S- "" I AM DOING OK...HOPE TO [**Doctor Last Name **] ALL NITE!""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT REMAINS ON 0.45 MCG/KG/MIN NEO- NO CHANGE THIS SHIFT
+MAINTAINING BP- 95/62-116/50. UNABLE TO WEAN NEO COMPLETELY OFF THIS SHIFT.
+GROIN SITES D/I.
+PULSES PRESENT
+
+RESP- I/E WHEEZE- S/P SMOKER HX- NO CHANGE FROM HOME HE STATES- ADDED ALBUTEROL AS NEEDED FOR NEB TX HERE.
+ON COMBIVENT AS WELL.
+O2 SATS ALL MID TO HIGHER 90'S. NO DISTRESS NOR DESAT ISSUES.
+
+GI- EATING SNACKS, WATCHING END OF BASEBALL GAME.
+(+) BOWEL SOUNDS, NO STOOL THIS SHIFT.
+HOUSE DIET
+
+GU- PUTTING OUT ADEQUATE URINE VIA URINAL
+950CC SINCE 11P.
+S/P 2 LITERS IVF AS ORDERED POST PROCEDURE.
+
+ID- AFEBRILE
+
+MS- PT COMFORTABLE, IN GOOD SPIRITS,
+SLEEPING CURRENTLY
+DENIES PAIN
+NEURO EXAM WITHOUT DEFICITS OR ISSUES.
+
+A/P- PT S/P SUCCESSFUL STENT OF CAROTID CURRENTLY REMAINS ON NEO TO MAINTAIN BP >100/
+
+CONTINUE TO WATCH CLOSELY- HEMODYNAMICS AND NEURO STATUS.
+ATTEMPT TO WEAN NEO TO OFF.
+? FLUID BOLUS IN AM IF STILL ON NEO GTT.
+C/O ONCE PRESSOR IS OFF.
+KEEP PT AWARE OF PLAN OF CARE/DECREASE ANY ANXIETY AS NEEDED.
+",,
+14480,23890,18000,0,2736-10-08 16:37:00 EST,2736-10-08 16:53:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S: ""When can I go home?""
+
+O: Please see flow sheet for objective data. Tele sinus with frequent PVC's. SBP > 90 Neo weaned throughout the coarse of the day.  Off at 5pm after 250 bolus of NS. BP stable. R groin is C&D.
+
+Resp: Denies shortness of breath. O2 sat 96-93%. I/E wheezes noted throughout with productive cough.
+
+Neuro: Pt is alert and oriented. Able to MAE. OOB ambulating in [**Doctor Last Name **] x's 2. Tolerated well. Anxious to go home. Spoke with Dr [**Last Name (STitle) 1437**] and [**Doctor Last Name 6144**]. Will stay overnight for observation with Neo off.
+
+GU/GI: Tolerating diet well. Abd is soft with bowel sounds present. BM today. Voiding good amts of clear yellow urine.
+
+Social: Wife in with pt for good part of the day. Presently she is staying with her daughter who lives locally. She is aware of plan for discharge in am and not today.
+
+A&P: 70 yo man s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6145**] stent requiring Neo post procedure. Presently off Neo with SBP>90. Cont to monitor BP. Encourage ambulation. Transfer to floor if bed needed. Discharge home in am.
+",,
+14480,,18000,0,2736-10-09 04:11:00 EST,2736-10-09 04:29:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P CAROTID STENT","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P CAROTID STENT
+
+S- "" I GUESS I AM GOING HOME TOMORROW""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT WITH STABLE HEMODYNAMICS- HR- 90'S, SR, FREQ PVC'S - TRIGEMINY- 
+AM LABS/LYTES TO BE DRAWN.
+BP- 108/51- NO ISSUES WITH HYPOTENSION SINCE NEO OFF AT 5P
+SITTING ON EDGE OF BED THIS EVENING.
+NO CHANGES IN BP WITH CHANGE IN POSITION.
+
+RESP- REMAINS WITH COARSE BREATH SOUNDS/OCC I/E WHEEZE- TAKING INHALERS AT BEDSIDE AND APPEARS COMFORTABLE.
+NONPRODUCTIVE COUGH.
+
+
+ID- AFEBRILE
+
+GU- VOIDING VIA URINAL NO ISSUES
+
+A/P- PT S/P CAROTID STENT APPEARS STABLE HEMODYNAMICALLY WITHOUT ISSUE
+
+
+AWAITING D/C TO HOME THIS MORNING
+CONTINUE TO INCREASE ACTIVITY AND OBSERVE HEMODYNAMICS.
+TEACHING/SUPPORT/D/C PLANNING. 
+
+",,
+14480,,18000,0,2736-10-09 09:13:00 EST,2736-10-09 09:17:00 EST,2800,"N",1,"Nursing/Other","Discharge Note","
+Discharge Note
+
+Please see flow sheet for objective data. Pt seen by Dr [**First Name (STitle) **] and given disharge instructions for follow up appt and restarting antihypertensives. Wife present for instructions. OOB ambulating in room. Lungs with I/E wheezes this am. BP > 100. DC home via w/c with wife.
+",,

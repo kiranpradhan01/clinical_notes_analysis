@@ -1,0 +1,982 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14798,,,,2585-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2585-11-27**] 6:32 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 12605**]
+     Reason: question of acute process in liver or gallbladder           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old woman with HIV with 1 week hx of RUQ pain                           
+     REASON FOR THIS EXAMINATION:
+      question of acute process in liver or gallbladder                               
+     ______________________________________________________________________________
+     WET READ: CCqc [**First Name8 (NamePattern2) **] [**2585-11-27**] 7:02 PM
+      thickened gallbladder wall without stones, gallbladder
+      distention or pericholecystic fluid, a finding which is commonly seen in HIV
+      patients; HIV is the most likely etiology, but acute chole cannot be
+      definitively excluded
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  48-year-old female with HIV and one week history of right
+     upper quadrant and epigastric pain.
+     
+     TECHNIQUE:  Right upper quadrant ultrasound.
+     
+     COMPARISON:  None available.
+     
+     FINDINGS:  The liver demonstrates no focal or textural abnormalities.  There
+     is no intrahepatic or extrahepatic ductal dilatation.  The common bile duct
+     measures 3 cm in diameter.  The portal vein demonstrates normal color flow.
+     There is circumferential thickening of the gallbladder wall, which measures up
+     to 6 mm in thickness.  No definite wall edema or pericholecystic fluid is
+     identified.  There are no stones or sludge.  There is no ascites.
+     
+     IMPRESSION: Circumferential thickening of the gallbladder wall without
+     evidence of stones, gallbladder distension, or pericholecystic fluid.
+     Gallbladder wall thickening is a common finding in HIV patients, and is the
+     most likely etiology of this finding.  Acute cholecystitis cannot be excluded
+     in the appropriate clinical setting.  Correlation with a clinical exam is
+     recommended.
+
+",,
+14798,,,,2585-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2585-11-27**] 6:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12604**]
+     Reason: question of pneumonia                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old woman with HIV with 2 week hx of fevers and now has diffuse 
+      petechial rash 
+     REASON FOR THIS EXAMINATION:
+      question of pneumonia                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  48 year old woman with HIV and fevers for two weeks.
+     
+     COMPARISON:  None.
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  The heart size is within normal limits.  The
+     mediastinal and hilar contours are unremarkable.  The pulmonary vascularity is
+     normal in appearance.  The lungs are clear without focal consolidations or
+     effusions.
+     
+     IMPRESSION:  No CHF or pneumonia.
+     
+
+",,
+14798,13569,,,2585-11-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2585-11-28**]              Discharge Date:   [**2585-12-2**]
+ 
+Date of Birth:  [**2537-5-16**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 10174**] 
+Chief Complaint:
+fever, petechial rash
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Pt is a 48 yo woman w/ a hx of HIV/AIDS (CD4=79, [**9-29**]), chronic 
+DIC, asthma and chronic HCV infection who presents with a 
+subjective fever x 2 wks and petechial rash of 2 days duration. 
+Pt was in her usual state of health until 2 weeks prior to 
+admission, at which time she developed fever and night sweats. 
+She noticed the fever would be worse at nights and resolve 
+during the days. This was treated symptomatically with aspirin.  
+One week prior to admission, she developed non-bloody diarrhea, 
+for which she was seen by her PCP. [**Name10 (NameIs) 1110**] episode of diarrhea 
+resolved with Imodium several days before admission. On the day 
+before presentation to the ED, she developed a diffuse petechial 
+rash on her lower extremities bilaterally extending proximally 
+to the knees. The rash was accompanied by edema and pruritis 
+over both lower extremities. She reports worsening of her fever 
+and persistence of the rash over the subsequent 24 hour period, 
+leading to her presentation to the ED for evaluation. On 
+presentation, she also c/o focal pain in her right upper 
+quadrant on moderate palpation that started around the same time 
+as her diarrhea, but has persisted. On review, she denies cough, 
+N/V, current diarrhea, rhinorrhea, chest pain and neck pain. Her 
+boyfriend has a cough that has persisted for the past 1 month, 
+but has not sought medical care. She denies other sick contacts, 
+recent travel, change in medication.
+ 
+Past Medical History:
+1. AIDS - diagnosed 12 years ago. Her most recent CD4 = 79 
+([**2585-10-7**] per report). Pt was started on HAART at [**Hospital1 717**], which was 
+self-discontinued for the past 1 year secondary to side effects 
+(stiffness in lower extremities). She has since transferred care 
+to her PCP, [**Name10 (NameIs) 5552**] has not restarted therapy
+2. HCV - Increased AFP w/ negative MRI liver [**4-28**], with some 
+evidence of portal htn on abd u/s per report. She has since 
+refused treatment and liver bx.
+3. Asthma/COPD
+4. Pancytopenia
+5. Depression
+6. Substance abuse (cocaine, EtOH)
+ 
+Social History:
+Pt currently lives in home with her boyfriend of 16 years and 
+his son. She has two sons from a previous relationship. She has 
+recent cocaine and heavy alcohol use over the holidays (most 
+recent two days ago), but reports no IVDU and otherwise 
+occassional drinking (3-4 beers on weekends only). She smokes 
+0-1 cigarettes a day with a past hx of smoking.
+ 
+Family History:
+Notable for hx of diabetes in mother and heart disease in 
+brother, but reports no family hx of cancer.
+ 
+Physical Exam:
+In ED:   T:101.6, HR:110, BP: 150/66, Sat: 96%RA
+Current: T: 98.2, HR: 84, BP: 122/66, Sat: 95%RA
+
+General: mod overweight woman resting comfortably in bed
+Integument: diffuse petichial rash in LE extending proximally to 
+the knee bilaterally.
+HEENT: PERRL, EOMI, anicteric sclera, OP: clear, non-injected, 
+notable tenderness of lower left far molar (17) to digital 
+palpation
+Neck: supple without carotid bruits; full ROM, no meningismus
+Lungs: CTAB s adv sounds; nl insp to exp ratio; no egophany
+Cardiovascular: RRR c 3/6 SEM at base
+Abdomen: soft, mildly distended, norm active bs, tenderness to 
+mod palpation in the RUQ, otherwise diffuse tenderness to deep 
+palpation throughout; no dullness to percussion; no guarding or 
+rebound
+Extrem: trace edema in LE bilaterally extending to ankle and in 
+UE extending to wrists; without clubbing or cyanosis
+G/U: multiple anal warts; per ED, guiac + c brown stool
+Neuro: Alert and oriented x 3; CN II-XII intact, nl bulk and 
+tone; power intact (B/T/D/IP); negative [**Last Name (un) **]/Bru
+ 
+Pertinent Results:
+[**2585-11-28**] - On admission, WBC: 2.0, Hct: 26.0, Plt: 88, with a 
+white ct differntial of 65 N, 14 Bands, 25 Lymphs. Significant 
+chemistry results include Cl: 114, Ca: 8.1, Albumin: 2.4, ALT: 
+,but otherwise within normal limits. Coagulation labs of note 
+include fibrinogen: 68 and D-Dimer: 2595. </p>
+
+A lumbar puncture in the ED was within normal limits, with 
+negative AFB, gram stain and culture. A urine sample 
+demonstrated moderate blood, but otherwise nl chemistry and 
+negative culture. Serum studies notable for negative HBV, 
+negative EBV, negative CMV, negative AFB, negative gon / chl and 
+negative blood cultures.</p>
+
+Induced sputum obtained over three days was negative for AFB and 
+PCP. </p>
+
+A chest CT was notable for mediastinal LAD (subchorinal, 
+prechorinal nodes)relatively unchanged since previous scan in 
+[**1-27**], retroperitoneal LAD, ascites and few, spotty ground-glass 
+appearing opacities.  Abdominal and pelvic CT confirmed the 
+presence of retroperitoneal LAD and ascites. </p>
+ 
+Brief Hospital Course:
+Following admission to medicine, infectious etiologies of fever 
+were studied in the context of her shortness of breath, recent 
+hx of diarrhea and LE petechial rash. Induced sputum, serum and 
+urine cultures taken at admission yielded no growth. Cultures 
+for OI in the setting of HIV were taken and prophylaxis for MAC 
+and PCP were administered. Broad spectrum abx were administered, 
+given her shortness of breath and risk factors for CAP. In the 
+setting of fever and RUQ pain, a RUQ U/S demonstrated 
+symmetrical gall bladder wall thickening at 6 mm, which was 
+confirmed on HIDA. However, no acute cholecystitis was detected 
+and her abdominal tenderness abated over the next day.  A 
+surface echo with negative blood cx ruled out endocarditis as a 
+source of the rash and fever. Chest, abdominal and pelvic CTs 
+were then obtained to evaluate soft tissue masses given her hx 
+of mediastinal LAD from a previous study at [**Hospital1 717**] in 3/04.  The pt 
+had persistence of a subchorinal node and prechorinal node, 
+measuring at approximately the same size as the nodes on her 
+previous study.  Several enlarged retroperitoneal lymph[**MD Number 285**] at 
+the level of her kidneys and ascites were also noted on CT. Over 
+the subsequent three days, the pt's rash gradually improved, 
+though her fevers and night sweats persisted.  Blood cx were 
+obtained during night fever spikes for culture and no organisms 
+were cultured.  She demonstrated features of chronic DIC, with 
+low platelets and elevated FDPs and d-dimer, probably secondary 
+to her underlying chronic HCV.  The rest of her pancytopenic 
+features were felt to be due to her advanced HIV disease, as a 
+prior bone marrow biopsy had not shown other pathology.  These 
+factors were the likely cause of her lower extremity 
+petechiae.</p>
+
+An infectious disease consultation was obtained to further 
+determine whether biopsy of enlarged lymph[**MD Number 285**] would be 
+desireable. A decision was made in consultation with the patient 
+not to pursue biopsy of nodes, on the basis of their difficulty 
+to approach with minimal invasiveness and the patient's 
+desire.</p>
+
+Following improvement of the petechial rash and culturing for a 
+source of fever, patient was discharged home with ID and PCP 
+[**Name9 (PRE) 2271**] of results.
+ 
+Medications on Admission:
+1. Fluoxetine HCl 20 mg daily
+2. Trimethoprim-Sulfamethoxazole 160-800 mg daily
+3. Albuterol 90 mcg/Actuation Aerosol 1-2 Puffs q6h PRN
+4. Acetaminophen 325 mg Tablet PRN
+ 
+Discharge Medications:
+1. Fluoxetine HCl 20 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+2. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+3. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation 
+Q6H (every 6 hours) as needed.  
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Fever
+2. Petechial Rash
+3. HIV/AIDS
+4. Chronic Hepatitis C infection
+5. Asthma
+6. Pancytopenia  
+7. Depression
+
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+Please call your doctor if [**Doctor First Name **] have diarrhea, or worsened rash.  
+[**Doctor First Name 54**] may continue to have fevers when [**Doctor First Name **] go home.  It does not 
+seem to be from an infection.  Please take tylenol when [**Doctor First Name **] have 
+a fever.  Also come to the Emergency room if [**Doctor First Name **] have bleeding, 
+chest pain or shortness of breath or any other concerning 
+symptoms.
+ 
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) 2102**] within 1 week.  [**Last Name (LF) **],[**First Name3 (LF) 34**] F. 
+[**Telephone/Fax (1) 1917**]
+
+Please follow up at the Infectious Diseases Clinic as noted 
+below:
+Provider: [**First Name8 (NamePattern2) 4281**] [**Name11 (NameIs) 4282**], MD [**MD Number 60**]: LM [**Hospital Ward Name 61**] BUILDING INFECTIOUS 
+DISEASE Phone:[**Telephone/Fax (1) 487**] Date/Time:[**2585-12-9**] 9:00
+
+ 
+                             [**First Name11 (Name Pattern1) 34**] [**Last Name (NamePattern1) 10175**] MD [**MD Number 10176**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 5073**] [**Last Name (NamePattern1) 5356**] MD [**Last Name (un) 5357**] [**2585-12-2**] @ 1706
+Signed electronically by: DR. [**First Name (STitle) 34**] [**Doctor Last Name **]
+ on: WED [**2586-3-1**] 4:11 PM
+(End of Report)
+
+
+",,
+14798,13569,,,2585-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2585-11-28**] 2:48 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12607**]
+     Reason: r/o infection,  bleed                                       
+     Admitting Diagnosis: FEVER,RASH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old woman with HIV (CD4=79), w/ fevers, chronic DIC, chronic HCV        
+     REASON FOR THIS EXAMINATION:
+      r/o infection,  bleed                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  A 48-year-old HIV positive female with fevers.
+     
+     TECHNIQUE:  CT images of the brain were obtained without intravenous contrast.
+     
+     COMPARISON:  None available.
+     
+     CT OF THE BRAIN WITHOUT INTRAVENOUS CONTRAST:  There is no acute intracranial
+     hemorrhage, mass effect, or shift of the normally midlined structures. 
+     Ventricles and sulci appear normal in size and configuration.  The [**Doctor Last Name 63**]/matter
+     differentiation is grossly preserved.  Visualized osseous structures are
+     unremarkable.  There is a small amount of aerosolized fluid within the left
+     sphenoid sinus.
+     
+     IMPRESSION:
+     
+     No acute intracranial hemorrhage, mass effect, or edema.
+                                                                           
+
+",,
+14798,13569,,,2585-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GALLBLADDER SCAN                                                Clip # [**Clip Number (Radiology) 12606**]
+     Reason: 48 Y/O WITH RIGHT UPPER QUADRANT PAIN.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Forty-eight year old with right upper quadrant pain. 
+      
+     INTERPRETATION:  Serial images over the abdomen show normal uptake of tracer 
+     into the hepatic parenchyma.  At approximately 60 minutes, the gallbladder is
+     visualized with tracer activity also noted in the small bowel at this time. 
+     Imaging was carried out for 90 minutes in total. 
+      
+     IMPRESSION:  No evidence of acute cholecystitis.  However, visualization of the
+     gallbladder occurs at a borderline time of approximately 60 minutes. This was
+     discussed with Dr. [**Last Name (STitle) 5319**]. 
+     /nkg 
+                                                                           
+
+             [**Name6 (MD) 5843**] [**Name8 (MD) 3693**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1218**] [**Last Name (NamePattern1) 1219**], M.D.     Approved: [**First Name8 (NamePattern2) 591**] [**2585-11-29**] 12:24 PM
+
+
+             Date Mailed: [**2585-11-30**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+14798,13569,,,2585-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14798,13569,,,2585-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+14798,13569,,,2585-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2585-11-30**] 1:02 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 12608**]
+     Reason: assess mediastinal lymphadenopathy, ? infiltrative process  
+     Admitting Diagnosis: FEVER,RASH
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old woman with HIV/AIDS, chronic DIC, asthma, mediastinal 
+      lymphadenopathy who presents w/ recurring fevers.
+     REASON FOR THIS EXAMINATION:
+      assess mediastinal lymphadenopathy, ? infiltrative process                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 48-year-old female with HIV/AIDS, asthma, and mediastinal lymph
+     adenopathy with recurrent fevers.
+     
+     TECHNIQUE:  CT imaging of the chest performed after the intravenous
+     administration of 100 mL of Optiray.  Nonionic contrast was used due to
+     patient debility.
+     
+     CT OF THE CHEST WITH CONTRAST:  Several axillary lymph nodes are seen.  The
+     largest of which measures 9 mm in short axis.  Soft tissue density is seen
+     within the subcarinal region suggestive of lymphadenopathy measuring 2.2 x 1.1
+     cm. Additional enlarged lymph nodes in the precarinal region measure 1.8 x 1.2
+     cm. Smaller borderline lymph nodes are present in the prevascular space and
+     paratracheal region.  No pathologically enlarged hilar lymph nodes are seen.
+     
+     No pericardial or pleural effusions are seen.  Scattered areas of peripheral
+     ground-glass opacity are seen within both lungs.  These are best seen on
+     series 3 images 43 within the right lower lobe, within series 3 image 20
+     within the left upper lobe, as well as within series 3 image 49 within the
+     peripheral left lower lobe.  No pulmonary nodules or areas of pulmonary
+     parenchymal consolidation are seen.  Some scarring is seen within the lingula.
+     
+     Within the visualized portions of the upper abdomen, ascites is seen adjacent
+     to the liver.  Enlarged lymph nodes are present in the retroperitoneum
+     adjacent to the renal vessels, ranging in size up to 1.7 x 1.3 cm.  The
+     visualized portions of the liver, spleen, kidneys, and adrenal glands are
+     within normal limits.
+     
+     Bone windows show no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     
+     1).  Mediastinal and retroperitoneal lymphadenopathy.
+     
+     2).  No areas of pulmonary parenchymal consolidation or pulmonary nodules.
+     Minimal areas of scattered nonspecific ground-glass opacity are seen within
+     the peripheral portions of both lungs.
+     
+     3).  Ascites.
+     
+                                                                 (Over)
+
+     DATE: [**2585-11-30**] 1:02 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 12608**]
+     Reason: assess mediastinal lymphadenopathy, ? infiltrative process  
+     Admitting Diagnosis: FEVER,RASH
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14798,13569,,,2585-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2585-11-30**] 1:02 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 12608**]
+     Reason: assess mediastinal lymphadenopathy, ? infiltrative process  
+     Admitting Diagnosis: FEVER,RASH
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old woman with HIV/AIDS, chronic DIC, asthma, mediastinal 
+      lymphadenopathy who presents w/ recurring fevers.
+     REASON FOR THIS EXAMINATION:
+      assess mediastinal lymphadenopathy, ? infiltrative process                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 48-year-old female with HIV/AIDS, asthma, and mediastinal lymph
+     adenopathy with recurrent fevers.
+     
+     TECHNIQUE:  CT imaging of the chest performed after the intravenous
+     administration of 100 mL of Optiray.  Nonionic contrast was used due to
+     patient debility.
+     
+     CT OF THE CHEST WITH CONTRAST:  Several axillary lymph nodes are seen.  The
+     largest of which measures 9 mm in short axis.  Soft tissue density is seen
+     within the subcarinal region suggestive of lymphadenopathy measuring 2.2 x 1.1
+     cm. Additional enlarged lymph nodes in the precarinal region measure 1.8 x 1.2
+     cm. Smaller borderline lymph nodes are present in the prevascular space and
+     paratracheal region.  No pathologically enlarged hilar lymph nodes are seen.
+     
+     No pericardial or pleural effusions are seen.  Scattered areas of peripheral
+     ground-glass opacity are seen within both lungs.  These are best seen on
+     series 3 images 43 within the right lower lobe, within series 3 image 20
+     within the left upper lobe, as well as within series 3 image 49 within the
+     peripheral left lower lobe.  No pulmonary nodules or areas of pulmonary
+     parenchymal consolidation are seen.  Some scarring is seen within the lingula.
+     
+     Within the visualized portions of the upper abdomen, ascites is seen adjacent
+     to the liver.  Enlarged lymph nodes are present in the retroperitoneum
+     adjacent to the renal vessels, ranging in size up to 1.7 x 1.3 cm.  The
+     visualized portions of the liver, spleen, kidneys, and adrenal glands are
+     within normal limits.
+     
+     Bone windows show no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     
+     1).  Mediastinal and retroperitoneal lymphadenopathy.
+     
+     2).  No areas of pulmonary parenchymal consolidation or pulmonary nodules.
+     Minimal areas of scattered nonspecific ground-glass opacity are seen within
+     the peripheral portions of both lungs.
+     
+     3).  Ascites.
+     
+                                                                 (Over)
+
+     DATE: [**2585-11-30**] 1:02 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 12608**]
+     Reason: assess mediastinal lymphadenopathy, ? infiltrative process  
+     Admitting Diagnosis: FEVER,RASH
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+14798,13569,,,2585-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2585-12-1**] 4:47 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12609**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? abdominal LAD                                             
+     Admitting Diagnosis: FEVER,RASH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       48 year old woman with HIV p/w 2 week history of fevers, with mediastinal LAD 
+      (x >1yr)
+     REASON FOR THIS EXAMINATION:
+      ? abdominal LAD                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV.  Fever.  Known mediastinal lymph node enlargement.  Evaluate
+     for abdominal nodal enlargement.
+     
+     TECHNIQUE:  MDCT images of the abdomen and pelvis were acquired following
+     administration of oral and 150 mL of Optiray IV contrast.
+     
+     COMPARISON:  Abdominal ultrasound from [**2585-11-27**] and chest CT scan from
+     [**2585-11-30**].
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There are bibasilar areas of atelectasis,
+     and diffuse areas of ground glass opacity within both lower lobes, with
+     evidence of smooth intralobular septal thickening.  There is a more nodular
+     area of tissue attenuation seen in the extreme right posterior CP angle, which
+     is new since [**2585-11-30**] and is likely atelectasis.  Again seen is a small
+     amount of ascites around the liver.  There is gallbladder wall edema as
+     described on the prior abdominal ultrasound, but the gallbladder is not
+     distended.  No focal hepatic lesions are identified.  Note is made of an
+     enlarged spleen measuring approximately 20 cm in greatest dimension.  There
+     are multiple prominent retroperitoneal lymph nodes, the largest of which is a
+     left periaortic node adjacent to the left renal vein, which measures 11 mm in
+     short axis.  There is mild stranding in the retroperitoneal fat adjacent to
+     these lymph nodes, which extends to the root of the mesentery.  The left
+     kidney, pancreas, and both adrenal glands are unremarkable.  Note is made of
+     multiple small peripheral low attenuation areas in the right kidney, with a
+     suggestion of cortical thinning.  These are not significantly changed,
+     allowing for differences in bolus timing, compared to the chest CT scan. Small
+     bowel loops are normal in caliber.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The distal ureters, bladder, female
+     reproductive structures, sigmoid colon, and rectum are unremarkable.  There is
+     a small amount of free fluid within the pelvis.  There are no pathologically
+     enlarged pelvic lymph nodes.  Note is made of several prominent bilateral
+     inguinal nodes, which demonstrate fatty hila and do not meet CT criteria for
+     pathological enlargement by size.  The appendix is visualized and is within
+     normal limits.
+     
+     No suspicious osseous lesions are identified.
+     
+                                                                 (Over)
+
+     DATE: [**2585-12-1**] 4:47 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12609**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? abdominal LAD                                             
+     Admitting Diagnosis: FEVER,RASH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1)  Multiple periaortic retroperitoneal lymph nodes, one which meets CT
+     criteria for pathological enlargement measuring 11 mm in short axis. The
+     finding is nonspecific given the patient's HIV status.
+     
+     2)  Splenomegaly, with maximum dimension approximately 20 cm.
+     
+     3)  Gallbladder wall edema, unchanged from prior abdominal ultrasound, no
+     evidence of gallbladder distention.
+     
+     4)  Multiple small peripheral low-attenuation areas in the right kidney, seen
+     in the setting of areas of cortical scarring. The findings are nonspecific,
+     but the differential diagnosis includes pyelonephritis and infarction. 
+     
+
+",,
+14798,13569,,,2585-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2585-12-1**] 4:47 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12609**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? abdominal LAD                                             
+     Admitting Diagnosis: FEVER,RASH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       48 year old woman with HIV p/w 2 week history of fevers, with mediastinal LAD 
+      (x >1yr)
+     REASON FOR THIS EXAMINATION:
+      ? abdominal LAD                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV.  Fever.  Known mediastinal lymph node enlargement.  Evaluate
+     for abdominal nodal enlargement.
+     
+     TECHNIQUE:  MDCT images of the abdomen and pelvis were acquired following
+     administration of oral and 150 mL of Optiray IV contrast.
+     
+     COMPARISON:  Abdominal ultrasound from [**2585-11-27**] and chest CT scan from
+     [**2585-11-30**].
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There are bibasilar areas of atelectasis,
+     and diffuse areas of ground glass opacity within both lower lobes, with
+     evidence of smooth intralobular septal thickening.  There is a more nodular
+     area of tissue attenuation seen in the extreme right posterior CP angle, which
+     is new since [**2585-11-30**] and is likely atelectasis.  Again seen is a small
+     amount of ascites around the liver.  There is gallbladder wall edema as
+     described on the prior abdominal ultrasound, but the gallbladder is not
+     distended.  No focal hepatic lesions are identified.  Note is made of an
+     enlarged spleen measuring approximately 20 cm in greatest dimension.  There
+     are multiple prominent retroperitoneal lymph nodes, the largest of which is a
+     left periaortic node adjacent to the left renal vein, which measures 11 mm in
+     short axis.  There is mild stranding in the retroperitoneal fat adjacent to
+     these lymph nodes, which extends to the root of the mesentery.  The left
+     kidney, pancreas, and both adrenal glands are unremarkable.  Note is made of
+     multiple small peripheral low attenuation areas in the right kidney, with a
+     suggestion of cortical thinning.  These are not significantly changed,
+     allowing for differences in bolus timing, compared to the chest CT scan. Small
+     bowel loops are normal in caliber.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The distal ureters, bladder, female
+     reproductive structures, sigmoid colon, and rectum are unremarkable.  There is
+     a small amount of free fluid within the pelvis.  There are no pathologically
+     enlarged pelvic lymph nodes.  Note is made of several prominent bilateral
+     inguinal nodes, which demonstrate fatty hila and do not meet CT criteria for
+     pathological enlargement by size.  The appendix is visualized and is within
+     normal limits.
+     
+     No suspicious osseous lesions are identified.
+     
+                                                                 (Over)
+
+     DATE: [**2585-12-1**] 4:47 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12609**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? abdominal LAD                                             
+     Admitting Diagnosis: FEVER,RASH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1)  Multiple periaortic retroperitoneal lymph nodes, one which meets CT
+     criteria for pathological enlargement measuring 11 mm in short axis. The
+     finding is nonspecific given the patient's HIV status.
+     
+     2)  Splenomegaly, with maximum dimension approximately 20 cm.
+     
+     3)  Gallbladder wall edema, unchanged from prior abdominal ultrasound, no
+     evidence of gallbladder distention.
+     
+     4)  Multiple small peripheral low-attenuation areas in the right kidney, seen
+     in the setting of areas of cortical scarring. The findings are nonspecific,
+     but the differential diagnosis includes pyelonephritis and infarction. 
+     
+
+",,
+14798,6252,,,2586-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-1-14**] 2:47 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12610**]
+     Reason: ICH LEFT PUPIL FIX DILATED ? SHIFT SIZE OF BLEED
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old woman with AIDS, Hep C, p/w ICH this morning at OSH now (L pupil 
+      fixed/dilated)
+     REASON FOR THIS EXAMINATION:
+      ? shift, size of bleed.                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  48-year-old woman with HIV and hepatitis-C.  The patient presents
+     from an outside hospital with an intracranial hemorrhage.
+     
+     COMPARISONS:  The CT performed today at an outside hospital is not available
+     for comparison.  A CT from [**2585-11-28**] was negative.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is a large intraparenchymal hemorrhage in the left hemisphere
+     centered in the periventricular white matter.  The hemorrhage extends into the
+     bilateral lateral ventricles, including the atrium on the right side and the
+     frontal [**Doctor Last Name 67**], and the atrium on the left side.  There is also a small amount
+     of blood in the 3rd ventricle.  The ventricles are dilated consistent with
+     hydrocephalus.  There is effacement of the sulci consistent with significant
+     brain edema.  The [**Doctor Last Name 63**]/white matter differentiation, however, is still
+     preserved with the exeption of a portion in the left parietal lobe where there
+     is a slight loss of the [**Doctor Last Name 63**]/white matter differentiation.  There is mild
+     rightward shift of the midline structures.
+     
+     IMPRESSION
+     1.  Large intracranial hemorrhage in the left hemisphere with involvement of
+     the bilateral lateral ventricles and 3rd ventricle.  There is mild shift of
+     the rightward shift of the midline structures, and significant diffuse brain
+     edema with effacement of all of the sulci. Unfortunately the comparison is not
+     avaiable. 
+     2.  There is loss of the [**Doctor Last Name 63**]/white matter differentiation a portion of the
+     left parietal lobe.
+     3. Fluid blood level is noted in the left temporal lobe, of uncertain
+     clinical significance. MRI with contrast is recommended for further
+     evaluation.
+     
+
+",,
+14798,6252,18389,0,2586-01-14 17:11:00 EST,2586-01-14 17:33:00 EST,2996,"N",69,"Nursing/Other",,"
+
+Pt. is 41 y.o. female transferred from [**Hospital1 121**] ER where brouhg by ambulance from home with mental status changes progressing to unresponsive with labored breathing. Intubated in EW, head CT consistent with Lt. basal ganglia bleed extending to ventricles with sm midline shift. PMH: Asthma, HIV/AIDS, HEP C, HTN.
+Neuro: Pt. arrived unresponsive to stimuli, s/p Vecorium administration in [**Hospital1 121**]. Noted to move feet x1, occasional arms and legs posturing noted, withdrew to pain with A-line placement. Pupils nonreactive to light, rt. 2mm. lt. 3mm. Assessed by neuro team. Repeat head CT perofrmed, results pending. Received Dilantin 400mg IV x1.
+Resp: Ventilated on SIMV PS weaned to 5 from 10, FiO2 weaned to 50% from 100%, set rate 18, no spontaneous breaths noted, Vt 600, sats 100%. Suctioned for bloody secretions min to moderate orally, and clear white via ETT. LS coarse. 
+CV: HR 70s, NSR. SBP initially 120s-140s, started on Lobetalol gtt for goal SBP 110-140, weaned off [**12-28**] BP droping to 90s-100/60s. Pedal pulses palpable bilat. No peripheral edema noted.
+Skin: Multip. petichi rash on legs noted, few scabed areas on buttox.
+Crio 100 ml infusing due to high coag factors.
+Gi/GU: Abd. soft, nondistended, no BS appreciated. Foley patent, adequate UO, UA&C sent.
+Social: Multiple family members at bedside and in vaiting area. Healthcare proxy son and daughter in law. Husband and children made aware of poor prognosis by MICU team, family wants to wait untill tomorrow to make a desicion on code status. Currently pt is a full code. 
+",,
+14798,6252,18389,0,2586-01-15 05:06:00 EST,2586-01-15 05:25:00 EST,2148,"N",69,"Nursing/Other","Micu Nursing Progress Notes","
+Micu Nursing Progress Notes
+Neuro:  Pt responsive to painful stimuli with flexion of left arm and facial movements.  No movements of her legs.  No eye reflexes at all.  
+
+Resp:  Vent settings IMV 600 x 18, Peep 5, PSV 5 but no spontaneous breathing.  FiO2 decreased from 50% to 40%, O2 sats continued to be 100%.  Suctioned x1 for no secretions.
+
+Cardiac:  B/P 110-120/60's,  HR 70's.
+
+GI:  (+) bowel sounds, no stool, abd soft.
+
+GU:  foley draining clear yellow urine with U/O 20-30cc/hr.
+
+ID:  afebrile, no antibotics.
+
+Social:  one visitor came last evening, no other family contact.  Pt is a DNR.
+
+Plan:  Await family decision on plan of care.
+",,
+14798,6252,18389,0,2586-01-15 17:47:00 EST,2586-01-15 17:56:00 EST,2437,"N",69,"Nursing/Other","nursing note: 7a-7p","
+nursing note: 7a-7p
+neuro- remains off all sedatives. very minimal responsiveness to painful stimuli, at times flexes and withdraws to nailbed pressure and at times appears to be posturing with very rigid inward extension of arms. pupils unequal 2mm/3mm non-reactive. no purposeful movements noted. 
+
+resp- remains intubated, no vent changes made. rare srr, only when stumulated. ls coarse, suctioned for moderate amounts of thick blood tinged sputum q4h. 
+
+cv- hr 80-100 sr no ectopy noted. bradycardia to 40-50 on two occasions.
+
+gi/gu- foley patent, npo with ogt clamped.
+
+social- family meetings over course of day for plan of care and prognosis discussions. multiple family members and many questions.
+
+",,
+14798,6252,18389,0,2586-01-15 18:16:00 EST,2586-01-15 18:30:00 EST,2437,"N",69,"Nursing/Other","NURSING ADDENDUM:","
+NURSING ADDENDUM:
+FAMILY MEETING HELD WITH DR [**First Name (STitle) **], SPANISH INTERPRETER, THIS RN AND MEMBERS OF FAMILY THAT DESIRED TO ASK QUESTIONS. TWO OF THE PT'S SONS, HUSBAND, AND THREE PT'S SISTER/SISTER-IN-LAWS WERE PRESENT. PT'S CONDITION REITERATED. QUESTIONS REGARDING PROGNOSIS AND THE MOVEMENTS/REFLEXES OF PT EXPLAINED. EXPLAINED HIGHER BRAIN FUNCTION AND LOWER/PRIMITIVE BRAIN FUNCTION. FAMILY EXPRESSED THE NEED TO HAVE MORE TIME. PT'S HUSBAND ""WAITING FOR MIRACLE"". STATED THEY WOULD LIKE TO GIVE THE PATIENT A COUPLE OF DAYS BEFORE ANY END OF LIFE DISCUSSIONS WERE FINALIZED. FAMILY MADE AWARE OF THE POSSIBILITY OF DRASTIC DETERIORATION OF PT'S CONDITION BEFORE THAT TIME. CPR NOT INDICATED. 
+",,
+14798,6252,18389,,2586-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-1-16**] 6:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12611**]
+     Reason: eval ETT placement and interval changes                     
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48F s/p intubation following massive head bleed.                                
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement and interval changes                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable supine chest dated [**2586-1-16**].
+     
+     INDICATIONS:  ET tube placement.
+     
+     FINDINGS:
+     
+     Endotracheal tube and nasogastric tube are in satisfactory position.  The
+     cardiac silhouette is mildly enlarged for technique.  There is bilateral
+     perihilar haziness as well as a slightly more confluent area of opacity in the
+     right lower lobe.  There is probably a small layering right pleural effusion.
+     
+     IMPRESSION:
+     
+     Findings suggestive of asymmetric pulmonary edema, which may be due to fluid
+     overload or congestive heart failure.  Superimposed abnormality such as
+     aspiration or infectious pneumonia in the right lower lobe cannot be excluded.
+     
+
+",,
+14798,6252,18389,0,2586-01-16 04:28:00 EST,2586-01-16 04:30:00 EST,2452,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated on ventilator with no changes overnight. No abg's. Breathing in sync with vent, no spontaneous efforts noted.
+Bs: coarse, secreations minimal.
+Plan: cont. support.
+",,
+14798,6252,18389,0,2586-01-16 05:48:00 EST,2586-01-16 06:02:00 EST,2037,"N",69,"Nursing/Other",,"
+
+O. Neuro pupils 3mm od 2mm os NR gag and cough absent abnormal extension UE posturing to painful stimuli
+resp 40% tv 600 [**3-30**] 16 abg 7.42/28/208/-[**3-14**] lungs coarse throughout sx sm amt of tan bld tinged sputum
+cvs INR 1.5 Hct 22.7 HR 82-[**Street Address 6525**] without ectopy given 40 meq kcl iv repeat k+ 3.8 bp 107/-150/88 ionized ca 1.15, mag tx 2gm mag sulf repeat 2.4 skin diaphoretic pp+3
+ID temp max 103.3 wbc 2.9 bc x2 sent urine cx sent started on levo po and IV vanco
+gu u/o [**3-/2541**] given 250cc ns bun 25 cr 1.1
+gi npo oral ngt abd snt bs+
+access 2 periph lt radial a line
+social sister stayed with pt all night
+a. s/p ICH hx of hiv hep c asthma
+p. pt dnr support family, answer questions, allow family time with patient 
+tx lytes antibx as ordered await bc results check serum osmo tx < 300
+",,
+14798,6252,18389,0,2586-01-16 17:46:00 EST,2586-01-16 18:31:00 EST,2437,"N",69,"Nursing/Other","nursing note: 7a-7p","
+nursing note: 7a-7p
+neuro- pt remains unresponsive secondary to large intracranial bleed. some lower brain function exhibited with corneal reflexes, occasional sponteaou respiratory efforts, impaired gag and cough and posturing of all extremities with stimuli. pupils non-reactive unequal 2mm od, 3mm os. 
+
+resp- remains intubated on simv mode 40%. ls coarse suctioned for thick blood tinged sputum. pt biting tongue to point of bleeding, unable to unclench teeth to insert bite block. team made aware and one time dose of propofol given to allow for successful insertion of bite block. tongue very swollen and now bruised. bloody oral secretions have resulted.
+
+cv- hr 80-100 sr no ectopy noted. bp 120-140's when unstimulated, once stimulated becomes hypertensive to 170's. tmax 101.3, cultured last night, on vanco and levo, given tylenol. 
+
+gi- abd soft distended + bs no stool. ogt clamped. 
+
+gu- foley patent for approx 20cc/h of urine. 
+
+access- 2 piv's, left radial aline
+
+social- large family presence most of day. social services offerred, as well as pastoral care. family conference held with hcp [**Last Name (LF) **], [**First Name3 (LF) **] [**Last Name (LF) **], [**First Name3 (LF) **] [**Last Name (LF) 6526**], [**First Name3 (LF) **] [**Name (NI) **], husband [**Name (NI) **], two sisters, dr [**Last Name (STitle) 6527**], dr [**Last Name (STitle) **] and this rn. plans made to continue current management until atleast wednesday, inorder to allow for family priest to come in likely tuesday and allow family some time to see if she will improve. pt remains DNR. family fully aware of the possibilty of acute deterioation occurring at anytime. request for interpreter made for wednesday's family conference.
+",,
+14798,6252,18389,0,2586-01-16 18:20:00 EST,2586-01-16 18:22:00 EST,6645,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+
+  Pt continues on ventilator as documented. No changes today. Suctioned for small amount of thick yellow. Plan for family meeting tommorow. Will continue to follow closely.
+",,
+14798,6252,18389,,2586-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-1-17**] 4:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12612**]
+     Reason: interval change, ETT placement                              
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       48F s/p intubation following massive head bleed.                               
+       
+     REASON FOR THIS EXAMINATION:
+      interval change, ETT placement                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post intubation following cerebral hemorrhage.
+     
+     COMPARISON:  [**2586-1-16**].
+     
+     SUPINE AP CHEST:  The endotracheal tube and nasogastric tube are unchanged in
+     position.  Cardiac and mediastinal contours are unchanged.  The previously
+     noted vascular congestion has improved in the interim.  No definite effusion
+     is seen on the current study.  No pneumothorax is detected on this supine
+     radiograph.
+     
+     IMPRESSION:
+     
+     Interval improvement in vascular congestion, though mild vascular congestion
+     persists.
+                                                                           
+
+",,
+14798,6252,18389,0,2586-01-17 04:39:00 EST,2586-01-17 04:42:00 EST,2452,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains on ventilator, settings as noted no changes overnight. Occ. overbreathing vent by 1-3bpm.
+BS: coarse bilat. Sxn'd for thick bloody secreations.
+abgs: metabolic acidosis with hyperoxygenation and resp. compensation.
+Plan: cont. current support, fam. meeting planned for today.
+",,
+14798,6252,18389,0,2586-01-17 04:48:00 EST,2586-01-17 05:20:00 EST,6578,"N",69,"Nursing/Other",,"
+
+2300-0700 NPN:
+
+NEURO- UNRESPONSIVE. POSTURING OF UPPER EXT TO STIMULI. 1-2MM OD/2-3 MM OS, NONREACTIVE. NEURO CHECKS CONTINUE Q 2HRS W/ NO CHANGE. MANNITOL CONTINUES Q 6HRS, SERUM OSMO LEVEL= 313 (HOLD ABOVE 320). 
+
+RESP- INTUBATED, SIMV 40%. LS= COARSE. SUCTION MODERATE AMTS THICK BLOOD TINGED SPUTUM. BITE BLOCK INTACT. ABG'S= 7.47/23/214/17. 
+
+CV- TEMP MAX 101.6, TYLENOL GIVEN/ ICE PACKS PLACED. CONTINUES ON VANCO AND LEVAQUIN. HR 80-100, NSR. TEAM WOULD LIKE SBP BELOW 140. ABP= 125-180/75-90. EXTRA DOSE METOPROLOL 12.5 MG GIVEN, DOSE INCREASED TO 25MG BID. IV HYDRALAZINE ORDERED Q 6HRS FOR SBP ABOVE 140. SBP INCREASES W/ ANY SMALL AMT OF STIMULI. HCT 22.1 @ 1900, 2 U PRBC TRANSFUSED. H/H @ 0400= 9.4 + 27.8. 1 BAG PLT GIVEN ON 1900-2300 SHIFT FOR PLT= 91, PLT COUNT BUMPED TO 141 THIS AM.
+
+GI- ABD SOFT/DISTENDED. PRESENT BS. NO BM. OGT CLAMPED.
+
+GU- FOLEY CATH D/S/P, DRAINING AMBER COLORED URINE 30-60CC/HR. INCREASED URINE OUTPUT NOTED FROM MANNITOL.
+
+ACCESS- LEFT RADIAL ALINE, LEFT AND RIGHT ANTECUB PIV.
+
+SOCIAL- SUPPORTIVE FAMILY, STAYING IN WAITING ROOM OVERNIGHT. REQUEST ANOTHER FAMILY MEETING TODAY @ 1700 TO DISCUSS WITHDRAWAL OF CARE, SPANISH INTERPRETER WILL NEED TO BE BOOKED. PT IS DNR STATUS.
+
+",,
+14798,6252,18389,0,2586-01-17 15:55:00 EST,2586-01-17 15:56:00 EST,2363,"N",69,"Nursing/Other","Resp care","
+Resp care
+Weaned pt to PSV. Continues on minimal vent support. ABG's show comp. met acidosis, well oxygenated. BS coarse, sx mod thick yellow. Will follow. 
+",,
+14798,6252,18389,0,2586-01-17 16:32:00 EST,2586-01-17 17:01:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Pt remains w/ significant neurologic defecit, no change in neuro status. vent weaned from SIMV to PS 5/5, has tolerated it well all day. labetalol restarted d/t borderline hypertension. family meeting to be held at 1700 today w/ MICU and neuro team. 
+
+ROS-
+
+CV- NSR HR 60-80's NiBP 110-120's while on 0.5mg/min of labetalol. extremities edematous. recieved 2 units RBC's this am for an hct of 27. will check repeat hct. 
+
+RESP- PS 5/5/40% w/ abg of 7.40/25/215. Fio2 decreased to 30%. Spo2 >95% all day. small amount thick yellow secretions. copious oral secretions. Oral airway inplace, pt clamped (?d/t neurologic process) down orally, needed to give pt propofol in order to rotate ETT today. PLEASE DO NOT REMOVE ORAL AIRWAY.
+
+NEURO- postures to stimulus. pupils 2-3mm and nonreactive. impaired corneal reflex. no eye opening. moves LE slightly on bed. no interaction w/ environment. pt had been on Mannitol, dc'ed d/t hig serum osm's. started on Dilantin. 
+
+GI/GU- NPO. OGT for meds, clamped. abd w/ hypoactive bowel sounds. no stool. foley w/ approx 30-50cc u/o. 
+
+ID- Tmax 100.6, likely neurological fevers. covered w/ levo and vanco empirically. 
+
+ACCESS- L radial Aline, Piv x3. 
+
+PLAN- family meeting this evening. The current plan, per family's report, is for their family priest to come in and bless/ pray w/ pt. If no change in pt's status by tomorrow, then probable withdrawl of care tomorrow afternoon w/ family present. Most of pt's family speaks spanish, needs an interpreter for important conversations. pt is DNR. 
+",,
+14798,6252,18389,0,2586-01-18 05:12:00 EST,2586-01-18 05:21:00 EST,2421,"N",69,"Nursing/Other",,"
+
+npn 11p-7a (see also careview flownotes for objective data)
+
+dx: s/p intracranial hem; DNR;
+    
+neuro:
+pt remains unresponsive, except for what appears to be possibly reflexive movements; when changing hosp gown and had left arm elevated, arm had forceful abrupt movement of straight downward;
+unable to ascertain if pt has any cognitive perceptions of environment;
+   pt on IV Dilantin q 8 hrs; mannitol dc'd yesterday; 
+
+c-v:
+vss; SCD's in use;
+hct in goal range, >30; plt 104,000 --close to goal range;
+b/p <140 all night;
+
+resp:
+remains on PS/Peep [**3-30**]; ABG post change yest eve showed pCO2 remained low, desireable for helping to keep ICP down;
+
+g-i:
+ngt in place; receiving meds at times via ngt;
+
+g-u:
+foley patent; 
+urine output low; noticeable is new increase in serum creatinine 1.4 this a.m., up from 1.1 of yesterday;
+   phos also increasing;
+
+skin:
+turned side to side;
+access sites wnl's;
+
+PLAN:
+family considering w/drawal of cares regarding pt's prognosis and status; will make final decision today likely w/ stated assessments of MD;
+  cont current POC.
+   
+",,
+14798,6252,18389,0,2586-01-18 14:53:00 EST,2586-01-18 14:59:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 11AM-3PM:","
+MICU NPN 11AM-3PM:
+Pt remains unresponsive with posturing noted with any stimulation. Pupils unequal and non-reactive. Remains intubated on PSV5, 5cm peep 30% FIO2. Small amt secretions via ETT, large oral secretions. Pt with minimal cough, no gag noted. Bites ETT hard w/stimulation. Oral airway must remain in place.
+
+Pt remains off labetolol drip with BP 110-140. HR 60-80 NSR.
+
+Plan is for pt to be extubated later this evening after another visit from family priest. Family is to let us know when they are ready and are aware that pt may not be able to maintain her own airway patent.
+
+Family are visiting throughout the day.
+
+Pt with temp 100.8 and given tylenol 650mg via NGT.
+",,
+14798,6252,18389,0,2586-01-18 16:56:00 EST,2586-01-18 17:02:00 EST,1640,"N",69,"Nursing/Other","Brief Update 3PM-7PM:","
+Brief Update 3PM-7PM:
+No change in pt's vital signs/mental status. Family came up to me at 4PM and said they would like team and neuro to come and evaluate pt and possible give her another scan to her brain because they have done a lot of praying and they feel she may be improving. They said she opened one of her eyes to her name being called. Team has been notified of this change and will be up to evaluate pt as family have requested. Extubation is on hold for now until she is further evaluated by team.
+
+My neuro assessment has not changed. Pt remains unresponsive. Posturing/stiffness noted to all stimulation. Pupils remain non-reactive and uneven left 3mm, right 2mm. no gag but pt has spontaneous cough noted but not to suctioning. She bites down hard on ETT with suctioning and needs oral airway in place to keep airway open. She remains off labetolol as BP has been under 140 for the most part.
+
+Will update note as needed and follow neuro exam closely for changes.
+",,
+14798,6252,18389,0,2586-01-18 17:58:00 EST,2586-01-18 18:01:00 EST,5241,"N",69,"Nursing/Other",,"
+
+Resp Care
+pt remains on minimal vent settings pSV 5/5 30% with adequate oxygenation/ventilation. Oral airway present sxing for mod to large amts of oral secretions. Will cont with vent support. Awaiting family's decision to withdraw support. Pt is DNR.
+",,
+14798,6252,18389,0,2586-01-19 05:49:00 EST,2586-01-19 05:54:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+INFORMED BY FAMILY THAT THEY WERE READY TO WITHDRAW ON PATIENT AND MAKE CMO. FAMILY LEFT THE ROOM AND PATIENT WAS STARTED ON A MORPHINE GTT. SCOPOLAMINE PATCH PLACED. EXTUBATED @1920 WITHOUT INCIDENT, LEFT ORAL AIRWAY IN 2/2 COPIOUS SECRETIONS. LET FAMILY BACK IN ROOM. INITIALLY PATIENT LOOKED UNCOMFORTABLE AND GTT TITRATED TO COMFORT TO 5MG/HR WITH EFFECT. NO CHANGES SINCE. PATIENT HAS REMAINED HEMODYNAMICALLY STABLE WITH SATS 83-92% ON RA. FAMILY HAS BEEN AT BEDSIDE ALL SHIFT. POSSIBLY PATIENT MAY BE CALLED OUT TO THE FLOOR ON MORPHINE GTT.
+",,

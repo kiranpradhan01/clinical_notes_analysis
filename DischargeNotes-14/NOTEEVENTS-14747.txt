@@ -1,0 +1,709 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+14747,11548,,,2898-07-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2898-7-13**]              Discharge Date:   [**2898-7-22**]
+ 
+Date of Birth:  [**2827-10-17**]             Sex:   F
+ 
+Service: CMED
+ 
+Allergies: 
+Demerol / Coumadin
+ 
+Attending:[**First Name3 (LF) 1062**] 
+Chief Complaint:
+Transferred to [**Hospital1 **] from OSH for evaluation for possible CABG
+ 
+Major Surgical or Invasive Procedure:
+Left brachial artery pseudoaneurysm repair [**2898-7-17**].
+
+Cardial catheterization [**2898-7-17**]: 
+Occluded grafts x2, occluded RCA, mid-LAD 80% stenosis. CI 3.5. 
+Mildly elevated right-sided pressure. Left pressures normal. 
+Successful LAD stenting.
+ 
+History of Present Illness:
+Pt is a 71 yo morbidly obese female w/htn, diabetes, 
+hypercholesterolemia, h/o CAD s/p CABG  in [**2888**] (SVG to LAD and 
+SVG to RCA) and many other medical problems who was initially 
+admitted to the OSH in [**State 4773**] where she was found to have NSTEMI. 
+She was treated there for her MI, pneumonia, and UTI and then 
+transferred to [**Hospital6 11145**] center for a cath that 
+showed RCA occlusion, LAD 80% occ, and 2 occluded grafts (SVG to 
+LAD, SVG to RCA). The echo at that time showed 2+ MR, 45% EF, 
+and global hypokinesis. She was also treated for her severe COPD 
+with abx and steroids.  She was then transferred to [**Hospital1 19**] for 
+evaluation for possible CABG.
+
+EKG: NSR rate 62 LBBB
+
+ 
+Past Medical History:
+1. Diabetes- on metformin at home
+2. HTN
+3. Hypercholesterolemia
+4. CAD - MI in [**2888**] s/p CABG, MI in 4/04
+5. COPD- on home O2 since [**3-14**]-4 L/min, former smoker, recent 
+pneumonia
+6. PE in 20O2 (h/o skin necrosis on Coumadin)
+7. Urinary incontinence
+8. leg cramps
+9. CHF (admitted with CHF exacerbation)
+10. Appendectomy, age 18
+11. Cholecystectomy, 1984
+12. Carotid artery stenosis
+
+Allergies: 
+Demerol- hives
+Coumadin-facial swelling/skin necrosis
+
+ 
+Social History:
+Lives with her husband. Quit smoking in [**3-/2898**] (40 py history). 
+No EtOH or drug use. 
+Contacts: [**Last Name (un) 11146**] (daughter) [**Telephone/Fax (1) 11147**]
+           [**Doctor First Name 11148**] (husband) [**Telephone/Fax (1) 11149**]
+
+ 
+Family History:
+Significant for strong CAD in family (7 of 10 siblings died of 
+CAD or DM).
+ 
+Physical Exam:
+T97.8 BP130-152/50-80 P45-50  96%RA I/O780/600
+General: morbidly obese female
+HEENT: anicteric sclera, no oral findings, neck supple, no LAD
+CVS: nl S1/S2, no S3/S4, 2/6 SEM at aortic area with no 
+radiaton, 1+ bilateral pitting edema, JVP cannot be visualized 
+due to body habitus
+Resp: good A/E , mild bibasilar crackles, no wheezes
+GI: nl BS, no tenderness, obese 
+Extr: no c/c/e, well healed scars on both LE. Left arm with 
+bandages.
+Left arm: wrapped with bandages; dressing c/d/i
+ 
+Pertinent Results:
+[**2898-7-22**] 05:24AM BLOOD WBC-6.0 RBC-3.24* Hgb-9.7* Hct-30.1* 
+MCV-93 MCH-30.1 MCHC-32.3 RDW-14.9 Plt Ct-118*
+[**2898-7-21**] 11:20AM BLOOD WBC-8.5 RBC-3.18* Hgb-9.7* Hct-29.9* 
+MCV-94 MCH-30.3 MCHC-32.3 RDW-15.1 Plt Ct-88*#
+[**2898-7-21**] 03:50AM BLOOD WBC-7.2 RBC-3.04* Hgb-9.4* Hct-27.1* 
+MCV-89 MCH-31.0 MCHC-34.8 RDW-15.2 Plt Ct-53*
+[**2898-7-22**] 05:24AM BLOOD Plt Ct-118*
+[**2898-7-22**] 05:24AM BLOOD PT-12.8 PTT-20.7* INR(PT)-1.0
+[**2898-7-21**] 11:20AM BLOOD Plt Ct-88*#
+[**2898-7-22**] 05:24AM BLOOD Glucose-107* UreaN-40* Creat-0.9 Na-144 
+K-4.8 Cl-106 HCO3-30* AnGap-13
+[**2898-7-21**] 03:50AM BLOOD Glucose-117* UreaN-43* Creat-1.0 Na-143 
+K-4.6 Cl-107 HCO3-29 AnGap-12
+[**2898-7-20**] 07:57PM BLOOD K-5.1
+[**2898-7-18**] 10:07PM BLOOD CK(CPK)-1020*
+[**2898-7-18**] 06:00AM BLOOD CK(CPK)-641*
+[**2898-7-19**] 05:15AM BLOOD CK-MB-9
+[**2898-7-18**] 10:07PM BLOOD CK-MB-10 MB Indx-1.0
+[**2898-7-18**] 06:00AM BLOOD CK-MB-11* MB Indx-1.7
+[**2898-7-17**] 11:39PM BLOOD CK-MB-7
+[**2898-7-22**] 05:24AM BLOOD Albumin-3.1* Calcium-8.6 Phos-3.9 Mg-2.7*
+[**2898-7-20**] 07:57PM BLOOD Mg-2.5
+[**2898-7-19**] 05:15AM BLOOD Mg-2.1
+[**2898-7-13**] 06:40PM BLOOD calTIBC-309 VitB12-327 Folate-9.9 
+Ferritn-62 TRF-238
+[**2898-7-13**] 06:40PM BLOOD %HbA1c-7.2*
+[**2898-7-13**] 06:40PM BLOOD Triglyc-109 HDL-76 CHOL/HD-2.7 
+LDLcalc-106 LDLmeas-117
+[**2898-7-19**] 05:40AM BLOOD Type-ART pO2-68* pCO2-49* pH-7.34* 
+calHCO3-28 Base XS-0
+[**2898-7-18**] 10:16PM BLOOD Type-ART pO2-77* pCO2-54* pH-7.30* 
+calHCO3-28 Base XS-0
+[**2898-7-19**] 05:40AM BLOOD Glucose-97
+[**2898-7-18**] 06:06AM BLOOD freeCa-1.09*
+[**2898-7-18**] 12:13AM BLOOD freeCa-1.05*
+ 
+Brief Hospital Course:
+The paitent was initially admitted to the medicine service on 
+[**2898-7-13**] for eval of re-do CABG. She was discovered to have 
+brachial srtery psedoaneurysm. She underwent repair of her left 
+brachial artery pseudoaneurysm and was taken to the cath lab 
+following her vascular surgery to avoid reeintubation. She did 
+well initially post-op, but then became hypotensive ?cardiogenic 
+shock, was left intubated and was started on dopamine drip and 
+transferred to CCU. She did well in CCU and is now stable to be 
+transferred back to the floor. She is [**Hospital 11150**] transferred to 
+[**State 4773**] base on her preference.
+ 
+1. CAD/CHF
+-CABG x3 in [**2888**] with NQMI
+-2nd MI in 4/04
+-Cath [**2898-7-6**] in OSH 2 SVG (LAD and RCA)occluded, RCA occlusion 
+, LAD 80% occ, LIMA was not harvested
+-echo in 04 in OSH, EF 45% 2+ MR
+[**Name13 (STitle) 11151**] at [**Hospital1 19**] [**2898-7-14**]:mild LAE, symmetric LVH, EF 40%, RV size 
+and free wall motion are normal, AV mildly thickened but not 
+stenotic, Mild to moderate ([**12-13**]+) mitral regurgitation is seen. 
+There is no pericardial effusion.  
+-CATH [**2898-7-17**]: 
+1. Known severe native three vessel coronary artery disease with 
+two 
+occluded saphenous vein grafts (known from prior 
+catheterization), 
+occluded RCA, and a mid-LAD 80% tubular stenosis. 
+2. Successful stenting of the mid LAD with bare metal stents. 
+3. Caardiogenic shock requiring pressors.
+-continue on ASA, statin, plavix
+-start lasix 40 QD
+-BB not started because her HR remains low. Please cnosider to 
+restart BB if heart rate can tolerate in the future
+
+2. HTN
+-lisinopril 10mg BID 
+
+3. vascular
+-CAROTID SERIES [**2898-7-14**]: Suboptimal exploration of the right 
+carotid arteries. Significant stenosis related to a plaque at 
+the origin of the left internal carotid artery. This stenosis is 
+estimated between 70% and 79% reduction in diameter. Absence of 
+visualization of the right vertebral artery. To-and-fro flow 
+pattern in the left vertebral artery, suggesting a pre-occlusive 
+lesion at that level, in the absence of flow deficit in the left 
+arm.-brachial dissection repaired by vascular surgoen on [**2898-7-17**]
+-MSIR and gabapentin 500 BID with good relief
+
+4. resp
+-COPD on home O2 2-4L/min since Arpil, on pred taper, inhalers, 
+nebs
+-CXR?resolving PNA, pateint is asymptomatic
+-PFT on [**2898-7-15**]: FVC 1.25(56%), FEV1 0.77(49%), FEV1/FVC 62(89%)
+-continue nebs
+
+5. GI
+-no issue
+
+6. endo
+-on metformin and RISS
+
+7. heme
+-transfuse to Hct>28
+-The patient's platelet count acutely decreased from 150's to 6 
+within several hours of starting integrilin drip. Peripheral 
+smear was reviewed and showed no platelet clumps or 
+schistocytes. Heparin and all heparin products were held b/o 
+concern for HIT.s/p 1u plt transfusion in CCU
+-Will d/c all heparin flushes. 
+-Will transfuse platelets if needed
+-f/u HIT Antibody- still pending, please call [**Hospital1 19**] to verify 
+result
+
+8. FEN
+-Cr 0.8-->1.0, room for diuresis
+
+9. code
+-full
+10.access
+-RIJ
+10. dispo
+-f/u with Dr. [**Last Name (STitle) 11152**] in 2 weeks in clinic
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO QD (once a day). 
+ 
+2. Albuterol Sulfate 0.083 % Solution Sig: 1-2 puffs Inhalation 
+Q6H (every 6 hours) as needed.  
+3. Quinine Sulfate 260 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+4. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2) 
+Puff Inhalation BID (2 times a day).  
+5. Salmeterol Xinafoate 50 mcg/DOSE Disk with Device Sig: One 
+(1) Disk with Device Inhalation Q12H (every 12 hours).  
+6. Ipratropium Bromide 0.02 % Solution Sig: 1-2 puffs Inhalation 
+Q6H (every 6 hours).  
+7. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Two 
+(2) Puff Inhalation Q6H (every 6 hours).  
+8. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO BID (2 times a day).  
+9. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO QD (once a day).  
+10. Albuterol Sulfate 0.083 % Solution Sig: 1-2 puffs Inhalation 
+Q6H (every 6 hours) as needed.  
+11. Atorvastatin Calcium 40 mg Tablet Sig: Two (2) Tablet PO QD 
+(once a day).  
+12. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD 
+(once a day).  
+13. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every 
+8 hours) as needed.  
+14. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+15. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+16. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One 
+(1) Capsule, Delayed Release(E.C.) PO QD (once a day).  
+17. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+18. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO QD (once 
+a day).  
+19. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO QD (once a 
+day).  
+20. Morphine Sulfate 15 mg Tablet Sig: Two (2) Tablet PO Q6H 
+(every 6 hours).  
+21. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+22. Lorazepam 0.5 mg IV Q4H:PRN  
+23. Insulin Regular Human 300 unit/3 mL Syringe Sig: sliding 
+scale  Subcutaneous four times a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+myocardial infarction
+brachial artery aneurysm
+secondary dx:
+1. Hypertension
+2. Chronic obstructive pulmonary disease
+3. congestive heart failure
+
+ 
+Discharge Condition:
+chest pain free, vital signs stable. arm pain from brachial 
+artery repair under control with morphine and gabapentin
+ 
+Discharge Instructions:
+[**Doctor First Name 54**] will be transferred to your preferred hospital in [**State 4773**] 
+where [**Doctor First Name **] will recieve continuation of your care. Please return 
+to the hospital or call your doctor if [**Doctor First Name **] experience further 
+chest pain or if there are any concerns at all. 
+ 
+Followup Instructions:
+Provider: [**Name10 (NameIs) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5899**] SURGERY Where: VASCULAR 
+SURGERY Date/Time:[**2898-8-6**] 2:00
+at [**Doctor First Name **]
+2. follow up with your primary care doctor and cardiologist 
+within one month after discharge
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1067**] MD [**MD Number 1068**]
+ 
+Completed by: [**Name6 (MD) 2517**] [**Name8 (MD) 2518**] MD [**MD Number 2519**] [**2898-7-22**] @ 1029
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 123**] [**2898-7-24**] 4:28 PM
+(End of Report)
+
+
+",,
+14747,11548,,,2898-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-14**] 10:39 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 12103**]
+     Reason: ? CABGE
+     Admitting Diagnosis: ? CABGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent mi, preop for cabg                                
+     REASON FOR THIS EXAMINATION:
+      preop                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  70 year old woman with recent myocardial infarction.  Pre-op for
+     CABG.
+     
+     CHEST PA AND LATERAL:  The patient is status post median sternotomy.  Heart
+     size is enlarged.  Hilar and mediastinal contours are unremarkable.  There are
+     small bilateral pleural effusions.  There is small subsegmental atelectasis at
+     the right base.  The lungs are otherwise clear.  Right IJ CVL tip terminates
+     at the SVC.  Osseous and soft-tissue structures are unremarkable.
+     
+     IMPRESSION:  Cardiomegaly.  Small bilateral pleural effusions.  Subsegmental
+     atelectasis at the right base.  No evidence of infiltrate.
+
+",,
+14747,11548,,,2898-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-14**] 10:01 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 12102**]
+     Reason: carotid duplex x 2 for preop CABG                           
+     Admitting Diagnosis: ? CABGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent MI's and copd                                     
+     REASON FOR THIS EXAMINATION:
+      carotid duplex x 2 for preop CABG                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 70-year-old woman with recent myocardial infarctions and COPD.
+     Pre-operative evaluation before CABG.
+     
+     TECHNIQUE AND FINDINGS: Duplex ultrasonography was performed at the level of
+     the cervical portions of the bilateral carotid and vertebral arteries.
+     
+     On the right side, visualization was difficult due to the presence of a
+     central line. In these conditions, no significant plaque was detected. Only a
+     small plaque was found at the origin of the right internal carotid artery. The
+     velocities and velocity ratios in the right internal, common and external
+     carotid arteries were normal. The right vertebral artery could not be
+     visualized.
+     
+     On the left side, significant plaque was found at the origins of the internal
+     and external carotid arteries.  The velocities in the left internal, common
+     and external carotid arteries were 402/62, 112/16, and 186 cm/sec in the
+     internal, common and external carotid arteries respectively, giving a peak
+     systolic velocity ratio of 3.6 between the internal and common carotid
+     arteries. To-and-fro flow pattern was found in the intertransverse portion of
+     the left vertebral artery, suggestive of a pre-occlusive lesion in that
+     artery. Triphasic waveforms were found in the left brachial artery.
+     
+     CONCLUSION:
+     
+     1) Suboptimal exploration of the right carotid arteries. In these conditions,
+     no evidence of significant flow-limiting stenosis.
+     
+     2) Significant stenosis related to a plaque at the origin of the left internal
+     carotid artery. This stenosis is estimated between 70% and 79% reduction in
+     diameter.
+     
+     3) Absence of visualization of the right vertebral artery. To-and-fro flow
+     pattern in the left vertebral artery, suggesting a pre-occlusive lesion at
+     that level, in the absence of flow deficit in the left arm.
+
+",,
+14747,11548,,,2898-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-15**] 8:20 PM
+     UNILAT UP EXT VEINS US                                          Clip # [**Clip Number (Radiology) 12104**]
+     Reason: assess for avf, hematoma                                    
+     Admitting Diagnosis: ? CABGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent cath and now w/ persistent hematoma - would like 
+      r/o avf
+     REASON FOR THIS EXAMINATION:
+      assess for avf, hematoma                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Recent brachial artery catheterization.  Now with hematoma.
+     Evaluate for pseudoaneurysm or fistula.
+     
+     RIGHT UPPER EXTREMITY VASCULAR ULTRASOUND:  There is a large hematoma
+     demonstrated in the region of the right brachial artery.  The artery remains
+     patent, without evidence of pseudoaneurysm.  There is no flow seen within the
+     hematoma.  The veins are difficult to visualize, likely owing to extensive
+     mass effect from the adjacent hematoma.  The subclavian vein demonstrates no
+     evidence of arterialization, nor does the internal jugular vein.
+     
+     IMPRESSION:  Large left upper arm hematoma.  No flow seen within hematoma.
+     No evidence of pseudoaneurysm or AV fistula.
+
+",,
+14747,11548,,,2898-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-17**] 11:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12106**]
+     Reason: assess volume status and ett placement                      
+     Admitting Diagnosis: ? CABGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with 3vd now s/p intubation for brachial artery repair now 
+      awaiting cath
+     REASON FOR THIS EXAMINATION:
+      assess volume status and ett placement                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Recent three-vessel bypass surgery, status post intubation for
+     brachial artery repair, assess ETT placement.
+     
+     FINDINGS: AP signal view of chest has been obtained with patient in supine
+     position. Patient is now intubated the ETT terminating in the trachea at the
+     level of approximately 4 cm above the carina. No pneumothorax is present. The
+     patient is status post sternotomy and a right internal jugular approach
+     central venous line is in unchanged appropriate position terminating overlying
+     the SVC at the level of the carina. Also the lung fields are unchanged and
+     there is no evidence of increased CHF or new parenchymal infiltrates. Plate
+     atelectasis in left midfield and right-sided base rather unchanged.
+     
+     IMPRESSION: Successful incomplicated intubation.
+
+",,
+14747,11548,,,2898-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-17**] 1:46 AM
+     UNILAT UP EXT VEINS US                                          Clip # [**Clip Number (Radiology) 12105**]
+     Reason: eval for arterial pseudoaneurysm, dissection, expansion of h
+     Admitting Diagnosis: ? CABGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old woman with recent cath and now w/ persistent hematoma, worseing L 
+      arm pain/tenderness, expansion of hematoma, concern for compartment syndrome
+     REASON FOR THIS EXAMINATION:
+      eval for arterial pseudoaneurysm, dissection, expansion of hemotoma             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post catheterization with hematoma and worsening left arm
+     pain and tenderness.
+     
+     COMPARISON:  [**2898-7-15**]
+     
+     UPPER EXTREMITY ULTRASOUND:  The study is limited secondary to patient's pain
+     and inability to cooperate with the examination.  Again demonstrated is a
+     large hematoma within the left upper arm measuring approximately 10.4 x 4.0 x
+     5.7 cm, which does not appear significantly changed in size since the prior
+     study.  There are new hyperechoic regions present within the hematoma,
+     consistent with evolving blood products.  Within a hypoechoic region in the
+     hematoma there is possible demonstration of weak pulsatile arterial flow,
+      Arterial blood flow is demonstrated within the left brachial artery distal to
+     the hematoma site. Left brachial vein also appears patent below the hematoma
+     site and demonstrates normal venous wave forms.
+     
+     IMPRESSION:
+     1) Limited study secondary to patient's pain and inability to cooperate. Large
+     hematoma within the left upper arm which is not significantly changed since
+     the prior study, with evolving blood products seen within it.  Possible weak
+     pulsatile flow is demontrated within a hypoechoic portion of the hematoma, and
+     it is uncertain if this represents a transmitted pulsation or a true finding.
+     This study is therefore non-diagnostic for excluding a pseudoaneursym. 
+     
+     2)Normal arterial and venous wave forms are demonstrated within the brachial
+     artery distal to the hematoma site.
+     
+     An ultrasound performed by a vascular ultrasound technologist with an
+     attending physician present is recommended for further evaluation on the
+     morning of [**2898-7-17**]. Findings were discussed with Dr. [**Last Name (STitle) 11326**] on [**2898-7-17**] at the
+     time of interpretation.
+
+",,
+14747,11548,18322,0,2898-07-17 16:14:00 EST,2898-07-17 16:16:00 EST,471,"N",1,"Nursing/Other",,"
+
+Resp. care note - Intubated pt. transffered from CAT LAB to CCU. Pt. intubated with #7 OET 20 at the lip, placed on the vent without incident.
+",,
+14747,11548,18322,0,2898-07-17 18:30:00 EST,2898-07-17 18:54:00 EST,1123,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+See FHPA for full admission details.
+
+CV: Arrived from cath lab on dopamine @ 10mcg, weaned to 7mcg/kg/min. Tele SR-ST 80s-100s, frequent PVCs. Integrillin @ 2mcg/kg/min, d/c @ 1100 tomorrow. Received 600mg in cath lab. PA line and arterial sheath in R groin, ooze noted on dsg. CVP 11-15, PAP 30s/15-20. Dopplerable DP/PT pulses. R arm-s/p pseudoaneurysm repair, incision covered w/ DSD and Ace wrap, to be changed by vascular unless dsg is saturated. Dopplerable ulnar/radial pulses, fingers cool and pale. Received 1uPRBC post-op, post-cath Hct down to 25. 1uPRBC infusing. ICa 1.06, to receiving CaGluconate.
+
+Neuro: Initially on propofol @ 70mcg, had received fentanyl/versed in cath lab for sedation. Not responding to noxious stimuli, propofol turned off to assess MS, waiting for it to wear off. 
+
+Pulm: LS crackles/coarse. Remains intubated post-op on SIMV 550/14/50%/5/PS 10, ABG 7.32/49/113, HO to address vent changes.
+
+GI/GU: +BS, abd soft, non-tender. OGtube in place. NPO except meds. Foley patent, draining cl yellow urine. 1/2NS @ 125cc/hr x 2L. 
+
+Endo: Had been on insulin gtt in OR and cath lab. On arrival to CCU BS [**2853-12-13**] amp D50, repeat 67-another 1/2amp D50. Repeat BS 160.
+
+Access: RIJ TLC from OSH, R radial Aline, R femoral Aline and PA line. Femoral ALine to be pulled from groin.
+
+Social: Pt lives in [**State 616**]-her daughters and husband are in [**State 616**] as well and aren't able to come down to [**Location (un) **]. She lives at home w/ her husband who is also on home O2 and wheelchair bound. Her daughters are her spokespersons, Dr [**Last Name (STitle) **] to call them and update on her condition.
+
+A/P 70y.o. woman s/p L arm pseudoaneurysm repair, high risk LAD stent x 2 requiring pressor support. Transfuse for Hct <30. Monitor L arm pulses Q1hr, call vascular for changes. Wean vent and extubate in AM. D/C femoral aline. Keep family updated on POC.
+",,
+14747,11548,18322,,2898-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-18**] 8:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12107**]
+     Reason: please eval for infiltrate                                  
+     Admitting Diagnosis: ? CABGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old woman with 3vd now s/p intubation for brachial artery repair now 
+      s/p cath
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  70 year-old-woman with three vessel disease status post intubation
+     for right brachial artery repair.  Evalute for infiltrates.
+     
+     COMPARISON:  [**2898-7-17**].
+     
+     CHEST, AP:  The right IJ, CVL, and ETT are in unchanged position.  The NGT
+     enters stomach for passing out of view of image.  PA catheter tip is at the
+     pulmonary outflow tract via groin approach.  The cardiac, mediastinal, and
+     hilar contours are stable in appearance.  The patient is status post median
+     sternotomy.  The pulmonary vasculature is normal.  Right basilar atelectasis
+     is stable in approximately.  Left lower lobe atelectasis vs. scarring is
+     stable in appearance.
+     
+     IMPRESSION:  No evidence of new infiltrates or other acute cardiopulmonary
+     process.  PA catheter tip at pulmonary outflow tract and can be advanced
+     several centimeters to prevent reflux of the catheter into the right
+     ventricle.
+
+",,
+14747,11548,18322,0,2898-07-18 03:43:00 EST,2898-07-18 03:47:00 EST,650,"N",1,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt remain orally intubated and sedated during shift. We received on SIMV + PS  and we were able to wean slowly to PSV, will attemot RSBI B4 end of shift. Plan: elective extubation.
+",,
+14747,11548,18322,0,2898-07-18 05:34:00 EST,2898-07-18 05:47:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:sedated w propofol gtt-presently @ 30mcg weaned w goal dc & extubation in am. responsive-nodding appropriately-falls back asleep when left alone. chged to cpap/ps 0400-40%/14/5/15 w abg- 7.35/ 49/124/28/0. am rsbi <60. breath sounds=clear. sx-thick white secretions. unable to dc dopa presently @ 6mcg. #'s x1 improve co/ci. integ dced @ 0100 due to platelets-8-transfused w 1u platelets. hct 23.8 transfused w 2urbc- repeat 32. r fem aline dced-site eccymotic w hematoma-wo increase over night. pulses all dopplerable. l arm-dsg chged by [**Doctor First Name **]-site approximated wo fresh drainage-old serosang-pulses dopplerable w ulnar palpable. adeq uo-pos i&o. low grade t.
+
+a:unable to wean dc dopa. required rbc & platelets for low numbers. tolerating vent wean. pulses all dopperable-legs & l arm. r fem site stable.
+
+p:wean vent w goal extubation. wean dopa as tolerated. reck labs replace as indicated. support as indicated.   
+",,
+14747,11548,18322,0,2898-07-18 13:19:00 EST,2898-07-18 13:45:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV: S/P STENTS/arm pain","
+CCU NSG NOTE: ALT IN CV: S/P STENTS/arm pain
+S: ""I hurt, my arm hurts"".
+O: For complete VS see CCU flow sheet.
+CV: Pt not c/o of chest pain. HR 80-90s NSR with frequent single PVCs. Pt K+ replaced with repeat K+ 4.6. Dopamine was weaned and shut off at 10am with BP stable [**State/Zipcode 6442**]-/50s. PAP had increased from 30/20s to 40/30s. She was diuresed to lower pressures. Swan and R venous sheath out at 11:30 without problem. Groin has oozing from multiple skin tears and puncture sites. She also eccymotic. PUlses in both feet easily dopplerable. Feet are warm, CSM nl. 
+RESP: Pt stable on CPAP with RSBI of 55. She was extubated at 1415 without problem. She is sating 98% on 2L NP. Gas is pending. She has course breath sounds with some rales at the bases. She had scant white secretions. 
+HEME: Pt crit dropped to 26.3 this am. She is receiving the first of 2 units now. Platelets dropped from 31 to 23 at noon. She will have more platelets drawn at 4pm. Integrellin is thought to be the source of thrombocytopenia, but all heparin products have also been removed. She is on pnuemoboots for DVT profilaxis.
+RENAL: Her creatinine is 1. She received lasix 40mg IV at 11am. SHe is presently ~400cc neg for the day and ~500cc pos LOS (counting this unit of cells). 
+GI: She initally had coffee grounds in stomach. Now she has bile, though it is mildly heme positive. She has been started on PPI. No bm.
+ENDO: Insulin gtt off. SHe is on ss reg insulin [**Doctor Last Name **] received it at 8 adn noon. 
+SKIN/WOUND: Groin area very eccymotic with numerous skin tears. She has adaptic and DSD in area. L arm dsg was changed in am and while very eccymotic and edematous, there was no oozing and staples looked clean. 
+COMFORT/MS: Pt started receiving fentanyl while intubated as she looked uncomfortable. Once extubated she c/o of severe L arm pain. She denies pain elsewhere. She has received 50mic/fentanyl with minimal relief. She will receive another 25mic now and may require a pca to control discomfort. 
+SOCIAL: Family has called and been informed of pt condition. They will be in to visit tomorrow.
+A: Extubated/severe surgical pain
+P: Cont trying to control L arm pain. Check results of gas. Check crit and platelets at 4pm. Keep careful I & O. Transfuse 2nd unit. Support pt and family.
+
+",,
+14747,11548,18322,0,2898-07-18 17:52:00 EST,2898-07-18 18:02:00 EST,958,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S: ""I'm in so much pain.""
+
+O: Pt c/o great amt of pain throughout L arm.  Dsg is C&D ulnar and radial pulses present. seen by pain service for more effective pain management. Given Dilaudid .5mg IV x's 2 with better effect. Pain is 4 on scale of 1-10. Pt is alert and oriented. Able to move in bed. L arm remains elevated. 1st unit of blood done second unit infusing at present. 4pm hct 31.4 platlets 25 up from 23. No tx at this time.  Repeat plt count at 8pm. Lungs are coarse throughout.
+
+A&P: Plt count increasing slowly. Cont to assess pain management. Check repeat hct, plt count. Dilaudid and Ativan IV prn.
+",,
+14747,11548,18322,0,2898-07-19 03:02:00 EST,2898-07-19 03:41:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note:","
+CCU Nursing Progress Note:
+S-""Oh, help me!""
+
+O-MS:Calling out ""help me"" when recieved for shift. Pt crying and teary eyed. Asked to identify source of pain and unable to state source. Asked if arm source of pain and pt nodding head up and down. Given 2mg of Dilaudid IVP and 1mg of Ativan and pt becoming sedate for several hours but appearing very comfortable. Later awakening and crying and teary and given 1mg of Dilaudid with same effect. Currently given .25mg of Diluadid q2hrs with inital effect. When asked if pain tolerable pt nodding head up and down but no longer calling out with periods of breakthrough pain. Later .25mg of Dilaudid not holding pt long enough and increasing .25mg of Dilaudid to every hour and awaiting affect. Neurontin dose given. No further Ativan given this shift. 
+
+CV/HEME:HR 77-86, NSR with occasional PVCs. K and MG normal. BPs 103-121/48-54. CVPs without respiratory artifact [**11-27**]. Skin pale and dry. Left arm dressing with ace left intact with no drainage noted at dressing site. Ulnar pulses palpable and radial pulses dopplerable distal to that site. Right groin with re-absorbing hematoma, area soft with eccyhmotic areas lateral to inciscion site and extension to pubis. Small amount of serous drainage. Dsg changed times one with Adaptic and DSD to folds. Ruling out thus far by MB although CKs continue to climb. HCT on repeat 2hrs post transfusion 33.1 with AM HCT pending. PLTs 22,000 with no futher blood products given this shift. 
+
+RESP:Breath sounds diminished at bases. O2Sats 93-96% on 1LNP. RA Sat 90-92%. Early in shift attempting to place patient on cool neb mask with 40% FiO2 for humidity for dry mucous membranes but ABG with worsening respiratory acidosis, 7.30/54/[**Street Address 6443**] back to NP with minimal O2 just emough to keep Sats > 92%. Repeat ABG pending this morning. 
+
+GU/GI:Foley patent and drainging clear yellow urine. UA, UCx and urine lytes sent and peding. HUO 25-60cc/hr. HUO trending down toward morning to 25cc/hr. Given 40mg of Lasix IVP with fair repsonse, thus far 280cc our from diuresis. At MN (-) 598ccs and for LOS (+) 672. 
+Creat stable as of yesterday [**2898-7-17**]. Abd soft and obese in appearance with (+) BSs. When awake taking POs well. Given clear liqs overnight.
+No BMs this shift.
+
+ID:Afebrile with occasional low grade temps. Currently on no abx. WBC normal. 
+
+ENDO:FSs normal. AM FS pending. Following FS QID
+
+SOC:Brother ""[**Male First Name (un) **]"" calling to get update on patient, stating will be in tommorow to visit. 
+
+A/P:70 yo female s/p cardiac cath comlicated by left brachial aneurysm and right groin hematoma requiring fluid and blood resciutation. Currently with stable hemodynamic but still some difficulty managing pain. 
+
+Re-consult pain service, may need another [**Doctor Last Name 50**] or something for breakthrough
+Continue to follow HCTs,PLTs, and LYTES throughout day
+In addition follow rising CKs, possible candidate for rabdo
+Monitor pulses throughout 
+Continue emotional support
+
+
+
+
+
+
+
+",,
+14747,11548,18322,0,2898-07-19 16:49:00 EST,2898-07-19 17:20:00 EST,118,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+CV: HR 70-80's NSR, no ectopy, BP 90-110/40's earlier in day, this afternoon BP running 110-150/60, Pulses in feet palp, L radial/ulner dopplerable, feet and hands warm. L arm wrapped in ace, dressing changed and arm rewrapped by surgery at 6A. If needs to be rewrapped, ace has to be down over fingers. CK's 1000, MB flat(skeletal muscle/OR). hematoma/eccymosis at r groin, skin tears in fold, vaseline gauze and ABD applied. 
+
+Pain: pt asleep this AM, when awakened, has severe pain in L arm, given dialudid .25mg q 1 hr all night, at time of rounds and exam, given .5mg. Pt started on dilaudid PCA with basal rate of .25mg/hr, may dose herself .25mg up to 3 additional times in 1 hr for max hourly dose of 1mg. Pt has been sleeping most of day, arousable, falls back to [**Doctor Last Name 8**] readily, RR 14-18, sats 95%. Pt has not had any addition dosing of dilaudid. At dinnertime was more alert, conversant, pain better controlled, tolerated moving in bed a little better, at some dinner(fed). Pt also emotional and teary at times, not related to pain. Was sorry that she missed her brothers visit, she did see him briefly but does not remember his visit. He will be back tomorrow. ON Neurontin, dilaudid, ativan prn per pain service recommendation. 
+
+Resp: LS clear, crackles at R base. Cough strong, productive of blood tinged sputum. (extubated yesterday)
+
+GU: UO 30-40cc/hr, -850cc, BUN/Cr 29/0.9 Lasix 40mg given at 3AM.
+
+Neuro: lethargic, arouses easily, oriented to person/place. Moaning at times this AM, better on dilaudid .25 hourly, may get extra prn dosing via PCA. Able to move lower ext, R arm, can wiggle L thumb. Follows commands consistantly. No Ativan today. 
+
+GI: taking in sm amts po today, no stool. 
+
+Skin: groin as discribed above, back without breakdown. 
+
+ID: afebrile, WBC 11.3
+
+Endo: BS 200-188, on ss Reg Ins. coverage. 
+
+Soc: daughter called from [**State 616**], would like pt transferred back to Main hosp when stable and ready to leave ICU if possible. Pt's brother in, lives in [**Location **], Ma, will be here tomorrow. Intern aware of family request with followup with surgery case management.
+
+A/P: better pain control with Dilaudid PCA, cont move pt as tolerated, enc C&DB, increase po intact, vit's added for healing. Hemodynamically stable. 
+
+
+
+
+",,
+14747,11548,18322,0,2898-07-19 18:20:00 EST,2898-07-19 18:22:00 EST,712,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT. GIVEN COMBIVENT MDI
+X 2 THIS SHIFT. GIVEN FLOVENT AND SEREVENT 
+INHALER X 1 THIS SHIFT AS PER CAREVUE.
+
+                 [**First Name11 (Name Pattern1) 257**] [**Last Name (NamePattern1) 258**], RRT
+                       
+",,
+14747,11548,18322,0,2898-07-20 05:32:00 EST,2898-07-20 05:54:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+7 PM - 7 AM
+S/P BRACHIAL ANEURYSM REPAIR ..LAD STENTING 
+RECIEVED PATIENT ALERT AND ORIENTED ...REPORTING ACHES AND DISCOMFORT EVERYWHERE IN HER BODY ..BUT UPON REVIEW OF PCA RECORD ..MINIMAL ATTEMPTS/INJECTIONS MADE BY PATIENT ..LEFT ARM ELEVATED ON 2 PILLOWS ..ARM WITH ACE WRAP INTACT ..FINGERS WARM ..CSM INTACT ..LEFT RADIAL PULSES CHECKED  AND PRESENT Q2 HOURS ...PCA INJECTIONS GIVEN TO PATIENT BY THIS RN IN PREPARATION FOR EVENING BATH AND POSITION CHANGES ..BECAME  VERY TEARY AT 0300 ..REQUESTING TO GO BACK TO [**State **] ..GIVEN .5 MG OF ATIVAN ..AT 0600..FOUND PATIENT CALLING OUT TO NEIGHBORS SHE SAW IN HER ROOM ..
+
+CV HR 60-70'S....SINUS ...SBP 100-140'S/50-70'S...
+
+RESP RR 18-22..UNLABORED ..ON 1-2 L NP ..02 SATS 98-99%...LUNGS DIMINISHED AT THE BASES ..INHALERS GIVEN BY RESP ..PROD OF DK BLD TINGED SXN'S...TOLERATING SIPS OF CLEAR LIXS
+
+GU ~~700 CC NEG AT MN...U/O 40-80 CC Q2 
+
+HEME ..HCT 29..PLT 40K
+
+INVASIVE LINES ..CENTRAL TRIPLE LUMEN..RIGHT RADIAL ALINE 
+
+A DISORIENTATION AND VISUAL HALLUCINATIONS FOLLOWING ATIVAN 
+
+P PT CONSULT ...ENCOURAGE  SELF CARE WITH ADL'S..ELEVATION AND PULSE CHECKS TO LEFT WRIST 
+",,
+14747,11548,18322,0,2898-07-20 16:59:00 EST,2898-07-20 17:01:00 EST,69,"N",1,"Nursing/Other",,"
+
+Mdi's treatments actuated to patient via spacer by RN on day shift;course of event will be discussed with night shift therapist during report.
+",,
+14747,11548,18322,0,2898-07-20 17:07:00 EST,2898-07-20 17:28:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV","
+CCU NSG NOTE: ALT IN CV
+S: ""I want to go home.""
+O: FOr complete VS see CCU flow sheet.
+CV: Pt chest pain free. HR was in mid 60s to 70s. She received lopressor 25mg po. Hr has since been in mid 40s to mid 50s SB with occ pvcs and pacs. BP has remained stable in 130-150/40s. Captopril has been held until hr comes up. R groin eccymotic and tender with many skin tears, but there is no hematoma. All pedal pulses dopplerable. 
+HEME: Crit 29.2. Platelet slowly increasing up to 40 today.
+RESP: RR 18-28 with long expiratory phaze. She had exp wheezes in am which cleared after MDIs. She is sating 95-98% on 2L NP. 
+SKIN/INCISION: L arm dsg changed. Arm is far less edematous than Friday. There is still sero-sang drainage from staple line. New ace wrap applied. Radial and ulnar pulses dopplerable, her fingers are warm with nl sensation. She was wiggling fingers and lifting arm today. R groin cleaned and vaseline gauze put in groin fold. Area still very tender. 
+GI: Pt eating- but still needs to be fed. Excellent apetite. No BM.
+RENAL: Urine output poor during am. Lasix 40mg IV given at 1400 with fair response. She is pos 100cc for the day and ~450cc los.
+ENDO: With increased po intake blood sugars have been climbing. Last was 221 for which she received 7u reg insulin.
+COMFORT/MS: Pt changed from dilaudid PCA to PO morphine sr 30mg QID. She had one episode of arm pain during transition from IV to PO, but has been pain free since except with movement. She is oriented X 2, though occasionally awakens disoriented, calling for family members, confusing me with friend. She can be reoriented. She occasionally becomes tearful, hoping to return home.
+ACTIVITY: Pt OOB to chair. She weight bears and took [**3-17**] steps without problem, but need some assist holding L arm. She has not yet been seen by PT.
+DISCHARGE: Family would like her to return to hospital near their home when she is ready. Either daughter can be contacted and their numbers are on the from of the green chart.
+A: Increasing activity and less pain/bradycardia with lopressor
+P: Hold lopressor dose. Assist pt with position changes. Cont with morphine SR q 6. Have pt do ROM when she c/o of pain and soreness. Monitor for change. Called out to floor. 
+",,
+14747,11548,18322,0,2898-07-21 04:22:00 EST,2898-07-21 04:33:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+7 PM - 7 AM
+S/P RIGHT BRACHIAL ANEURYSM 
+STENTING TO LAD LESION
+S C/O LEFT ARM PAIN
+DENIES CHEST PAIN OR SOB 
+CV BRADYCARDIC IN THE 40'S..ORAL LOPRESSOR HELD..SBP 150-170'S/70'S..CAPTOPRIL INCREASED TO 25 MG TID ..
+RESP CONTINUES ON 2L NP WITH INHALERS RTC ADM BY NURSING ..CXS AT RIGHT BASE AND DECREASED AT LEFT BASE ..CLEAR OF INSP AND EXP WHZS ..PROD COUGH OF OLD BLD TINGED SXNS ..
+GI C/O THIRST ..TOLERATING SIPS OF CLEAR LIXS ..OOB WITH ASSIST OF 2 TO DEFECATE ON COMMODE ..DENIES NAUSEA
+GU BRISK URINE OUTPUT RESPONSE TO 40 MG OF IV LASIX GIVEN AT 2200...
+HEME HCT 27 ...PLT 48K ..CONTINUES ON ASA AND PLAVIX
+LEFT ARM ELEVATED ON 3 PILLOWS ..FINGERS WARM ..GD CSM ..LEFT RADIAL PULSE BY DOPPLER 
+MEDICATED WITH 15-30 MG OF PO MS04...AFFECT AT TIMES TEARY ..VERBALIZING HOMESICKNESS ...
+A BRADYCARDIC DESPITE BETABLOCKERS HELD 
+P ENCOURAGE OOB ACTIVITY ...MORE INDEPENDENCE WITH ADLS/INHALERS 
+WORK TOWARD TRANSFER TO [**Doctor First Name 6444**] HOSP IN ME 
+",,
